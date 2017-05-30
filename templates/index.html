@@ -113,7 +113,7 @@ function runPyGetProbs(filename){
 		type: "POST",
 		url: "/getProbsGame",
 		async: true,
-		contentType: "application/json"
+		contentType: "application/json",
 		data: {myfile: filename}
 	});
 	return jqXHR.responseText;
