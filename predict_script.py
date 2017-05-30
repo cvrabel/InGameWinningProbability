@@ -7,7 +7,7 @@ import pandas as pd
 import math
 import classifier3
 import os
-import json
+import simplejson as json
 import pickle
 
 
