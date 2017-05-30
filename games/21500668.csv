@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+83400,21500668,4,12:00,nan,nan,84 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+83401,21500668,4,11:45,Dudley Bad Pass Turnover (P3.T17),Zeller STEAL (3 STL),nan,201162,Jared Dudley,WAS,203092,Tyler Zeller,BOS,0,nan,nan,Turnover ,Bad Pass
+83402,21500668,4,11:33,nan,MISS Turner 11' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83403,21500668,4,11:32,Porter Jr. REBOUND (Off:1 Def:5),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83404,21500668,4,11:22,nan,Zeller P.FOUL (P3.T1) (C.Blair),nan,203092,Tyler Zeller,BOS,2403,Nene,WAS,0,nan,nan,Foul ,Personal
+83405,21500668,4,11:09,MISS Nene 17' Jump Shot,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83406,21500668,4,11:08,nan,Olynyk REBOUND (Off:0 Def:2),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83407,21500668,4,10:55,nan,Olynyk Bad Pass Turnover (P1.T9),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+83408,21500668,4,10:39,nan,Zeller S.FOUL (P4.T2) (P.Fraher),nan,203092,Tyler Zeller,BOS,201162,Jared Dudley,WAS,0,nan,nan,Foul ,Shooting
+83409,21500668,4,10:39,MISS Dudley Free Throw 1 of 2,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83410,21500668,4,10:39,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+83411,21500668,4,10:39,Dudley Free Throw 2 of 2 (13 PTS),nan,84 - 71,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83412,21500668,4,10:27,nan,MISS Zeller 10' Jump Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83413,21500668,4,10:26,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83414,21500668,4,10:19,Porter Jr. Bad Pass Turnover (P1.T18),Turner STEAL (1 STL),nan,203490,Otto Porter Jr.,WAS,202323,Evan Turner,BOS,0,nan,nan,Turnover ,Bad Pass
+83415,21500668,4,10:13,Porter Jr. S.FOUL (P2.T1) (P.Fraher),nan,nan,203490,Otto Porter Jr.,WAS,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+83416,21500668,4,10:13,nan,Olynyk Free Throw 1 of 2 (9 PTS),85 - 71,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83417,21500668,4,10:13,nan,Olynyk Free Throw 2 of 2 (10 PTS),86 - 71,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83418,21500668,4,10:02,Dudley 20' Jump Shot (15 PTS) (Sessions 1 AST),nan,86 - 73,201162,Jared Dudley,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+83419,21500668,4,9:46,nan,MISS Olynyk 18' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83420,21500668,4,9:44,Dudley REBOUND (Off:0 Def:2),nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83421,21500668,4,9:36,Sessions 1' Driving Finger Roll Layup (8 PTS) (Porter Jr. 2 AST),nan,86 - 75,201196,Ramon Sessions,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+83422,21500668,4,9:26,Nene FLAGRANT.FOUL.TYPE1 (P1.T2) (P.Fraher),nan,nan,2403,Nene,WAS,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Flagrant Type 1
+83423,21500668,4,9:26,nan,nan,nan,436,Juwan Howard,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+83424,21500668,4,9:26,nan,Smart Free Throw Flagrant 1 of 2 (7 PTS),87 - 75,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+83425,21500668,4,9:26,nan,MISS Smart Free Throw Flagrant 2 of 2,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+83426,21500668,4,9:26,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+83427,21500668,4,9:19,Dudley STEAL (1 STL),Smart Bad Pass Turnover (P1.T10),nan,203935,Marcus Smart,BOS,201162,Jared Dudley,WAS,0,nan,nan,Turnover ,Bad Pass
+83428,21500668,4,9:14,nan,Olynyk S.FOUL (P2.T3) (P.Fraher),nan,203482,Kelly Olynyk,BOS,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+83429,21500668,4,9:14,MISS Nene Free Throw 1 of 2,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83430,21500668,4,9:14,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+83431,21500668,4,9:14,MISS Nene Free Throw 2 of 2,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83432,21500668,4,9:13,nan,Crowder REBOUND (Off:1 Def:4),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83433,21500668,4,9:00,nan,MISS Smart 19' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83434,21500668,4,8:58,Oubre Jr. REBOUND (Off:0 Def:1),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83435,21500668,4,8:53,nan,Smart P.FOUL (P4.T4) (M.Lindsay),nan,203935,Marcus Smart,BOS,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Personal
+83436,21500668,4,8:53,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+83437,21500668,4,8:53,SUB: Gortat FOR Nene,nan,nan,2403,Nene,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+83438,21500668,4,8:53,SUB: Wall FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+83439,21500668,4,8:43,nan,Zeller S.FOUL (P5.PN) (P.Fraher),nan,203092,Tyler Zeller,BOS,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Shooting
+83440,21500668,4,8:43,Sessions Free Throw 1 of 2 (9 PTS),nan,87 - 76,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83441,21500668,4,8:43,MISS Sessions Free Throw 2 of 2,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83442,21500668,4,8:42,nan,Olynyk REBOUND (Off:0 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83443,21500668,4,8:22,nan,Turner  Layup (12 PTS),89 - 76,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+83444,21500668,4,8:12,MISS Gortat 10' Jump Shot,nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83445,21500668,4,8:11,nan,Turner REBOUND (Off:0 Def:2),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83446,21500668,4,7:59,nan,Turner 1' Reverse Layup (14 PTS) (Zeller 1 AST),91 - 76,202323,Evan Turner,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+83447,21500668,4,7:40,Gortat Lost Ball Turnover (P3.T19),Olynyk STEAL (1 STL),nan,101162,Marcin Gortat,WAS,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Lost Ball
+83448,21500668,4,7:30,nan,Crowder  3PT Jump Shot (11 PTS) (Smart 3 AST),94 - 76,203109,Jae Crowder,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+83449,21500668,4,7:28,WIZARDS Timeout: Regular (Full 4 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83450,21500668,4,7:17,Porter Jr. 7' Floating Jump Shot (15 PTS) (Wall 9 AST),nan,94 - 78,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+83451,21500668,4,6:56,nan,MISS Olynyk 4' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83452,21500668,4,6:55,nan,Smart REBOUND (Off:1 Def:4),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83453,21500668,4,6:51,nan,Olynyk 27' 3PT Jump Shot (13 PTS) (Smart 4 AST),97 - 78,203482,Kelly Olynyk,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+83454,21500668,4,6:34,MISS Porter Jr. 17' Jump Shot,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83455,21500668,4,6:34,nan,Turner REBOUND (Off:0 Def:3),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83456,21500668,4,6:25,nan,Turner 19' Pullup Jump Shot (16 PTS),99 - 78,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+83457,21500668,4,6:14,MISS Porter Jr. 1' Layup,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83458,21500668,4,6:13,nan,Zeller REBOUND (Off:0 Def:1),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83459,21500668,4,6:06,nan,Smart 27' 3PT Step Back Jump Shot (10 PTS) (Turner 3 AST),102 - 78,203935,Marcus Smart,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+83460,21500668,4,5:46,Sessions 19' Jump Bank Shot (11 PTS) (Wall 10 AST),nan,102 - 80,201196,Ramon Sessions,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+83461,21500668,4,5:19,nan,MISS Turner 17' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83462,21500668,4,5:18,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83463,21500668,4,5:18,SUB: Gooden FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,2400,Drew Gooden,WAS,0,nan,nan,Substitution ,nan
+83464,21500668,4,5:18,SUB: Eddie FOR Wall,nan,nan,202322,John Wall,WAS,204067,Jarell Eddie,WAS,0,nan,nan,Substitution ,nan
+83465,21500668,4,5:10,MISS Eddie 25' 3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83466,21500668,4,5:09,nan,Zeller REBOUND (Off:0 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83467,21500668,4,4:51,SUB: Blair FOR Dudley,nan,nan,201162,Jared Dudley,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Substitution ,nan
+83468,21500668,4,4:47,nan,MISS Smart 26' 3PT Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83469,21500668,4,4:46,nan,Olynyk REBOUND (Off:1 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83470,21500668,4,4:34,SUB: Oubre Jr. FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+83471,21500668,4,4:29,nan,MISS Crowder 21' Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83472,21500668,4,4:28,Eddie REBOUND (Off:0 Def:1),nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83473,21500668,4,4:18,MISS Blair 16' Jump Shot,nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83474,21500668,4,4:17,nan,Turner REBOUND (Off:0 Def:4),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83475,21500668,4,4:02,nan,Turner 13' Jump Shot (18 PTS),104 - 80,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+83476,21500668,4,3:55,nan,SUB: Rozier FOR Crowder,nan,203109,Jae Crowder,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+83477,21500668,4,3:46,MISS Oubre Jr. 26' 3PT Jump Shot,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83478,21500668,4,3:45,nan,Smart REBOUND (Off:1 Def:5),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83479,21500668,4,3:34,nan,MISS Turner 13' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83480,21500668,4,3:32,Blair REBOUND (Off:0 Def:1),nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83481,21500668,4,3:26,Oubre Jr.  Cutting Dunk Shot (2 PTS) (Sessions 2 AST),nan,104 - 82,1626162,Kelly Oubre Jr.,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+83482,21500668,4,3:07,nan,Smart 27' 3PT Jump Shot (13 PTS) (Zeller 2 AST),107 - 82,203935,Marcus Smart,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+83483,21500668,4,2:52,MISS Eddie 18' Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83484,21500668,4,2:51,nan,Turner REBOUND (Off:0 Def:5),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83485,21500668,4,2:47,nan,Olynyk Out of Bounds Lost Ball Turnover (P2.T11),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+83486,21500668,4,2:47,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83487,21500668,4,2:47,nan,SUB: Young FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+83488,21500668,4,2:47,nan,SUB: Jerebko FOR Turner,nan,202323,Evan Turner,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+83489,21500668,4,2:35,MISS Blair 11' Jump Shot,nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83490,21500668,4,2:34,nan,Rozier REBOUND (Off:0 Def:1),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83491,21500668,4,2:21,nan,Jerebko  Driving Dunk (2 PTS) (Smart 5 AST),109 - 82,201973,Jonas Jerebko,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+83492,21500668,4,1:53,Eddie 26' 3PT Floating Jump Shot (3 PTS),nan,109 - 85,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+83493,21500668,4,1:39,nan,Zeller 19' Jump Shot (9 PTS) (Rozier 1 AST),111 - 85,203092,Tyler Zeller,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+83494,21500668,4,1:31,nan,Rozier S.FOUL (P1.PN) (C.Blair),nan,1626179,Terry Rozier,BOS,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Shooting
+83495,21500668,4,1:31,MISS Sessions Free Throw 1 of 2,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83496,21500668,4,1:31,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+83497,21500668,4,1:31,Sessions Free Throw 2 of 2 (12 PTS),nan,111 - 86,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83498,21500668,4,1:16,nan,MISS Smart 27' 3PT Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83499,21500668,4,1:15,nan,Rozier REBOUND (Off:1 Def:1),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83500,21500668,4,1:13,nan,Young 24' 3PT Jump Shot (3 PTS) (Rozier 2 AST),114 - 86,203923,James Young,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+83501,21500668,4,1:05,MISS Eddie 28' 3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83502,21500668,4,1:04,nan,Zeller REBOUND (Off:0 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83503,21500668,4,0:54,nan,MISS Rozier 2' Layup,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83504,21500668,4,0:53,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83505,21500668,4,0:38,Oubre Jr. Lost Ball Turnover (P1.T20),Jerebko STEAL (1 STL),nan,1626162,Kelly Oubre Jr.,WAS,201973,Jonas Jerebko,BOS,0,nan,nan,Turnover ,Lost Ball
+83506,21500668,4,0:34,nan,Young 1' Cutting Finger Roll Layup Shot (5 PTS) (Jerebko 1 AST),116 - 86,203923,James Young,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+83507,21500668,4,0:28,Eddie 28' 3PT Jump Shot (6 PTS) (Sessions 3 AST),nan,116 - 89,204067,Jarell Eddie,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+83508,21500668,4,0:08,nan,MISS Jerebko 15' Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83509,21500668,4,0:07,Oubre Jr. REBOUND (Off:0 Def:2),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83510,21500668,4,0:00,Oubre Jr.  Driving Dunk (4 PTS),nan,116 - 91,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+83511,21500668,4,0:00,nan,nan,116 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

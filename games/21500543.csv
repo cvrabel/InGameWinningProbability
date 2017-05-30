@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+67745,21500543,4,12:00,nan,nan,95 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+67746,21500543,4,11:40,Towns 15' Jump Shot (16 PTS) (LaVine 1 AST),nan,95 - 78,1626157,Karl-Anthony Towns,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+67747,21500543,4,11:15,nan,MISS Irving 5' Floating Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67748,21500543,4,11:14,Dieng REBOUND (Off:0 Def:6),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67749,21500543,4,11:03,MISS Muhammad 10' Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67750,21500543,4,11:02,nan,Mozgov REBOUND (Off:1 Def:5),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67751,21500543,4,10:54,nan,Irving 18' Jump Shot (8 PTS) (Shumpert 1 AST),97 - 78,202681,Kyrie Irving,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+67752,21500543,4,10:37,Dieng 3 Second Violation Turnover (P1.T7),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+67753,21500543,4,10:37,nan,SUB: James FOR Jefferson,nan,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+67754,21500543,4,10:16,nan,MISS James 24' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67755,21500543,4,10:14,nan,Mozgov REBOUND (Off:2 Def:5),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67756,21500543,4,10:13,Dieng STEAL (1 STL),Mozgov Bad Pass Turnover (P2.T10),nan,202389,Timofey Mozgov,CLE,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Bad Pass
+67757,21500543,4,10:09,Towns 1' Running Dunk (18 PTS) (LaVine 2 AST),nan,97 - 80,1626157,Karl-Anthony Towns,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+67758,21500543,4,9:44,nan,Shumpert 1' Driving Layup (13 PTS),99 - 80,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67759,21500543,4,9:31,nan,Irving S.FOUL (P3.T1) (J.Tiven),nan,202681,Kyrie Irving,CLE,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+67760,21500543,4,9:31,Muhammad Free Throw 1 of 2 (19 PTS),nan,99 - 81,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67761,21500543,4,9:31,SUB: Wiggins FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+67762,21500543,4,9:31,Muhammad Free Throw 2 of 2 (20 PTS),nan,99 - 82,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67763,21500543,4,9:06,nan,Shumpert 24' 3PT Jump Shot (16 PTS) (Irving 2 AST),102 - 82,202697,Iman Shumpert,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+67764,21500543,4,8:39,TIMBERWOLVES Turnover: Shot Clock (T#8),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+67765,21500543,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67766,21500543,4,8:26,LaVine S.FOUL (P1.T1) (B.Kennedy),nan,nan,203897,Zach LaVine,MIN,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+67767,21500543,4,8:26,nan,Irving Free Throw 1 of 2 (9 PTS),103 - 82,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67768,21500543,4,8:26,nan,Irving Free Throw 2 of 2 (10 PTS),104 - 82,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67769,21500543,4,8:17,Wiggins Lost Ball Turnover (P3.T9),Shumpert STEAL (2 STL),nan,203952,Andrew Wiggins,MIN,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Lost Ball
+67770,21500543,4,8:01,nan,James 13' Turnaround Fadeaway (13 PTS),106 - 82,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67771,21500543,4,7:46,MISS Muhammad 25' 3PT Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67772,21500543,4,7:44,nan,Mozgov REBOUND (Off:2 Def:6),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67773,21500543,4,7:36,nan,Irving 25' 3PT Jump Shot (13 PTS),109 - 82,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67774,21500543,4,7:36,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67775,21500543,4,7:27,LaVine Bad Pass Turnover (P1.T10),nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+67776,21500543,4,7:09,nan,MISS Irving 25' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67777,21500543,4,7:08,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67778,21500543,4,7:08,nan,SUB: Jefferson FOR James,nan,2544,LeBron James,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+67779,21500543,4,6:54,LaVine 20' Jump Shot (2 PTS) (Towns 3 AST),nan,109 - 84,203897,Zach LaVine,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+67780,21500543,4,6:36,nan,Shumpert 21' Jump Shot (18 PTS),111 - 84,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67781,21500543,4,6:15,MISS Wiggins 25' 3PT Step Back Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67782,21500543,4,6:14,Muhammad REBOUND (Off:2 Def:0),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67783,21500543,4,6:12,Muhammad  Putback Layup (22 PTS),nan,111 - 86,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+67784,21500543,4,5:45,nan,MISS Shumpert 18' Step Back Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67785,21500543,4,5:44,Martin REBOUND (Off:0 Def:2),nan,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67786,21500543,4,5:35,Towns 8' Turnaround Jump Shot (20 PTS) (Martin 2 AST),nan,111 - 88,1626157,Karl-Anthony Towns,MIN,2755,Kevin Martin,MIN,0,nan,nan,Made Shot ,nan
+67787,21500543,4,5:13,nan,Shumpert 25' 3PT Jump Shot (21 PTS) (Dellavedova 2 AST),114 - 88,202697,Iman Shumpert,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+67788,21500543,4,4:50,MISS LaVine 1' Layup,Mozgov BLOCK (1 BLK),nan,203897,Zach LaVine,MIN,0,nan,nan,202389,Timofey Mozgov,CLE,Missed Shot ,nan
+67789,21500543,4,4:48,Martin REBOUND (Off:1 Def:2),nan,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67790,21500543,4,4:42,MISS Martin 39' 3PT Jump Shot,nan,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67791,21500543,4,4:41,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67792,21500543,4,4:41,SUB: Bjelica FOR Martin,nan,nan,2755,Kevin Martin,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+67793,21500543,4,4:41,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67794,21500543,4,4:41,nan,SUB: Cunningham FOR Irving,nan,202681,Kyrie Irving,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Substitution ,nan
+67795,21500543,4,4:41,nan,SUB: Jones FOR Dellavedova,nan,203521,Matthew Dellavedova,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+67796,21500543,4,4:25,nan,MISS Cunningham 21' Jump Shot,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67797,21500543,4,4:24,Bjelica REBOUND (Off:0 Def:2),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67798,21500543,4,4:22,Bjelica Lost Ball Turnover (P1.T11),Shumpert STEAL (3 STL),nan,202357,Nemanja Bjelica,MIN,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Lost Ball
+67799,21500543,4,4:16,nan,MISS Shumpert 15' Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67800,21500543,4,4:15,nan,Mozgov REBOUND (Off:3 Def:6),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67801,21500543,4,4:15,nan,Mozgov  Tip Layup Shot (4 PTS),116 - 88,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67802,21500543,4,3:59,LaVine Bad Pass Turnover (P2.T12),Shumpert STEAL (4 STL),nan,203897,Zach LaVine,MIN,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+67803,21500543,4,3:55,nan,Jefferson Out of Bounds Lost Ball Turnover (P1.T11),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+67804,21500543,4,3:41,Towns 21' Jump Shot (22 PTS),nan,116 - 90,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+67805,21500543,4,3:22,nan,MISS Shumpert 25' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67806,21500543,4,3:21,LaVine REBOUND (Off:0 Def:4),nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67807,21500543,4,3:17,MISS LaVine 4' Running Jump Shot,Mozgov BLOCK (2 BLK),nan,203897,Zach LaVine,MIN,0,nan,nan,202389,Timofey Mozgov,CLE,Missed Shot ,nan
+67808,21500543,4,3:17,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67809,21500543,4,3:05,Wiggins 14' Pullup Jump Shot (30 PTS),nan,116 - 92,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+67810,21500543,4,2:53,Towns S.FOUL (P3.T2) (B.Kennedy),nan,nan,1626157,Karl-Anthony Towns,MIN,202389,Timofey Mozgov,CLE,0,nan,nan,Foul ,Shooting
+67811,21500543,4,2:53,nan,Mozgov Free Throw 1 of 2 (5 PTS),117 - 92,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67812,21500543,4,2:53,nan,MISS Mozgov Free Throw 2 of 2,nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67813,21500543,4,2:53,Towns REBOUND (Off:1 Def:4),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67814,21500543,4,2:36,nan,Mozgov S.FOUL (P3.T2) (B.Kennedy),nan,202389,Timofey Mozgov,CLE,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+67815,21500543,4,2:36,Wiggins Free Throw 1 of 2 (31 PTS),nan,117 - 93,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67816,21500543,4,2:36,Wiggins Free Throw 2 of 2 (32 PTS),nan,117 - 94,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67817,21500543,4,2:19,nan,Cunningham 3' Running Finger Roll Layup (2 PTS),119 - 94,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+67818,21500543,4,1:59,MISS Bjelica 25' 3PT Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67819,21500543,4,1:58,Towns REBOUND (Off:2 Def:4),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67820,21500543,4,1:54,Towns Bad Pass Turnover (P2.T13),Jefferson STEAL (1 STL),nan,1626157,Karl-Anthony Towns,MIN,2210,Richard Jefferson,CLE,0,nan,nan,Turnover ,Bad Pass
+67821,21500543,4,1:51,LaVine S.FOUL (P2.T3) (B.Kennedy),nan,nan,203897,Zach LaVine,MIN,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Shooting
+67822,21500543,4,1:51,nan,Cunningham Free Throw 1 of 2 (3 PTS),120 - 94,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67823,21500543,4,1:51,SUB: Payne FOR Towns,nan,nan,1626157,Karl-Anthony Towns,MIN,203940,Adreian Payne,MIN,0,nan,nan,Substitution ,nan
+67824,21500543,4,1:51,nan,Cunningham Free Throw 2 of 2 (4 PTS),121 - 94,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67825,21500543,4,1:37,MISS Payne 25' 3PT Jump Shot,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67826,21500543,4,1:36,nan,Shumpert REBOUND (Off:0 Def:3),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67827,21500543,4,1:30,nan,Mozgov  Dunk (7 PTS) (Jefferson 3 AST),123 - 94,202389,Timofey Mozgov,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Made Shot ,nan
+67828,21500543,4,1:20,Wiggins 25' 3PT Jump Shot (35 PTS),nan,123 - 97,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+67829,21500543,4,0:58,nan,Shumpert 17' Jump Shot (23 PTS) (Jefferson 4 AST),125 - 97,202697,Iman Shumpert,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Made Shot ,nan
+67830,21500543,4,0:49,MISS Muhammad 7' Floating Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67831,21500543,4,0:48,nan,Cunningham REBOUND (Off:0 Def:1),nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67832,21500543,4,0:36,nan,MISS Jefferson 25' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67833,21500543,4,0:35,Bjelica REBOUND (Off:0 Def:3),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67834,21500543,4,0:24,Payne 19' Jump Shot (2 PTS) (Wiggins 3 AST),nan,125 - 99,203940,Adreian Payne,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+67835,21500543,4,0:00,nan,Cavaliers Turnover: Shot Clock (T#12),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+67836,21500543,4,0:00,nan,nan,125 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

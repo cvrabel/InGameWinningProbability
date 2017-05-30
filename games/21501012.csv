@@ -1,0 +1,165 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+126495,21501012,4,12:00,nan,nan,63 - 60,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+126496,21501012,4,11:54,Allen P.FOUL (P4.T1) (S.Corbin),nan,nan,202730,Lavoy Allen,IND,201574,Jason Thompson,TOR,0,nan,nan,Foul ,Personal
+126497,21501012,4,11:38,nan,Joseph Double Dribble Turnover (P1.T12),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+126498,21501012,4,11:26,Stuckey Bad Pass Turnover (P1.T12),Ross STEAL (2 STL),nan,201155,Rodney Stuckey,IND,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Bad Pass
+126499,21501012,4,11:09,Stuckey STEAL (2 STL),DeRozan Bad Pass Turnover (P1.T13),nan,201942,DeMar DeRozan,TOR,201155,Rodney Stuckey,IND,0,nan,nan,Turnover ,Bad Pass
+126500,21501012,4,11:09,nan,Thompson L.B.FOUL (P3.T1) (J.Goble),nan,201574,Jason Thompson,TOR,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Loose Ball
+126501,21501012,4,10:55,Allen 10' Turnaround Hook Shot (2 PTS),nan,63 - 62,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126502,21501012,4,10:34,nan,MISS Patterson 12' Turnaround Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126503,21501012,4,10:33,S. Hill REBOUND (Off:0 Def:6),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126504,21501012,4,10:21,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126505,21501012,4,10:21,nan,Joseph REBOUND (Off:0 Def:3),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126506,21501012,4,10:03,nan,Ross  3PT Jump Shot (6 PTS) (DeRozan 3 AST),66 - 62,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+126507,21501012,4,9:46,Allen Offensive Charge Foul (P5.T2) (M.Ervin),nan,nan,202730,Lavoy Allen,IND,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Offensive Charge
+126508,21501012,4,9:46,Allen Foul Turnover (P3.T13),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+126509,21501012,4,9:46,nan,SUB: Lowry FOR DeRozan,nan,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+126510,21501012,4,9:46,SUB: Turner FOR Allen,nan,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+126511,21501012,4,9:33,Miles BLOCK (2 BLK),MISS Ross 10' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,101139,CJ Miles,IND,Missed Shot ,nan
+126512,21501012,4,9:32,Turner REBOUND (Off:1 Def:4),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126513,21501012,4,9:12,Miles 14' Driving Floating Jump Shot (5 PTS),nan,66 - 64,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126514,21501012,4,9:00,nan,MISS Joseph 2' Driving Reverse Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126515,21501012,4,8:59,Turner REBOUND (Off:1 Def:5),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126516,21501012,4,8:53,Miles 25' 3PT Jump Shot (8 PTS) (Stuckey 3 AST),nan,66 - 67,101139,CJ Miles,IND,201155,Rodney Stuckey,IND,0,nan,nan,Made Shot ,nan
+126517,21501012,4,8:32,nan,MISS Lowry 26' 3PT Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126518,21501012,4,8:31,S. Hill REBOUND (Off:0 Def:7),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126519,21501012,4,8:22,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126520,21501012,4,8:21,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126521,21501012,4,8:21,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+126522,21501012,4,8:13,S. Hill S.FOUL (P2.T3) (M.Ervin),nan,nan,203524,Solomon Hill,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+126523,21501012,4,8:13,nan,Lowry Free Throw 1 of 2 (14 PTS),67 - 67,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126524,21501012,4,8:13,nan,Lowry Free Throw 2 of 2 (15 PTS),68 - 67,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126525,21501012,4,8:01,nan,Lowry S.FOUL (P3.T2) (J.Goble),nan,200768,Kyle Lowry,TOR,101139,CJ Miles,IND,0,nan,nan,Foul ,Shooting
+126526,21501012,4,8:01,Miles Free Throw 1 of 2 (9 PTS),nan,68 - 68,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126527,21501012,4,8:01,Miles Free Throw 2 of 2 (10 PTS),nan,68 - 69,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126528,21501012,4,7:48,G. Hill Shooting Block Foul (P2.T4) (S.Corbin),nan,nan,201588,George Hill,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting Block
+126529,21501012,4,7:48,nan,Lowry Free Throw 1 of 2 (16 PTS),69 - 69,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126530,21501012,4,7:48,SUB: Ellis FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+126531,21501012,4,7:48,nan,Lowry Free Throw 2 of 2 (17 PTS),70 - 69,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126532,21501012,4,7:35,MISS Turner 20' Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126533,21501012,4,7:34,nan,Patterson REBOUND (Off:1 Def:1),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126534,21501012,4,7:22,nan,MISS Ross  3PT Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126535,21501012,4,7:22,Miles REBOUND (Off:0 Def:2),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126536,21501012,4,7:14,nan,Joseph S.FOUL (P1.T3) (S.Corbin),nan,202709,Cory Joseph,TOR,201588,George Hill,IND,0,nan,nan,Foul ,Shooting
+126537,21501012,4,7:14,G. Hill Free Throw 1 of 2 (13 PTS),nan,70 - 70,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126538,21501012,4,7:14,SUB: George FOR Miles,nan,nan,101139,CJ Miles,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+126539,21501012,4,7:14,SUB: Hill FOR Turner,nan,nan,1626167,Myles Turner,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+126540,21501012,4,7:14,nan,SUB: Biyombo FOR Thompson,nan,201574,Jason Thompson,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+126541,21501012,4,7:14,G. Hill Free Throw 2 of 2 (14 PTS),nan,70 - 71,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126542,21501012,4,6:54,nan,MISS Lowry 24' 3PT Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126543,21501012,4,6:54,Ellis REBOUND (Off:1 Def:4),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126544,21501012,4,6:45,nan,Ross P.FOUL (P1.T4) (J.Goble),nan,203082,Terrence Ross,TOR,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+126545,21501012,4,6:45,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+126546,21501012,4,6:45,nan,SUB: DeRozan FOR Ross,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+126547,21501012,4,6:34,George 24' 3PT Jump Shot (15 PTS) (Ellis 5 AST),nan,70 - 74,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+126548,21501012,4,6:17,Hill P.FOUL (P2.PN) (S.Corbin),nan,nan,201941,Jordan Hill,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+126549,21501012,4,6:17,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+126550,21501012,4,6:03,nan,DeRozan 19' Pullup Jump Shot (16 PTS),72 - 74,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126551,21501012,4,5:50,Ellis Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+126552,21501012,4,5:38,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126553,21501012,4,5:36,George REBOUND (Off:1 Def:8),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126554,21501012,4,5:24,MISS George  3PT Jump Shot,DeRozan BLOCK (1 BLK),nan,202331,Paul George,IND,0,nan,nan,201942,DeMar DeRozan,TOR,Missed Shot ,nan
+126555,21501012,4,5:24,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126556,21501012,4,5:14,George OFF.Foul (P3) (J.Goble),nan,nan,202331,Paul George,IND,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Offensive
+126557,21501012,4,5:14,George Foul Turnover (P4.T15),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+126558,21501012,4,4:50,nan,DeRozan 21' Pullup Jump Shot (18 PTS),74 - 74,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126559,21501012,4,4:32,Ellis 11' Driving Bank Shot (7 PTS),nan,74 - 76,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126560,21501012,4,4:22,nan,DeRozan 4' Driving Bank Shot (20 PTS),76 - 76,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126561,21501012,4,4:22,Hill S.FOUL (P3.PN) (M.Ervin),nan,nan,201941,Jordan Hill,IND,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+126562,21501012,4,4:22,nan,DeRozan Free Throw 1 of 1 (21 PTS),77 - 76,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+126563,21501012,4,4:06,S. Hill 25' 3PT Jump Shot (8 PTS) (Ellis 6 AST),nan,77 - 79,203524,Solomon Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+126564,21501012,4,3:49,S. Hill S.FOUL (P3.PN) (S.Corbin),nan,nan,203524,Solomon Hill,IND,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+126565,21501012,4,3:49,nan,MISS DeRozan Free Throw 1 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126566,21501012,4,3:49,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+126567,21501012,4,3:49,nan,DeRozan Free Throw 2 of 2 (22 PTS),78 - 79,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126568,21501012,4,3:29,S. Hill 3' Driving Layup (10 PTS),nan,78 - 81,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126569,21501012,4,3:05,nan,Lowry 8' Driving Bank Shot (19 PTS),80 - 81,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126570,21501012,4,3:05,G. Hill S.FOUL (P3.PN) (S.Corbin),nan,nan,201588,George Hill,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+126571,21501012,4,3:05,nan,Lowry Free Throw 1 of 1 (20 PTS),81 - 81,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+126572,21501012,4,2:54,nan,Biyombo Violation:Kicked Ball (.),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+126573,21501012,4,2:47,MISS Ellis 19' Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126574,21501012,4,2:46,nan,Lowry REBOUND (Off:0 Def:5),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126575,21501012,4,2:27,George BLOCK (1 BLK),MISS DeRozan 2' Driving Layup,nan,201942,DeMar DeRozan,TOR,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+126576,21501012,4,2:27,nan,Biyombo REBOUND (Off:8 Def:15),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126577,21501012,4,2:27,S. Hill S.FOUL (P4.PN) (J.Goble),nan,nan,203524,Solomon Hill,IND,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Shooting
+126578,21501012,4,2:27,nan,Biyombo Free Throw 1 of 2 (15 PTS),82 - 81,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126579,21501012,4,2:27,nan,Biyombo Free Throw 2 of 2 (16 PTS),83 - 81,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126580,21501012,4,2:13,MISS Hill 20' Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126581,21501012,4,2:13,nan,Biyombo REBOUND (Off:8 Def:16),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126582,21501012,4,1:50,nan,MISS Lowry 26' 3PT Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126583,21501012,4,1:49,Ellis REBOUND (Off:1 Def:5),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126584,21501012,4,1:42,George 3' Driving Layup (17 PTS),nan,83 - 83,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126585,21501012,4,1:42,nan,DeRozan S.FOUL (P2.PN) (J.Goble),nan,201942,DeMar DeRozan,TOR,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+126586,21501012,4,1:42,George Free Throw 1 of 1 (18 PTS),nan,83 - 84,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+126587,21501012,4,1:25,nan,DeRozan 18' Jump Shot (24 PTS),85 - 84,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126588,21501012,4,1:01,MISS Hill 6' Turnaround Hook Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126589,21501012,4,1:01,nan,Lowry REBOUND (Off:0 Def:6),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126590,21501012,4,0:40,nan,MISS DeRozan 18' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126591,21501012,4,0:39,nan,Patterson REBOUND (Off:2 Def:1),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126592,21501012,4,0:16,S. Hill STEAL (1 STL),Lowry Lost Ball Turnover (P8.T14),nan,200768,Kyle Lowry,TOR,203524,Solomon Hill,IND,0,nan,nan,Turnover ,Lost Ball
+126593,21501012,4,0:14,nan,Patterson S.FOUL (P2.PN) (S.Corbin),nan,202335,Patrick Patterson,TOR,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+126594,21501012,4,0:14,MISS Ellis Free Throw 1 of 2,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126595,21501012,4,0:14,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+126596,21501012,4,0:14,Ellis Free Throw 2 of 2 (8 PTS),nan,85 - 85,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126597,21501012,4,0:14,nan,Raptors Timeout: Regular (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+126598,21501012,4,0:14,nan,SUB: Ross FOR Joseph,nan,202709,Cory Joseph,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+126599,21501012,4,0:00,nan,MISS DeRozan 19' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126600,21501012,4,0:00,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126601,21501012,4,0:00,nan,nan,85 - 85,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+126602,21501012,5,5:00,nan,nan,85 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+126603,21501012,5,5:00,Jump Ball Hill vs. Biyombo: Tip to Lowry,nan,nan,201941,Jordan Hill,IND,202687,Bismack Biyombo,TOR,200768,Kyle Lowry,TOR,Jump Ball ,nan
+126604,21501012,5,4:41,nan,MISS Lowry 19' Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126605,21501012,5,4:40,Ellis REBOUND (Off:1 Def:6),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126606,21501012,5,4:24,MISS George 24' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126607,21501012,5,4:22,nan,Joseph REBOUND (Off:0 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126608,21501012,5,4:12,nan,MISS DeRozan 18' Turnaround Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126609,21501012,5,4:12,nan,Biyombo REBOUND (Off:9 Def:16),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126610,21501012,5,4:07,nan,Lowry 24' 3PT Jump Shot (23 PTS) (Joseph 1 AST),88 - 85,200768,Kyle Lowry,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+126611,21501012,5,3:48,MISS George 18' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126612,21501012,5,3:47,nan,Lowry REBOUND (Off:0 Def:7),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126613,21501012,5,3:23,nan,Raptors Turnover: Shot Clock (T#15),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+126614,21501012,5,3:01,G. Hill 24' 3PT Jump Shot (17 PTS) (Ellis 7 AST),nan,88 - 88,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+126615,21501012,5,2:31,nan,DeRozan 6' Floating Jump Shot (26 PTS),90 - 88,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126616,21501012,5,2:14,MISS Ellis 6' Running Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126617,21501012,5,2:13,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126618,21501012,5,1:50,nan,Lowry 15' Step Back Jump Shot (25 PTS),92 - 88,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126619,21501012,5,1:50,PACERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+126620,21501012,5,1:50,SUB: Turner FOR Hill,nan,nan,201941,Jordan Hill,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+126621,21501012,5,1:36,MISS George 1' Layup,Biyombo BLOCK (2 BLK),nan,202331,Paul George,IND,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+126622,21501012,5,1:35,nan,DeRozan REBOUND (Off:1 Def:4),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126623,21501012,5,1:19,nan,Lowry 3' Driving Layup (27 PTS),94 - 88,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126624,21501012,5,1:09,MISS G. Hill 24' 3PT Step Back Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126625,21501012,5,1:09,Turner REBOUND (Off:2 Def:5),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126626,21501012,5,1:09,nan,Patterson P.FOUL (P3.T1) (M.Ervin),nan,202335,Patrick Patterson,TOR,1626167,Myles Turner,IND,0,nan,nan,Foul ,Personal
+126627,21501012,5,0:55,S. Hill 2' Driving Layup (12 PTS),nan,94 - 90,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+126628,21501012,5,0:36,nan,Patterson 3' Driving Dunk (2 PTS),96 - 90,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+126629,21501012,5,0:36,PACERS Timeout: Short (Full 5 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+126630,21501012,5,0:28,MISS George 25' 3PT Step Back Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126631,21501012,5,0:28,Turner REBOUND (Off:3 Def:5),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126632,21501012,5,0:25,nan,Joseph S.FOUL (P2.PN) (J.Goble),nan,202709,Cory Joseph,TOR,201588,George Hill,IND,0,nan,nan,Foul ,Shooting
+126633,21501012,5,0:25,nan,nan,nan,577,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+126634,21501012,5,0:25,MISS G. Hill Free Throw 1 of 2,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126635,21501012,5,0:25,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126636,21501012,5,0:25,G. Hill Free Throw 2 of 2 (18 PTS),nan,96 - 91,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126637,21501012,5,0:24,S. Hill Personal Take Foul (P5.T1) (S.Corbin),nan,nan,203524,Solomon Hill,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal Take
+126638,21501012,5,0:24,nan,SUB: Ross FOR Biyombo,nan,202687,Bismack Biyombo,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+126639,21501012,5,0:23,Turner Personal Take Foul (P5.PN) (M.Ervin),nan,nan,1626167,Myles Turner,IND,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal Take
+126640,21501012,5,0:23,nan,Ross Free Throw 1 of 2 (7 PTS),97 - 91,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126641,21501012,5,0:23,SUB: Miles FOR S. Hill,nan,nan,203524,Solomon Hill,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+126642,21501012,5,0:23,nan,Ross Free Throw 2 of 2 (8 PTS),98 - 91,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126643,21501012,5,0:23,PACERS Timeout: Short (Full 5 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+126644,21501012,5,0:23,nan,SUB: Biyombo FOR Ross,nan,203082,Terrence Ross,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+126645,21501012,5,0:20,MISS George 26' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126646,21501012,5,0:19,Turner REBOUND (Off:4 Def:5),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126647,21501012,5,0:17,Miles 26' 3PT Jump Shot (13 PTS) (Turner 1 AST),nan,98 - 94,101139,CJ Miles,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+126648,21501012,5,0:16,Miles Personal Take Foul (P1.PN) (M.Ervin),nan,nan,101139,CJ Miles,IND,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal Take
+126649,21501012,5,0:16,nan,DeRozan Free Throw 1 of 2 (27 PTS),99 - 94,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126650,21501012,5,0:16,SUB: Hill FOR G. Hill,nan,nan,201588,George Hill,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+126651,21501012,5,0:16,nan,DeRozan Free Throw 2 of 2 (28 PTS),100 - 94,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126652,21501012,5,0:11,MISS George 26' 3PT Pullup Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126653,21501012,5,0:11,nan,Lowry REBOUND (Off:0 Def:8),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126654,21501012,5,0:11,George Personal Take Foul (P4.PN) (S.Corbin),nan,nan,202331,Paul George,IND,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal Take
+126655,21501012,5,0:11,nan,Lowry Free Throw 1 of 2 (28 PTS),101 - 94,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126656,21501012,5,0:11,nan,MISS Lowry Free Throw 2 of 2,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126657,21501012,5,0:10,Turner REBOUND (Off:4 Def:6),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126658,21501012,5,0:00,nan,nan,101 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

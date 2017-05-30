@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+123898,21500990,4,12:00,nan,nan,91 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+123899,21500990,4,11:49,MISS Deng 17' Jump Shot,nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123900,21500990,4,11:48,nan,Arthur REBOUND (Off:1 Def:3),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123901,21500990,4,11:29,nan,Arthur 18' Jump Shot (7 PTS),93 - 90,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+123902,21500990,4,11:20,nan,Arthur S.FOUL (P2.T1) (J.Williams),nan,201589,Darrell Arthur,DEN,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Shooting
+123903,21500990,4,11:20,Whiteside Free Throw 1 of 2 (7 PTS),nan,93 - 91,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123904,21500990,4,11:20,Whiteside Free Throw 2 of 2 (8 PTS),nan,93 - 92,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123905,21500990,4,11:09,nan,MISS Barton 6' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123906,21500990,4,11:08,nan,Lauvergne REBOUND (Off:2 Def:1),nan,203530,Joffrey Lauvergne,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123907,21500990,4,11:07,Whiteside Violation:Defensive Goaltending (E.Roe),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+123908,21500990,4,11:07,nan,Lauvergne 4' Jump Shot (8 PTS),95 - 92,203530,Joffrey Lauvergne,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+123909,21500990,4,10:44,Deng 17' Step Back Jump Shot (17 PTS),nan,95 - 94,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123910,21500990,4,10:26,nan,MISS Augustin 5' Jump Shot,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123911,21500990,4,10:25,Whiteside REBOUND (Off:1 Def:6),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123912,21500990,4,10:13,nan,Augustin P.FOUL (P2.T2) (M.McCutchen),nan,201571,D.J. Augustin,DEN,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+123913,21500990,4,10:10,nan,Barton P.FOUL (P2.T3) (E.Roe),nan,203115,Will Barton,DEN,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+123914,21500990,4,9:59,Whiteside 10' Floating Jump Shot (10 PTS) (Dragic 8 AST),nan,95 - 96,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+123915,21500990,4,9:38,nan,Lauvergne 3' Layup (10 PTS) (Augustin 3 AST),97 - 96,203530,Joffrey Lauvergne,DEN,201571,D.J. Augustin,DEN,0,nan,nan,Made Shot ,nan
+123916,21500990,4,9:15,MISS Winslow 12' Jump Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123917,21500990,4,9:14,nan,Barton REBOUND (Off:0 Def:3),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123918,21500990,4,9:01,Winslow STEAL (1 STL),Augustin Bad Pass Turnover (P2.T12),nan,201571,D.J. Augustin,DEN,1626159,Justise Winslow,MIA,0,nan,nan,Turnover ,Bad Pass
+123919,21500990,4,8:57,Winslow 2' Running Layup (17 PTS),nan,97 - 98,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123920,21500990,4,8:57,nan,Arthur S.FOUL (P3.T4) (J.Williams),nan,201589,Darrell Arthur,DEN,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Shooting
+123921,21500990,4,8:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+123922,21500990,4,8:57,Winslow Free Throw 1 of 1 (18 PTS),nan,97 - 99,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+123923,21500990,4,8:43,nan,Nuggets Turnover: Backcourt (T#13),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+123924,21500990,4,8:34,nan,Arthur P.FOUL (P4.PN) (E.Roe),nan,201589,Darrell Arthur,DEN,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal
+123925,21500990,4,8:34,Whiteside Free Throw 1 of 2 (11 PTS),nan,97 - 100,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123926,21500990,4,8:34,Whiteside Free Throw 2 of 2 (12 PTS),nan,97 - 101,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123927,21500990,4,8:18,nan,MISS Barton 24' 3PT Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123928,21500990,4,8:17,Richardson REBOUND (Off:0 Def:2),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123929,21500990,4,8:09,Dragic 17' Pullup Jump Shot (11 PTS),nan,97 - 103,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123930,21500990,4,8:09,nan,Nuggets Timeout: Regular (Reg.4 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123931,21500990,4,8:09,nan,SUB: Harris FOR Toupane,nan,1626253,Axel Toupane,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+123932,21500990,4,8:09,nan,SUB: Faried FOR Lauvergne,nan,203530,Joffrey Lauvergne,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+123933,21500990,4,7:58,Winslow STEAL (2 STL),Faried Bad Pass Turnover (P3.T14),nan,202702,Kenneth Faried,DEN,1626159,Justise Winslow,MIA,0,nan,nan,Turnover ,Bad Pass
+123934,21500990,4,7:53,MISS Winslow 2' Layup,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123935,21500990,4,7:52,Richardson REBOUND (Off:1 Def:2),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123936,21500990,4,7:51,MISS Richardson 1' Layup,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123937,21500990,4,7:50,nan,Arthur REBOUND (Off:1 Def:4),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123938,21500990,4,7:41,nan,MISS Harris 6' Jump Bank Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123939,21500990,4,7:40,nan,Faried REBOUND (Off:6 Def:5),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123940,21500990,4,7:39,nan,Faried 1' Tip Layup Shot (24 PTS),99 - 103,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+123941,21500990,4,7:23,MISS Dragic 15' Pullup Jump Shot,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123942,21500990,4,7:22,nan,Barton REBOUND (Off:0 Def:4),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123943,21500990,4,7:22,Whiteside P.FOUL (P4.T1) (J.Williams),nan,nan,202355,Hassan Whiteside,MIA,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+123944,21500990,4,7:22,SUB: Wade FOR Dragic,nan,nan,201609,Goran Dragic,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Substitution ,nan
+123945,21500990,4,7:10,nan,MISS Augustin 25' 3PT Jump Shot,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123946,21500990,4,7:09,Wade REBOUND (Off:0 Def:1),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123947,21500990,4,6:51,MISS Wade 5' Jump Bank Shot,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123948,21500990,4,6:50,nan,Harris REBOUND (Off:0 Def:3),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123949,21500990,4,6:47,nan,Augustin 1' Reverse Layup (11 PTS) (Harris 2 AST),101 - 103,201571,D.J. Augustin,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+123950,21500990,4,6:47,HEAT Timeout: Regular (Full 4 Short 0),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123951,21500990,4,6:27,Richardson  Dunk (17 PTS) (Wade 4 AST),nan,101 - 105,1626196,Josh Richardson,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+123952,21500990,4,6:03,nan,Nuggets Timeout: Regular (Reg.5 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123953,21500990,4,6:03,nan,Nuggets Turnover: 5 Second Inbound (T#15),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,5 Second Inbound Turnover
+123954,21500990,4,5:50,Winslow 3' Hook Shot (20 PTS) (Wade 5 AST),nan,101 - 107,1626159,Justise Winslow,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+123955,21500990,4,5:34,nan,Augustin 2' Reverse Layup (13 PTS),103 - 107,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+123956,21500990,4,5:18,Wade Bad Pass Turnover (P4.T12),Augustin STEAL (1 STL),nan,2548,Dwyane Wade,MIA,201571,D.J. Augustin,DEN,0,nan,nan,Turnover ,Bad Pass
+123957,21500990,4,5:16,Winslow P.FOUL (P3.T2) (M.McCutchen),nan,nan,1626159,Justise Winslow,MIA,201571,D.J. Augustin,DEN,0,nan,nan,Foul ,Personal
+123958,21500990,4,5:16,nan,SUB: Jokic FOR Faried,nan,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+123959,21500990,4,5:16,nan,SUB: Mudiay FOR Barton,nan,203115,Will Barton,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+123960,21500990,4,5:10,Richardson BLOCK (2 BLK),MISS Augustin 2' Layup,nan,201571,D.J. Augustin,DEN,0,nan,nan,1626196,Josh Richardson,MIA,Missed Shot ,nan
+123961,21500990,4,5:09,Deng REBOUND (Off:1 Def:6),nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123962,21500990,4,5:01,Deng Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+123963,21500990,4,4:46,nan,MISS Jokic 7' Floating Jump Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123964,21500990,4,4:45,Richardson REBOUND (Off:1 Def:3),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123965,21500990,4,4:37,MISS Wade 3' Driving Layup,Jokic BLOCK (1 BLK),nan,2548,Dwyane Wade,MIA,0,nan,nan,203999,Nikola Jokic,DEN,Missed Shot ,nan
+123966,21500990,4,4:36,nan,Jokic REBOUND (Off:3 Def:5),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123967,21500990,4,4:34,Richardson S.FOUL (P3.T3) (E.Roe),nan,nan,1626196,Josh Richardson,MIA,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+123968,21500990,4,4:34,nan,Harris Free Throw 1 of 2 (14 PTS),104 - 107,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123969,21500990,4,4:34,SUB: Johnson FOR Deng,nan,nan,2736,Luol Deng,MIA,2207,Joe Johnson,MIA,0,nan,nan,Substitution ,nan
+123970,21500990,4,4:34,nan,Harris Free Throw 2 of 2 (15 PTS),105 - 107,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123971,21500990,4,4:20,Wade Bad Pass Turnover (P5.T14),Arthur STEAL (1 STL),nan,2548,Dwyane Wade,MIA,201589,Darrell Arthur,DEN,0,nan,nan,Turnover ,Bad Pass
+123972,21500990,4,4:15,Richardson BLOCK (3 BLK),MISS Augustin 2' Layup,nan,201571,D.J. Augustin,DEN,0,nan,nan,1626196,Josh Richardson,MIA,Missed Shot ,nan
+123973,21500990,4,4:14,Winslow REBOUND (Off:0 Def:2),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123974,21500990,4,4:08,Johnson 24' 3PT Jump Shot (16 PTS) (Richardson 2 AST),nan,105 - 110,2207,Joe Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+123975,21500990,4,3:46,nan,Mudiay 13' Jump Shot (17 PTS),107 - 110,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+123976,21500990,4,3:23,MISS Johnson 7' Jump Shot,nan,nan,2207,Joe Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123977,21500990,4,3:22,Whiteside REBOUND (Off:2 Def:6),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123978,21500990,4,3:21,Whiteside 1' Layup (14 PTS),nan,107 - 112,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123979,21500990,4,2:58,Wade BLOCK (1 BLK),MISS Harris 4' Reverse Layup,nan,203914,Gary Harris,DEN,0,nan,nan,2548,Dwyane Wade,MIA,Missed Shot ,nan
+123980,21500990,4,2:57,Whiteside REBOUND (Off:2 Def:7),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123981,21500990,4,2:41,Richardson Bad Pass Turnover (P1.T15),Augustin STEAL (2 STL),nan,1626196,Josh Richardson,MIA,201571,D.J. Augustin,DEN,0,nan,nan,Turnover ,Bad Pass
+123982,21500990,4,2:35,Winslow L.B.FOUL (P4.T4) (M.McCutchen),nan,nan,1626159,Justise Winslow,MIA,201571,D.J. Augustin,DEN,0,nan,nan,Foul ,Loose Ball
+123983,21500990,4,2:18,nan,MISS Mudiay 5' Hook Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123984,21500990,4,2:17,Winslow REBOUND (Off:0 Def:3),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123985,21500990,4,2:03,Wade 20' Jump Shot (15 PTS),nan,107 - 114,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123986,21500990,4,2:03,nan,Nuggets Timeout: Regular (Reg.6 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123987,21500990,4,1:55,nan,Harris 24' 3PT Jump Shot (18 PTS) (Mudiay 9 AST),110 - 114,203914,Gary Harris,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+123988,21500990,4,1:44,Whiteside  Alley Oop Dunk (16 PTS) (Johnson 4 AST),nan,110 - 116,202355,Hassan Whiteside,MIA,2207,Joe Johnson,MIA,0,nan,nan,Made Shot ,nan
+123989,21500990,4,1:42,HEAT Violation: Delay of game Violation,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+123990,21500990,4,1:24,nan,MISS Mudiay 16' Jump Bank Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123991,21500990,4,1:23,Whiteside REBOUND (Off:2 Def:8),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123992,21500990,4,1:01,Johnson 16' Step Back Jump Shot (18 PTS),nan,110 - 118,2207,Joe Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+123993,21500990,4,1:01,nan,Nuggets Timeout: Short (Reg.6 Short 2),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+123994,21500990,4,0:52,nan,Jokic 25' 3PT Jump Shot (12 PTS) (Mudiay 10 AST),113 - 118,203999,Nikola Jokic,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+123995,21500990,4,0:40,Whiteside  Alley Oop Dunk (18 PTS) (Johnson 5 AST),nan,113 - 120,202355,Hassan Whiteside,MIA,2207,Joe Johnson,MIA,0,nan,nan,Made Shot ,nan
+123996,21500990,4,0:29,nan,MISS Augustin  3PT Jump Shot,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123997,21500990,4,0:28,nan,Augustin REBOUND (Off:1 Def:0),nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123998,21500990,4,0:23,nan,Mudiay 25' 3PT Jump Shot (20 PTS) (Jokic 4 AST),116 - 120,1626144,Emmanuel Mudiay,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+123999,21500990,4,0:23,nan,Mudiay P.FOUL (P1.PN) (J.Williams),nan,1626144,Emmanuel Mudiay,DEN,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Personal
+124000,21500990,4,0:23,Wade Free Throw 1 of 2 (16 PTS),nan,116 - 121,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124001,21500990,4,0:23,SUB: Deng FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,2736,Luol Deng,MIA,0,nan,nan,Substitution ,nan
+124002,21500990,4,0:23,Wade Free Throw 2 of 2 (17 PTS),nan,116 - 122,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124003,21500990,4,0:15,nan,Mudiay 25' 3PT Jump Shot (23 PTS),119 - 122,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124004,21500990,4,0:14,nan,Augustin P.FOUL (P3.PN) (M.McCutchen),nan,201571,D.J. Augustin,DEN,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Personal
+124005,21500990,4,0:14,MISS Wade Free Throw 1 of 2,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124006,21500990,4,0:14,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+124007,21500990,4,0:14,Wade Free Throw 2 of 2 (18 PTS),nan,119 - 123,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124008,21500990,4,0:07,nan,MISS Mudiay 2' Driving Layup,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124009,21500990,4,0:06,Wade REBOUND (Off:0 Def:2),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124010,21500990,4,0:06,nan,Mudiay P.FOUL (P2.PN) (M.McCutchen),nan,1626144,Emmanuel Mudiay,DEN,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Personal
+124011,21500990,4,0:06,Wade Free Throw 1 of 2 (19 PTS),nan,119 - 124,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124012,21500990,4,0:06,MISS Wade Free Throw 2 of 2,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124013,21500990,4,0:05,Deng REBOUND (Off:2 Def:6),nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124014,21500990,4,0:00,nan,nan,119 - 124,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

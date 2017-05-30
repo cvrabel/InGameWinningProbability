@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+125230,21501001,4,12:00,nan,nan,70 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+125231,21501001,4,11:46,nan,MISS Crawford 19' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125232,21501001,4,11:45,Anderson REBOUND (Off:1 Def:3),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125233,21501001,4,11:37,West 7' Hook Shot (2 PTS) (Ginobili 2 AST),nan,70 - 73,2561,David West,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+125234,21501001,4,11:27,Ginobili P.FOUL (P3.T1) (Z.Zarba),nan,nan,1938,Manu Ginobili,SAS,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+125235,21501001,4,11:16,nan,MISS W. Johnson 20' Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125236,21501001,4,11:15,Mills REBOUND (Off:0 Def:3),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125237,21501001,4,10:59,Ginobili 24' 3PT Jump Shot (13 PTS) (Mills 5 AST),nan,70 - 76,1938,Manu Ginobili,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+125238,21501001,4,10:35,nan,Aldrich 1' Layup (2 PTS) (Crawford 1 AST),72 - 76,202332,Cole Aldrich,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+125239,21501001,4,10:20,MISS Ginobili 25' 3PT Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125240,21501001,4,10:20,West REBOUND (Off:2 Def:1),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125241,21501001,4,10:15,MISS Mills 11' Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125242,21501001,4,10:14,West REBOUND (Off:3 Def:1),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125243,21501001,4,10:12,West 1' Tip Layup Shot (4 PTS),nan,72 - 78,2561,David West,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125244,21501001,4,9:59,nan,MISS W. Johnson 25' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125245,21501001,4,9:58,nan,Aldrich REBOUND (Off:1 Def:2),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125246,21501001,4,9:58,SUB: Martin FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,2755,Kevin Martin,SAS,0,nan,nan,Substitution ,nan
+125247,21501001,4,9:58,SUB: Green FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+125248,21501001,4,9:51,nan,Rivers Step Out of Bounds Turnover (P2.T12),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+125249,21501001,4,9:38,MISS West 6' Jump Bank Shot,nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125250,21501001,4,9:37,Diaw REBOUND (Off:1 Def:0),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125251,21501001,4,9:37,MISS Diaw 1' Tip Layup Shot,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125252,21501001,4,9:35,West REBOUND (Off:4 Def:1),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125253,21501001,4,9:34,West 4' Putback Layup (6 PTS),nan,72 - 80,2561,David West,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125254,21501001,4,9:32,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+125255,21501001,4,9:32,nan,SUB: Jordan FOR Aldrich,nan,202332,Cole Aldrich,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+125256,21501001,4,9:25,West BLOCK (2 BLK),MISS Rivers 1' Driving Layup,nan,203085,Austin Rivers,LAC,0,nan,nan,2561,David West,SAS,Missed Shot ,nan
+125257,21501001,4,9:23,Mills REBOUND (Off:0 Def:4),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125258,21501001,4,9:17,Mills 18' Pullup Jump Shot (10 PTS),nan,72 - 82,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125259,21501001,4,8:56,nan,MISS Crawford 24' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125260,21501001,4,8:55,West REBOUND (Off:4 Def:2),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125261,21501001,4,8:43,Diaw Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+125262,21501001,4,8:43,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+125263,21501001,4,8:43,nan,SUB: Redick FOR Prigioni,nan,203143,Pablo Prigioni,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+125264,21501001,4,8:25,nan,Jordan 1' Layup (16 PTS) (Crawford 2 AST),74 - 82,201599,DeAndre Jordan,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+125265,21501001,4,8:11,West 17' Jump Shot (8 PTS) (Mills 6 AST),nan,74 - 84,2561,David West,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+125266,21501001,4,7:50,nan,Redick 26' 3PT Jump Shot (14 PTS) (Crawford 3 AST),77 - 84,200755,JJ Redick,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+125267,21501001,4,7:41,nan,Paul P.FOUL (P1.T1) (Z.Zarba),nan,101108,Chris Paul,LAC,201988,Patty Mills,SAS,0,nan,nan,Foul ,Personal
+125268,21501001,4,7:41,nan,SUB: Green FOR W. Johnson,nan,202325,Wesley Johnson,LAC,201145,Jeff Green,LAC,0,nan,nan,Substitution ,nan
+125269,21501001,4,7:41,SUB: Leonard FOR Martin,nan,nan,2755,Kevin Martin,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+125270,21501001,4,7:33,Leonard 5' Jump Bank Shot (18 PTS),nan,77 - 86,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125271,21501001,4,7:06,nan,MISS Green  3PT Jump Shot,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125272,21501001,4,7:05,Leonard REBOUND (Off:0 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125273,21501001,4,7:04,nan,Jordan Personal Take Foul (P2.T2) (N.Buchert),nan,201599,DeAndre Jordan,LAC,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal Take
+125274,21501001,4,6:45,Green  3PT Jump Shot (9 PTS) (Leonard 4 AST),nan,77 - 89,201980,Danny Green,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+125275,21501001,4,6:23,Green S.FOUL (P4.T2) (N.Buchert),nan,nan,201980,Danny Green,SAS,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+125276,21501001,4,6:23,nan,Crawford Free Throw 1 of 2 (5 PTS),78 - 89,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125277,21501001,4,6:23,nan,Crawford Free Throw 2 of 2 (6 PTS),79 - 89,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125278,21501001,4,6:12,Mills 24' 3PT Jump Shot (13 PTS) (Green 1 AST),nan,79 - 92,201988,Patty Mills,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+125279,21501001,4,6:11,nan,Clippers Timeout: Regular (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+125280,21501001,4,6:11,SUB: Aldridge FOR Diaw,nan,nan,2564,Boris Diaw,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+125281,21501001,4,6:11,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+125282,21501001,4,6:08,West Personal Take Foul (P1.T3) (N.Buchert),nan,nan,2561,David West,SAS,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+125283,21501001,4,5:50,nan,MISS Paul 1' Layup,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125284,21501001,4,5:49,Mills REBOUND (Off:0 Def:5),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125285,21501001,4,5:31,MISS West 7' Jump Shot,Jordan BLOCK (1 BLK),nan,2561,David West,SAS,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+125286,21501001,4,5:31,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125287,21501001,4,5:19,nan,Green Bad Pass Turnover (P1.T13),nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+125288,21501001,4,5:19,SUB: Parker FOR West,nan,nan,2561,David West,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+125289,21501001,4,5:19,nan,SUB: W. Johnson FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+125290,21501001,4,5:05,Mills 1' Alley Oop Layup (15 PTS) (Aldridge 2 AST),nan,79 - 94,201988,Patty Mills,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+125291,21501001,4,4:43,nan,Green Out of Bounds Lost Ball Turnover (P2.T14),nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+125292,21501001,4,4:43,nan,SUB: Crawford FOR W. Johnson,nan,202325,Wesley Johnson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+125293,21501001,4,4:29,Green 24' 3PT Jump Shot (12 PTS) (Parker 5 AST),nan,79 - 97,201980,Danny Green,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+125294,21501001,4,4:29,nan,Clippers Timeout: Regular (Reg.6 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+125295,21501001,4,4:29,nan,SUB: Rivers FOR Jordan,nan,201599,DeAndre Jordan,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+125296,21501001,4,4:29,nan,SUB: W. Johnson FOR Redick,nan,200755,JJ Redick,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+125297,21501001,4,4:29,nan,SUB: Aldrich FOR Paul,nan,101108,Chris Paul,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Substitution ,nan
+125298,21501001,4,4:29,SUB: Martin FOR Mills,nan,nan,201988,Patty Mills,SAS,2755,Kevin Martin,SAS,0,nan,nan,Substitution ,nan
+125299,21501001,4,4:11,nan,Aldrich Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+125300,21501001,4,4:11,SUB: Marjanovic FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+125301,21501001,4,3:52,Leonard 18' Jump Shot (20 PTS) (Marjanovic 1 AST),nan,79 - 99,202695,Kawhi Leonard,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Made Shot ,nan
+125302,21501001,4,3:46,Parker Personal Take Foul (P3.T4) (N.Buchert),nan,nan,2225,Tony Parker,SAS,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Personal Take
+125303,21501001,4,3:46,SUB: Anderson FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+125304,21501001,4,3:46,SUB: A. Miller FOR Parker,nan,nan,2225,Tony Parker,SAS,1889,Andre Miller,SAS,0,nan,nan,Substitution ,nan
+125305,21501001,4,3:46,nan,SUB: Prigioni FOR Green,nan,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Substitution ,nan
+125306,21501001,4,3:46,SUB: Diaw FOR Green,nan,nan,201980,Danny Green,SAS,2564,Boris Diaw,SAS,0,nan,nan,Substitution ,nan
+125307,21501001,4,3:32,nan,Aldrich 7' Hook Shot (4 PTS) (Rivers 1 AST),81 - 99,202332,Cole Aldrich,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+125308,21501001,4,3:14,Martin Step Out of Bounds Turnover (P1.T10),nan,nan,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+125309,21501001,4,2:58,nan,MISS Rivers  Layup,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125310,21501001,4,2:57,Diaw REBOUND (Off:1 Def:1),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125311,21501001,4,2:40,nan,Aldrich S.FOUL (P2.T3) (N.Buchert),nan,202332,Cole Aldrich,LAC,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Shooting
+125312,21501001,4,2:40,Marjanovic Free Throw 1 of 2 (1 PTS),nan,81 - 100,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125313,21501001,4,2:40,MISS Marjanovic Free Throw 2 of 2,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125314,21501001,4,2:38,nan,Aldrich REBOUND (Off:1 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125315,21501001,4,2:23,nan,MISS Crawford 19' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125316,21501001,4,2:23,A. Miller REBOUND (Off:0 Def:1),nan,nan,1889,Andre Miller,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125317,21501001,4,1:57,Anderson 21' Jump Shot (4 PTS),nan,81 - 102,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125318,21501001,4,1:40,nan,Aldrich 1' Cutting Finger Roll Layup Shot (6 PTS) (Prigioni 1 AST),83 - 102,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+125319,21501001,4,1:40,Martin Shooting Block Foul (P1.PN) (Z.Zarba),nan,nan,2755,Kevin Martin,SAS,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting Block
+125320,21501001,4,1:40,nan,Aldrich Free Throw 1 of 1 (7 PTS),84 - 102,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+125321,21501001,4,1:24,Anderson 18' Jump Shot (6 PTS),nan,84 - 104,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+125322,21501001,4,1:00,nan,MISS Crawford 24' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125323,21501001,4,0:59,A. Miller REBOUND (Off:0 Def:2),nan,nan,1889,Andre Miller,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125324,21501001,4,0:48,Martin 14' Pullup Jump Shot (6 PTS) (A. Miller 1 AST),nan,84 - 106,2755,Kevin Martin,SAS,1889,Andre Miller,SAS,0,nan,nan,Made Shot ,nan
+125325,21501001,4,0:33,nan,Prigioni 25' 3PT Jump Shot (3 PTS),87 - 106,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+125326,21501001,4,0:13,MISS Martin 16' Jump Shot,nan,nan,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125327,21501001,4,0:12,Marjanovic REBOUND (Off:1 Def:0),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125328,21501001,4,0:12,nan,Aldrich S.FOUL (P3.T4) (Z.Zarba),nan,202332,Cole Aldrich,LAC,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Shooting
+125329,21501001,4,0:12,Marjanovic Free Throw 1 of 2 (2 PTS),nan,87 - 107,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125330,21501001,4,0:12,Marjanovic Free Throw 2 of 2 (3 PTS),nan,87 - 108,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125331,21501001,4,0:00,nan,nan,87 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

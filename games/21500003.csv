@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+276,21500003,4,12:00,nan,nan,75 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+277,21500003,4,11:47,Barnes P.FOUL (P3.T1) (D.Collins),nan,nan,203084,Harrison Barnes,GSW,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Personal
+278,21500003,4,11:42,nan,Anderson OFF.Foul (P1) (S.Twardoski),nan,201583,Ryan Anderson,NOP,203084,Harrison Barnes,GSW,0,nan,nan,Foul ,Offensive
+279,21500003,4,11:42,nan,Anderson Foul Turnover (P2.T11),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+280,21500003,4,11:29,Speights 13' Pullup Jump Shot (4 PTS) (Livingston 1 AST),nan,75 - 96,201578,Marreese Speights,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+281,21500003,4,11:09,Iguodala STEAL (1 STL),Ajinca Bad Pass Turnover (P1.T12),nan,201582,Alexis Ajinca,NOP,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Bad Pass
+282,21500003,4,11:03,Iguodala  Running Dunk (2 PTS) (Speights 1 AST),nan,75 - 98,2738,Andre Iguodala,GSW,201578,Marreese Speights,GSW,0,nan,nan,Made Shot ,nan
+283,21500003,4,10:49,nan,Ajinca 17' Jump Shot (2 PTS) (Robinson 2 AST),77 - 98,201582,Alexis Ajinca,NOP,101126,Nate Robinson,NOP,0,nan,nan,Made Shot ,nan
+284,21500003,4,10:28,MISS Speights 19' Step Back Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+285,21500003,4,10:27,nan,Anderson REBOUND (Off:1 Def:3),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286,21500003,4,10:14,nan,MISS Ajinca 8' Turnaround Jump Shot,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+287,21500003,4,10:14,Iguodala REBOUND (Off:1 Def:4),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288,21500003,4,10:07,Speights OFF.Foul (P1) (S.Twardoski),nan,nan,201578,Marreese Speights,GSW,202087,Alonzo Gee,NOP,0,nan,nan,Foul ,Offensive
+289,21500003,4,10:07,Speights Foul Turnover (P2.T16),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+290,21500003,4,9:54,nan,Gee Traveling Turnover (P2.T13),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+291,21500003,4,9:54,nan,SUB: Davis FOR Anderson,nan,201583,Ryan Anderson,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+292,21500003,4,9:39,MISS Barbosa 25' 3PT Jump Shot,nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+293,21500003,4,9:39,Speights REBOUND (Off:4 Def:1),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294,21500003,4,9:39,MISS Speights 1' Tip Layup Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+295,21500003,4,9:38,nan,Davis REBOUND (Off:1 Def:4),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+296,21500003,4,9:24,nan,MISS Davis 13' Turnaround Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+297,21500003,4,9:23,nan,Ajinca REBOUND (Off:1 Def:1),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+298,21500003,4,9:21,nan,MISS Ajinca 3' Hook Shot,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+299,21500003,4,9:18,nan,Ajinca REBOUND (Off:2 Def:1),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+300,21500003,4,9:16,nan,Ajinca 2' Layup (4 PTS),79 - 98,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+301,21500003,4,9:01,nan,Ajinca S.FOUL (P3.T1) (J.Capers),nan,201582,Alexis Ajinca,NOP,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+302,21500003,4,9:01,Speights Free Throw 1 of 2 (5 PTS),nan,79 - 99,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+303,21500003,4,9:01,SUB: Green FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+304,21500003,4,9:01,Speights Free Throw 2 of 2 (6 PTS),nan,79 - 100,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+305,21500003,4,8:43,Green STEAL (1 STL),Davis Lost Ball Turnover (P4.T14),nan,203076,Anthony Davis,NOP,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+306,21500003,4,8:37,MISS Green 4' Running Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+307,21500003,4,8:37,Green REBOUND (Off:1 Def:4),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+308,21500003,4,8:37,MISS Green 1' Layup,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+309,21500003,4,8:37,Green REBOUND (Off:2 Def:4),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+310,21500003,4,8:37,MISS Green 2' Tip Layup Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+311,21500003,4,8:37,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+312,21500003,4,8:37,Livingston L.B.FOUL (P1.T2) (S.Twardoski),nan,nan,2733,Shaun Livingston,GSW,202397,Ish Smith,NOP,0,nan,nan,Foul ,Loose Ball
+313,21500003,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+314,21500003,4,8:37,nan,SUB: Gordon FOR Robinson,nan,101126,Nate Robinson,NOP,201569,Eric Gordon,NOP,0,nan,nan,Substitution ,nan
+315,21500003,4,8:37,SUB: Thompson FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+316,21500003,4,8:37,SUB: Ezeli FOR Barbosa,nan,nan,2571,Leandro Barbosa,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Substitution ,nan
+317,21500003,4,8:37,SUB: Curry FOR Speights,nan,nan,201578,Marreese Speights,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+318,21500003,4,8:22,Green P.FOUL (P4.T3) (J.Capers),nan,nan,203110,Draymond Green,GSW,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+319,21500003,4,8:10,nan,Davis 16' Turnaround Jump Shot (14 PTS) (Smith 9 AST),81 - 100,203076,Anthony Davis,NOP,202397,Ish Smith,NOP,0,nan,nan,Made Shot ,nan
+320,21500003,4,7:56,Thompson OFF.Foul (P5) (D.Collins),nan,nan,202691,Klay Thompson,GSW,202397,Ish Smith,NOP,0,nan,nan,Foul ,Offensive
+321,21500003,4,7:56,Thompson Foul Turnover (P6.T17),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+322,21500003,4,7:43,Green P.FOUL (P5.T4) (S.Twardoski),nan,nan,203110,Draymond Green,GSW,202397,Ish Smith,NOP,0,nan,nan,Foul ,Personal
+323,21500003,4,7:34,nan,Davis 16' Jump Shot (16 PTS) (Gordon 4 AST),83 - 100,203076,Anthony Davis,NOP,201569,Eric Gordon,NOP,0,nan,nan,Made Shot ,nan
+324,21500003,4,7:16,MISS Green 25' 3PT Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+325,21500003,4,7:16,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+326,21500003,4,6:56,nan,MISS Davis 12' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+327,21500003,4,6:55,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+328,21500003,4,6:47,MISS Livingston 12' Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+329,21500003,4,6:46,nan,Gee REBOUND (Off:0 Def:4),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+330,21500003,4,6:38,nan,MISS Ajinca 3' Jump Shot,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+331,21500003,4,6:38,Curry REBOUND (Off:3 Def:3),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+332,21500003,4,6:31,MISS Thompson 25' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+333,21500003,4,6:31,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+334,21500003,4,6:16,Curry STEAL (2 STL),Smith Lost Ball Turnover (P2.T15),nan,202397,Ish Smith,NOP,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Lost Ball
+335,21500003,4,6:16,nan,Smith L.B.FOUL (P5.T2) (D.Collins),nan,202397,Ish Smith,NOP,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Loose Ball
+336,21500003,4,6:07,Ezeli OFF.Foul (P2) (S.Twardoski),nan,nan,203105,Festus Ezeli,GSW,202397,Ish Smith,NOP,0,nan,nan,Foul ,Offensive
+337,21500003,4,6:07,Ezeli Foul Turnover (P1.T18),nan,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+338,21500003,4,6:01,nan,Davis OFF.Foul (P4) (S.Twardoski),nan,203076,Anthony Davis,NOP,203105,Festus Ezeli,GSW,0,nan,nan,Foul ,Offensive
+339,21500003,4,6:01,nan,Davis Foul Turnover (P5.T16),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+340,21500003,4,5:42,MISS Livingston 24' 3PT Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+341,21500003,4,5:41,nan,Gordon REBOUND (Off:0 Def:4),nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+342,21500003,4,5:34,Ezeli STEAL (1 STL),Gordon Bad Pass Turnover (P4.T17),nan,201569,Eric Gordon,NOP,203105,Festus Ezeli,GSW,0,nan,nan,Turnover ,Bad Pass
+343,21500003,4,5:21,MISS Curry 13' Floating Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+344,21500003,4,5:21,nan,Davis REBOUND (Off:1 Def:5),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+345,21500003,4,5:12,nan,MISS Gordon 27' 3PT Jump Shot,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+346,21500003,4,5:11,Green REBOUND (Off:2 Def:5),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+347,21500003,4,5:02,Ezeli  Driving Dunk (11 PTS) (Livingston 2 AST),nan,83 - 102,203105,Festus Ezeli,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+348,21500003,4,4:38,nan,Davis 23' Jump Shot (18 PTS),85 - 102,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+349,21500003,4,4:27,nan,Gordon P.FOUL (P1.T3) (J.Capers),nan,201569,Eric Gordon,NOP,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+350,21500003,4,4:27,WARRIORS Timeout: Regular (Full 4 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+351,21500003,4,4:27,SUB: Barnes FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+352,21500003,4,4:27,nan,SUB: Anderson FOR Davis,nan,203076,Anthony Davis,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Substitution ,nan
+353,21500003,4,4:27,nan,SUB: Perkins FOR Gordon,nan,201569,Eric Gordon,NOP,2570,Kendrick Perkins,NOP,0,nan,nan,Substitution ,nan
+354,21500003,4,4:27,nan,SUB: Robinson FOR Ajinca,nan,201582,Alexis Ajinca,NOP,101126,Nate Robinson,NOP,0,nan,nan,Substitution ,nan
+355,21500003,4,4:20,Thompson Lost Ball Turnover (P7.T19),Gee STEAL (3 STL),nan,202691,Klay Thompson,GSW,202087,Alonzo Gee,NOP,0,nan,nan,Turnover ,Lost Ball
+356,21500003,4,4:15,nan,Gee 2' Running Dunk (6 PTS),87 - 102,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+357,21500003,4,3:55,MISS Barnes  3PT Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+358,21500003,4,3:54,Green REBOUND (Off:3 Def:5),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+359,21500003,4,3:48,MISS Thompson 17' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+360,21500003,4,3:47,Barnes REBOUND (Off:5 Def:4),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+361,21500003,4,3:38,MISS Thompson 11' Floating Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+362,21500003,4,3:38,nan,Gee REBOUND (Off:0 Def:5),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+363,21500003,4,3:17,nan,MISS Anderson 9' Jump Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+364,21500003,4,3:17,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+365,21500003,4,3:17,nan,Anderson L.B.FOUL (P2.T4) (J.Capers),nan,201583,Ryan Anderson,NOP,203110,Draymond Green,GSW,0,nan,nan,Foul ,Loose Ball
+366,21500003,4,3:01,Ezeli  Driving Dunk (13 PTS) (Barnes 3 AST),nan,87 - 104,203105,Festus Ezeli,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+367,21500003,4,2:43,nan,Perkins 5' Hook Bank Shot (10 PTS) (Robinson 3 AST),89 - 104,2570,Kendrick Perkins,NOP,101126,Nate Robinson,NOP,0,nan,nan,Made Shot ,nan
+368,21500003,4,2:30,MISS Curry 1' Driving Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+369,21500003,4,2:29,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+370,21500003,4,2:29,nan,Pelicans Timeout: Regular (Reg.4 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+371,21500003,4,2:10,Barnes STEAL (1 STL),Anderson Lost Ball Turnover (P3.T18),nan,201583,Ryan Anderson,NOP,203084,Harrison Barnes,GSW,0,nan,nan,Turnover ,Lost Ball
+372,21500003,4,1:58,MISS Green 18' Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+373,21500003,4,1:57,nan,Anderson REBOUND (Off:1 Def:4),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+374,21500003,4,1:54,nan,Gee  Running Dunk (8 PTS) (Anderson 1 AST),91 - 104,202087,Alonzo Gee,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+375,21500003,4,1:40,MISS Ezeli 17' Jump Shot,nan,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+376,21500003,4,1:40,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+377,21500003,4,1:40,SUB: Livingston FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+378,21500003,4,1:40,SUB: Barbosa FOR Green,nan,nan,203110,Draymond Green,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Substitution ,nan
+379,21500003,4,1:40,SUB: McAdoo FOR Thompson,nan,nan,202691,Klay Thompson,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+380,21500003,4,1:40,SUB: Rush FOR Curry,nan,nan,201939,Stephen Curry,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+381,21500003,4,1:40,SUB: Speights FOR Ezeli,nan,nan,203105,Festus Ezeli,GSW,201578,Marreese Speights,GSW,0,nan,nan,Substitution ,nan
+382,21500003,4,1:40,nan,SUB: Ajinca FOR Perkins,nan,2570,Kendrick Perkins,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+383,21500003,4,1:31,Livingston 15' Turnaround Jump Shot (6 PTS),nan,91 - 106,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+384,21500003,4,1:23,McAdoo STEAL (1 STL),Gee Bad Pass Turnover (P3.T19),nan,202087,Alonzo Gee,NOP,203949,James Michael McAdoo,GSW,0,nan,nan,Turnover ,Bad Pass
+385,21500003,4,1:20,McAdoo OFF.Foul (P3) (J.Capers),nan,nan,203949,James Michael McAdoo,GSW,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Offensive
+386,21500003,4,1:20,McAdoo Foul Turnover (P2.T20),nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+387,21500003,4,1:04,nan,MISS Anderson 29' 3PT Jump Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+388,21500003,4,1:03,nan,Ajinca REBOUND (Off:3 Def:1),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+389,21500003,4,0:52,nan,MISS Ajinca 8' Turnaround Fadeaway Shot,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+390,21500003,4,0:51,nan,Anderson REBOUND (Off:2 Def:4),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+391,21500003,4,0:51,McAdoo S.FOUL (P4.PN) (D.Collins),nan,nan,203949,James Michael McAdoo,GSW,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Shooting
+392,21500003,4,0:51,nan,Anderson Free Throw 1 of 2 (8 PTS),92 - 106,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+393,21500003,4,0:51,nan,Anderson Free Throw 2 of 2 (9 PTS),93 - 106,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+394,21500003,4,0:44,nan,Robinson S.FOUL (P5.PN) (J.Capers),nan,101126,Nate Robinson,NOP,203949,James Michael McAdoo,GSW,0,nan,nan,Foul ,Shooting
+395,21500003,4,0:44,McAdoo Free Throw 1 of 2 (1 PTS),nan,93 - 107,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+396,21500003,4,0:44,McAdoo Free Throw 2 of 2 (2 PTS),nan,93 - 108,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+397,21500003,4,0:26,nan,Ajinca 8' Driving Hook Shot (6 PTS) (Gee 1 AST),95 - 108,201582,Alexis Ajinca,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Made Shot ,nan
+398,21500003,4,0:17,Speights 25' 3PT Jump Shot (9 PTS) (Barbosa 2 AST),nan,95 - 111,201578,Marreese Speights,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+399,21500003,4,0:04,nan,MISS Smith 25' 3PT Jump Shot,nan,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+400,21500003,4,0:03,Barbosa REBOUND (Off:1 Def:5),nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+401,21500003,4,0:00,nan,nan,95 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

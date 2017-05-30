@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+249997,21600783,4,12:00,nan,nan,97 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+249998,21600783,4,11:38,Ellis 4' Driving Finger Roll Layup (6 PTS),nan,97 - 83,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+249999,21600783,4,11:21,nan,Frye 16' Jump Shot (5 PTS),99 - 83,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+250000,21600783,4,11:03,George 24' 3PT Jump Shot (19 PTS) (Ellis 3 AST),nan,99 - 86,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+250001,21600783,4,10:42,Seraphin S.FOUL (P1.T1) (S.Anderson),nan,nan,202338,Kevin Seraphin,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+250002,21600783,4,10:42,nan,James Free Throw 1 of 2 (17 PTS),100 - 86,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250003,21600783,4,10:42,nan,James Free Throw 2 of 2 (18 PTS),101 - 86,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250004,21600783,4,10:30,MISS George 21' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250005,21600783,4,10:29,nan,Frye REBOUND (Off:0 Def:3),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250006,21600783,4,10:08,nan,Korver  3PT Jump Shot (20 PTS) (McRae 1 AST),104 - 86,2594,Kyle Korver,CLE,203895,Jordan McRae,CLE,0,nan,nan,Made Shot ,nan
+250007,21600783,4,9:56,Miles 24' 3PT Jump Shot (23 PTS) (Stuckey 1 AST),nan,104 - 89,101139,CJ Miles,IND,201155,Rodney Stuckey,IND,0,nan,nan,Made Shot ,nan
+250008,21600783,4,9:39,Seraphin P.FOUL (P2.T2) (M.McCutchen),nan,nan,202338,Kevin Seraphin,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+250009,21600783,4,9:31,Miles P.FOUL (P3.T3) (S.Anderson),nan,nan,101139,CJ Miles,IND,101112,Channing Frye,CLE,0,nan,nan,Foul ,Personal
+250010,21600783,4,9:19,Ellis S.FOUL (P2.T4) (S.Anderson),nan,nan,101145,Monta Ellis,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+250011,21600783,4,9:19,Ellis T.FOUL (P2.T4) (S.Anderson),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Foul ,Technical
+250012,21600783,4,9:19,nan,Korver Free Throw Technical (21 PTS),105 - 89,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+250013,21600783,4,9:19,nan,James Free Throw 1 of 2 (19 PTS),106 - 89,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250014,21600783,4,9:19,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250015,21600783,4,9:19,Seraphin REBOUND (Off:0 Def:1),nan,nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250016,21600783,4,9:04,MISS Stuckey 10' Jump Shot,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250017,21600783,4,9:03,nan,Frye REBOUND (Off:0 Def:4),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250018,21600783,4,8:56,nan,MISS James 28' 3PT Pullup Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250019,21600783,4,8:55,nan,Jefferson REBOUND (Off:1 Def:1),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250020,21600783,4,8:35,nan,Korver 19' Pullup Jump Shot (23 PTS) (Jefferson 1 AST),108 - 89,2594,Kyle Korver,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Made Shot ,nan
+250021,21600783,4,8:35,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250022,21600783,4,8:35,SUB: Teague FOR Seraphin,nan,nan,202338,Kevin Seraphin,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+250023,21600783,4,8:35,SUB: Turner FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+250024,21600783,4,8:19,nan,Korver S.FOUL (P2.T1) (M.McCutchen),nan,2594,Kyle Korver,CLE,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+250025,21600783,4,8:19,Turner Free Throw 1 of 2 (9 PTS),nan,108 - 90,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250026,21600783,4,8:19,Turner Free Throw 2 of 2 (10 PTS),nan,108 - 91,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250027,21600783,4,8:07,George BLOCK (1 BLK),MISS McRae 12' Jump Shot,nan,203895,Jordan McRae,CLE,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+250028,21600783,4,8:06,Teague REBOUND (Off:0 Def:2),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250029,21600783,4,7:59,MISS Teague 4' Driving Finger Roll Layup,McRae BLOCK (1 BLK),nan,201952,Jeff Teague,IND,0,nan,nan,203895,Jordan McRae,CLE,Missed Shot ,nan
+250030,21600783,4,7:58,nan,Frye REBOUND (Off:0 Def:5),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250031,21600783,4,7:51,nan,MISS Frye 27' 3PT Jump Shot,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250032,21600783,4,7:51,George REBOUND (Off:1 Def:7),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250033,21600783,4,7:31,Ellis 24' 3PT Jump Shot (9 PTS) (George 6 AST),nan,108 - 94,101145,Monta Ellis,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+250034,21600783,4,7:14,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250035,21600783,4,7:14,Teague REBOUND (Off:0 Def:3),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250036,21600783,4,7:07,nan,Frye S.FOUL (P1.T2) (B.Barnaky),nan,101112,Channing Frye,CLE,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+250037,21600783,4,7:07,Turner Free Throw 1 of 2 (11 PTS),nan,108 - 95,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250038,21600783,4,7:07,nan,SUB: Love FOR Jefferson,nan,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+250039,21600783,4,7:07,nan,SUB: Irving FOR Frye,nan,101112,Channing Frye,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+250040,21600783,4,7:07,nan,SUB: Thompson FOR McRae,nan,203895,Jordan McRae,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+250041,21600783,4,7:07,Turner Free Throw 2 of 2 (12 PTS),nan,108 - 96,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250042,21600783,4,6:56,nan,Thompson 2' Dunk (6 PTS) (Love 2 AST),110 - 96,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+250043,21600783,4,6:37,nan,Love S.FOUL (P2.T3) (M.McCutchen),nan,201567,Kevin Love,CLE,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+250044,21600783,4,6:37,Turner Free Throw 1 of 2 (13 PTS),nan,110 - 97,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250045,21600783,4,6:37,Turner Free Throw 2 of 2 (14 PTS),nan,110 - 98,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250046,21600783,4,6:27,nan,Irving 12' Floating Jump Shot (27 PTS),112 - 98,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+250047,21600783,4,6:09,MISS Miles 24' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250048,21600783,4,6:08,nan,Love REBOUND (Off:0 Def:9),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250049,21600783,4,5:59,nan,James 1' Layup (21 PTS) (Irving 6 AST),114 - 98,2544,LeBron James,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+250050,21600783,4,5:47,George 25' 3PT Jump Shot (22 PTS) (Teague 14 AST),nan,114 - 101,202331,Paul George,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+250051,21600783,4,5:31,nan,MISS Irving 25' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250052,21600783,4,5:30,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250053,21600783,4,5:30,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+250054,21600783,4,5:16,nan,Thompson S.FOUL (P3.T4) (B.Barnaky),nan,202684,Tristan Thompson,CLE,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+250055,21600783,4,5:16,Turner Free Throw 1 of 2 (15 PTS),nan,114 - 102,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250056,21600783,4,5:16,Turner Free Throw 2 of 2 (16 PTS),nan,114 - 103,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250057,21600783,4,5:04,Miles BLOCK (1 BLK),MISS Love 4' Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,101139,CJ Miles,IND,Missed Shot ,nan
+250058,21600783,4,5:03,Miles REBOUND (Off:0 Def:4),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250059,21600783,4,4:57,Ellis 3' Running Finger Roll Layup (11 PTS),nan,114 - 105,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250060,21600783,4,4:39,nan,MISS Irving 18' Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250061,21600783,4,4:39,Teague REBOUND (Off:0 Def:4),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250062,21600783,4,4:32,Teague 4' Running Finger Roll Layup (21 PTS),nan,114 - 107,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250063,21600783,4,4:10,nan,James 11' Step Back Jump Shot (23 PTS),116 - 107,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+250064,21600783,4,3:59,MISS Teague 4' Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250065,21600783,4,3:59,nan,Love REBOUND (Off:0 Def:10),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250066,21600783,4,3:38,nan,MISS James 16' Turnaround Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250067,21600783,4,3:38,Teague REBOUND (Off:0 Def:5),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250068,21600783,4,3:35,nan,Irving P.FOUL (P2.PN) (M.McCutchen),nan,202681,Kyrie Irving,CLE,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+250069,21600783,4,3:35,Teague Free Throw 1 of 2 (22 PTS),nan,116 - 108,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250070,21600783,4,3:35,MISS Teague Free Throw 2 of 2,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250071,21600783,4,3:35,nan,Thompson REBOUND (Off:3 Def:4),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250072,21600783,4,3:23,nan,Irving 10' Driving Bank Shot (29 PTS),118 - 108,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+250073,21600783,4,3:08,MISS Turner 26' 3PT Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250074,21600783,4,3:08,nan,Thompson REBOUND (Off:3 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250075,21600783,4,2:48,nan,Korver 26' 3PT Jump Shot (26 PTS) (James 9 AST),121 - 108,2594,Kyle Korver,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+250076,21600783,4,2:32,MISS George 22' Step Back Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250077,21600783,4,2:32,nan,Thompson REBOUND (Off:3 Def:6),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250078,21600783,4,2:22,nan,Korver 24' 3PT Jump Shot (29 PTS) (Irving 7 AST),124 - 108,2594,Kyle Korver,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+250079,21600783,4,2:22,PACERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250080,21600783,4,2:22,SUB: Robinson III FOR George,nan,nan,202331,Paul George,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+250081,21600783,4,2:09,Ellis 17' Pullup Jump Shot (13 PTS),nan,124 - 110,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250082,21600783,4,1:43,nan,James 13' Turnaround Jump Shot (25 PTS),126 - 110,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+250083,21600783,4,1:33,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250084,21600783,4,1:32,nan,Thompson REBOUND (Off:3 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250085,21600783,4,1:32,nan,Cavaliers Timeout: Short (Reg.4 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250086,21600783,4,1:32,SUB: Young FOR Turner,nan,nan,1626167,Myles Turner,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+250087,21600783,4,1:32,SUB: Christmas FOR Teague,nan,nan,201952,Jeff Teague,IND,1626176,Rakeem Christmas,IND,0,nan,nan,Substitution ,nan
+250088,21600783,4,1:32,SUB: Seraphin FOR Ellis,nan,nan,101145,Monta Ellis,IND,202338,Kevin Seraphin,IND,0,nan,nan,Substitution ,nan
+250089,21600783,4,1:32,nan,SUB: Jones FOR James,nan,2544,LeBron James,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+250090,21600783,4,1:32,nan,SUB: Felder FOR Love,nan,201567,Kevin Love,CLE,1627770,Kay Felder,CLE,0,nan,nan,Substitution ,nan
+250091,21600783,4,1:32,nan,SUB: Liggins FOR Thompson,nan,202684,Tristan Thompson,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Substitution ,nan
+250092,21600783,4,1:32,nan,SUB: Jefferson FOR Irving,nan,202681,Kyrie Irving,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+250093,21600783,4,1:32,nan,SUB: McRae FOR Korver,nan,2594,Kyle Korver,CLE,203895,Jordan McRae,CLE,0,nan,nan,Substitution ,nan
+250094,21600783,4,1:10,nan,Jefferson 26' 3PT Jump Shot (7 PTS) (Liggins 1 AST),129 - 110,2210,Richard Jefferson,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Made Shot ,nan
+250095,21600783,4,0:57,Robinson III 18' Jump Shot (2 PTS),nan,129 - 112,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250096,21600783,4,0:36,nan,Jones 25' 3PT Jump Shot (3 PTS) (McRae 2 AST),132 - 112,2592,James Jones,CLE,203895,Jordan McRae,CLE,0,nan,nan,Made Shot ,nan
+250097,21600783,4,0:29,Young 23' Pullup Jump Shot (2 PTS),nan,132 - 114,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250098,21600783,4,0:05,nan,MISS McRae 29' 3PT Jump Shot,nan,203895,Jordan McRae,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250099,21600783,4,0:05,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250100,21600783,4,0:05,nan,Cavaliers Turnover: Shot Clock (T#10),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+250101,21600783,4,0:00,Young 25' 3PT Pullup Jump Shot (5 PTS),nan,132 - 117,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+250102,21600783,4,0:00,nan,nan,132 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

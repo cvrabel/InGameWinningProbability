@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+57577,21500461,4,12:00,nan,nan,86 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+57578,21500461,4,11:40,MISS Eddie  3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57579,21500461,4,11:38,Porter Jr. REBOUND (Off:3 Def:4),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57580,21500461,4,11:36,Porter Jr. 8' Fadeaway Jumper (16 PTS),nan,86 - 73,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+57581,21500461,4,11:11,Porter Jr. S.FOUL (P3.T1) (H.Workman),nan,nan,203490,Otto Porter Jr.,WAS,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting
+57582,21500461,4,11:11,nan,Aldrich Free Throw 1 of 2 (6 PTS),87 - 73,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57583,21500461,4,11:11,nan,Aldrich Free Throw 2 of 2 (7 PTS),88 - 73,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57584,21500461,4,10:47,MISS Eddie  3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57585,21500461,4,10:46,Porter Jr. REBOUND (Off:4 Def:4),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57586,21500461,4,10:42,Humphries 2' Layup (4 PTS) (Porter Jr. 2 AST),nan,88 - 75,2743,Kris Humphries,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+57587,21500461,4,10:22,Humphries S.FOUL (P3.T2) (E.Malloy),nan,nan,2743,Kris Humphries,WAS,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting
+57588,21500461,4,10:22,nan,Aldrich Free Throw 1 of 2 (8 PTS),89 - 75,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57589,21500461,4,10:22,nan,Aldrich Free Throw 2 of 2 (9 PTS),90 - 75,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57590,21500461,4,10:07,Humphries Bad Pass Turnover (P2.T11),Rivers STEAL (2 STL),nan,2743,Kris Humphries,WAS,203085,Austin Rivers,LAC,0,nan,nan,Turnover ,Bad Pass
+57591,21500461,4,10:04,Sessions FLAGRANT.FOUL.TYPE1 (P1.T3) (H.Workman),nan,nan,201196,Ramon Sessions,WAS,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Flagrant Type 1
+57592,21500461,4,10:04,nan,nan,nan,432,Pete Chilcutt,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+57593,21500461,4,10:04,nan,MISS Rivers Free Throw Flagrant 1 of 2,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+57594,21500461,4,10:04,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+57595,21500461,4,10:04,nan,Rivers Free Throw Flagrant 2 of 2 (4 PTS),91 - 75,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+57596,21500461,4,9:54,nan,Crawford 28' 3PT Jump Shot (17 PTS) (Aldrich 2 AST),94 - 75,2037,Jamal Crawford,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Made Shot ,nan
+57597,21500461,4,9:41,nan,Prigioni P.FOUL (P2.T1) (B.Forte),nan,203143,Pablo Prigioni,LAC,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Personal
+57598,21500461,4,9:41,SUB: Wall FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+57599,21500461,4,9:41,SUB: Gortat FOR Humphries,nan,nan,2743,Kris Humphries,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+57600,21500461,4,9:28,MISS Wall 2' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57601,21500461,4,9:27,Gortat REBOUND (Off:2 Def:12),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57602,21500461,4,9:26,WIZARDS Turnover: Shot Clock (T#12),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+57603,21500461,4,9:17,Eddie STEAL (1 STL),Crawford Lost Ball Turnover (P2.T10),nan,2037,Jamal Crawford,LAC,204067,Jarell Eddie,WAS,0,nan,nan,Turnover ,Lost Ball
+57604,21500461,4,9:10,MISS Eddie 28' 3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57605,21500461,4,9:09,nan,Aldrich REBOUND (Off:0 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57606,21500461,4,8:53,nan,Aldrich 4' Turnaround Hook Shot (11 PTS),96 - 75,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+57607,21500461,4,8:42,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+57608,21500461,4,8:42,SUB: Temple FOR Eddie,nan,nan,204067,Jarell Eddie,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+57609,21500461,4,8:35,Gortat Lost Ball Turnover (P1.T13),Aldrich STEAL (2 STL),nan,101162,Marcin Gortat,WAS,202332,Cole Aldrich,LAC,0,nan,nan,Turnover ,Lost Ball
+57610,21500461,4,8:30,nan,Rivers Out of Bounds Lost Ball Turnover (P1.T11),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+57611,21500461,4,8:22,Wall Bad Pass Turnover (P5.T14),Aldrich STEAL (3 STL),nan,202322,John Wall,WAS,202332,Cole Aldrich,LAC,0,nan,nan,Turnover ,Bad Pass
+57612,21500461,4,8:15,Wall STEAL (1 STL),Rivers Bad Pass Turnover (P2.T12),nan,203085,Austin Rivers,LAC,202322,John Wall,WAS,0,nan,nan,Turnover ,Bad Pass
+57613,21500461,4,8:07,MISS Wall 19' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57614,21500461,4,8:06,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57615,21500461,4,7:52,nan,MISS Aldrich 7' Jump Shot,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57616,21500461,4,7:51,Gortat REBOUND (Off:2 Def:13),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57617,21500461,4,7:38,MISS Sessions 13' Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57618,21500461,4,7:37,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57619,21500461,4,7:23,nan,Aldrich 5' Floating Jump Shot (13 PTS) (Rivers 1 AST),98 - 75,202332,Cole Aldrich,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+57620,21500461,4,7:09,Porter Jr. 25' 3PT Jump Shot (19 PTS) (Wall 10 AST),nan,98 - 78,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+57621,21500461,4,6:50,nan,MISS W. Johnson 24' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57622,21500461,4,6:49,Wall REBOUND (Off:4 Def:1),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57623,21500461,4,6:43,MISS Porter Jr. 26' 3PT Jump Shot,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57624,21500461,4,6:41,nan,Aldrich REBOUND (Off:0 Def:4),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57625,21500461,4,6:26,nan,Rivers Out of Bounds Lost Ball Turnover (P3.T13),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+57626,21500461,4,6:12,MISS Gortat 6' Jump Shot,nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57627,21500461,4,6:11,nan,Aldrich REBOUND (Off:0 Def:5),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57628,21500461,4,6:04,nan,Crawford 15' Pullup Jump Shot (19 PTS),100 - 78,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+57629,21500461,4,5:57,Porter Jr. 2' Driving Layup (21 PTS) (Wall 11 AST),nan,100 - 80,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+57630,21500461,4,5:50,nan,Clippers Timeout: Regular (Reg.3 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57631,21500461,4,5:50,SUB: Eddie FOR Sessions,nan,nan,201196,Ramon Sessions,WAS,204067,Jarell Eddie,WAS,0,nan,nan,Substitution ,nan
+57632,21500461,4,5:40,nan,W. Johnson 21' Jump Shot (12 PTS) (Aldrich 3 AST),102 - 80,202325,Wesley Johnson,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Made Shot ,nan
+57633,21500461,4,5:23,Wall Bad Pass Turnover (P6.T15),Aldrich STEAL (4 STL),nan,202322,John Wall,WAS,202332,Cole Aldrich,LAC,0,nan,nan,Turnover ,Bad Pass
+57634,21500461,4,5:05,nan,Prigioni  Driving Finger Roll Layup (2 PTS),104 - 80,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+57635,21500461,4,4:59,MISS Temple  Layup,nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57636,21500461,4,4:56,nan,W. Johnson REBOUND (Off:0 Def:4),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57637,21500461,4,4:42,nan,MISS W. Johnson 25' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57638,21500461,4,4:40,Gortat REBOUND (Off:2 Def:14),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57639,21500461,4,4:33,Temple Bad Pass Turnover (P2.T16),Prigioni STEAL (1 STL),nan,202066,Garrett Temple,WAS,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Bad Pass
+57640,21500461,4,4:15,nan,Crawford 16' Pullup Jump Shot (21 PTS) (Rivers 2 AST),106 - 80,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+57641,21500461,4,4:03,MISS Eddie 28' 3PT Jump Shot,nan,nan,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57642,21500461,4,4:02,nan,Prigioni REBOUND (Off:0 Def:2),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57643,21500461,4,3:56,Temple P.FOUL (P4.T4) (B.Forte),nan,nan,202066,Garrett Temple,WAS,203143,Pablo Prigioni,LAC,0,nan,nan,Foul ,Personal
+57644,21500461,4,3:56,SUB: Oubre Jr. FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+57645,21500461,4,3:56,SUB: Sessions FOR Wall,nan,nan,202322,John Wall,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Substitution ,nan
+57646,21500461,4,3:56,SUB: Blair FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Substitution ,nan
+57647,21500461,4,3:56,nan,SUB: Stephenson FOR Rivers,nan,203085,Austin Rivers,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Substitution ,nan
+57648,21500461,4,3:46,Blair BLOCK (1 BLK),MISS Aldrich 1' Layup,nan,202332,Cole Aldrich,LAC,0,nan,nan,201971,DeJuan Blair,WAS,Missed Shot ,nan
+57649,21500461,4,3:43,Oubre Jr. REBOUND (Off:0 Def:3),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57650,21500461,4,3:41,Sessions 1' Driving Layup (11 PTS),nan,106 - 82,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+57651,21500461,4,3:41,nan,W. Johnson S.FOUL (P3.T2) (E.Malloy),nan,202325,Wesley Johnson,LAC,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Shooting
+57652,21500461,4,3:41,Sessions Free Throw 1 of 1 (12 PTS),nan,106 - 83,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57653,21500461,4,3:25,nan,W. Johnson 1' Cutting Finger Roll Layup Shot (14 PTS) (Stephenson 1 AST),108 - 83,202325,Wesley Johnson,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Made Shot ,nan
+57654,21500461,4,3:12,Blair OFF.Foul (P1) (E.Malloy),nan,nan,201971,DeJuan Blair,WAS,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Offensive
+57655,21500461,4,3:12,Blair Foul Turnover (P1.T17),nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+57656,21500461,4,3:12,nan,SUB: Dawson FOR Crawford,nan,2037,Jamal Crawford,LAC,1626183,Branden Dawson,LAC,0,nan,nan,Substitution ,nan
+57657,21500461,4,3:00,nan,W. Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+57658,21500461,4,2:45,MISS Sessions 3' Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57659,21500461,4,2:44,nan,Aldrich REBOUND (Off:0 Def:6),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57660,21500461,4,2:31,Sessions STEAL (3 STL),Prigioni Bad Pass Turnover (P1.T15),nan,203143,Pablo Prigioni,LAC,201196,Ramon Sessions,WAS,0,nan,nan,Turnover ,Bad Pass
+57661,21500461,4,2:27,nan,W. Johnson S.FOUL (P4.T3) (H.Workman),nan,202325,Wesley Johnson,LAC,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Shooting
+57662,21500461,4,2:27,WIZARDS Timeout: Regular (Full 5 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57663,21500461,4,2:27,MISS Temple Free Throw 1 of 2,nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57664,21500461,4,2:27,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+57665,21500461,4,2:27,Temple Free Throw 2 of 2 (3 PTS),nan,108 - 84,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57666,21500461,4,2:14,nan,MISS Stephenson 20' Jump Shot,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57667,21500461,4,2:13,Oubre Jr. REBOUND (Off:0 Def:4),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57668,21500461,4,1:57,nan,Dawson S.FOUL (P1.T4) (B.Forte),nan,1626183,Branden Dawson,LAC,204067,Jarell Eddie,WAS,0,nan,nan,Foul ,Shooting
+57669,21500461,4,1:57,Eddie Free Throw 1 of 2 (7 PTS),nan,108 - 85,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57670,21500461,4,1:57,Eddie Free Throw 2 of 2 (8 PTS),nan,108 - 86,204067,Jarell Eddie,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57671,21500461,4,1:45,Eddie BLOCK (1 BLK),MISS Dawson 1' Layup,nan,1626183,Branden Dawson,LAC,0,nan,nan,204067,Jarell Eddie,WAS,Missed Shot ,nan
+57672,21500461,4,1:43,Blair REBOUND (Off:0 Def:1),nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57673,21500461,4,1:37,Temple 1' Reverse Layup (5 PTS) (Sessions 2 AST),nan,108 - 88,202066,Garrett Temple,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+57674,21500461,4,1:16,nan,MISS Aldrich 4' Jump Shot,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57675,21500461,4,1:15,Blair REBOUND (Off:0 Def:2),nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57676,21500461,4,1:00,nan,Dawson S.FOUL (P2.PN) (E.Malloy),nan,1626183,Branden Dawson,LAC,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Shooting
+57677,21500461,4,1:00,MISS Temple Free Throw 1 of 2,nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57678,21500461,4,1:00,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+57679,21500461,4,1:00,Temple Free Throw 2 of 2 (6 PTS),nan,108 - 89,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57680,21500461,4,0:41,nan,MISS Aldrich 3' Jump Shot,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57681,21500461,4,0:40,Temple REBOUND (Off:2 Def:1),nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57682,21500461,4,0:35,MISS Oubre Jr. 1' Layup,Dawson BLOCK (1 BLK),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,1626183,Branden Dawson,LAC,Missed Shot ,nan
+57683,21500461,4,0:34,Oubre Jr. REBOUND (Off:1 Def:4),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57684,21500461,4,0:34,Oubre Jr. 1' Putback Layup (5 PTS),nan,108 - 91,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+57685,21500461,4,0:14,Eddie STEAL (2 STL),Aldrich Lost Ball Turnover (P1.T16),nan,202332,Cole Aldrich,LAC,204067,Jarell Eddie,WAS,0,nan,nan,Turnover ,Lost Ball
+57686,21500461,4,0:00,nan,nan,108 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

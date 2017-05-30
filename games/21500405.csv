@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+50958,21500405,4,12:00,nan,nan,60 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+50959,21500405,4,11:42,nan,MISS Thompson 22' Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50960,21500405,4,11:42,Thompson REBOUND (Off:1 Def:4),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50961,21500405,4,11:31,MISS Shumpert 17' Jump Shot,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50962,21500405,4,11:31,nan,Noel REBOUND (Off:3 Def:5),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50963,21500405,4,11:18,nan,MISS McConnell 10' Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50964,21500405,4,11:18,nan,Stauskas REBOUND (Off:1 Def:0),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50965,21500405,4,11:11,Shumpert STEAL (1 STL),McConnell Bad Pass Turnover (P2.T19),nan,204456,T.J. McConnell,PHI,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+50966,21500405,4,10:59,Shumpert 13' Jump Shot (3 PTS),nan,60 - 90,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+50967,21500405,4,10:40,nan,MISS Noel 8' Hook Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50968,21500405,4,10:40,Jones REBOUND (Off:0 Def:2),nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50969,21500405,4,10:29,Jones 23' Jump Shot (2 PTS) (Shumpert 4 AST),nan,60 - 92,2592,James Jones,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+50970,21500405,4,10:29,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+50971,21500405,4,10:29,nan,SUB: Sampson FOR Holmes,nan,1626158,Richaun Holmes,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+50972,21500405,4,10:29,SUB: Irving FOR Shumpert,nan,nan,202697,Iman Shumpert,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+50973,21500405,4,10:16,nan,Sampson  Driving Dunk (7 PTS) (McConnell 1 AST),62 - 92,203960,JaKarr Sampson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+50974,21500405,4,9:59,MISS Jones 25' 3PT Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50975,21500405,4,9:58,Thompson REBOUND (Off:2 Def:4),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50976,21500405,4,9:38,MISS Irving 17' Pullup Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50977,21500405,4,9:38,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50978,21500405,4,9:38,Thompson L.B.FOUL (P2.T1) (S.Wright),nan,nan,202684,Tristan Thompson,CLE,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Loose Ball
+50979,21500405,4,9:31,Irving STEAL (2 STL),McConnell Bad Pass Turnover (P3.T20),nan,204456,T.J. McConnell,PHI,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+50980,21500405,4,9:23,Jefferson  3PT Jump Shot (6 PTS) (Irving 3 AST),nan,62 - 95,2210,Richard Jefferson,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+50981,21500405,4,8:56,nan,Noel 14' Jump Shot (10 PTS),64 - 95,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+50982,21500405,4,8:36,Irving Bad Pass Turnover (P1.T9),Stauskas STEAL (1 STL),nan,202681,Kyrie Irving,CLE,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Bad Pass
+50983,21500405,4,8:25,nan,MISS Thompson 2' Layup,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50984,21500405,4,8:25,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50985,21500405,4,8:09,Irving 27' 3PT Jump Shot (12 PTS),nan,64 - 98,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+50986,21500405,4,8:08,nan,76ers Timeout: Regular (Reg.6 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+50987,21500405,4,8:08,SUB: Varejao FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,2760,Anderson Varejao,CLE,0,nan,nan,Substitution ,nan
+50988,21500405,4,8:08,nan,SUB: Covington FOR Thompson,nan,203138,Hollis Thompson,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+50989,21500405,4,7:59,Varejao S.FOUL (P1.T2) (B.Adams),nan,nan,2760,Anderson Varejao,CLE,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+50990,21500405,4,7:59,nan,Noel Free Throw 1 of 2 (11 PTS),65 - 98,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50991,21500405,4,7:59,nan,MISS Noel Free Throw 2 of 2,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50992,21500405,4,7:58,Jones REBOUND (Off:0 Def:3),nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50993,21500405,4,7:37,Cunningham  Alley Oop Dunk (2 PTS) (Irving 4 AST),nan,65 - 100,203099,Jared Cunningham,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+50994,21500405,4,7:26,nan,MISS Noel 18' Jump Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50995,21500405,4,7:25,Jefferson REBOUND (Off:0 Def:1),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50996,21500405,4,7:12,MISS Jefferson 25' 3PT Jump Shot,nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50997,21500405,4,7:12,nan,McConnell REBOUND (Off:0 Def:3),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50998,21500405,4,7:07,nan,MISS Covington 26' 3PT Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50999,21500405,4,7:06,nan,McConnell REBOUND (Off:1 Def:3),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51000,21500405,4,7:04,nan,McConnell 12' Jump Shot (2 PTS),67 - 100,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+51001,21500405,4,7:04,Jones L.B.FOUL (P1.T3) (S.Wright),nan,nan,2592,James Jones,CLE,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Loose Ball
+51002,21500405,4,7:04,nan,MISS Noel Free Throw 1 of 1,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+51003,21500405,4,7:03,Jones REBOUND (Off:0 Def:4),nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51004,21500405,4,6:40,CAVALIERS Turnover: Shot Clock (T#10),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+51005,21500405,4,6:28,nan,MISS Covington 26' 3PT Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51006,21500405,4,6:27,Cunningham REBOUND (Off:0 Def:1),nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51007,21500405,4,6:13,MISS Cunningham 26' 3PT Jump Shot,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51008,21500405,4,6:13,Varejao REBOUND (Off:1 Def:2),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51009,21500405,4,6:06,MISS Jones 21' Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51010,21500405,4,6:06,nan,Sampson REBOUND (Off:1 Def:5),nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51011,21500405,4,5:56,nan,Stauskas Out of Bounds Lost Ball Turnover (P1.T21),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+51012,21500405,4,5:56,SUB: Kaun FOR Irving,nan,nan,202681,Kyrie Irving,CLE,201619,Sasha Kaun,CLE,0,nan,nan,Substitution ,nan
+51013,21500405,4,5:37,MISS Varejao 10' Hook Shot,nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51014,21500405,4,5:35,Kaun REBOUND (Off:1 Def:0),nan,nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51015,21500405,4,5:23,MISS Cunningham  Driving Layup,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51016,21500405,4,5:21,nan,Noel REBOUND (Off:3 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51017,21500405,4,5:07,nan,McConnell 11' Pullup Jump Shot (4 PTS),69 - 100,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+51018,21500405,4,4:51,Jefferson 25' 3PT Jump Shot (9 PTS) (Jones 1 AST),nan,69 - 103,2210,Richard Jefferson,CLE,2592,James Jones,CLE,0,nan,nan,Made Shot ,nan
+51019,21500405,4,4:34,Jefferson S.FOUL (P3.T4) (J.VanDuyne),nan,nan,2210,Richard Jefferson,CLE,203960,JaKarr Sampson,PHI,0,nan,nan,Foul ,Shooting
+51020,21500405,4,4:34,nan,MISS Sampson Free Throw 1 of 2,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51021,21500405,4,4:34,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51022,21500405,4,4:34,nan,Sampson Free Throw 2 of 2 (8 PTS),70 - 103,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51023,21500405,4,4:09,MISS Jones 24' 3PT Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51024,21500405,4,4:09,nan,Sampson REBOUND (Off:1 Def:6),nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51025,21500405,4,4:02,nan,Sampson 14' Running Pull-Up Jump Shot (10 PTS),72 - 103,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+51026,21500405,4,3:49,nan,Noel P.FOUL (P3.T1) (B.Adams),nan,203457,Nerlens Noel,PHI,2760,Anderson Varejao,CLE,0,nan,nan,Foul ,Personal
+51027,21500405,4,3:49,nan,SUB: Grant FOR Sampson,nan,203960,JaKarr Sampson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+51028,21500405,4,3:41,nan,Grant S.FOUL (P3.T2) (S.Wright),nan,203924,Jerami Grant,PHI,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Shooting
+51029,21500405,4,3:41,Cunningham Free Throw 1 of 2 (3 PTS),nan,72 - 104,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51030,21500405,4,3:41,MISS Cunningham Free Throw 2 of 2,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51031,21500405,4,3:40,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51032,21500405,4,3:40,Varejao P.FOUL (P2.PN) (J.VanDuyne),nan,nan,2760,Anderson Varejao,CLE,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Personal
+51033,21500405,4,3:40,nan,Grant Free Throw 1 of 2 (3 PTS),73 - 104,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51034,21500405,4,3:40,nan,Grant Free Throw 2 of 2 (4 PTS),74 - 104,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51035,21500405,4,3:19,nan,Covington P.FOUL (P3.T3) (B.Adams),nan,203496,Robert Covington,PHI,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Personal
+51036,21500405,4,3:19,CAVALIERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51037,21500405,4,3:19,nan,SUB: Holmes FOR Covington,nan,203496,Robert Covington,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+51038,21500405,4,3:07,MISS Varejao 7' Hook Shot,nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51039,21500405,4,3:06,nan,Noel REBOUND (Off:3 Def:7),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51040,21500405,4,2:58,nan,Grant 2' Running Finger Roll Layup (6 PTS) (McConnell 2 AST),76 - 104,203924,Jerami Grant,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+51041,21500405,4,2:42,MISS Jones 20' Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51042,21500405,4,2:42,nan,Noel REBOUND (Off:3 Def:8),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51043,21500405,4,2:31,nan,Noel 18' Jump Shot (13 PTS) (McConnell 3 AST),78 - 104,203457,Nerlens Noel,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+51044,21500405,4,2:14,Kaun Bad Pass Turnover (P1.T11),McConnell STEAL (1 STL),nan,201619,Sasha Kaun,CLE,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+51045,21500405,4,2:08,nan,McConnell 13' Jump Bank Shot (6 PTS) (Grant 1 AST),80 - 104,204456,T.J. McConnell,PHI,203924,Jerami Grant,PHI,0,nan,nan,Made Shot ,nan
+51046,21500405,4,2:01,nan,Grant P.FOUL (P4.T4) (B.Adams),nan,203924,Jerami Grant,PHI,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Personal
+51047,21500405,4,1:51,Kaun 1' Cutting Layup Shot (2 PTS) (Cunningham 1 AST),nan,80 - 106,201619,Sasha Kaun,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Made Shot ,nan
+51048,21500405,4,1:38,Kaun S.FOUL (P1.PN) (J.VanDuyne),nan,nan,201619,Sasha Kaun,CLE,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+51049,21500405,4,1:38,nan,MISS Noel Free Throw 1 of 2,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51050,21500405,4,1:38,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51051,21500405,4,1:38,nan,MISS Noel Free Throw 2 of 2,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51052,21500405,4,1:37,Jones REBOUND (Off:0 Def:5),nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51053,21500405,4,1:18,MISS Kaun 1' Layup,nan,nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51054,21500405,4,1:18,Kaun REBOUND (Off:2 Def:0),nan,nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51055,21500405,4,1:16,Kaun 2' Putback Layup (4 PTS),nan,80 - 108,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+51056,21500405,4,1:05,nan,McConnell 9' Jump Shot (8 PTS),82 - 108,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+51057,21500405,4,0:53,MISS Jefferson 18' Jump Shot,nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51058,21500405,4,0:53,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51059,21500405,4,0:44,nan,MISS McConnell 16' Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51060,21500405,4,0:43,nan,Noel REBOUND (Off:4 Def:8),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51061,21500405,4,0:43,nan,Noel  Tip Dunk Shot (15 PTS),84 - 108,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+51062,21500405,4,0:26,MISS Varejao 14' Step Back Jump Shot,nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51063,21500405,4,0:25,nan,McConnell REBOUND (Off:1 Def:4),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51064,21500405,4,0:25,Varejao P.FOUL (P3.PN) (B.Adams),nan,nan,2760,Anderson Varejao,CLE,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+51065,21500405,4,0:25,nan,McConnell Free Throw 1 of 2 (9 PTS),85 - 108,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51066,21500405,4,0:25,nan,McConnell Free Throw 2 of 2 (10 PTS),86 - 108,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51067,21500405,4,0:01,CAVALIERS Turnover: Shot Clock (T#12),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+51068,21500405,4,0:00,nan,MISS Holmes 44' 3PT Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51069,21500405,4,0:00,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51070,21500405,4,0:00,nan,nan,86 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

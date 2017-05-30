@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+132427,21501061,4,12:00,nan,nan,60 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+132428,21501061,4,11:48,nan,Ingles Step Out of Bounds Turnover (P1.T19),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+132429,21501061,4,11:32,nan,Hood S.FOUL (P4.T1) (M.Davis),nan,203918,Rodney Hood,UTA,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+132430,21501061,4,11:32,Harden Free Throw 1 of 3 (15 PTS),nan,60 - 67,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+132431,21501061,4,11:32,Harden Free Throw 2 of 3 (16 PTS),nan,60 - 68,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+132432,21501061,4,11:32,nan,SUB: Booker FOR Lyles,nan,1626168,Trey Lyles,UTA,202344,Trevor Booker,UTA,0,nan,nan,Substitution ,nan
+132433,21501061,4,11:32,Harden Free Throw 3 of 3 (17 PTS),nan,60 - 69,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+132434,21501061,4,11:24,Beverley P.FOUL (P3.T1) (E.Lewis),nan,nan,201976,Patrick Beverley,HOU,202714,Shelvin Mack,UTA,0,nan,nan,Foul ,Personal
+132435,21501061,4,11:10,nan,Mack Bad Pass Turnover (P5.T20),nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+132436,21501061,4,11:03,Harden Traveling Turnover (P4.T11),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+132437,21501061,4,10:46,Capela S.FOUL (P3.T2) (E.Lewis),nan,nan,203991,Clint Capela,HOU,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Shooting
+132438,21501061,4,10:46,nan,Hood Free Throw 1 of 2 (3 PTS),61 - 69,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132439,21501061,4,10:46,nan,Hood Free Throw 2 of 2 (4 PTS),62 - 69,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132440,21501061,4,10:28,Howard 3 Second Violation Turnover (P2.T12),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+132441,21501061,4,10:16,Capela BLOCK (2 BLK),MISS Gobert  Cutting Dunk Shot,nan,203497,Rudy Gobert,UTA,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+132442,21501061,4,10:15,Harden REBOUND (Off:0 Def:6),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132443,21501061,4,10:06,Harden 3' Driving Layup (19 PTS),nan,62 - 71,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+132444,21501061,4,9:43,nan,MISS Booker  3PT Jump Shot,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132445,21501061,4,9:42,nan,Gobert REBOUND (Off:4 Def:3),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132446,21501061,4,9:42,nan,MISS Gobert 2' Tip Layup Shot,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132447,21501061,4,9:40,Harden REBOUND (Off:0 Def:7),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132448,21501061,4,9:36,Harden Bad Pass Turnover (P5.T13),Booker STEAL (1 STL),nan,201935,James Harden,HOU,202344,Trevor Booker,UTA,0,nan,nan,Turnover ,Bad Pass
+132449,21501061,4,9:31,nan,Hood 24' 3PT Jump Shot (7 PTS) (Ingles 1 AST),65 - 71,203918,Rodney Hood,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+132450,21501061,4,9:14,MISS Brewer 8' Fadeaway Jumper,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132451,21501061,4,9:14,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132452,21501061,4,9:14,nan,SUB: Hayward FOR Ingles,nan,204060,Joe Ingles,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+132453,21501061,4,9:14,nan,SUB: Favors FOR Gobert,nan,203497,Rudy Gobert,UTA,202324,Derrick Favors,UTA,0,nan,nan,Substitution ,nan
+132454,21501061,4,9:14,SUB: Ariza FOR Capela,nan,nan,203991,Clint Capela,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+132455,21501061,4,9:06,MISS Howard 4' Hook Shot,Booker BLOCK (1 BLK),nan,2730,Dwight Howard,HOU,0,nan,nan,202344,Trevor Booker,UTA,Missed Shot ,nan
+132456,21501061,4,9:05,nan,Favors REBOUND (Off:5 Def:8),nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132457,21501061,4,8:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132458,21501061,4,8:44,nan,Hayward 25' 3PT Jump Shot (15 PTS) (Favors 3 AST),68 - 71,202330,Gordon Hayward,UTA,202324,Derrick Favors,UTA,0,nan,nan,Made Shot ,nan
+132459,21501061,4,8:23,MISS Beverley 25' 3PT Jump Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132460,21501061,4,8:23,nan,Hood REBOUND (Off:0 Def:5),nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132461,21501061,4,8:02,nan,Mack 9' Driving Floating Jump Shot (10 PTS) (Hayward 4 AST),70 - 71,202714,Shelvin Mack,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+132462,21501061,4,7:51,MISS Brewer  3PT Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132463,21501061,4,7:50,Howard REBOUND (Off:1 Def:7),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132464,21501061,4,7:43,nan,Favors P.FOUL (P2.T2) (E.Lewis),nan,202324,Derrick Favors,UTA,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal
+132465,21501061,4,7:30,Harden 11' Pullup Jump Shot (21 PTS),nan,70 - 73,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+132466,21501061,4,7:10,Harden STEAL (7 STL),Mack Lost Ball Turnover (P6.T21),nan,202714,Shelvin Mack,UTA,201935,James Harden,HOU,0,nan,nan,Turnover ,Lost Ball
+132467,21501061,4,7:03,MISS Ariza  3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132468,21501061,4,7:02,nan,Mack REBOUND (Off:0 Def:2),nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132469,21501061,4,6:48,nan,MISS Favors 17' Jump Shot,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132470,21501061,4,6:48,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132471,21501061,4,6:31,nan,MISS Mack 25' 3PT Jump Shot,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132472,21501061,4,6:30,nan,Favors REBOUND (Off:6 Def:8),nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132473,21501061,4,6:24,nan,MISS Hood 25' 3PT Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132474,21501061,4,6:24,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132475,21501061,4,6:24,Ariza L.B.FOUL (P2.T3) (N.Buchert),nan,nan,2772,Trevor Ariza,HOU,202344,Trevor Booker,UTA,0,nan,nan,Foul ,Loose Ball
+132476,21501061,4,6:05,nan,Mack  3PT Jump Shot (13 PTS) (Hayward 5 AST),73 - 73,202714,Shelvin Mack,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+132477,21501061,4,5:54,MISS Harden 4' Driving Layup,Favors BLOCK (3 BLK),nan,201935,James Harden,HOU,0,nan,nan,202324,Derrick Favors,UTA,Missed Shot ,nan
+132478,21501061,4,5:54,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132479,21501061,4,5:54,ROCKETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132480,21501061,4,5:54,SUB: Beasley FOR Brewer,nan,nan,201147,Corey Brewer,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+132481,21501061,4,5:48,Harden 26' 3PT Jump Shot (24 PTS) (Howard 1 AST),nan,73 - 76,201935,James Harden,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+132482,21501061,4,5:31,Harden STEAL (8 STL),Booker Bad Pass Turnover (P1.T22),nan,202344,Trevor Booker,UTA,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+132483,21501061,4,5:26,Ariza  Cutting Dunk Shot (12 PTS) (Beverley 6 AST),nan,73 - 78,2772,Trevor Ariza,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+132484,21501061,4,5:04,nan,Booker  Cutting Dunk Shot (10 PTS) (Favors 4 AST),75 - 78,202344,Trevor Booker,UTA,202324,Derrick Favors,UTA,0,nan,nan,Made Shot ,nan
+132485,21501061,4,4:35,MISS Harden 11' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132486,21501061,4,4:34,nan,Hayward REBOUND (Off:1 Def:5),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132487,21501061,4,4:16,Ariza S.FOUL (P3.T4) (E.Lewis),nan,nan,2772,Trevor Ariza,HOU,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+132488,21501061,4,4:16,nan,Hayward Free Throw 1 of 2 (16 PTS),76 - 78,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132489,21501061,4,4:16,nan,SUB: Ingles FOR Hood,nan,203918,Rodney Hood,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+132490,21501061,4,4:16,nan,Hayward Free Throw 2 of 2 (17 PTS),77 - 78,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132491,21501061,4,3:59,MISS Harden 13' Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132492,21501061,4,3:58,nan,Favors REBOUND (Off:6 Def:9),nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132493,21501061,4,3:43,Howard BLOCK (6 BLK),MISS Hayward 10' Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,2730,Dwight Howard,HOU,Missed Shot ,nan
+132494,21501061,4,3:43,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132495,21501061,4,3:41,Ariza P.FOUL (P4.PN) (E.Lewis),nan,nan,2772,Trevor Ariza,HOU,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+132496,21501061,4,3:41,nan,Hayward Free Throw 1 of 2 (18 PTS),78 - 78,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132497,21501061,4,3:41,nan,Hayward Free Throw 2 of 2 (19 PTS),79 - 78,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132498,21501061,4,3:18,Beverley 24' 3PT Jump Shot (3 PTS) (Harden 8 AST),nan,79 - 81,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+132499,21501061,4,3:00,nan,Favors 12' Jump Shot (15 PTS) (Booker 4 AST),81 - 81,202324,Derrick Favors,UTA,202344,Trevor Booker,UTA,0,nan,nan,Made Shot ,nan
+132500,21501061,4,2:34,ROCKETS Turnover: Shot Clock (T#14),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+132501,21501061,4,2:34,nan,Jazz Timeout: Regular (Reg.4 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132502,21501061,4,2:34,nan,SUB: Hood FOR Ingles,nan,204060,Joe Ingles,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+132503,21501061,4,2:20,Howard P.FOUL (P2.PN) (N.Buchert),nan,nan,2730,Dwight Howard,HOU,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+132504,21501061,4,2:20,nan,MISS Hayward Free Throw 1 of 2,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132505,21501061,4,2:20,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+132506,21501061,4,2:20,nan,Hayward Free Throw 2 of 2 (20 PTS),82 - 81,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132507,21501061,4,1:58,nan,Booker S.FOUL (P2.T3) (N.Buchert),nan,202344,Trevor Booker,UTA,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+132508,21501061,4,1:58,Harden Free Throw 1 of 2 (25 PTS),nan,82 - 82,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132509,21501061,4,1:58,Harden Free Throw 2 of 2 (26 PTS),nan,82 - 83,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132510,21501061,4,1:34,nan,Jazz Turnover: Shot Clock (T#23),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+132511,21501061,4,1:08,Beverley 16' Driving Floating Jump Shot (5 PTS) (Harden 9 AST),nan,82 - 85,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+132512,21501061,4,1:08,nan,Jazz Timeout: Regular (Reg.5 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132513,21501061,4,1:08,nan,SUB: Ingles FOR Booker,nan,202344,Trevor Booker,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+132514,21501061,4,1:08,SUB: Brewer FOR Beasley,nan,nan,201563,Michael Beasley,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+132515,21501061,4,0:56,nan,Mack 25' 3PT Pullup Jump Shot (16 PTS) (Hood 3 AST),85 - 85,202714,Shelvin Mack,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+132516,21501061,4,0:42,Beverley Bad Pass Turnover (P3.T15),Hayward STEAL (4 STL),nan,201976,Patrick Beverley,HOU,202330,Gordon Hayward,UTA,0,nan,nan,Turnover ,Bad Pass
+132517,21501061,4,0:24,Howard S.FOUL (P3.PN) (N.Buchert),nan,nan,2730,Dwight Howard,HOU,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+132518,21501061,4,0:24,nan,Hayward Free Throw 1 of 2 (21 PTS),86 - 85,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132519,21501061,4,0:24,SUB: Beasley FOR Brewer,nan,nan,201147,Corey Brewer,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+132520,21501061,4,0:24,nan,SUB: Booker FOR Ingles,nan,204060,Joe Ingles,UTA,202344,Trevor Booker,UTA,0,nan,nan,Substitution ,nan
+132521,21501061,4,0:24,nan,Hayward Free Throw 2 of 2 (22 PTS),87 - 85,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132522,21501061,4,0:24,ROCKETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132523,21501061,4,0:24,SUB: Terry FOR Beasley,nan,nan,201563,Michael Beasley,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+132524,21501061,4,0:22,Howard  Cutting Dunk Shot (5 PTS) (Harden 10 AST),nan,87 - 87,2730,Dwight Howard,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+132525,21501061,4,0:01,nan,Favors  Dunk (17 PTS) (Hood 4 AST),89 - 87,202324,Derrick Favors,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+132526,21501061,4,0:01,ROCKETS Timeout: Short (Full 5 Short 2),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+132527,21501061,4,0:01,ROCKETS Timeout: Short (Full 5 Short 3),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+132528,21501061,4,0:00,MISS Harden 26' 3PT Turnaround Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132529,21501061,4,0:00,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132530,21501061,4,0:00,nan,nan,89 - 87,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

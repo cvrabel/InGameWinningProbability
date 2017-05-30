@@ -1,0 +1,149 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+176345,21600186,4,12:00,nan,nan,91 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+176346,21600186,4,11:52,nan,Richardson P.FOUL (P1.T1) (M.McCutchen),nan,1626196,Josh Richardson,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Personal
+176347,21600186,4,11:37,MISS Oubre Jr. 26' 3PT Jump Shot,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176348,21600186,4,11:36,nan,Richardson REBOUND (Off:1 Def:5),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176349,21600186,4,11:25,Smith S.FOUL (P2.T1) (M.McCutchen),nan,nan,201160,Jason Smith,WAS,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Shooting
+176350,21600186,4,11:25,nan,Richardson Free Throw 1 of 2 (10 PTS),92 - 82,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176351,21600186,4,11:25,nan,Richardson Free Throw 2 of 2 (11 PTS),93 - 82,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176352,21600186,4,11:17,Wall 1' Driving Layup (22 PTS),nan,93 - 84,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176353,21600186,4,11:07,Oubre Jr. S.FOUL (P3.T2) (M.McCutchen),nan,nan,1626162,Kelly Oubre Jr.,WAS,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Shooting
+176354,21600186,4,11:07,nan,nan,nan,447,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+176355,21600186,4,11:07,nan,MISS Richardson Free Throw 1 of 3,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+176356,21600186,4,11:07,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176357,21600186,4,11:07,nan,MISS Richardson Free Throw 2 of 3,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+176358,21600186,4,11:07,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176359,21600186,4,11:07,nan,Richardson Free Throw 3 of 3 (12 PTS),94 - 84,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+176360,21600186,4,10:52,Satoransky 2' Driving Layup (6 PTS),nan,94 - 86,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176361,21600186,4,10:52,nan,Johnson S.FOUL (P2.T2) (M.McCutchen),nan,204020,Tyler Johnson,MIA,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Shooting
+176362,21600186,4,10:52,SUB: Beal FOR Wall,nan,nan,202322,John Wall,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+176363,21600186,4,10:52,Satoransky Free Throw 1 of 1 (7 PTS),nan,94 - 87,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+176364,21600186,4,10:39,nan,Johnson 27' 3PT Jump Shot (3 PTS) (Richardson 1 AST),97 - 87,204020,Tyler Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+176365,21600186,4,10:29,Beal 26' 3PT Pullup Jump Shot (26 PTS),nan,97 - 90,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176366,21600186,4,10:29,nan,nan,nan,463,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+176367,21600186,4,10:09,nan,Richardson 26' 3PT Jump Shot (15 PTS) (Johnson 4 AST),100 - 90,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+176368,21600186,4,10:09,WIZARDS Timeout: Regular (Full 4 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+176369,21600186,4,10:09,nan,SUB: Whiteside FOR Babbitt,nan,202337,Luke Babbitt,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+176370,21600186,4,9:56,MISS Oubre Jr. 1' Layup,Whiteside BLOCK (3 BLK),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,202355,Hassan Whiteside,MIA,Missed Shot ,nan
+176371,21600186,4,9:54,nan,Whiteside REBOUND (Off:7 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176372,21600186,4,9:47,nan,MISS Richardson 18' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176373,21600186,4,9:46,nan,Whiteside REBOUND (Off:8 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176374,21600186,4,9:44,Satoransky S.FOUL (P4.T3) (M.McCutchen),nan,nan,203107,Tomas Satoransky,WAS,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Shooting
+176375,21600186,4,9:44,nan,MISS Whiteside Free Throw 1 of 2,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176376,21600186,4,9:44,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176377,21600186,4,9:44,SUB: Gortat FOR Smith,nan,nan,201160,Jason Smith,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+176378,21600186,4,9:44,SUB: Porter Jr. FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+176379,21600186,4,9:44,nan,MISS Whiteside Free Throw 2 of 2,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176380,21600186,4,9:44,Porter Jr. REBOUND (Off:1 Def:3),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176381,21600186,4,9:34,nan,Whiteside S.FOUL (P4.T3) (M.McCutchen),nan,202355,Hassan Whiteside,MIA,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Shooting
+176382,21600186,4,9:34,Satoransky Free Throw 1 of 2 (8 PTS),nan,100 - 91,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176383,21600186,4,9:34,MISS Satoransky Free Throw 2 of 2,nan,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176384,21600186,4,9:33,nan,Richardson REBOUND (Off:1 Def:6),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176385,21600186,4,9:11,nan,MISS Richardson 12' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176386,21600186,4,9:10,Gortat REBOUND (Off:5 Def:5),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176387,21600186,4,9:05,Beal Bad Pass Turnover (P2.T10),Johnson STEAL (1 STL),nan,203078,Bradley Beal,WAS,201949,James Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+176388,21600186,4,9:02,Thornton STEAL (1 STL),Johnson Lost Ball Turnover (P2.T15),nan,201949,James Johnson,MIA,201977,Marcus Thornton,WAS,0,nan,nan,Turnover ,Lost Ball
+176389,21600186,4,8:59,MISS Thornton  3PT Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176390,21600186,4,8:57,nan,Whiteside REBOUND (Off:8 Def:6),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176391,21600186,4,8:42,nan,McGruder 10' Turnaround Jump Shot (5 PTS),102 - 91,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+176392,21600186,4,8:25,MISS Beal 6' Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176393,21600186,4,8:24,nan,Whiteside REBOUND (Off:8 Def:7),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176394,21600186,4,8:13,nan,MISS Johnson 26' 3PT Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176395,21600186,4,8:12,Thornton REBOUND (Off:0 Def:1),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176396,21600186,4,7:59,MISS Porter Jr. 24' 3PT Jump Shot,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176397,21600186,4,7:58,nan,McGruder REBOUND (Off:0 Def:2),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176398,21600186,4,7:36,nan,MISS McGruder 13' Jump Shot,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176399,21600186,4,7:35,nan,Whiteside REBOUND (Off:9 Def:7),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176400,21600186,4,7:33,nan,MISS Whiteside 1' Layup,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176401,21600186,4,7:32,Satoransky REBOUND (Off:0 Def:2),nan,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176402,21600186,4,7:26,MISS Beal 28' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176403,21600186,4,7:24,Beal REBOUND (Off:1 Def:2),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176404,21600186,4,7:17,Gortat Out of Bounds - Bad Pass Turnover Turnover (P2.T11),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+176405,21600186,4,7:17,SUB: Wall FOR Satoransky,nan,nan,203107,Tomas Satoransky,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+176406,21600186,4,7:13,nan,Heat Timeout: Regular (Reg.4 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+176407,21600186,4,7:13,nan,SUB: Dragic FOR Richardson,nan,1626196,Josh Richardson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+176408,21600186,4,6:59,nan,Whiteside 1' Layup (18 PTS) (Johnson 1 AST),104 - 91,202355,Hassan Whiteside,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+176409,21600186,4,6:39,MISS Beal 24' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176410,21600186,4,6:37,nan,McGruder REBOUND (Off:0 Def:3),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176411,21600186,4,6:17,nan,Johnson 28' 3PT Jump Shot (17 PTS) (Dragic 5 AST),107 - 91,201949,James Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+176412,21600186,4,6:02,MISS Porter Jr. 24' 3PT Jump Shot,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176413,21600186,4,6:01,nan,Whiteside REBOUND (Off:9 Def:8),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176414,21600186,4,5:40,nan,MISS Dragic 7' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176415,21600186,4,5:39,Porter Jr. REBOUND (Off:1 Def:4),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176416,21600186,4,5:25,MISS Wall 17' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176417,21600186,4,5:23,nan,Dragic REBOUND (Off:1 Def:3),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176418,21600186,4,5:18,Wall S.FOUL (P2.T4) (G.Petraitis),nan,nan,202322,John Wall,WAS,203585,Rodney McGruder,MIA,0,nan,nan,Foul ,Shooting
+176419,21600186,4,5:18,nan,MISS McGruder Free Throw 1 of 2,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176420,21600186,4,5:18,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176421,21600186,4,5:18,nan,McGruder Free Throw 2 of 2 (6 PTS),108 - 91,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176422,21600186,4,5:05,MISS Beal 1' Layup,Johnson BLOCK (1 BLK),nan,203078,Bradley Beal,WAS,0,nan,nan,201949,James Johnson,MIA,Missed Shot ,nan
+176423,21600186,4,5:03,Beal REBOUND (Off:2 Def:2),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176424,21600186,4,5:01,Beal 1' Putback Layup (28 PTS),nan,108 - 93,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176425,21600186,4,4:45,nan,MISS McGruder 4' Jump Shot,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176426,21600186,4,4:43,Porter Jr. REBOUND (Off:1 Def:5),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176427,21600186,4,4:37,MISS Wall 3' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176428,21600186,4,4:36,Gortat REBOUND (Off:6 Def:5),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176429,21600186,4,4:34,Beal 24' 3PT Jump Shot (31 PTS) (Gortat 3 AST),nan,108 - 96,203078,Bradley Beal,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+176430,21600186,4,4:13,Wall P.FOUL (P3.PN) (M.McCutchen),nan,nan,202322,John Wall,WAS,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+176431,21600186,4,4:13,nan,Johnson Free Throw 1 of 2 (4 PTS),109 - 96,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176432,21600186,4,4:13,nan,SUB: Richardson FOR McGruder,nan,203585,Rodney McGruder,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Substitution ,nan
+176433,21600186,4,4:13,nan,Johnson Free Throw 2 of 2 (5 PTS),110 - 96,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176434,21600186,4,4:06,MISS Beal 28' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176435,21600186,4,4:05,nan,Johnson REBOUND (Off:2 Def:1),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176436,21600186,4,3:45,nan,Dragic Traveling Turnover (P4.T16),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+176437,21600186,4,3:45,nan,SUB: Waiters FOR Johnson,nan,204020,Tyler Johnson,MIA,203079,Dion Waiters,MIA,0,nan,nan,Substitution ,nan
+176438,21600186,4,3:33,MISS Beal 3' Layup,Johnson BLOCK (2 BLK),nan,203078,Bradley Beal,WAS,0,nan,nan,201949,James Johnson,MIA,Missed Shot ,nan
+176439,21600186,4,3:32,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176440,21600186,4,3:19,Wall 7' Driving Bank Shot (24 PTS),nan,110 - 98,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176441,21600186,4,2:58,Thornton STEAL (2 STL),Waiters Bad Pass Turnover (P2.T17),nan,203079,Dion Waiters,MIA,201977,Marcus Thornton,WAS,0,nan,nan,Turnover ,Bad Pass
+176442,21600186,4,2:55,nan,Dragic Shooting Block Foul (P2.T4) (M.Boland),nan,201609,Goran Dragic,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting Block
+176443,21600186,4,2:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+176444,21600186,4,2:55,SUB: Satoransky FOR Thornton,nan,nan,201977,Marcus Thornton,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Substitution ,nan
+176445,21600186,4,2:55,MISS Wall Free Throw 1 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176446,21600186,4,2:55,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176447,21600186,4,2:55,MISS Wall Free Throw 2 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176448,21600186,4,2:54,nan,Whiteside REBOUND (Off:9 Def:9),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176449,21600186,4,2:36,nan,MISS Waiters 27' 3PT Jump Shot,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176450,21600186,4,2:35,Gortat REBOUND (Off:6 Def:6),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176451,21600186,4,2:10,WIZARDS Turnover: Shot Clock (T#12),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+176452,21600186,4,1:50,nan,MISS Dragic 18' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176453,21600186,4,1:50,Gortat REBOUND (Off:6 Def:7),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176454,21600186,4,1:44,Wall 26' 3PT Pullup Jump Shot (27 PTS) (Gortat 4 AST),nan,110 - 101,202322,John Wall,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+176455,21600186,4,1:44,nan,nan,nan,573,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+176456,21600186,4,1:44,nan,Waiters  3PT Jump Shot (15 PTS) (Dragic 6 AST),113 - 101,203079,Dion Waiters,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+176457,21600186,4,1:22,MISS Satoransky 1' Layup,nan,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176458,21600186,4,1:22,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176459,21600186,4,1:22,Gortat L.B.FOUL (P2.PN) (G.Petraitis),nan,nan,101162,Marcin Gortat,WAS,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Loose Ball
+176460,21600186,4,1:22,nan,MISS Dragic Free Throw 1 of 2,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176461,21600186,4,1:22,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176462,21600186,4,1:22,nan,MISS Dragic Free Throw 2 of 2,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176463,21600186,4,1:21,Gortat REBOUND (Off:6 Def:8),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176464,21600186,4,1:14,MISS Wall 4' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176465,21600186,4,1:14,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176466,21600186,4,1:11,Beal 27' 3PT Step Back Jump Shot (34 PTS) (Wall 8 AST),nan,113 - 104,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+176467,21600186,4,1:06,Porter Jr. P.FOUL (P2.PN) (M.Boland),nan,nan,203490,Otto Porter Jr.,WAS,201949,James Johnson,MIA,0,nan,nan,Foul ,Personal
+176468,21600186,4,1:06,nan,MISS Johnson Free Throw 1 of 2,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176469,21600186,4,1:06,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+176470,21600186,4,1:06,nan,MISS Johnson Free Throw 2 of 2,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176471,21600186,4,1:05,Gortat REBOUND (Off:6 Def:9),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176472,21600186,4,1:01,nan,Dragic Personal Take Foul (P3.PN) (M.McCutchen),nan,201609,Goran Dragic,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Personal Take
+176473,21600186,4,1:01,Wall Free Throw 1 of 2 (28 PTS),nan,113 - 105,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176474,21600186,4,1:01,MISS Wall Free Throw 2 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176475,21600186,4,1:01,nan,Waiters REBOUND (Off:1 Def:2),nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176476,21600186,4,0:48,nan,MISS Dragic 24' 3PT Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176477,21600186,4,0:47,Beal REBOUND (Off:2 Def:3),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176478,21600186,4,0:41,Wall 27' 3PT Pullup Jump Shot (31 PTS) (Beal 4 AST),nan,113 - 108,202322,John Wall,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+176479,21600186,4,0:41,nan,Heat Timeout: Regular (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+176480,21600186,4,0:41,nan,SUB: Johnson FOR Johnson,nan,201949,James Johnson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+176481,21600186,4,0:21,nan,MISS Waiters 26' 3PT Jump Shot,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176482,21600186,4,0:19,Gortat REBOUND (Off:6 Def:10),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176483,21600186,4,0:18,WIZARDS Timeout: Regular (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+176484,21600186,4,0:18,nan,SUB: Johnson FOR Johnson,nan,204020,Tyler Johnson,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+176485,21600186,4,0:14,MISS Beal 27' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+176486,21600186,4,0:13,nan,Waiters REBOUND (Off:1 Def:3),nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176487,21600186,4,0:09,Beal Personal Take Foul (P4.PN) (M.Boland),nan,nan,203078,Bradley Beal,WAS,203079,Dion Waiters,MIA,0,nan,nan,Foul ,Personal Take
+176488,21600186,4,0:09,nan,Waiters Free Throw 1 of 2 (16 PTS),114 - 108,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+176489,21600186,4,0:09,nan,MISS Waiters Free Throw 2 of 2,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+176490,21600186,4,0:09,Porter Jr. REBOUND (Off:1 Def:6),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+176491,21600186,4,0:00,Wall 25' 3PT Jump Shot (34 PTS),nan,114 - 111,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+176492,21600186,4,0:00,nan,nan,114 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

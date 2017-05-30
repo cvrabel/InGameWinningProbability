@@ -1,0 +1,147 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+167580,21600117,4,12:00,nan,nan,88 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+167581,21600117,4,11:52,Antetokounmpo 1' Finger Roll Layup (14 PTS),nan,88 - 83,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167582,21600117,4,11:38,Brogdon STEAL (1 STL),Frazier Bad Pass Turnover (P2.T8),nan,204025,Tim Frazier,NOP,1627763,Malcolm Brogdon,MIL,0,nan,nan,Turnover ,Bad Pass
+167583,21600117,4,11:28,MISS Brogdon 4' Jump Shot,nan,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167584,21600117,4,11:27,nan,S. Hill REBOUND (Off:0 Def:4),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167585,21600117,4,11:16,nan,MISS Davis 6' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167586,21600117,4,11:15,Monroe REBOUND (Off:0 Def:2),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167587,21600117,4,11:03,nan,Asik P.FOUL (P3.T1) (Z.Zarba),nan,201600,Omer Asik,NOP,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Personal
+167588,21600117,4,10:54,MISS Beasley 19' Jump Shot,nan,nan,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167589,21600117,4,10:52,nan,Frazier REBOUND (Off:0 Def:4),nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167590,21600117,4,10:39,nan,MISS Davis 5' Hook Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167591,21600117,4,10:39,nan,Asik REBOUND (Off:2 Def:1),nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167592,21600117,4,10:39,Beasley S.FOUL (P1.T1) (R.Garretson),nan,nan,201563,Michael Beasley,MIL,201600,Omer Asik,NOP,0,nan,nan,Foul ,Shooting
+167593,21600117,4,10:39,nan,MISS Asik Free Throw 1 of 2,nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167594,21600117,4,10:39,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+167595,21600117,4,10:39,nan,SUB: Moore FOR Hield,nan,1627741,Buddy Hield,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+167596,21600117,4,10:39,SUB: Parker FOR Beasley,nan,nan,201563,Michael Beasley,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+167597,21600117,4,10:39,nan,MISS Asik Free Throw 2 of 2,nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167598,21600117,4,10:37,Parker REBOUND (Off:0 Def:7),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167599,21600117,4,10:15,Brogdon  Cutting Layup Shot (8 PTS) (Monroe 2 AST),nan,88 - 85,1627763,Malcolm Brogdon,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+167600,21600117,4,10:02,nan,MISS Moore 19' Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167601,21600117,4,10:01,Antetokounmpo REBOUND (Off:2 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167602,21600117,4,9:50,MISS Antetokounmpo 5' Hook Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167603,21600117,4,9:49,Monroe REBOUND (Off:1 Def:2),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167604,21600117,4,9:42,MISS Parker 8' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167605,21600117,4,9:41,nan,Asik REBOUND (Off:2 Def:2),nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167606,21600117,4,9:30,nan,S. Hill 5' Driving Hook Shot (6 PTS),90 - 85,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+167607,21600117,4,9:09,Monroe  Layup (8 PTS) (Brogdon 3 AST),nan,90 - 87,202328,Greg Monroe,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+167608,21600117,4,8:58,Antetokounmpo P.FOUL (P3.T2) (Z.Zarba),nan,nan,203507,Giannis Antetokounmpo,MIL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+167609,21600117,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+167610,21600117,4,8:46,nan,MISS Moore 5' Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167611,21600117,4,8:46,nan,Asik REBOUND (Off:3 Def:2),nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167612,21600117,4,8:46,nan,Asik 1' Putback Layup (7 PTS),92 - 87,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+167613,21600117,4,8:46,Antetokounmpo S.FOUL (P4.T3) (R.Garretson),nan,nan,203507,Giannis Antetokounmpo,MIL,201600,Omer Asik,NOP,0,nan,nan,Foul ,Shooting
+167614,21600117,4,8:46,nan,Asik Free Throw 1 of 1 (8 PTS),93 - 87,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+167615,21600117,4,8:26,MISS Antetokounmpo 16' Step Back Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167616,21600117,4,8:25,nan,Frazier REBOUND (Off:0 Def:5),nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167617,21600117,4,8:17,nan,Asik  Dunk (10 PTS) (Frazier 9 AST),95 - 87,201600,Omer Asik,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+167618,21600117,4,7:59,MISS Parker 5' Jump Shot,S. Hill BLOCK (1 BLK),nan,203953,Jabari Parker,MIL,0,nan,nan,203524,Solomon Hill,NOP,Missed Shot ,nan
+167619,21600117,4,7:57,nan,S. Hill REBOUND (Off:0 Def:5),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167620,21600117,4,7:42,nan,Moore 16' Pullup Jump Shot (20 PTS) (S. Hill 5 AST),97 - 87,202734,E'Twaun Moore,NOP,203524,Solomon Hill,NOP,0,nan,nan,Made Shot ,nan
+167621,21600117,4,7:27,Brogdon 15' Jump Shot (10 PTS),nan,97 - 89,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167622,21600117,4,7:15,nan,S. Hill Out of Bounds - Bad Pass Turnover Turnover (P4.T9),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+167623,21600117,4,7:15,SUB: Snell FOR Vaughn,nan,nan,1626173,Rashad Vaughn,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+167624,21600117,4,7:00,MISS Brogdon 1' Reverse Layup,Davis BLOCK (4 BLK),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+167625,21600117,4,6:58,nan,Asik REBOUND (Off:3 Def:3),nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167626,21600117,4,6:35,nan,MISS Moore 20' Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167627,21600117,4,6:32,nan,S. Hill REBOUND (Off:1 Def:5),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167628,21600117,4,6:32,nan,S. Hill 1' Tip Layup Shot (8 PTS),99 - 89,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+167629,21600117,4,6:18,Parker 4' Driving Hook Shot (26 PTS),nan,99 - 91,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167630,21600117,4,5:53,nan,Davis 14' Step Back Jump Shot (21 PTS),101 - 91,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+167631,21600117,4,5:53,Antetokounmpo S.FOUL (P5.T4) (S.Anderson),nan,nan,203507,Giannis Antetokounmpo,MIL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+167632,21600117,4,5:53,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+167633,21600117,4,5:53,SUB: Dellavedova FOR Antetokounmpo,nan,nan,203507,Giannis Antetokounmpo,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+167634,21600117,4,5:53,SUB: Henson FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+167635,21600117,4,5:53,nan,Davis Free Throw 1 of 1 (22 PTS),102 - 91,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+167636,21600117,4,5:34,MISS Parker 1' Driving Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167637,21600117,4,5:32,nan,Davis REBOUND (Off:3 Def:2),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167638,21600117,4,5:15,nan,MISS Frazier  Driving Layup,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167639,21600117,4,5:13,Snell REBOUND (Off:0 Def:3),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167640,21600117,4,5:04,Parker 24' 3PT Jump Shot (29 PTS) (Dellavedova 11 AST),nan,102 - 94,203953,Jabari Parker,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+167641,21600117,4,4:49,Parker BLOCK (1 BLK),MISS Moore 9' Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,203953,Jabari Parker,MIL,Missed Shot ,nan
+167642,21600117,4,4:47,Brogdon REBOUND (Off:0 Def:3),nan,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167643,21600117,4,4:34,nan,Davis S.FOUL (P2.T2) (R.Garretson),nan,203076,Anthony Davis,NOP,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting
+167644,21600117,4,4:34,Parker Free Throw 1 of 2 (30 PTS),nan,102 - 95,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167645,21600117,4,4:34,Parker Free Throw 2 of 2 (31 PTS),nan,102 - 96,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167646,21600117,4,4:20,nan,MISS Moore 26' 3PT Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167647,21600117,4,4:20,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167648,21600117,4,4:20,nan,SUB: Jones FOR Asik,nan,201600,Omer Asik,NOP,203093,Terrence Jones,NOP,0,nan,nan,Substitution ,nan
+167649,21600117,4,4:02,MISS Henson 4' Hook Shot,nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167650,21600117,4,4:01,nan,Davis REBOUND (Off:3 Def:3),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167651,21600117,4,3:48,nan,Davis 9' Turnaround Jump Shot (24 PTS),104 - 96,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+167652,21600117,4,3:32,MISS Parker 1' Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167653,21600117,4,3:30,Henson REBOUND (Off:2 Def:3),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167654,21600117,4,3:30,Henson 1' Tip Layup Shot (4 PTS),nan,104 - 98,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167655,21600117,4,3:07,Parker STEAL (1 STL),Moore Bad Pass Turnover (P1.T10),nan,202734,E'Twaun Moore,NOP,203953,Jabari Parker,MIL,0,nan,nan,Turnover ,Bad Pass
+167656,21600117,4,3:01,MISS Snell 26' 3PT Jump Shot,nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167657,21600117,4,2:59,nan,Davis REBOUND (Off:3 Def:4),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167658,21600117,4,2:43,nan,MISS Davis 14' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167659,21600117,4,2:42,Dellavedova REBOUND (Off:0 Def:4),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167660,21600117,4,2:40,nan,Moore Personal Block Foul (P2.T3) (R.Garretson),nan,202734,E'Twaun Moore,NOP,203521,Matthew Dellavedova,MIL,0,nan,nan,Foul ,Personal Block
+167661,21600117,4,2:40,nan,Pelicans Timeout: Regular (Reg.5 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+167662,21600117,4,2:40,SUB: Antetokounmpo FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+167663,21600117,4,2:28,MISS Parker 1' Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167664,21600117,4,2:26,Parker REBOUND (Off:1 Def:7),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167665,21600117,4,2:25,MISS Parker 1' Layup,Jones BLOCK (1 BLK),nan,203953,Jabari Parker,MIL,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+167666,21600117,4,2:23,Snell REBOUND (Off:1 Def:3),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167667,21600117,4,2:17,Snell 14' Jump Shot (7 PTS),nan,104 - 100,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167668,21600117,4,2:11,Henson P.FOUL (P3.PN) (Z.Zarba),nan,nan,203089,John Henson,MIL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+167669,21600117,4,2:11,nan,Davis Free Throw 1 of 2 (25 PTS),105 - 100,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167670,21600117,4,2:11,nan,Davis Free Throw 2 of 2 (26 PTS),106 - 100,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167671,21600117,4,1:56,MISS Henson 2' Alley Oop Layup,nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167672,21600117,4,1:54,Antetokounmpo REBOUND (Off:3 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167673,21600117,4,1:46,MISS Parker 15' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167674,21600117,4,1:45,Antetokounmpo REBOUND (Off:4 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167675,21600117,4,1:41,MISS Dellavedova 25' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167676,21600117,4,1:37,Jump Ball Antetokounmpo vs. Jones: Tip to Snell,nan,nan,203507,Giannis Antetokounmpo,MIL,203093,Terrence Jones,NOP,203503,Tony Snell,MIL,Jump Ball ,nan
+167677,21600117,4,1:37,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167678,21600117,4,1:24,MISS Dellavedova 7' Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167679,21600117,4,1:23,Dellavedova REBOUND (Off:1 Def:4),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167680,21600117,4,1:19,Parker  Driving Layup (33 PTS),nan,106 - 102,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+167681,21600117,4,1:07,nan,Davis 18' Jump Shot (28 PTS) (Frazier 10 AST),108 - 102,203076,Anthony Davis,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+167682,21600117,4,0:49,MISS Parker 28' 3PT Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167683,21600117,4,0:48,Henson REBOUND (Off:3 Def:3),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167684,21600117,4,0:40,Antetokounmpo  Layup (16 PTS) (Dellavedova 12 AST),nan,108 - 104,203507,Giannis Antetokounmpo,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+167685,21600117,4,0:40,nan,Davis S.FOUL (P3.T4) (Z.Zarba),nan,203076,Anthony Davis,NOP,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+167686,21600117,4,0:40,Antetokounmpo Free Throw 1 of 1 (17 PTS),nan,108 - 105,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+167687,21600117,4,0:40,nan,Pelicans Timeout: Short (Reg.5 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+167688,21600117,4,0:40,nan,SUB: Hield FOR S. Hill,nan,203524,Solomon Hill,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+167689,21600117,4,0:40,SUB: Monroe FOR Dellavedova,nan,nan,203521,Matthew Dellavedova,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+167690,21600117,4,0:39,SUB: Brogdon FOR Monroe,nan,nan,202328,Greg Monroe,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Substitution ,nan
+167691,21600117,4,0:28,nan,MISS Davis 7' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167692,21600117,4,0:26,nan,Jones REBOUND (Off:3 Def:4),nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167693,21600117,4,0:24,Henson BLOCK (2 BLK),MISS Jones 2' Putback Layup,nan,203093,Terrence Jones,NOP,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+167694,21600117,4,0:24,Parker REBOUND (Off:1 Def:8),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167695,21600117,4,0:24,BUCKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+167696,21600117,4,0:24,nan,SUB: Cunningham FOR Frazier,nan,204025,Tim Frazier,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+167697,21600117,4,0:24,nan,SUB: S. Hill FOR Hield,nan,1627741,Buddy Hield,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+167698,21600117,4,0:24,SUB: Teletovic FOR Snell,nan,nan,203503,Tony Snell,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+167699,21600117,4,0:24,SUB: Dellavedova FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+167700,21600117,4,0:15,nan,Moore P.FOUL (P3.PN) (S.Anderson),nan,202734,E'Twaun Moore,NOP,203521,Matthew Dellavedova,MIL,0,nan,nan,Foul ,Personal
+167701,21600117,4,0:15,Dellavedova Free Throw 1 of 2 (7 PTS),nan,108 - 106,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167702,21600117,4,0:15,SUB: Snell FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+167703,21600117,4,0:15,nan,SUB: Asik FOR Cunningham,nan,201967,Dante Cunningham,NOP,201600,Omer Asik,NOP,0,nan,nan,Substitution ,nan
+167704,21600117,4,0:15,MISS Dellavedova Free Throw 2 of 2,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167705,21600117,4,0:13,nan,Davis REBOUND (Off:3 Def:5),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167706,21600117,4,0:12,Parker Personal Take Foul (P1.PN) (Z.Zarba),nan,nan,203953,Jabari Parker,MIL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal Take
+167707,21600117,4,0:12,nan,Davis Free Throw 1 of 2 (29 PTS),109 - 106,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167708,21600117,4,0:12,nan,SUB: Cunningham FOR Asik,nan,201600,Omer Asik,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+167709,21600117,4,0:12,nan,Davis Free Throw 2 of 2 (30 PTS),110 - 106,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167710,21600117,4,0:12,BUCKS Timeout: Short (Full 5 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+167711,21600117,4,0:12,SUB: Teletovic FOR Snell,nan,nan,203503,Tony Snell,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+167712,21600117,4,0:07,MISS Teletovic 26' 3PT Jump Bank Shot,nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167713,21600117,4,0:06,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167714,21600117,4,0:06,nan,nan,110 - 106,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+167715,21600117,4,0:06,SUB: Snell FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+167716,21600117,4,0:06,nan,SUB: Frazier FOR Cunningham,nan,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Substitution ,nan
+167717,21600117,4,0:06,nan,SUB: Hield FOR S. Hill,nan,203524,Solomon Hill,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+167718,21600117,4,0:06,nan,Pelicans Timeout: Short (Reg.5 Short 2),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+167719,21600117,4,0:06,nan,SUB: Cunningham FOR Jones,nan,203093,Terrence Jones,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+167720,21600117,4,0:03,Snell Personal Take Foul (P2.PN) (S.Anderson),nan,nan,203503,Tony Snell,MIL,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal Take
+167721,21600117,4,0:03,nan,Frazier Free Throw 1 of 2 (14 PTS),111 - 106,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+167722,21600117,4,0:03,nan,Frazier Free Throw 2 of 2 (15 PTS),112 - 106,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+167723,21600117,4,0:00,MISS Dellavedova 27' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+167724,21600117,4,0:00,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+167725,21600117,4,0:00,nan,nan,112 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

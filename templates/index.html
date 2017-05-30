@@ -1,0 +1,342 @@
+<html>
+<title>Computing Win Probability</title>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<!-- Load the d3 library. -->
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<style>
+/* put a border around the svg element so we can see the coordinate system better. */
+body { font-family: "Open Sans"; } div { margin: 30px; }
+svg { border: solid black 1px; }
+div {vertical-align: top; margin-bottom: 10px;}
+.tooltip {
+	position: absolute;
+	text-align: center;
+	width: 315px;
+	height: 70px;
+	padding: 2px;
+	font: 12px;
+	background: lightsteelblue;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events:none;
+}
+.prob-div {text-align: center; display: inline-block;}
+.below {margin-top: 10px;}
+.sec2 {float: left;}
+
+
+</style>
+</head>
+<body>
+<div class="row overall-stats">
+    <div class="col-xs-12">
+      <h1 class="blue">Thunder Project</h3>
+      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win.
+      <br></p><br>
+      <form>
+      <span><strong>4th Quarter Clock: </strong></span><input id="clock-min" size="3"></input>
+      <strong> : </strong><input id="clock-sec" size="3"></input>
+      <span><strong>Home Score: </strong></span><input id="home-score" size="5"></input>
+      <span><strong>Away Score: </strong></span><input id="away-score" size="5"></input>
+      <span><strong>Last Event </strong></span>
+      <span>
+      <select class="team-dropdown" id="last-event">
+      <option selected disabled>Select Event</option>
+      <option value="homeMake">Home Make</option>
+      <option value="homeMiss">Home Miss</option>
+      <option value="homeTurnover">Home Turnover</option>
+      <option value="homeRebound">Home Rebound</option>
+      <option value="awayFt2">Home Foul (2 shots)</option>
+      <option value="awayFt3">Home Foul (3 shots)</option>
+      <option value="awayMake">Away Make</option>
+      <option value="awayMiss">Away Miss</option>
+      <option value="awayTurnover">Away Turnover</option>
+      <option value="awayRebound">Away Rebound</option>
+      <option value="homeFt2">Away Foul (2 shots)</option>
+      <option value="homeFt3">Away Foul (3 shots)</option>
+      </select></span>
+      <span><button type="button" id="run-button">Run</button><span>
+      </form>
+      <div class = "wrapper">
+	      <div class = "prob-div">
+	      <span><h4><i>Win Probability: </i></h4></span>
+	      </div>
+	      <div class = "prob-div">
+	      <span><h3 id="probability">-%</h3></span>
+	      </div>
+	      
+      </div>
+    </div>
+
+	<div class="sec2">
+	Select a game and click 'Run' to see a graph of the 
+  	win probability throughout the 4th quarter.</div>
+  	<div class="sec2">
+  	<select class="team-dropdown" id="games_dd">
+  		<option selected disabled>Select Game CSV</option>
+  	</select></div>
+  	<div class="sec2">
+  	<button type="button" id="run-button-2">Run</button>
+  	</div>
+    <div id="canvas" class="below"></div>
+
+</div>
+
+
+<!-- The SVG element will go in here -->
+
+
+<script type="text/javascript">
+
+function runPyScript(clock, home, away, event){
+	var jqXHR = $.ajax({
+		type: "POST",
+		url: "/predict",
+		async: false,
+		data: {myclock : clock, myhome: home, myaway: away, myevent: event}
+	});
+	return jqXHR.responseText;
+}
+function runPyGetCSVs(){
+	var jqXHR = $.ajax({
+		type: "POST",
+		url: "/getGameIds",
+		async: false,
+		data: {}
+	});
+	return jqXHR.responseText;
+}
+function runPyGetProbs(filename){
+	var jqXHR = $.ajax({
+		type: "POST",
+		url: "/getProbsGame",
+		async: false,
+		data: {myfile: filename}
+	});
+	return jqXHR.responseText;
+}
+
+//Populate the file dropdown list
+var fileSelect = document.getElementById("games_dd");
+var jsonFiles = runPyGetCSVs();
+var files = JSON.parse(jsonFiles);
+for(var i = 0; i < files.length; i++){
+	var next = files[i];
+	var temp = document.createElement("option");
+	temp.textContent = next;
+	temp.value = next;
+	fileSelect.appendChild(temp);
+}
+
+$('#run-button').click(function() {
+    var clock_min = document.getElementById("clock-min").value;
+    var clock_sec = document.getElementById("clock-sec").value;
+    var clock = clock_min*60 + clock_sec;
+	var home_score = document.getElementById("home-score").value;
+	var away_score = document.getElementById("away-score").value;
+	var event = document.getElementById("last-event").value;
+
+	result = runPyScript(clock, home_score, away_score, event);
+
+	document.getElementById("probability").innerHTML = result
+  });
+
+$('#run-button-2').click(function() {
+	var file = document.getElementById("games_dd").value;
+	result = runPyGetProbs(file);
+	events = JSON.parse(result);
+
+	addEvents(svg, events);
+  });
+
+
+var events = [];
+
+var svg = d3.select("#canvas").append("svg")
+.attr("width", 1200).attr("height", 600);
+
+setupGraph(svg);
+
+var xScale = d3.scale.linear()
+.domain([0,720]).range([1200,0]);
+
+var yScale = d3.scale.linear()
+.domain([0,1]).range([600,0]);
+
+async function addEvents(svg, results) {
+	setupGraph(svg);
+
+	var tip = d3.select(".below").append("div")
+				  .attr("class", "tooltip")
+				  .attr("opacity", "0");
+	
+	var prevEvent = {
+					time: 720, 
+					prob: 0.5
+					};
+	for(var i = 0; i < results.length; i++){
+		var colon = results[i][0].indexOf(":");
+		var minutes = parseInt(results[i][0].substring(0,colon));
+		var seconds = parseInt(results[i][0].substring(colon+1, results[i][0].length));
+		var time = minutes*60 + seconds;
+
+		var event = {
+			time: time,
+			prob: results[i][5]
+		};
+
+		if(i != 0){
+			var line = svg.append("line")
+			.attr("x1", xScale(prevEvent.time)).attr("y1", yScale(prevEvent.prob))
+			.transition().duration(100).delay(50)
+			.attr("x2", xScale(event.time)).attr("y2", yScale(event.prob))
+			.attr("stroke-width", 2)
+            .style("opacity", "1")
+			.attr("stroke", "blue");
+		}
+
+		home_d = "-";
+		away_d = "-";
+		if(results[i][3] != "nan")
+			home_d = results[i][3].substring(0,30) + "...";
+		if(results[i][4] != "nan")
+			away_d = results[i][4].substring(0,30) + "...";
+		var proba = String(results[i][5]*100).substring(0,5);
+
+		var res = [{
+			clock : results[i][0],
+			home : results[i][1],
+			away : results[i][2],
+			home_desc : home_d,
+			away_desc : away_d,
+			prob : proba
+		}];
+
+
+		var circle = svg.selectAll("circle").data(res, function(d){return d.clock});
+
+		circle.enter().append("circle")
+		.style("opacity", ".7")
+		.attr("cx", xScale(prevEvent.time))
+		.attr("cy", yScale(prevEvent.prob))
+		.on("mouseover", function(d) {
+			tip.transition()
+				.duration(200)
+				.style("opacity", 0.8);
+			tip.html(
+			        "<b>Time: </b>" + d.clock + "<b> Score: </b>" + d.home + " - " + d.away + 
+			        "<b> Prob: </b> " + d.prob + "%<br>" + 
+			        "<b>Home: </b> " + d.home_desc + " <br><b>Away: </b>" + d.away_desc )
+		       .style("left", (d3.event.pageX) + "px")
+		       .style("top", (d3.event.pageY - 28) + "px");
+		})
+		.on("mouseout", function(d){
+			tip.transition()
+				.duration(500)
+				.style("opacity", 0);
+		})
+		.transition().duration(100)
+		.attr("cx", xScale(event.time))
+		.attr("cy", yScale(event.prob))
+		.attr("fill", "red" )
+		.style("opacity", ".8")
+		.attr("r", 5);
+
+		prevEvent = event;
+		
+		await sleep(100);
+	}
+
+}
+
+function setupGraph(svg){
+	svg.selectAll("*").remove();
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 300)
+	.attr("x2", 1200).attr("y2", 300)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 300).attr("y1", 0)
+	.attr("x2", 300).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 600).attr("y1", 0)
+	.attr("x2", 600).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 900).attr("y1", 0)
+	.attr("x2", 900).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("text")
+          .attr("x", 1)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .text("Probability (50%)");
+
+    svg.append("text")
+          .attr("x", 302)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("9:00");
+
+    svg.append("text")
+          .attr("x", 602)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("6:00");
+
+    svg.append("text")
+          .attr("x", 902)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("3:00");
+
+    svg.append("text")
+          .attr("x", 1)
+          .attr("y", 15)
+          .attr("font-size", "18px")
+          .attr("opacity", 1)
+          .text("Home");
+
+    svg.append("text")
+          .attr("x", 1)
+          .attr("y", 595)
+          .attr("font-size", "18px")
+          .attr("opacity", 1)
+          .text("Away");
+}
+
+function sleep(ms){
+	return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

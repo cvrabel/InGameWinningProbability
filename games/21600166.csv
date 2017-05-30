@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+173784,21600166,4,12:00,nan,nan,76 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+173785,21600166,4,11:41,MISS Nelson 22' Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173786,21600166,4,11:40,nan,Len REBOUND (Off:0 Def:3),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173787,21600166,4,11:39,Jokic P.FOUL (P3.T1) (E.Lewis),nan,nan,203999,Nikola Jokic,DEN,203458,Alex Len,PHX,0,nan,nan,Foul ,Personal
+173788,21600166,4,11:31,Gee P.FOUL (P1.T2) (E.Lewis),nan,nan,202087,Alonzo Gee,DEN,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+173789,21600166,4,11:24,nan,MISS Barbosa 3' Driving Reverse Layup,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173790,21600166,4,11:22,Nelson REBOUND (Off:0 Def:1),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173791,21600166,4,11:19,MISS Chandler 2' Layup,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173792,21600166,4,11:16,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173793,21600166,4,11:00,nan,Knight 2' Driving Finger Roll Layup (24 PTS),78 - 89,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173794,21600166,4,11:00,Chandler S.FOUL (P2.T3) (K.Fitzgerald),nan,nan,201163,Wilson Chandler,DEN,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+173795,21600166,4,11:00,nan,Knight Free Throw 1 of 1 (25 PTS),79 - 89,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173796,21600166,4,10:42,Hernangomez 25' 3PT Jump Shot (3 PTS) (Chandler 3 AST),nan,79 - 92,1627823,Juan Hernangomez,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+173797,21600166,4,10:28,Hernangomez S.FOUL (P1.T4) (E.Lewis),nan,nan,1627823,Juan Hernangomez,DEN,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+173798,21600166,4,10:28,nan,Len Free Throw 1 of 2 (5 PTS),80 - 92,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173799,21600166,4,10:28,nan,Len Free Throw 2 of 2 (6 PTS),81 - 92,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173800,21600166,4,10:16,Nelson Step Out of Bounds Turnover (P2.T10),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+173801,21600166,4,9:57,nan,Barbosa 2' Driving Layup (8 PTS),83 - 92,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173802,21600166,4,9:45,SUB: Faried FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+173803,21600166,4,9:45,SUB: Mudiay FOR Gee,nan,nan,202087,Alonzo Gee,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+173804,21600166,4,9:34,Nelson 1' Driving Reverse Layup (11 PTS) (Mudiay 5 AST),nan,83 - 94,2749,Jameer Nelson,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+173805,21600166,4,9:28,nan,Knight 20' Pullup Jump Shot (27 PTS),85 - 94,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173806,21600166,4,9:14,MISS Chandler 2' Layup,Len BLOCK (1 BLK),nan,201163,Wilson Chandler,DEN,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+173807,21600166,4,9:11,Faried REBOUND (Off:6 Def:5),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173808,21600166,4,9:11,Faried 2' Putback Layup (14 PTS),nan,85 - 96,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173809,21600166,4,9:04,Hernangomez S.FOUL (P2.PN) (K.Fitzgerald),nan,nan,1627823,Juan Hernangomez,DEN,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+173810,21600166,4,9:04,nan,Knight Free Throw 1 of 2 (28 PTS),86 - 96,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173811,21600166,4,9:04,nan,SUB: Bledsoe FOR Booker,nan,1626164,Devin Booker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+173812,21600166,4,9:04,nan,MISS Knight Free Throw 2 of 2,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173813,21600166,4,9:02,Hernangomez REBOUND (Off:0 Def:3),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173814,21600166,4,8:38,Hernangomez Lost Ball Turnover (P1.T11),Barbosa STEAL (1 STL),nan,1627823,Juan Hernangomez,DEN,2571,Leandro Barbosa,PHX,0,nan,nan,Turnover ,Lost Ball
+173815,21600166,4,8:30,nan,MISS Dudley  3PT Jump Shot,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173816,21600166,4,8:30,Faried REBOUND (Off:6 Def:6),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173817,21600166,4,8:16,Nelson 2' Cutting Layup Shot (13 PTS) (Mudiay 6 AST),nan,86 - 98,2749,Jameer Nelson,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+173818,21600166,4,8:16,nan,Suns Timeout: Regular (Reg.3 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173819,21600166,4,8:16,SUB: Gallinari FOR Hernangomez,nan,nan,1627823,Juan Hernangomez,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+173820,21600166,4,7:57,nan,Barbosa 11' Floating Jump Shot (10 PTS),88 - 98,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173821,21600166,4,7:44,MISS Faried 2' Finger Roll Layup,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173822,21600166,4,7:43,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173823,21600166,4,7:43,Nelson L.B.FOUL (P5.PN) (K.Fitzgerald),nan,nan,2749,Jameer Nelson,DEN,203458,Alex Len,PHX,0,nan,nan,Foul ,Loose Ball
+173824,21600166,4,7:43,nan,Len Free Throw 1 of 2 (7 PTS),89 - 98,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173825,21600166,4,7:43,nan,MISS Len Free Throw 2 of 2,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173826,21600166,4,7:41,Chandler REBOUND (Off:3 Def:6),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173827,21600166,4,7:19,Chandler Offensive Charge Foul (P3.PN) (E.Lewis),nan,nan,201163,Wilson Chandler,DEN,201162,Jared Dudley,PHX,0,nan,nan,Foul ,Offensive Charge
+173828,21600166,4,7:19,Chandler Foul Turnover (P2.T12),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+173829,21600166,4,7:09,Gallinari P.FOUL (P1.PN) (E.Lewis),nan,nan,201568,Danilo Gallinari,DEN,201162,Jared Dudley,PHX,0,nan,nan,Foul ,Personal
+173830,21600166,4,7:09,nan,Dudley Free Throw 1 of 2 (3 PTS),90 - 98,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173831,21600166,4,7:09,nan,MISS Dudley Free Throw 2 of 2,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173832,21600166,4,7:08,Chandler REBOUND (Off:3 Def:7),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173833,21600166,4,6:58,nan,Barbosa P.FOUL (P1.T1) (E.Lewis),nan,2571,Leandro Barbosa,PHX,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+173834,21600166,4,6:42,Mudiay 3' Driving Finger Roll Layup (10 PTS),nan,90 - 100,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173835,21600166,4,6:18,nan,Dudley 25' 3PT Jump Shot (6 PTS) (Bledsoe 5 AST),93 - 100,201162,Jared Dudley,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+173836,21600166,4,5:58,MISS Gallinari 11' Jump Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173837,21600166,4,5:58,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173838,21600166,4,5:58,nan,Len P.FOUL (P4.T2) (K.Fitzgerald),nan,203458,Alex Len,PHX,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal
+173839,21600166,4,5:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+173840,21600166,4,5:58,nan,SUB: Booker FOR Barbosa,nan,2571,Leandro Barbosa,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+173841,21600166,4,5:41,Faried Offensive Goaltending Turnover (P3.T13),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+173842,21600166,4,5:22,Faried STEAL (3 STL),Bledsoe Lost Ball Turnover (P6.T13),nan,202339,Eric Bledsoe,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Turnover ,Lost Ball
+173843,21600166,4,5:20,Mudiay 1' Layup (12 PTS) (Chandler 4 AST),nan,93 - 102,1626144,Emmanuel Mudiay,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+173844,21600166,4,5:20,nan,Bledsoe S.FOUL (P3.T3) (K.Cutler),nan,202339,Eric Bledsoe,PHX,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+173845,21600166,4,5:20,Mudiay Free Throw 1 of 1 (13 PTS),nan,93 - 103,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173846,21600166,4,5:06,nan,MISS Knight 19' Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173847,21600166,4,5:05,nan,Knight REBOUND (Off:1 Def:3),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173848,21600166,4,5:04,nan,Dudley Offensive Charge Foul (P3.T4) (K.Cutler),nan,201162,Jared Dudley,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Offensive Charge
+173849,21600166,4,5:04,nan,Dudley Foul Turnover (P1.T14),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+173850,21600166,4,4:46,nan,Knight P.FOUL (P1.PN) (K.Fitzgerald),nan,202688,Brandon Knight,PHX,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal
+173851,21600166,4,4:46,nan,SUB: Barbosa FOR Bledsoe,nan,202339,Eric Bledsoe,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Substitution ,nan
+173852,21600166,4,4:39,nan,Len P.FOUL (P5.PN) (E.Lewis),nan,203458,Alex Len,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+173853,21600166,4,4:39,Faried Free Throw 1 of 2 (15 PTS),nan,93 - 104,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173854,21600166,4,4:39,Faried Free Throw 2 of 2 (16 PTS),nan,93 - 105,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173855,21600166,4,4:27,nan,Barbosa 20' Jump Shot (12 PTS),95 - 105,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173856,21600166,4,4:11,MISS Mudiay 17' Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173857,21600166,4,4:10,nan,Len REBOUND (Off:0 Def:4),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173858,21600166,4,4:06,Gallinari Shooting Block Foul (P2.PN) (K.Cutler),nan,nan,201568,Danilo Gallinari,DEN,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting Block
+173859,21600166,4,4:06,nan,Knight Free Throw 1 of 2 (29 PTS),96 - 105,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173860,21600166,4,4:06,nan,MISS Knight Free Throw 2 of 2,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173861,21600166,4,4:04,Faried REBOUND (Off:6 Def:7),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173862,21600166,4,3:48,Nelson 4' Driving Floating Jump Shot (15 PTS),nan,96 - 107,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173863,21600166,4,3:43,Chandler STEAL (1 STL),Knight Bad Pass Turnover (P1.T15),nan,202688,Brandon Knight,PHX,201163,Wilson Chandler,DEN,0,nan,nan,Turnover ,Bad Pass
+173864,21600166,4,3:23,nan,Booker S.FOUL (P4.PN) (K.Cutler),nan,1626164,Devin Booker,PHX,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Shooting
+173865,21600166,4,3:23,Gallinari Free Throw 1 of 2 (17 PTS),nan,96 - 108,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173866,21600166,4,3:23,Gallinari Free Throw 2 of 2 (18 PTS),nan,96 - 109,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173867,21600166,4,3:10,nan,Booker 4' Driving Bank Hook Shot (22 PTS),98 - 109,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173868,21600166,4,2:44,Mudiay 16' Jump Shot (15 PTS),nan,98 - 111,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173869,21600166,4,2:37,Faried STEAL (4 STL),Barbosa Lost Ball Turnover (P1.T16),nan,2571,Leandro Barbosa,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Turnover ,Lost Ball
+173870,21600166,4,2:18,Faried 3 Second Violation Turnover (P4.T14),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+173871,21600166,4,2:18,NUGGETS Timeout: Regular (Full 6 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173872,21600166,4,2:18,nan,SUB: Bledsoe FOR Len,nan,203458,Alex Len,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+173873,21600166,4,2:18,nan,SUB: Chandler FOR Barbosa,nan,2571,Leandro Barbosa,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+173874,21600166,4,2:01,nan,MISS Booker 23' Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173875,21600166,4,2:00,Faried REBOUND (Off:6 Def:8),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173876,21600166,4,1:47,Nelson 6' Fadeaway Jumper (17 PTS),nan,98 - 113,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173877,21600166,4,1:38,Faried P.FOUL (P4.PN) (K.Cutler),nan,nan,202702,Kenneth Faried,DEN,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+173878,21600166,4,1:38,nan,MISS Bledsoe Free Throw 1 of 2,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173879,21600166,4,1:38,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173880,21600166,4,1:38,nan,Bledsoe Free Throw 2 of 2 (8 PTS),99 - 113,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173881,21600166,4,1:20,Faried 3' Reverse Layup (18 PTS) (Gallinari 2 AST),nan,99 - 115,202702,Kenneth Faried,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+173882,21600166,4,1:20,nan,Chandler S.FOUL (P3.PN) (K.Fitzgerald),nan,2199,Tyson Chandler,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+173883,21600166,4,1:20,MISS Faried Free Throw 1 of 1,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173884,21600166,4,1:18,nan,Chandler REBOUND (Off:0 Def:5),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173885,21600166,4,1:03,nan,Knight 25' 3PT Step Back Jump Shot (32 PTS),102 - 115,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173886,21600166,4,0:54,Faried 3' Layup (20 PTS) (Chandler 5 AST),nan,102 - 117,202702,Kenneth Faried,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+173887,21600166,4,0:46,nan,MISS Knight 3' Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173888,21600166,4,0:46,Chandler REBOUND (Off:3 Def:8),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173889,21600166,4,0:46,NUGGETS Timeout: Short (Full 6 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+173890,21600166,4,0:46,nan,SUB: Williams FOR Chandler,nan,2199,Tyson Chandler,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+173891,21600166,4,0:46,nan,SUB: Bender FOR Dudley,nan,201162,Jared Dudley,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Substitution ,nan
+173892,21600166,4,0:46,SUB: Murray FOR Gallinari,nan,nan,201568,Danilo Gallinari,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Substitution ,nan
+173893,21600166,4,0:46,SUB: Hernangomez FOR Nelson,nan,nan,2749,Jameer Nelson,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Substitution ,nan
+173894,21600166,4,0:46,SUB: Beasley FOR Mudiay,nan,nan,1626144,Emmanuel Mudiay,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Substitution ,nan
+173895,21600166,4,0:46,SUB: Gee FOR Chandler,nan,nan,201163,Wilson Chandler,DEN,202087,Alonzo Gee,DEN,0,nan,nan,Substitution ,nan
+173896,21600166,4,0:24,Murray 25' 3PT Step Back Jump Shot (9 PTS),nan,102 - 120,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+173897,21600166,4,0:17,nan,Booker 6' Floating Jump Shot (24 PTS),104 - 120,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+173898,21600166,4,0:17,Faried S.FOUL (P5.PN) (K.Fitzgerald),nan,nan,202702,Kenneth Faried,DEN,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+173899,21600166,4,0:17,nan,nan,nan,202702,Kenneth Faried,DEN,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Double Technical
+173900,21600166,4,0:17,nan,Booker Ejection:Second Technical,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Ejection ,nan
+173901,21600166,4,0:17,nan,SUB: Chriss FOR Booker,nan,1626164,Devin Booker,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+173902,21600166,4,0:17,nan,MISS Chriss Free Throw 1 of 1,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173903,21600166,4,0:16,Faried REBOUND (Off:6 Def:9),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173904,21600166,4,0:00,nan,nan,104 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

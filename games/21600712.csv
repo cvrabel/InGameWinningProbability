@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+241008,21600712,4,12:00,nan,nan,65 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+241009,21600712,4,11:45,nan,Lauvergne 6' Jump Shot (13 PTS),67 - 80,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+241010,21600712,4,11:30,James Out of Bounds - Bad Pass Turnover Turnover (P2.T7),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+241011,21600712,4,11:17,nan,MISS Grant 19' Jump Shot,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241012,21600712,4,11:17,Frye REBOUND (Off:0 Def:3),nan,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241013,21600712,4,10:58,nan,Payne P.FOUL (P1.T1) (D.Collins),nan,1626166,Cameron Payne,OKC,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+241014,21600712,4,10:43,James 3' Layup (21 PTS),nan,67 - 82,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+241015,21600712,4,10:30,nan,MISS Lauvergne 6' Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241016,21600712,4,10:29,Frye REBOUND (Off:0 Def:4),nan,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241017,21600712,4,10:24,Felder Offensive Charge Foul (P1.T1) (M.Callahan),nan,nan,1627770,Kay Felder,CLE,1626166,Cameron Payne,OKC,0,nan,nan,Foul ,Offensive Charge
+241018,21600712,4,10:24,Felder Foul Turnover (P2.T8),nan,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+241019,21600712,4,10:07,Felder BLOCK (1 BLK),MISS Payne 5' Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,1627770,Kay Felder,CLE,Missed Shot ,nan
+241020,21600712,4,10:06,Frye REBOUND (Off:0 Def:5),nan,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241021,21600712,4,10:03,MISS Korver 24' 3PT Jump Shot,nan,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241022,21600712,4,10:02,nan,Payne REBOUND (Off:0 Def:3),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241023,21600712,4,10:01,nan,Thunder Timeout: Regular (Reg.4 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241024,21600712,4,9:44,nan,Oladipo 26' 3PT Jump Shot (15 PTS) (Payne 2 AST),70 - 82,203506,Victor Oladipo,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+241025,21600712,4,9:24,MISS Korver  3PT Jump Shot,nan,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241026,21600712,4,9:23,nan,Grant REBOUND (Off:1 Def:2),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241027,21600712,4,9:09,nan,Singler 1' Driving Layup (2 PTS) (Lauvergne 1 AST),72 - 82,202713,Kyle Singler,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Made Shot ,nan
+241028,21600712,4,8:48,MISS Frye 26' 3PT Jump Shot,nan,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241029,21600712,4,8:48,nan,Oladipo REBOUND (Off:1 Def:6),nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241030,21600712,4,8:41,nan,Payne 25' 3PT Jump Shot (5 PTS) (Oladipo 3 AST),75 - 82,1626166,Cameron Payne,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+241031,21600712,4,8:40,CAVALIERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241032,21600712,4,8:40,nan,SUB: Westbrook FOR Oladipo,nan,203506,Victor Oladipo,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+241033,21600712,4,8:40,SUB: Irving FOR Frye,nan,nan,101112,Channing Frye,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+241034,21600712,4,8:40,SUB: Thompson FOR Korver,nan,nan,2594,Kyle Korver,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+241035,21600712,4,8:40,SUB: Shumpert FOR Felder,nan,nan,1627770,Kay Felder,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+241036,21600712,4,8:26,MISS James 16' Step Back Jump Shot,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241037,21600712,4,8:26,nan,Payne REBOUND (Off:0 Def:4),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241038,21600712,4,8:08,nan,MISS Westbrook 26' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241039,21600712,4,8:08,James REBOUND (Off:1 Def:12),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241040,21600712,4,7:59,Irving 13' Pullup Jump Shot (24 PTS),nan,75 - 84,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+241041,21600712,4,7:44,nan,MISS Payne 19' Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241042,21600712,4,7:44,nan,Singler REBOUND (Off:1 Def:1),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241043,21600712,4,7:35,nan,MISS Payne 1' Cutting Layup Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241044,21600712,4,7:33,Thompson REBOUND (Off:5 Def:5),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241045,21600712,4,7:28,MISS Thompson 2' Cutting Layup Shot,Westbrook BLOCK (1 BLK),nan,202684,Tristan Thompson,CLE,0,nan,nan,201566,Russell Westbrook,OKC,Missed Shot ,nan
+241046,21600712,4,7:26,nan,Westbrook REBOUND (Off:5 Def:7),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241047,21600712,4,7:16,nan,MISS Singler 25' 3PT Jump Shot,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241048,21600712,4,7:16,James REBOUND (Off:1 Def:13),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241049,21600712,4,7:13,nan,SUB: Adams FOR Lauvergne,nan,203530,Joffrey Lauvergne,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+241050,21600712,4,7:12,Shumpert Bad Pass Turnover (P1.T9),Grant STEAL (1 STL),nan,202697,Iman Shumpert,CLE,203924,Jerami Grant,OKC,0,nan,nan,Turnover ,Bad Pass
+241051,21600712,4,7:12,Irving P.FOUL (P3.T2) (D.Collins),nan,nan,202681,Kyrie Irving,CLE,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Personal
+241052,21600712,4,7:12,nan,nan,nan,489,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+241053,21600712,4,6:59,Thompson STEAL (3 STL),Adams Lost Ball Turnover (P4.T13),nan,203500,Steven Adams,OKC,202684,Tristan Thompson,CLE,0,nan,nan,Turnover ,Lost Ball
+241054,21600712,4,6:52,Jefferson  Running Reverse Layup (8 PTS) (Shumpert 1 AST),nan,75 - 86,2210,Richard Jefferson,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+241055,21600712,4,6:38,Thompson BLOCK (4 BLK),MISS Adams 1' Layup,nan,203500,Steven Adams,OKC,0,nan,nan,202684,Tristan Thompson,CLE,Missed Shot ,nan
+241056,21600712,4,6:38,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241057,21600712,4,6:38,nan,SUB: Oladipo FOR Singler,nan,202713,Kyle Singler,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Substitution ,nan
+241058,21600712,4,6:29,nan,Westbrook 1' Driving Layup (17 PTS) (Grant 1 AST),77 - 86,201566,Russell Westbrook,OKC,203924,Jerami Grant,OKC,0,nan,nan,Made Shot ,nan
+241059,21600712,4,6:08,Shumpert  3PT Jump Shot (13 PTS) (James 6 AST),nan,77 - 89,202697,Iman Shumpert,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+241060,21600712,4,5:59,nan,Adams  Cutting Layup Shot (6 PTS) (Westbrook 8 AST),79 - 89,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+241061,21600712,4,5:59,Shumpert S.FOUL (P2.T3) (D.Collins),nan,nan,202697,Iman Shumpert,CLE,203500,Steven Adams,OKC,0,nan,nan,Foul ,Shooting
+241062,21600712,4,5:59,nan,Adams Free Throw 1 of 1 (7 PTS),80 - 89,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+241063,21600712,4,5:41,Irving 1' Driving Finger Roll Layup (26 PTS),nan,80 - 91,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+241064,21600712,4,5:29,nan,MISS Oladipo 25' 3PT Jump Shot,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241065,21600712,4,5:29,Irving REBOUND (Off:0 Def:2),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241066,21600712,4,5:23,nan,Grant S.FOUL (P4.T2) (D.Collins),nan,203924,Jerami Grant,OKC,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+241067,21600712,4,5:23,James Free Throw 1 of 2 (22 PTS),nan,80 - 92,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241068,21600712,4,5:23,James Free Throw 2 of 2 (23 PTS),nan,80 - 93,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241069,21600712,4,5:08,nan,Westbrook 1' Driving Layup (19 PTS) (Oladipo 4 AST),82 - 93,201566,Russell Westbrook,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+241070,21600712,4,4:42,Thompson  Dunk (15 PTS) (Irving 9 AST),nan,82 - 95,202684,Tristan Thompson,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+241071,21600712,4,4:25,Shumpert P.FOUL (P3.T4) (M.Callahan),nan,nan,202697,Iman Shumpert,CLE,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+241072,21600712,4,4:11,nan,MISS Westbrook 5' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241073,21600712,4,4:09,Thompson REBOUND (Off:5 Def:6),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241074,21600712,4,3:57,Irving 30' 3PT Jump Shot (29 PTS) (James 7 AST),nan,82 - 98,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+241075,21600712,4,3:57,nan,Thunder Timeout: Regular (Reg.5 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241076,21600712,4,3:48,nan,Oladipo 14' Pullup Jump Shot (17 PTS) (Westbrook 9 AST),84 - 98,203506,Victor Oladipo,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+241077,21600712,4,3:26,Shumpert 25' 3PT Jump Shot (16 PTS) (James 8 AST),nan,84 - 101,202697,Iman Shumpert,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+241078,21600712,4,3:14,nan,Grant 25' 3PT Jump Shot (8 PTS) (Westbrook 10 AST),87 - 101,203924,Jerami Grant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+241079,21600712,4,2:52,nan,Payne S.FOUL (P2.T3) (D.Collins),nan,1626166,Cameron Payne,OKC,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+241080,21600712,4,2:52,Thompson Free Throw 1 of 2 (16 PTS),nan,87 - 102,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241081,21600712,4,2:52,Thompson Free Throw 2 of 2 (17 PTS),nan,87 - 103,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241082,21600712,4,2:47,nan,MISS Grant 26' 3PT Jump Shot,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241083,21600712,4,2:46,Irving REBOUND (Off:0 Def:3),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241084,21600712,4,2:42,James  Running Dunk (25 PTS) (Irving 10 AST),nan,87 - 105,2544,LeBron James,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+241085,21600712,4,2:29,Thompson STEAL (4 STL),Payne Bad Pass Turnover (P1.T14),nan,1626166,Cameron Payne,OKC,202684,Tristan Thompson,CLE,0,nan,nan,Turnover ,Bad Pass
+241086,21600712,4,2:12,Thompson 15' Jump Shot (19 PTS),nan,87 - 107,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+241087,21600712,4,2:03,Shumpert S.FOUL (P4.PN) (M.Callahan),nan,nan,202697,Iman Shumpert,CLE,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Shooting
+241088,21600712,4,2:03,nan,MISS Westbrook Free Throw 1 of 3,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+241089,21600712,4,2:03,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+241090,21600712,4,2:03,nan,Westbrook Free Throw 2 of 3 (20 PTS),88 - 107,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+241091,21600712,4,2:03,nan,SUB: Lauvergne FOR Adams,nan,203500,Steven Adams,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Substitution ,nan
+241092,21600712,4,2:03,nan,SUB: Abrines FOR Oladipo,nan,203506,Victor Oladipo,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+241093,21600712,4,2:03,SUB: Jones FOR James,nan,nan,2544,LeBron James,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+241094,21600712,4,2:03,SUB: McRae FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,203895,Jordan McRae,CLE,0,nan,nan,Substitution ,nan
+241095,21600712,4,2:03,SUB: Liggins FOR Shumpert,nan,nan,202697,Iman Shumpert,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Substitution ,nan
+241096,21600712,4,2:03,SUB: Felder FOR Irving,nan,nan,202681,Kyrie Irving,CLE,1627770,Kay Felder,CLE,0,nan,nan,Substitution ,nan
+241097,21600712,4,2:03,nan,Lauvergne Offensive Goaltending Turnover (P2.T15),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+241098,21600712,4,1:49,Felder Bad Pass Turnover (P3.T10),Payne STEAL (2 STL),nan,1627770,Kay Felder,CLE,1626166,Cameron Payne,OKC,0,nan,nan,Turnover ,Bad Pass
+241099,21600712,4,1:37,nan,Payne 25' 3PT Jump Shot (8 PTS) (Abrines 1 AST),91 - 107,1626166,Cameron Payne,OKC,203518,Alex Abrines,OKC,0,nan,nan,Made Shot ,nan
+241100,21600712,4,1:25,MISS Felder 17' Pullup Jump Shot,nan,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241101,21600712,4,1:23,nan,Grant REBOUND (Off:1 Def:3),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241102,21600712,4,1:11,nan,MISS Payne 14' Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241103,21600712,4,1:11,Jefferson REBOUND (Off:0 Def:4),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241104,21600712,4,1:04,MISS Liggins 1' Layup,nan,nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241105,21600712,4,1:02,nan,Lauvergne REBOUND (Off:0 Def:5),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241106,21600712,4,0:52,Liggins BLOCK (1 BLK),MISS Lauvergne 7' Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,202732,DeAndre Liggins,CLE,Missed Shot ,nan
+241107,21600712,4,0:52,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241108,21600712,4,0:48,Liggins STEAL (1 STL),Lauvergne Bad Pass Turnover (P3.T16),nan,203530,Joffrey Lauvergne,OKC,202732,DeAndre Liggins,CLE,0,nan,nan,Turnover ,Bad Pass
+241109,21600712,4,0:24,MISS Felder 8' Jump Shot,Payne BLOCK (1 BLK),nan,1627770,Kay Felder,CLE,0,nan,nan,1626166,Cameron Payne,OKC,Missed Shot ,nan
+241110,21600712,4,0:23,nan,Lauvergne REBOUND (Off:0 Def:6),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241111,21600712,4,0:13,nan,MISS Grant 24' 3PT Jump Shot,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241112,21600712,4,0:13,McRae REBOUND (Off:0 Def:1),nan,nan,203895,Jordan McRae,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241113,21600712,4,0:00,nan,nan,91 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

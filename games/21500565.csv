@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+70420,21500565,4,12:00,nan,nan,61 - 50,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+70421,21500565,4,11:46,Young 15' Turnaround Jump Shot (6 PTS) (Huertas 2 AST),nan,61 - 52,201156,Nick Young,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+70422,21500565,4,11:26,nan,Hood 11' Jump Shot (12 PTS),63 - 52,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70423,21500565,4,11:11,MISS Young 16' Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70424,21500565,4,11:10,nan,Hood REBOUND (Off:0 Def:5),nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70425,21500565,4,11:03,Clarkson STEAL (4 STL),Hood Lost Ball Turnover (P2.T12),nan,203918,Rodney Hood,UTA,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Lost Ball
+70426,21500565,4,10:42,MISS Randle 4' Jump Shot,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70427,21500565,4,10:41,Young REBOUND (Off:1 Def:0),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70428,21500565,4,10:34,MISS Randle 2' Layup,Gobert BLOCK (3 BLK),nan,203944,Julius Randle,LAL,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+70429,21500565,4,10:33,nan,Lyles REBOUND (Off:0 Def:8),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70430,21500565,4,10:20,Randle STEAL (1 STL),Gobert Lost Ball Turnover (P2.T13),nan,203497,Rudy Gobert,UTA,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+70431,21500565,4,10:14,Randle  Running Dunk (9 PTS),nan,63 - 54,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+70432,21500565,4,9:52,nan,Hood 10' Jump Shot (14 PTS),65 - 54,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70433,21500565,4,9:27,MISS Huertas 3' Finger Roll Layup,nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70434,21500565,4,9:26,nan,Hood REBOUND (Off:0 Def:6),nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70435,21500565,4,9:13,Hibbert S.FOUL (P5.T1) (J.Goble),nan,nan,201579,Roy Hibbert,LAL,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+70436,21500565,4,9:13,nan,MISS Gobert Free Throw 1 of 2,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70437,21500565,4,9:13,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+70438,21500565,4,9:13,nan,SUB: Hayward FOR Ingles,nan,204060,Joe Ingles,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+70439,21500565,4,9:13,SUB: World Peace FOR Huertas,nan,nan,1626273,Marcelo Huertas,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+70440,21500565,4,9:13,nan,SUB: Neto FOR Burke,nan,203504,Trey Burke,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+70441,21500565,4,9:13,nan,Gobert Free Throw 2 of 2 (8 PTS),66 - 54,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70442,21500565,4,9:00,Clarkson 8' Floating Jump Shot (14 PTS),nan,66 - 56,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+70443,21500565,4,8:43,Clarkson P.FOUL (P2.T2) (J.Goble),nan,nan,203903,Jordan Clarkson,LAL,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal
+70444,21500565,4,8:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+70445,21500565,4,8:30,nan,MISS Hood 14' Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70446,21500565,4,8:30,Randle REBOUND (Off:0 Def:6),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70447,21500565,4,8:17,MISS Randle 2' Layup,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70448,21500565,4,8:16,nan,Lyles REBOUND (Off:0 Def:9),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70449,21500565,4,8:02,Hibbert S.FOUL (P6.T3) (K.Scott),nan,nan,201579,Roy Hibbert,LAL,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+70450,21500565,4,8:02,SUB: Nance Jr. FOR Hibbert,nan,nan,201579,Roy Hibbert,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Substitution ,nan
+70451,21500565,4,8:02,nan,MISS Hayward Free Throw 1 of 2,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70452,21500565,4,8:02,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+70453,21500565,4,8:02,nan,SUB: Booker FOR Lyles,nan,1626168,Trey Lyles,UTA,202344,Trevor Booker,UTA,0,nan,nan,Substitution ,nan
+70454,21500565,4,8:02,nan,Hayward Free Throw 2 of 2 (19 PTS),67 - 56,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70455,21500565,4,7:38,Nance Jr. 5' Hook Shot (4 PTS) (Randle 1 AST),nan,67 - 58,1626204,Larry Nance Jr.,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+70456,21500565,4,7:20,nan,Neto Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+70457,21500565,4,7:04,MISS Young 21' Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70458,21500565,4,7:03,nan,Booker REBOUND (Off:1 Def:5),nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70459,21500565,4,6:46,World Peace BLOCK (1 BLK),MISS Hayward 3' Layup,nan,202330,Gordon Hayward,UTA,0,nan,nan,1897,Metta World Peace,LAL,Missed Shot ,nan
+70460,21500565,4,6:44,Nance Jr. REBOUND (Off:4 Def:5),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70461,21500565,4,6:36,MISS Clarkson 15' Step Back Jump Shot,nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70462,21500565,4,6:34,nan,Gobert REBOUND (Off:0 Def:5),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70463,21500565,4,6:14,nan,Booker 2' Layup (6 PTS) (Hood 3 AST),69 - 58,202344,Trevor Booker,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+70464,21500565,4,6:06,LAKERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70465,21500565,4,6:06,SUB: Williams FOR Young,nan,nan,201156,Nick Young,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+70466,21500565,4,5:57,MISS Clarkson 7' Floating Jump Shot,nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70467,21500565,4,5:56,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70468,21500565,4,5:31,nan,Neto 26' 3PT Jump Shot (5 PTS),72 - 58,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70469,21500565,4,5:14,MISS World Peace 5' Jump Shot,Hayward BLOCK (3 BLK),nan,1897,Metta World Peace,LAL,0,nan,nan,202330,Gordon Hayward,UTA,Missed Shot ,nan
+70470,21500565,4,5:13,Randle REBOUND (Off:1 Def:6),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70471,21500565,4,5:04,MISS Randle 2' Layup,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70472,21500565,4,5:01,Williams REBOUND (Off:3 Def:5),nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70473,21500565,4,5:01,Williams 1' Tip Layup Shot (12 PTS),nan,72 - 60,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+70474,21500565,4,4:45,nan,Hayward 15' Pullup Jump Shot (21 PTS),74 - 60,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70475,21500565,4,4:30,Williams  Driving Layup (14 PTS),nan,74 - 62,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+70476,21500565,4,4:05,nan,MISS Hayward 26' 3PT Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70477,21500565,4,4:02,nan,Booker REBOUND (Off:2 Def:5),nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70478,21500565,4,4:02,nan,Jazz Turnover: Backcourt (T#15),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+70479,21500565,4,4:02,SUB: Brown FOR World Peace,nan,nan,1897,Metta World Peace,LAL,1626148,Anthony Brown,LAL,0,nan,nan,Substitution ,nan
+70480,21500565,4,3:55,Nance Jr. 11' Jump Shot (6 PTS) (Williams 4 AST),nan,74 - 64,1626204,Larry Nance Jr.,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+70481,21500565,4,3:39,nan,Neto 2' Reverse Layup (7 PTS),76 - 64,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70482,21500565,4,3:26,MISS Williams 25' 3PT Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70483,21500565,4,3:26,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70484,21500565,4,3:26,Randle L.B.FOUL (P5.T4) (J.Goble),nan,nan,203944,Julius Randle,LAL,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Loose Ball
+70485,21500565,4,3:08,Williams STEAL (2 STL),Hayward Bad Pass Turnover (P3.T16),nan,202330,Gordon Hayward,UTA,101150,Lou Williams,LAL,0,nan,nan,Turnover ,Bad Pass
+70486,21500565,4,2:50,MISS Brown 20' Jump Shot,nan,nan,1626148,Anthony Brown,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70487,21500565,4,2:50,Clarkson REBOUND (Off:1 Def:1),nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70488,21500565,4,2:50,nan,Hood L.B.FOUL (P2.T1) (J.Goble),nan,203918,Rodney Hood,UTA,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Loose Ball
+70489,21500565,4,2:50,nan,Jazz Timeout: Regular (Reg.4 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70490,21500565,4,2:50,nan,nan,nan,436,Juwan Howard,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+70491,21500565,4,2:41,Nance Jr. 1' Cutting Layup Shot (8 PTS) (Williams 5 AST),nan,76 - 66,1626204,Larry Nance Jr.,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+70492,21500565,4,2:18,nan,MISS Hood 8' Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70493,21500565,4,2:18,Nance Jr. REBOUND (Off:4 Def:6),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70494,21500565,4,2:08,Randle  Cutting Dunk Shot (11 PTS) (Williams 6 AST),nan,76 - 68,203944,Julius Randle,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+70495,21500565,4,1:47,nan,Hayward 15' Step Back Jump Shot (23 PTS),78 - 68,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70496,21500565,4,1:41,nan,Gobert S.FOUL (P4.T2) (K.Scott),nan,203497,Rudy Gobert,UTA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+70497,21500565,4,1:41,Williams Free Throw 1 of 2 (15 PTS),nan,78 - 69,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70498,21500565,4,1:41,nan,SUB: Burke FOR Neto,nan,203526,Raul Neto,UTA,203504,Trey Burke,UTA,0,nan,nan,Substitution ,nan
+70499,21500565,4,1:41,Williams Free Throw 2 of 2 (16 PTS),nan,78 - 70,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70500,21500565,4,1:19,nan,Hayward 4' Jump Shot (25 PTS),80 - 70,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+70501,21500565,4,1:08,MISS Williams 14' Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70502,21500565,4,1:08,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70503,21500565,4,1:08,nan,Gobert L.B.FOUL (P5.PN) (B.Nansel),nan,203497,Rudy Gobert,UTA,1626204,Larry Nance Jr.,LAL,0,nan,nan,Foul ,Loose Ball
+70504,21500565,4,1:08,Nance Jr. Free Throw 1 of 2 (9 PTS),nan,80 - 71,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70505,21500565,4,1:08,Nance Jr. Free Throw 2 of 2 (10 PTS),nan,80 - 72,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70506,21500565,4,0:49,nan,Gobert  Dunk (10 PTS) (Hood 4 AST),82 - 72,203497,Rudy Gobert,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+70507,21500565,4,0:46,LAKERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70508,21500565,4,0:46,nan,SUB: Johnson FOR Burke,nan,203504,Trey Burke,UTA,203187,Chris Johnson,UTA,0,nan,nan,Substitution ,nan
+70509,21500565,4,0:42,Williams Bad Pass Turnover (P6.T11),Hood STEAL (2 STL),nan,101150,Lou Williams,LAL,203918,Rodney Hood,UTA,0,nan,nan,Turnover ,Bad Pass
+70510,21500565,4,0:38,Randle P.FOUL (P6.PN) (B.Nansel),nan,nan,203944,Julius Randle,LAL,202344,Trevor Booker,UTA,0,nan,nan,Foul ,Personal
+70511,21500565,4,0:38,SUB: World Peace FOR Randle,nan,nan,203944,Julius Randle,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+70512,21500565,4,0:38,nan,Booker Free Throw 1 of 2 (7 PTS),83 - 72,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70513,21500565,4,0:38,nan,Booker Free Throw 2 of 2 (8 PTS),84 - 72,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70514,21500565,4,0:31,nan,Gobert P.FOUL (P6.PN) (J.Goble),nan,203497,Rudy Gobert,UTA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Personal
+70515,21500565,4,0:31,nan,SUB: Lyles FOR Gobert,nan,203497,Rudy Gobert,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+70516,21500565,4,0:31,Williams Free Throw 1 of 2 (17 PTS),nan,84 - 73,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70517,21500565,4,0:31,Williams Free Throw 2 of 2 (18 PTS),nan,84 - 74,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70518,21500565,4,0:31,nan,Jazz Timeout: Regular (Reg.5 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70519,21500565,4,0:31,nan,SUB: Burke FOR Lyles,nan,1626168,Trey Lyles,UTA,203504,Trey Burke,UTA,0,nan,nan,Substitution ,nan
+70520,21500565,4,0:31,nan,SUB: Ingles FOR Johnson,nan,203187,Chris Johnson,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+70521,21500565,4,0:30,Brown Personal Take Foul (P2.PN) (B.Nansel),nan,nan,1626148,Anthony Brown,LAL,203504,Trey Burke,UTA,0,nan,nan,Foul ,Personal Take
+70522,21500565,4,0:30,nan,Burke Free Throw 1 of 2 (9 PTS),85 - 74,203504,Trey Burke,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70523,21500565,4,0:30,nan,SUB: Johnson FOR Ingles,nan,204060,Joe Ingles,UTA,203187,Chris Johnson,UTA,0,nan,nan,Substitution ,nan
+70524,21500565,4,0:30,nan,Burke Free Throw 2 of 2 (10 PTS),86 - 74,203504,Trey Burke,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70525,21500565,4,0:21,MISS Brown 24' 3PT Jump Shot,nan,nan,1626148,Anthony Brown,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70526,21500565,4,0:20,Nance Jr. REBOUND (Off:5 Def:6),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70527,21500565,4,0:16,MISS Nance Jr. 24' 3PT Jump Shot,nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70528,21500565,4,0:15,nan,Hayward REBOUND (Off:1 Def:1),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70529,21500565,4,0:00,nan,nan,86 - 74,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,136 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+56354,21500451,4,12:00,nan,nan,85 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+56355,21500451,4,11:38,MISS Knight 5' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56356,21500451,4,11:36,Len REBOUND (Off:4 Def:2),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56357,21500451,4,11:34,MISS Warren 26' 3PT Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56358,21500451,4,11:32,Warren REBOUND (Off:1 Def:0),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56359,21500451,4,11:29,nan,Noel S.FOUL (P3.T1) (M.Ervin),nan,203457,Nerlens Noel,PHI,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+56360,21500451,4,11:29,SUNS Timeout: Regular (Full 4 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+56361,21500451,4,11:29,Booker Free Throw 1 of 2 (14 PTS),nan,85 - 76,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56362,21500451,4,11:29,MISS Booker Free Throw 2 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56363,21500451,4,11:27,nan,Noel REBOUND (Off:1 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56364,21500451,4,11:08,nan,MISS Marshall 26' 3PT Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56365,21500451,4,11:07,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56366,21500451,4,10:43,Booker  3PT Jump Shot (17 PTS) (Len 2 AST),nan,85 - 79,1626164,Devin Booker,PHX,203458,Alex Len,PHX,0,nan,nan,Made Shot ,nan
+56367,21500451,4,10:23,Len S.FOUL (P2.T1) (M.McCutchen),nan,nan,203458,Alex Len,PHX,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+56368,21500451,4,10:23,nan,Grant Free Throw 1 of 2 (3 PTS),86 - 79,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56369,21500451,4,10:23,nan,SUB: Thompson FOR Sampson,nan,203960,JaKarr Sampson,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+56370,21500451,4,10:23,nan,Grant Free Throw 2 of 2 (4 PTS),87 - 79,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56371,21500451,4,10:01,MISS Knight 14' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56372,21500451,4,9:59,nan,Marshall REBOUND (Off:0 Def:3),nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56373,21500451,4,9:43,Leuer BLOCK (1 BLK),MISS Grant 7' Jump Shot,nan,203924,Jerami Grant,PHI,0,nan,nan,202720,Jon Leuer,PHX,Missed Shot ,nan
+56374,21500451,4,9:42,nan,Noel REBOUND (Off:2 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56375,21500451,4,9:39,nan,Noel  Driving Reverse Dunk Shot (11 PTS),89 - 79,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56376,21500451,4,9:10,MISS Knight 38' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56377,21500451,4,9:08,nan,Stauskas REBOUND (Off:0 Def:3),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56378,21500451,4,8:59,Warren BLOCK (1 BLK),MISS Stauskas 3' Layup,nan,203917,Nik Stauskas,PHI,0,nan,nan,203933,TJ Warren,PHX,Missed Shot ,nan
+56379,21500451,4,8:57,Knight REBOUND (Off:0 Def:3),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56380,21500451,4,8:54,Knight Bad Pass Turnover (P4.T12),Thompson STEAL (1 STL),nan,202688,Brandon Knight,PHX,203138,Hollis Thompson,PHI,0,nan,nan,Turnover ,Bad Pass
+56381,21500451,4,8:54,Booker P.FOUL (P3.T2) (M.McCutchen),nan,nan,1626164,Devin Booker,PHX,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Personal
+56382,21500451,4,8:54,SUB: Tucker FOR Len,nan,nan,203458,Alex Len,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+56383,21500451,4,8:54,SUB: Price FOR Warren,nan,nan,203933,TJ Warren,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+56384,21500451,4,8:39,nan,MISS Marshall  3PT Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56385,21500451,4,8:37,nan,Stauskas REBOUND (Off:1 Def:3),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56386,21500451,4,8:37,nan,Stauskas  Tip Layup Shot (12 PTS),91 - 79,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56387,21500451,4,8:27,Leuer Lost Ball Turnover (P3.T13),Noel STEAL (2 STL),nan,202720,Jon Leuer,PHX,203457,Nerlens Noel,PHI,0,nan,nan,Turnover ,Lost Ball
+56388,21500451,4,8:24,Price STEAL (2 STL),Noel Bad Pass Turnover (P4.T18),nan,203457,Nerlens Noel,PHI,101179,Ronnie Price,PHX,0,nan,nan,Turnover ,Bad Pass
+56389,21500451,4,8:11,MISS Knight 9' Jump Bank Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56390,21500451,4,8:09,Tucker REBOUND (Off:1 Def:6),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56391,21500451,4,8:06,Tucker 1' Layup (7 PTS),nan,91 - 81,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+56392,21500451,4,8:02,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+56393,21500451,4,8:02,SUB: Chandler FOR Booker,nan,nan,1626164,Devin Booker,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+56394,21500451,4,8:02,nan,SUB: Smith FOR Noel,nan,203457,Nerlens Noel,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+56395,21500451,4,8:02,nan,SUB: Landry FOR Marshall,nan,203088,Kendall Marshall,PHI,201171,Carl Landry,PHI,0,nan,nan,Substitution ,nan
+56396,21500451,4,7:56,nan,MISS Thompson 25' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56397,21500451,4,7:54,Leuer REBOUND (Off:1 Def:6),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56398,21500451,4,7:43,MISS Tucker 2' Layup,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56399,21500451,4,7:41,nan,Landry REBOUND (Off:2 Def:5),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56400,21500451,4,7:32,nan,Stauskas  3PT Jump Shot (15 PTS) (Thompson 3 AST),94 - 81,203917,Nik Stauskas,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+56401,21500451,4,7:21,MISS Knight 25' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56402,21500451,4,7:19,nan,Landry REBOUND (Off:2 Def:6),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56403,21500451,4,7:01,nan,Thompson 24' 3PT Jump Shot (9 PTS) (Smith 4 AST),97 - 81,203138,Hollis Thompson,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+56404,21500451,4,6:45,nan,Grant S.FOUL (P5.T2) (M.Ervin),nan,203924,Jerami Grant,PHI,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Shooting
+56405,21500451,4,6:45,Price Free Throw 1 of 2 (4 PTS),nan,97 - 82,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56406,21500451,4,6:45,Price Free Throw 2 of 2 (5 PTS),nan,97 - 83,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56407,21500451,4,6:31,nan,MISS Landry 18' Jump Shot,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56408,21500451,4,6:29,Leuer REBOUND (Off:1 Def:7),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56409,21500451,4,6:20,Leuer 25' 3PT Jump Shot (9 PTS) (Knight 5 AST),nan,97 - 86,202720,Jon Leuer,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+56410,21500451,4,6:12,Leuer STEAL (1 STL),Smith Bad Pass Turnover (P3.T19),nan,202397,Ish Smith,PHI,202720,Jon Leuer,PHX,0,nan,nan,Turnover ,Bad Pass
+56411,21500451,4,6:09,Leuer  Running Dunk (11 PTS),nan,97 - 88,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+56412,21500451,4,6:09,nan,76ers Timeout: Short (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+56413,21500451,4,6:09,nan,SUB: Noel FOR Grant,nan,203924,Jerami Grant,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+56414,21500451,4,5:56,nan,Smith 20' Jump Shot (10 PTS),99 - 88,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56415,21500451,4,5:35,MISS Price 26' 3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56416,21500451,4,5:33,Leuer REBOUND (Off:2 Def:7),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56417,21500451,4,5:29,Price Lost Ball Turnover (P1.T14),Smith STEAL (1 STL),nan,101179,Ronnie Price,PHX,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Lost Ball
+56418,21500451,4,5:25,nan,Stauskas  Running Dunk (17 PTS) (Smith 5 AST),101 - 88,203917,Nik Stauskas,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+56419,21500451,4,5:08,Tucker  3PT Jump Shot (10 PTS) (Knight 6 AST),nan,101 - 91,200782,PJ Tucker,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+56420,21500451,4,4:52,nan,MISS Stauskas 1' Driving Layup,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56421,21500451,4,4:50,Chandler REBOUND (Off:2 Def:5),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56422,21500451,4,4:40,Leuer 24' 3PT Jump Shot (14 PTS) (Knight 7 AST),nan,101 - 94,202720,Jon Leuer,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+56423,21500451,4,4:19,nan,Smith 18' Jump Shot (12 PTS),103 - 94,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56424,21500451,4,4:10,nan,Noel S.FOUL (P4.T3) (M.McCutchen),nan,203457,Nerlens Noel,PHI,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+56425,21500451,4,4:10,Knight Free Throw 1 of 2 (16 PTS),nan,103 - 95,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56426,21500451,4,4:10,SUB: Teletovic FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+56427,21500451,4,4:10,nan,SUB: Canaan FOR Landry,nan,201171,Carl Landry,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+56428,21500451,4,4:10,nan,SUB: Grant FOR Stauskas,nan,203917,Nik Stauskas,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+56429,21500451,4,4:10,MISS Knight Free Throw 2 of 2,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56430,21500451,4,4:09,nan,Canaan REBOUND (Off:0 Def:3),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56431,21500451,4,3:52,nan,MISS Smith 10' Jump Shot,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56432,21500451,4,3:52,nan,Noel REBOUND (Off:3 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56433,21500451,4,3:52,nan,Noel 2' Layup (13 PTS),105 - 95,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56434,21500451,4,3:52,Knight S.FOUL (P3.T3) (C.Kirkland),nan,nan,202688,Brandon Knight,PHX,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+56435,21500451,4,3:52,SUB: Chandler FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+56436,21500451,4,3:52,nan,Noel Free Throw 1 of 1 (14 PTS),106 - 95,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+56437,21500451,4,3:37,nan,Smith P.FOUL (P1.T4) (C.Kirkland),nan,202397,Ish Smith,PHI,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Personal
+56438,21500451,4,3:30,Knight 25' 3PT Jump Shot (19 PTS),nan,106 - 98,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+56439,21500451,4,3:03,nan,Canaan Traveling Turnover (P2.T20),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+56440,21500451,4,2:57,nan,Noel S.FOUL (P5.PN) (M.McCutchen),nan,203457,Nerlens Noel,PHI,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+56441,21500451,4,2:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+56442,21500451,4,2:57,Knight Free Throw 1 of 2 (20 PTS),nan,106 - 99,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56443,21500451,4,2:57,Knight Free Throw 2 of 2 (21 PTS),nan,106 - 100,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56444,21500451,4,2:42,nan,MISS Smith 17' Jump Shot,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56445,21500451,4,2:40,Chandler REBOUND (Off:2 Def:6),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56446,21500451,4,2:34,Knight Bad Pass Turnover (P5.T15),Noel STEAL (3 STL),nan,202688,Brandon Knight,PHX,203457,Nerlens Noel,PHI,0,nan,nan,Turnover ,Bad Pass
+56447,21500451,4,2:21,nan,MISS Canaan 11' Jump Shot,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56448,21500451,4,2:19,Chandler REBOUND (Off:2 Def:7),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56449,21500451,4,2:15,MISS Knight 17' Pullup Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56450,21500451,4,2:11,nan,Grant REBOUND (Off:0 Def:3),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56451,21500451,4,1:53,nan,MISS Grant 25' 3PT Jump Shot,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56452,21500451,4,1:52,nan,Noel REBOUND (Off:4 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56453,21500451,4,1:35,nan,Smith 2' Driving Finger Roll Layup (14 PTS),108 - 100,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+56454,21500451,4,1:35,SUNS Timeout: Regular (Full 5 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+56455,21500451,4,1:27,MISS Price 25' 3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56456,21500451,4,1:27,Chandler REBOUND (Off:3 Def:7),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56457,21500451,4,1:27,Chandler  Putback Dunk (10 PTS),nan,108 - 102,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+56458,21500451,4,1:05,nan,Grant Out of Bounds - Bad Pass Turnover Turnover (P2.T21),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+56459,21500451,4,1:05,nan,nan,nan,585,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+56460,21500451,4,1:05,SUB: Booker FOR Price,nan,nan,101179,Ronnie Price,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+56461,21500451,4,0:53,MISS Booker 25' 3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56462,21500451,4,0:52,nan,Canaan REBOUND (Off:0 Def:4),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56463,21500451,4,0:30,nan,Grant Out of Bounds - Bad Pass Turnover Turnover (P3.T22),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+56464,21500451,4,0:30,SUNS Timeout: Short (Full 5 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+56465,21500451,4,0:30,SUB: Price FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+56466,21500451,4,0:30,nan,SUB: Sampson FOR Canaan,nan,203477,Isaiah Canaan,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+56467,21500451,4,0:24,MISS Knight 3' Layup,Sampson BLOCK (2 BLK),nan,202688,Brandon Knight,PHX,0,nan,nan,203960,JaKarr Sampson,PHI,Missed Shot ,nan
+56468,21500451,4,0:23,nan,Noel REBOUND (Off:4 Def:7),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56469,21500451,4,0:23,Leuer Personal Take Foul (P3.T4) (C.Kirkland),nan,nan,202720,Jon Leuer,PHX,203960,JaKarr Sampson,PHI,0,nan,nan,Foul ,Personal Take
+56470,21500451,4,0:23,nan,76ers Timeout: Regular (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+56471,21500451,4,0:23,nan,SUB: Canaan FOR Noel,nan,203457,Nerlens Noel,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+56472,21500451,4,0:23,nan,SUB: Stauskas FOR Sampson,nan,203960,JaKarr Sampson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+56473,21500451,4,0:23,SUB: Weems FOR Booker,nan,nan,1626164,Devin Booker,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+56474,21500451,4,0:23,SUB: Chandler FOR Leuer,nan,nan,202720,Jon Leuer,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+56475,21500451,4,0:23,nan,76ers Timeout: Short (Reg.5 Short 3),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+56476,21500451,4,0:16,Knight Personal Take Foul (P4.PN) (C.Kirkland),nan,nan,202688,Brandon Knight,PHX,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Personal Take
+56477,21500451,4,0:16,nan,Canaan Free Throw 1 of 2 (21 PTS),109 - 102,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56478,21500451,4,0:16,SUB: Booker FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+56479,21500451,4,0:16,nan,SUB: Sampson FOR Stauskas,nan,203917,Nik Stauskas,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+56480,21500451,4,0:16,nan,Canaan Free Throw 2 of 2 (22 PTS),110 - 102,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56481,21500451,4,0:10,MISS Knight 26' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+56482,21500451,4,0:08,nan,Sampson REBOUND (Off:0 Def:4),nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+56483,21500451,4,0:08,Booker Personal Take Foul (P4.PN) (M.Ervin),nan,nan,1626164,Devin Booker,PHX,203960,JaKarr Sampson,PHI,0,nan,nan,Foul ,Personal Take
+56484,21500451,4,0:08,nan,MISS Sampson Free Throw 1 of 2,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+56485,21500451,4,0:08,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+56486,21500451,4,0:08,nan,Sampson Free Throw 2 of 2 (6 PTS),111 - 102,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+56487,21500451,4,0:04,Booker 1' Driving Layup (19 PTS),nan,111 - 104,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+56488,21500451,4,0:00,nan,nan,111 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

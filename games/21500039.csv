@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+5058,21500039,4,12:00,nan,nan,70 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+5059,21500039,4,11:45,MISS Lin 7' Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5060,21500039,4,11:45,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5061,21500039,4,11:45,Hawes L.B.FOUL (P2.T1) (J.VanDuyne),nan,nan,201150,Spencer Hawes,CHA,203934,Lamar Patterson,ATL,0,nan,nan,Foul ,Loose Ball
+5062,21500039,4,11:35,Hawes BLOCK (1 BLK),MISS Schroder 2' Layup,nan,203471,Dennis Schroder,ATL,0,nan,nan,201150,Spencer Hawes,CHA,Missed Shot ,nan
+5063,21500039,4,11:33,nan,Sefolosha REBOUND (Off:2 Def:1),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5064,21500039,4,11:30,nan,MISS Sefolosha 2' Reverse Layup,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5065,21500039,4,11:29,nan,Schroder REBOUND (Off:1 Def:2),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5066,21500039,4,11:15,nan,MISS Patterson 12' Jump Shot,nan,203934,Lamar Patterson,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5067,21500039,4,11:13,Williams REBOUND (Off:0 Def:5),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5068,21500039,4,11:04,MISS Zeller 19' Jump Shot,nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5069,21500039,4,11:03,nan,Patterson REBOUND (Off:0 Def:1),nan,203934,Lamar Patterson,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5070,21500039,4,10:48,nan,MISS Scott 26' 3PT Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5071,21500039,4,10:47,Lamb REBOUND (Off:0 Def:3),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5072,21500039,4,10:38,MISS Lamb 2' Layup,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5073,21500039,4,10:36,nan,Sefolosha REBOUND (Off:2 Def:2),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5074,21500039,4,10:33,nan,Sefolosha Out of Bounds Lost Ball Turnover (P2.T8),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+5075,21500039,4,10:33,nan,SUB: Horford FOR Splitter,nan,201168,Tiago Splitter,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+5076,21500039,4,10:31,nan,SUB: Bazemore FOR Patterson,nan,203934,Lamar Patterson,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+5077,21500039,4,10:18,Hawes Bad Pass Turnover (P1.T11),Bazemore STEAL (3 STL),nan,201150,Spencer Hawes,CHA,203145,Kent Bazemore,ATL,0,nan,nan,Turnover ,Bad Pass
+5078,21500039,4,10:15,Lin S.FOUL (P2.T2) (B.Adams),nan,nan,202391,Jeremy Lin,CHA,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting
+5079,21500039,4,10:15,nan,Bazemore Free Throw 1 of 2 (12 PTS),71 - 76,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5080,21500039,4,10:15,nan,Bazemore Free Throw 2 of 2 (13 PTS),72 - 76,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5081,21500039,4,10:04,nan,Scott P.FOUL (P1.T1) (J.VanDuyne),nan,203118,Mike Scott,ATL,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Personal
+5082,21500039,4,9:55,MISS Hawes 10' Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5083,21500039,4,9:54,nan,Horford REBOUND (Off:1 Def:8),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5084,21500039,4,9:45,nan,Schroder 18' Pullup Jump Shot (6 PTS),74 - 76,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+5085,21500039,4,9:22,Williams Bad Pass Turnover (P2.T12),Sefolosha STEAL (2 STL),nan,101107,Marvin Williams,CHA,200757,Thabo Sefolosha,ATL,0,nan,nan,Turnover ,Bad Pass
+5086,21500039,4,9:11,Hawes STEAL (1 STL),Sefolosha Bad Pass Turnover (P3.T9),nan,200757,Thabo Sefolosha,ATL,201150,Spencer Hawes,CHA,0,nan,nan,Turnover ,Bad Pass
+5087,21500039,4,9:03,Lamb  3PT Jump Shot (9 PTS) (Lin 4 AST),nan,74 - 79,203087,Jeremy Lamb,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+5088,21500039,4,8:43,nan,MISS Horford 25' 3PT Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5089,21500039,4,8:41,Lin REBOUND (Off:0 Def:1),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5090,21500039,4,8:19,MISS Lin 25' 3PT Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5091,21500039,4,8:18,nan,Scott REBOUND (Off:0 Def:3),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5092,21500039,4,8:04,Hawes S.FOUL (P3.T3) (J.VanDuyne),nan,nan,201150,Spencer Hawes,CHA,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting
+5093,21500039,4,8:04,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+5094,21500039,4,8:04,nan,SUB: Teague FOR Schroder,nan,203471,Dennis Schroder,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+5095,21500039,4,8:04,nan,SUB: Millsap FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+5096,21500039,4,8:04,nan,SUB: Korver FOR Scott,nan,203118,Mike Scott,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+5097,21500039,4,8:04,SUB: Batum FOR Williams,nan,nan,101107,Marvin Williams,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+5098,21500039,4,8:04,SUB: Walker FOR Lin,nan,nan,202391,Jeremy Lin,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+5099,21500039,4,8:04,nan,Bazemore Free Throw 1 of 2 (14 PTS),75 - 79,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5100,21500039,4,8:04,nan,Bazemore Free Throw 2 of 2 (15 PTS),76 - 79,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5101,21500039,4,7:39,MISS Lamb 26' 3PT Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5102,21500039,4,7:37,Walker REBOUND (Off:2 Def:3),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5103,21500039,4,7:36,HORNETS Timeout: Short (Full 3 Short 1),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+5104,21500039,4,7:29,MISS Hawes 17' Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5105,21500039,4,7:28,nan,Korver REBOUND (Off:0 Def:2),nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5106,21500039,4,7:18,Lamb P.FOUL (P1.T4) (J.VanDuyne),nan,nan,203087,Jeremy Lamb,CHA,2594,Kyle Korver,ATL,0,nan,nan,Foul ,Personal
+5107,21500039,4,7:10,nan,MISS Bazemore 25' 3PT Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5108,21500039,4,7:09,Lamb REBOUND (Off:0 Def:4),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5109,21500039,4,6:57,MISS Hawes 3' Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5110,21500039,4,6:56,nan,Teague REBOUND (Off:0 Def:5),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5111,21500039,4,6:48,nan,MISS Millsap 10' Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5112,21500039,4,6:48,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5113,21500039,4,6:48,Batum L.B.FOUL (P2.PN) (B.Adams),nan,nan,201587,Nicolas Batum,CHA,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Loose Ball
+5114,21500039,4,6:48,nan,Horford Free Throw 1 of 2 (13 PTS),77 - 79,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5115,21500039,4,6:48,SUB: Jefferson FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,2744,Al Jefferson,CHA,0,nan,nan,Substitution ,nan
+5116,21500039,4,6:48,nan,Horford Free Throw 2 of 2 (14 PTS),78 - 79,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5117,21500039,4,6:31,MISS Zeller 20' Jump Shot,nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5118,21500039,4,6:30,nan,Millsap REBOUND (Off:1 Def:3),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5119,21500039,4,6:21,Batum STEAL (2 STL),Teague Bad Pass Turnover (P1.T10),nan,201952,Jeff Teague,ATL,201587,Nicolas Batum,CHA,0,nan,nan,Turnover ,Bad Pass
+5120,21500039,4,6:17,nan,Teague P.FOUL (P2.T2) (J.Crawford),nan,201952,Jeff Teague,ATL,201587,Nicolas Batum,CHA,0,nan,nan,Foul ,Personal
+5121,21500039,4,6:12,MISS Batum 26' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5122,21500039,4,6:11,nan,Horford REBOUND (Off:1 Def:9),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5123,21500039,4,6:01,nan,Horford 12' Jump Shot (16 PTS) (Teague 3 AST),80 - 79,201143,Al Horford,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+5124,21500039,4,5:42,MISS Lamb 12' Pullup Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5125,21500039,4,5:40,nan,Millsap REBOUND (Off:1 Def:4),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5126,21500039,4,5:27,nan,MISS Horford  3PT Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5127,21500039,4,5:26,Zeller REBOUND (Off:2 Def:2),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5128,21500039,4,5:14,MISS Jefferson 10' Turnaround Hook Shot,nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5129,21500039,4,5:13,nan,Horford REBOUND (Off:1 Def:10),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5130,21500039,4,5:01,nan,MISS Teague 25' 3PT Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5131,21500039,4,4:59,Zeller REBOUND (Off:2 Def:3),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5132,21500039,4,4:44,MISS Lamb  Dunk,Bazemore BLOCK (1 BLK),nan,203087,Jeremy Lamb,CHA,0,nan,nan,203145,Kent Bazemore,ATL,Missed Shot ,nan
+5133,21500039,4,4:44,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5134,21500039,4,4:44,HORNETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+5135,21500039,4,4:44,nan,SUB: Splitter FOR Horford,nan,201143,Al Horford,ATL,201168,Tiago Splitter,ATL,0,nan,nan,Substitution ,nan
+5136,21500039,4,4:44,SUB: Williams FOR Zeller,nan,nan,203469,Cody Zeller,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+5137,21500039,4,4:44,SUB: Lin FOR Lamb,nan,nan,203087,Jeremy Lamb,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Substitution ,nan
+5138,21500039,4,4:44,nan,Bazemore Violation:Kicked Ball (J.VanDuyne),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+5139,21500039,4,4:41,MISS Batum 18' Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5140,21500039,4,4:39,nan,Millsap REBOUND (Off:1 Def:5),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5141,21500039,4,4:27,Walker P.FOUL (P2.PN) (J.VanDuyne),nan,nan,202689,Kemba Walker,CHA,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+5142,21500039,4,4:27,nan,Teague Free Throw 1 of 2 (15 PTS),81 - 79,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5143,21500039,4,4:27,nan,Teague Free Throw 2 of 2 (16 PTS),82 - 79,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5144,21500039,4,4:06,MISS Lin 1' Driving Layup,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5145,21500039,4,4:03,nan,Bazemore REBOUND (Off:0 Def:3),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5146,21500039,4,3:44,nan,MISS Teague 3' Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5147,21500039,4,3:43,nan,Splitter REBOUND (Off:3 Def:4),nan,201168,Tiago Splitter,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5148,21500039,4,3:43,nan,Splitter 1' Tip Layup Shot (7 PTS),84 - 79,201168,Tiago Splitter,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+5149,21500039,4,3:30,nan,Splitter P.FOUL (P2.T3) (B.Adams),nan,201168,Tiago Splitter,ATL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+5150,21500039,4,3:30,nan,SUB: Horford FOR Splitter,nan,201168,Tiago Splitter,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+5151,21500039,4,3:17,MISS Batum 24' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5152,21500039,4,3:16,nan,Teague REBOUND (Off:0 Def:6),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5153,21500039,4,2:54,nan,MISS Bazemore 28' 3PT Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5154,21500039,4,2:53,Walker REBOUND (Off:2 Def:4),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5155,21500039,4,2:44,MISS Lin 25' 3PT Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5156,21500039,4,2:42,Lin REBOUND (Off:1 Def:1),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5157,21500039,4,2:38,nan,Korver S.FOUL (P3.T4) (B.Adams),nan,2594,Kyle Korver,ATL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Shooting
+5158,21500039,4,2:38,nan,Hawks Timeout: Regular (Reg.4 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+5159,21500039,4,2:38,Walker Free Throw 1 of 2 (11 PTS),nan,84 - 80,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5160,21500039,4,2:38,Walker Free Throw 2 of 2 (12 PTS),nan,84 - 81,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5161,21500039,4,2:23,nan,MISS Korver 22' Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5162,21500039,4,2:21,Jefferson REBOUND (Off:0 Def:10),nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5163,21500039,4,2:09,Walker 26' 3PT Jump Shot (15 PTS) (Batum 8 AST),nan,84 - 84,202689,Kemba Walker,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+5164,21500039,4,1:59,Walker P.FOUL (P3.PN) (J.Crawford),nan,nan,202689,Kemba Walker,CHA,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+5165,21500039,4,1:59,nan,Teague Free Throw 1 of 2 (17 PTS),85 - 84,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5166,21500039,4,1:59,nan,Teague Free Throw 2 of 2 (18 PTS),86 - 84,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5167,21500039,4,1:38,nan,Millsap S.FOUL (P3.PN) (J.Crawford),nan,200794,Paul Millsap,ATL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Shooting
+5168,21500039,4,1:38,Walker Free Throw 1 of 2 (16 PTS),nan,86 - 85,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5169,21500039,4,1:38,Walker Free Throw 2 of 2 (17 PTS),nan,86 - 86,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5170,21500039,4,1:18,nan,MISS Bazemore 2' Layup,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5171,21500039,4,1:17,nan,Horford REBOUND (Off:2 Def:10),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5172,21500039,4,1:12,nan,Bazemore 24' 3PT Jump Shot (18 PTS) (Korver 2 AST),89 - 86,203145,Kent Bazemore,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+5173,21500039,4,0:52,Williams 26' 3PT Jump Shot (12 PTS) (Jefferson 2 AST),nan,89 - 89,101107,Marvin Williams,CHA,2744,Al Jefferson,CHA,0,nan,nan,Made Shot ,nan
+5174,21500039,4,0:40,nan,Millsap 26' 3PT Jump Shot (16 PTS) (Teague 4 AST),92 - 89,200794,Paul Millsap,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+5175,21500039,4,0:27,HORNETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+5176,21500039,4,0:27,SUB: Hawes FOR Jefferson,nan,nan,2744,Al Jefferson,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+5177,21500039,4,0:19,MISS Batum 2' Layup,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5178,21500039,4,0:16,Hawes REBOUND (Off:1 Def:3),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5179,21500039,4,0:14,MISS Williams 2' Layup,Millsap BLOCK (2 BLK),nan,101107,Marvin Williams,CHA,0,nan,nan,200794,Paul Millsap,ATL,Missed Shot ,nan
+5180,21500039,4,0:14,nan,Bazemore REBOUND (Off:0 Def:4),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5181,21500039,4,0:14,Hawes P.FOUL (P4.PN) (B.Adams),nan,nan,201150,Spencer Hawes,CHA,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal
+5182,21500039,4,0:14,nan,Bazemore Free Throw 1 of 2 (19 PTS),93 - 89,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+5183,21500039,4,0:14,SUB: Zeller FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+5184,21500039,4,0:14,nan,SUB: Sefolosha FOR Teague,nan,201952,Jeff Teague,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+5185,21500039,4,0:14,nan,Bazemore Free Throw 2 of 2 (20 PTS),94 - 89,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+5186,21500039,4,0:14,HORNETS Timeout: Short (Full 5 Short 2),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+5187,21500039,4,0:14,SUB: Hawes FOR Zeller,nan,nan,203469,Cody Zeller,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+5188,21500039,4,0:12,Williams 30' 3PT Jump Bank Shot (15 PTS) (Lin 5 AST),nan,94 - 92,101107,Marvin Williams,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+5189,21500039,4,0:12,nan,Hawks Timeout: Short (Reg.4 Short 2),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+5190,21500039,4,0:12,nan,SUB: Teague FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+5191,21500039,4,0:12,SUB: Zeller FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+5192,21500039,4,0:08,nan,SUB: Sefolosha FOR Teague,nan,201952,Jeff Teague,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+5193,21500039,4,0:08,SUB: Hawes FOR Zeller,nan,nan,203469,Cody Zeller,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+5194,21500039,4,0:08,nan,Korver Bad Pass Turnover (P1.T11),nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+5195,21500039,4,0:08,Jump Ball Williams vs. Millsap: Tip to Batum,nan,nan,101107,Marvin Williams,CHA,200794,Paul Millsap,ATL,201587,Nicolas Batum,CHA,Jump Ball ,nan
+5196,21500039,4,0:00,MISS Walker 17' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+5197,21500039,4,0:00,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+5198,21500039,4,0:00,nan,nan,94 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

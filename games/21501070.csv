@@ -1,0 +1,96 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+133461,21501070,4,12:00,nan,nan,65 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+133462,21501070,4,11:46,MISS Afflalo 10' Turnaround Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133463,21501070,4,11:43,nan,Mirotic REBOUND (Off:2 Def:4),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133464,21501070,4,11:29,nan,Brooks 20' Jump Shot (6 PTS),67 - 80,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+133465,21501070,4,11:10,Williams 25' 3PT Jump Shot (5 PTS) (Galloway 1 AST),nan,67 - 83,202682,Derrick Williams,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+133466,21501070,4,10:46,nan,Mirotic 2' Layup (8 PTS) (Holiday 1 AST),69 - 83,202703,Nikola Mirotic,CHI,203200,Justin Holiday,CHI,0,nan,nan,Made Shot ,nan
+133467,21501070,4,10:27,Grant 10' Floating Jump Shot (4 PTS) (Seraphin 1 AST),nan,69 - 85,1626170,Jerian Grant,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Made Shot ,nan
+133468,21501070,4,10:08,nan,MISS Mirotic 20' Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133469,21501070,4,10:08,Seraphin REBOUND (Off:1 Def:2),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133470,21501070,4,10:00,Grant Bad Pass Turnover (P1.T13),Holiday STEAL (1 STL),nan,1626170,Jerian Grant,NYK,203200,Justin Holiday,CHI,0,nan,nan,Turnover ,Bad Pass
+133471,21501070,4,9:54,nan,Holiday  Layup (2 PTS) (Mirotic 3 AST),71 - 85,203200,Justin Holiday,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+133472,21501070,4,9:37,Afflalo Traveling Turnover (P1.T14),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Turnover ,Traveling
+133473,21501070,4,9:24,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133474,21501070,4,9:23,Galloway REBOUND (Off:0 Def:3),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133475,21501070,4,9:07,MISS Williams 24' 3PT Jump Shot,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133476,21501070,4,9:06,nan,Holiday REBOUND (Off:0 Def:5),nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133477,21501070,4,8:57,nan,Holiday 25' 3PT Jump Shot (5 PTS) (Brooks 1 AST),74 - 85,203200,Justin Holiday,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Made Shot ,nan
+133478,21501070,4,8:57,KNICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133479,21501070,4,8:39,MISS Afflalo 22' Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133480,21501070,4,8:37,nan,Brooks REBOUND (Off:0 Def:1),nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133481,21501070,4,8:31,nan,Portis Step Out of Bounds Turnover (P1.T7),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+133482,21501070,4,8:14,Seraphin Traveling Turnover (P1.T15),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Turnover ,Traveling
+133483,21501070,4,8:00,Seraphin BLOCK (2 BLK),MISS Rose 2' Layup,nan,201565,Derrick Rose,CHI,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+133484,21501070,4,7:59,nan,Brooks REBOUND (Off:1 Def:1),nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133485,21501070,4,7:56,nan,MISS Brooks  3PT Jump Shot,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133486,21501070,4,7:55,Galloway REBOUND (Off:0 Def:4),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133487,21501070,4,7:52,Galloway  Driving Layup (5 PTS),nan,74 - 87,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133488,21501070,4,7:52,nan,Holiday S.FOUL (P1.T1) (M.Lindsay),nan,203200,Justin Holiday,CHI,204038,Langston Galloway,NYK,0,nan,nan,Foul ,Shooting
+133489,21501070,4,7:52,SUB: Lopez FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+133490,21501070,4,7:52,SUB: Calderon FOR Grant,nan,nan,1626170,Jerian Grant,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+133491,21501070,4,7:52,nan,SUB: Butler FOR Holiday,nan,203200,Justin Holiday,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+133492,21501070,4,7:52,Galloway Free Throw 1 of 1 (6 PTS),nan,74 - 88,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+133493,21501070,4,7:34,nan,MISS Mirotic 7' Hook Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133494,21501070,4,7:32,Calderon REBOUND (Off:1 Def:5),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133495,21501070,4,7:29,Williams  Alley Oop Dunk (7 PTS) (Calderon 5 AST),nan,74 - 90,202682,Derrick Williams,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+133496,21501070,4,7:27,nan,Bulls Timeout: Regular (Reg.4 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133497,21501070,4,7:27,nan,SUB: Gibson FOR Mirotic,nan,202703,Nikola Mirotic,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+133498,21501070,4,7:27,nan,SUB: Dunleavy FOR Portis,nan,1626171,Bobby Portis,CHI,2399,Mike Dunleavy,CHI,0,nan,nan,Substitution ,nan
+133499,21501070,4,7:17,nan,Rose 19' Jump Shot (22 PTS),76 - 90,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+133500,21501070,4,6:55,MISS Afflalo 4' Jump Shot,Butler BLOCK (1 BLK),nan,201167,Arron Afflalo,NYK,0,nan,nan,202710,Jimmy Butler,CHI,Missed Shot ,nan
+133501,21501070,4,6:54,nan,Brooks REBOUND (Off:1 Def:2),nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133502,21501070,4,6:51,Calderon P.FOUL (P2.T1) (M.Lindsay),nan,nan,101181,Jose Calderon,NYK,201166,Aaron Brooks,CHI,0,nan,nan,Foul ,Personal
+133503,21501070,4,6:41,nan,MISS Butler 16' Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133504,21501070,4,6:40,Williams REBOUND (Off:0 Def:3),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133505,21501070,4,6:34,Lopez 3 Second Violation Turnover (P4.T16),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+133506,21501070,4,6:22,nan,Rose 1' Driving Layup (24 PTS),78 - 90,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+133507,21501070,4,6:22,Lopez S.FOUL (P2.T2) (T.Brothers),nan,nan,201577,Robin Lopez,NYK,201565,Derrick Rose,CHI,0,nan,nan,Foul ,Shooting
+133508,21501070,4,6:22,KNICKS Delay,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Foul ,Delay Technical
+133509,21501070,4,6:22,nan,MISS Rose Free Throw Technical,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+133510,21501070,4,6:22,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133511,21501070,4,6:22,SUB: Anthony FOR Galloway,nan,nan,204038,Langston Galloway,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+133512,21501070,4,6:22,nan,Rose Free Throw 1 of 1 (25 PTS),79 - 90,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+133513,21501070,4,5:58,Anthony 21' Jump Shot (21 PTS),nan,79 - 92,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133514,21501070,4,5:46,Anthony STEAL (1 STL),Rose Bad Pass Turnover (P1.T8),nan,201565,Derrick Rose,CHI,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Bad Pass
+133515,21501070,4,5:34,MISS Lopez 10' Hook Shot,nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133516,21501070,4,5:33,nan,Dunleavy REBOUND (Off:0 Def:3),nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133517,21501070,4,5:26,nan,MISS Brooks 26' 3PT Jump Shot,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133518,21501070,4,5:25,Anthony REBOUND (Off:1 Def:5),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133519,21501070,4,5:08,Williams 18' Jump Shot (9 PTS),nan,79 - 94,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133520,21501070,4,4:52,Lopez Violation:Kicked Ball (M.Lindsay),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+133521,21501070,4,4:52,nan,SUB: Holiday FOR Brooks,nan,201166,Aaron Brooks,CHI,203200,Justin Holiday,CHI,0,nan,nan,Substitution ,nan
+133522,21501070,4,4:46,nan,Butler  Alley Oop Dunk (17 PTS) (Dunleavy 2 AST),81 - 94,202710,Jimmy Butler,CHI,2399,Mike Dunleavy,CHI,0,nan,nan,Made Shot ,nan
+133523,21501070,4,4:27,Afflalo Traveling Turnover (P2.T17),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Turnover ,Traveling
+133524,21501070,4,4:13,nan,Rose 18' Pullup Jump Shot (27 PTS),83 - 94,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+133525,21501070,4,4:13,KNICKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133526,21501070,4,4:13,SUB: Porzingis FOR Lopez,nan,nan,201577,Robin Lopez,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+133527,21501070,4,3:57,Calderon 24' 3PT Jump Shot (12 PTS),nan,83 - 97,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133528,21501070,4,3:43,nan,MISS Rose 20' Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133529,21501070,4,3:43,Calderon REBOUND (Off:1 Def:6),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133530,21501070,4,3:29,Anthony 25' 3PT Jump Shot (24 PTS) (Calderon 6 AST),nan,83 - 100,2546,Carmelo Anthony,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+133531,21501070,4,3:29,nan,Bulls Timeout: Regular (Reg.5 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133532,21501070,4,3:15,nan,Dunleavy 24' 3PT Jump Shot (6 PTS) (Rose 2 AST),86 - 100,2399,Mike Dunleavy,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+133533,21501070,4,2:52,Williams 2' Driving Layup (11 PTS),nan,86 - 102,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133534,21501070,4,2:36,nan,Butler 1' Layup (19 PTS),88 - 102,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+133535,21501070,4,2:12,MISS Porzingis 20' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133536,21501070,4,2:12,Anthony REBOUND (Off:2 Def:5),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133537,21501070,4,2:00,Williams  Alley Oop Layup (13 PTS) (Calderon 7 AST),nan,88 - 104,202682,Derrick Williams,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+133538,21501070,4,1:55,nan,Dunleavy  3PT Jump Shot (9 PTS) (Rose 3 AST),91 - 104,2399,Mike Dunleavy,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+133539,21501070,4,1:41,MISS Anthony 24' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133540,21501070,4,1:40,nan,Dunleavy REBOUND (Off:0 Def:4),nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133541,21501070,4,1:29,nan,Rose 25' 3PT Jump Shot (30 PTS) (Butler 3 AST),94 - 104,201565,Derrick Rose,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+133542,21501070,4,1:21,nan,Dunleavy P.FOUL (P1.T2) (T.Brothers),nan,2399,Mike Dunleavy,CHI,101181,Jose Calderon,NYK,0,nan,nan,Foul ,Personal
+133543,21501070,4,1:21,nan,SUB: Brooks FOR Holiday,nan,203200,Justin Holiday,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Substitution ,nan
+133544,21501070,4,1:13,Williams Bad Pass Turnover (P2.T18),Butler STEAL (3 STL),nan,202682,Derrick Williams,NYK,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Bad Pass
+133545,21501070,4,1:10,Calderon P.FOUL (P3.T3) (M.Lindsay),nan,nan,101181,Jose Calderon,NYK,201166,Aaron Brooks,CHI,0,nan,nan,Foul ,Personal
+133546,21501070,4,1:00,Porzingis BLOCK (3 BLK),MISS Rose 15' Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+133547,21501070,4,0:59,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133548,21501070,4,0:55,nan,MISS Dunleavy 26' 3PT Jump Shot,nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133549,21501070,4,0:55,nan,Butler REBOUND (Off:1 Def:2),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133550,21501070,4,0:49,nan,MISS Butler 25' 3PT Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133551,21501070,4,0:49,Porzingis REBOUND (Off:1 Def:8),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133552,21501070,4,0:26,Anthony 10' Fadeaway Jumper (26 PTS),nan,94 - 106,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+133553,21501070,4,0:12,nan,MISS Dunleavy 24' 3PT Jump Shot,nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133554,21501070,4,0:12,Porzingis REBOUND (Off:1 Def:9),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133555,21501070,4,0:00,nan,nan,94 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

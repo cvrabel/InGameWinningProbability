@@ -1,0 +1,120 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+161318,21600066,4,12:00,nan,nan,79 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+161319,21600066,4,11:48,MISS Beasley 13' Jump Shot,nan,nan,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161320,21600066,4,11:48,Monroe REBOUND (Off:5 Def:7),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161321,21600066,4,11:48,nan,Brooks P.FOUL (P4.T1) (K.Cutler),nan,201166,Aaron Brooks,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Personal
+161322,21600066,4,11:32,Parker 3' Jump Shot (24 PTS) (Monroe 6 AST),nan,79 - 92,203953,Jabari Parker,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+161323,21600066,4,11:14,nan,MISS Allen 18' Jump Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161324,21600066,4,11:13,Monroe REBOUND (Off:5 Def:8),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161325,21600066,4,11:03,Parker Bad Pass Turnover (P4.T17),Miles STEAL (3 STL),nan,203953,Jabari Parker,MIL,101139,CJ Miles,IND,0,nan,nan,Turnover ,Bad Pass
+161326,21600066,4,10:55,nan,MISS George 24' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161327,21600066,4,10:54,nan,George REBOUND (Off:1 Def:4),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161328,21600066,4,10:53,nan,George Offensive Charge Foul (P2.T2) (K.Cutler),nan,202331,Paul George,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Offensive Charge
+161329,21600066,4,10:53,nan,George Foul Turnover (P6.T16),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+161330,21600066,4,10:41,nan,Brooks P.FOUL (P5.T3) (K.Cutler),nan,201166,Aaron Brooks,IND,201563,Michael Beasley,MIL,0,nan,nan,Foul ,Personal
+161331,21600066,4,10:37,Parker  3PT Jump Shot (27 PTS) (Monroe 7 AST),nan,79 - 95,203953,Jabari Parker,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+161332,21600066,4,10:15,nan,MISS Miles 13' Pullup Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161333,21600066,4,10:14,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161334,21600066,4,10:06,nan,MISS Brooks 1' Driving Layup,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161335,21600066,4,10:03,Monroe REBOUND (Off:5 Def:9),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161336,21600066,4,9:56,Monroe Bad Pass Turnover (P1.T18),Brooks STEAL (1 STL),nan,202328,Greg Monroe,MIL,201166,Aaron Brooks,IND,0,nan,nan,Turnover ,Bad Pass
+161337,21600066,4,9:51,nan,Brooks Lost Ball Turnover (P3.T17),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Turnover ,Lost Ball
+161338,21600066,4,9:51,Jump Ball Brogdon vs. Allen: Tip to Monroe,nan,nan,1627763,Malcolm Brogdon,MIL,202730,Lavoy Allen,IND,202328,Greg Monroe,MIL,Jump Ball ,nan
+161339,21600066,4,9:38,MISS Beasley 1' Driving Layup,nan,nan,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161340,21600066,4,9:36,nan,Jefferson REBOUND (Off:3 Def:3),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161341,21600066,4,9:28,nan,George 24' 3PT Jump Shot (18 PTS) (Brooks 3 AST),82 - 95,202331,Paul George,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+161342,21600066,4,9:13,MISS Parker 20' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161343,21600066,4,9:12,nan,Jefferson REBOUND (Off:3 Def:4),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161344,21600066,4,8:57,Beasley BLOCK (1 BLK),MISS George 5' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,201563,Michael Beasley,MIL,Missed Shot ,nan
+161345,21600066,4,8:57,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161346,21600066,4,8:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+161347,21600066,4,8:57,nan,SUB: Young FOR Jefferson,nan,2744,Al Jefferson,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+161348,21600066,4,8:57,nan,SUB: Turner FOR Allen,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+161349,21600066,4,8:57,SUB: Antetokounmpo FOR Terry,nan,nan,1891,Jason Terry,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+161350,21600066,4,8:57,SUB: Snell FOR Beasley,nan,nan,201563,Michael Beasley,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+161351,21600066,4,8:56,Monroe S.FOUL (P2.T1) (K.Fitzgerald),nan,nan,202328,Greg Monroe,MIL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+161352,21600066,4,8:56,nan,Turner Free Throw 1 of 2 (11 PTS),83 - 95,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+161353,21600066,4,8:56,nan,Turner Free Throw 2 of 2 (12 PTS),84 - 95,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+161354,21600066,4,8:43,MISS Monroe 1' Layup,George BLOCK (3 BLK),nan,202328,Greg Monroe,MIL,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+161355,21600066,4,8:40,nan,Miles REBOUND (Off:1 Def:2),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161356,21600066,4,8:37,nan,Young 1' Running Layup (9 PTS) (Brooks 4 AST),86 - 95,201152,Thaddeus Young,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+161357,21600066,4,8:25,MISS Antetokounmpo 2' Driving Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161358,21600066,4,8:23,Antetokounmpo REBOUND (Off:2 Def:4),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161359,21600066,4,8:22,Antetokounmpo  Putback Layup (18 PTS),nan,86 - 97,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161360,21600066,4,8:05,nan,Miles 19' Jump Shot (16 PTS) (Brooks 5 AST),88 - 97,101139,CJ Miles,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+161361,21600066,4,7:49,MISS Monroe 4' Jump Shot,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161362,21600066,4,7:48,nan,Turner REBOUND (Off:1 Def:1),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161363,21600066,4,7:32,nan,MISS Young 24' 3PT Jump Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161364,21600066,4,7:31,Monroe REBOUND (Off:5 Def:10),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161365,21600066,4,7:11,Antetokounmpo  Driving Layup (20 PTS),nan,88 - 99,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161366,21600066,4,6:55,Brogdon STEAL (2 STL),Brooks Lost Ball Turnover (P4.T18),nan,201166,Aaron Brooks,IND,1627763,Malcolm Brogdon,MIL,0,nan,nan,Turnover ,Lost Ball
+161367,21600066,4,6:51,Monroe  Running Dunk (14 PTS),nan,88 - 101,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161368,21600066,4,6:51,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+161369,21600066,4,6:51,nan,SUB: Ellis FOR Brooks,nan,201166,Aaron Brooks,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+161370,21600066,4,6:51,SUB: Dellavedova FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+161371,21600066,4,6:39,nan,Ellis 1' Driving Reverse Layup (4 PTS),90 - 101,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+161372,21600066,4,6:23,Dellavedova 7' Driving Floating Jump Shot (5 PTS),nan,90 - 103,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161373,21600066,4,6:06,nan,George 24' 3PT Jump Shot (21 PTS) (Turner 1 AST),93 - 103,202331,Paul George,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+161374,21600066,4,5:50,MISS Dellavedova 9' Driving Floating Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161375,21600066,4,5:48,Monroe REBOUND (Off:6 Def:10),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161376,21600066,4,5:47,Monroe  Putback Layup (16 PTS),nan,93 - 105,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161377,21600066,4,5:32,nan,Turner 27' 3PT Jump Shot (15 PTS) (Ellis 8 AST),96 - 105,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+161378,21600066,4,5:10,Antetokounmpo  Driving Finger Roll Layup (22 PTS),nan,96 - 107,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161379,21600066,4,4:52,nan,MISS George 19' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161380,21600066,4,4:51,Snell REBOUND (Off:0 Def:1),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161381,21600066,4,4:33,MISS Parker 10' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161382,21600066,4,4:31,nan,Young REBOUND (Off:1 Def:3),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161383,21600066,4,4:28,Dellavedova S.FOUL (P4.T2) (K.Fitzgerald),nan,nan,203521,Matthew Dellavedova,MIL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+161384,21600066,4,4:28,nan,Ellis Free Throw 1 of 2 (5 PTS),97 - 107,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+161385,21600066,4,4:28,SUB: Plumlee FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203101,Miles Plumlee,MIL,0,nan,nan,Substitution ,nan
+161386,21600066,4,4:28,nan,SUB: Teague FOR Young,nan,201152,Thaddeus Young,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+161387,21600066,4,4:28,nan,Ellis Free Throw 2 of 2 (6 PTS),98 - 107,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+161388,21600066,4,4:14,Dellavedova Lost Ball Turnover (P4.T19),Ellis STEAL (3 STL),nan,203521,Matthew Dellavedova,MIL,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Lost Ball
+161389,21600066,4,4:11,nan,George 1' Layup (23 PTS) (Ellis 9 AST),100 - 107,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+161390,21600066,4,4:11,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+161391,21600066,4,3:49,Snell 25' 3PT Jump Shot (12 PTS) (Parker 3 AST),nan,100 - 110,203503,Tony Snell,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+161392,21600066,4,3:33,nan,MISS Teague 27' 3PT Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161393,21600066,4,3:28,nan,Teague REBOUND (Off:1 Def:3),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161394,21600066,4,3:24,nan,MISS Teague 1' Putback Layup,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161395,21600066,4,3:22,Antetokounmpo REBOUND (Off:2 Def:5),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161396,21600066,4,3:12,Plumlee  Alley Oop Dunk (4 PTS) (Antetokounmpo 9 AST),nan,100 - 112,203101,Miles Plumlee,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+161397,21600066,4,3:12,nan,Pacers Timeout: Regular (Reg.5 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+161398,21600066,4,2:52,nan,MISS George 25' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161399,21600066,4,2:51,Parker REBOUND (Off:3 Def:5),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161400,21600066,4,2:42,Plumlee OFF.Foul (P4) (B.Spooner),nan,nan,203101,Miles Plumlee,MIL,202331,Paul George,IND,0,nan,nan,Foul ,Offensive
+161401,21600066,4,2:42,Plumlee Foul Turnover (P2.T20),nan,nan,203101,Miles Plumlee,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+161402,21600066,4,2:34,nan,Turner OFF.Foul (P5) (B.Spooner),nan,1626167,Myles Turner,IND,203503,Tony Snell,MIL,0,nan,nan,Foul ,Offensive
+161403,21600066,4,2:34,nan,Turner Foul Turnover (P2.T19),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+161404,21600066,4,2:22,Antetokounmpo  Layup (24 PTS) (Dellavedova 4 AST),nan,100 - 114,203507,Giannis Antetokounmpo,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+161405,21600066,4,2:07,nan,MISS Ellis  3PT Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161406,21600066,4,2:05,Dellavedova REBOUND (Off:0 Def:2),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161407,21600066,4,1:56,Dellavedova Offensive Charge Foul (P5.T3) (K.Fitzgerald),nan,nan,203521,Matthew Dellavedova,MIL,101139,CJ Miles,IND,0,nan,nan,Foul ,Offensive Charge
+161408,21600066,4,1:56,Dellavedova Foul Turnover (P5.T21),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+161409,21600066,4,1:56,nan,Pacers Timeout: Regular (Reg.6 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+161410,21600066,4,1:51,nan,Miles 24' 3PT Jump Shot (19 PTS) (Ellis 10 AST),103 - 114,101139,CJ Miles,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+161411,21600066,4,1:41,Antetokounmpo  Alley Oop Layup (26 PTS) (Plumlee 2 AST),nan,103 - 116,203507,Giannis Antetokounmpo,MIL,203101,Miles Plumlee,MIL,0,nan,nan,Made Shot ,nan
+161412,21600066,4,1:41,nan,George S.FOUL (P3.T4) (B.Spooner),nan,202331,Paul George,IND,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+161413,21600066,4,1:41,Antetokounmpo Free Throw 1 of 1 (27 PTS),nan,103 - 117,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+161414,21600066,4,1:41,nan,Pacers Timeout: Short (Reg.6 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+161415,21600066,4,1:41,nan,SUB: Niang FOR George,nan,202331,Paul George,IND,1627777,Georges Niang,IND,0,nan,nan,Substitution ,nan
+161416,21600066,4,1:41,nan,SUB: Young FOR Turner,nan,1626167,Myles Turner,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+161417,21600066,4,1:41,nan,SUB: Seraphin FOR Ellis,nan,101145,Monta Ellis,IND,202338,Kevin Seraphin,IND,0,nan,nan,Substitution ,nan
+161418,21600066,4,1:41,nan,SUB: Robinson III FOR Teague,nan,201952,Jeff Teague,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+161419,21600066,4,1:41,nan,SUB: Allen FOR Miles,nan,101139,CJ Miles,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+161420,21600066,4,1:29,Snell STEAL (2 STL),Robinson III Bad Pass Turnover (P1.T20),nan,203922,Glenn Robinson III,IND,203503,Tony Snell,MIL,0,nan,nan,Turnover ,Bad Pass
+161421,21600066,4,1:25,Snell 1' Running Layup (14 PTS),nan,103 - 119,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+161422,21600066,4,1:14,nan,Seraphin 15' Turnaround Jump Shot (2 PTS) (Niang 1 AST),105 - 119,202338,Kevin Seraphin,IND,1627777,Georges Niang,IND,0,nan,nan,Made Shot ,nan
+161423,21600066,4,1:14,BUCKS Timeout: Short (Full 4 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+161424,21600066,4,1:14,SUB: Maker FOR Antetokounmpo,nan,nan,203507,Giannis Antetokounmpo,MIL,1627748,Thon Maker,MIL,0,nan,nan,Substitution ,nan
+161425,21600066,4,1:14,SUB: Vaughn FOR Parker,nan,nan,203953,Jabari Parker,MIL,1626173,Rashad Vaughn,MIL,0,nan,nan,Substitution ,nan
+161426,21600066,4,1:14,SUB: Beasley FOR Snell,nan,nan,203503,Tony Snell,MIL,201563,Michael Beasley,MIL,0,nan,nan,Substitution ,nan
+161427,21600066,4,1:14,SUB: Brogdon FOR Dellavedova,nan,nan,203521,Matthew Dellavedova,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Substitution ,nan
+161428,21600066,4,1:01,Maker 26' 3PT Jump Shot (3 PTS) (Beasley 1 AST),nan,105 - 122,1627748,Thon Maker,MIL,201563,Michael Beasley,MIL,0,nan,nan,Made Shot ,nan
+161429,21600066,4,0:50,nan,Seraphin 19' Jump Shot (4 PTS) (Robinson III 1 AST),107 - 122,202338,Kevin Seraphin,IND,203922,Glenn Robinson III,IND,0,nan,nan,Made Shot ,nan
+161430,21600066,4,0:35,Maker 27' 3PT Jump Shot (6 PTS) (Brogdon 4 AST),nan,107 - 125,1627748,Thon Maker,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+161431,21600066,4,0:22,nan,MISS Seraphin 11' Step Back Jump Shot,nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161432,21600066,4,0:21,nan,Allen REBOUND (Off:1 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161433,21600066,4,0:15,nan,MISS Niang 1' Layup,nan,1627777,Georges Niang,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+161434,21600066,4,0:14,nan,Seraphin REBOUND (Off:1 Def:0),nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+161435,21600066,4,0:11,Brogdon STEAL (3 STL),Seraphin Lost Ball Turnover (P1.T21),nan,202338,Kevin Seraphin,IND,1627763,Malcolm Brogdon,MIL,0,nan,nan,Turnover ,Lost Ball
+161436,21600066,4,0:00,nan,nan,107 - 125,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

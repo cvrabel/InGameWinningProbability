@@ -1,0 +1,95 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+179302,21600209,4,12:00,nan,nan,95 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+179303,21600209,4,11:51,nan,Galloway P.FOUL (P2.T1) (J.Orr),nan,204038,Langston Galloway,NOP,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Personal
+179304,21600209,4,11:42,MISS Bembry 3' Driving Layup,Davis BLOCK (2 BLK),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+179305,21600209,4,11:39,nan,Hield REBOUND (Off:0 Def:1),nan,1627741,Buddy Hield,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179306,21600209,4,11:21,nan,MISS Galloway 25' 3PT Jump Shot,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179307,21600209,4,11:19,Humphries REBOUND (Off:0 Def:1),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179308,21600209,4,11:02,Delaney 4' Pullup Jump Shot (8 PTS),nan,95 - 73,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+179309,21600209,4,10:45,nan,MISS Hield 25' 3PT Step Back Jump Shot,nan,1627741,Buddy Hield,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179310,21600209,4,10:43,Delaney REBOUND (Off:0 Def:1),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179311,21600209,4,10:23,MISS Prince  3PT Jump Shot,Holiday BLOCK (1 BLK),nan,1627752,Taurean Prince,ATL,0,nan,nan,201950,Jrue Holiday,NOP,Missed Shot ,nan
+179312,21600209,4,10:23,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179313,21600209,4,10:20,Hardaway Jr. 17' Jump Shot (10 PTS) (Bembry 1 AST),nan,95 - 75,203501,Tim Hardaway Jr.,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Made Shot ,nan
+179314,21600209,4,10:09,nan,Holiday 15' Pullup Jump Shot (11 PTS) (Hield 1 AST),97 - 75,201950,Jrue Holiday,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Made Shot ,nan
+179315,21600209,4,9:53,Delaney 1' Driving Layup (10 PTS),nan,97 - 77,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+179316,21600209,4,9:37,nan,MISS Davis 21' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179317,21600209,4,9:35,Prince REBOUND (Off:0 Def:1),nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179318,21600209,4,9:21,Prince 19' Jump Shot (2 PTS),nan,97 - 79,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+179319,21600209,4,9:20,nan,Pelicans Timeout: Regular (Reg.4 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+179320,21600209,4,9:20,nan,SUB: Moore FOR Galloway,nan,204038,Langston Galloway,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+179321,21600209,4,9:20,nan,SUB: Frazier FOR Hield,nan,1627741,Buddy Hield,NOP,204025,Tim Frazier,NOP,0,nan,nan,Substitution ,nan
+179322,21600209,4,8:56,nan,MISS Davis 25' 3PT Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179323,21600209,4,8:55,Delaney REBOUND (Off:0 Def:2),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179324,21600209,4,8:44,MISS Hardaway Jr. 11' Turnaround Jump Shot,Davis BLOCK (3 BLK),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+179325,21600209,4,8:42,nan,Moore REBOUND (Off:0 Def:3),nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179326,21600209,4,8:38,nan,MISS Moore 1' Running Layup,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179327,21600209,4,8:36,Bembry REBOUND (Off:0 Def:1),nan,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179328,21600209,4,8:17,MISS Delaney 26' 3PT Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179329,21600209,4,8:16,nan,Frazier REBOUND (Off:0 Def:5),nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179330,21600209,4,8:05,nan,Holiday 3' Driving Finger Roll Layup (13 PTS) (Frazier 10 AST),99 - 79,201950,Jrue Holiday,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+179331,21600209,4,7:48,MISS Humphries 24' 3PT Jump Shot,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179332,21600209,4,7:46,nan,S. Hill REBOUND (Off:0 Def:1),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179333,21600209,4,7:36,nan,Davis 19' Jump Shot (8 PTS) (Frazier 11 AST),101 - 79,203076,Anthony Davis,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+179334,21600209,4,7:17,SUB: Kelly FOR Hardaway Jr.,nan,nan,203501,Tim Hardaway Jr.,ATL,203527,Ryan Kelly,ATL,0,nan,nan,Substitution ,nan
+179335,21600209,4,7:17,SUB: Korver FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+179336,21600209,4,7:17,nan,SUB: Cunningham FOR Moore,nan,202734,E'Twaun Moore,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+179337,21600209,4,7:14,Prince 25' 3PT Jump Shot (5 PTS) (Korver 3 AST),nan,101 - 82,1627752,Taurean Prince,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+179338,21600209,4,6:52,nan,Cunningham 2' Layup (9 PTS) (Frazier 12 AST),103 - 82,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+179339,21600209,4,6:39,MISS Prince 24' 3PT Pullup Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179340,21600209,4,6:37,nan,Holiday REBOUND (Off:0 Def:3),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179341,21600209,4,6:25,nan,Davis 21' Jump Shot (10 PTS) (Frazier 13 AST),105 - 82,203076,Anthony Davis,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+179342,21600209,4,6:13,MISS Kelly 7' Driving Floating Bank Jump Shot,nan,nan,203527,Ryan Kelly,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179343,21600209,4,6:11,nan,S. Hill REBOUND (Off:0 Def:2),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179344,21600209,4,6:03,nan,MISS Davis 21' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179345,21600209,4,6:02,Kelly REBOUND (Off:0 Def:1),nan,nan,203527,Ryan Kelly,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179346,21600209,4,5:49,MISS Bembry 4' Driving Layup,Cunningham BLOCK (3 BLK),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,201967,Dante Cunningham,NOP,Missed Shot ,nan
+179347,21600209,4,5:49,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179348,21600209,4,5:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+179349,21600209,4,5:49,nan,Pelicans Violation: Delay of game Violation,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+179350,21600209,4,5:44,Prince 13' Jump Shot (7 PTS) (Bembry 2 AST),nan,105 - 84,1627752,Taurean Prince,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Made Shot ,nan
+179351,21600209,4,5:22,nan,S. Hill 7' Driving Floating Jump Shot (11 PTS),107 - 84,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+179352,21600209,4,5:11,MISS Kelly 14' Turnaround Jump Shot,nan,nan,203527,Ryan Kelly,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179353,21600209,4,5:09,nan,Holiday REBOUND (Off:0 Def:4),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179354,21600209,4,4:48,nan,MISS Davis 17' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179355,21600209,4,4:47,Korver REBOUND (Off:0 Def:2),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179356,21600209,4,4:38,MISS Bembry 25' 3PT Jump Shot,nan,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179357,21600209,4,4:37,nan,S. Hill REBOUND (Off:0 Def:3),nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179358,21600209,4,4:24,nan,Holiday Traveling Turnover (P3.T9),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+179359,21600209,4,4:24,SUB: Delaney FOR Humphries,nan,nan,2743,Kris Humphries,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Substitution ,nan
+179360,21600209,4,4:12,MISS Delaney 22' Pullup Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179361,21600209,4,4:09,nan,Cunningham REBOUND (Off:1 Def:4),nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179362,21600209,4,3:57,Kelly BLOCK (1 BLK),MISS Davis 2' Driving Layup,nan,203076,Anthony Davis,NOP,0,nan,nan,203527,Ryan Kelly,ATL,Missed Shot ,nan
+179363,21600209,4,3:55,nan,Davis REBOUND (Off:2 Def:1),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179364,21600209,4,3:52,nan,Holiday 2' Driving Layup (15 PTS),109 - 84,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+179365,21600209,4,3:42,Bembry 2' Alley Oop Layup (2 PTS) (Korver 4 AST),nan,109 - 86,1627761,DeAndre' Bembry,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+179366,21600209,4,3:31,nan,MISS Holiday 21' Step Back Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179367,21600209,4,3:29,Kelly REBOUND (Off:0 Def:2),nan,nan,203527,Ryan Kelly,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179368,21600209,4,3:23,Korver 24' 3PT Pullup Jump Shot (14 PTS) (Kelly 1 AST),nan,109 - 89,2594,Kyle Korver,ATL,203527,Ryan Kelly,ATL,0,nan,nan,Made Shot ,nan
+179369,21600209,4,3:08,nan,Davis 5' Driving Bank Shot (12 PTS) (Frazier 14 AST),111 - 89,203076,Anthony Davis,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+179370,21600209,4,3:08,Delaney S.FOUL (P1.T1) (J.Williams),nan,nan,1627098,Malcolm Delaney,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+179371,21600209,4,3:08,nan,Davis Free Throw 1 of 1 (13 PTS),112 - 89,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+179372,21600209,4,2:47,Prince Bad Pass Turnover (P1.T13),Frazier STEAL (2 STL),nan,1627752,Taurean Prince,ATL,204025,Tim Frazier,NOP,0,nan,nan,Turnover ,Bad Pass
+179373,21600209,4,2:45,Prince Violation:Kicked Ball (J.Orr),nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+179374,21600209,4,2:45,HAWKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+179375,21600209,4,2:45,SUB: Humphries FOR Korver,nan,nan,2594,Kyle Korver,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+179376,21600209,4,2:45,nan,SUB: Galloway FOR Cunningham,nan,201967,Dante Cunningham,NOP,204038,Langston Galloway,NOP,0,nan,nan,Substitution ,nan
+179377,21600209,4,2:45,nan,SUB: Jones FOR Davis,nan,203076,Anthony Davis,NOP,203093,Terrence Jones,NOP,0,nan,nan,Substitution ,nan
+179378,21600209,4,2:45,nan,SUB: Brown FOR Holiday,nan,201950,Jrue Holiday,NOP,1626148,Anthony Brown,NOP,0,nan,nan,Substitution ,nan
+179379,21600209,4,2:34,nan,MISS S. Hill 24' 3PT Jump Shot,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179380,21600209,4,2:33,nan,Brown REBOUND (Off:1 Def:0),nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179381,21600209,4,2:31,nan,Brown Backcourt Turnover (P2.T10),nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+179382,21600209,4,2:25,nan,Brown P.FOUL (P1.T2) (J.Tiven),nan,1626148,Anthony Brown,NOP,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Personal
+179383,21600209,4,2:25,nan,SUB: Hield FOR S. Hill,nan,203524,Solomon Hill,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+179384,21600209,4,2:07,Prince  3PT Pullup Jump Shot (10 PTS),nan,112 - 92,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+179385,21600209,4,1:49,nan,MISS Brown 26' 3PT Pullup Jump Shot,nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179386,21600209,4,1:47,Humphries REBOUND (Off:0 Def:2),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179387,21600209,4,1:42,Delaney Bad Pass Turnover (P4.T14),Frazier STEAL (3 STL),nan,1627098,Malcolm Delaney,ATL,204025,Tim Frazier,NOP,0,nan,nan,Turnover ,Bad Pass
+179388,21600209,4,1:17,nan,Pelicans Turnover: Shot Clock (T#11),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+179389,21600209,4,1:08,Delaney Bad Pass Turnover (P5.T15),Galloway STEAL (2 STL),nan,1627098,Malcolm Delaney,ATL,204038,Langston Galloway,NOP,0,nan,nan,Turnover ,Bad Pass
+179390,21600209,4,0:47,nan,MISS Jones 10' Floating Jump Shot,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179391,21600209,4,0:45,Humphries REBOUND (Off:0 Def:3),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179392,21600209,4,0:43,nan,Galloway P.FOUL (P3.T3) (J.Williams),nan,204038,Langston Galloway,NOP,203527,Ryan Kelly,ATL,0,nan,nan,Foul ,Personal
+179393,21600209,4,0:32,Humphries 2' Driving Layup (4 PTS) (Delaney 2 AST),nan,112 - 94,2743,Kris Humphries,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Made Shot ,nan
+179394,21600209,4,0:13,Humphries P.FOUL (P2.T2) (J.Tiven),nan,nan,2743,Kris Humphries,ATL,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal
+179395,21600209,4,0:00,nan,nan,112 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

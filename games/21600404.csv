@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+203452,21600404,4,12:00,nan,nan,80 - 96,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+203453,21600404,4,11:37,Arthur BLOCK (1 BLK),MISS Baker 25' 3PT Jump Shot,nan,1627758,Ron Baker,NYK,0,nan,nan,201589,Darrell Arthur,DEN,Missed Shot ,nan
+203454,21600404,4,11:36,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203455,21600404,4,11:36,nan,Knicks Turnover: Shot Clock (T#12),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+203456,21600404,4,11:31,nan,Baker Violation:Kicked Ball (M.Ervin),nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+203457,21600404,4,11:24,nan,Holiday P.FOUL (P2.T1) (K.Fitzgerald),nan,203200,Justin Holiday,NYK,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+203458,21600404,4,11:10,Barton 1' Driving Layup (15 PTS),nan,80 - 98,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203459,21600404,4,10:52,Arthur S.FOUL (P1.T1) (K.Fitzgerald),nan,nan,201589,Darrell Arthur,DEN,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+203460,21600404,4,10:52,nan,Porzingis Free Throw 1 of 2 (13 PTS),81 - 98,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203461,21600404,4,10:52,nan,Porzingis Free Throw 2 of 2 (14 PTS),82 - 98,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203462,21600404,4,10:30,MISS Arthur 25' 3PT Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203463,21600404,4,10:28,nan,Hernangomez REBOUND (Off:2 Def:6),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203464,21600404,4,10:12,nan,MISS Baker 25' 3PT Jump Shot,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203465,21600404,4,10:11,Barton REBOUND (Off:0 Def:8),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203466,21600404,4,9:49,MISS Murray 24' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203467,21600404,4,9:47,nan,Hernangomez REBOUND (Off:2 Def:7),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203468,21600404,4,9:37,nan,Porzingis 15' Turnaround Jump Shot (16 PTS),84 - 98,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+203469,21600404,4,9:21,nan,Hernangomez S.FOUL (P3.T2) (J.Goble),nan,1626195,Willy Hernangomez,NYK,203115,Will Barton,DEN,0,nan,nan,Foul ,Shooting
+203470,21600404,4,9:21,MISS Barton Free Throw 1 of 2,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203471,21600404,4,9:21,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+203472,21600404,4,9:21,nan,SUB: Anthony FOR Hernangomez,nan,1626195,Willy Hernangomez,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+203473,21600404,4,9:21,SUB: Mudiay FOR Nelson,nan,nan,2749,Jameer Nelson,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+203474,21600404,4,9:21,SUB: Chandler FOR Murray,nan,nan,1627750,Jamal Murray,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+203475,21600404,4,9:21,MISS Barton Free Throw 2 of 2,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203476,21600404,4,9:19,nan,Porzingis REBOUND (Off:1 Def:6),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203477,21600404,4,9:02,nan,MISS Porzingis 24' 3PT Step Back Jump Shot,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203478,21600404,4,9:01,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203479,21600404,4,8:46,nan,Holiday P.FOUL (P3.T3) (K.Fitzgerald),nan,203200,Justin Holiday,NYK,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+203480,21600404,4,8:46,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+203481,21600404,4,8:46,SUB: Harris FOR Arthur,nan,nan,201589,Darrell Arthur,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+203482,21600404,4,8:37,MISS Chandler 24' 3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203483,21600404,4,8:36,nan,Baker REBOUND (Off:0 Def:3),nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203484,21600404,4,8:19,nan,Lee 1' Running Layup (10 PTS),86 - 98,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+203485,21600404,4,8:06,Barton 2' Driving Layup (17 PTS),nan,86 - 100,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203486,21600404,4,7:54,nan,MISS Holiday 26' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203487,21600404,4,7:53,Mudiay REBOUND (Off:0 Def:6),nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203488,21600404,4,7:34,Chandler 7' Floating Jump Shot (12 PTS),nan,86 - 102,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203489,21600404,4,7:22,Jokic S.FOUL (P5.T2) (K.Fitzgerald),nan,nan,203999,Nikola Jokic,DEN,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+203490,21600404,4,7:22,nan,Porzingis Free Throw 1 of 2 (17 PTS),87 - 102,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203491,21600404,4,7:22,nan,SUB: Jennings FOR Baker,nan,1627758,Ron Baker,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Substitution ,nan
+203492,21600404,4,7:22,SUB: Faried FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+203493,21600404,4,7:22,nan,Porzingis Free Throw 2 of 2 (18 PTS),88 - 102,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203494,21600404,4,7:07,nan,Porzingis S.FOUL (P4.T4) (K.Fitzgerald),nan,204001,Kristaps Porzingis,NYK,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+203495,21600404,4,7:07,Harris Free Throw 1 of 2 (10 PTS),nan,88 - 103,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203496,21600404,4,7:07,nan,SUB: Hernangomez FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Substitution ,nan
+203497,21600404,4,7:07,Harris Free Throw 2 of 2 (11 PTS),nan,88 - 104,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203498,21600404,4,6:52,Chandler S.FOUL (P5.T3) (M.Ervin),nan,nan,201163,Wilson Chandler,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+203499,21600404,4,6:52,nan,Anthony Free Throw 1 of 2 (24 PTS),89 - 104,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203500,21600404,4,6:52,SUB: Gallinari FOR Chandler,nan,nan,201163,Wilson Chandler,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+203501,21600404,4,6:52,nan,Anthony Free Throw 2 of 2 (25 PTS),90 - 104,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203502,21600404,4,6:33,Mudiay 17' Pullup Jump Shot (20 PTS),nan,90 - 106,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203503,21600404,4,6:13,Barton BLOCK (1 BLK),MISS Holiday 4' Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,203115,Will Barton,DEN,Missed Shot ,nan
+203504,21600404,4,6:12,Mudiay REBOUND (Off:0 Def:7),nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203505,21600404,4,6:07,Gallinari 25' 3PT Jump Shot (12 PTS) (Mudiay 4 AST),nan,90 - 109,201568,Danilo Gallinari,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+203506,21600404,4,6:07,nan,Knicks Timeout: Regular (Reg.4 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+203507,21600404,4,6:07,nan,SUB: Porzingis FOR Holiday,nan,203200,Justin Holiday,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+203508,21600404,4,5:52,Barton STEAL (2 STL),Anthony Bad Pass Turnover (P4.T13),nan,2546,Carmelo Anthony,NYK,203115,Will Barton,DEN,0,nan,nan,Turnover ,Bad Pass
+203509,21600404,4,5:46,Harris 4' Jump Shot (13 PTS) (Barton 2 AST),nan,90 - 111,203914,Gary Harris,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+203510,21600404,4,5:36,nan,Jennings 26' 3PT Jump Shot (12 PTS) (Porzingis 3 AST),93 - 111,201943,Brandon Jennings,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+203511,21600404,4,5:21,nan,Hernangomez P.FOUL (P4.PN) (M.Ervin),nan,1626195,Willy Hernangomez,NYK,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+203512,21600404,4,5:21,MISS Gallinari Free Throw 1 of 2,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203513,21600404,4,5:21,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+203514,21600404,4,5:21,Gallinari Free Throw 2 of 2 (13 PTS),nan,93 - 112,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203515,21600404,4,5:07,Gallinari S.FOUL (P4.T4) (M.Ervin),nan,nan,201568,Danilo Gallinari,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+203516,21600404,4,5:07,nan,Anthony Free Throw 1 of 2 (26 PTS),94 - 112,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203517,21600404,4,5:07,nan,Anthony Free Throw 2 of 2 (27 PTS),95 - 112,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203518,21600404,4,5:03,Faried Bad Pass Turnover (P2.T9),Jennings STEAL (3 STL),nan,202702,Kenneth Faried,DEN,201943,Brandon Jennings,NYK,0,nan,nan,Turnover ,Bad Pass
+203519,21600404,4,5:02,Faried Shooting Block Foul (P3.PN) (K.Fitzgerald),nan,nan,202702,Kenneth Faried,DEN,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting Block
+203520,21600404,4,5:02,nan,Porzingis Free Throw 1 of 2 (19 PTS),96 - 112,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203521,21600404,4,5:02,nan,Porzingis Free Throw 2 of 2 (20 PTS),97 - 112,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203522,21600404,4,4:50,Faried  Dunk (21 PTS) (Mudiay 5 AST),nan,97 - 114,202702,Kenneth Faried,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+203523,21600404,4,4:38,nan,Porzingis 11' Turnaround Jump Shot (22 PTS),99 - 114,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+203524,21600404,4,4:22,nan,Lee S.FOUL (P6.PN) (M.Ervin),nan,201584,Courtney Lee,NYK,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+203525,21600404,4,4:22,nan,SUB: Holiday FOR Lee,nan,201584,Courtney Lee,NYK,203200,Justin Holiday,NYK,0,nan,nan,Substitution ,nan
+203526,21600404,4,4:22,MISS Harris Free Throw 1 of 2,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203527,21600404,4,4:22,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+203528,21600404,4,4:22,Harris Free Throw 2 of 2 (14 PTS),nan,99 - 115,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203529,21600404,4,4:14,nan,Hernangomez  Alley Oop Dunk (17 PTS) (Jennings 7 AST),101 - 115,1626195,Willy Hernangomez,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+203530,21600404,4,4:14,NUGGETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+203531,21600404,4,4:00,MISS Barton 4' Floating Jump Shot,Hernangomez BLOCK (2 BLK),nan,203115,Will Barton,DEN,0,nan,nan,1626195,Willy Hernangomez,NYK,Missed Shot ,nan
+203532,21600404,4,3:59,nan,Porzingis REBOUND (Off:1 Def:7),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203533,21600404,4,3:57,Mudiay S.FOUL (P2.PN) (K.Fitzgerald),nan,nan,1626144,Emmanuel Mudiay,DEN,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Shooting
+203534,21600404,4,3:57,nan,nan,nan,530,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+203535,21600404,4,3:57,nan,Jennings Free Throw 1 of 2 (13 PTS),102 - 115,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203536,21600404,4,3:57,nan,Jennings Free Throw 2 of 2 (14 PTS),103 - 115,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203537,21600404,4,3:36,MISS Mudiay 2' Layup,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203538,21600404,4,3:35,Faried REBOUND (Off:4 Def:1),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203539,21600404,4,3:34,Faried 1' Putback Layup (23 PTS),nan,103 - 117,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203540,21600404,4,3:22,Harris P.FOUL (P2.PN) (J.Goble),nan,nan,203914,Gary Harris,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal
+203541,21600404,4,3:22,nan,Anthony Free Throw 1 of 2 (28 PTS),104 - 117,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203542,21600404,4,3:22,nan,Anthony Free Throw 2 of 2 (29 PTS),105 - 117,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203543,21600404,4,2:59,Harris 5' Running Jump Shot (16 PTS),nan,105 - 119,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203544,21600404,4,2:52,nan,MISS Jennings 26' 3PT Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203545,21600404,4,2:50,Faried REBOUND (Off:4 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203546,21600404,4,2:36,MISS Barton 11' Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203547,21600404,4,2:35,Faried REBOUND (Off:5 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203548,21600404,4,2:34,Faried  Putback Dunk (25 PTS),nan,105 - 121,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203549,21600404,4,2:34,nan,Knicks Timeout: Regular (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+203550,21600404,4,2:34,SUB: Chandler FOR Mudiay,nan,nan,1626144,Emmanuel Mudiay,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+203551,21600404,4,2:22,nan,MISS Holiday 26' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203552,21600404,4,2:20,Gallinari REBOUND (Off:0 Def:3),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203553,21600404,4,2:00,Barton Lost Ball Turnover (P2.T10),Anthony STEAL (1 STL),nan,203115,Will Barton,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Lost Ball
+203554,21600404,4,1:54,Gallinari Shooting Block Foul (P5.PN) (M.Ervin),nan,nan,201568,Danilo Gallinari,DEN,203200,Justin Holiday,NYK,0,nan,nan,Foul ,Shooting Block
+203555,21600404,4,1:54,nan,MISS Holiday Free Throw 1 of 2,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203556,21600404,4,1:54,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+203557,21600404,4,1:54,nan,SUB: Ndour FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,1626254,Maurice Ndour,NYK,0,nan,nan,Substitution ,nan
+203558,21600404,4,1:54,nan,SUB: Baker FOR Anthony,nan,2546,Carmelo Anthony,NYK,1627758,Ron Baker,NYK,0,nan,nan,Substitution ,nan
+203559,21600404,4,1:54,nan,SUB: Kuzminskas FOR Jennings,nan,201943,Brandon Jennings,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Substitution ,nan
+203560,21600404,4,1:54,nan,SUB: Vujacic FOR Hernangomez,nan,1626195,Willy Hernangomez,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Substitution ,nan
+203561,21600404,4,1:54,SUB: Murray FOR Gallinari,nan,nan,201568,Danilo Gallinari,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Substitution ,nan
+203562,21600404,4,1:54,SUB: Mudiay FOR Chandler,nan,nan,201163,Wilson Chandler,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+203563,21600404,4,1:54,SUB: Hernangomez FOR Harris,nan,nan,203914,Gary Harris,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Substitution ,nan
+203564,21600404,4,1:54,nan,Holiday Free Throw 2 of 2 (6 PTS),106 - 121,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203565,21600404,4,1:32,MISS Mudiay 23' Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203566,21600404,4,1:31,nan,Ndour REBOUND (Off:0 Def:1),nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203567,21600404,4,1:25,nan,Baker 1' Running Layup (4 PTS),108 - 121,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+203568,21600404,4,1:04,Mudiay 12' Jump Shot (22 PTS),nan,108 - 123,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+203569,21600404,4,0:53,nan,Holiday 19' Jump Shot (8 PTS),110 - 123,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+203570,21600404,4,0:41,Murray 24' 3PT Jump Shot (6 PTS) (Faried 2 AST),nan,110 - 126,1627750,Jamal Murray,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Made Shot ,nan
+203571,21600404,4,0:32,nan,Holiday  Dunk (10 PTS) (Baker 1 AST),112 - 126,203200,Justin Holiday,NYK,1627758,Ron Baker,NYK,0,nan,nan,Made Shot ,nan
+203572,21600404,4,0:14,nan,Kuzminskas S.FOUL (P1.PN) (J.Goble),nan,1627851,Mindaugas Kuzminskas,NYK,1627823,Juan Hernangomez,DEN,0,nan,nan,Foul ,Shooting
+203573,21600404,4,0:14,Hernangomez Free Throw 1 of 2 (1 PTS),nan,112 - 127,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203574,21600404,4,0:14,MISS Hernangomez Free Throw 2 of 2,nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203575,21600404,4,0:13,nan,Baker REBOUND (Off:0 Def:4),nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203576,21600404,4,0:03,nan,MISS Baker 2' Layup,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203577,21600404,4,0:03,nan,Baker REBOUND (Off:1 Def:4),nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203578,21600404,4,0:03,nan,MISS Baker 3' Layup,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+203579,21600404,4,0:03,nan,Ndour REBOUND (Off:1 Def:1),nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+203580,21600404,4,0:03,Faried S.FOUL (P4.PN) (J.Goble),nan,nan,202702,Kenneth Faried,DEN,1626254,Maurice Ndour,NYK,0,nan,nan,Foul ,Shooting
+203581,21600404,4,0:03,nan,Ndour Free Throw 1 of 2 (1 PTS),113 - 127,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+203582,21600404,4,0:03,nan,Ndour Free Throw 2 of 2 (2 PTS),114 - 127,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+203583,21600404,4,0:00,nan,nan,114 - 127,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

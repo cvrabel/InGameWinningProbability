@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+201885,21600391,4,12:00,nan,nan,69 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+201886,21600391,4,11:43,MISS Thomas 26' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201887,21600391,4,11:42,nan,Lamb REBOUND (Off:0 Def:4),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201888,21600391,4,11:26,nan,MISS Belinelli 16' Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201889,21600391,4,11:24,Johnson REBOUND (Off:0 Def:3),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201890,21600391,4,11:12,MISS Rozier 15' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201891,21600391,4,11:11,nan,Hawes REBOUND (Off:0 Def:3),nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201892,21600391,4,10:57,nan,MISS Lamb 2' Layup,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201893,21600391,4,10:57,nan,Lamb REBOUND (Off:1 Def:4),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201894,21600391,4,10:48,nan,MISS Kaminsky 27' 3PT Jump Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201895,21600391,4,10:47,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201896,21600391,4,10:47,nan,Lamb P.FOUL (P3.T1) (T.Washington),nan,203087,Jeremy Lamb,CHA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+201897,21600391,4,10:31,Smart 10' Jump Shot (4 PTS),nan,69 - 71,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+201898,21600391,4,10:31,nan,Belinelli S.FOUL (P2.T2) (L.Holtkamp),nan,201158,Marco Belinelli,CHA,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+201899,21600391,4,10:31,Smart Free Throw 1 of 1 (5 PTS),nan,69 - 72,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+201900,21600391,4,10:11,nan,MISS Roberts 15' Jump Shot,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201901,21600391,4,10:10,Rozier REBOUND (Off:0 Def:4),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201902,21600391,4,10:02,Thomas Step Out of Bounds Turnover (P2.T12),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+201903,21600391,4,9:51,nan,MISS Lamb 26' 3PT Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201904,21600391,4,9:50,Rozier REBOUND (Off:0 Def:5),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201905,21600391,4,9:38,Johnson 5' Floating Jump Shot (2 PTS) (Olynyk 2 AST),nan,69 - 74,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+201906,21600391,4,9:38,nan,Hornets Timeout: Regular (Reg.4 Short 2),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201907,21600391,4,9:27,nan,Belinelli 23' Jump Shot (4 PTS) (Roberts 2 AST),71 - 74,201158,Marco Belinelli,CHA,203148,Brian Roberts,CHA,0,nan,nan,Made Shot ,nan
+201908,21600391,4,9:14,nan,Lamb S.FOUL (P4.T3) (K.Scott),nan,203087,Jeremy Lamb,CHA,101161,Amir Johnson,BOS,0,nan,nan,Foul ,Shooting
+201909,21600391,4,9:14,MISS Johnson Free Throw 1 of 2,nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201910,21600391,4,9:14,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201911,21600391,4,9:14,Johnson Free Throw 2 of 2 (3 PTS),nan,71 - 75,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201912,21600391,4,8:56,Olynyk S.FOUL (P1.T1) (T.Washington),nan,nan,203482,Kelly Olynyk,BOS,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Shooting
+201913,21600391,4,8:56,nan,MISS Hawes Free Throw 1 of 2,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201914,21600391,4,8:56,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201915,21600391,4,8:56,SUB: Bradley FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+201916,21600391,4,8:56,nan,Hawes Free Throw 2 of 2 (3 PTS),72 - 75,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201917,21600391,4,8:42,Bradley 7' Driving Floating Jump Shot (9 PTS) (Smart 5 AST),nan,72 - 77,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+201918,21600391,4,8:21,nan,MISS Roberts 8' Driving Floating Jump Shot,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201919,21600391,4,8:20,Johnson REBOUND (Off:0 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201920,21600391,4,8:14,MISS Thomas 27' 3PT Pullup Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201921,21600391,4,8:13,nan,Kaminsky REBOUND (Off:2 Def:2),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201922,21600391,4,8:04,Johnson P.FOUL (P1.T2) (L.Holtkamp),nan,nan,101161,Amir Johnson,BOS,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Personal
+201923,21600391,4,8:04,nan,SUB: Williams FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+201924,21600391,4,8:04,nan,SUB: Sessions FOR Roberts,nan,203148,Brian Roberts,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Substitution ,nan
+201925,21600391,4,8:04,nan,SUB: Zeller FOR Hawes,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+201926,21600391,4,7:50,nan,Belinelli 27' 3PT Jump Shot (7 PTS) (Williams 3 AST),75 - 77,201158,Marco Belinelli,CHA,101107,Marvin Williams,CHA,0,nan,nan,Made Shot ,nan
+201927,21600391,4,7:33,MISS Bradley 26' 3PT Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201928,21600391,4,7:32,nan,Lamb REBOUND (Off:1 Def:5),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201929,21600391,4,7:17,nan,MISS Belinelli 25' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201930,21600391,4,7:16,Smart REBOUND (Off:1 Def:6),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201931,21600391,4,7:13,SUB: Horford FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+201932,21600391,4,7:13,nan,SUB: Batum FOR Lamb,nan,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+201933,21600391,4,7:12,Jump Ball Johnson vs. Zeller: Tip to Batum,nan,nan,101161,Amir Johnson,BOS,203469,Cody Zeller,CHA,201587,Nicolas Batum,CHA,Jump Ball ,nan
+201934,21600391,4,7:12,Smart Out of Bounds - Bad Pass Turnover Turnover (P3.T13),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+201935,21600391,4,7:05,nan,Batum 3' Jump Shot (22 PTS),77 - 77,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+201936,21600391,4,6:43,MISS Smart 9' Driving Floating Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201937,21600391,4,6:42,nan,Batum REBOUND (Off:0 Def:7),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201938,21600391,4,6:32,nan,Belinelli 4' Driving Finger Roll Layup (9 PTS),79 - 77,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+201939,21600391,4,6:32,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201940,21600391,4,6:32,SUB: Crowder FOR Johnson,nan,nan,101161,Amir Johnson,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+201941,21600391,4,6:32,SUB: Jerebko FOR Smart,nan,nan,203935,Marcus Smart,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+201942,21600391,4,6:11,Crowder 27' 3PT Jump Shot (8 PTS) (Bradley 2 AST),nan,79 - 80,203109,Jae Crowder,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+201943,21600391,4,5:47,nan,MISS Batum 26' 3PT Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201944,21600391,4,5:45,nan,Belinelli REBOUND (Off:1 Def:0),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201945,21600391,4,5:36,Horford STEAL (2 STL),Batum Bad Pass Turnover (P4.T10),nan,201587,Nicolas Batum,CHA,201143,Al Horford,BOS,0,nan,nan,Turnover ,Bad Pass
+201946,21600391,4,5:33,nan,Belinelli FLAGRANT.FOUL.TYPE1 (P3.T4) (L.Holtkamp),nan,201158,Marco Belinelli,CHA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Flagrant Type 1
+201947,21600391,4,5:33,nan,nan,nan,505,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+201948,21600391,4,5:33,Thomas Free Throw Flagrant 1 of 2 (20 PTS),nan,79 - 81,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+201949,21600391,4,5:33,Thomas Free Throw Flagrant 2 of 2 (21 PTS),nan,79 - 82,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+201950,21600391,4,5:24,nan,Williams S.FOUL (P1.PN) (K.Scott),nan,101107,Marvin Williams,CHA,203109,Jae Crowder,BOS,0,nan,nan,Foul ,Shooting
+201951,21600391,4,5:24,Crowder Free Throw 1 of 2 (9 PTS),nan,79 - 83,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201952,21600391,4,5:24,Crowder Free Throw 2 of 2 (10 PTS),nan,79 - 84,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201953,21600391,4,5:09,nan,MISS Belinelli 24' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201954,21600391,4,5:08,Horford REBOUND (Off:1 Def:5),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201955,21600391,4,4:52,Thomas 25' 3PT Jump Shot (24 PTS) (Horford 5 AST),nan,79 - 87,202738,Isaiah Thomas,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+201956,21600391,4,4:52,nan,Hornets Timeout: Regular (Reg.5 Short 2),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201957,21600391,4,4:52,nan,SUB: Kidd-Gilchrist FOR Belinelli,nan,201158,Marco Belinelli,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+201958,21600391,4,4:37,nan,Batum Traveling Turnover (P5.T11),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+201959,21600391,4,4:24,Bradley 27' 3PT Jump Shot (12 PTS) (Thomas 4 AST),nan,79 - 90,202340,Avery Bradley,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+201960,21600391,4,4:10,nan,MISS Batum 13' Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201961,21600391,4,4:08,Horford REBOUND (Off:1 Def:6),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201962,21600391,4,3:53,MISS Thomas 4' Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201963,21600391,4,3:52,nan,Batum REBOUND (Off:0 Def:8),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201964,21600391,4,3:47,Bradley STEAL (1 STL),Sessions Bad Pass Turnover (P1.T12),nan,201196,Ramon Sessions,CHA,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Bad Pass
+201965,21600391,4,3:37,MISS Crowder 6' Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201966,21600391,4,3:36,nan,Zeller REBOUND (Off:4 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201967,21600391,4,3:17,nan,MISS Kidd-Gilchrist 5' Jump Shot,nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201968,21600391,4,3:16,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201969,21600391,4,3:09,nan,Sessions Personal Block Foul (P3.PN) (K.Scott),nan,201196,Ramon Sessions,CHA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Block
+201970,21600391,4,3:09,Thomas Free Throw 1 of 2 (25 PTS),nan,79 - 91,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201971,21600391,4,3:09,nan,SUB: Belinelli FOR Kidd-Gilchrist,nan,203077,Michael Kidd-Gilchrist,CHA,201158,Marco Belinelli,CHA,0,nan,nan,Substitution ,nan
+201972,21600391,4,3:09,Thomas Free Throw 2 of 2 (26 PTS),nan,79 - 92,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201973,21600391,4,2:58,nan,MISS Batum 25' 3PT Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201974,21600391,4,2:56,nan,Belinelli REBOUND (Off:2 Def:0),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201975,21600391,4,2:53,nan,MISS Belinelli 10' Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201976,21600391,4,2:52,nan,Zeller REBOUND (Off:5 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201977,21600391,4,2:47,nan,MISS Sessions 25' 3PT Jump Shot,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201978,21600391,4,2:46,Bradley REBOUND (Off:1 Def:6),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201979,21600391,4,2:33,MISS Crowder 25' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201980,21600391,4,2:32,nan,Sessions REBOUND (Off:1 Def:4),nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201981,21600391,4,2:21,nan,Belinelli 1' Cutting Layup Shot (11 PTS) (Sessions 5 AST),81 - 92,201158,Marco Belinelli,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Made Shot ,nan
+201982,21600391,4,2:03,MISS Thomas 3' Cutting Layup Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201983,21600391,4,2:02,nan,Batum REBOUND (Off:0 Def:9),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201984,21600391,4,1:55,nan,MISS Belinelli 25' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201985,21600391,4,1:54,Crowder REBOUND (Off:0 Def:5),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201986,21600391,4,1:36,MISS Horford 9' Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201987,21600391,4,1:35,Jerebko REBOUND (Off:1 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201988,21600391,4,1:35,Jerebko 1' Tip Layup Shot (9 PTS),nan,81 - 94,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+201989,21600391,4,1:25,nan,MISS Belinelli 25' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201990,21600391,4,1:24,nan,Zeller REBOUND (Off:6 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201991,21600391,4,1:19,nan,MISS Zeller 2' Layup,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201992,21600391,4,1:18,Horford REBOUND (Off:1 Def:7),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201993,21600391,4,1:02,MISS Bradley 17' Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201994,21600391,4,1:01,nan,Batum REBOUND (Off:0 Def:10),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201995,21600391,4,0:54,nan,Williams  3PT Jump Shot (12 PTS) (Sessions 6 AST),84 - 94,101107,Marvin Williams,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Made Shot ,nan
+201996,21600391,4,0:45,Crowder 1' Layup (12 PTS) (Thomas 5 AST),nan,84 - 96,203109,Jae Crowder,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+201997,21600391,4,0:34,nan,Sessions 2' Cutting Layup Shot (11 PTS) (Batum 4 AST),86 - 96,201196,Ramon Sessions,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+201998,21600391,4,0:21,MISS Jerebko 26' 3PT Jump Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201999,21600391,4,0:20,nan,Zeller REBOUND (Off:6 Def:4),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202000,21600391,4,0:10,nan,Sessions 3' Fadeaway Jumper (13 PTS) (Batum 5 AST),88 - 96,201196,Ramon Sessions,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+202001,21600391,4,0:00,nan,nan,88 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

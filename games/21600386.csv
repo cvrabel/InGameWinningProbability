@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+201297,21600386,4,12:00,nan,nan,85 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+201298,21600386,4,11:39,MISS Barton 25' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201299,21600386,4,11:37,nan,Crabbe REBOUND (Off:1 Def:1),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201300,21600386,4,11:25,Murray Shooting Block Foul (P2.T1) (S.Foster),nan,nan,1627750,Jamal Murray,DEN,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting Block
+201301,21600386,4,11:25,nan,McCollum Free Throw 1 of 2 (18 PTS),86 - 100,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201302,21600386,4,11:25,nan,McCollum Free Throw 2 of 2 (19 PTS),87 - 100,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201303,21600386,4,11:04,Barton Bad Pass Turnover (P2.T11),Turner STEAL (3 STL),nan,203115,Will Barton,DEN,202323,Evan Turner,POR,0,nan,nan,Turnover ,Bad Pass
+201304,21600386,4,11:00,nan,Harkless  Running Dunk (5 PTS) (Turner 2 AST),89 - 100,203090,Maurice Harkless,POR,202323,Evan Turner,POR,0,nan,nan,Made Shot ,nan
+201305,21600386,4,11:00,NUGGETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201306,21600386,4,11:00,SUB: Harris FOR Murray,nan,nan,1627750,Jamal Murray,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+201307,21600386,4,10:45,Nelson 25' 3PT Jump Shot (5 PTS) (Barton 2 AST),nan,89 - 103,2749,Jameer Nelson,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+201308,21600386,4,10:31,nan,Harkless 1' Cutting Layup Shot (7 PTS) (McCollum 2 AST),91 - 103,203090,Maurice Harkless,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+201309,21600386,4,10:15,Gallinari 15' Turnaround Fadeaway (22 PTS) (Nelson 2 AST),nan,91 - 105,201568,Danilo Gallinari,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+201310,21600386,4,10:10,Gallinari S.FOUL (P2.T2) (S.Foster),nan,nan,201568,Danilo Gallinari,DEN,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+201311,21600386,4,10:10,nan,McCollum Free Throw 1 of 2 (20 PTS),92 - 105,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201312,21600386,4,10:10,nan,McCollum Free Throw 2 of 2 (21 PTS),93 - 105,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201313,21600386,4,9:52,MISS Nelson 27' 3PT Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201314,21600386,4,9:51,nan,Crabbe REBOUND (Off:1 Def:2),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201315,21600386,4,9:43,Nelson S.FOUL (P3.T3) (J.Orr),nan,nan,2749,Jameer Nelson,DEN,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Shooting
+201316,21600386,4,9:43,nan,Harkless Free Throw 1 of 2 (8 PTS),94 - 105,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201317,21600386,4,9:43,SUB: Jokic FOR Faried,nan,nan,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+201318,21600386,4,9:43,nan,Harkless Free Throw 2 of 2 (9 PTS),95 - 105,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201319,21600386,4,9:19,Barton 25' 3PT Jump Shot (13 PTS) (Harris 6 AST),nan,95 - 108,203115,Will Barton,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+201320,21600386,4,9:03,nan,Turner 2' Layup (9 PTS) (McCollum 3 AST),97 - 108,202323,Evan Turner,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+201321,21600386,4,8:33,MISS Gallinari 21' Jump Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201322,21600386,4,8:33,nan,Davis REBOUND (Off:1 Def:3),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201323,21600386,4,8:22,Harris STEAL (2 STL),Turner Bad Pass Turnover (P3.T11),nan,202323,Evan Turner,POR,203914,Gary Harris,DEN,0,nan,nan,Turnover ,Bad Pass
+201324,21600386,4,8:20,nan,Harkless S.FOUL (P2.T1) (S.Foster),nan,203090,Maurice Harkless,POR,203115,Will Barton,DEN,0,nan,nan,Foul ,Shooting
+201325,21600386,4,8:20,Barton Free Throw 1 of 2 (14 PTS),nan,97 - 109,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201326,21600386,4,8:20,nan,SUB: Lillard FOR Crabbe,nan,203459,Allen Crabbe,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+201327,21600386,4,8:20,Barton Free Throw 2 of 2 (15 PTS),nan,97 - 110,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201328,21600386,4,8:10,nan,MISS Turner 17' Jump Shot,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201329,21600386,4,8:09,Jokic REBOUND (Off:0 Def:4),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201330,21600386,4,8:02,nan,Harkless P.FOUL (P3.T2) (R.Garretson),nan,203090,Maurice Harkless,POR,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+201331,21600386,4,8:00,Jokic OFF.Foul (P5) (J.Orr),nan,nan,203999,Nikola Jokic,DEN,202334,Ed Davis,POR,0,nan,nan,Foul ,Offensive
+201332,21600386,4,8:00,Jokic Foul Turnover (P1.T12),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+201333,21600386,4,8:00,SUB: Faried FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+201334,21600386,4,7:36,nan,MISS Turner 3' Layup,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201335,21600386,4,7:36,nan,Davis REBOUND (Off:2 Def:3),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201336,21600386,4,7:34,nan,MISS Davis 3' Jump Shot,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201337,21600386,4,7:33,nan,Davis REBOUND (Off:3 Def:3),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201338,21600386,4,7:30,Barton BLOCK (1 BLK),MISS Davis 3' Layup,nan,202334,Ed Davis,POR,0,nan,nan,203115,Will Barton,DEN,Missed Shot ,nan
+201339,21600386,4,7:29,nan,Davis REBOUND (Off:4 Def:3),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201340,21600386,4,7:29,Nelson STEAL (2 STL),Davis Poss Lost Ball Turnover (P1.T12),nan,202334,Ed Davis,POR,2749,Jameer Nelson,DEN,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+201341,21600386,4,7:15,Nelson Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+201342,21600386,4,7:15,nan,Trail Blazers Timeout: Regular (Reg.4 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201343,21600386,4,7:15,nan,SUB: Plumlee FOR Davis,nan,202334,Ed Davis,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+201344,21600386,4,7:04,Faried S.FOUL (P4.T4) (R.Garretson),nan,nan,202702,Kenneth Faried,DEN,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+201345,21600386,4,7:04,nan,Plumlee Free Throw 1 of 2 (18 PTS),98 - 110,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201346,21600386,4,7:04,nan,MISS Plumlee Free Throw 2 of 2,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201347,21600386,4,7:03,Faried REBOUND (Off:1 Def:6),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201348,21600386,4,6:50,nan,McCollum S.FOUL (P4.T3) (S.Foster),nan,203468,CJ McCollum,POR,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+201349,21600386,4,6:50,Faried Free Throw 1 of 2 (9 PTS),nan,98 - 111,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201350,21600386,4,6:50,SUB: Chandler FOR Barton,nan,nan,203115,Will Barton,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+201351,21600386,4,6:50,MISS Faried Free Throw 2 of 2,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201352,21600386,4,6:48,nan,Harkless REBOUND (Off:1 Def:2),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201353,21600386,4,6:36,nan,McCollum 2' Driving Layup (23 PTS) (Lillard 9 AST),100 - 111,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+201354,21600386,4,6:25,Nelson 18' Pullup Jump Shot (7 PTS),nan,100 - 113,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+201355,21600386,4,6:15,nan,Lillard Traveling Turnover (P4.T13),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+201356,21600386,4,5:51,Gallinari  3PT Step Back Jump Shot (25 PTS) (Chandler 3 AST),nan,100 - 116,201568,Danilo Gallinari,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+201357,21600386,4,5:39,Chandler S.FOUL (P2.PN) (R.Garretson),nan,nan,201163,Wilson Chandler,DEN,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+201358,21600386,4,5:39,nan,MISS Plumlee Free Throw 1 of 2,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201359,21600386,4,5:39,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201360,21600386,4,5:39,nan,SUB: Crabbe FOR Turner,nan,202323,Evan Turner,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+201361,21600386,4,5:39,nan,Plumlee Free Throw 2 of 2 (19 PTS),101 - 116,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201362,21600386,4,5:22,MISS Harris 24' 3PT Jump Shot,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201363,21600386,4,5:21,Faried REBOUND (Off:2 Def:6),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201364,21600386,4,5:08,Nelson 2' Driving Reverse Layup (9 PTS),nan,101 - 118,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+201365,21600386,4,4:55,nan,Lillard 25' 3PT Pullup Jump Shot (29 PTS),104 - 118,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+201366,21600386,4,4:36,MISS Chandler 9' Fadeaway Jumper,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201367,21600386,4,4:36,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201368,21600386,4,4:36,nan,Plumlee L.B.FOUL (P1.T4) (R.Garretson),nan,203486,Mason Plumlee,POR,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Loose Ball
+201369,21600386,4,4:28,nan,Harkless S.FOUL (P4.PN) (S.Foster),nan,203090,Maurice Harkless,POR,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Shooting
+201370,21600386,4,4:28,Gallinari Free Throw 1 of 2 (26 PTS),nan,104 - 119,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201371,21600386,4,4:28,Gallinari Free Throw 2 of 2 (27 PTS),nan,104 - 120,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201372,21600386,4,4:19,nan,MISS McCollum 26' 3PT Jump Shot,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201373,21600386,4,4:19,Harris REBOUND (Off:0 Def:4),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201374,21600386,4,4:04,MISS Nelson 7' Floating Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201375,21600386,4,4:03,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201376,21600386,4,4:03,nan,Plumlee L.B.FOUL (P2.PN) (R.Garretson),nan,203486,Mason Plumlee,POR,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Loose Ball
+201377,21600386,4,4:03,Faried Free Throw 1 of 2 (10 PTS),nan,104 - 121,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201378,21600386,4,4:03,Faried Free Throw 2 of 2 (11 PTS),nan,104 - 122,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201379,21600386,4,3:56,nan,Lillard Bad Pass Turnover (P5.T14),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+201380,21600386,4,3:56,nan,SUB: Leonard FOR Plumlee,nan,203486,Mason Plumlee,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+201381,21600386,4,3:34,Chandler Offensive Charge Foul (P3.PN) (S.Foster),nan,nan,201163,Wilson Chandler,DEN,203081,Damian Lillard,POR,0,nan,nan,Foul ,Offensive Charge
+201382,21600386,4,3:34,Chandler Foul Turnover (P2.T14),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+201383,21600386,4,3:27,nan,Lillard 27' 3PT Pullup Jump Shot (32 PTS),107 - 122,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+201384,21600386,4,3:27,NUGGETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201385,21600386,4,3:07,MISS Chandler 14' Fadeaway Jumper,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201386,21600386,4,3:06,nan,Crabbe REBOUND (Off:1 Def:3),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201387,21600386,4,2:56,nan,MISS McCollum 7' Floating Jump Shot,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201388,21600386,4,2:55,Faried REBOUND (Off:2 Def:7),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201389,21600386,4,2:54,Faried Backcourt Turnover (P2.T15),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+201390,21600386,4,2:49,nan,Lillard 27' 3PT Jump Shot (35 PTS) (McCollum 4 AST),110 - 122,203081,Damian Lillard,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+201391,21600386,4,2:31,Nelson 19' Pullup Jump Shot (11 PTS),nan,110 - 124,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+201392,21600386,4,2:20,nan,Leonard 25' 3PT Jump Shot (3 PTS) (Lillard 10 AST),113 - 124,203086,Meyers Leonard,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+201393,21600386,4,1:59,Nelson 19' Pullup Jump Shot (13 PTS),nan,113 - 126,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+201394,21600386,4,1:54,Harris S.FOUL (P3.PN) (S.Foster),nan,nan,203914,Gary Harris,DEN,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+201395,21600386,4,1:54,nan,MISS Lillard Free Throw 1 of 3,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+201396,21600386,4,1:54,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201397,21600386,4,1:54,nan,Lillard Free Throw 2 of 3 (36 PTS),114 - 126,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+201398,21600386,4,1:54,SUB: Barton FOR Faried,nan,nan,202702,Kenneth Faried,DEN,203115,Will Barton,DEN,0,nan,nan,Substitution ,nan
+201399,21600386,4,1:54,nan,Lillard Free Throw 3 of 3 (37 PTS),115 - 126,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+201400,21600386,4,1:39,nan,SUB: Turner FOR Leonard,nan,203086,Meyers Leonard,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+201401,21600386,4,1:31,Harris  3PT Jump Shot (18 PTS) (Nelson 3 AST),nan,115 - 129,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+201402,21600386,4,1:27,Harris S.FOUL (P4.PN) (S.Foster),nan,nan,203914,Gary Harris,DEN,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+201403,21600386,4,1:27,nan,nan,nan,580,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+201404,21600386,4,1:27,nan,Lillard Free Throw 1 of 3 (38 PTS),116 - 129,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+201405,21600386,4,1:27,nan,Lillard Free Throw 2 of 3 (39 PTS),117 - 129,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+201406,21600386,4,1:27,nan,Lillard Free Throw 3 of 3 (40 PTS),118 - 129,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+201407,21600386,4,1:23,nan,Harkless Personal Take Foul (P5.PN) (J.Orr),nan,203090,Maurice Harkless,POR,2749,Jameer Nelson,DEN,0,nan,nan,Foul ,Personal Take
+201408,21600386,4,1:23,Nelson Free Throw 1 of 2 (14 PTS),nan,118 - 130,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201409,21600386,4,1:23,Nelson Free Throw 2 of 2 (15 PTS),nan,118 - 131,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201410,21600386,4,1:16,nan,MISS McCollum 2' Layup,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201411,21600386,4,1:15,nan,Turner REBOUND (Off:2 Def:3),nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201412,21600386,4,1:14,nan,MISS Turner 2' Layup,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201413,21600386,4,1:13,Chandler REBOUND (Off:1 Def:7),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201414,21600386,4,1:12,nan,Lillard Personal Take Foul (P2.PN) (J.Orr),nan,203081,Damian Lillard,POR,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal Take
+201415,21600386,4,1:12,MISS Chandler Free Throw 1 of 2,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201416,21600386,4,1:12,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201417,21600386,4,1:12,nan,SUB: Connaughton FOR Harkless,nan,203090,Maurice Harkless,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+201418,21600386,4,1:12,nan,SUB: Quarterman FOR McCollum,nan,203468,CJ McCollum,POR,1627817,Tim Quarterman,POR,0,nan,nan,Substitution ,nan
+201419,21600386,4,1:12,nan,SUB: Napier FOR Lillard,nan,203081,Damian Lillard,POR,203894,Shabazz Napier,POR,0,nan,nan,Substitution ,nan
+201420,21600386,4,1:12,nan,SUB: Layman FOR Turner,nan,202323,Evan Turner,POR,1627774,Jake Layman,POR,0,nan,nan,Substitution ,nan
+201421,21600386,4,1:12,nan,SUB: Vonleh FOR Crabbe,nan,203459,Allen Crabbe,POR,203943,Noah Vonleh,POR,0,nan,nan,Substitution ,nan
+201422,21600386,4,1:12,Chandler Free Throw 2 of 2 (17 PTS),nan,118 - 132,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201423,21600386,4,0:55,nan,Vonleh 3' Hook Shot (6 PTS) (Napier 1 AST),120 - 132,203943,Noah Vonleh,POR,203894,Shabazz Napier,POR,0,nan,nan,Made Shot ,nan
+201424,21600386,4,0:35,MISS Nelson 23' Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201425,21600386,4,0:34,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201426,21600386,4,0:34,SUB: Murray FOR Harris,nan,nan,203914,Gary Harris,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Substitution ,nan
+201427,21600386,4,0:16,nan,MISS Vonleh 21' Jump Shot,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201428,21600386,4,0:16,Gallinari REBOUND (Off:0 Def:4),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201429,21600386,4,0:00,nan,nan,120 - 132,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

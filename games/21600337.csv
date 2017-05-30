@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+195252,21600337,4,12:00,nan,nan,70 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+195253,21600337,4,11:51,Lamb S.FOUL (P2.T1) (M.Lindsay),nan,nan,203087,Jeremy Lamb,CHA,201975,Jodie Meeks,ORL,0,nan,nan,Foul ,Shooting
+195254,21600337,4,11:51,nan,Meeks Free Throw 1 of 2 (1 PTS),71 - 91,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195255,21600337,4,11:51,nan,Meeks Free Throw 2 of 2 (2 PTS),72 - 91,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195256,21600337,4,11:37,MISS Kaminsky 11' Jump Shot,Ibaka BLOCK (1 BLK),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,201586,Serge Ibaka,ORL,Missed Shot ,nan
+195257,21600337,4,11:35,nan,Meeks REBOUND (Off:0 Def:2),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195258,21600337,4,11:32,nan,Payton Step Out of Bounds Turnover (P3.T7),nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+195259,21600337,4,11:17,MISS Hibbert 6' Hook Shot,nan,nan,201579,Roy Hibbert,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195260,21600337,4,11:16,nan,Meeks REBOUND (Off:0 Def:3),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195261,21600337,4,11:00,Lamb STEAL (1 STL),Green Lost Ball Turnover (P1.T8),nan,201145,Jeff Green,ORL,203087,Jeremy Lamb,CHA,0,nan,nan,Turnover ,Lost Ball
+195262,21600337,4,10:56,Lamb  Running Dunk (6 PTS),nan,72 - 93,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+195263,21600337,4,10:56,nan,Magic Timeout: Regular (Reg.5 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195264,21600337,4,10:56,nan,SUB: Augustin FOR Green,nan,201145,Jeff Green,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Substitution ,nan
+195265,21600337,4,10:39,nan,MISS Meeks 19' Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195266,21600337,4,10:38,Sessions REBOUND (Off:0 Def:3),nan,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195267,21600337,4,10:15,Belinelli 2' Driving Layup (7 PTS),nan,72 - 95,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+195268,21600337,4,10:01,nan,MISS Gordon 18' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195269,21600337,4,10:00,Belinelli REBOUND (Off:0 Def:2),nan,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195270,21600337,4,9:50,nan,Payton P.FOUL (P1.T1) (D.Crawford),nan,203901,Elfrid Payton,ORL,201579,Roy Hibbert,CHA,0,nan,nan,Foul ,Personal
+195271,21600337,4,9:37,MISS Lamb  3PT Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195272,21600337,4,9:36,nan,Gordon REBOUND (Off:2 Def:1),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195273,21600337,4,9:29,nan,MISS Payton 25' 3PT Jump Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195274,21600337,4,9:27,nan,Meeks REBOUND (Off:1 Def:3),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195275,21600337,4,9:26,Hibbert P.FOUL (P2.T2) (D.Crawford),nan,nan,201579,Roy Hibbert,CHA,201975,Jodie Meeks,ORL,0,nan,nan,Foul ,Personal
+195276,21600337,4,9:11,Hibbert BLOCK (3 BLK),MISS Ibaka 3' Hook Shot,nan,201586,Serge Ibaka,ORL,0,nan,nan,201579,Roy Hibbert,CHA,Missed Shot ,nan
+195277,21600337,4,9:10,Lamb REBOUND (Off:1 Def:4),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195278,21600337,4,9:03,MISS Lamb 1' Layup,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195279,21600337,4,9:01,nan,Ibaka REBOUND (Off:2 Def:4),nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195280,21600337,4,8:56,nan,MISS Augustin 25' 3PT Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195281,21600337,4,8:54,Belinelli REBOUND (Off:0 Def:3),nan,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195282,21600337,4,8:42,MISS Kaminsky 8' Turnaround Hook Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195283,21600337,4,8:40,Hibbert REBOUND (Off:1 Def:4),nan,nan,201579,Roy Hibbert,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195284,21600337,4,8:28,nan,Ibaka S.FOUL (P1.T2) (D.Crawford),nan,201586,Serge Ibaka,ORL,1626163,Frank Kaminsky,CHA,0,nan,nan,Foul ,Shooting
+195285,21600337,4,8:28,Kaminsky Free Throw 1 of 2 (7 PTS),nan,72 - 96,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195286,21600337,4,8:28,nan,SUB: Hezonja FOR Gordon,nan,203932,Aaron Gordon,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+195287,21600337,4,8:28,nan,SUB: Watson FOR Ibaka,nan,201586,Serge Ibaka,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+195288,21600337,4,8:28,nan,SUB: Wilcox FOR Augustin,nan,201571,D.J. Augustin,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Substitution ,nan
+195289,21600337,4,8:28,nan,SUB: Rudez FOR Payton,nan,203901,Elfrid Payton,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Substitution ,nan
+195290,21600337,4,8:28,Kaminsky Free Throw 2 of 2 (8 PTS),nan,72 - 97,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195291,21600337,4,8:19,nan,MISS Meeks 25' 3PT Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195292,21600337,4,8:18,Kaminsky REBOUND (Off:0 Def:4),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195293,21600337,4,8:07,MISS Hibbert 8' Jump Shot,nan,nan,201579,Roy Hibbert,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195294,21600337,4,8:06,nan,Rudez REBOUND (Off:0 Def:1),nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195295,21600337,4,7:59,nan,MISS Rudez 26' 3PT Jump Shot,nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195296,21600337,4,7:58,Kaminsky REBOUND (Off:0 Def:5),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195297,21600337,4,7:48,MISS Sessions 4' Jump Shot,nan,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195298,21600337,4,7:47,nan,Wilcox REBOUND (Off:0 Def:1),nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195299,21600337,4,7:37,nan,MISS Hezonja 25' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195300,21600337,4,7:36,Lamb REBOUND (Off:1 Def:5),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195301,21600337,4,7:34,HORNETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195302,21600337,4,7:34,SUB: Hawes FOR Hibbert,nan,nan,201579,Roy Hibbert,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+195303,21600337,4,7:22,Lamb 4' Jump Bank Shot (8 PTS),nan,72 - 99,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+195304,21600337,4,7:12,nan,MISS Meeks 24' 3PT Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195305,21600337,4,7:11,Hawes REBOUND (Off:0 Def:1),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195306,21600337,4,7:03,SUB: Roberts FOR Belinelli,nan,nan,201158,Marco Belinelli,CHA,203148,Brian Roberts,CHA,0,nan,nan,Substitution ,nan
+195307,21600337,4,6:54,MISS Hawes 25' 3PT Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195308,21600337,4,6:53,nan,Hezonja REBOUND (Off:0 Def:1),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195309,21600337,4,6:38,nan,MISS Hezonja 19' Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195310,21600337,4,6:37,Lamb REBOUND (Off:1 Def:6),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195311,21600337,4,6:20,Lamb 1' Driving Reverse Layup (10 PTS) (Kaminsky 3 AST),nan,72 - 101,203087,Jeremy Lamb,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Made Shot ,nan
+195312,21600337,4,6:03,nan,Rudez 21' Jump Shot (2 PTS),74 - 101,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+195313,21600337,4,5:50,MISS Sessions 3' Jump Shot,nan,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195314,21600337,4,5:49,nan,Hezonja REBOUND (Off:0 Def:2),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195315,21600337,4,5:43,nan,MISS Meeks 17' Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195316,21600337,4,5:40,Kaminsky REBOUND (Off:0 Def:6),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195317,21600337,4,5:23,Lamb 2' Cutting Layup Shot (12 PTS) (Hawes 1 AST),nan,74 - 103,203087,Jeremy Lamb,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+195318,21600337,4,5:11,SUB: Graham FOR Sessions,nan,nan,201196,Ramon Sessions,CHA,1626203,Treveon Graham,CHA,0,nan,nan,Substitution ,nan
+195319,21600337,4,5:10,Lamb S.FOUL (P3.T3) (D.Crawford),nan,nan,203087,Jeremy Lamb,CHA,201975,Jodie Meeks,ORL,0,nan,nan,Foul ,Shooting
+195320,21600337,4,5:10,nan,Meeks Free Throw 1 of 2 (3 PTS),75 - 103,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195321,21600337,4,5:10,nan,Meeks Free Throw 2 of 2 (4 PTS),76 - 103,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195322,21600337,4,4:52,Hawes 1' Layup (2 PTS) (Kaminsky 4 AST),nan,76 - 105,201150,Spencer Hawes,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Made Shot ,nan
+195323,21600337,4,4:36,nan,Wilcox 19' Jump Shot (2 PTS) (Watson 1 AST),78 - 105,203912,CJ Wilcox,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+195324,21600337,4,4:15,MISS Graham 25' 3PT Jump Shot,nan,nan,1626203,Treveon Graham,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195325,21600337,4,4:14,nan,Meeks REBOUND (Off:1 Def:4),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195326,21600337,4,4:08,nan,MISS Wilcox 28' 3PT Pullup Jump Shot,nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195327,21600337,4,4:07,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195328,21600337,4,3:57,nan,Rudez 18' Jump Shot (4 PTS) (Wilcox 1 AST),80 - 105,204014,Damjan Rudez,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Made Shot ,nan
+195329,21600337,4,3:47,nan,Rudez P.FOUL (P1.T3) (K.Cutler),nan,204014,Damjan Rudez,ORL,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Personal
+195330,21600337,4,3:35,MISS Kaminsky 7' Turnaround Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195331,21600337,4,3:34,nan,Rudez REBOUND (Off:0 Def:2),nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195332,21600337,4,3:21,nan,MISS Meeks 20' Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195333,21600337,4,3:21,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195334,21600337,4,3:04,Graham 1' Driving Layup (2 PTS) (Lamb 2 AST),nan,80 - 107,1626203,Treveon Graham,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+195335,21600337,4,2:51,nan,Rudez 24' 3PT Jump Shot (7 PTS) (Meeks 2 AST),83 - 107,204014,Damjan Rudez,ORL,201975,Jodie Meeks,ORL,0,nan,nan,Made Shot ,nan
+195336,21600337,4,2:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+195337,21600337,4,2:29,Hawes OFF.Foul (P1) (D.Crawford),nan,nan,201150,Spencer Hawes,CHA,1626209,Mario Hezonja,ORL,0,nan,nan,Foul ,Offensive
+195338,21600337,4,2:29,Hawes Foul Turnover (P1.T10),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+195339,21600337,4,2:19,nan,Rudez 16' Jump Shot (9 PTS) (Hezonja 1 AST),85 - 107,204014,Damjan Rudez,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+195340,21600337,4,2:07,MISS Roberts 1' Layup,nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195341,21600337,4,2:06,nan,Wilcox REBOUND (Off:0 Def:2),nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195342,21600337,4,1:58,nan,MISS Wilcox 25' 3PT Jump Shot,nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195343,21600337,4,1:57,Lamb REBOUND (Off:1 Def:7),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195344,21600337,4,1:47,MISS Hawes 25' 3PT Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195345,21600337,4,1:46,Kaminsky REBOUND (Off:1 Def:6),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195346,21600337,4,1:41,Roberts Step Out of Bounds Turnover (P1.T11),nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+195347,21600337,4,1:32,nan,Hezonja 24' 3PT Jump Shot (3 PTS) (Wilcox 2 AST),88 - 107,1626209,Mario Hezonja,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Made Shot ,nan
+195348,21600337,4,1:10,MISS Hawes 2' Layup,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195349,21600337,4,1:09,Kaminsky REBOUND (Off:2 Def:6),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195350,21600337,4,1:06,Roberts Offensive Charge Foul (P1.T4) (D.Crawford),nan,nan,203148,Brian Roberts,CHA,203912,CJ Wilcox,ORL,0,nan,nan,Foul ,Offensive Charge
+195351,21600337,4,1:06,Roberts Foul Turnover (P2.T12),nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+195352,21600337,4,0:57,nan,MISS Rudez 25' 3PT Jump Shot,nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195353,21600337,4,0:53,Kaminsky REBOUND (Off:2 Def:7),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195354,21600337,4,0:40,nan,Hezonja S.FOUL (P1.T4) (D.Crawford),nan,1626209,Mario Hezonja,ORL,1626203,Treveon Graham,CHA,0,nan,nan,Foul ,Shooting
+195355,21600337,4,0:40,Graham Free Throw 1 of 2 (3 PTS),nan,88 - 108,1626203,Treveon Graham,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195356,21600337,4,0:40,Graham Free Throw 2 of 2 (4 PTS),nan,88 - 109,1626203,Treveon Graham,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195357,21600337,4,0:33,Roberts P.FOUL (P2.PN) (K.Cutler),nan,nan,203148,Brian Roberts,CHA,1626209,Mario Hezonja,ORL,0,nan,nan,Foul ,Personal
+195358,21600337,4,0:26,nan,MISS Meeks  3PT Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195359,21600337,4,0:25,Graham REBOUND (Off:0 Def:1),nan,nan,1626203,Treveon Graham,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195360,21600337,4,0:01,HORNETS Turnover: Shot Clock (T#13),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+195361,21600337,4,0:00,nan,nan,88 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

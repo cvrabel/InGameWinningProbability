@@ -1,0 +1,132 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+29028,21500231,4,12:00,nan,nan,63 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+29029,21500231,4,12:00,PACERS Violation: Delay of game Violation,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+29030,21500231,4,11:36,George 19' Jump Shot (20 PTS) (Mahinmi 4 AST),nan,63 - 74,202331,Paul George,IND,101133,Ian Mahinmi,IND,0,nan,nan,Made Shot ,nan
+29031,21500231,4,11:16,Stuckey P.FOUL (P2.T1) (N.Buchert),nan,nan,201155,Rodney Stuckey,IND,2550,Kirk Hinrich,CHI,0,nan,nan,Foul ,Personal
+29032,21500231,4,11:09,Stuckey STEAL (2 STL),Rose Bad Pass Turnover (P3.T14),nan,201565,Derrick Rose,CHI,201155,Rodney Stuckey,IND,0,nan,nan,Turnover ,Bad Pass
+29033,21500231,4,11:05,Stuckey 3' Running Layup (4 PTS),nan,63 - 76,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+29034,21500231,4,11:05,nan,Bulls Timeout: Regular (Reg.4 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29035,21500231,4,11:05,nan,SUB: Butler FOR Moore,nan,202734,E'Twaun Moore,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+29036,21500231,4,10:55,nan,Butler 25' 3PT Jump Shot (11 PTS),66 - 76,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29037,21500231,4,10:35,George Out of Bounds - Bad Pass Turnover Turnover (P5.T10),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+29038,21500231,4,10:17,nan,Rose 25' 3PT Jump Shot (5 PTS) (Butler 4 AST),69 - 76,201565,Derrick Rose,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+29039,21500231,4,10:00,Stuckey 24' 3PT Jump Shot (7 PTS) (S. Hill 2 AST),nan,69 - 79,201155,Rodney Stuckey,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+29040,21500231,4,9:47,nan,MISS Noah 1' Cutting Layup Shot,nan,201149,Joakim Noah,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29041,21500231,4,9:47,G. Hill REBOUND (Off:1 Def:8),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29042,21500231,4,9:40,MISS S. Hill 24' 3PT Jump Shot,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29043,21500231,4,9:39,nan,Butler REBOUND (Off:0 Def:5),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29044,21500231,4,9:15,nan,Hinrich  3PT Jump Shot (11 PTS) (Rose 4 AST),72 - 79,2550,Kirk Hinrich,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+29045,21500231,4,9:04,George 24' 3PT Pullup Jump Shot (23 PTS),nan,72 - 82,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+29046,21500231,4,8:53,nan,MISS Hinrich 24' 3PT Jump Shot,nan,2550,Kirk Hinrich,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29047,21500231,4,8:52,Mahinmi REBOUND (Off:3 Def:6),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29048,21500231,4,8:52,nan,Noah L.B.FOUL (P2.T1) (N.Buchert),nan,201149,Joakim Noah,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Loose Ball
+29049,21500231,4,8:52,nan,SUB: Gasol FOR Noah,nan,201149,Joakim Noah,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+29050,21500231,4,8:46,Stuckey OFF.Foul (P3) (M.McCutchen),nan,nan,201155,Rodney Stuckey,IND,2550,Kirk Hinrich,CHI,0,nan,nan,Foul ,Offensive
+29051,21500231,4,8:46,Stuckey Foul Turnover (P2.T11),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+29052,21500231,4,8:35,nan,Butler 18' Jump Shot (13 PTS) (Rose 5 AST),74 - 82,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+29053,21500231,4,8:27,nan,Gasol P.FOUL (P2.T2) (N.Buchert),nan,2200,Pau Gasol,CHI,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Personal
+29054,21500231,4,8:21,MISS George 24' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29055,21500231,4,8:20,G. Hill REBOUND (Off:2 Def:8),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29056,21500231,4,8:18,nan,Gasol S.FOUL (P3.T3) (M.Ervin),nan,2200,Pau Gasol,CHI,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+29057,21500231,4,8:18,George Free Throw 1 of 2 (24 PTS),nan,74 - 83,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29058,21500231,4,8:18,George Free Throw 2 of 2 (25 PTS),nan,74 - 84,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29059,21500231,4,8:07,nan,MISS Rose 5' Driving Layup,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29060,21500231,4,8:07,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29061,21500231,4,8:07,nan,Gibson L.B.FOUL (P2.T4) (M.Ervin),nan,201959,Taj Gibson,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Loose Ball
+29062,21500231,4,7:47,MISS George 3' Jump Shot,Butler BLOCK (2 BLK),nan,202331,Paul George,IND,0,nan,nan,202710,Jimmy Butler,CHI,Missed Shot ,nan
+29063,21500231,4,7:47,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29064,21500231,4,7:45,MISS Mahinmi 11' Jump Shot,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29065,21500231,4,7:44,nan,Gibson REBOUND (Off:0 Def:3),nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29066,21500231,4,7:32,nan,MISS Hinrich 4' Driving Layup,nan,2550,Kirk Hinrich,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29067,21500231,4,7:31,Stuckey REBOUND (Off:0 Def:2),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29068,21500231,4,7:23,G. Hill Step Out of Bounds Turnover (P1.T12),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+29069,21500231,4,7:06,nan,MISS Gasol 12' Jump Shot,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29070,21500231,4,7:05,George REBOUND (Off:0 Def:7),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29071,21500231,4,6:52,nan,Hinrich Shooting Block Foul (P3.PN) (M.McCutchen),nan,2550,Kirk Hinrich,CHI,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting Block
+29072,21500231,4,6:52,MISS Stuckey Free Throw 1 of 2,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29073,21500231,4,6:52,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29074,21500231,4,6:52,nan,SUB: Moore FOR Hinrich,nan,2550,Kirk Hinrich,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Substitution ,nan
+29075,21500231,4,6:52,nan,SUB: Mirotic FOR Gibson,nan,201959,Taj Gibson,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+29076,21500231,4,6:52,SUB: Allen FOR Mahinmi,nan,nan,101133,Ian Mahinmi,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+29077,21500231,4,6:52,Stuckey Free Throw 2 of 2 (8 PTS),nan,74 - 85,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29078,21500231,4,6:46,Stuckey P.FOUL (P4.T2) (M.McCutchen),nan,nan,201155,Rodney Stuckey,IND,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+29079,21500231,4,6:31,George S.FOUL (P3.T3) (N.Buchert),nan,nan,202331,Paul George,IND,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+29080,21500231,4,6:31,nan,Mirotic Free Throw 1 of 2 (24 PTS),75 - 85,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29081,21500231,4,6:31,nan,Mirotic Free Throw 2 of 2 (25 PTS),76 - 85,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29082,21500231,4,6:20,nan,Butler S.FOUL (P1.PN) (M.Ervin),nan,202710,Jimmy Butler,CHI,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+29083,21500231,4,6:20,George Free Throw 1 of 2 (26 PTS),nan,76 - 86,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29084,21500231,4,6:20,George Free Throw 2 of 2 (27 PTS),nan,76 - 87,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29085,21500231,4,6:01,nan,MISS Mirotic 25' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29086,21500231,4,6:01,Allen REBOUND (Off:1 Def:8),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29087,21500231,4,5:45,Allen 1' Cutting Layup Shot (12 PTS) (S. Hill 3 AST),nan,76 - 89,202730,Lavoy Allen,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+29088,21500231,4,5:32,nan,Gasol 15' Jump Shot (9 PTS) (Butler 5 AST),78 - 89,2200,Pau Gasol,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+29089,21500231,4,5:19,George  3PT Jump Shot (30 PTS) (G. Hill 2 AST),nan,78 - 92,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+29090,21500231,4,5:08,nan,MISS Rose 10' Floating Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29091,21500231,4,5:08,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29092,21500231,4,5:08,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+29093,21500231,4,5:08,SUB: Mahinmi FOR Allen,nan,nan,202730,Lavoy Allen,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+29094,21500231,4,4:55,nan,MISS Butler 25' 3PT Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29095,21500231,4,4:54,Stuckey REBOUND (Off:0 Def:3),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29096,21500231,4,4:49,nan,Gasol Personal Take Foul (P4.PN) (M.Ervin),nan,2200,Pau Gasol,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal Take
+29097,21500231,4,4:49,MISS Mahinmi Free Throw 1 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29098,21500231,4,4:49,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29099,21500231,4,4:49,MISS Mahinmi Free Throw 2 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29100,21500231,4,4:49,nan,Gasol REBOUND (Off:3 Def:8),nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29101,21500231,4,4:24,nan,MISS Gasol 24' 3PT Jump Shot,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29102,21500231,4,4:24,George REBOUND (Off:0 Def:8),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29103,21500231,4,4:20,nan,Moore Personal Take Foul (P3.PN) (N.Buchert),nan,202734,E'Twaun Moore,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal Take
+29104,21500231,4,4:20,Mahinmi Free Throw 1 of 2 (9 PTS),nan,78 - 93,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29105,21500231,4,4:20,Mahinmi Free Throw 2 of 2 (10 PTS),nan,78 - 94,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29106,21500231,4,4:02,nan,MISS Gasol 2' Layup,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29107,21500231,4,4:01,S. Hill REBOUND (Off:0 Def:2),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29108,21500231,4,3:50,Stuckey Bad Pass Turnover (P3.T13),Moore STEAL (3 STL),nan,201155,Rodney Stuckey,IND,202734,E'Twaun Moore,CHI,0,nan,nan,Turnover ,Bad Pass
+29109,21500231,4,3:42,nan,Rose 2' Driving Finger Roll Layup (7 PTS),80 - 94,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29110,21500231,4,3:35,nan,Butler Personal Take Foul (P2.PN) (M.McCutchen),nan,202710,Jimmy Butler,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal Take
+29111,21500231,4,3:35,Mahinmi Free Throw 1 of 2 (11 PTS),nan,80 - 95,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29112,21500231,4,3:35,SUB: Ellis FOR S. Hill,nan,nan,203524,Solomon Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+29113,21500231,4,3:35,SUB: Miles FOR G. Hill,nan,nan,201588,George Hill,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+29114,21500231,4,3:35,Mahinmi Free Throw 2 of 2 (12 PTS),nan,80 - 96,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29115,21500231,4,3:17,nan,Rose 25' 3PT Jump Shot (10 PTS) (Moore 1 AST),83 - 96,201565,Derrick Rose,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Made Shot ,nan
+29116,21500231,4,2:56,MISS Miles 27' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29117,21500231,4,2:55,nan,Rose REBOUND (Off:1 Def:5),nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29118,21500231,4,2:37,nan,Butler  3PT Jump Shot (16 PTS) (Mirotic 2 AST),86 - 96,202710,Jimmy Butler,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+29119,21500231,4,2:35,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29120,21500231,4,2:35,SUB: G. Hill FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+29121,21500231,4,2:35,nan,Mirotic Personal Take Foul (P3.PN) (N.Buchert),nan,202703,Nikola Mirotic,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal Take
+29122,21500231,4,2:35,MISS Mahinmi Free Throw 1 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29123,21500231,4,2:35,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29124,21500231,4,2:35,Mahinmi Free Throw 2 of 2 (13 PTS),nan,86 - 97,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29125,21500231,4,2:23,nan,MISS Rose 24' 3PT Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29126,21500231,4,2:23,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29127,21500231,4,2:22,nan,Mirotic Personal Take Foul (P4.PN) (M.Ervin),nan,202703,Nikola Mirotic,CHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal Take
+29128,21500231,4,2:22,Mahinmi Free Throw 1 of 2 (14 PTS),nan,86 - 98,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29129,21500231,4,2:22,Mahinmi Free Throw 2 of 2 (15 PTS),nan,86 - 99,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29130,21500231,4,2:11,Ellis STEAL (3 STL),Butler Bad Pass Turnover (P4.T15),nan,202710,Jimmy Butler,CHI,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Bad Pass
+29131,21500231,4,2:08,Ellis  Running Dunk (14 PTS),nan,86 - 101,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+29132,21500231,4,2:08,nan,Bulls Timeout: Regular (Reg.5 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29133,21500231,4,2:08,nan,SUB: Gibson FOR Mirotic,nan,202703,Nikola Mirotic,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+29134,21500231,4,2:08,nan,SUB: Snell FOR Gasol,nan,2200,Pau Gasol,CHI,203503,Tony Snell,CHI,0,nan,nan,Substitution ,nan
+29135,21500231,4,2:08,nan,SUB: Felicio FOR Butler,nan,202710,Jimmy Butler,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Substitution ,nan
+29136,21500231,4,2:08,nan,SUB: Portis FOR Rose,nan,201565,Derrick Rose,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+29137,21500231,4,1:57,nan,Moore 8' Floating Jump Shot (7 PTS),88 - 101,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29138,21500231,4,1:41,George 25' 3PT Jump Shot (33 PTS) (G. Hill 3 AST),nan,88 - 104,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+29139,21500231,4,1:36,George P.FOUL (P4.T4) (M.McCutchen),nan,nan,202331,Paul George,IND,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Personal
+29140,21500231,4,1:36,SUB: Robinson III FOR George,nan,nan,202331,Paul George,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+29141,21500231,4,1:36,SUB: Young FOR Mahinmi,nan,nan,101133,Ian Mahinmi,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+29142,21500231,4,1:36,SUB: Allen FOR Ellis,nan,nan,101145,Monta Ellis,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+29143,21500231,4,1:36,SUB: S. Hill FOR G. Hill,nan,nan,201588,George Hill,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+29144,21500231,4,1:26,nan,Felicio 17' Jump Shot (2 PTS) (Moore 2 AST),90 - 104,1626245,Cristiano Felicio,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Made Shot ,nan
+29145,21500231,4,1:02,MISS Young 25' 3PT Jump Shot,nan,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29146,21500231,4,1:00,nan,Gibson REBOUND (Off:0 Def:4),nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29147,21500231,4,0:48,Allen BLOCK (2 BLK),MISS Portis 3' Layup,nan,1626171,Bobby Portis,CHI,0,nan,nan,202730,Lavoy Allen,IND,Missed Shot ,nan
+29148,21500231,4,0:47,S. Hill REBOUND (Off:0 Def:3),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29149,21500231,4,0:41,MISS Young 19' Jump Shot,nan,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29150,21500231,4,0:41,nan,Portis REBOUND (Off:0 Def:1),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29151,21500231,4,0:33,nan,MISS Moore 17' Jump Shot,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29152,21500231,4,0:33,nan,Gibson REBOUND (Off:1 Def:4),nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29153,21500231,4,0:29,nan,MISS Portis 26' 3PT Jump Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29154,21500231,4,0:28,Allen REBOUND (Off:1 Def:9),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29155,21500231,4,0:05,MISS Young 5' Jump Shot,nan,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29156,21500231,4,0:04,nan,Gibson REBOUND (Off:1 Def:5),nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29157,21500231,4,0:00,nan,Portis 9' Driving Bank Shot (2 PTS) (Gibson 1 AST),92 - 104,1626171,Bobby Portis,CHI,201959,Taj Gibson,CHI,0,nan,nan,Made Shot ,nan
+29158,21500231,4,0:00,nan,nan,92 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

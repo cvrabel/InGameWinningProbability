@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+210981,21600465,4,12:00,nan,nan,61 - 63,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+210982,21600465,4,11:51,nan,Miles S.FOUL (P3.T1) (C.Washington),nan,101139,CJ Miles,IND,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+210983,21600465,4,11:51,MISS Felicio Free Throw 1 of 2,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+210984,21600465,4,11:51,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+210985,21600465,4,11:51,Felicio Free Throw 2 of 2 (1 PTS),nan,61 - 64,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+210986,21600465,4,11:33,nan,Brooks 26' 3PT Jump Shot (13 PTS) (Jefferson 3 AST),64 - 64,201166,Aaron Brooks,IND,2744,Al Jefferson,IND,0,nan,nan,Made Shot ,nan
+210987,21600465,4,11:17,nan,Seraphin P.FOUL (P3.T2) (B.Spooner),nan,202338,Kevin Seraphin,IND,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Personal
+210988,21600465,4,11:12,Wade 7' Jump Bank Shot (12 PTS),nan,64 - 66,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+210989,21600465,4,11:12,nan,Jefferson S.FOUL (P3.T3) (P.Fraher),nan,2744,Al Jefferson,IND,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+210990,21600465,4,11:12,Wade Free Throw 1 of 1 (13 PTS),nan,64 - 67,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+210991,21600465,4,10:53,Wade BLOCK (2 BLK),MISS Robinson III 3' Layup,nan,203922,Glenn Robinson III,IND,0,nan,nan,2548,Dwyane Wade,CHI,Missed Shot ,nan
+210992,21600465,4,10:50,nan,Jefferson REBOUND (Off:2 Def:2),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210993,21600465,4,10:50,nan,MISS Jefferson 3' Layup,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210994,21600465,4,10:49,Mirotic REBOUND (Off:2 Def:2),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210995,21600465,4,10:40,MISS Felicio 2' Layup,Seraphin BLOCK (1 BLK),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,202338,Kevin Seraphin,IND,Missed Shot ,nan
+210996,21600465,4,10:40,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210997,21600465,4,10:29,MISS Wade 14' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210998,21600465,4,10:27,Mirotic REBOUND (Off:3 Def:2),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210999,21600465,4,10:24,Mirotic 2' Reverse Layup (16 PTS),nan,64 - 69,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+211000,21600465,4,10:05,nan,Seraphin 3 Second Violation Turnover (P1.T12),nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+211001,21600465,4,9:50,MISS Mirotic 26' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211002,21600465,4,9:48,Grant REBOUND (Off:1 Def:2),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211003,21600465,4,9:31,MISS Carter-Williams 17' Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211004,21600465,4,9:29,Mirotic REBOUND (Off:4 Def:2),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211005,21600465,4,9:23,MISS Wade  3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211006,21600465,4,9:22,Felicio REBOUND (Off:1 Def:0),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211007,21600465,4,9:18,Grant Offensive Charge Foul (P2.T1) (P.Fraher),nan,nan,1626170,Jerian Grant,CHI,101139,CJ Miles,IND,0,nan,nan,Foul ,Offensive Charge
+211008,21600465,4,9:18,Grant Foul Turnover (P1.T14),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+211009,21600465,4,9:02,nan,MISS Miles 13' Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211010,21600465,4,9:00,Mirotic REBOUND (Off:4 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211011,21600465,4,8:54,Wade 6' Running Jump Shot (15 PTS),nan,64 - 71,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+211012,21600465,4,8:32,nan,MISS Seraphin 20' Jump Shot,nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211013,21600465,4,8:31,nan,Brooks REBOUND (Off:1 Def:2),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211014,21600465,4,8:19,nan,MISS Jefferson 13' Jump Shot,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211015,21600465,4,8:19,nan,Robinson III REBOUND (Off:2 Def:4),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211016,21600465,4,8:19,nan,MISS Robinson III 1' Putback Layup,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211017,21600465,4,8:19,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211018,21600465,4,8:19,nan,Seraphin L.B.FOUL (P4.T4) (P.Fraher),nan,202338,Kevin Seraphin,IND,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Loose Ball
+211019,21600465,4,8:19,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211020,21600465,4,8:19,nan,SUB: Young FOR Robinson III,nan,203922,Glenn Robinson III,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+211021,21600465,4,8:19,nan,SUB: George FOR Seraphin,nan,202338,Kevin Seraphin,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+211022,21600465,4,8:14,nan,Jefferson P.FOUL (P4.PN) (B.Spooner),nan,2744,Al Jefferson,IND,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Personal
+211023,21600465,4,8:14,MISS Felicio Free Throw 1 of 2,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211024,21600465,4,8:14,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+211025,21600465,4,8:14,SUB: Butler FOR Carter-Williams,nan,nan,203487,Michael Carter-Williams,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+211026,21600465,4,8:14,Felicio Free Throw 2 of 2 (2 PTS),nan,64 - 72,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211027,21600465,4,7:51,nan,MISS Miles 3' Layup,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211028,21600465,4,7:50,Felicio REBOUND (Off:1 Def:1),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211029,21600465,4,7:43,nan,George P.FOUL (P2.PN) (B.Spooner),nan,202331,Paul George,IND,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Personal
+211030,21600465,4,7:43,Wade Free Throw 1 of 2 (16 PTS),nan,64 - 73,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211031,21600465,4,7:43,Wade Free Throw 2 of 2 (17 PTS),nan,64 - 74,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211032,21600465,4,7:34,Grant S.FOUL (P3.T2) (B.Spooner),nan,nan,1626170,Jerian Grant,CHI,201166,Aaron Brooks,IND,0,nan,nan,Foul ,Shooting
+211033,21600465,4,7:34,nan,Brooks Free Throw 1 of 2 (14 PTS),65 - 74,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211034,21600465,4,7:34,nan,Brooks Free Throw 2 of 2 (15 PTS),66 - 74,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211035,21600465,4,7:12,Mirotic 2' Cutting Layup Shot (18 PTS) (Wade 4 AST),nan,66 - 76,202703,Nikola Mirotic,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+211036,21600465,4,6:55,nan,Young  3PT Jump Shot (12 PTS) (George 7 AST),69 - 76,201152,Thaddeus Young,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+211037,21600465,4,6:38,MISS Wade 9' Driving Bank Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211038,21600465,4,6:37,nan,Jefferson REBOUND (Off:2 Def:3),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211039,21600465,4,6:29,nan,Jefferson 6' Jump Shot (10 PTS) (Brooks 7 AST),71 - 76,2744,Al Jefferson,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+211040,21600465,4,6:29,Felicio S.FOUL (P1.T3) (C.Washington),nan,nan,1626245,Cristiano Felicio,CHI,2744,Al Jefferson,IND,0,nan,nan,Foul ,Shooting
+211041,21600465,4,6:29,SUB: Lopez FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+211042,21600465,4,6:29,nan,Jefferson Free Throw 1 of 1 (11 PTS),72 - 76,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+211043,21600465,4,6:11,MISS Lopez 1' Layup,Brooks BLOCK (1 BLK),nan,201577,Robin Lopez,CHI,0,nan,nan,201166,Aaron Brooks,IND,Missed Shot ,nan
+211044,21600465,4,6:10,nan,Brooks REBOUND (Off:1 Def:3),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211045,21600465,4,6:06,Lopez S.FOUL (P3.T4) (B.Spooner),nan,nan,201577,Robin Lopez,CHI,201166,Aaron Brooks,IND,0,nan,nan,Foul ,Shooting
+211046,21600465,4,6:06,nan,Brooks Free Throw 1 of 2 (16 PTS),73 - 76,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211047,21600465,4,6:06,nan,Brooks Free Throw 2 of 2 (17 PTS),74 - 76,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211048,21600465,4,5:46,MISS Butler 16' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211049,21600465,4,5:45,nan,Miles REBOUND (Off:0 Def:4),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211050,21600465,4,5:35,nan,MISS Young 24' 3PT Jump Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211051,21600465,4,5:34,Lopez REBOUND (Off:4 Def:6),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211052,21600465,4,5:15,Grant  3PT Jump Shot (10 PTS) (Wade 5 AST),nan,74 - 79,1626170,Jerian Grant,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+211053,21600465,4,4:52,nan,George Out of Bounds - Bad Pass Turnover Turnover (P3.T13),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+211054,21600465,4,4:52,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211055,21600465,4,4:52,nan,SUB: Turner FOR Jefferson,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+211056,21600465,4,4:44,nan,Miles S.FOUL (P4.PN) (B.Spooner),nan,101139,CJ Miles,IND,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+211057,21600465,4,4:44,Butler Free Throw 1 of 2 (14 PTS),nan,74 - 80,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211058,21600465,4,4:44,MISS Butler Free Throw 2 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211059,21600465,4,4:43,nan,Turner REBOUND (Off:0 Def:7),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211060,21600465,4,4:29,nan,Turner  Dunk (14 PTS) (George 8 AST),76 - 80,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+211061,21600465,4,4:12,MISS Butler 5' Driving Bank Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211062,21600465,4,4:09,Jump Ball Lopez vs. Young: Tip to Turner,nan,nan,201577,Robin Lopez,CHI,201152,Thaddeus Young,IND,1626167,Myles Turner,IND,Jump Ball ,nan
+211063,21600465,4,4:09,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211064,21600465,4,3:53,nan,Turner 21' Jump Shot (16 PTS) (Miles 1 AST),78 - 80,1626167,Myles Turner,IND,101139,CJ Miles,IND,0,nan,nan,Made Shot ,nan
+211065,21600465,4,3:38,MISS Wade 2' Layup,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211066,21600465,4,3:37,Lopez REBOUND (Off:5 Def:6),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211067,21600465,4,3:14,MISS Grant 25' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211068,21600465,4,3:13,nan,Turner REBOUND (Off:0 Def:8),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211069,21600465,4,2:50,nan,MISS Turner 21' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211070,21600465,4,2:49,Lopez REBOUND (Off:5 Def:7),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211071,21600465,4,2:29,Wade 18' Step Back Jump Shot (19 PTS),nan,78 - 82,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+211072,21600465,4,2:29,nan,Pacers Timeout: Regular (Reg.4 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211073,21600465,4,2:29,SUB: Gibson FOR Lopez,nan,nan,201577,Robin Lopez,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+211074,21600465,4,2:08,nan,Brooks 13' Step Back Jump Shot (19 PTS),80 - 82,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+211075,21600465,4,1:51,MISS Wade 9' Jump Shot,Turner BLOCK (2 BLK),nan,2548,Dwyane Wade,CHI,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+211076,21600465,4,1:49,nan,George REBOUND (Off:0 Def:3),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211077,21600465,4,1:36,Butler STEAL (2 STL),George Lost Ball Turnover (P4.T14),nan,202331,Paul George,IND,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Lost Ball
+211078,21600465,4,1:36,BULLS Timeout: Short (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+211079,21600465,4,1:26,nan,Turner S.FOUL (P4.PN) (B.Spooner),nan,1626167,Myles Turner,IND,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+211080,21600465,4,1:26,Butler Free Throw 1 of 2 (15 PTS),nan,80 - 83,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211081,21600465,4,1:26,SUB: Carter-Williams FOR Grant,nan,nan,1626170,Jerian Grant,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+211082,21600465,4,1:26,Butler Free Throw 2 of 2 (16 PTS),nan,80 - 84,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211083,21600465,4,1:16,nan,George 2' Cutting Layup Shot (11 PTS),82 - 84,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+211084,21600465,4,0:52,Gibson 16' Jump Shot (10 PTS) (Carter-Williams 2 AST),nan,82 - 86,201959,Taj Gibson,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+211085,21600465,4,0:52,nan,Pacers Timeout: Regular (Reg.5 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211086,21600465,4,0:45,nan,George 25' 3PT Jump Shot (14 PTS),85 - 86,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+211087,21600465,4,0:21,Mirotic 23' Jump Shot (20 PTS) (Butler 5 AST),nan,85 - 88,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+211088,21600465,4,0:21,nan,Pacers Timeout: Short (Reg.5 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+211089,21600465,4,0:21,nan,nan,nan,490,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+211090,21600465,4,0:10,nan,MISS George 26' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211091,21600465,4,0:09,nan,Young REBOUND (Off:3 Def:3),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211092,21600465,4,0:02,Wade STEAL (2 STL),Brooks Bad Pass Turnover (P3.T15),nan,201166,Aaron Brooks,IND,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Bad Pass
+211093,21600465,4,0:01,Wade  Running Dunk (21 PTS),nan,85 - 90,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+211094,21600465,4,0:01,nan,Pacers Timeout: Short (Reg.5 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+211095,21600465,4,0:00,Gibson STEAL (1 STL),Young Bad Pass Turnover (P3.T16),nan,201152,Thaddeus Young,IND,201959,Taj Gibson,CHI,0,nan,nan,Turnover ,Bad Pass
+211096,21600465,4,0:00,nan,nan,85 - 90,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

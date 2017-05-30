@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+256825,21600839,4,12:00,nan,nan,63 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+256826,21600839,4,11:39,MISS Harris 10' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256827,21600839,4,11:38,nan,Nowitzki REBOUND (Off:0 Def:9),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256828,21600839,4,11:24,nan,MISS Nowitzki 17' Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256829,21600839,4,11:24,Smith REBOUND (Off:0 Def:2),nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256830,21600839,4,11:20,Johnson Offensive Charge Foul (P3.T1) (H.Workman),nan,nan,1626169,Stanley Johnson,DET,2734,Devin Harris,DAL,0,nan,nan,Foul ,Offensive Charge
+256831,21600839,4,11:20,Johnson Foul Turnover (P1.T10),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+256832,21600839,4,11:00,nan,MISS Ferrell  3PT Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256833,21600839,4,11:00,Baynes REBOUND (Off:0 Def:9),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256834,21600839,4,10:41,Smith 15' Step Back Jump Shot (8 PTS),nan,63 - 80,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+256835,21600839,4,10:27,nan,Ferrell 1' Driving Layup (2 PTS),65 - 80,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256836,21600839,4,10:08,Harris Lost Ball Turnover (P2.T11),Harris STEAL (1 STL),nan,202699,Tobias Harris,DET,2734,Devin Harris,DAL,0,nan,nan,Turnover ,Lost Ball
+256837,21600839,4,10:02,nan,Harris  Layup (4 PTS),67 - 80,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256838,21600839,4,9:45,Smith 7' Jump Bank Shot (10 PTS),nan,67 - 82,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+256839,21600839,4,9:36,nan,Finney-Smith  Layup (2 PTS) (Ferrell 3 AST),69 - 82,1627827,Dorian Finney-Smith,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+256840,21600839,4,9:36,Leuer S.FOUL (P1.T2) (H.Workman),nan,nan,202720,Jon Leuer,DET,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Shooting
+256841,21600839,4,9:36,nan,Finney-Smith Free Throw 1 of 1 (3 PTS),70 - 82,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+256842,21600839,4,9:29,nan,Nowitzki P.FOUL (P2.T1) (B.Barnaky),nan,1717,Dirk Nowitzki,DAL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+256843,21600839,4,9:19,MISS Smith 19' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256844,21600839,4,9:18,Baynes REBOUND (Off:1 Def:9),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256845,21600839,4,9:17,MISS Baynes 2' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256846,21600839,4,9:16,nan,Finney-Smith REBOUND (Off:0 Def:1),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256847,21600839,4,8:58,nan,MISS Nowitzki 19' Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256848,21600839,4,8:57,Leuer REBOUND (Off:1 Def:6),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256849,21600839,4,8:39,MISS Baynes 15' Jump Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256850,21600839,4,8:38,nan,Harris REBOUND (Off:0 Def:3),nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256851,21600839,4,8:28,nan,Ferrell 25' 3PT Jump Shot (5 PTS),73 - 82,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256852,21600839,4,8:28,PISTONS Timeout: Regular (Full 3 Short 2),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256853,21600839,4,8:28,SUB: Caldwell-Pope FOR Harris,nan,nan,202699,Tobias Harris,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+256854,21600839,4,8:28,SUB: Marc Morris FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+256855,21600839,4,8:10,MISS Smith 24' 3PT Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256856,21600839,4,8:10,nan,Anderson REBOUND (Off:0 Def:1),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256857,21600839,4,7:55,nan,MISS Nowitzki 25' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256858,21600839,4,7:55,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256859,21600839,4,7:55,SUB: Jackson FOR Smith,nan,nan,202397,Ish Smith,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+256860,21600839,4,7:54,nan,Ferrell P.FOUL (P2.T2) (H.Workman),nan,1627812,Yogi Ferrell,DAL,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+256861,21600839,4,7:38,Caldwell-Pope 18' Pullup Jump Shot (13 PTS) (Jackson 4 AST),nan,73 - 84,203484,Kentavious Caldwell-Pope,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+256862,21600839,4,7:17,nan,Ferrell Bad Pass Turnover (P1.T6),nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+256863,21600839,4,7:05,Jackson Traveling Turnover (P2.T12),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Traveling
+256864,21600839,4,6:56,Leuer S.FOUL (P2.T3) (H.Workman),nan,nan,202720,Jon Leuer,DET,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting
+256865,21600839,4,6:56,nan,Harris Free Throw 1 of 2 (5 PTS),74 - 84,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256866,21600839,4,6:56,nan,Harris Free Throw 2 of 2 (6 PTS),75 - 84,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256867,21600839,4,6:43,MISS Jackson 1' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256868,21600839,4,6:42,Baynes REBOUND (Off:2 Def:9),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256869,21600839,4,6:42,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256870,21600839,4,6:41,nan,Ferrell REBOUND (Off:1 Def:4),nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256871,21600839,4,6:33,nan,MISS Ferrell 26' 3PT Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256872,21600839,4,6:33,Leuer REBOUND (Off:1 Def:7),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256873,21600839,4,6:16,Jackson 20' Jump Shot (19 PTS),nan,75 - 86,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+256874,21600839,4,6:16,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256875,21600839,4,6:16,SUB: Harris FOR Leuer,nan,nan,202720,Jon Leuer,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+256876,21600839,4,6:16,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+256877,21600839,4,6:16,nan,SUB: D. Williams FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+256878,21600839,4,6:16,nan,SUB: Matthews FOR Ferrell,nan,1627812,Yogi Ferrell,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+256879,21600839,4,6:16,nan,SUB: Bogut FOR Harris,nan,2734,Devin Harris,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Substitution ,nan
+256880,21600839,4,6:16,nan,SUB: Curry FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+256881,21600839,4,6:16,nan,SUB: Barnes FOR Anderson,nan,1626147,Justin Anderson,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+256882,21600839,4,5:55,nan,MISS Barnes  3PT Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256883,21600839,4,5:54,Caldwell-Pope REBOUND (Off:1 Def:4),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256884,21600839,4,5:44,Marc Morris Lost Ball Turnover (P2.T13),Matthews STEAL (2 STL),nan,202694,Marcus Morris,DET,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Lost Ball
+256885,21600839,4,5:31,nan,Curry  3PT Jump Shot (13 PTS) (Matthews 3 AST),78 - 86,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+256886,21600839,4,5:17,Jackson 25' 3PT Jump Shot (22 PTS),nan,78 - 89,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+256887,21600839,4,5:06,nan,MISS D. Williams 18' Jump Shot,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256888,21600839,4,5:06,Harris REBOUND (Off:1 Def:3),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256889,21600839,4,4:56,Jackson Bad Pass Turnover (P3.T14),D. Williams STEAL (1 STL),nan,202704,Reggie Jackson,DET,101114,Deron Williams,DAL,0,nan,nan,Turnover ,Bad Pass
+256890,21600839,4,4:40,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256891,21600839,4,4:40,Drummond REBOUND (Off:4 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256892,21600839,4,4:29,Harris Bad Pass Turnover (P3.T15),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+256893,21600839,4,4:08,nan,D. Williams 26' 3PT Jump Shot (7 PTS) (Curry 2 AST),81 - 89,101114,Deron Williams,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+256894,21600839,4,3:37,MISS Marc Morris 26' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256895,21600839,4,3:37,nan,D. Williams REBOUND (Off:0 Def:2),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256896,21600839,4,3:20,nan,MISS Barnes 7' Turnaround Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256897,21600839,4,3:20,Marc Morris REBOUND (Off:0 Def:10),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256898,21600839,4,3:02,Caldwell-Pope  3PT Jump Shot (16 PTS) (Drummond 3 AST),nan,81 - 92,203484,Kentavious Caldwell-Pope,DET,203083,Andre Drummond,DET,0,nan,nan,Made Shot ,nan
+256899,21600839,4,3:02,nan,Mavericks Timeout: Short (Reg.5 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+256900,21600839,4,3:02,SUB: Leuer FOR Drummond,nan,nan,203083,Andre Drummond,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+256901,21600839,4,3:02,nan,SUB: Nowitzki FOR Bogut,nan,101106,Andrew Bogut,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+256902,21600839,4,2:46,nan,MISS Curry 27' 3PT Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256903,21600839,4,2:46,Marc Morris REBOUND (Off:0 Def:11),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256904,21600839,4,2:23,Leuer 18' Jump Shot (16 PTS) (Harris 1 AST),nan,81 - 94,202720,Jon Leuer,DET,202699,Tobias Harris,DET,0,nan,nan,Made Shot ,nan
+256905,21600839,4,2:06,nan,MISS Nowitzki 7' Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256906,21600839,4,2:06,Marc Morris REBOUND (Off:0 Def:12),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256907,21600839,4,1:51,MISS Jackson 17' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256908,21600839,4,1:51,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256909,21600839,4,1:51,nan,Barnes L.B.FOUL (P1.T3) (Z.Zarba),nan,203084,Harrison Barnes,DAL,202694,Marcus Morris,DET,0,nan,nan,Foul ,Loose Ball
+256910,21600839,4,1:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+256911,21600839,4,1:37,MISS Marc Morris 15' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256912,21600839,4,1:36,nan,Matthews REBOUND (Off:0 Def:2),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256913,21600839,4,1:15,nan,MISS D. Williams 26' 3PT Jump Shot,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256914,21600839,4,1:15,Marc Morris REBOUND (Off:0 Def:13),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256915,21600839,4,0:53,MISS Marc Morris 10' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256916,21600839,4,0:53,nan,Barnes REBOUND (Off:1 Def:4),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256917,21600839,4,0:49,nan,Nowitzki 27' 3PT Jump Shot (24 PTS) (D. Williams 6 AST),84 - 94,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+256918,21600839,4,0:33,MISS Caldwell-Pope  3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256919,21600839,4,0:33,nan,Nowitzki REBOUND (Off:0 Def:10),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256920,21600839,4,0:24,nan,Barnes  Layup (16 PTS) (Curry 3 AST),86 - 94,203084,Harrison Barnes,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+256921,21600839,4,0:23,nan,Barnes P.FOUL (P2.PN) (Z.Zarba),nan,203084,Harrison Barnes,DAL,202720,Jon Leuer,DET,0,nan,nan,Foul ,Personal
+256922,21600839,4,0:23,Leuer Free Throw 1 of 2 (17 PTS),nan,86 - 95,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256923,21600839,4,0:23,Leuer Free Throw 2 of 2 (18 PTS),nan,86 - 96,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256924,21600839,4,0:15,nan,D. Williams  Driving Layup (9 PTS),88 - 96,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256925,21600839,4,0:14,nan,Curry P.FOUL (P3.PN) (H.Workman),nan,203552,Seth Curry,DAL,202720,Jon Leuer,DET,0,nan,nan,Foul ,Personal
+256926,21600839,4,0:14,Leuer Free Throw 1 of 2 (19 PTS),nan,88 - 97,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256927,21600839,4,0:14,Leuer Free Throw 2 of 2 (20 PTS),nan,88 - 98,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256928,21600839,4,0:14,nan,Mavericks Timeout: Regular (Reg.6 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256929,21600839,4,0:03,nan,D. Williams 27' 3PT Jump Shot (12 PTS) (Nowitzki 3 AST),91 - 98,101114,Deron Williams,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+256930,21600839,4,0:00,nan,nan,91 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

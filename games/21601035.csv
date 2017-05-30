@@ -1,0 +1,85 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+280566,21601035,4,12:00,nan,nan,70 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+280567,21601035,4,11:38,nan,MISS Dellavedova 1' Layup,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280568,21601035,4,11:37,nan,Antetokounmpo REBOUND (Off:1 Def:1),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280569,21601035,4,11:36,nan,Antetokounmpo  Putback Dunk (7 PTS),72 - 94,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+280570,21601035,4,11:14,Thompson 23' Pullup Jump Shot (11 PTS) (Barnes 3 AST),nan,72 - 96,202691,Klay Thompson,GSW,2440,Matt Barnes,GSW,0,nan,nan,Made Shot ,nan
+280571,21601035,4,11:08,Barnes P.FOUL (P1.T1) (Z.Zarba),nan,nan,2440,Matt Barnes,GSW,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+280572,21601035,4,11:02,Clark P.FOUL (P2.T2) (B.Adams),nan,nan,203546,Ian Clark,GSW,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+280573,21601035,4,10:54,nan,Dellavedova Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+280574,21601035,4,10:29,MISS Barnes 28' 3PT Pullup Jump Shot,nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280575,21601035,4,10:27,nan,Henson REBOUND (Off:1 Def:1),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280576,21601035,4,10:19,nan,Vaughn  3PT Pullup Jump Shot (3 PTS) (Antetokounmpo 3 AST),75 - 96,1626173,Rashad Vaughn,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+280577,21601035,4,9:58,Thompson 2' Cutting Layup Shot (13 PTS) (West 1 AST),nan,75 - 98,202691,Klay Thompson,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+280578,21601035,4,9:33,nan,MISS Vaughn 29' 3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280579,21601035,4,9:32,Barnes REBOUND (Off:0 Def:6),nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280580,21601035,4,9:19,Thompson 31' 3PT Pullup Jump Shot (16 PTS) (West 2 AST),nan,75 - 101,202691,Klay Thompson,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+280581,21601035,4,8:56,Iguodala BLOCK (2 BLK),MISS Henson 5' Jump Shot,nan,203089,John Henson,MIL,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+280582,21601035,4,8:55,Clark REBOUND (Off:0 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280583,21601035,4,8:55,nan,Dellavedova P.FOUL (P2.T1) (B.Adams),nan,203521,Matthew Dellavedova,MIL,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+280584,21601035,4,8:47,nan,Henson P.FOUL (P1.T2) (B.Adams),nan,203089,John Henson,MIL,2561,David West,GSW,0,nan,nan,Foul ,Personal
+280585,21601035,4,8:42,MISS Thompson 17' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280586,21601035,4,8:42,nan,Antetokounmpo REBOUND (Off:1 Def:2),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280587,21601035,4,8:35,nan,Antetokounmpo  Running Dunk (9 PTS),77 - 101,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+280588,21601035,4,8:11,MISS Iguodala 3' Jump Shot,Vaughn BLOCK (1 BLK),nan,2738,Andre Iguodala,GSW,0,nan,nan,1626173,Rashad Vaughn,MIL,Missed Shot ,nan
+280589,21601035,4,8:09,nan,Brogdon REBOUND (Off:1 Def:3),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280590,21601035,4,7:53,nan,Vaughn 27' 3PT Step Back Jump Shot (6 PTS),80 - 101,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+280591,21601035,4,7:26,West 7' Driving Hook Shot (4 PTS),nan,80 - 103,2561,David West,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+280592,21601035,4,7:05,nan,Brogdon 2' Driving Finger Roll Layup (12 PTS) (Dellavedova 2 AST),82 - 103,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+280593,21601035,4,7:04,WARRIORS Timeout: Regular (Full 4 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280594,21601035,4,7:04,SUB: Green FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+280595,21601035,4,6:49,Green Bad Pass Turnover (P4.T13),Dellavedova STEAL (1 STL),nan,203110,Draymond Green,GSW,203521,Matthew Dellavedova,MIL,0,nan,nan,Turnover ,Bad Pass
+280596,21601035,4,6:41,nan,MISS Vaughn 25' 3PT Pullup Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280597,21601035,4,6:40,Barnes REBOUND (Off:0 Def:7),nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280598,21601035,4,6:23,MISS Thompson 3' Turnaround Jump Shot,Antetokounmpo BLOCK (2 BLK),nan,202691,Klay Thompson,GSW,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+280599,21601035,4,6:22,Thompson REBOUND (Off:2 Def:1),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280600,21601035,4,6:21,Thompson 8' Step Back Jump Shot (18 PTS),nan,82 - 105,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+280601,21601035,4,5:58,nan,MISS Antetokounmpo 10' Jump Bank Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280602,21601035,4,5:57,Green REBOUND (Off:2 Def:5),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280603,21601035,4,5:47,MISS Green 2' Driving Layup,Antetokounmpo BLOCK (3 BLK),nan,203110,Draymond Green,GSW,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+280604,21601035,4,5:46,nan,Vaughn REBOUND (Off:0 Def:1),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280605,21601035,4,5:41,nan,Vaughn Out of Bounds - Bad Pass Turnover Turnover (P1.T11),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+280606,21601035,4,5:41,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280607,21601035,4,5:41,SUB: Livingston FOR West,nan,nan,2561,David West,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+280608,21601035,4,5:41,nan,SUB: Teletovic FOR Antetokounmpo,nan,203507,Giannis Antetokounmpo,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+280609,21601035,4,5:41,nan,SUB: Hawes FOR Henson,nan,203089,John Henson,MIL,201150,Spencer Hawes,MIL,0,nan,nan,Substitution ,nan
+280610,21601035,4,5:21,MISS Barnes 25' 3PT Pullup Jump Shot,nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280611,21601035,4,5:19,nan,Vaughn REBOUND (Off:0 Def:2),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280612,21601035,4,5:04,nan,Teletovic 10' Driving Hook Shot (10 PTS),84 - 105,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+280613,21601035,4,4:47,MISS Clark 8' Jump Shot,Vaughn BLOCK (2 BLK),nan,203546,Ian Clark,GSW,0,nan,nan,1626173,Rashad Vaughn,MIL,Missed Shot ,nan
+280614,21601035,4,4:46,Clark REBOUND (Off:1 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280615,21601035,4,4:41,Thompson 24' 3PT Pullup Jump Shot (21 PTS) (Green 9 AST),nan,84 - 108,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+280616,21601035,4,4:22,nan,Brogdon 1' Driving Finger Roll Layup (14 PTS),86 - 108,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+280617,21601035,4,4:05,Clark 1' Cutting Layup Shot (4 PTS) (Green 10 AST),nan,86 - 110,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+280618,21601035,4,4:05,nan,Teletovic S.FOUL (P4.T3) (K.Cutler),nan,203141,Mirza Teletovic,MIL,203546,Ian Clark,GSW,0,nan,nan,Foul ,Shooting
+280619,21601035,4,4:05,SUB: McAdoo FOR Green,nan,nan,203110,Draymond Green,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+280620,21601035,4,4:05,SUB: McCaw FOR Thompson,nan,nan,202691,Klay Thompson,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+280621,21601035,4,4:05,Clark Free Throw 1 of 1 (5 PTS),nan,86 - 111,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+280622,21601035,4,3:52,nan,MISS Hawes 10' Turnaround Jump Shot,nan,201150,Spencer Hawes,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280623,21601035,4,3:51,Barnes REBOUND (Off:0 Def:8),nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280624,21601035,4,3:42,MISS Clark 26' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280625,21601035,4,3:41,nan,Vaughn REBOUND (Off:0 Def:3),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280626,21601035,4,3:31,nan,MISS Hawes 27' 3PT Jump Shot,nan,201150,Spencer Hawes,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280627,21601035,4,3:31,McAdoo REBOUND (Off:0 Def:1),nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280628,21601035,4,3:16,MISS Livingston 10' Pullup Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280629,21601035,4,3:15,nan,Hawes REBOUND (Off:0 Def:1),nan,201150,Spencer Hawes,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280630,21601035,4,3:06,nan,MISS Hawes 10' Driving Hook Shot,nan,201150,Spencer Hawes,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280631,21601035,4,3:05,Barnes REBOUND (Off:0 Def:9),nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280632,21601035,4,2:46,McAdoo  Cutting Dunk Shot (2 PTS) (McCaw 1 AST),nan,86 - 113,203949,James Michael McAdoo,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Made Shot ,nan
+280633,21601035,4,2:30,nan,Dellavedova 10' Driving Floating Jump Shot (5 PTS) (Brogdon 3 AST),88 - 113,203521,Matthew Dellavedova,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+280634,21601035,4,2:04,MISS Livingston 2' Driving Finger Roll Layup,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280635,21601035,4,2:04,nan,Teletovic REBOUND (Off:0 Def:3),nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280636,21601035,4,1:51,nan,MISS Teletovic 25' 3PT Jump Shot,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280637,21601035,4,1:51,McAdoo REBOUND (Off:0 Def:2),nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280638,21601035,4,1:27,WARRIORS Turnover: Shot Clock (T#14),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+280639,21601035,4,1:20,nan,Brogdon 4' Driving Hook Shot (16 PTS) (Dellavedova 3 AST),90 - 113,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+280640,21601035,4,1:11,MISS Clark 27' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280641,21601035,4,1:10,nan,Vaughn REBOUND (Off:0 Def:4),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280642,21601035,4,1:01,nan,MISS Vaughn 2' Running Layup,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280643,21601035,4,1:01,Barnes REBOUND (Off:0 Def:10),nan,nan,2440,Matt Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280644,21601035,4,0:40,Clark 2' Driving Layup (7 PTS),nan,90 - 115,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+280645,21601035,4,0:32,Barnes S.FOUL (P2.T3) (K.Cutler),nan,nan,2440,Matt Barnes,GSW,1627763,Malcolm Brogdon,MIL,0,nan,nan,Foul ,Shooting
+280646,21601035,4,0:32,nan,Brogdon Free Throw 1 of 2 (17 PTS),91 - 115,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280647,21601035,4,0:32,nan,Brogdon Free Throw 2 of 2 (18 PTS),92 - 115,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280648,21601035,4,0:11,Clark 2' Driving Finger Roll Layup (9 PTS),nan,92 - 117,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+280649,21601035,4,0:00,nan,nan,92 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

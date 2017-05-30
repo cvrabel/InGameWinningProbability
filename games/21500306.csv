@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+38583,21500306,4,12:00,nan,nan,87 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+38584,21500306,4,11:52,Winslow Offensive Charge Foul (P2.T1) (M.Smith),nan,nan,1626159,Justise Winslow,MIA,202390,Gary Neal,WAS,0,nan,nan,Foul ,Offensive Charge
+38585,21500306,4,11:52,Winslow Foul Turnover (P3.T9),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Turnover ,Foul
+38586,21500306,4,11:36,nan,MISS Beal 15' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38587,21500306,4,11:35,McRoberts REBOUND (Off:0 Def:2),nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38588,21500306,4,11:24,MISS McRoberts 25' 3PT Jump Shot,nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38589,21500306,4,11:23,nan,Sessions REBOUND (Off:0 Def:2),nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38590,21500306,4,11:16,McRoberts Violation:Kicked Ball (K.Scott),nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+38591,21500306,4,11:07,nan,MISS Dudley 26' 3PT Jump Shot,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38592,21500306,4,11:06,nan,Dudley REBOUND (Off:2 Def:0),nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38593,21500306,4,11:01,nan,MISS Neal 24' 3PT Jump Shot,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38594,21500306,4,11:00,Bosh REBOUND (Off:2 Def:6),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38595,21500306,4,10:48,McRoberts 2' Driving Layup (6 PTS),nan,87 - 86,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+38596,21500306,4,10:33,Richardson P.FOUL (P2.T2) (M.Smith),nan,nan,1626196,Josh Richardson,MIA,201162,Jared Dudley,WAS,0,nan,nan,Foul ,Personal
+38597,21500306,4,10:20,nan,Sessions 2' Layup (7 PTS) (Dudley 1 AST),89 - 86,201196,Ramon Sessions,WAS,201162,Jared Dudley,WAS,0,nan,nan,Made Shot ,nan
+38598,21500306,4,9:58,Bosh Out of Bounds Lost Ball Turnover (P1.T10),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+38599,21500306,4,9:41,nan,MISS Sessions 7' Jump Bank Shot,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38600,21500306,4,9:40,Winslow REBOUND (Off:1 Def:4),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38601,21500306,4,9:32,nan,Porter Jr. S.FOUL (P2.T1) (K.Scott),nan,203490,Otto Porter Jr.,WAS,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Shooting
+38602,21500306,4,9:32,Bosh Free Throw 1 of 2 (14 PTS),nan,89 - 87,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+38603,21500306,4,9:32,Bosh Free Throw 2 of 2 (15 PTS),nan,89 - 88,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+38604,21500306,4,9:15,nan,Neal Traveling Turnover (P1.T10),nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+38605,21500306,4,9:05,Bosh Out of Bounds Lost Ball Turnover (P2.T11),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+38606,21500306,4,8:50,nan,MISS Beal 21' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38607,21500306,4,8:49,Richardson REBOUND (Off:0 Def:1),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38608,21500306,4,8:37,MISS McRoberts 21' Jump Shot,nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38609,21500306,4,8:36,Johnson REBOUND (Off:1 Def:0),nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38610,21500306,4,8:31,MISS Winslow 2' Reverse Layup,Porter Jr. BLOCK (1 BLK),nan,1626159,Justise Winslow,MIA,0,nan,nan,203490,Otto Porter Jr.,WAS,Missed Shot ,nan
+38611,21500306,4,8:30,nan,Dudley REBOUND (Off:2 Def:1),nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38612,21500306,4,8:24,Winslow STEAL (1 STL),Sessions Bad Pass Turnover (P3.T11),nan,201196,Ramon Sessions,WAS,1626159,Justise Winslow,MIA,0,nan,nan,Turnover ,Bad Pass
+38613,21500306,4,8:23,nan,Dudley P.FOUL (P2.T2) (M.Smith),nan,201162,Jared Dudley,WAS,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Personal
+38614,21500306,4,8:23,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+38615,21500306,4,8:23,nan,nan,nan,399,Sean Rooks,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+38616,21500306,4,8:23,nan,SUB: Wall FOR Beal,nan,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+38617,21500306,4,8:23,SUB: Green FOR Bosh,nan,nan,2547,Chris Bosh,MIA,101123,Gerald Green,MIA,0,nan,nan,Substitution ,nan
+38618,21500306,4,8:00,MISS Green 25' 3PT Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38619,21500306,4,7:59,nan,Porter Jr. REBOUND (Off:3 Def:11),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38620,21500306,4,7:49,nan,Dudley 2' Layup (11 PTS) (Sessions 1 AST),91 - 88,201162,Jared Dudley,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+38621,21500306,4,7:49,Winslow S.FOUL (P3.T3) (M.Lindsay),nan,nan,1626159,Justise Winslow,MIA,201162,Jared Dudley,WAS,0,nan,nan,Foul ,Shooting
+38622,21500306,4,7:49,SUB: Wade FOR Richardson,nan,nan,1626196,Josh Richardson,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Substitution ,nan
+38623,21500306,4,7:49,nan,Dudley Free Throw 1 of 1 (12 PTS),92 - 88,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+38624,21500306,4,7:36,McRoberts Bad Pass Turnover (P1.T12),Porter Jr. STEAL (2 STL),nan,201177,Josh McRoberts,MIA,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Bad Pass
+38625,21500306,4,7:27,nan,MISS Sessions 2' Layup,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38626,21500306,4,7:26,Green REBOUND (Off:0 Def:1),nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38627,21500306,4,7:26,nan,Dudley P.FOUL (P3.T3) (K.Scott),nan,201162,Jared Dudley,WAS,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Personal
+38628,21500306,4,7:26,nan,nan,nan,414,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+38629,21500306,4,7:18,McRoberts  Dunk (8 PTS) (Wade 8 AST),nan,92 - 90,201177,Josh McRoberts,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+38630,21500306,4,7:18,nan,Neal S.FOUL (P3.T4) (M.Lindsay),nan,202390,Gary Neal,WAS,201177,Josh McRoberts,MIA,0,nan,nan,Foul ,Shooting
+38631,21500306,4,7:18,McRoberts Free Throw 1 of 1 (9 PTS),nan,92 - 91,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+38632,21500306,4,6:59,nan,Sessions 20' Jump Shot (9 PTS),94 - 91,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+38633,21500306,4,6:39,MISS Green 15' Step Back Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38634,21500306,4,6:38,nan,Sessions REBOUND (Off:0 Def:3),nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38635,21500306,4,6:28,nan,MISS Dudley 22' Jump Shot,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38636,21500306,4,6:27,Wade REBOUND (Off:0 Def:6),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38637,21500306,4,6:25,nan,Sessions S.FOUL (P2.PN) (M.Smith),nan,201196,Ramon Sessions,WAS,201177,Josh McRoberts,MIA,0,nan,nan,Foul ,Shooting
+38638,21500306,4,6:25,nan,nan,nan,428,Sherman Douglas,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+38639,21500306,4,6:25,MISS McRoberts Free Throw 1 of 2,nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+38640,21500306,4,6:25,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+38641,21500306,4,6:25,nan,SUB: Beal FOR Porter Jr.,nan,203490,Otto Porter Jr.,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+38642,21500306,4,6:25,SUB: Dragic FOR Johnson,nan,nan,204020,Tyler Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+38643,21500306,4,6:25,MISS McRoberts Free Throw 2 of 2,nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+38644,21500306,4,6:24,nan,Beal REBOUND (Off:0 Def:3),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38645,21500306,4,6:08,nan,Sessions 25' 3PT Jump Shot (12 PTS) (Wall 7 AST),97 - 91,201196,Ramon Sessions,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+38646,21500306,4,5:48,Wade Traveling Turnover (P3.T13),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+38647,21500306,4,5:48,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+38648,21500306,4,5:48,SUB: Bosh FOR McRoberts,nan,nan,201177,Josh McRoberts,MIA,2547,Chris Bosh,MIA,0,nan,nan,Substitution ,nan
+38649,21500306,4,5:32,nan,Wall 2' Driving Layup (18 PTS),99 - 91,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+38650,21500306,4,5:05,MISS Winslow 24' 3PT Jump Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38651,21500306,4,5:04,nan,Wall REBOUND (Off:0 Def:1),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38652,21500306,4,4:40,nan,MISS Neal 3' Driving Layup,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38653,21500306,4,4:39,Winslow REBOUND (Off:1 Def:5),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38654,21500306,4,4:30,Dragic 24' 3PT Jump Shot (18 PTS) (Bosh 4 AST),nan,99 - 94,201609,Goran Dragic,MIA,2547,Chris Bosh,MIA,0,nan,nan,Made Shot ,nan
+38655,21500306,4,4:12,nan,MISS Beal 19' Step Back Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38656,21500306,4,4:11,Dragic REBOUND (Off:0 Def:3),nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38657,21500306,4,4:06,Wade 1' Running Layup (24 PTS) (Dragic 9 AST),nan,99 - 96,2548,Dwyane Wade,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+38658,21500306,4,4:06,nan,Wizards Timeout: Regular (Reg.4 Short 2),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+38659,21500306,4,4:06,nan,SUB: Porter Jr. FOR Sessions,nan,201196,Ramon Sessions,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+38660,21500306,4,3:51,nan,Wall 19' Jump Shot (20 PTS),101 - 96,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+38661,21500306,4,3:29,Bosh 25' 3PT Jump Shot (18 PTS) (Wade 9 AST),nan,101 - 99,2547,Chris Bosh,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+38662,21500306,4,3:06,nan,MISS Beal 14' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38663,21500306,4,3:05,Bosh REBOUND (Off:2 Def:7),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38664,21500306,4,2:54,Wade 2' Driving Layup (26 PTS),nan,101 - 101,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+38665,21500306,4,2:43,Wade S.FOUL (P3.T4) (M.Lindsay),nan,nan,2548,Dwyane Wade,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+38666,21500306,4,2:43,nan,Wall Free Throw 1 of 2 (21 PTS),102 - 101,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+38667,21500306,4,2:43,nan,Wall Free Throw 2 of 2 (22 PTS),103 - 101,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+38668,21500306,4,2:28,nan,Neal Shooting Block Foul (P4.PN) (M.Smith),nan,202390,Gary Neal,WAS,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting Block
+38669,21500306,4,2:28,Dragic Free Throw 1 of 2 (19 PTS),nan,103 - 102,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+38670,21500306,4,2:28,Dragic Free Throw 2 of 2 (20 PTS),nan,103 - 103,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+38671,21500306,4,2:11,nan,MISS Beal 2' Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38672,21500306,4,2:10,Wade REBOUND (Off:0 Def:7),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38673,21500306,4,1:59,Wade Lost Ball Turnover (P4.T14),Beal STEAL (1 STL),nan,2548,Dwyane Wade,MIA,203078,Bradley Beal,WAS,0,nan,nan,Turnover ,Lost Ball
+38674,21500306,4,1:56,nan,Beal  Driving Dunk (21 PTS),105 - 103,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+38675,21500306,4,1:32,Dragic Offensive Charge Foul (P3.PN) (M.Smith),nan,nan,201609,Goran Dragic,MIA,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Offensive Charge
+38676,21500306,4,1:32,Dragic Foul Turnover (P4.T15),nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Turnover ,Foul
+38677,21500306,4,1:07,nan,Neal 24' 3PT Jump Shot (19 PTS) (Beal 4 AST),108 - 103,202390,Gary Neal,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+38678,21500306,4,1:07,nan,nan,nan,478,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+38679,21500306,4,1:07,nan,nan,nan,478,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+38680,21500306,4,0:57,MISS Winslow 25' 3PT Jump Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+38681,21500306,4,0:56,nan,Dudley REBOUND (Off:2 Def:2),nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+38682,21500306,4,0:34,nan,Neal 2' Driving Finger Roll Layup (21 PTS),110 - 103,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+38683,21500306,4,0:34,HEAT Timeout: Regular (Full 5 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+38684,21500306,4,0:34,SUB: Johnson FOR Winslow,nan,nan,1626159,Justise Winslow,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+38685,21500306,4,0:32,HEAT Turnover: 5 Second Inbound (T#16),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,5 Second Inbound Turnover
+38686,21500306,4,0:32,Green P.FOUL (P3.PN) (K.Scott),nan,nan,101123,Gerald Green,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Personal
+38687,21500306,4,0:28,Green P.FOUL (P4.PN) (K.Scott),nan,nan,101123,Gerald Green,MIA,202322,John Wall,WAS,0,nan,nan,Foul ,Personal
+38688,21500306,4,0:28,Bosh T.FOUL (P1.PN) (M.Smith),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Foul ,Technical
+38689,21500306,4,0:28,Bosh T.FOUL (P1.PN) (K.Scott),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Foul ,Technical
+38690,21500306,4,0:28,Bosh Ejection:Second Technical,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Ejection ,nan
+38691,21500306,4,0:28,SUB: Winslow FOR Bosh,nan,nan,2547,Chris Bosh,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Substitution ,nan
+38692,21500306,4,0:28,nan,Wall Free Throw Technical (23 PTS),111 - 103,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+38693,21500306,4,0:28,nan,Wall Free Throw Technical (24 PTS),112 - 103,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+38694,21500306,4,0:28,nan,Wall Free Throw 1 of 2 (25 PTS),113 - 103,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+38695,21500306,4,0:28,nan,Wall Free Throw 2 of 2 (26 PTS),114 - 103,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+38696,21500306,4,0:28,HEAT Timeout: Short (Full 5 Short 2),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+38697,21500306,4,0:28,nan,SUB: Temple FOR Dudley,nan,201162,Jared Dudley,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+38698,21500306,4,0:26,Wade Out of Bounds Lost Ball Turnover (P5.T17),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+38699,21500306,4,0:02,nan,Wizards Turnover: Shot Clock (T#12),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+38700,21500306,4,0:00,nan,nan,114 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

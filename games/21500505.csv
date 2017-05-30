@@ -1,0 +1,99 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+63154,21500505,4,12:00,nan,nan,74 - 103,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+63155,21500505,4,11:44,Aldrich S.FOUL (P5.T1) (J.Williams),nan,nan,202332,Cole Aldrich,LAC,201171,Carl Landry,PHI,0,nan,nan,Foul ,Shooting
+63156,21500505,4,11:44,nan,MISS Landry Free Throw 1 of 2,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63157,21500505,4,11:44,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+63158,21500505,4,11:44,nan,MISS Landry Free Throw 2 of 2,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63159,21500505,4,11:43,Aldrich REBOUND (Off:0 Def:5),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63160,21500505,4,11:24,Rivers 16' Jump Shot (14 PTS),nan,74 - 105,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63161,21500505,4,11:15,nan,MISS Marshall 13' Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63162,21500505,4,11:15,nan,Holmes REBOUND (Off:1 Def:0),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63163,21500505,4,11:09,Aldrich BLOCK (2 BLK),MISS Holmes 2' Layup,nan,1626158,Richaun Holmes,PHI,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+63164,21500505,4,11:07,Aldrich REBOUND (Off:0 Def:6),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63165,21500505,4,11:03,Prigioni Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+63166,21500505,4,10:53,nan,Marshall Out of Bounds - Bad Pass Turnover Turnover (P1.T10),nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+63167,21500505,4,10:53,nan,SUB: McConnell FOR Sampson,nan,203960,JaKarr Sampson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+63168,21500505,4,10:39,MISS Crawford 25' 3PT Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63169,21500505,4,10:39,nan,Holmes REBOUND (Off:1 Def:1),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63170,21500505,4,10:27,nan,MISS Landry 2' Turnaround Hook Shot,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63171,21500505,4,10:24,Stephenson REBOUND (Off:0 Def:4),nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63172,21500505,4,10:16,Rivers 28' 3PT Jump Shot (17 PTS) (Stephenson 2 AST),nan,74 - 108,203085,Austin Rivers,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Made Shot ,nan
+63173,21500505,4,10:07,nan,MISS Holmes 26' 3PT Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63174,21500505,4,10:06,Aldrich REBOUND (Off:0 Def:7),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63175,21500505,4,9:58,Stephenson Lost Ball Turnover (P1.T11),Landry STEAL (2 STL),nan,202362,Lance Stephenson,LAC,201171,Carl Landry,PHI,0,nan,nan,Turnover ,Lost Ball
+63176,21500505,4,9:53,nan,Holmes  Driving Dunk (2 PTS) (Stauskas 2 AST),76 - 108,1626158,Richaun Holmes,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+63177,21500505,4,9:35,Crawford 17' Jump Shot (10 PTS),nan,76 - 110,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63178,21500505,4,9:35,nan,Stauskas S.FOUL (P3.T1) (J.Williams),nan,203917,Nik Stauskas,PHI,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+63179,21500505,4,9:35,Crawford Free Throw 1 of 1 (11 PTS),nan,76 - 111,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+63180,21500505,4,9:28,Prigioni STEAL (1 STL),Marshall Lost Ball Turnover (P2.T11),nan,203088,Kendall Marshall,PHI,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Lost Ball
+63181,21500505,4,9:24,Crawford 3' Alley Oop Layup (13 PTS) (Prigioni 2 AST),nan,76 - 113,2037,Jamal Crawford,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+63182,21500505,4,9:24,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63183,21500505,4,9:24,SUB: Dawson FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,1626183,Branden Dawson,LAC,0,nan,nan,Substitution ,nan
+63184,21500505,4,9:05,nan,MISS Marshall 20' Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63185,21500505,4,9:05,Rivers REBOUND (Off:0 Def:1),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63186,21500505,4,8:56,MISS Rivers 19' Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63187,21500505,4,8:56,Prigioni REBOUND (Off:1 Def:1),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63188,21500505,4,8:43,Aldrich 8' Hook Shot (8 PTS) (Prigioni 3 AST),nan,76 - 115,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+63189,21500505,4,8:31,nan,Landry 3' Reverse Layup (4 PTS) (McConnell 2 AST),78 - 115,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63190,21500505,4,8:11,MISS Aldrich 7' Jump Shot,nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63191,21500505,4,8:10,nan,Landry REBOUND (Off:0 Def:3),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63192,21500505,4,8:02,nan,MISS McConnell 26' 3PT Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63193,21500505,4,8:01,Aldrich REBOUND (Off:0 Def:8),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63194,21500505,4,7:45,Aldrich Bad Pass Turnover (P3.T12),McConnell STEAL (2 STL),nan,202332,Cole Aldrich,LAC,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+63195,21500505,4,7:39,nan,Stauskas 25' 3PT Jump Shot (18 PTS) (McConnell 3 AST),81 - 115,203917,Nik Stauskas,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63196,21500505,4,7:16,MISS Rivers 4' Driving Layup,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63197,21500505,4,7:16,nan,Stauskas REBOUND (Off:0 Def:4),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63198,21500505,4,7:05,nan,MISS Stauskas 27' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63199,21500505,4,7:05,nan,Landry REBOUND (Off:1 Def:3),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63200,21500505,4,7:00,nan,MISS Landry 3' Layup,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63201,21500505,4,6:59,Aldrich REBOUND (Off:0 Def:9),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63202,21500505,4,6:38,Prigioni 17' Floating Jump Shot (2 PTS),nan,81 - 117,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63203,21500505,4,6:31,Prigioni P.FOUL (P2.T2) (J.Williams),nan,nan,203143,Pablo Prigioni,LAC,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+63204,21500505,4,6:31,SUB: Smith FOR Aldrich,nan,nan,202332,Cole Aldrich,LAC,2746,Josh Smith,LAC,0,nan,nan,Substitution ,nan
+63205,21500505,4,6:19,nan,MISS McConnell 2' Driving Layup,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63206,21500505,4,6:19,Prigioni REBOUND (Off:1 Def:2),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63207,21500505,4,6:06,Dawson 4' Floating Jump Shot (2 PTS) (Stephenson 3 AST),nan,81 - 119,1626183,Branden Dawson,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Made Shot ,nan
+63208,21500505,4,5:52,nan,Landry 3' Layup (6 PTS) (Stauskas 3 AST),83 - 119,201171,Carl Landry,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+63209,21500505,4,5:30,Rivers 22' Step Back Jump Shot (19 PTS),nan,83 - 121,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63210,21500505,4,5:19,Smith P.FOUL (P1.T3) (B.Kennedy),nan,nan,2746,Josh Smith,LAC,201171,Carl Landry,PHI,0,nan,nan,Foul ,Personal
+63211,21500505,4,5:19,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+63212,21500505,4,5:19,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63213,21500505,4,5:19,nan,SUB: Covington FOR Stauskas,nan,203917,Nik Stauskas,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+63214,21500505,4,5:19,nan,MISS Landry Free Throw 1 of 2,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63215,21500505,4,5:19,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+63216,21500505,4,5:19,nan,Landry Free Throw 2 of 2 (7 PTS),84 - 121,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63217,21500505,4,4:55,MISS Smith 4' Jump Shot,nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63218,21500505,4,4:55,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63219,21500505,4,4:55,CLIPPERS Turnover: Shot Clock (T#13),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+63220,21500505,4,4:41,nan,MISS Marshall 24' 3PT Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63221,21500505,4,4:41,Dawson REBOUND (Off:0 Def:1),nan,nan,1626183,Branden Dawson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63222,21500505,4,4:23,MISS Rivers 21' Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63223,21500505,4,4:22,Dawson REBOUND (Off:1 Def:1),nan,nan,1626183,Branden Dawson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63224,21500505,4,4:19,nan,Landry S.FOUL (P2.T2) (J.Williams),nan,201171,Carl Landry,PHI,202362,Lance Stephenson,LAC,0,nan,nan,Foul ,Shooting
+63225,21500505,4,4:19,Stephenson Free Throw 1 of 2 (6 PTS),nan,84 - 122,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63226,21500505,4,4:19,Stephenson Free Throw 2 of 2 (7 PTS),nan,84 - 123,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63227,21500505,4,3:54,nan,Marshall 30' 3PT Jump Shot (3 PTS) (McConnell 4 AST),87 - 123,203088,Kendall Marshall,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63228,21500505,4,3:36,MISS Smith 18' Jump Shot,nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63229,21500505,4,3:36,Dawson REBOUND (Off:2 Def:1),nan,nan,1626183,Branden Dawson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63230,21500505,4,3:31,MISS Dawson 3' Layup,Covington BLOCK (1 BLK),nan,1626183,Branden Dawson,LAC,0,nan,nan,203496,Robert Covington,PHI,Missed Shot ,nan
+63231,21500505,4,3:29,nan,Covington REBOUND (Off:0 Def:5),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63232,21500505,4,3:22,nan,Holmes 4' Cutting Layup Shot (4 PTS) (McConnell 5 AST),89 - 123,1626158,Richaun Holmes,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63233,21500505,4,3:05,Prigioni Bad Pass Turnover (P3.T14),McConnell STEAL (3 STL),nan,203143,Pablo Prigioni,LAC,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+63234,21500505,4,3:05,Jump Ball Smith vs. McConnell: Tip to Marshall,nan,nan,2746,Josh Smith,LAC,204456,T.J. McConnell,PHI,203088,Kendall Marshall,PHI,Jump Ball ,nan
+63235,21500505,4,2:54,nan,Holmes  Dunk (6 PTS) (Marshall 1 AST),91 - 123,1626158,Richaun Holmes,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+63236,21500505,4,2:39,Rivers 11' Floating Jump Shot (21 PTS),nan,91 - 125,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63237,21500505,4,2:30,Stephenson STEAL (1 STL),McConnell Bad Pass Turnover (P1.T12),nan,204456,T.J. McConnell,PHI,202362,Lance Stephenson,LAC,0,nan,nan,Turnover ,Bad Pass
+63238,21500505,4,2:17,Stephenson Bad Pass Turnover (P2.T15),Holmes STEAL (1 STL),nan,202362,Lance Stephenson,LAC,1626158,Richaun Holmes,PHI,0,nan,nan,Turnover ,Bad Pass
+63239,21500505,4,2:11,nan,Holmes 11' Jump Shot (8 PTS) (McConnell 6 AST),93 - 125,1626158,Richaun Holmes,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63240,21500505,4,1:52,Rivers 20' Step Back Jump Shot (23 PTS),nan,93 - 127,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63241,21500505,4,1:39,nan,Landry 20' Jump Shot (9 PTS) (McConnell 7 AST),95 - 127,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63242,21500505,4,1:33,Rivers 28' 3PT Jump Shot (26 PTS),nan,95 - 130,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+63243,21500505,4,1:22,nan,Landry 2' Layup (11 PTS) (Marshall 2 AST),97 - 130,201171,Carl Landry,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+63244,21500505,4,1:06,MISS Rivers 25' 3PT Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63245,21500505,4,1:06,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63246,21500505,4,0:49,nan,MISS Marshall 25' 3PT Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63247,21500505,4,0:49,Rivers REBOUND (Off:0 Def:2),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63248,21500505,4,0:28,MISS Stephenson 30' 3PT Jump Shot,nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63249,21500505,4,0:28,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63250,21500505,4,0:23,nan,Covington  Reverse Dunk (2 PTS) (Marshall 3 AST),99 - 130,203496,Robert Covington,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+63251,21500505,4,0:00,nan,nan,99 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

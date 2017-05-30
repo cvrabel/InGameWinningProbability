@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+113252,21500903,4,12:00,nan,nan,73 - 63,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+113253,21500903,4,11:50,Mayo OFF.Foul (P3) (D.Stafford),nan,nan,201564,O.J. Mayo,MIL,201588,George Hill,IND,0,nan,nan,Foul ,Offensive
+113254,21500903,4,11:50,Mayo Foul Turnover (P1.T11),nan,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+113255,21500903,4,11:33,Monroe S.FOUL (P1.T1) (D.Stafford),nan,nan,202328,Greg Monroe,MIL,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+113256,21500903,4,11:33,nan,Hill Free Throw 1 of 2 (13 PTS),74 - 63,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113257,21500903,4,11:33,nan,MISS Hill Free Throw 2 of 2,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113258,21500903,4,11:31,Antetokounmpo REBOUND (Off:0 Def:5),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113259,21500903,4,11:18,Monroe 6' Driving Hook Shot (7 PTS),nan,74 - 65,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113260,21500903,4,10:56,nan,Hill 10' Jump Shot (15 PTS) (G. Hill 2 AST),76 - 65,201941,Jordan Hill,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+113261,21500903,4,10:45,nan,Allen P.FOUL (P2.T1) (D.Jones),nan,202730,Lavoy Allen,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Personal
+113262,21500903,4,10:33,nan,Hill S.FOUL (P3.T2) (M.Ervin),nan,201941,Jordan Hill,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+113263,21500903,4,10:33,Monroe Free Throw 1 of 2 (8 PTS),nan,76 - 66,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113264,21500903,4,10:33,Monroe Free Throw 2 of 2 (9 PTS),nan,76 - 67,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113265,21500903,4,10:19,Mayo S.FOUL (P4.T2) (D.Stafford),nan,nan,201564,O.J. Mayo,MIL,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+113266,21500903,4,10:19,nan,Hill Free Throw 1 of 2 (16 PTS),77 - 67,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113267,21500903,4,10:19,nan,Hill Free Throw 2 of 2 (17 PTS),78 - 67,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113268,21500903,4,10:03,Monroe 4' Hook Shot (11 PTS),nan,78 - 69,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113269,21500903,4,9:42,nan,MISS Stuckey  3PT Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113270,21500903,4,9:39,nan,Allen REBOUND (Off:4 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113271,21500903,4,9:39,nan,MISS Allen  Tip Layup Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113272,21500903,4,9:38,Mayo REBOUND (Off:0 Def:4),nan,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113273,21500903,4,9:32,Monroe  Dunk (13 PTS) (Mayo 1 AST),nan,78 - 71,202328,Greg Monroe,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+113274,21500903,4,9:12,Bayless S.FOUL (P3.T3) (D.Stafford),nan,nan,201573,Jerryd Bayless,MIL,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting
+113275,21500903,4,9:12,nan,Stuckey Free Throw 1 of 2 (4 PTS),79 - 71,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113276,21500903,4,9:12,nan,Stuckey Free Throw 2 of 2 (5 PTS),80 - 71,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113277,21500903,4,8:58,Monroe 4' Driving Hook Shot (15 PTS) (Mayo 2 AST),nan,80 - 73,202328,Greg Monroe,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+113278,21500903,4,8:58,nan,Hill S.FOUL (P4.T3) (D.Stafford),nan,201941,Jordan Hill,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+113279,21500903,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+113280,21500903,4,8:58,nan,SUB: Mahinmi FOR Hill,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+113281,21500903,4,8:58,Monroe Free Throw 1 of 1 (16 PTS),nan,80 - 74,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+113282,21500903,4,8:54,Mayo P.FOUL (P5.T4) (D.Jones),nan,nan,201564,O.J. Mayo,MIL,201588,George Hill,IND,0,nan,nan,Foul ,Personal
+113283,21500903,4,8:42,nan,Stuckey 2' Driving Layup (7 PTS),82 - 74,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+113284,21500903,4,8:28,nan,Budinger S.FOUL (P1.T4) (D.Stafford),nan,201978,Chase Budinger,IND,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+113285,21500903,4,8:28,Antetokounmpo Free Throw 1 of 2 (17 PTS),nan,82 - 75,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113286,21500903,4,8:28,SUB: Middleton FOR Vaughn,nan,nan,1626173,Rashad Vaughn,MIL,203114,Khris Middleton,MIL,0,nan,nan,Substitution ,nan
+113287,21500903,4,8:28,Antetokounmpo Free Throw 2 of 2 (18 PTS),nan,82 - 76,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113288,21500903,4,8:14,nan,Stuckey 11' Driving Floating Jump Shot (9 PTS),84 - 76,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+113289,21500903,4,7:56,Mayo Bad Pass Turnover (P2.T12),Budinger STEAL (1 STL),nan,201564,O.J. Mayo,MIL,201978,Chase Budinger,IND,0,nan,nan,Turnover ,Bad Pass
+113290,21500903,4,7:51,nan,Stuckey 1' Running Layup (11 PTS) (Budinger 3 AST),86 - 76,201155,Rodney Stuckey,IND,201978,Chase Budinger,IND,0,nan,nan,Made Shot ,nan
+113291,21500903,4,7:34,Middleton  3PT Jump Shot (18 PTS) (Antetokounmpo 3 AST),nan,86 - 79,203114,Khris Middleton,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+113292,21500903,4,7:11,Antetokounmpo BLOCK (1 BLK),MISS Allen 16' Turnaround Jump Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+113293,21500903,4,7:10,Mayo REBOUND (Off:0 Def:5),nan,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113294,21500903,4,7:03,MISS Antetokounmpo 17' Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113295,21500903,4,7:01,nan,Stuckey REBOUND (Off:0 Def:1),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113296,21500903,4,6:54,nan,Pacers Timeout: Regular (Reg.4 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+113297,21500903,4,6:54,nan,SUB: George FOR Budinger,nan,201978,Chase Budinger,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+113298,21500903,4,6:54,SUB: Parker FOR Mayo,nan,nan,201564,O.J. Mayo,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+113299,21500903,4,6:39,nan,MISS Stuckey 25' 3PT Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113300,21500903,4,6:39,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113301,21500903,4,6:28,nan,Stuckey S.FOUL (P1.PN) (D.Stafford),nan,201155,Rodney Stuckey,IND,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+113302,21500903,4,6:28,MISS Monroe Free Throw 1 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113303,21500903,4,6:28,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113304,21500903,4,6:28,nan,SUB: Turner FOR Allen,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+113305,21500903,4,6:28,nan,SUB: Ellis FOR G. Hill,nan,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+113306,21500903,4,6:28,MISS Monroe Free Throw 2 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113307,21500903,4,6:27,nan,George REBOUND (Off:1 Def:7),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113308,21500903,4,6:16,Bayless S.FOUL (P4.PN) (D.Stafford),nan,nan,201573,Jerryd Bayless,MIL,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting
+113309,21500903,4,6:16,nan,MISS Stuckey Free Throw 1 of 2,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113310,21500903,4,6:16,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113311,21500903,4,6:16,nan,Stuckey Free Throw 2 of 2 (12 PTS),87 - 79,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113312,21500903,4,6:10,nan,George S.FOUL (P3.PN) (D.Jones),nan,202331,Paul George,IND,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+113313,21500903,4,6:10,Middleton Free Throw 1 of 2 (19 PTS),nan,87 - 80,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113314,21500903,4,6:10,MISS Middleton Free Throw 2 of 2,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113315,21500903,4,6:09,nan,George REBOUND (Off:1 Def:8),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113316,21500903,4,5:50,nan,Stuckey 24' 3PT Jump Shot (15 PTS) (Ellis 5 AST),90 - 80,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+113317,21500903,4,5:31,Bayless 10' Floating Jump Shot (4 PTS),nan,90 - 82,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113318,21500903,4,5:22,nan,Ellis  Driving Finger Roll Layup (7 PTS),92 - 82,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+113319,21500903,4,5:03,Parker 4' Driving Layup (18 PTS),nan,92 - 84,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113320,21500903,4,4:49,Middleton STEAL (1 STL),Stuckey Bad Pass Turnover (P1.T13),nan,201155,Rodney Stuckey,IND,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+113321,21500903,4,4:46,nan,Stuckey P.FOUL (P2.PN) (D.Stafford),nan,201155,Rodney Stuckey,IND,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+113322,21500903,4,4:46,Middleton Free Throw 1 of 2 (20 PTS),nan,92 - 85,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113323,21500903,4,4:46,SUB: Plumlee FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203101,Miles Plumlee,MIL,0,nan,nan,Substitution ,nan
+113324,21500903,4,4:46,nan,SUB: G. Hill FOR Stuckey,nan,201155,Rodney Stuckey,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+113325,21500903,4,4:46,Middleton Free Throw 2 of 2 (21 PTS),nan,92 - 86,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113326,21500903,4,4:26,nan,MISS Mahinmi  Dunk,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113327,21500903,4,4:24,Bayless REBOUND (Off:0 Def:1),nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113328,21500903,4,4:14,MISS Antetokounmpo 1' Layup,Mahinmi BLOCK (3 BLK),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,101133,Ian Mahinmi,IND,Missed Shot ,nan
+113329,21500903,4,4:11,nan,George REBOUND (Off:1 Def:9),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113330,21500903,4,4:03,nan,G. Hill 26' 3PT Jump Shot (10 PTS) (Mahinmi 3 AST),95 - 86,201588,George Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Made Shot ,nan
+113331,21500903,4,3:43,MISS Middleton 16' Jump Shot,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113332,21500903,4,3:41,nan,Ellis REBOUND (Off:0 Def:4),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113333,21500903,4,3:35,nan,MISS Ellis 17' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113334,21500903,4,3:34,nan,Mahinmi REBOUND (Off:1 Def:7),nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113335,21500903,4,3:16,nan,MISS G. Hill  3PT Jump Shot,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113336,21500903,4,3:15,Bayless REBOUND (Off:0 Def:2),nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113337,21500903,4,3:10,nan,Mahinmi Shooting Block Foul (P5.PN) (M.Ervin),nan,101133,Ian Mahinmi,IND,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting Block
+113338,21500903,4,3:10,Bayless Free Throw 1 of 2 (5 PTS),nan,95 - 87,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113339,21500903,4,3:10,nan,SUB: Hill FOR Mahinmi,nan,101133,Ian Mahinmi,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+113340,21500903,4,3:10,Bayless Free Throw 2 of 2 (6 PTS),nan,95 - 88,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113341,21500903,4,2:46,nan,George Out of Bounds - Bad Pass Turnover Turnover (P6.T14),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+113342,21500903,4,2:46,BUCKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+113343,21500903,4,2:45,Parker Out of Bounds - Bad Pass Turnover Turnover (P4.T13),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+113344,21500903,4,2:32,Plumlee STEAL (1 STL),George Bad Pass Turnover (P7.T15),nan,202331,Paul George,IND,203101,Miles Plumlee,MIL,0,nan,nan,Turnover ,Bad Pass
+113345,21500903,4,2:23,MISS Parker  Dunk,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113346,21500903,4,2:21,nan,Turner REBOUND (Off:1 Def:3),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113347,21500903,4,2:12,nan,George 2' Layup (15 PTS) (Ellis 6 AST),97 - 88,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+113348,21500903,4,1:56,MISS Middleton 16' Jump Shot,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113349,21500903,4,1:55,nan,Hill REBOUND (Off:1 Def:6),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113350,21500903,4,1:36,nan,Hill 14' Jump Shot (19 PTS) (G. Hill 3 AST),99 - 88,201941,Jordan Hill,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+113351,21500903,4,1:30,nan,Hill S.FOUL (P5.PN) (M.Ervin),nan,201941,Jordan Hill,IND,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting
+113352,21500903,4,1:30,Bayless Free Throw 1 of 2 (7 PTS),nan,99 - 89,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113353,21500903,4,1:30,Bayless Free Throw 2 of 2 (8 PTS),nan,99 - 90,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113354,21500903,4,1:17,nan,MISS George 20' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113355,21500903,4,1:15,Bayless REBOUND (Off:0 Def:3),nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113356,21500903,4,1:08,Antetokounmpo 9' Floating Jump Shot (20 PTS),nan,99 - 92,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113357,21500903,4,0:55,Middleton STEAL (2 STL),G. Hill Bad Pass Turnover (P1.T16),nan,201588,George Hill,IND,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+113358,21500903,4,0:53,Middleton 2' Running Dunk (23 PTS),nan,99 - 94,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113359,21500903,4,0:53,nan,Pacers Timeout: Short (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+113360,21500903,4,0:37,Plumlee Personal Block Foul (P2.PN) (D.Stafford),nan,nan,203101,Miles Plumlee,MIL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Block
+113361,21500903,4,0:37,nan,MISS Ellis Free Throw 1 of 2,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113362,21500903,4,0:37,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113363,21500903,4,0:37,nan,SUB: Mahinmi FOR Hill,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+113364,21500903,4,0:37,nan,Ellis Free Throw 2 of 2 (8 PTS),100 - 94,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113365,21500903,4,0:37,BUCKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+113366,21500903,4,0:29,MISS Middleton 1' Layup,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113367,21500903,4,0:29,Antetokounmpo REBOUND (Off:1 Def:5),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113368,21500903,4,0:29,Antetokounmpo 2' Tip Layup Shot (22 PTS),nan,100 - 96,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113369,21500903,4,0:24,nan,Ellis 1' Driving Layup (10 PTS),102 - 96,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+113370,21500903,4,0:16,Bayless 1' Driving Layup (10 PTS),nan,102 - 98,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+113371,21500903,4,0:16,nan,George S.FOUL (P4.PN) (D.Stafford),nan,202331,Paul George,IND,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting
+113372,21500903,4,0:16,Bayless Free Throw 1 of 1 (11 PTS),nan,102 - 99,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+113373,21500903,4,0:16,nan,SUB: Hill FOR Mahinmi,nan,101133,Ian Mahinmi,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+113374,21500903,4,0:16,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+113375,21500903,4,0:16,nan,SUB: Budinger FOR Hill,nan,201941,Jordan Hill,IND,201978,Chase Budinger,IND,0,nan,nan,Substitution ,nan
+113376,21500903,4,0:14,Antetokounmpo Personal Take Foul (P3.PN) (M.Ervin),nan,nan,203507,Giannis Antetokounmpo,MIL,202331,Paul George,IND,0,nan,nan,Foul ,Personal Take
+113377,21500903,4,0:14,nan,MISS George Free Throw 1 of 2,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113378,21500903,4,0:14,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113379,21500903,4,0:14,nan,SUB: Mahinmi FOR Budinger,nan,201978,Chase Budinger,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+113380,21500903,4,0:14,nan,MISS George Free Throw 2 of 2,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113381,21500903,4,0:14,Plumlee REBOUND (Off:1 Def:5),nan,nan,203101,Miles Plumlee,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113382,21500903,4,0:13,BUCKS Timeout: Short (Full 5 Short 2),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+113383,21500903,4,0:13,nan,SUB: S. Hill FOR Turner,nan,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+113384,21500903,4,0:06,MISS Middleton 25' 3PT Jump Shot,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113385,21500903,4,0:05,nan,S. Hill REBOUND (Off:1 Def:3),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113386,21500903,4,0:05,Parker Personal Take Foul (P3.PN) (D.Jones),nan,nan,203953,Jabari Parker,MIL,203524,Solomon Hill,IND,0,nan,nan,Foul ,Personal Take
+113387,21500903,4,0:05,nan,S. Hill Free Throw 1 of 2 (1 PTS),103 - 99,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113388,21500903,4,0:05,nan,S. Hill Free Throw 2 of 2 (2 PTS),104 - 99,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113389,21500903,4,0:05,BUCKS Timeout: Short (Full 5 Short 3),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+113390,21500903,4,0:02,MISS Middleton  3PT Jump Shot,George BLOCK (1 BLK),nan,203114,Khris Middleton,MIL,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+113391,21500903,4,0:02,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113392,21500903,4,0:00,nan,nan,104 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

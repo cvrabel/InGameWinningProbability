@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+248690,21600773,4,12:00,nan,nan,67 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+248691,21600773,4,11:37,Marc Morris 17' Jump Shot (19 PTS),nan,67 - 91,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+248692,21600773,4,11:15,nan,Rodriguez 26' 3PT Jump Shot (3 PTS),70 - 91,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248693,21600773,4,10:54,Baynes 4' Hook Shot (10 PTS) (Marc Morris 2 AST),nan,70 - 93,203382,Aron Baynes,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+248694,21600773,4,10:42,nan,Saric 26' 3PT Jump Shot (11 PTS) (Rodriguez 3 AST),73 - 93,203967,Dario Saric,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+248695,21600773,4,10:25,MISS Harris 17' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248696,21600773,4,10:25,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248697,21600773,4,10:25,nan,Saric L.B.FOUL (P2.T1) (M.Ayotte),nan,203967,Dario Saric,PHI,203382,Aron Baynes,DET,0,nan,nan,Foul ,Loose Ball
+248698,21600773,4,10:20,nan,Luwawu-Cabarrot P.FOUL (P2.T2) (E.Malloy),nan,1627789,Timothe Luwawu-Cabarrot,PHI,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+248699,21600773,4,10:14,MISS Smith 6' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248700,21600773,4,10:13,Baynes REBOUND (Off:2 Def:3),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248701,21600773,4,10:12,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248702,21600773,4,10:11,Baynes REBOUND (Off:3 Def:3),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248703,21600773,4,10:10,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248704,21600773,4,10:10,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:2),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248705,21600773,4,9:45,nan,MISS Okafor 8' Turnaround Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248706,21600773,4,9:45,Harris REBOUND (Off:0 Def:5),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248707,21600773,4,9:42,Johnson 1' Layup (6 PTS) (Smith 4 AST),nan,73 - 95,1626169,Stanley Johnson,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+248708,21600773,4,9:42,nan,Stauskas S.FOUL (P2.T3) (M.Ayotte),nan,203917,Nik Stauskas,PHI,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+248709,21600773,4,9:42,MISS Johnson Free Throw 1 of 1,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+248710,21600773,4,9:42,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248711,21600773,4,9:42,Baynes L.B.FOUL (P2.T1) (E.Malloy),nan,nan,203382,Aron Baynes,DET,203967,Dario Saric,PHI,0,nan,nan,Foul ,Loose Ball
+248712,21600773,4,9:30,Baynes BLOCK (1 BLK),MISS Okafor 6' Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,203382,Aron Baynes,DET,Missed Shot ,nan
+248713,21600773,4,9:29,Johnson REBOUND (Off:1 Def:5),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248714,21600773,4,9:25,Johnson Lost Ball Turnover (P3.T11),Stauskas STEAL (1 STL),nan,1626169,Stanley Johnson,DET,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Lost Ball
+248715,21600773,4,9:18,nan,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248716,21600773,4,9:17,Harris REBOUND (Off:0 Def:6),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248717,21600773,4,9:11,nan,Rodriguez P.FOUL (P2.T4) (M.Ayotte),nan,200771,Sergio Rodriguez,PHI,202397,Ish Smith,DET,0,nan,nan,Foul ,Personal
+248718,21600773,4,9:11,nan,SUB: Noel FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+248719,21600773,4,9:11,nan,SUB: Ilyasova FOR Saric,nan,203967,Dario Saric,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+248720,21600773,4,9:03,MISS Smith 14' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248721,21600773,4,9:02,Baynes REBOUND (Off:4 Def:3),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248722,21600773,4,8:54,MISS Baynes 1' Layup,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248723,21600773,4,8:53,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:3),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248724,21600773,4,8:33,nan,MISS Ilyasova 28' 3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248725,21600773,4,8:33,Smith REBOUND (Off:0 Def:1),nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248726,21600773,4,8:23,MISS Harris 3' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248727,21600773,4,8:23,Harris REBOUND (Off:1 Def:6),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248728,21600773,4,8:20,MISS Harris 6' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248729,21600773,4,8:19,Harris REBOUND (Off:2 Def:6),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248730,21600773,4,8:14,MISS Johnson 25' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248731,21600773,4,8:14,nan,Rodriguez REBOUND (Off:0 Def:2),nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248732,21600773,4,8:08,nan,Rodriguez 1' Driving Layup (5 PTS),75 - 95,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248733,21600773,4,7:40,Harris 15' Jump Shot (7 PTS) (Baynes 1 AST),nan,75 - 97,202699,Tobias Harris,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+248734,21600773,4,7:40,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+248735,21600773,4,7:40,SUB: Drummond FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+248736,21600773,4,7:40,SUB: Jackson FOR Baynes,nan,nan,203382,Aron Baynes,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+248737,21600773,4,7:40,SUB: Leuer FOR Smith,nan,nan,202397,Ish Smith,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+248738,21600773,4,7:25,nan,Rodriguez 6' Pullup Bank Shot (7 PTS),77 - 97,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248739,21600773,4,7:08,Harris Bad Pass Turnover (P3.T12),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+248740,21600773,4,6:52,Drummond STEAL (2 STL),Rodriguez Bad Pass Turnover (P1.T9),nan,200771,Sergio Rodriguez,PHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+248741,21600773,4,6:43,Leuer 1' Layup (12 PTS) (Drummond 1 AST),nan,77 - 99,202720,Jon Leuer,DET,203083,Andre Drummond,DET,0,nan,nan,Made Shot ,nan
+248742,21600773,4,6:33,nan,Rodriguez 27' 3PT Jump Shot (10 PTS),80 - 99,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248743,21600773,4,6:17,Drummond Bad Pass Turnover (P1.T13),Stauskas STEAL (2 STL),nan,203083,Andre Drummond,DET,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Bad Pass
+248744,21600773,4,6:13,nan,Luwawu-Cabarrot 1' Layup (8 PTS) (Stauskas 2 AST),82 - 99,1627789,Timothe Luwawu-Cabarrot,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+248745,21600773,4,6:13,Leuer S.FOUL (P5.T2) (S.Twardoski),nan,nan,202720,Jon Leuer,DET,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Foul ,Shooting
+248746,21600773,4,6:13,SUB: Marc Morris FOR Leuer,nan,nan,202720,Jon Leuer,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+248747,21600773,4,6:13,nan,SUB: Holmes FOR Noel,nan,203457,Nerlens Noel,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+248748,21600773,4,6:13,nan,Luwawu-Cabarrot Free Throw 1 of 1 (9 PTS),83 - 99,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+248749,21600773,4,5:57,MISS Drummond 5' Jump Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248750,21600773,4,5:56,Johnson REBOUND (Off:2 Def:5),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248751,21600773,4,5:52,Johnson  Tip Layup Shot (8 PTS),nan,83 - 101,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+248752,21600773,4,5:47,nan,MISS Rodriguez 24' 3PT Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248753,21600773,4,5:47,Drummond REBOUND (Off:1 Def:14),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248754,21600773,4,5:44,Harris  Dunk (9 PTS) (Johnson 1 AST),nan,83 - 103,202699,Tobias Harris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+248755,21600773,4,5:44,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+248756,21600773,4,5:31,nan,MISS Ilyasova  3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248757,21600773,4,5:31,Johnson REBOUND (Off:2 Def:6),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248758,21600773,4,5:16,MISS Johnson 6' Running Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248759,21600773,4,5:15,Marc Morris REBOUND (Off:3 Def:5),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248760,21600773,4,5:14,MISS Marc Morris 1' Tip Layup Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248761,21600773,4,5:13,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248762,21600773,4,5:13,nan,SUB: Randle FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Substitution ,nan
+248763,21600773,4,5:10,Drummond  Dunk (12 PTS) (Marc Morris 3 AST),nan,83 - 105,203083,Andre Drummond,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+248764,21600773,4,4:51,nan,Ilyasova 18' Jump Shot (3 PTS) (Randle 1 AST),85 - 105,101141,Ersan Ilyasova,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Made Shot ,nan
+248765,21600773,4,4:23,MISS Jackson 24' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248766,21600773,4,4:23,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:4),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248767,21600773,4,4:09,nan,Randle 1' Driving Layup (2 PTS) (Holmes 1 AST),87 - 105,1626184,Chasson Randle,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Made Shot ,nan
+248768,21600773,4,4:09,Jackson S.FOUL (P3.T3) (E.Malloy),nan,nan,202704,Reggie Jackson,DET,1626184,Chasson Randle,PHI,0,nan,nan,Foul ,Shooting
+248769,21600773,4,4:09,nan,SUB: Saric FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+248770,21600773,4,4:09,nan,Randle Free Throw 1 of 1 (3 PTS),88 - 105,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+248771,21600773,4,3:51,MISS Harris 8' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248772,21600773,4,3:50,Drummond REBOUND (Off:2 Def:14),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248773,21600773,4,3:47,Drummond  Tip Layup Shot (14 PTS),nan,88 - 107,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+248774,21600773,4,3:41,Drummond STEAL (3 STL),Randle Bad Pass Turnover (P1.T10),nan,1626184,Chasson Randle,PHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+248775,21600773,4,3:35,MISS Harris 4' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248776,21600773,4,3:35,nan,Saric REBOUND (Off:2 Def:2),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248777,21600773,4,3:35,nan,Saric Bad Pass Turnover (P1.T11),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+248778,21600773,4,3:21,Drummond 1' Alley Oop Layup (16 PTS) (Jackson 6 AST),nan,88 - 109,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+248779,21600773,4,3:06,nan,Holmes 18' Jump Shot (2 PTS) (Stauskas 3 AST),90 - 109,1626158,Richaun Holmes,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+248780,21600773,4,2:53,MISS Jackson 9' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248781,21600773,4,2:53,Drummond REBOUND (Off:3 Def:14),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248782,21600773,4,2:49,MISS Drummond 4' Jump Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248783,21600773,4,2:49,Jackson REBOUND (Off:1 Def:1),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248784,21600773,4,2:47,MISS Jackson 2' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248785,21600773,4,2:47,nan,Holmes REBOUND (Off:0 Def:1),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248786,21600773,4,2:47,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+248787,21600773,4,2:47,Jackson P.FOUL (P4.T4) (M.Ayotte),nan,nan,202704,Reggie Jackson,DET,1626158,Richaun Holmes,PHI,0,nan,nan,Foul ,Personal
+248788,21600773,4,2:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+248789,21600773,4,2:47,SUB: Smith FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+248790,21600773,4,2:47,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+248791,21600773,4,2:47,SUB: Gbinije FOR Jackson,nan,nan,202704,Reggie Jackson,DET,1627771,Michael Gbinije,DET,0,nan,nan,Substitution ,nan
+248792,21600773,4,2:33,nan,Stauskas 1' Driving Layup (4 PTS),92 - 109,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248793,21600773,4,2:12,MISS Johnson 8' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248794,21600773,4,2:12,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:5),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248795,21600773,4,2:05,nan,MISS Saric 7' Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248796,21600773,4,2:04,nan,Holmes REBOUND (Off:1 Def:1),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248797,21600773,4,2:00,nan,MISS Holmes 4' Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248798,21600773,4,2:00,nan,Saric REBOUND (Off:3 Def:2),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248799,21600773,4,1:57,nan,Saric 1' Layup (13 PTS),94 - 109,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+248800,21600773,4,1:34,MISS Smith 5' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248801,21600773,4,1:34,nan,Saric REBOUND (Off:3 Def:3),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248802,21600773,4,1:27,nan,MISS Stauskas 27' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+248803,21600773,4,1:26,nan,Holmes REBOUND (Off:2 Def:1),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+248804,21600773,4,1:17,Smith P.FOUL (P1.PN) (M.Ayotte),nan,nan,202397,Ish Smith,DET,1626184,Chasson Randle,PHI,0,nan,nan,Foul ,Personal
+248805,21600773,4,1:17,nan,Randle Free Throw 1 of 2 (4 PTS),95 - 109,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+248806,21600773,4,1:17,nan,Randle Free Throw 2 of 2 (5 PTS),96 - 109,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+248807,21600773,4,0:58,nan,Saric S.FOUL (P3.PN) (E.Malloy),nan,203967,Dario Saric,PHI,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+248808,21600773,4,0:58,Baynes Free Throw 1 of 2 (11 PTS),nan,96 - 110,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+248809,21600773,4,0:58,Baynes Free Throw 2 of 2 (12 PTS),nan,96 - 111,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+248810,21600773,4,0:42,Johnson STEAL (1 STL),Saric Bad Pass Turnover (P2.T12),nan,203967,Dario Saric,PHI,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+248811,21600773,4,0:23,Smith 1' Driving Layup (11 PTS),nan,96 - 113,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+248812,21600773,4,0:12,Smith STEAL (1 STL),Holmes Bad Pass Turnover (P1.T13),nan,1626158,Richaun Holmes,PHI,202397,Ish Smith,DET,0,nan,nan,Turnover ,Bad Pass
+248813,21600773,4,0:00,nan,nan,96 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+113498,21500905,4,12:00,nan,nan,65 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+113499,21500905,4,11:54,nan,Baynes P.FOUL (P3.T1) (K.Lane),nan,203382,Aron Baynes,DET,2561,David West,SAS,0,nan,nan,Foul ,Personal
+113500,21500905,4,11:44,MISS Mills 24' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113501,21500905,4,11:44,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113502,21500905,4,11:32,nan,MISS Hilliard 5' Floating Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113503,21500905,4,11:32,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113504,21500905,4,11:32,Green L.B.FOUL (P2.T1) (K.Lane),nan,nan,201980,Danny Green,SAS,203382,Aron Baynes,DET,0,nan,nan,Foul ,Loose Ball
+113505,21500905,4,11:21,Green BLOCK (2 BLK),MISS Baynes 8' Jump Shot,nan,203382,Aron Baynes,DET,0,nan,nan,201980,Danny Green,SAS,Missed Shot ,nan
+113506,21500905,4,11:19,A. Miller REBOUND (Off:1 Def:1),nan,nan,1889,Andre Miller,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113507,21500905,4,10:58,Mills 19' Pullup Jump Shot (7 PTS) (A. Miller 1 AST),nan,65 - 81,201988,Patty Mills,SAS,1889,Andre Miller,SAS,0,nan,nan,Made Shot ,nan
+113508,21500905,4,10:50,Diaw P.FOUL (P1.T2) (J.Goble),nan,nan,2564,Boris Diaw,SAS,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+113509,21500905,4,10:36,A. Miller S.FOUL (P1.T3) (J.Goble),nan,nan,1889,Andre Miller,SAS,203493,Reggie Bullock,DET,0,nan,nan,Foul ,Shooting
+113510,21500905,4,10:36,nan,Bullock Free Throw 1 of 3 (6 PTS),66 - 81,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+113511,21500905,4,10:36,nan,MISS Bullock Free Throw 2 of 3,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+113512,21500905,4,10:36,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113513,21500905,4,10:36,nan,Bullock Free Throw 3 of 3 (7 PTS),67 - 81,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+113514,21500905,4,10:11,MISS West 21' Jump Shot,nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113515,21500905,4,10:11,nan,Bullock REBOUND (Off:0 Def:4),nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113516,21500905,4,9:52,nan,MISS Marc Morris 1' Driving Reverse Layup,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113517,21500905,4,9:51,nan,Baynes REBOUND (Off:1 Def:3),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113518,21500905,4,9:47,nan,Baynes 1' Tip Layup Shot (12 PTS),69 - 81,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+113519,21500905,4,9:33,MISS Diaw 13' Jump Shot,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113520,21500905,4,9:32,nan,Baynes REBOUND (Off:1 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113521,21500905,4,9:23,nan,Hilliard 24' 3PT Jump Shot (3 PTS) (Blake 4 AST),72 - 81,1626199,Darrun Hilliard,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+113522,21500905,4,9:23,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+113523,21500905,4,9:23,SUB: Anderson FOR Green,nan,nan,201980,Danny Green,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+113524,21500905,4,9:23,SUB: Leonard FOR Diaw,nan,nan,2564,Boris Diaw,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+113525,21500905,4,8:58,West 3' Driving Finger Roll Layup (4 PTS),nan,72 - 83,2561,David West,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+113526,21500905,4,8:31,Anderson BLOCK (1 BLK),MISS Blake 35' 3PT Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,203937,Kyle Anderson,SAS,Missed Shot ,nan
+113527,21500905,4,8:31,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113528,21500905,4,8:31,nan,Pistons Turnover: Shot Clock (T#14),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+113529,21500905,4,8:08,Leonard 15' Turnaround Jump Shot (21 PTS),nan,72 - 85,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+113530,21500905,4,8:00,Anderson P.FOUL (P1.T4) (E.Lewis),nan,nan,203937,Kyle Anderson,SAS,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+113531,21500905,4,8:00,nan,SUB: Harris FOR Baynes,nan,203382,Aron Baynes,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+113532,21500905,4,8:00,nan,SUB: Jackson FOR Blake,nan,2581,Steve Blake,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+113533,21500905,4,8:00,nan,SUB: Drummond FOR Hilliard,nan,1626199,Darrun Hilliard,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+113534,21500905,4,8:00,SUB: Green FOR A. Miller,nan,nan,1889,Andre Miller,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+113535,21500905,4,8:00,SUB: Aldridge FOR West,nan,nan,2561,David West,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+113536,21500905,4,7:54,Leonard STEAL (2 STL),Jackson Bad Pass Turnover (P4.T15),nan,202704,Reggie Jackson,DET,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+113537,21500905,4,7:50,Leonard  Running Dunk (23 PTS),nan,72 - 87,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+113538,21500905,4,7:47,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+113539,21500905,4,7:47,nan,SUB: Caldwell-Pope FOR Bullock,nan,203493,Reggie Bullock,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+113540,21500905,4,7:47,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+113541,21500905,4,7:40,nan,MISS Marc Morris 26' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113542,21500905,4,7:39,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113543,21500905,4,7:28,Anderson BLOCK (2 BLK),MISS Marc Morris 2' Layup,nan,202694,Marcus Morris,DET,0,nan,nan,203937,Kyle Anderson,SAS,Missed Shot ,nan
+113544,21500905,4,7:28,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113545,21500905,4,7:20,nan,Jackson 12' Floating Jump Shot (11 PTS),74 - 87,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+113546,21500905,4,7:01,nan,Drummond Personal Block Foul (P4.T2) (J.Goble),nan,203083,Andre Drummond,DET,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal Block
+113547,21500905,4,6:43,MISS Leonard 25' 3PT Pullup Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113548,21500905,4,6:43,nan,Caldwell-Pope REBOUND (Off:0 Def:2),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113549,21500905,4,6:32,nan,MISS Marc Morris  3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113550,21500905,4,6:31,Aldridge REBOUND (Off:0 Def:10),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113551,21500905,4,6:18,MISS Anderson 17' Turnaround Jump Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113552,21500905,4,6:18,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113553,21500905,4,6:03,nan,MISS Harris 11' Fadeaway Jumper,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113554,21500905,4,6:02,Leonard REBOUND (Off:0 Def:6),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113555,21500905,4,5:40,Aldridge 18' Jump Shot (23 PTS) (Leonard 5 AST),nan,74 - 89,200746,LaMarcus Aldridge,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+113556,21500905,4,5:18,nan,Marc Morris 1' Layup (14 PTS),76 - 89,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+113557,21500905,4,4:54,nan,Harris S.FOUL (P1.T3) (K.Lane),nan,202699,Tobias Harris,DET,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Shooting
+113558,21500905,4,4:54,Anderson Free Throw 1 of 2 (6 PTS),nan,76 - 90,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113559,21500905,4,4:54,Anderson Free Throw 2 of 2 (7 PTS),nan,76 - 91,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113560,21500905,4,4:46,Anderson P.FOUL (P2.PN) (K.Lane),nan,nan,203937,Kyle Anderson,SAS,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+113561,21500905,4,4:46,nan,Marc Morris Free Throw 1 of 2 (15 PTS),77 - 91,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113562,21500905,4,4:46,SUB: Butler FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+113563,21500905,4,4:46,nan,Marc Morris Free Throw 2 of 2 (16 PTS),78 - 91,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113564,21500905,4,4:30,Leonard 8' Fadeaway Jumper (25 PTS) (Aldridge 3 AST),nan,78 - 93,202695,Kawhi Leonard,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+113565,21500905,4,4:11,nan,Drummond  Dunk (9 PTS) (Marc Morris 2 AST),80 - 93,203083,Andre Drummond,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+113566,21500905,4,3:47,Leonard 7' Hook Shot (27 PTS) (Parker 4 AST),nan,80 - 95,202695,Kawhi Leonard,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+113567,21500905,4,3:31,nan,MISS Harris 1' Layup,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113568,21500905,4,3:30,Parker REBOUND (Off:0 Def:3),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113569,21500905,4,3:15,MISS Aldridge 16' Pullup Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113570,21500905,4,3:15,nan,Jackson REBOUND (Off:0 Def:2),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113571,21500905,4,3:07,nan,MISS Jackson 16' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113572,21500905,4,3:06,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113573,21500905,4,3:06,SUB: West FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,2561,David West,SAS,0,nan,nan,Substitution ,nan
+113574,21500905,4,2:51,MISS Leonard 25' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113575,21500905,4,2:50,nan,Jackson REBOUND (Off:0 Def:3),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113576,21500905,4,2:45,nan,MISS Jackson 2' Running Layup,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113577,21500905,4,2:43,West REBOUND (Off:0 Def:1),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113578,21500905,4,2:33,Green Out of Bounds Lost Ball Turnover (P1.T8),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+113579,21500905,4,2:33,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+113580,21500905,4,2:33,SUB: Simmons FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+113581,21500905,4,2:33,SUB: A. Miller FOR Green,nan,nan,201980,Danny Green,SAS,1889,Andre Miller,SAS,0,nan,nan,Substitution ,nan
+113582,21500905,4,2:33,SUB: Anderson FOR Parker,nan,nan,2225,Tony Parker,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+113583,21500905,4,2:18,A. Miller S.FOUL (P2.PN) (K.Lane),nan,nan,1889,Andre Miller,SAS,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+113584,21500905,4,2:18,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113585,21500905,4,2:18,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+113586,21500905,4,2:18,nan,MISS Drummond Free Throw 2 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113587,21500905,4,2:17,West REBOUND (Off:0 Def:2),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113588,21500905,4,1:50,MISS Anderson 5' Turnaround Fadeaway Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113589,21500905,4,1:47,nan,Drummond REBOUND (Off:4 Def:10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113590,21500905,4,1:46,Anderson P.FOUL (P3.PN) (E.Lewis),nan,nan,203937,Kyle Anderson,SAS,202699,Tobias Harris,DET,0,nan,nan,Foul ,Personal
+113591,21500905,4,1:46,nan,Harris Free Throw 1 of 2 (16 PTS),81 - 95,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+113592,21500905,4,1:46,nan,SUB: Blake FOR Marc Morris,nan,202694,Marcus Morris,DET,2581,Steve Blake,DET,0,nan,nan,Substitution ,nan
+113593,21500905,4,1:46,nan,SUB: Bullock FOR Drummond,nan,203083,Andre Drummond,DET,203493,Reggie Bullock,DET,0,nan,nan,Substitution ,nan
+113594,21500905,4,1:46,nan,SUB: Baynes FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+113595,21500905,4,1:46,nan,SUB: Hilliard FOR Jackson,nan,202704,Reggie Jackson,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+113596,21500905,4,1:46,SUB: Marjanovic FOR West,nan,nan,2561,David West,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+113597,21500905,4,1:46,nan,MISS Harris Free Throw 2 of 2,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+113598,21500905,4,1:45,Anderson REBOUND (Off:0 Def:4),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113599,21500905,4,1:23,MISS Butler  3PT Jump Shot,nan,nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113600,21500905,4,1:22,Marjanovic REBOUND (Off:1 Def:0),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113601,21500905,4,1:10,Simmons 1' Driving Finger Roll Layup (2 PTS) (A. Miller 2 AST),nan,81 - 97,203613,Jonathon Simmons,SAS,1889,Andre Miller,SAS,0,nan,nan,Made Shot ,nan
+113602,21500905,4,0:53,nan,MISS Hilliard 25' 3PT Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113603,21500905,4,0:52,nan,Baynes REBOUND (Off:2 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113604,21500905,4,0:35,Marjanovic BLOCK (1 BLK),MISS Blake 16' Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,1626246,Boban Marjanovic,SAS,Missed Shot ,nan
+113605,21500905,4,0:33,Anderson REBOUND (Off:0 Def:5),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113606,21500905,4,0:20,MISS Anderson 1' Reverse Layup,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+113607,21500905,4,0:20,nan,Bullock REBOUND (Off:0 Def:5),nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+113608,21500905,4,0:05,Butler STEAL (1 STL),Blake Bad Pass Turnover (P2.T16),nan,2581,Steve Blake,DET,2446,Rasual Butler,SAS,0,nan,nan,Turnover ,Bad Pass
+113609,21500905,4,0:00,nan,nan,81 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

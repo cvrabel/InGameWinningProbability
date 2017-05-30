@@ -1,0 +1,154 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+189450,21600291,4,12:00,nan,nan,72 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+189451,21600291,4,11:49,Terry S.FOUL (P1.T1) (M.Boland),nan,nan,1891,Jason Terry,MIL,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+189452,21600291,4,11:49,nan,Lopez Free Throw 1 of 2 (5 PTS),73 - 75,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189453,21600291,4,11:49,nan,Lopez Free Throw 2 of 2 (6 PTS),74 - 75,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189454,21600291,4,11:35,Beasley Lost Ball Turnover (P2.T12),Hollis-Jefferson STEAL (3 STL),nan,201563,Michael Beasley,MIL,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Turnover ,Lost Ball
+189455,21600291,4,11:33,Beasley S.FOUL (P2.T2) (L.Wood),nan,nan,201563,Michael Beasley,MIL,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+189456,21600291,4,11:33,nan,MISS Hollis-Jefferson Free Throw 1 of 2,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189457,21600291,4,11:33,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189458,21600291,4,11:33,nan,MISS Hollis-Jefferson Free Throw 2 of 2,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189459,21600291,4,11:33,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189460,21600291,4,11:33,nan,Lopez L.B.FOUL (P3.T1) (K.Fitzgerald),nan,201572,Brook Lopez,BKN,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Loose Ball
+189461,21600291,4,11:33,nan,SUB: Scola FOR Lopez,nan,201572,Brook Lopez,BKN,2449,Luis Scola,BKN,0,nan,nan,Substitution ,nan
+189462,21600291,4,11:20,MISS Teletovic 26' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189463,21600291,4,11:19,Monroe REBOUND (Off:2 Def:5),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189464,21600291,4,11:18,Monroe 1' Driving Layup (10 PTS),nan,74 - 77,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189465,21600291,4,11:18,nan,Scola S.FOUL (P1.T2) (L.Wood),nan,2449,Luis Scola,BKN,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+189466,21600291,4,11:18,Monroe Free Throw 1 of 1 (11 PTS),nan,74 - 78,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+189467,21600291,4,11:08,nan,MISS Harris 1' Layup,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189468,21600291,4,11:07,nan,Scola REBOUND (Off:1 Def:1),nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189469,21600291,4,11:07,nan,Scola 1' Tip Layup Shot (5 PTS),76 - 78,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189470,21600291,4,10:48,MISS Monroe 16' Jump Shot,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189471,21600291,4,10:47,nan,Foye REBOUND (Off:0 Def:2),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189472,21600291,4,10:35,nan,Harris 26' 3PT Jump Shot (12 PTS),79 - 78,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189473,21600291,4,10:20,Teletovic 27' 3PT Jump Shot (7 PTS) (Brogdon 4 AST),nan,79 - 81,203141,Mirza Teletovic,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+189474,21600291,4,10:00,nan,Harris 24' 3PT Jump Shot (15 PTS) (Foye 1 AST),82 - 81,203925,Joe Harris,BKN,200751,Randy Foye,BKN,0,nan,nan,Made Shot ,nan
+189475,21600291,4,9:48,nan,Hollis-Jefferson S.FOUL (P3.T3) (M.Boland),nan,1626178,Rondae Hollis-Jefferson,BKN,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+189476,21600291,4,9:48,Monroe Free Throw 1 of 2 (12 PTS),nan,82 - 82,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189477,21600291,4,9:48,Monroe Free Throw 2 of 2 (13 PTS),nan,82 - 83,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189478,21600291,4,9:31,nan,MISS Scola  3PT Jump Shot,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189479,21600291,4,9:30,Teletovic REBOUND (Off:0 Def:2),nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189480,21600291,4,9:20,Beasley 7' Fadeaway Jumper (5 PTS),nan,82 - 85,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189481,21600291,4,9:00,nan,Hollis-Jefferson 1' Layup (5 PTS),84 - 85,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189482,21600291,4,9:00,Beasley S.FOUL (P3.T3) (L.Wood),nan,nan,201563,Michael Beasley,MIL,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+189483,21600291,4,9:00,SUB: Antetokounmpo FOR Terry,nan,nan,1891,Jason Terry,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+189484,21600291,4,9:00,SUB: Parker FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+189485,21600291,4,9:00,nan,MISS Hollis-Jefferson Free Throw 1 of 1,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+189486,21600291,4,8:57,nan,Scola REBOUND (Off:2 Def:1),nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189487,21600291,4,8:57,nan,Scola 1' Tip Layup Shot (7 PTS),86 - 85,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189488,21600291,4,8:36,MISS Antetokounmpo 11' Turnaround Fadeaway Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189489,21600291,4,8:36,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189490,21600291,4,8:36,Beasley L.B.FOUL (P4.T4) (M.Boland),nan,nan,201563,Michael Beasley,MIL,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Loose Ball
+189491,21600291,4,8:36,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+189492,21600291,4,8:36,SUB: Dellavedova FOR Beasley,nan,nan,201563,Michael Beasley,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+189493,21600291,4,8:36,nan,SUB: Bogdanovic FOR Hamilton,nan,203120,Justin Hamilton,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+189494,21600291,4,8:13,nan,MISS Hollis-Jefferson 15' Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189495,21600291,4,8:11,Antetokounmpo REBOUND (Off:1 Def:7),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189496,21600291,4,7:52,Dellavedova 7' Floating Jump Shot (8 PTS),nan,86 - 87,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189497,21600291,4,7:40,nan,MISS Foye 25' 3PT Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189498,21600291,4,7:39,nan,Hollis-Jefferson REBOUND (Off:1 Def:6),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189499,21600291,4,7:30,Monroe S.FOUL (P4.PN) (K.Fitzgerald),nan,nan,202328,Greg Monroe,MIL,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Shooting
+189500,21600291,4,7:30,nan,Bogdanovic Free Throw 1 of 2 (20 PTS),87 - 87,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189501,21600291,4,7:30,SUB: Henson FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+189502,21600291,4,7:30,nan,SUB: Bennett FOR Foye,nan,200751,Randy Foye,BKN,203461,Anthony Bennett,BKN,0,nan,nan,Substitution ,nan
+189503,21600291,4,7:30,nan,SUB: Kilpatrick FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+189504,21600291,4,7:30,nan,Bogdanovic Free Throw 2 of 2 (21 PTS),88 - 87,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189505,21600291,4,7:18,MISS Henson 5' Hook Shot,nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189506,21600291,4,7:17,nan,Bennett REBOUND (Off:4 Def:10),nan,203461,Anthony Bennett,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189507,21600291,4,7:07,nan,MISS Bennett 25' 3PT Jump Shot,nan,203461,Anthony Bennett,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189508,21600291,4,7:07,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189509,21600291,4,7:07,nan,SUB: Whitehead FOR Harris,nan,203925,Joe Harris,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+189510,21600291,4,7:07,nan,SUB: Lopez FOR Scola,nan,2449,Luis Scola,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+189511,21600291,4,6:55,MISS Teletovic 27' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189512,21600291,4,6:54,nan,Whitehead REBOUND (Off:0 Def:3),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189513,21600291,4,6:37,nan,MISS Whitehead 28' 3PT Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189514,21600291,4,6:35,Teletovic REBOUND (Off:0 Def:3),nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189515,21600291,4,6:29,Dellavedova  Driving Layup (10 PTS),nan,88 - 89,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189516,21600291,4,6:18,Antetokounmpo BLOCK (3 BLK),MISS Bogdanovic  Layup,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+189517,21600291,4,6:16,Parker REBOUND (Off:1 Def:5),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189518,21600291,4,6:13,nan,Whitehead S.FOUL (P2.T4) (K.Fitzgerald),nan,1627785,Isaiah Whitehead,BKN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+189519,21600291,4,6:13,MISS Antetokounmpo Free Throw 1 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189520,21600291,4,6:13,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189521,21600291,4,6:13,Antetokounmpo Free Throw 2 of 2 (12 PTS),nan,88 - 90,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189522,21600291,4,5:52,nan,Lopez 25' 3PT Jump Shot (9 PTS) (Bogdanovic 3 AST),91 - 90,201572,Brook Lopez,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Made Shot ,nan
+189523,21600291,4,5:33,Henson  Layup (14 PTS) (Antetokounmpo 5 AST),nan,91 - 92,203089,John Henson,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+189524,21600291,4,5:20,nan,Lopez 30' 3PT Jump Shot (12 PTS) (Kilpatrick 2 AST),94 - 92,201572,Brook Lopez,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+189525,21600291,4,5:02,nan,Whitehead S.FOUL (P3.PN) (L.Wood),nan,1627785,Isaiah Whitehead,BKN,203089,John Henson,MIL,0,nan,nan,Foul ,Shooting
+189526,21600291,4,5:02,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189527,21600291,4,5:02,nan,SUB: Harris FOR Bennett,nan,203461,Anthony Bennett,BKN,203925,Joe Harris,BKN,0,nan,nan,Substitution ,nan
+189528,21600291,4,5:02,nan,SUB: Hollis-Jefferson FOR Whitehead,nan,1627785,Isaiah Whitehead,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+189529,21600291,4,5:02,SUB: Snell FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+189530,21600291,4,5:02,Henson Free Throw 1 of 2 (15 PTS),nan,94 - 93,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189531,21600291,4,5:02,Henson Free Throw 2 of 2 (16 PTS),nan,94 - 94,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189532,21600291,4,4:48,nan,MISS Lopez 7' Hook Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189533,21600291,4,4:47,Parker REBOUND (Off:1 Def:6),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189534,21600291,4,4:35,MISS Dellavedova 29' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189535,21600291,4,4:34,Parker REBOUND (Off:2 Def:6),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189536,21600291,4,4:33,nan,Harris S.FOUL (P1.PN) (L.Wood),nan,203925,Joe Harris,BKN,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting
+189537,21600291,4,4:33,Parker Free Throw 1 of 2 (14 PTS),nan,94 - 95,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189538,21600291,4,4:33,MISS Parker Free Throw 2 of 2,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189539,21600291,4,4:32,nan,Hollis-Jefferson REBOUND (Off:1 Def:7),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189540,21600291,4,4:12,Henson BLOCK (1 BLK),MISS Bogdanovic 14' Fadeaway Jumper,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+189541,21600291,4,4:12,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189542,21600291,4,4:12,nan,Nets Timeout: Regular (Reg.4 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189543,21600291,4,4:08,nan,MISS Lopez 30' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189544,21600291,4,4:06,Snell REBOUND (Off:0 Def:3),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189545,21600291,4,3:51,Dellavedova 8' Pullup Jump Shot (12 PTS),nan,94 - 97,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189546,21600291,4,3:30,Antetokounmpo BLOCK (4 BLK),MISS Lopez 4' Driving Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+189547,21600291,4,3:26,Antetokounmpo REBOUND (Off:1 Def:8),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189548,21600291,4,3:19,MISS Snell 26' 3PT Jump Shot,nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189549,21600291,4,3:17,nan,Hollis-Jefferson REBOUND (Off:1 Def:8),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189550,21600291,4,3:04,nan,MISS Kilpatrick 15' Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189551,21600291,4,3:02,Henson REBOUND (Off:1 Def:5),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189552,21600291,4,2:42,Antetokounmpo 7' Hook Shot (14 PTS),nan,94 - 99,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189553,21600291,4,2:41,nan,Nets Timeout: Regular (Reg.5 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189554,21600291,4,2:29,Antetokounmpo S.FOUL (P4.PN) (K.Fitzgerald),nan,nan,203507,Giannis Antetokounmpo,MIL,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+189555,21600291,4,2:29,nan,MISS Lopez Free Throw 1 of 2,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189556,21600291,4,2:29,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189557,21600291,4,2:29,nan,Lopez Free Throw 2 of 2 (13 PTS),95 - 99,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189558,21600291,4,2:10,Henson  Dunk (18 PTS) (Antetokounmpo 6 AST),nan,95 - 101,203089,John Henson,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+189559,21600291,4,1:52,Henson BLOCK (2 BLK),MISS Lopez  Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+189560,21600291,4,1:50,Henson REBOUND (Off:1 Def:6),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189561,21600291,4,1:43,nan,Harris Shooting Block Foul (P2.PN) (K.Fitzgerald),nan,203925,Joe Harris,BKN,203521,Matthew Dellavedova,MIL,0,nan,nan,Foul ,Shooting Block
+189562,21600291,4,1:43,Dellavedova Free Throw 1 of 2 (13 PTS),nan,95 - 102,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189563,21600291,4,1:43,nan,SUB: Foye FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+189564,21600291,4,1:43,Dellavedova Free Throw 2 of 2 (14 PTS),nan,95 - 103,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189565,21600291,4,1:33,Antetokounmpo BLOCK (5 BLK),MISS Kilpatrick 2' Driving Layup,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+189566,21600291,4,1:32,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189567,21600291,4,1:19,nan,Harris 4' Driving Floating Jump Shot (17 PTS) (Kilpatrick 3 AST),97 - 103,203925,Joe Harris,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+189568,21600291,4,1:08,nan,Harris Shooting Block Foul (P3.PN) (L.Wood),nan,203925,Joe Harris,BKN,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting Block
+189569,21600291,4,1:08,MISS Parker Free Throw 1 of 2,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189570,21600291,4,1:08,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189571,21600291,4,1:08,Parker Free Throw 2 of 2 (15 PTS),nan,97 - 104,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189572,21600291,4,0:57,Snell P.FOUL (P4.PN) (M.Boland),nan,nan,203503,Tony Snell,MIL,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Personal
+189573,21600291,4,0:57,nan,MISS Kilpatrick Free Throw 1 of 2,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189574,21600291,4,0:57,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189575,21600291,4,0:57,nan,SUB: Hollis-Jefferson FOR Foye,nan,200751,Randy Foye,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+189576,21600291,4,0:57,nan,Kilpatrick Free Throw 2 of 2 (17 PTS),98 - 104,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189577,21600291,4,0:37,Dellavedova 6' Driving Floating Jump Shot (16 PTS),nan,98 - 106,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189578,21600291,4,0:37,nan,Nets Timeout: Regular (Reg.6 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189579,21600291,4,0:36,nan,SUB: Foye FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+189580,21600291,4,0:31,nan,MISS Bogdanovic 1' Driving Layup,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189581,21600291,4,0:30,Antetokounmpo REBOUND (Off:1 Def:9),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189582,21600291,4,0:30,nan,Foye P.FOUL (P3.PN) (K.Fitzgerald),nan,200751,Randy Foye,BKN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+189583,21600291,4,0:30,Antetokounmpo Free Throw 1 of 2 (15 PTS),nan,98 - 107,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189584,21600291,4,0:30,MISS Antetokounmpo Free Throw 2 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189585,21600291,4,0:29,nan,Lopez REBOUND (Off:1 Def:3),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189586,21600291,4,0:23,nan,Kilpatrick 1' Running Layup (19 PTS),100 - 107,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189587,21600291,4,0:22,nan,Bogdanovic Personal Take Foul (P2.PN) (K.Fitzgerald),nan,202711,Bojan Bogdanovic,BKN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal Take
+189588,21600291,4,0:22,MISS Antetokounmpo Free Throw 1 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189589,21600291,4,0:22,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189590,21600291,4,0:22,Antetokounmpo Free Throw 2 of 2 (16 PTS),nan,100 - 108,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189591,21600291,4,0:07,nan,Bogdanovic 24' 3PT Jump Shot (24 PTS) (Foye 2 AST),103 - 108,202711,Bojan Bogdanovic,BKN,200751,Randy Foye,BKN,0,nan,nan,Made Shot ,nan
+189592,21600291,4,0:06,nan,Lopez Personal Take Foul (P4.PN) (L.Wood),nan,201572,Brook Lopez,BKN,203089,John Henson,MIL,0,nan,nan,Foul ,Personal Take
+189593,21600291,4,0:06,Henson Free Throw 1 of 2 (19 PTS),nan,103 - 109,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189594,21600291,4,0:06,Henson Free Throw 2 of 2 (20 PTS),nan,103 - 110,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189595,21600291,4,0:06,nan,Nets Timeout: Short (Reg.6 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+189596,21600291,4,0:03,Parker STEAL (2 STL),Foye Bad Pass Turnover (P1.T14),nan,200751,Randy Foye,BKN,203953,Jabari Parker,MIL,0,nan,nan,Turnover ,Bad Pass
+189597,21600291,4,0:03,nan,Lopez P.FOUL (P5.PN) (L.Wood),nan,201572,Brook Lopez,BKN,203521,Matthew Dellavedova,MIL,0,nan,nan,Foul ,Personal
+189598,21600291,4,0:03,Dellavedova Free Throw 1 of 2 (17 PTS),nan,103 - 111,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189599,21600291,4,0:03,Dellavedova Free Throw 2 of 2 (18 PTS),nan,103 - 112,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189600,21600291,4,0:00,nan,MISS Harris 27' 3PT Jump Shot,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189601,21600291,4,0:00,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189602,21600291,4,0:00,nan,nan,103 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

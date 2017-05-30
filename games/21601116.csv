@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+290332,21601116,4,12:00,nan,nan,79 - 96,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+290333,21601116,4,11:49,nan,George P.FOUL (P3.T1) (J.Tiven),nan,202331,Paul George,IND,203584,Troy Daniels,MEM,0,nan,nan,Foul ,Personal
+290334,21601116,4,11:44,nan,Young P.FOUL (P1.T2) (E.Lewis),nan,201152,Thaddeus Young,IND,201148,Brandan Wright,MEM,0,nan,nan,Foul ,Personal
+290335,21601116,4,11:31,Conley 26' 3PT Jump Shot (29 PTS) (Randolph 3 AST),nan,79 - 99,201144,Mike Conley,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+290336,21601116,4,11:13,nan,Miles 12' Jump Shot (10 PTS) (Brooks 1 AST),81 - 99,101139,CJ Miles,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+290337,21601116,4,10:50,Randolph 22' Jump Shot (17 PTS) (Conley 6 AST),nan,81 - 101,2216,Zach Randolph,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+290338,21601116,4,10:42,nan,MISS Brooks 25' 3PT Jump Shot,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290339,21601116,4,10:41,Ennis III REBOUND (Off:2 Def:4),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290340,21601116,4,10:25,MISS Randolph 16' Step Back Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290341,21601116,4,10:23,nan,Miles REBOUND (Off:0 Def:2),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290342,21601116,4,10:17,Ennis III STEAL (2 STL),Miles Lost Ball Turnover (P1.T10),nan,101139,CJ Miles,IND,203516,James Ennis III,MEM,0,nan,nan,Turnover ,Lost Ball
+290343,21601116,4,9:57,Conley 14' Turnaround Jump Shot (31 PTS),nan,81 - 103,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+290344,21601116,4,9:55,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290345,21601116,4,9:42,nan,MISS Miles  3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290346,21601116,4,9:41,Randolph REBOUND (Off:1 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290347,21601116,4,9:22,MISS Daniels 13' Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290348,21601116,4,9:21,nan,Young REBOUND (Off:6 Def:4),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290349,21601116,4,9:18,Ennis III P.FOUL (P4.T1) (R.Garretson),nan,nan,203516,James Ennis III,MEM,201166,Aaron Brooks,IND,0,nan,nan,Foul ,Personal
+290350,21601116,4,9:10,nan,MISS George 25' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290351,21601116,4,9:10,Ennis III REBOUND (Off:2 Def:5),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290352,21601116,4,9:01,MISS Conley 25' 3PT Pullup Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290353,21601116,4,8:59,nan,Young REBOUND (Off:6 Def:5),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290354,21601116,4,8:55,Wright P.FOUL (P2.T2) (E.Lewis),nan,nan,201148,Brandan Wright,MEM,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Personal
+290355,21601116,4,8:55,nan,SUB: Turner FOR Allen,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+290356,21601116,4,8:55,SUB: Carter FOR Ennis III,nan,nan,203516,James Ennis III,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+290357,21601116,4,8:41,nan,Young 1' Layup (16 PTS) (George 4 AST),83 - 103,201152,Thaddeus Young,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+290358,21601116,4,8:20,MISS Daniels 2' Layup,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290359,21601116,4,8:20,nan,Turner REBOUND (Off:0 Def:3),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290360,21601116,4,8:09,Wright BLOCK (2 BLK),MISS Miles 3' Layup,nan,101139,CJ Miles,IND,0,nan,nan,201148,Brandan Wright,MEM,Missed Shot ,nan
+290361,21601116,4,8:07,Conley REBOUND (Off:0 Def:2),nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290362,21601116,4,7:56,Conley  Driving Layup (33 PTS),nan,83 - 105,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+290363,21601116,4,7:37,nan,Miles 26' 3PT Jump Shot (13 PTS) (Turner 1 AST),86 - 105,101139,CJ Miles,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+290364,21601116,4,7:20,MISS Carter 27' 3PT Jump Shot,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290365,21601116,4,7:20,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290366,21601116,4,7:20,nan,Turner L.B.FOUL (P4.T3) (R.Garretson),nan,1626167,Myles Turner,IND,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+290367,21601116,4,7:20,nan,SUB: Ellis FOR Miles,nan,101139,CJ Miles,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+290368,21601116,4,7:20,SUB: Ennis III FOR Wright,nan,nan,201148,Brandan Wright,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+290369,21601116,4,7:20,SUB: Allen FOR Daniels,nan,nan,203584,Troy Daniels,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+290370,21601116,4,7:07,MISS Randolph 14' Step Back Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290371,21601116,4,7:04,Allen REBOUND (Off:3 Def:3),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290372,21601116,4,7:02,MISS Allen 2' Layup,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290373,21601116,4,7:01,Allen REBOUND (Off:4 Def:3),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290374,21601116,4,6:59,MISS Allen 1' Layup,George BLOCK (2 BLK),nan,2754,Tony Allen,MEM,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+290375,21601116,4,6:57,nan,Ellis REBOUND (Off:0 Def:3),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290376,21601116,4,6:53,nan,MISS George 27' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290377,21601116,4,6:51,Randolph REBOUND (Off:1 Def:5),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290378,21601116,4,6:35,Randolph Bad Pass Turnover (P3.T7),Brooks STEAL (1 STL),nan,2216,Zach Randolph,MEM,201166,Aaron Brooks,IND,0,nan,nan,Turnover ,Bad Pass
+290379,21601116,4,6:30,nan,MISS Brooks 1' Layup,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290380,21601116,4,6:28,Conley REBOUND (Off:0 Def:3),nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290381,21601116,4,6:23,MISS Allen 3' Layup,Turner BLOCK (1 BLK),nan,2754,Tony Allen,MEM,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+290382,21601116,4,6:19,Allen REBOUND (Off:5 Def:3),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290383,21601116,4,6:19,MISS Allen 1' Layup,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290384,21601116,4,6:18,nan,Young REBOUND (Off:6 Def:6),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290385,21601116,4,6:12,Conley STEAL (3 STL),Brooks Bad Pass Turnover (P2.T11),nan,201166,Aaron Brooks,IND,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Bad Pass
+290386,21601116,4,5:49,MISS Conley  3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290387,21601116,4,5:49,nan,Young REBOUND (Off:6 Def:7),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290388,21601116,4,5:41,nan,Pacers Timeout: Regular (Reg.5 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290389,21601116,4,5:41,nan,SUB: Seraphin FOR George,nan,202331,Paul George,IND,202338,Kevin Seraphin,IND,0,nan,nan,Substitution ,nan
+290390,21601116,4,5:41,nan,SUB: Miles FOR Young,nan,201152,Thaddeus Young,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+290391,21601116,4,5:41,SUB: Wright FOR Randolph,nan,nan,2216,Zach Randolph,MEM,201148,Brandan Wright,MEM,0,nan,nan,Substitution ,nan
+290392,21601116,4,5:26,Conley STEAL (4 STL),Miles Bad Pass Turnover (P2.T12),nan,101139,CJ Miles,IND,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Bad Pass
+290393,21601116,4,5:01,MISS Wright 18' Jump Shot,nan,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290394,21601116,4,5:01,nan,Turner REBOUND (Off:0 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290395,21601116,4,4:47,nan,MISS Seraphin 8' Turnaround Jump Shot,nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290396,21601116,4,4:45,Wright REBOUND (Off:0 Def:3),nan,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290397,21601116,4,4:28,MISS Conley 26' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290398,21601116,4,4:27,nan,Turner REBOUND (Off:0 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290399,21601116,4,4:17,Ennis III S.FOUL (P5.T3) (J.Tiven),nan,nan,203516,James Ennis III,MEM,101139,CJ Miles,IND,0,nan,nan,Foul ,Shooting
+290400,21601116,4,4:17,nan,Miles Free Throw 1 of 2 (14 PTS),87 - 105,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290401,21601116,4,4:17,nan,SUB: Christmas FOR Turner,nan,1626167,Myles Turner,IND,1626176,Rakeem Christmas,IND,0,nan,nan,Substitution ,nan
+290402,21601116,4,4:17,nan,Miles Free Throw 2 of 2 (15 PTS),88 - 105,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290403,21601116,4,4:02,nan,Brooks S.FOUL (P4.T4) (E.Lewis),nan,201166,Aaron Brooks,IND,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+290404,21601116,4,4:02,Conley Free Throw 1 of 3 (34 PTS),nan,88 - 106,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+290405,21601116,4,4:02,Conley Free Throw 2 of 3 (35 PTS),nan,88 - 107,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+290406,21601116,4,4:02,SUB: Selden FOR Carter,nan,nan,1713,Vince Carter,MEM,1627782,Wayne Selden,MEM,0,nan,nan,Substitution ,nan
+290407,21601116,4,4:02,Conley Free Throw 3 of 3 (36 PTS),nan,88 - 108,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+290408,21601116,4,3:45,nan,MISS Seraphin 5' Hook Shot,nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290409,21601116,4,3:44,Ennis III REBOUND (Off:2 Def:6),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290410,21601116,4,3:28,MISS Ennis III 2' Layup,Seraphin BLOCK (1 BLK),nan,203516,James Ennis III,MEM,0,nan,nan,202338,Kevin Seraphin,IND,Missed Shot ,nan
+290411,21601116,4,3:27,nan,Seraphin REBOUND (Off:0 Def:1),nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290412,21601116,4,3:20,nan,MISS Brooks 5' Jump Shot,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290413,21601116,4,3:19,nan,Christmas REBOUND (Off:1 Def:1),nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290414,21601116,4,3:18,nan,MISS Christmas 4' Jump Shot,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290415,21601116,4,3:17,nan,Seraphin REBOUND (Off:1 Def:1),nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290416,21601116,4,3:16,nan,Seraphin 1' Layup (2 PTS),90 - 108,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+290417,21601116,4,2:49,MISS Ennis III 26' 3PT Jump Shot,nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290418,21601116,4,2:49,nan,Miles REBOUND (Off:0 Def:3),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290419,21601116,4,2:47,nan,Pacers Timeout: Short (Reg.5 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+290420,21601116,4,2:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290421,21601116,4,2:47,nan,SUB: Young FOR Ellis,nan,101145,Monta Ellis,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+290422,21601116,4,2:47,nan,SUB: Niang FOR Seraphin,nan,202338,Kevin Seraphin,IND,1627777,Georges Niang,IND,0,nan,nan,Substitution ,nan
+290423,21601116,4,2:47,SUB: Baldwin IV FOR Wright,nan,nan,201148,Brandan Wright,MEM,1627735,Wade Baldwin IV,MEM,0,nan,nan,Substitution ,nan
+290424,21601116,4,2:47,SUB: Davis FOR Allen,nan,nan,2754,Tony Allen,MEM,1627738,Deyonta Davis,MEM,0,nan,nan,Substitution ,nan
+290425,21601116,4,2:47,SUB: Daniels FOR Conley,nan,nan,201144,Mike Conley,MEM,203584,Troy Daniels,MEM,0,nan,nan,Substitution ,nan
+290426,21601116,4,2:29,nan,Brooks 1' Driving Layup (18 PTS),92 - 108,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+290427,21601116,4,2:09,MISS Selden 27' 3PT Jump Shot,nan,nan,1627782,Wayne Selden,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290428,21601116,4,2:09,nan,Brooks REBOUND (Off:1 Def:1),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290429,21601116,4,2:01,nan,MISS Brooks  Layup,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290430,21601116,4,2:00,Ennis III REBOUND (Off:2 Def:7),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290431,21601116,4,1:53,MISS Daniels 26' 3PT Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290432,21601116,4,1:51,nan,Young REBOUND (Off:0 Def:1),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290433,21601116,4,1:40,nan,MISS Christmas  Layup,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290434,21601116,4,1:40,Davis REBOUND (Off:0 Def:3),nan,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290435,21601116,4,1:33,MISS Daniels 28' 3PT Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290436,21601116,4,1:33,nan,Young REBOUND (Off:0 Def:2),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290437,21601116,4,1:26,nan,Young 18' Pullup Jump Shot (2 PTS),94 - 108,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+290438,21601116,4,1:07,MISS Davis 19' Jump Shot,nan,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290439,21601116,4,1:06,nan,Niang REBOUND (Off:0 Def:1),nan,1627777,Georges Niang,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290440,21601116,4,1:01,Davis BLOCK (1 BLK),MISS Christmas  Dunk,nan,1626176,Rakeem Christmas,IND,0,nan,nan,1627738,Deyonta Davis,MEM,Missed Shot ,nan
+290441,21601116,4,0:59,Ennis III REBOUND (Off:2 Def:8),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290442,21601116,4,0:56,Ennis III Offensive Charge Foul (P6.T4) (E.Lewis),nan,nan,203516,James Ennis III,MEM,201166,Aaron Brooks,IND,0,nan,nan,Foul ,Offensive Charge
+290443,21601116,4,0:56,Ennis III Foul Turnover (P2.T8),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+290444,21601116,4,0:56,SUB: Wright FOR Ennis III,nan,nan,203516,James Ennis III,MEM,201148,Brandan Wright,MEM,0,nan,nan,Substitution ,nan
+290445,21601116,4,0:43,Wright S.FOUL (P3.PN) (J.Tiven),nan,nan,201148,Brandan Wright,MEM,1626176,Rakeem Christmas,IND,0,nan,nan,Foul ,Shooting
+290446,21601116,4,0:43,nan,Christmas Free Throw 1 of 2 (3 PTS),95 - 108,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290447,21601116,4,0:43,nan,MISS Christmas Free Throw 2 of 2,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290448,21601116,4,0:41,Wright REBOUND (Off:0 Def:4),nan,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290449,21601116,4,0:23,Wright 9' Jump Shot (13 PTS) (Baldwin IV 1 AST),nan,95 - 110,201148,Brandan Wright,MEM,1627735,Wade Baldwin IV,MEM,0,nan,nan,Made Shot ,nan
+290450,21601116,4,0:17,Davis P.FOUL (P1.PN) (E.Lewis),nan,nan,1627738,Deyonta Davis,MEM,1626202,Joe Young,IND,0,nan,nan,Foul ,Personal
+290451,21601116,4,0:17,nan,Young Free Throw 1 of 2 (3 PTS),96 - 110,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290452,21601116,4,0:17,nan,Young Free Throw 2 of 2 (4 PTS),97 - 110,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290453,21601116,4,0:00,MISS Baldwin IV 34' 3PT Jump Shot,nan,nan,1627735,Wade Baldwin IV,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290454,21601116,4,0:00,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290455,21601116,4,0:00,nan,nan,97 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

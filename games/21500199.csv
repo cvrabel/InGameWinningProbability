@@ -1,0 +1,138 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+25095,21500199,4,12:00,nan,nan,85 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+25096,21500199,4,11:49,Roberson STEAL (1 STL),Matthews Lost Ball Turnover (P1.T15),nan,202083,Wesley Matthews,DAL,203460,Andre Roberson,OKC,0,nan,nan,Turnover ,Lost Ball
+25097,21500199,4,11:38,Collison 19' Jump Shot (10 PTS) (Augustin 2 AST),nan,85 - 89,2555,Nick Collison,OKC,201571,D.J. Augustin,OKC,0,nan,nan,Made Shot ,nan
+25098,21500199,4,11:19,Roberson S.FOUL (P3.T1) (G.Zielinski),nan,nan,203460,Andre Roberson,OKC,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting
+25099,21500199,4,11:19,nan,D. Williams Free Throw 1 of 2 (20 PTS),86 - 89,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+25100,21500199,4,11:19,nan,MISS D. Williams Free Throw 2 of 2,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+25101,21500199,4,11:18,Roberson REBOUND (Off:0 Def:2),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25102,21500199,4,11:00,Kanter 13' Jump Shot (10 PTS),nan,86 - 91,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25103,21500199,4,10:43,nan,Matthews 25' 3PT Jump Shot (15 PTS) (Pachulia 4 AST),89 - 91,202083,Wesley Matthews,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Made Shot ,nan
+25104,21500199,4,10:28,Collison OFF.Foul (P3) (G.Zielinski),nan,nan,2555,Nick Collison,OKC,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Offensive
+25105,21500199,4,10:28,Collison Foul Turnover (P1.T14),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+25106,21500199,4,10:13,nan,MISS D. Williams 2' Driving Layup,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25107,21500199,4,10:13,nan,Pachulia REBOUND (Off:2 Def:5),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25108,21500199,4,10:05,nan,MISS Matthews  3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25109,21500199,4,10:04,nan,Matthews REBOUND (Off:1 Def:1),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25110,21500199,4,10:01,nan,MISS Matthews 16' Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25111,21500199,4,10:00,Collison REBOUND (Off:3 Def:1),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25112,21500199,4,9:54,MISS Morrow 24' 3PT Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25113,21500199,4,9:52,nan,Pachulia REBOUND (Off:2 Def:6),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25114,21500199,4,9:32,nan,Barea 2' Reverse Layup (4 PTS) (Pachulia 5 AST),91 - 91,200826,J.J. Barea,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Made Shot ,nan
+25115,21500199,4,9:17,MISS Augustin 1' Layup,Pachulia BLOCK (3 BLK),nan,201571,D.J. Augustin,OKC,0,nan,nan,2585,Zaza Pachulia,DAL,Missed Shot ,nan
+25116,21500199,4,9:17,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25117,21500199,4,9:17,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+25118,21500199,4,9:12,Morrow 2' Layup (14 PTS) (Collison 1 AST),nan,91 - 93,201627,Anthony Morrow,OKC,2555,Nick Collison,OKC,0,nan,nan,Made Shot ,nan
+25119,21500199,4,8:57,nan,MISS Pachulia 2' Layup,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25120,21500199,4,8:56,nan,Pachulia REBOUND (Off:3 Def:6),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25121,21500199,4,8:55,Collison BLOCK (1 BLK),MISS Pachulia 1' Layup,nan,2585,Zaza Pachulia,DAL,0,nan,nan,2555,Nick Collison,OKC,Missed Shot ,nan
+25122,21500199,4,8:54,Collison REBOUND (Off:3 Def:2),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25123,21500199,4,8:49,nan,Matthews Personal Block Foul (P1.T1) (D.Stafford),nan,202083,Wesley Matthews,DAL,203460,Andre Roberson,OKC,0,nan,nan,Foul ,Personal Block
+25124,21500199,4,8:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+25125,21500199,4,8:49,nan,SUB: Villanueva FOR Powell,nan,203939,Dwight Powell,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Substitution ,nan
+25126,21500199,4,8:41,MISS Augustin 17' Jump Shot,nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25127,21500199,4,8:40,Kanter REBOUND (Off:3 Def:2),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25128,21500199,4,8:39,Kanter 2' Layup (12 PTS),nan,91 - 95,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25129,21500199,4,8:19,nan,Pachulia 2' Layup (8 PTS) (Villanueva 1 AST),93 - 95,2585,Zaza Pachulia,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Made Shot ,nan
+25130,21500199,4,7:56,Augustin 24' 3PT Jump Shot (5 PTS),nan,93 - 98,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25131,21500199,4,7:38,nan,Barea 14' Turnaround Fadeaway (6 PTS),95 - 98,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+25132,21500199,4,7:27,MISS Roberson  3PT Jump Shot,D. Williams BLOCK (1 BLK),nan,203460,Andre Roberson,OKC,0,nan,nan,101114,Deron Williams,DAL,Missed Shot ,nan
+25133,21500199,4,7:26,Roberson REBOUND (Off:1 Def:2),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25134,21500199,4,7:20,MISS Morrow 15' Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25135,21500199,4,7:18,Roberson REBOUND (Off:2 Def:2),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25136,21500199,4,7:15,MISS Augustin 25' 3PT Jump Shot,nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25137,21500199,4,7:14,nan,Pachulia REBOUND (Off:3 Def:7),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25138,21500199,4,7:00,nan,Villanueva 24' 3PT Jump Shot (3 PTS) (Matthews 1 AST),98 - 98,101111,Charlie Villanueva,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+25139,21500199,4,6:46,nan,Pachulia P.FOUL (P4.T2) (E.Dalen),nan,2585,Zaza Pachulia,DAL,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+25140,21500199,4,6:46,SUB: Ibaka FOR Collison,nan,nan,2555,Nick Collison,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+25141,21500199,4,6:46,SUB: Westbrook FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+25142,21500199,4,6:33,Westbrook 25' 3PT Jump Shot (23 PTS) (Roberson 2 AST),nan,98 - 101,201566,Russell Westbrook,OKC,203460,Andre Roberson,OKC,0,nan,nan,Made Shot ,nan
+25143,21500199,4,6:27,nan,Mavericks Timeout: Regular (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+25144,21500199,4,6:20,nan,Villanueva  3PT Jump Shot (6 PTS) (D. Williams 5 AST),101 - 101,101111,Charlie Villanueva,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+25145,21500199,4,5:59,MISS Roberson 25' 3PT Jump Shot,nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25146,21500199,4,5:59,Kanter REBOUND (Off:4 Def:2),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25147,21500199,4,5:58,nan,Barea P.FOUL (P1.T3) (D.Stafford),nan,200826,J.J. Barea,DAL,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+25148,21500199,4,5:54,MISS Westbrook 24' 3PT Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25149,21500199,4,5:53,nan,Matthews REBOUND (Off:1 Def:2),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25150,21500199,4,5:39,nan,MISS Barea 11' Step Back Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25151,21500199,4,5:38,Kanter REBOUND (Off:4 Def:3),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25152,21500199,4,5:33,Westbrook Out of Bounds Lost Ball Turnover (P6.T15),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+25153,21500199,4,5:24,nan,MISS Barea 3' Driving Layup,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25154,21500199,4,5:24,Ibaka REBOUND (Off:3 Def:6),nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25155,21500199,4,5:20,nan,Villanueva S.FOUL (P1.T4) (E.Dalen),nan,101111,Charlie Villanueva,DAL,203460,Andre Roberson,OKC,0,nan,nan,Foul ,Shooting
+25156,21500199,4,5:20,MISS Roberson Free Throw 1 of 2,nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+25157,21500199,4,5:20,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+25158,21500199,4,5:20,SUB: Waiters FOR Augustin,nan,nan,201571,D.J. Augustin,OKC,203079,Dion Waiters,OKC,0,nan,nan,Substitution ,nan
+25159,21500199,4,5:20,nan,SUB: Felton FOR Matthews,nan,202083,Wesley Matthews,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+25160,21500199,4,5:20,nan,SUB: Nowitzki FOR Barea,nan,200826,J.J. Barea,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+25161,21500199,4,5:20,nan,SUB: Harris FOR Villanueva,nan,101111,Charlie Villanueva,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+25162,21500199,4,5:20,Roberson Free Throw 2 of 2 (7 PTS),nan,101 - 102,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+25163,21500199,4,4:58,nan,MISS Felton 19' Pullup Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25164,21500199,4,4:57,nan,D. Williams REBOUND (Off:1 Def:5),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25165,21500199,4,4:51,nan,Pachulia 1' Layup (10 PTS) (Nowitzki 3 AST),103 - 102,2585,Zaza Pachulia,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+25166,21500199,4,4:51,Ibaka S.FOUL (P4.T2) (E.Dalen),nan,nan,201586,Serge Ibaka,OKC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Shooting
+25167,21500199,4,4:51,nan,Pachulia Free Throw 1 of 1 (11 PTS),104 - 102,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+25168,21500199,4,4:39,Westbrook 2' Driving Finger Roll Layup (25 PTS),nan,104 - 104,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25169,21500199,4,4:14,nan,Nowitzki 16' Pullup Jump Shot (9 PTS),106 - 104,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+25170,21500199,4,3:55,MISS Ibaka 18' Jump Shot,nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25171,21500199,4,3:55,nan,Felton REBOUND (Off:0 Def:1),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25172,21500199,4,3:41,nan,Nowitzki 16' Jump Shot (11 PTS) (D. Williams 6 AST),108 - 104,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+25173,21500199,4,3:39,THUNDER Timeout: Regular (Full 4 Short 0),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+25174,21500199,4,3:39,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+25175,21500199,4,3:39,SUB: Adams FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+25176,21500199,4,3:27,Waiters  3PT Jump Shot (12 PTS) (Westbrook 10 AST),nan,108 - 107,203079,Dion Waiters,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+25177,21500199,4,3:09,Westbrook S.FOUL (P1.T3) (E.Dalen),nan,nan,201566,Russell Westbrook,OKC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Shooting
+25178,21500199,4,3:09,nan,MISS Pachulia Free Throw 1 of 2,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+25179,21500199,4,3:09,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+25180,21500199,4,3:09,nan,MISS Pachulia Free Throw 2 of 2,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+25181,21500199,4,3:08,Waiters REBOUND (Off:0 Def:2),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25182,21500199,4,2:52,Ibaka 5' Floating Jump Shot (16 PTS) (Westbrook 11 AST),nan,108 - 109,201586,Serge Ibaka,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+25183,21500199,4,2:32,nan,MISS Felton 7' Pullup Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25184,21500199,4,2:32,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25185,21500199,4,2:32,Waiters L.B.FOUL (P2.T4) (D.Stafford),nan,nan,203079,Dion Waiters,OKC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Loose Ball
+25186,21500199,4,2:23,Waiters STEAL (1 STL),D. Williams Bad Pass Turnover (P5.T16),nan,101114,Deron Williams,DAL,203079,Dion Waiters,OKC,0,nan,nan,Turnover ,Bad Pass
+25187,21500199,4,2:19,Waiters 2' Driving Layup (14 PTS),nan,108 - 111,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25188,21500199,4,2:19,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+25189,21500199,4,2:19,nan,SUB: Matthews FOR Harris,nan,2734,Devin Harris,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+25190,21500199,4,2:19,nan,SUB: Barea FOR Felton,nan,101109,Raymond Felton,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+25191,21500199,4,2:06,Westbrook STEAL (5 STL),Nowitzki Lost Ball Turnover (P1.T17),nan,1717,Dirk Nowitzki,DAL,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Lost Ball
+25192,21500199,4,2:02,Westbrook  Dunk (27 PTS) (Morrow 1 AST),nan,108 - 113,201566,Russell Westbrook,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Made Shot ,nan
+25193,21500199,4,1:38,nan,Matthews 25' 3PT Jump Shot (18 PTS) (Pachulia 6 AST),111 - 113,202083,Wesley Matthews,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Made Shot ,nan
+25194,21500199,4,1:20,Westbrook Bad Pass Turnover (P7.T16),D. Williams STEAL (1 STL),nan,201566,Russell Westbrook,OKC,101114,Deron Williams,DAL,0,nan,nan,Turnover ,Bad Pass
+25195,21500199,4,1:16,nan,MISS Matthews 2' Layup,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25196,21500199,4,1:16,nan,Barea REBOUND (Off:1 Def:1),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25197,21500199,4,1:16,nan,Barea 2' Putback Layup (8 PTS),113 - 113,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+25198,21500199,4,1:16,THUNDER Timeout: Regular (Full 5 Short 0),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+25199,21500199,4,1:03,Westbrook 13' Turnaround Jump Shot (29 PTS),nan,113 - 115,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25200,21500199,4,0:52,nan,MISS Matthews 24' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25201,21500199,4,0:52,Westbrook REBOUND (Off:0 Def:4),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25202,21500199,4,0:41,MISS Westbrook 12' Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25203,21500199,4,0:41,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25204,21500199,4,0:41,Adams L.B.FOUL (P4.PN) (D.Stafford),nan,nan,203500,Steven Adams,OKC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Loose Ball
+25205,21500199,4,0:41,nan,MISS Pachulia Free Throw 1 of 2,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+25206,21500199,4,0:41,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25207,21500199,4,0:41,SUB: Kanter FOR Adams,nan,nan,203500,Steven Adams,OKC,202683,Enes Kanter,OKC,0,nan,nan,Substitution ,nan
+25208,21500199,4,0:41,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+25209,21500199,4,0:41,nan,SUB: Harris FOR Barea,nan,200826,J.J. Barea,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+25210,21500199,4,0:41,nan,Pachulia Free Throw 2 of 2 (12 PTS),114 - 115,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+25211,21500199,4,0:24,Westbrook 18' Pullup Jump Shot (31 PTS),nan,114 - 117,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+25212,21500199,4,0:24,nan,Mavericks Timeout: Regular (Reg.6 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+25213,21500199,4,0:24,SUB: Roberson FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+25214,21500199,4,0:24,SUB: Adams FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+25215,21500199,4,0:24,nan,SUB: Barea FOR Harris,nan,2734,Devin Harris,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+25216,21500199,4,0:24,nan,SUB: Nowitzki FOR Powell,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+25217,21500199,4,0:18,nan,MISS D. Williams 18' Pullup Jump Shot,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25218,21500199,4,0:17,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25219,21500199,4,0:17,nan,Pachulia L.B.FOUL (P5.PN) (E.Dalen),nan,2585,Zaza Pachulia,DAL,203500,Steven Adams,OKC,0,nan,nan,Foul ,Loose Ball
+25220,21500199,4,0:17,MISS Adams Free Throw 1 of 2,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+25221,21500199,4,0:17,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+25222,21500199,4,0:17,MISS Adams Free Throw 2 of 2,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+25223,21500199,4,0:17,nan,Barea REBOUND (Off:1 Def:2),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25224,21500199,4,0:17,nan,Mavericks Timeout: Short (Reg.6 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+25225,21500199,4,0:17,nan,SUB: Villanueva FOR Pachulia,nan,2585,Zaza Pachulia,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Substitution ,nan
+25226,21500199,4,0:17,SUB: Collison FOR Adams,nan,nan,203500,Steven Adams,OKC,2555,Nick Collison,OKC,0,nan,nan,Substitution ,nan
+25227,21500199,4,0:08,Ibaka BLOCK (1 BLK),MISS D. Williams 3' Driving Layup,nan,101114,Deron Williams,DAL,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+25228,21500199,4,0:08,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25229,21500199,4,0:01,nan,MISS Matthews 25' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+25230,21500199,4,0:01,Westbrook REBOUND (Off:0 Def:5),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+25231,21500199,4,0:00,nan,nan,114 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

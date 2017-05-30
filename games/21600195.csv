@@ -1,0 +1,203 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+177500,21600195,4,12:00,nan,nan,79 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+177501,21600195,4,11:38,Grant 24' 3PT Jump Shot (9 PTS) (Lauvergne 2 AST),nan,79 - 73,203924,Jerami Grant,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Made Shot ,nan
+177502,21600195,4,11:17,nan,MISS Jefferson 14' Jump Shot,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177503,21600195,4,11:17,nan,Allen REBOUND (Off:2 Def:1),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177504,21600195,4,11:12,Abrines STEAL (1 STL),Allen Bad Pass Turnover (P1.T18),nan,202730,Lavoy Allen,IND,203518,Alex Abrines,OKC,0,nan,nan,Turnover ,Bad Pass
+177505,21600195,4,11:07,MISS Abrines 25' 3PT Pullup Jump Shot,nan,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177506,21600195,4,11:05,nan,Robinson III REBOUND (Off:2 Def:8),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177507,21600195,4,10:45,nan,MISS Stuckey 20' Step Back Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177508,21600195,4,10:44,nan,Jefferson REBOUND (Off:3 Def:2),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177509,21600195,4,10:34,nan,MISS Brooks 15' Step Back Jump Shot,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177510,21600195,4,10:33,Grant REBOUND (Off:0 Def:1),nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177511,21600195,4,10:23,nan,Jefferson P.FOUL (P4.T1) (N.Buchert),nan,2744,Al Jefferson,IND,203530,Joffrey Lauvergne,OKC,0,nan,nan,Foul ,Personal
+177512,21600195,4,10:15,Oladipo 15' Turnaround Fadeaway (9 PTS) (Kanter 2 AST),nan,79 - 75,203506,Victor Oladipo,OKC,202683,Enes Kanter,OKC,0,nan,nan,Made Shot ,nan
+177513,21600195,4,9:54,nan,MISS Stuckey 2' Driving Layup,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177514,21600195,4,9:53,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177515,21600195,4,9:42,MISS Oladipo 24' 3PT Jump Shot,nan,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177516,21600195,4,9:40,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177517,21600195,4,9:40,nan,SUB: Turner FOR Jefferson,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+177518,21600195,4,9:28,Kanter 7' Fadeaway Jumper (14 PTS) (Oladipo 5 AST),nan,79 - 77,202683,Enes Kanter,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+177519,21600195,4,9:09,Grant BLOCK (2 BLK),MISS Stuckey  3PT Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,203924,Jerami Grant,OKC,Missed Shot ,nan
+177520,21600195,4,9:08,nan,Brooks REBOUND (Off:1 Def:0),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177521,21600195,4,9:03,nan,Brooks 26' 3PT Pullup Jump Shot (10 PTS),82 - 77,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+177522,21600195,4,8:37,MISS Abrines 24' 3PT Jump Shot,nan,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177523,21600195,4,8:36,nan,Stuckey REBOUND (Off:1 Def:1),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177524,21600195,4,8:23,nan,Allen 4' Floating Jump Shot (2 PTS) (Brooks 1 AST),84 - 77,202730,Lavoy Allen,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+177525,21600195,4,8:22,THUNDER Timeout: Regular (Full 4 Short 2),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177526,21600195,4,8:22,SUB: Morrow FOR Oladipo,nan,nan,203506,Victor Oladipo,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177527,21600195,4,8:22,SUB: Westbrook FOR Abrines,nan,nan,203518,Alex Abrines,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+177528,21600195,4,8:22,nan,SUB: Teague FOR Stuckey,nan,201155,Rodney Stuckey,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+177529,21600195,4,8:22,nan,SUB: Ellis FOR Brooks,nan,201166,Aaron Brooks,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+177530,21600195,4,8:12,Lauvergne  Cutting Dunk Shot (7 PTS) (Westbrook 13 AST),nan,84 - 79,203530,Joffrey Lauvergne,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+177531,21600195,4,7:50,nan,Turner 1' Layup (13 PTS) (Ellis 7 AST),86 - 79,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+177532,21600195,4,7:35,MISS Kanter  3PT Jump Shot,nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177533,21600195,4,7:33,Westbrook REBOUND (Off:2 Def:1),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177534,21600195,4,7:30,nan,Ellis P.FOUL (P2.T2) (T.Brothers),nan,101145,Monta Ellis,IND,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Personal
+177535,21600195,4,7:30,nan,SUB: Young FOR Allen,nan,202730,Lavoy Allen,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+177536,21600195,4,7:24,Westbrook 14' Turnaround Jump Shot (15 PTS) (Kanter 3 AST),nan,86 - 81,201566,Russell Westbrook,OKC,202683,Enes Kanter,OKC,0,nan,nan,Made Shot ,nan
+177537,21600195,4,7:08,nan,Ellis 11' Jump Shot (11 PTS),88 - 81,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+177538,21600195,4,7:08,Grant S.FOUL (P2.T1) (L.Holtkamp),nan,nan,203924,Jerami Grant,OKC,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+177539,21600195,4,7:08,nan,Ellis Free Throw 1 of 1 (12 PTS),89 - 81,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+177540,21600195,4,6:53,Morrow 9' Driving Floating Jump Shot (2 PTS),nan,89 - 83,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177541,21600195,4,6:36,nan,MISS Turner 15' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177542,21600195,4,6:36,Lauvergne REBOUND (Off:1 Def:4),nan,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177543,21600195,4,6:23,Westbrook 12' Fadeaway Jumper (17 PTS),nan,89 - 85,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177544,21600195,4,6:10,Grant Personal Block Foul (P3.T2) (L.Holtkamp),nan,nan,203924,Jerami Grant,OKC,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Block
+177545,21600195,4,6:10,SUB: Roberson FOR Grant,nan,nan,203924,Jerami Grant,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+177546,21600195,4,6:10,SUB: Adams FOR Lauvergne,nan,nan,203530,Joffrey Lauvergne,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+177547,21600195,4,5:58,nan,MISS Robinson III 21' Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177548,21600195,4,5:58,Westbrook REBOUND (Off:2 Def:2),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177549,21600195,4,5:48,nan,Teague P.FOUL (P2.T3) (N.Buchert),nan,201952,Jeff Teague,IND,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+177550,21600195,4,5:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+177551,21600195,4,5:41,nan,Turner S.FOUL (P4.T4) (T.Brothers),nan,1626167,Myles Turner,IND,203500,Steven Adams,OKC,0,nan,nan,Foul ,Shooting
+177552,21600195,4,5:41,Adams Free Throw 1 of 2 (7 PTS),nan,89 - 86,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177553,21600195,4,5:41,Adams Free Throw 2 of 2 (8 PTS),nan,89 - 87,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177554,21600195,4,5:32,nan,MISS Teague 6' Driving Floating Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177555,21600195,4,5:32,nan,Turner REBOUND (Off:3 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177556,21600195,4,5:14,nan,Ellis Traveling Turnover (P6.T19),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Traveling
+177557,21600195,4,4:59,MISS Westbrook 12' Step Back Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177558,21600195,4,4:57,nan,Teague REBOUND (Off:0 Def:4),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177559,21600195,4,4:54,Westbrook S.FOUL (P2.T3) (T.Brothers),nan,nan,201566,Russell Westbrook,OKC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+177560,21600195,4,4:54,nan,Teague Free Throw 1 of 2 (17 PTS),90 - 87,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177561,21600195,4,4:54,nan,Teague Free Throw 2 of 2 (18 PTS),91 - 87,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177562,21600195,4,4:43,MISS Morrow 25' 3PT Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177563,21600195,4,4:42,nan,Young REBOUND (Off:1 Def:5),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177564,21600195,4,4:38,Roberson S.FOUL (P1.T4) (N.Buchert),nan,nan,203460,Andre Roberson,OKC,203922,Glenn Robinson III,IND,0,nan,nan,Foul ,Shooting
+177565,21600195,4,4:38,nan,Robinson III Free Throw 1 of 2 (11 PTS),92 - 87,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177566,21600195,4,4:38,nan,Robinson III Free Throw 2 of 2 (12 PTS),93 - 87,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177567,21600195,4,4:18,MISS Kanter 4' Jump Shot,nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177568,21600195,4,4:17,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177569,21600195,4,4:04,nan,Young 6' Floating Jump Shot (18 PTS) (Teague 7 AST),95 - 87,201152,Thaddeus Young,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+177570,21600195,4,3:48,Westbrook 25' 3PT Pullup Jump Shot (20 PTS),nan,95 - 90,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177571,21600195,4,3:33,nan,MISS Turner 3' Layup,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177572,21600195,4,3:32,nan,Young REBOUND (Off:2 Def:5),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177573,21600195,4,3:32,nan,MISS Young 2' Tip Layup Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177574,21600195,4,3:32,Morrow REBOUND (Off:0 Def:1),nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177575,21600195,4,3:25,nan,Robinson III P.FOUL (P4.PN) (L.Holtkamp),nan,203922,Glenn Robinson III,IND,201627,Anthony Morrow,OKC,0,nan,nan,Foul ,Personal
+177576,21600195,4,3:25,Morrow Free Throw 1 of 2 (3 PTS),nan,95 - 91,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177577,21600195,4,3:25,MISS Morrow Free Throw 2 of 2,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177578,21600195,4,3:24,nan,Young REBOUND (Off:2 Def:6),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177579,21600195,4,3:05,Kanter STEAL (1 STL),Teague Bad Pass Turnover (P3.T20),nan,201952,Jeff Teague,IND,202683,Enes Kanter,OKC,0,nan,nan,Turnover ,Bad Pass
+177580,21600195,4,2:59,Kanter 2' Running Layup (16 PTS) (Westbrook 14 AST),nan,95 - 93,202683,Enes Kanter,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+177581,21600195,4,2:59,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177582,21600195,4,2:59,SUB: Oladipo FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Substitution ,nan
+177583,21600195,4,2:46,Adams S.FOUL (P4.PN) (N.Buchert),nan,nan,203500,Steven Adams,OKC,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Shooting
+177584,21600195,4,2:46,nan,MISS Young Free Throw 1 of 2,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177585,21600195,4,2:46,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+177586,21600195,4,2:46,nan,MISS Young Free Throw 2 of 2,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177587,21600195,4,2:45,Westbrook REBOUND (Off:2 Def:3),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177588,21600195,4,2:34,Westbrook 2' Driving Layup (22 PTS),nan,95 - 95,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177589,21600195,4,2:11,nan,Young 10' Floating Jump Shot (20 PTS),97 - 95,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+177590,21600195,4,2:11,Kanter S.FOUL (P3.PN) (T.Brothers),nan,nan,202683,Enes Kanter,OKC,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Shooting
+177591,21600195,4,2:11,nan,MISS Young Free Throw 1 of 1,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+177592,21600195,4,2:11,Westbrook REBOUND (Off:2 Def:4),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177593,21600195,4,1:51,MISS Westbrook 8' Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177594,21600195,4,1:51,Westbrook REBOUND (Off:3 Def:4),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177595,21600195,4,1:49,MISS Westbrook 2' Putback Layup,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177596,21600195,4,1:48,nan,Turner REBOUND (Off:3 Def:6),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177597,21600195,4,1:45,Roberson S.FOUL (P2.PN) (N.Buchert),nan,nan,203460,Andre Roberson,OKC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+177598,21600195,4,1:45,nan,Teague Free Throw 1 of 2 (19 PTS),98 - 95,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177599,21600195,4,1:45,nan,Teague Free Throw 2 of 2 (20 PTS),99 - 95,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177600,21600195,4,1:31,Oladipo  3PT Jump Shot (12 PTS) (Westbrook 15 AST),nan,99 - 98,203506,Victor Oladipo,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+177601,21600195,4,1:25,nan,Pacers Timeout: Regular (Reg.5 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177602,21600195,4,1:25,SUB: Lauvergne FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Substitution ,nan
+177603,21600195,4,1:09,nan,MISS Turner  3PT Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177604,21600195,4,1:09,Roberson REBOUND (Off:1 Def:5),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177605,21600195,4,1:04,MISS Westbrook 2' Running Layup,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177606,21600195,4,1:02,nan,Teague REBOUND (Off:0 Def:5),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177607,21600195,4,0:38,Adams S.FOUL (P5.PN) (N.Buchert),nan,nan,203500,Steven Adams,OKC,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+177608,21600195,4,0:38,nan,nan,nan,527,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+177609,21600195,4,0:38,nan,Turner Free Throw 1 of 2 (14 PTS),100 - 98,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177610,21600195,4,0:38,nan,Turner Free Throw 2 of 2 (15 PTS),101 - 98,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177611,21600195,4,0:38,THUNDER Timeout: Regular (Full 5 Short 2),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177612,21600195,4,0:38,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177613,21600195,4,0:34,Westbrook 1' Driving Layup (24 PTS),nan,101 - 100,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177614,21600195,4,0:28,nan,Pacers Timeout: Short (Reg.5 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+177615,21600195,4,0:28,SUB: Roberson FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+177616,21600195,4,0:08,nan,MISS Robinson III  3PT Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177617,21600195,4,0:06,nan,Young REBOUND (Off:3 Def:6),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177618,21600195,4,0:04,Roberson Personal Take Foul (P3.PN) (L.Holtkamp),nan,nan,203460,Andre Roberson,OKC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal Take
+177619,21600195,4,0:04,nan,Teague Free Throw 1 of 2 (21 PTS),102 - 100,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177620,21600195,4,0:04,nan,Teague Free Throw 2 of 2 (22 PTS),103 - 100,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177621,21600195,4,0:04,THUNDER Timeout: Short (Full 5 Short 3),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+177622,21600195,4,0:04,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177623,21600195,4,0:04,nan,SUB: Stuckey FOR Turner,nan,1626167,Myles Turner,IND,201155,Rodney Stuckey,IND,0,nan,nan,Substitution ,nan
+177624,21600195,4,0:02,Westbrook 27' 3PT Jump Shot (27 PTS) (Oladipo 6 AST),nan,103 - 103,201566,Russell Westbrook,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+177625,21600195,4,0:02,nan,Pacers Timeout: Short (Reg.5 Short 3),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+177626,21600195,4,0:02,SUB: Roberson FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+177627,21600195,4,0:02,SUB: Grant FOR Lauvergne,nan,nan,203530,Joffrey Lauvergne,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+177628,21600195,4,0:02,nan,SUB: Turner FOR Stuckey,nan,201155,Rodney Stuckey,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+177629,21600195,4,0:00,nan,MISS Robinson III 10' Floating Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177630,21600195,4,0:00,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177631,21600195,4,0:00,nan,nan,103 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+177632,21600195,5,5:00,nan,nan,103 - 103,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+177633,21600195,5,5:00,Jump Ball Adams vs. Turner: Tip to Teague,nan,nan,203500,Steven Adams,OKC,1626167,Myles Turner,IND,201952,Jeff Teague,IND,Jump Ball ,nan
+177634,21600195,5,4:37,nan,MISS Young  3PT Jump Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177635,21600195,5,4:37,Adams REBOUND (Off:2 Def:4),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177636,21600195,5,4:19,MISS Westbrook 24' 3PT Step Back Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177637,21600195,5,4:19,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177638,21600195,5,4:01,nan,Teague 25' 3PT Jump Shot (25 PTS) (Robinson III 2 AST),106 - 103,201952,Jeff Teague,IND,203922,Glenn Robinson III,IND,0,nan,nan,Made Shot ,nan
+177639,21600195,5,3:46,Westbrook 15' Pullup Jump Shot (29 PTS),nan,106 - 105,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177640,21600195,5,3:27,nan,Robinson III 1' Cutting Layup Shot (14 PTS) (Teague 8 AST),108 - 105,203922,Glenn Robinson III,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+177641,21600195,5,3:12,MISS Westbrook 2' Driving Layup,Turner BLOCK (1 BLK),nan,201566,Russell Westbrook,OKC,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+177642,21600195,5,3:11,nan,Young REBOUND (Off:3 Def:7),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177643,21600195,5,3:04,nan,Pacers Timeout: Regular (Reg.6 Short 3),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177644,21600195,5,2:49,nan,MISS Young  Layup,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177645,21600195,5,2:48,Lauvergne REBOUND (Off:1 Def:5),nan,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177646,21600195,5,2:39,MISS Westbrook 16' Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177647,21600195,5,2:38,nan,Turner REBOUND (Off:3 Def:7),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177648,21600195,5,2:22,nan,MISS Ellis 12' Pullup Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177649,21600195,5,2:21,Westbrook REBOUND (Off:3 Def:5),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177650,21600195,5,2:16,THUNDER Timeout: Regular (Full 6 Short 3),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177651,21600195,5,2:16,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177652,21600195,5,2:05,MISS Lauvergne 24' 3PT Jump Shot,nan,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177653,21600195,5,2:03,nan,Robinson III REBOUND (Off:2 Def:9),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177654,21600195,5,2:03,SUB: Roberson FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+177655,21600195,5,2:01,Jump Ball Westbrook vs. Robinson III: Tip to,nan,nan,201566,Russell Westbrook,OKC,203922,Glenn Robinson III,IND,1610612754,nan,nan,Jump Ball ,nan
+177656,21600195,5,1:58,nan,nan,nan,593,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+177657,21600195,5,1:39,nan,Ellis Traveling Turnover (P7.T21),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Traveling
+177658,21600195,5,1:39,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177659,21600195,5,1:32,Westbrook Bad Pass Turnover (P7.T20),Turner STEAL (1 STL),nan,201566,Russell Westbrook,OKC,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Bad Pass
+177660,21600195,5,1:28,nan,Robinson III  Dunk (16 PTS) (Teague 9 AST),110 - 105,203922,Glenn Robinson III,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+177661,21600195,5,1:28,THUNDER Timeout: Regular (Full 7 Short 3),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177662,21600195,5,1:20,Westbrook 12' Step Back Jump Shot (31 PTS),nan,110 - 107,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177663,21600195,5,1:09,nan,Teague 6' Floating Jump Shot (27 PTS),112 - 107,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+177664,21600195,5,1:09,Oladipo S.FOUL (P2.T1) (T.Brothers),nan,nan,203506,Victor Oladipo,OKC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+177665,21600195,5,1:09,nan,Teague Free Throw 1 of 1 (28 PTS),113 - 107,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+177666,21600195,5,0:59,Morrow 10' Step Back Jump Shot (5 PTS),nan,113 - 109,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177667,21600195,5,0:35,nan,Ellis Out of Bounds - Bad Pass Turnover Turnover (P8.T22),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+177668,21600195,5,0:28,MISS Morrow 24' 3PT Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177669,21600195,5,0:26,Lauvergne REBOUND (Off:2 Def:5),nan,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177670,21600195,5,0:20,Oladipo 14' Pullup Jump Shot (14 PTS),nan,113 - 111,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+177671,21600195,5,0:19,Westbrook Personal Take Foul (P3.PN) (T.Brothers),nan,nan,201566,Russell Westbrook,OKC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal Take
+177672,21600195,5,0:19,nan,Teague Free Throw 1 of 2 (29 PTS),114 - 111,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177673,21600195,5,0:19,nan,Teague Free Throw 2 of 2 (30 PTS),115 - 111,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177674,21600195,5,0:19,THUNDER Timeout: Short (Full 7 Short 4),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+177675,21600195,5,0:15,MISS Oladipo 24' 3PT Jump Shot,nan,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177676,21600195,5,0:14,Westbrook REBOUND (Off:4 Def:5),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177677,21600195,5,0:13,MISS Westbrook 2' Layup,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177678,21600195,5,0:11,Adams REBOUND (Off:3 Def:4),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177679,21600195,5,0:11,MISS Adams 1' Tip Layup Shot,Turner BLOCK (2 BLK),nan,203500,Steven Adams,OKC,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+177680,21600195,5,0:10,Adams REBOUND (Off:4 Def:4),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177681,21600195,5,0:10,MISS Adams 2' Tip Layup Shot,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177682,21600195,5,0:09,Westbrook REBOUND (Off:5 Def:5),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177683,21600195,5,0:07,MISS Morrow 25' 3PT Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177684,21600195,5,0:05,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177685,21600195,5,0:05,nan,nan,nan,634,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+177686,21600195,5,0:05,SUB: Roberson FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+177687,21600195,5,0:05,nan,Pacers Timeout: Short (Reg.6 Short 4),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+177688,21600195,5,0:05,nan,SUB: Stuckey FOR Young,nan,201152,Thaddeus Young,IND,201155,Rodney Stuckey,IND,0,nan,nan,Substitution ,nan
+177689,21600195,5,0:05,SUB: Grant FOR Lauvergne,nan,nan,203530,Joffrey Lauvergne,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+177690,21600195,5,0:05,nan,Pacers Timeout: Regular (Reg.7 Short 4),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+177691,21600195,5,0:05,Grant Personal Take Foul (P4.PN) (N.Buchert),nan,nan,203924,Jerami Grant,OKC,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Personal Take
+177692,21600195,5,0:05,nan,MISS Stuckey Free Throw 1 of 2,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+177693,21600195,5,0:05,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+177694,21600195,5,0:05,SUB: Morrow FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+177695,21600195,5,0:05,nan,SUB: Young FOR Turner,nan,1626167,Myles Turner,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+177696,21600195,5,0:05,SUB: Abrines FOR Grant,nan,nan,203924,Jerami Grant,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+177697,21600195,5,0:05,nan,MISS Stuckey Free Throw 2 of 2,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+177698,21600195,5,0:04,Westbrook REBOUND (Off:5 Def:6),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177699,21600195,5,0:00,MISS Westbrook 30' 3PT Running Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+177700,21600195,5,0:00,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+177701,21600195,5,0:00,nan,nan,115 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

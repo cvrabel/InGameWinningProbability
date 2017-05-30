@@ -1,0 +1,140 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+72171,21500579,4,12:00,nan,nan,75 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+72172,21500579,4,11:42,Bogdanovic 25' 3PT Jump Shot (12 PTS),nan,75 - 77,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72173,21500579,4,11:27,nan,Porzingis  Cutting Dunk Shot (11 PTS) (Galloway 4 AST),77 - 77,204001,Kristaps Porzingis,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+72174,21500579,4,11:11,MISS Bargnani 19' Jump Shot,nan,nan,200745,Andrea Bargnani,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72175,21500579,4,11:10,Robinson REBOUND (Off:2 Def:0),nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72176,21500579,4,11:08,MISS Robinson 1' Layup,nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72177,21500579,4,11:06,Karasev REBOUND (Off:1 Def:1),nan,nan,203508,Sergey Karasev,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72178,21500579,4,11:01,Bargnani 15' Jump Shot (4 PTS) (Larkin 3 AST),nan,77 - 79,200745,Andrea Bargnani,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+72179,21500579,4,10:44,Robinson BLOCK (2 BLK),MISS Grant 2' Layup,nan,1626170,Jerian Grant,NYK,0,nan,nan,203080,Thomas Robinson,BKN,Missed Shot ,nan
+72180,21500579,4,10:43,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72181,21500579,4,10:37,nan,Grant 8' Pullup Bank Shot (5 PTS),79 - 79,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+72182,21500579,4,10:37,Karasev S.FOUL (P3.T1) (J.Williams),nan,nan,203508,Sergey Karasev,BKN,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Shooting
+72183,21500579,4,10:37,nan,Grant Free Throw 1 of 1 (6 PTS),80 - 79,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+72184,21500579,4,10:26,MISS Bargnani 19' Jump Shot,nan,nan,200745,Andrea Bargnani,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72185,21500579,4,10:24,nan,Williams REBOUND (Off:1 Def:6),nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72186,21500579,4,10:20,Bargnani S.FOUL (P2.T2) (D.Taylor),nan,nan,200745,Andrea Bargnani,BKN,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+72187,21500579,4,10:20,nan,Williams Free Throw 1 of 2 (24 PTS),81 - 79,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72188,21500579,4,10:20,nan,Williams Free Throw 2 of 2 (25 PTS),82 - 79,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72189,21500579,4,10:12,Larkin Bad Pass Turnover (P3.T14),Grant STEAL (2 STL),nan,203499,Shane Larkin,BKN,1626170,Jerian Grant,NYK,0,nan,nan,Turnover ,Bad Pass
+72190,21500579,4,10:07,Robinson S.FOUL (P2.T3) (D.Taylor),nan,nan,203080,Thomas Robinson,BKN,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Shooting
+72191,21500579,4,10:07,NETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+72192,21500579,4,10:07,SUB: Johnson FOR Karasev,nan,nan,203508,Sergey Karasev,BKN,2207,Joe Johnson,BKN,0,nan,nan,Substitution ,nan
+72193,21500579,4,10:07,SUB: Young FOR Robinson,nan,nan,203080,Thomas Robinson,BKN,201152,Thaddeus Young,BKN,0,nan,nan,Substitution ,nan
+72194,21500579,4,10:07,nan,Thomas Free Throw 1 of 2 (6 PTS),83 - 79,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72195,21500579,4,10:07,nan,MISS Thomas Free Throw 2 of 2,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72196,21500579,4,10:06,Johnson REBOUND (Off:0 Def:6),nan,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72197,21500579,4,9:53,nan,Williams Violation:Defensive Goaltending (J.Williams),nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+72198,21500579,4,9:53,Young 4' Hook Shot (14 PTS) (Johnson 5 AST),nan,83 - 81,201152,Thaddeus Young,BKN,2207,Joe Johnson,BKN,0,nan,nan,Made Shot ,nan
+72199,21500579,4,9:29,nan,Knicks Turnover: Shot Clock (T#13),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+72200,21500579,4,9:09,Larkin  3PT Jump Shot (9 PTS) (Johnson 6 AST),nan,83 - 84,203499,Shane Larkin,BKN,2207,Joe Johnson,BKN,0,nan,nan,Made Shot ,nan
+72201,21500579,4,8:45,nan,MISS Thomas 7' Driving Hook Shot,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72202,21500579,4,8:44,Bogdanovic REBOUND (Off:0 Def:1),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72203,21500579,4,8:27,nan,Porzingis Violation:Defensive Goaltending (D.Taylor),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+72204,21500579,4,8:27,Young 5' Hook Shot (16 PTS) (Larkin 4 AST),nan,83 - 86,201152,Thaddeus Young,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+72205,21500579,4,8:08,nan,MISS Grant 5' Jump Shot,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72206,21500579,4,8:07,Larkin REBOUND (Off:0 Def:2),nan,nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72207,21500579,4,8:02,Johnson Out of Bounds Lost Ball Turnover (P2.T15),nan,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+72208,21500579,4,8:02,nan,SUB: Afflalo FOR Thomas,nan,202498,Lance Thomas,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Substitution ,nan
+72209,21500579,4,7:42,nan,Williams  Driving Dunk (27 PTS),85 - 86,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+72210,21500579,4,7:22,nan,Afflalo P.FOUL (P1.T1) (J.Williams),nan,201167,Arron Afflalo,NYK,2207,Joe Johnson,BKN,0,nan,nan,Foul ,Personal
+72211,21500579,4,7:16,MISS Larkin 3' Layup,Porzingis BLOCK (2 BLK),nan,203499,Shane Larkin,BKN,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+72212,21500579,4,7:15,nan,Grant REBOUND (Off:0 Def:2),nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72213,21500579,4,7:12,nan,Grant OFF.Foul (P2) (J.Williams),nan,1626170,Jerian Grant,NYK,201152,Thaddeus Young,BKN,0,nan,nan,Foul ,Offensive
+72214,21500579,4,7:12,nan,Grant Foul Turnover (P1.T14),nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+72215,21500579,4,7:00,nan,Afflalo P.FOUL (P2.T2) (D.Taylor),nan,201167,Arron Afflalo,NYK,200745,Andrea Bargnani,BKN,0,nan,nan,Foul ,Personal
+72216,21500579,4,6:53,Larkin 18' Jump Shot (11 PTS),nan,85 - 88,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72217,21500579,4,6:33,nan,Williams 18' Jump Shot (29 PTS),87 - 88,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+72218,21500579,4,6:08,MISS Johnson 5' Floating Jump Shot,nan,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72219,21500579,4,6:07,nan,Porzingis REBOUND (Off:3 Def:5),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72220,21500579,4,6:00,nan,MISS Afflalo  3PT Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72221,21500579,4,5:59,Bogdanovic REBOUND (Off:0 Def:2),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72222,21500579,4,5:47,MISS Young 2' Reverse Layup,nan,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72223,21500579,4,5:46,nan,Grant REBOUND (Off:0 Def:3),nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72224,21500579,4,5:36,nan,Williams 3' Layup (31 PTS) (Grant 3 AST),89 - 88,202682,Derrick Williams,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+72225,21500579,4,5:34,NETS Timeout: Short (Full 4 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+72226,21500579,4,5:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+72227,21500579,4,5:34,nan,SUB: Calderon FOR Galloway,nan,204038,Langston Galloway,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+72228,21500579,4,5:34,nan,SUB: Lopez FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+72229,21500579,4,5:34,SUB: Lopez FOR Bargnani,nan,nan,200745,Andrea Bargnani,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+72230,21500579,4,5:21,Lopez  Dunk (15 PTS) (Larkin 5 AST),nan,89 - 90,201572,Brook Lopez,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+72231,21500579,4,5:01,nan,Calderon 25' 3PT Jump Shot (16 PTS) (Afflalo 2 AST),92 - 90,101181,Jose Calderon,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+72232,21500579,4,4:39,Lopez 6' Fadeaway Jumper (17 PTS),nan,92 - 92,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72233,21500579,4,4:19,Lopez STEAL (2 STL),Grant Lost Ball Turnover (P2.T15),nan,1626170,Jerian Grant,NYK,201572,Brook Lopez,BKN,0,nan,nan,Turnover ,Lost Ball
+72234,21500579,4,4:10,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72235,21500579,4,4:09,Young REBOUND (Off:4 Def:6),nan,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72236,21500579,4,3:56,Young  Driving Dunk (18 PTS),nan,92 - 94,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72237,21500579,4,3:55,nan,Knicks Timeout: Regular (Reg.4 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+72238,21500579,4,3:35,nan,MISS Williams 10' Turnaround Jump Shot,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72239,21500579,4,3:34,Bogdanovic REBOUND (Off:0 Def:3),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72240,21500579,4,3:20,nan,Grant S.FOUL (P3.T3) (D.Taylor),nan,1626170,Jerian Grant,NYK,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+72241,21500579,4,3:20,MISS Lopez Free Throw 1 of 2,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72242,21500579,4,3:20,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+72243,21500579,4,3:20,nan,SUB: Porzingis FOR Grant,nan,1626170,Jerian Grant,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+72244,21500579,4,3:20,Lopez Free Throw 2 of 2 (18 PTS),nan,92 - 95,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72245,21500579,4,2:59,nan,Afflalo 17' Pullup Jump Shot (10 PTS),94 - 95,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+72246,21500579,4,2:35,nan,Lopez S.FOUL (P3.T4) (J.Williams),nan,201577,Robin Lopez,NYK,201152,Thaddeus Young,BKN,0,nan,nan,Foul ,Shooting
+72247,21500579,4,2:35,Young Free Throw 1 of 2 (19 PTS),nan,94 - 96,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72248,21500579,4,2:35,MISS Young Free Throw 2 of 2,nan,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72249,21500579,4,2:34,nan,Porzingis REBOUND (Off:3 Def:6),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72250,21500579,4,2:12,nan,MISS Afflalo 13' Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72251,21500579,4,2:11,Lopez REBOUND (Off:0 Def:7),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72252,21500579,4,1:59,Johnson 19' Jump Shot (12 PTS),nan,94 - 98,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72253,21500579,4,1:44,nan,MISS Williams 6' Running Jump Shot,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72254,21500579,4,1:43,Johnson REBOUND (Off:0 Def:7),nan,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72255,21500579,4,1:36,MISS Young 4' Jump Shot,Lopez BLOCK (1 BLK),nan,201152,Thaddeus Young,BKN,0,nan,nan,201577,Robin Lopez,NYK,Missed Shot ,nan
+72256,21500579,4,1:35,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72257,21500579,4,1:35,NETS Timeout: Short (Full 4 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+72258,21500579,4,1:35,nan,SUB: Thomas FOR Williams,nan,202682,Derrick Williams,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+72259,21500579,4,1:29,Johnson 12' Jump Shot (14 PTS),nan,94 - 100,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72260,21500579,4,1:29,nan,Knicks Timeout: Regular (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+72261,21500579,4,1:29,nan,SUB: Williams FOR Thomas,nan,202498,Lance Thomas,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+72262,21500579,4,1:22,nan,MISS Calderon 3' Driving Layup,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72263,21500579,4,1:21,nan,Calderon REBOUND (Off:2 Def:5),nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72264,21500579,4,1:20,nan,MISS Calderon 1' Tip Layup Shot,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72265,21500579,4,1:19,nan,Porzingis REBOUND (Off:4 Def:6),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72266,21500579,4,1:19,Lopez S.FOUL (P3.T4) (J.Williams),nan,nan,201572,Brook Lopez,BKN,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+72267,21500579,4,1:19,nan,MISS Porzingis Free Throw 1 of 2,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72268,21500579,4,1:19,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+72269,21500579,4,1:19,nan,Porzingis Free Throw 2 of 2 (12 PTS),95 - 100,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72270,21500579,4,1:07,MISS Johnson 13' Floating Jump Shot,nan,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72271,21500579,4,1:06,Lopez REBOUND (Off:1 Def:7),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72272,21500579,4,1:05,Lopez  Tip Layup Shot (20 PTS),nan,95 - 102,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72273,21500579,4,0:56,nan,MISS Porzingis 7' Jump Shot,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72274,21500579,4,0:56,nan,Lopez REBOUND (Off:5 Def:5),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72275,21500579,4,0:55,nan,MISS Lopez 1' Tip Layup Shot,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72276,21500579,4,0:54,nan,Lopez REBOUND (Off:6 Def:5),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72277,21500579,4,0:54,nan,MISS Lopez 1' Tip Layup Shot,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72278,21500579,4,0:53,nan,Lopez REBOUND (Off:7 Def:5),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72279,21500579,4,0:53,Young S.FOUL (P1.PN) (M.McCutchen),nan,nan,201152,Thaddeus Young,BKN,201577,Robin Lopez,NYK,0,nan,nan,Foul ,Shooting
+72280,21500579,4,0:53,nan,Lopez Free Throw 1 of 2 (9 PTS),96 - 102,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72281,21500579,4,0:53,nan,MISS Lopez Free Throw 2 of 2,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72282,21500579,4,0:51,Young REBOUND (Off:4 Def:7),nan,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72283,21500579,4,0:34,Larkin 21' Pullup Jump Shot (13 PTS),nan,96 - 104,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+72284,21500579,4,0:34,nan,Knicks Timeout: Short (Reg.5 Short 2),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+72285,21500579,4,0:34,nan,SUB: Galloway FOR Lopez,nan,201577,Robin Lopez,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+72286,21500579,4,0:27,nan,Afflalo 7' Fadeaway Jumper (12 PTS),98 - 104,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+72287,21500579,4,0:19,nan,Porzingis P.FOUL (P1.PN) (J.Williams),nan,204001,Kristaps Porzingis,NYK,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Personal
+72288,21500579,4,0:19,Bogdanovic Free Throw 1 of 2 (13 PTS),nan,98 - 105,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72289,21500579,4,0:19,Bogdanovic Free Throw 2 of 2 (14 PTS),nan,98 - 106,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72290,21500579,4,0:12,nan,Afflalo 26' 3PT Jump Shot (15 PTS) (Galloway 5 AST),101 - 106,201167,Arron Afflalo,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+72291,21500579,4,0:11,nan,Calderon P.FOUL (P3.PN) (J.Williams),nan,101181,Jose Calderon,NYK,203499,Shane Larkin,BKN,0,nan,nan,Foul ,Personal
+72292,21500579,4,0:11,Larkin Free Throw 1 of 2 (14 PTS),nan,101 - 107,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72293,21500579,4,0:11,SUB: Ellington FOR Lopez,nan,nan,201572,Brook Lopez,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+72294,21500579,4,0:11,Larkin Free Throw 2 of 2 (15 PTS),nan,101 - 108,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72295,21500579,4,0:05,nan,Afflalo 25' 3PT Jump Shot (18 PTS) (Calderon 4 AST),104 - 108,201167,Arron Afflalo,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+72296,21500579,4,0:05,NETS Timeout: Regular (Full 5 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+72297,21500579,4,0:05,nan,SUB: Thomas FOR Williams,nan,202682,Derrick Williams,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+72298,21500579,4,0:05,nan,SUB: Grant FOR Calderon,nan,101181,Jose Calderon,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Substitution ,nan
+72299,21500579,4,0:05,SUB: Lopez FOR Ellington,nan,nan,201961,Wayne Ellington,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+72300,21500579,4,0:04,nan,Afflalo P.FOUL (P3.PN) (J.Williams),nan,201167,Arron Afflalo,NYK,203499,Shane Larkin,BKN,0,nan,nan,Foul ,Personal
+72301,21500579,4,0:04,Larkin Free Throw 1 of 2 (16 PTS),nan,104 - 109,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+72302,21500579,4,0:04,SUB: Ellington FOR Lopez,nan,nan,201572,Brook Lopez,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+72303,21500579,4,0:04,Larkin Free Throw 2 of 2 (17 PTS),nan,104 - 110,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+72304,21500579,4,0:04,nan,Knicks Timeout: Short (Reg.5 Short 3),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+72305,21500579,4,0:04,nan,SUB: Williams FOR Thomas,nan,202498,Lance Thomas,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+72306,21500579,4,0:04,nan,SUB: Calderon FOR Grant,nan,1626170,Jerian Grant,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+72307,21500579,4,0:01,nan,MISS Afflalo 25' 3PT Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+72308,21500579,4,0:00,Bogdanovic REBOUND (Off:0 Def:4),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+72309,21500579,4,0:00,nan,nan,104 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

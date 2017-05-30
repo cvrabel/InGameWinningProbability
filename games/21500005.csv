@@ -1,0 +1,126 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+533,21500005,4,12:00,nan,nan,67 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+534,21500005,4,11:46,Jump Ball Turner vs. Okafor: Tip to,nan,nan,202323,Evan Turner,BOS,1626143,Jahlil Okafor,PHI,1610612755,nan,nan,Jump Ball ,nan
+535,21500005,4,11:46,Turner Violation:Jump Ball (E.Roe),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Violation ,Jump Ball
+536,21500005,4,11:46,Turner Jump Ball Violation Turnover (P2.T12),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Turnover ,Jump Ball Violation
+537,21500005,4,11:38,Sullinger P.FOUL (P1.T1) (E.Roe),nan,nan,203096,Jared Sullinger,BOS,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+538,21500005,4,11:29,nan,Okafor 3 Second Violation Turnover (P7.T21),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+539,21500005,4,11:15,MISS Jerebko 24' 3PT Jump Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+540,21500005,4,11:14,nan,Sampson REBOUND (Off:0 Def:4),nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+541,21500005,4,11:04,nan,Noel 15' Jump Shot (12 PTS) (Canaan 1 AST),69 - 79,203457,Nerlens Noel,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+542,21500005,4,10:48,Sullinger 21' Jump Shot (12 PTS) (Thomas 7 AST),nan,69 - 81,203096,Jared Sullinger,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+543,21500005,4,10:23,nan,MISS Sampson 10' Jump Shot,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+544,21500005,4,10:22,nan,Noel REBOUND (Off:3 Def:10),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+545,21500005,4,10:22,nan,MISS Noel 1' Tip Layup Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+546,21500005,4,10:21,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+547,21500005,4,10:02,Sullinger S.FOUL (P2.T2) (E.Roe),nan,nan,203096,Jared Sullinger,BOS,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Shooting
+548,21500005,4,10:02,nan,Okafor Free Throw 1 of 2 (15 PTS),70 - 81,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+549,21500005,4,10:02,nan,Okafor Free Throw 2 of 2 (16 PTS),71 - 81,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+550,21500005,4,9:45,Jerebko  Cutting Dunk Shot (2 PTS) (Sullinger 2 AST),nan,71 - 83,201973,Jonas Jerebko,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+551,21500005,4,9:29,nan,MISS Sampson 4' Jump Shot,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+552,21500005,4,9:28,Sullinger REBOUND (Off:0 Def:6),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+553,21500005,4,9:20,Jerebko 24' 3PT Jump Shot (5 PTS) (Smart 4 AST),nan,71 - 86,201973,Jonas Jerebko,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+554,21500005,4,9:20,nan,76ers Timeout: Regular (Reg.4 Short 0),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+555,21500005,4,9:20,nan,SUB: McConnell FOR Sampson,nan,203960,JaKarr Sampson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+556,21500005,4,9:05,nan,MISS Canaan 25' 3PT Jump Shot,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+557,21500005,4,9:04,Sullinger REBOUND (Off:0 Def:7),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+558,21500005,4,8:43,MISS Turner 15' Jump Shot,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+559,21500005,4,8:42,nan,Canaan REBOUND (Off:1 Def:6),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+560,21500005,4,8:34,nan,MISS Thompson 29' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+561,21500005,4,8:33,Jerebko REBOUND (Off:0 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+562,21500005,4,8:29,MISS Smart 26' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+563,21500005,4,8:28,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+564,21500005,4,8:28,nan,Thompson L.B.FOUL (P4.T1) (Z.Zarba),nan,203138,Hollis Thompson,PHI,203096,Jared Sullinger,BOS,0,nan,nan,Foul ,Loose Ball
+565,21500005,4,8:19,MISS Sullinger 26' 3PT Jump Shot,nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+566,21500005,4,8:18,nan,Thompson REBOUND (Off:1 Def:2),nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+567,21500005,4,8:05,nan,Okafor 6' Jump Shot (18 PTS),73 - 86,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+568,21500005,4,8:00,Turner Bad Pass Turnover (P3.T13),McConnell STEAL (2 STL),nan,202323,Evan Turner,BOS,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+569,21500005,4,7:56,Sullinger S.FOUL (P3.T3) (Z.Zarba),nan,nan,203096,Jared Sullinger,BOS,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Shooting
+570,21500005,4,7:56,nan,Okafor Free Throw 1 of 2 (19 PTS),74 - 86,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+571,21500005,4,7:56,SUB: Lee FOR Sullinger,nan,nan,203096,Jared Sullinger,BOS,101135,David Lee,BOS,0,nan,nan,Substitution ,nan
+572,21500005,4,7:56,nan,Okafor Free Throw 2 of 2 (20 PTS),75 - 86,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+573,21500005,4,7:46,Thomas Bad Pass Turnover (P3.T14),Okafor STEAL (1 STL),nan,202738,Isaiah Thomas,BOS,1626143,Jahlil Okafor,PHI,0,nan,nan,Turnover ,Bad Pass
+574,21500005,4,7:31,nan,MISS Okafor 3' Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+575,21500005,4,7:30,Jerebko REBOUND (Off:0 Def:3),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+576,21500005,4,7:23,Thomas 1' Layup (25 PTS) (Lee 4 AST),nan,75 - 88,202738,Isaiah Thomas,BOS,101135,David Lee,BOS,0,nan,nan,Made Shot ,nan
+577,21500005,4,7:09,nan,Canaan Out of Bounds Lost Ball Turnover (P3.T22),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+578,21500005,4,6:48,MISS Jerebko 4' Hook Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+579,21500005,4,6:46,nan,Okafor REBOUND (Off:4 Def:3),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+580,21500005,4,6:38,nan,Thompson 27' 3PT Jump Shot (9 PTS) (McConnell 3 AST),78 - 88,203138,Hollis Thompson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+581,21500005,4,6:38,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+582,21500005,4,6:38,SUB: Bradley FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+583,21500005,4,6:26,nan,McConnell S.FOUL (P4.T2) (E.Roe),nan,204456,T.J. McConnell,PHI,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+584,21500005,4,6:26,Smart Free Throw 1 of 2 (9 PTS),nan,78 - 89,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+585,21500005,4,6:26,Smart Free Throw 2 of 2 (10 PTS),nan,78 - 90,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+586,21500005,4,6:02,nan,MISS Thompson 25' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+587,21500005,4,6:01,Lee REBOUND (Off:1 Def:4),nan,nan,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+588,21500005,4,5:56,Smart 26' 3PT Jump Shot (13 PTS) (Lee 5 AST),nan,78 - 93,203935,Marcus Smart,BOS,101135,David Lee,BOS,0,nan,nan,Made Shot ,nan
+589,21500005,4,5:55,nan,76ers Timeout: Short (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+590,21500005,4,5:55,SUB: Crowder FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+591,21500005,4,5:46,nan,Noel 2' Layup (14 PTS),80 - 93,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+592,21500005,4,5:46,Lee S.FOUL (P3.T4) (R.Mott),nan,nan,101135,David Lee,BOS,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+593,21500005,4,5:46,nan,MISS Noel Free Throw 1 of 1,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+594,21500005,4,5:44,Turner REBOUND (Off:1 Def:3),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+595,21500005,4,5:34,Lee Out of Bounds - Bad Pass Turnover Turnover (P2.T15),nan,nan,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+596,21500005,4,5:34,SUB: Johnson FOR Turner,nan,nan,202323,Evan Turner,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+597,21500005,4,5:27,Crowder STEAL (2 STL),McConnell Bad Pass Turnover (P3.T23),nan,204456,T.J. McConnell,PHI,203109,Jae Crowder,BOS,0,nan,nan,Turnover ,Bad Pass
+598,21500005,4,5:24,nan,Thompson S.FOUL (P5.T3) (R.Mott),nan,203138,Hollis Thompson,PHI,203109,Jae Crowder,BOS,0,nan,nan,Foul ,Shooting
+599,21500005,4,5:24,Crowder Free Throw 1 of 2 (10 PTS),nan,80 - 94,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+600,21500005,4,5:24,Crowder Free Throw 2 of 2 (11 PTS),nan,80 - 95,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+601,21500005,4,5:07,nan,Okafor 1' Layup (22 PTS) (Thompson 3 AST),82 - 95,1626143,Jahlil Okafor,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+602,21500005,4,4:56,MISS Smart 26' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+603,21500005,4,4:55,Crowder REBOUND (Off:2 Def:4),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+604,21500005,4,4:51,nan,Thompson S.FOUL (P6.T4) (Z.Zarba),nan,203138,Hollis Thompson,PHI,101135,David Lee,BOS,0,nan,nan,Foul ,Shooting
+605,21500005,4,4:51,nan,SUB: Sampson FOR Thompson,nan,203138,Hollis Thompson,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+606,21500005,4,4:51,Lee Free Throw 1 of 2 (7 PTS),nan,82 - 96,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+607,21500005,4,4:51,Lee Free Throw 2 of 2 (8 PTS),nan,82 - 97,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+608,21500005,4,4:39,nan,MISS Okafor 8' Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+609,21500005,4,4:37,Johnson REBOUND (Off:2 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+610,21500005,4,4:30,Johnson 3' Alley Oop Layup (13 PTS) (Smart 5 AST),nan,82 - 99,101161,Amir Johnson,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+611,21500005,4,4:10,nan,Okafor Out of Bounds - Bad Pass Turnover Turnover (P8.T24),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+612,21500005,4,3:59,MISS Lee 2' Layup,nan,nan,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+613,21500005,4,3:58,Johnson REBOUND (Off:3 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+614,21500005,4,3:58,Johnson  Tip Layup Shot (15 PTS),nan,82 - 101,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+615,21500005,4,3:58,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+616,21500005,4,3:58,SUB: Zeller FOR Lee,nan,nan,101135,David Lee,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+617,21500005,4,3:58,SUB: Thomas FOR Smart,nan,nan,203935,Marcus Smart,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+618,21500005,4,3:41,nan,Okafor 10' Jump Shot (24 PTS) (Canaan 2 AST),84 - 101,1626143,Jahlil Okafor,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+619,21500005,4,3:30,nan,Okafor P.FOUL (P4.PN) (R.Mott),nan,1626143,Jahlil Okafor,PHI,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Personal
+620,21500005,4,3:30,Zeller Free Throw 1 of 2 (3 PTS),nan,84 - 102,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+621,21500005,4,3:30,nan,SUB: Grant FOR Sampson,nan,203960,JaKarr Sampson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+622,21500005,4,3:30,Zeller Free Throw 2 of 2 (4 PTS),nan,84 - 103,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+623,21500005,4,3:10,Bradley S.FOUL (P2.PN) (E.Roe),nan,nan,202340,Avery Bradley,BOS,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Shooting
+624,21500005,4,3:10,nan,Canaan Free Throw 1 of 2 (17 PTS),85 - 103,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+625,21500005,4,3:10,nan,Canaan Free Throw 2 of 2 (18 PTS),86 - 103,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+626,21500005,4,2:59,Thomas 13' Floating Jump Shot (27 PTS),nan,86 - 105,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+627,21500005,4,2:31,nan,MISS Noel 5' Jump Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+628,21500005,4,2:30,Thomas REBOUND (Off:1 Def:1),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+629,21500005,4,2:18,Johnson Lost Ball Turnover (P1.T16),McConnell STEAL (3 STL),nan,101161,Amir Johnson,BOS,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Lost Ball
+630,21500005,4,2:10,nan,Okafor 3' Running Jump Shot (26 PTS) (McConnell 4 AST),88 - 105,1626143,Jahlil Okafor,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+631,21500005,4,1:58,Bradley Out of Bounds Lost Ball Turnover (P2.T17),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+632,21500005,4,1:58,nan,SUB: Wood FOR Noel,nan,203457,Nerlens Noel,PHI,1626174,Christian Wood,PHI,0,nan,nan,Substitution ,nan
+633,21500005,4,1:58,nan,SUB: Sampson FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+634,21500005,4,1:58,nan,SUB: Holmes FOR Canaan,nan,203477,Isaiah Canaan,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+635,21500005,4,1:58,SUB: Rozier FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+636,21500005,4,1:58,SUB: Mickey FOR Johnson,nan,nan,101161,Amir Johnson,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Substitution ,nan
+637,21500005,4,1:38,nan,MISS Holmes 5' Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+638,21500005,4,1:35,nan,Wood REBOUND (Off:2 Def:0),nan,1626174,Christian Wood,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+639,21500005,4,1:35,nan,MISS Wood 1' Layup,nan,1626174,Christian Wood,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+640,21500005,4,1:33,Mickey REBOUND (Off:0 Def:1),nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+641,21500005,4,1:28,MISS Rozier 4' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+642,21500005,4,1:27,Rozier REBOUND (Off:1 Def:0),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+643,21500005,4,1:27,MISS Rozier 1' Tip Layup Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+644,21500005,4,1:26,Mickey REBOUND (Off:1 Def:1),nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+645,21500005,4,1:26,nan,Sampson S.FOUL (P1.PN) (Z.Zarba),nan,203960,JaKarr Sampson,PHI,1626175,Jordan Mickey,BOS,0,nan,nan,Foul ,Shooting
+646,21500005,4,1:26,Mickey Free Throw 1 of 2 (1 PTS),nan,88 - 106,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+647,21500005,4,1:26,Mickey Free Throw 2 of 2 (2 PTS),nan,88 - 107,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+648,21500005,4,1:15,Mickey P.FOUL (P1.PN) (Z.Zarba),nan,nan,1626175,Jordan Mickey,BOS,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Personal
+649,21500005,4,1:15,nan,Grant Free Throw 1 of 2 (5 PTS),89 - 107,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+650,21500005,4,1:15,nan,Grant Free Throw 2 of 2 (6 PTS),90 - 107,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+651,21500005,4,1:00,Crowder 26' 3PT Jump Shot (14 PTS) (Mickey 1 AST),nan,90 - 110,203109,Jae Crowder,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Made Shot ,nan
+652,21500005,4,0:51,nan,Grant 1' Driving Layup (8 PTS),92 - 110,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+653,21500005,4,0:51,Zeller S.FOUL (P3.PN) (R.Mott),nan,nan,203092,Tyler Zeller,BOS,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+654,21500005,4,0:51,nan,Grant Free Throw 1 of 1 (9 PTS),93 - 110,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+655,21500005,4,0:35,Zeller 16' Jump Shot (6 PTS) (Bradley 2 AST),nan,93 - 112,203092,Tyler Zeller,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+656,21500005,4,0:17,nan,Sampson 6' Turnaround Jump Shot (13 PTS),95 - 112,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+657,21500005,4,0:00,nan,nan,95 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

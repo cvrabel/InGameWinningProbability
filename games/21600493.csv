@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+214315,21600493,4,12:00,nan,nan,77 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+214316,21600493,4,11:42,Burke STEAL (2 STL),Dinwiddie Bad Pass Turnover (P4.T18),nan,203915,Spencer Dinwiddie,BKN,203504,Trey Burke,WAS,0,nan,nan,Turnover ,Bad Pass
+214317,21600493,4,11:41,nan,Foye Personal Take Foul (P1.T1) (R.Mott),nan,200751,Randy Foye,BKN,203504,Trey Burke,WAS,0,nan,nan,Foul ,Personal Take
+214318,21600493,4,11:32,Smith Bad Pass Turnover (P1.T17),Lopez STEAL (1 STL),nan,201160,Jason Smith,WAS,201572,Brook Lopez,BKN,0,nan,nan,Turnover ,Bad Pass
+214319,21600493,4,11:28,Smith S.FOUL (P5.T1) (D.Richardson),nan,nan,201160,Jason Smith,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Foul ,Shooting
+214320,21600493,4,11:28,nan,LeVert Free Throw 1 of 2 (9 PTS),78 - 91,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214321,21600493,4,11:28,SUB: Gortat FOR Smith,nan,nan,201160,Jason Smith,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+214322,21600493,4,11:28,nan,LeVert Free Throw 2 of 2 (10 PTS),79 - 91,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214323,21600493,4,11:09,Gortat  Driving Dunk (17 PTS) (Thornton 3 AST),nan,79 - 93,101162,Marcin Gortat,WAS,201977,Marcus Thornton,WAS,0,nan,nan,Made Shot ,nan
+214324,21600493,4,10:47,nan,Hollis-Jefferson 15' Jump Shot (12 PTS),81 - 93,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+214325,21600493,4,10:30,Burke 19' Jump Shot (22 PTS),nan,81 - 95,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214326,21600493,4,10:08,Thornton BLOCK (1 BLK),MISS Hollis-Jefferson  Layup,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,201977,Marcus Thornton,WAS,Missed Shot ,nan
+214327,21600493,4,10:07,Gortat REBOUND (Off:2 Def:8),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214328,21600493,4,9:55,MISS Oubre Jr.  3PT Jump Shot,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214329,21600493,4,9:53,nan,LeVert REBOUND (Off:0 Def:2),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214330,21600493,4,9:41,nan,Hollis-Jefferson 1' Driving Layup (14 PTS),83 - 95,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+214331,21600493,4,9:41,Oubre Jr. S.FOUL (P1.T2) (B.Spooner),nan,nan,1626162,Kelly Oubre Jr.,WAS,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+214332,21600493,4,9:41,nan,MISS Hollis-Jefferson Free Throw 1 of 1,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+214333,21600493,4,9:40,Porter Jr. REBOUND (Off:0 Def:4),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214334,21600493,4,9:27,WIZARDS Timeout: Regular (Full 4 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214335,21600493,4,9:15,WIZARDS Turnover: Shot Clock (T#18),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+214336,21600493,4,9:02,nan,MISS Lopez 7' Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214337,21600493,4,9:01,Gortat REBOUND (Off:2 Def:9),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214338,21600493,4,8:51,nan,LeVert S.FOUL (P3.T2) (R.Mott),nan,1627747,Caris LeVert,BKN,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Shooting
+214339,21600493,4,8:51,Gortat Free Throw 1 of 2 (18 PTS),nan,83 - 96,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214340,21600493,4,8:51,SUB: Wall FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+214341,21600493,4,8:51,SUB: McClellan FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,1627815,Sheldon McClellan,WAS,0,nan,nan,Substitution ,nan
+214342,21600493,4,8:51,Gortat Free Throw 2 of 2 (19 PTS),nan,83 - 97,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214343,21600493,4,8:38,nan,MISS Hollis-Jefferson 17' Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214344,21600493,4,8:37,Gortat REBOUND (Off:2 Def:10),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214345,21600493,4,8:26,nan,Nets T.Foul (Def. 3 Sec LeVert ) (D.Richardson),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+214346,21600493,4,8:26,Wall Free Throw Technical (18 PTS),nan,83 - 98,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+214347,21600493,4,8:21,Thornton 5' Driving Bank Shot (5 PTS) (Burke 1 AST),nan,83 - 100,201977,Marcus Thornton,WAS,203504,Trey Burke,WAS,0,nan,nan,Made Shot ,nan
+214348,21600493,4,8:07,nan,LeVert 15' Jump Shot (12 PTS),85 - 100,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+214349,21600493,4,7:47,MISS Thornton 19' Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214350,21600493,4,7:46,nan,LeVert REBOUND (Off:0 Def:3),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214351,21600493,4,7:26,nan,MISS Lopez 24' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214352,21600493,4,7:26,Thornton REBOUND (Off:1 Def:2),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214353,21600493,4,7:15,MISS Wall 2' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214354,21600493,4,7:14,nan,Hollis-Jefferson REBOUND (Off:0 Def:4),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214355,21600493,4,7:11,Thornton Shooting Block Foul (P2.T3) (R.Mott),nan,nan,201977,Marcus Thornton,WAS,200751,Randy Foye,BKN,0,nan,nan,Foul ,Shooting Block
+214356,21600493,4,7:11,nan,Foye Free Throw 1 of 2 (4 PTS),86 - 100,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214357,21600493,4,7:11,nan,SUB: Whitehead FOR Dinwiddie,nan,203915,Spencer Dinwiddie,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+214358,21600493,4,7:11,nan,Foye Free Throw 2 of 2 (5 PTS),87 - 100,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214359,21600493,4,6:52,McClellan 25' 3PT Jump Shot (6 PTS) (Thornton 4 AST),nan,87 - 103,1627815,Sheldon McClellan,WAS,201977,Marcus Thornton,WAS,0,nan,nan,Made Shot ,nan
+214360,21600493,4,6:33,nan,Hollis-Jefferson Out of Bounds - Bad Pass Turnover Turnover (P2.T19),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+214361,21600493,4,6:18,MISS Wall 1' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214362,21600493,4,6:18,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214363,21600493,4,6:07,nan,MISS Whitehead 25' 3PT Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214364,21600493,4,6:06,Gortat REBOUND (Off:2 Def:11),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214365,21600493,4,5:48,nan,Nets T.Foul (Def. 3 Sec Lopez ) (R.Mott),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+214366,21600493,4,5:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+214367,21600493,4,5:48,Wall Free Throw Technical (19 PTS),nan,87 - 104,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+214368,21600493,4,5:41,nan,Lopez S.FOUL (P2.T3) (D.Richardson),nan,201572,Brook Lopez,BKN,1627815,Sheldon McClellan,WAS,0,nan,nan,Foul ,Shooting
+214369,21600493,4,5:41,McClellan Free Throw 1 of 2 (7 PTS),nan,87 - 105,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214370,21600493,4,5:41,McClellan Free Throw 2 of 2 (8 PTS),nan,87 - 106,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214371,21600493,4,5:31,Wall STEAL (4 STL),Foye Bad Pass Turnover (P2.T20),nan,200751,Randy Foye,BKN,202322,John Wall,WAS,0,nan,nan,Turnover ,Bad Pass
+214372,21600493,4,5:19,Wall Bad Pass Turnover (P6.T19),Whitehead STEAL (1 STL),nan,202322,John Wall,WAS,1627785,Isaiah Whitehead,BKN,0,nan,nan,Turnover ,Bad Pass
+214373,21600493,4,5:17,Thornton Personal Take Foul (P3.T4) (D.Richardson),nan,nan,201977,Marcus Thornton,WAS,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Personal Take
+214374,21600493,4,5:17,nan,SUB: Dinwiddie FOR LeVert,nan,1627747,Caris LeVert,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Substitution ,nan
+214375,21600493,4,5:17,nan,SUB: Hamilton FOR Lopez,nan,201572,Brook Lopez,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+214376,21600493,4,4:58,nan,MISS Hollis-Jefferson 17' Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214377,21600493,4,4:57,Burke REBOUND (Off:0 Def:2),nan,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214378,21600493,4,4:44,Burke 20' Jump Shot (24 PTS) (Wall 14 AST),nan,87 - 108,203504,Trey Burke,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+214379,21600493,4,4:42,nan,Nets Timeout: Short (Reg.3 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+214380,21600493,4,4:41,SUB: Smith FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,201160,Jason Smith,WAS,0,nan,nan,Substitution ,nan
+214381,21600493,4,4:41,SUB: Satoransky FOR Wall,nan,nan,202322,John Wall,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Substitution ,nan
+214382,21600493,4,4:29,nan,Hamilton 1' Layup (2 PTS) (Dinwiddie 3 AST),89 - 108,203120,Justin Hamilton,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+214383,21600493,4,4:10,MISS Burke 20' Jump Shot,nan,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214384,21600493,4,4:09,nan,Hamilton REBOUND (Off:0 Def:2),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214385,21600493,4,4:05,Satoransky S.FOUL (P1.PN) (D.Richardson),nan,nan,203107,Tomas Satoransky,WAS,200751,Randy Foye,BKN,0,nan,nan,Foul ,Shooting
+214386,21600493,4,4:05,nan,Foye Free Throw 1 of 2 (6 PTS),90 - 108,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214387,21600493,4,4:05,nan,Foye Free Throw 2 of 2 (7 PTS),91 - 108,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214388,21600493,4,3:56,nan,Dinwiddie P.FOUL (P2.T4) (D.Richardson),nan,203915,Spencer Dinwiddie,BKN,1627815,Sheldon McClellan,WAS,0,nan,nan,Foul ,Personal
+214389,21600493,4,3:43,Thornton 26' 3PT Jump Shot (8 PTS) (Burke 2 AST),nan,91 - 111,201977,Marcus Thornton,WAS,203504,Trey Burke,WAS,0,nan,nan,Made Shot ,nan
+214390,21600493,4,3:30,McClellan STEAL (1 STL),Hamilton Lost Ball Turnover (P1.T21),nan,203120,Justin Hamilton,BKN,1627815,Sheldon McClellan,WAS,0,nan,nan,Turnover ,Lost Ball
+214391,21600493,4,3:10,MISS McClellan 1' Layup,nan,nan,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214392,21600493,4,3:10,nan,Hamilton REBOUND (Off:0 Def:3),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214393,21600493,4,3:01,nan,MISS Foye 20' Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214394,21600493,4,3:00,Smith REBOUND (Off:3 Def:5),nan,nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214395,21600493,4,2:41,Smith 19' Jump Shot (10 PTS) (Thornton 5 AST),nan,91 - 113,201160,Jason Smith,WAS,201977,Marcus Thornton,WAS,0,nan,nan,Made Shot ,nan
+214396,21600493,4,2:29,Smith S.FOUL (P6.PN) (D.Richardson),nan,nan,201160,Jason Smith,WAS,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+214397,21600493,4,2:29,nan,Nets Timeout: Regular (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214398,21600493,4,2:29,SUB: Ochefu FOR Smith,nan,nan,201160,Jason Smith,WAS,1627849,Daniel Ochefu,WAS,0,nan,nan,Substitution ,nan
+214399,21600493,4,2:29,SUB: Nicholson FOR Thornton,nan,nan,201977,Marcus Thornton,WAS,203094,Andrew Nicholson,WAS,0,nan,nan,Substitution ,nan
+214400,21600493,4,2:29,nan,Hollis-Jefferson Free Throw 1 of 2 (15 PTS),92 - 113,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214401,21600493,4,2:29,nan,Hollis-Jefferson Free Throw 2 of 2 (16 PTS),93 - 113,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214402,21600493,4,2:14,Ochefu  Driving Dunk (2 PTS) (McClellan 2 AST),nan,93 - 115,1627849,Daniel Ochefu,WAS,1627815,Sheldon McClellan,WAS,0,nan,nan,Made Shot ,nan
+214403,21600493,4,1:53,nan,MISS Foye 26' 3PT Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214404,21600493,4,1:52,nan,Hollis-Jefferson REBOUND (Off:1 Def:4),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214405,21600493,4,1:41,nan,Foye 1' Driving Layup (9 PTS),95 - 115,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+214406,21600493,4,1:21,MISS Ochefu 4' Jump Shot,nan,nan,1627849,Daniel Ochefu,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214407,21600493,4,1:20,nan,Foye REBOUND (Off:0 Def:2),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214408,21600493,4,1:12,nan,MISS Whitehead 1' Layup,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214409,21600493,4,1:11,Ochefu REBOUND (Off:0 Def:1),nan,nan,1627849,Daniel Ochefu,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214410,21600493,4,1:00,Satoransky Out of Bounds - Bad Pass Turnover Turnover (P1.T20),nan,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+214411,21600493,4,0:47,nan,MISS Whitehead 2' Layup,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214412,21600493,4,0:45,nan,Hamilton REBOUND (Off:1 Def:3),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214413,21600493,4,0:44,nan,MISS Hamilton 1' Layup,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214414,21600493,4,0:44,Ochefu REBOUND (Off:0 Def:2),nan,nan,1627849,Daniel Ochefu,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214415,21600493,4,0:16,Burke 28' 3PT Step Back Jump Shot (27 PTS),nan,95 - 118,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214416,21600493,4,0:01,nan,MISS Hollis-Jefferson 18' Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214417,21600493,4,0:01,Ochefu REBOUND (Off:0 Def:3),nan,nan,1627849,Daniel Ochefu,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214418,21600493,4,0:00,nan,nan,95 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

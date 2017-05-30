@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+188913,21600286,4,12:00,nan,nan,80 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+188914,21600286,4,11:46,MISS Wade 17' Step Back Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188915,21600286,4,11:45,nan,Shumpert REBOUND (Off:0 Def:1),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188916,21600286,4,11:39,Wade P.FOUL (P2.T1) (N.Buchert),nan,nan,2548,Dwyane Wade,CHI,101112,Channing Frye,CLE,0,nan,nan,Foul ,Personal
+188917,21600286,4,11:34,Canaan P.FOUL (P2.T2) (B.Spooner),nan,nan,203477,Isaiah Canaan,CHI,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+188918,21600286,4,11:25,nan,Frye 1' Layup (9 PTS) (James 9 AST),82 - 88,101112,Channing Frye,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+188919,21600286,4,11:06,Gibson 7' Turnaround Jump Shot (23 PTS) (Rondo 10 AST),nan,82 - 90,201959,Taj Gibson,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+188920,21600286,4,10:50,nan,Frye 2' Cutting Layup Shot (11 PTS) (Shumpert 2 AST),84 - 90,101112,Channing Frye,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+188921,21600286,4,10:25,MISS Wade 18' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188922,21600286,4,10:25,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188923,21600286,4,10:25,Gibson L.B.FOUL (P3.T3) (B.Spooner),nan,nan,201959,Taj Gibson,CHI,101112,Channing Frye,CLE,0,nan,nan,Foul ,Loose Ball
+188924,21600286,4,10:18,nan,James Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+188925,21600286,4,10:02,Wade 1' Layup (20 PTS) (Rondo 11 AST),nan,84 - 92,2548,Dwyane Wade,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+188926,21600286,4,9:45,Wade STEAL (2 STL),James Lost Ball Turnover (P5.T16),nan,2544,LeBron James,CLE,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Lost Ball
+188927,21600286,4,9:38,MISS Canaan  3PT Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188928,21600286,4,9:37,Wade REBOUND (Off:2 Def:2),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188929,21600286,4,9:34,Rondo Bad Pass Turnover (P2.T10),Shumpert STEAL (1 STL),nan,200765,Rajon Rondo,CHI,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+188930,21600286,4,9:26,nan,Jefferson  3PT Jump Shot (3 PTS) (Shumpert 3 AST),87 - 92,2210,Richard Jefferson,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+188931,21600286,4,9:10,MISS Mirotic 27' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188932,21600286,4,9:09,nan,Shumpert REBOUND (Off:0 Def:2),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188933,21600286,4,8:55,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188934,21600286,4,8:54,Mirotic REBOUND (Off:1 Def:4),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188935,21600286,4,8:45,MISS Wade 26' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188936,21600286,4,8:44,Gibson REBOUND (Off:1 Def:9),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188937,21600286,4,8:37,MISS Mirotic 2' Driving Layup,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188938,21600286,4,8:36,nan,Love REBOUND (Off:0 Def:7),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188939,21600286,4,8:29,nan,James 1' Driving Layup (25 PTS),89 - 92,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+188940,21600286,4,8:29,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188941,21600286,4,8:29,SUB: Butler FOR Wade,nan,nan,2548,Dwyane Wade,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+188942,21600286,4,8:09,MISS Mirotic 27' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188943,21600286,4,8:08,Rondo REBOUND (Off:2 Def:7),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188944,21600286,4,8:08,Rondo 1' Putback Layup (12 PTS),nan,89 - 94,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+188945,21600286,4,7:49,nan,MISS Shumpert 25' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188946,21600286,4,7:48,Mirotic REBOUND (Off:1 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188947,21600286,4,7:38,MISS Butler 21' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188948,21600286,4,7:37,Mirotic REBOUND (Off:2 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188949,21600286,4,7:20,Rondo 25' 3PT Jump Shot (15 PTS) (Gibson 5 AST),nan,89 - 97,200765,Rajon Rondo,CHI,201959,Taj Gibson,CHI,0,nan,nan,Made Shot ,nan
+188950,21600286,4,7:07,nan,James 1' Driving Layup (27 PTS),91 - 97,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+188951,21600286,4,6:47,Butler 2' Driving Floating Jump Shot (20 PTS),nan,91 - 99,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+188952,21600286,4,6:30,nan,Love 24' 3PT Jump Shot (12 PTS) (James 10 AST),94 - 99,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+188953,21600286,4,6:16,nan,Frye S.FOUL (P1.T1) (N.Buchert),nan,101112,Channing Frye,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+188954,21600286,4,6:16,Butler Free Throw 1 of 2 (21 PTS),nan,94 - 100,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188955,21600286,4,6:16,nan,SUB: Irving FOR Jefferson,nan,2210,Richard Jefferson,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+188956,21600286,4,6:16,Butler Free Throw 2 of 2 (22 PTS),nan,94 - 101,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188957,21600286,4,5:51,nan,MISS James 17' Fadeaway Jumper,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188958,21600286,4,5:50,Mirotic REBOUND (Off:2 Def:6),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188959,21600286,4,5:33,MISS Rondo 6' Driving Floating Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188960,21600286,4,5:32,nan,Frye REBOUND (Off:0 Def:2),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188961,21600286,4,5:23,nan,MISS Irving 11' Driving Floating Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188962,21600286,4,5:22,Mirotic REBOUND (Off:2 Def:7),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188963,21600286,4,4:59,MISS Butler 17' Pullup Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188964,21600286,4,4:58,Gibson REBOUND (Off:2 Def:9),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188965,21600286,4,4:58,MISS Gibson 1' Tip Layup Shot,nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188966,21600286,4,4:57,nan,Shumpert REBOUND (Off:0 Def:3),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188967,21600286,4,4:50,nan,Shumpert 2' Cutting Layup Shot (9 PTS) (Irving 8 AST),96 - 101,202697,Iman Shumpert,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+188968,21600286,4,4:28,Mirotic 13' Jump Shot (2 PTS) (Rondo 12 AST),nan,96 - 103,202703,Nikola Mirotic,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+188969,21600286,4,4:07,nan,Love  3PT Jump Shot (15 PTS) (James 11 AST),99 - 103,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+188970,21600286,4,3:48,nan,Irving P.FOUL (P1.T2) (N.Buchert),nan,202681,Kyrie Irving,CLE,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Personal
+188971,21600286,4,3:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188972,21600286,4,3:48,nan,nan,nan,435,Carlos Rogers,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+188973,21600286,4,3:48,SUB: Wade FOR Canaan,nan,nan,203477,Isaiah Canaan,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Substitution ,nan
+188974,21600286,4,3:33,MISS Wade 11' Turnaround Fadeaway Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188975,21600286,4,3:31,nan,James REBOUND (Off:0 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188976,21600286,4,3:24,nan,MISS Love 24' 3PT Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188977,21600286,4,3:22,Butler REBOUND (Off:3 Def:5),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188978,21600286,4,3:15,nan,Frye S.FOUL (P2.T3) (D.Taylor),nan,101112,Channing Frye,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+188979,21600286,4,3:15,Butler Free Throw 1 of 2 (23 PTS),nan,99 - 104,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188980,21600286,4,3:15,Butler Free Throw 2 of 2 (24 PTS),nan,99 - 105,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188981,21600286,4,3:04,nan,Irving 3' Cutting Layup Shot (16 PTS) (James 12 AST),101 - 105,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+188982,21600286,4,2:39,Wade 3' Driving Layup (22 PTS),nan,101 - 107,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+188983,21600286,4,2:30,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188984,21600286,4,2:30,nan,SUB: Smith FOR Shumpert,nan,202697,Iman Shumpert,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+188985,21600286,4,2:14,Mirotic STEAL (2 STL),James Lost Ball Turnover (P6.T17),nan,2544,LeBron James,CLE,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Lost Ball
+188986,21600286,4,1:58,MISS Mirotic  3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188987,21600286,4,1:58,Wade REBOUND (Off:3 Def:2),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188988,21600286,4,1:58,Wade 1' Putback Layup (24 PTS),nan,101 - 109,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+188989,21600286,4,1:53,nan,James Out of Bounds - Bad Pass Turnover Turnover (P7.T18),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+188990,21600286,4,1:34,MISS Butler 21' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188991,21600286,4,1:33,nan,Love REBOUND (Off:0 Def:8),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188992,21600286,4,1:11,Mirotic BLOCK (1 BLK),MISS Irving 24' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+188993,21600286,4,1:11,nan,Irving REBOUND (Off:4 Def:2),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188994,21600286,4,1:11,nan,MISS Irving 24' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188995,21600286,4,1:11,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188996,21600286,4,1:11,nan,Cavaliers Turnover: Shot Clock (T#19),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+188997,21600286,4,0:49,MISS Gibson 7' Jump Shot,nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188998,21600286,4,0:48,nan,Love REBOUND (Off:0 Def:9),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188999,21600286,4,0:37,nan,MISS Smith 26' 3PT Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189000,21600286,4,0:36,Rondo REBOUND (Off:2 Def:8),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189001,21600286,4,0:18,Wade Traveling Turnover (P4.T11),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+189002,21600286,4,0:18,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189003,21600286,4,0:11,nan,Irving 1' Driving Layup (18 PTS) (James 13 AST),103 - 109,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+189004,21600286,4,0:08,Rondo Bad Pass Turnover (P3.T12),Irving STEAL (1 STL),nan,200765,Rajon Rondo,CHI,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+189005,21600286,4,0:08,nan,Irving 2' Layup (20 PTS),105 - 109,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+189006,21600286,4,0:08,nan,Smith Personal Take Foul (P2.T4) (B.Spooner),nan,2747,JR Smith,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal Take
+189007,21600286,4,0:06,nan,Smith P.FOUL (P3.PN) (D.Taylor),nan,2747,JR Smith,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+189008,21600286,4,0:06,Butler Free Throw 1 of 2 (25 PTS),nan,105 - 110,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189009,21600286,4,0:06,Butler Free Throw 2 of 2 (26 PTS),nan,105 - 111,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189010,21600286,4,0:06,nan,Cavaliers Timeout: Short (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+189011,21600286,4,0:05,Butler STEAL (3 STL),James Bad Pass Turnover (P8.T20),nan,2544,LeBron James,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Bad Pass
+189012,21600286,4,0:00,nan,nan,105 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

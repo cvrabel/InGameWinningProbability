@@ -1,0 +1,97 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+229746,21600621,4,12:00,nan,nan,75 - 96,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+229747,21600621,4,11:42,Bass  Cutting Dunk Shot (6 PTS) (Anderson 1 AST),nan,75 - 98,101138,Brandon Bass,LAC,101187,Alan Anderson,LAC,0,nan,nan,Made Shot ,nan
+229748,21600621,4,11:29,nan,MISS Lauvergne 2' Layup,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229749,21600621,4,11:28,Speights REBOUND (Off:2 Def:5),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229750,21600621,4,11:18,Speights 25' 3PT Jump Shot (16 PTS) (Rivers 5 AST),nan,75 - 101,201578,Marreese Speights,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+229751,21600621,4,11:05,nan,MISS Sabonis 22' Jump Shot,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229752,21600621,4,11:05,Anderson REBOUND (Off:0 Def:1),nan,nan,101187,Alan Anderson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229753,21600621,4,10:56,MISS Speights 26' 3PT Jump Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229754,21600621,4,10:55,nan,Grant REBOUND (Off:1 Def:7),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229755,21600621,4,10:49,nan,MISS Abrines 18' Pullup Jump Shot,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229756,21600621,4,10:46,Speights REBOUND (Off:2 Def:6),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229757,21600621,4,10:35,MISS Rivers 24' 3PT Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229758,21600621,4,10:35,nan,Lauvergne REBOUND (Off:3 Def:1),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229759,21600621,4,10:35,nan,Thunder Timeout: Regular (Reg.5 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+229760,21600621,4,10:24,nan,MISS Lauvergne 25' 3PT Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229761,21600621,4,10:23,Bass REBOUND (Off:2 Def:1),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229762,21600621,4,9:59,MISS Anderson 16' Jump Shot,nan,nan,101187,Alan Anderson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229763,21600621,4,9:59,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229764,21600621,4,9:59,CLIPPERS Turnover: Shot Clock (T#11),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+229765,21600621,4,9:44,nan,Grant  3PT Jump Shot (9 PTS) (Payne 2 AST),78 - 101,203924,Jerami Grant,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+229766,21600621,4,9:20,MISS Crawford 2' Driving Finger Roll Layup,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229767,21600621,4,9:18,nan,Lauvergne REBOUND (Off:3 Def:2),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229768,21600621,4,9:08,nan,Payne 17' Pullup Jump Shot (4 PTS),80 - 101,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229769,21600621,4,8:55,nan,Payne S.FOUL (P2.T1) (R.Garretson),nan,1626166,Cameron Payne,OKC,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+229770,21600621,4,8:55,Rivers Free Throw 1 of 2 (11 PTS),nan,80 - 102,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229771,21600621,4,8:55,Rivers Free Throw 2 of 2 (12 PTS),nan,80 - 103,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229772,21600621,4,8:37,nan,Sabonis Traveling Turnover (P2.T13),nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+229773,21600621,4,8:26,MISS Speights  Cutting Dunk Shot,Grant BLOCK (3 BLK),nan,201578,Marreese Speights,LAC,0,nan,nan,203924,Jerami Grant,OKC,Missed Shot ,nan
+229774,21600621,4,8:25,Crawford REBOUND (Off:1 Def:3),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229775,21600621,4,8:11,Anderson 1' Cutting Layup Shot (5 PTS) (Crawford 1 AST),nan,80 - 105,101187,Alan Anderson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+229776,21600621,4,8:02,nan,Payne 13' Pullup Jump Shot (6 PTS),82 - 105,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229777,21600621,4,7:47,Crawford Lost Ball Turnover (P1.T12),Payne STEAL (1 STL),nan,2037,Jamal Crawford,LAC,1626166,Cameron Payne,OKC,0,nan,nan,Turnover ,Lost Ball
+229778,21600621,4,7:42,nan,Payne 2' Running Layup (8 PTS),84 - 105,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229779,21600621,4,7:27,Rivers 1' Driving Layup (14 PTS),nan,84 - 107,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229780,21600621,4,7:14,nan,Abrines 2' Reverse Layup (2 PTS) (Lauvergne 1 AST),86 - 107,203518,Alex Abrines,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Made Shot ,nan
+229781,21600621,4,7:14,Anderson S.FOUL (P1.T1) (R.Garretson),nan,nan,101187,Alan Anderson,LAC,203518,Alex Abrines,OKC,0,nan,nan,Foul ,Shooting
+229782,21600621,4,7:14,nan,MISS Abrines Free Throw 1 of 1,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+229783,21600621,4,7:13,Speights REBOUND (Off:2 Def:7),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229784,21600621,4,6:57,Rivers 5' Floating Jump Shot (16 PTS),nan,86 - 109,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229785,21600621,4,6:50,nan,MISS Payne 24' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229786,21600621,4,6:49,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229787,21600621,4,6:49,nan,SUB: Singler FOR Abrines,nan,203518,Alex Abrines,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+229788,21600621,4,6:32,MISS Rivers 25' 3PT Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229789,21600621,4,6:31,nan,Lauvergne REBOUND (Off:3 Def:3),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229790,21600621,4,6:24,nan,MISS Grant 20' Jump Shot,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229791,21600621,4,6:24,Bass REBOUND (Off:2 Def:2),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229792,21600621,4,6:15,Crawford Bad Pass Turnover (P2.T13),Sabonis STEAL (2 STL),nan,2037,Jamal Crawford,LAC,1627734,Domantas Sabonis,OKC,0,nan,nan,Turnover ,Bad Pass
+229793,21600621,4,6:12,Speights S.FOUL (P4.T2) (M.Davis),nan,nan,201578,Marreese Speights,LAC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Foul ,Shooting
+229794,21600621,4,6:12,nan,Lauvergne Free Throw 1 of 2 (12 PTS),87 - 109,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229795,21600621,4,6:12,nan,Lauvergne Free Throw 2 of 2 (13 PTS),88 - 109,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229796,21600621,4,5:47,Speights 8' Floating Jump Shot (18 PTS),nan,88 - 111,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229797,21600621,4,5:25,nan,Sabonis 24' 3PT Jump Shot (7 PTS) (Grant 1 AST),91 - 111,1627734,Domantas Sabonis,OKC,203924,Jerami Grant,OKC,0,nan,nan,Made Shot ,nan
+229798,21600621,4,5:11,nan,Payne S.FOUL (P3.T2) (R.Garretson),nan,1626166,Cameron Payne,OKC,101138,Brandon Bass,LAC,0,nan,nan,Foul ,Shooting
+229799,21600621,4,5:11,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+229800,21600621,4,5:11,nan,SUB: Abrines FOR Grant,nan,203924,Jerami Grant,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+229801,21600621,4,5:11,SUB: Felton FOR Anderson,nan,nan,101187,Alan Anderson,LAC,101109,Raymond Felton,LAC,0,nan,nan,Substitution ,nan
+229802,21600621,4,5:11,Bass Free Throw 1 of 2 (7 PTS),nan,91 - 112,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229803,21600621,4,5:11,Bass Free Throw 2 of 2 (8 PTS),nan,91 - 113,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229804,21600621,4,4:59,Speights STEAL (1 STL),Payne Bad Pass Turnover (P1.T14),nan,1626166,Cameron Payne,OKC,201578,Marreese Speights,LAC,0,nan,nan,Turnover ,Bad Pass
+229805,21600621,4,4:57,nan,Abrines C.P.FOUL (P4.T3) (M.Davis),nan,203518,Alex Abrines,OKC,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Clear Path
+229806,21600621,4,4:57,Speights Free Throw Clear Path 1 of 2 (19 PTS),nan,91 - 114,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 1 of 2
+229807,21600621,4,4:57,Speights Free Throw Clear Path 2 of 2 (20 PTS),nan,91 - 115,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 2 of 2
+229808,21600621,4,4:36,MISS Bass 14' Jump Shot,nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229809,21600621,4,4:36,nan,Singler REBOUND (Off:0 Def:1),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229810,21600621,4,4:22,nan,MISS Abrines 27' 3PT Jump Shot,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229811,21600621,4,4:22,Rivers REBOUND (Off:0 Def:2),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229812,21600621,4,4:10,Speights 26' 3PT Jump Shot (23 PTS) (Rivers 6 AST),nan,91 - 118,201578,Marreese Speights,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+229813,21600621,4,3:46,Bass STEAL (1 STL),Payne Bad Pass Turnover (P2.T15),nan,1626166,Cameron Payne,OKC,101138,Brandon Bass,LAC,0,nan,nan,Turnover ,Bad Pass
+229814,21600621,4,3:34,Speights Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+229815,21600621,4,3:34,nan,Thunder Timeout: Regular (Reg.6 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+229816,21600621,4,3:34,SUB: Anderson FOR Rivers,nan,nan,203085,Austin Rivers,LAC,101187,Alan Anderson,LAC,0,nan,nan,Substitution ,nan
+229817,21600621,4,3:19,nan,MISS Abrines 19' Pullup Jump Shot,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229818,21600621,4,3:17,Bass REBOUND (Off:2 Def:3),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229819,21600621,4,2:56,MISS Anderson 16' Step Back Jump Shot,nan,nan,101187,Alan Anderson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229820,21600621,4,2:54,nan,Lauvergne REBOUND (Off:3 Def:4),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229821,21600621,4,2:49,Anderson P.FOUL (P2.T3) (R.Garretson),nan,nan,101187,Alan Anderson,LAC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Foul ,Personal
+229822,21600621,4,2:38,nan,Singler 16' Jump Shot (2 PTS),93 - 118,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229823,21600621,4,2:15,Bass 2' Reverse Layup (10 PTS),nan,93 - 120,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+229824,21600621,4,2:02,nan,MISS Lauvergne 25' 3PT Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229825,21600621,4,2:01,Felton REBOUND (Off:0 Def:3),nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229826,21600621,4,1:45,Bass Lost Ball Turnover (P1.T15),Lauvergne STEAL (1 STL),nan,101138,Brandon Bass,LAC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Turnover ,Lost Ball
+229827,21600621,4,1:40,nan,MISS Lauvergne 1' Running Layup,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229828,21600621,4,1:38,Speights REBOUND (Off:2 Def:8),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229829,21600621,4,1:20,MISS Speights 28' 3PT Jump Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229830,21600621,4,1:19,nan,Lauvergne REBOUND (Off:3 Def:5),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229831,21600621,4,1:10,nan,Sabonis 25' 3PT Jump Shot (10 PTS) (Abrines 1 AST),96 - 120,1627734,Domantas Sabonis,OKC,203518,Alex Abrines,OKC,0,nan,nan,Made Shot ,nan
+229832,21600621,4,0:47,MISS Crawford 16' Step Back Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229833,21600621,4,0:45,nan,Lauvergne REBOUND (Off:3 Def:6),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229834,21600621,4,0:41,Anderson P.FOUL (P3.T4) (M.Davis),nan,nan,101187,Alan Anderson,LAC,1627734,Domantas Sabonis,OKC,0,nan,nan,Foul ,Personal
+229835,21600621,4,0:38,Bass S.FOUL (P2.PN) (K.Lane),nan,nan,101138,Brandon Bass,LAC,203518,Alex Abrines,OKC,0,nan,nan,Foul ,Shooting
+229836,21600621,4,0:38,nan,Abrines Free Throw 1 of 2 (3 PTS),97 - 120,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229837,21600621,4,0:38,nan,Abrines Free Throw 2 of 2 (4 PTS),98 - 120,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229838,21600621,4,0:20,Crawford Step Out of Bounds Turnover (P3.T16),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+229839,21600621,4,0:10,nan,MISS Payne 25' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229840,21600621,4,0:10,Bass REBOUND (Off:2 Def:4),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229841,21600621,4,0:00,nan,nan,98 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

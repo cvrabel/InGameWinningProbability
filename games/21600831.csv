@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+255925,21600831,4,12:00,nan,nan,64 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+255926,21600831,4,11:44,nan,Joseph 19' Jump Shot (2 PTS) (Carroll 1 AST),66 - 78,202709,Cory Joseph,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Made Shot ,nan
+255927,21600831,4,11:30,nan,Carroll P.FOUL (P2.T1) (B.Barnaky),nan,201960,DeMarre Carroll,TOR,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Personal
+255928,21600831,4,11:24,Valentine Lost Ball Turnover (P1.T14),Lowry STEAL (1 STL),nan,1627756,Denzel Valentine,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Lost Ball
+255929,21600831,4,11:13,nan,MISS Carroll 26' 3PT Jump Shot,nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255930,21600831,4,11:11,Valentine REBOUND (Off:0 Def:1),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255931,21600831,4,11:05,MISS Valentine 26' 3PT Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255932,21600831,4,11:03,nan,Carroll REBOUND (Off:0 Def:2),nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255933,21600831,4,10:56,nan,Joseph 3' Driving Layup (4 PTS),68 - 78,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255934,21600831,4,10:39,nan,Nogueira P.FOUL (P3.T2) (M.Kogut),nan,203512,Lucas Nogueira,TOR,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Personal
+255935,21600831,4,10:25,Valentine  3PT Jump Shot (3 PTS) (Rondo 3 AST),nan,68 - 81,1627756,Denzel Valentine,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+255936,21600831,4,10:11,nan,Nogueira  Dunk (7 PTS) (Lowry 4 AST),70 - 81,203512,Lucas Nogueira,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+255937,21600831,4,9:41,McDermott 17' Step Back Jump Shot (14 PTS) (Rondo 4 AST),nan,70 - 83,203926,Doug McDermott,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+255938,21600831,4,9:31,Carter-Williams P.FOUL (P2.T1) (S.Foster),nan,nan,203487,Michael Carter-Williams,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+255939,21600831,4,9:21,nan,Lowry 25' 3PT Jump Shot (16 PTS),73 - 83,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255940,21600831,4,9:03,MISS Rondo 22' Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255941,21600831,4,9:02,nan,Joseph REBOUND (Off:0 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255942,21600831,4,8:53,Felicio STEAL (2 STL),Nogueira Lost Ball Turnover (P4.T18),nan,203512,Lucas Nogueira,TOR,1626245,Cristiano Felicio,CHI,0,nan,nan,Turnover ,Lost Ball
+255943,21600831,4,8:50,nan,Wright S.FOUL (P1.T3) (S.Foster),nan,1626153,Delon Wright,TOR,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+255944,21600831,4,8:50,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255945,21600831,4,8:50,nan,SUB: Poeltl FOR Nogueira,nan,203512,Lucas Nogueira,TOR,1627751,Jakob Poeltl,TOR,0,nan,nan,Substitution ,nan
+255946,21600831,4,8:50,Felicio Free Throw 1 of 2 (9 PTS),nan,73 - 84,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255947,21600831,4,8:50,Felicio Free Throw 2 of 2 (10 PTS),nan,73 - 85,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255948,21600831,4,8:39,nan,MISS Wright  3PT Jump Shot,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255949,21600831,4,8:38,nan,Joseph REBOUND (Off:1 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255950,21600831,4,8:21,nan,Joseph 13' Floating Jump Shot (6 PTS),75 - 85,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255951,21600831,4,8:02,Rondo Out of Bounds Lost Ball Turnover (P5.T15),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+255952,21600831,4,7:41,nan,Wright 11' Jump Shot (2 PTS),77 - 85,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255953,21600831,4,7:17,nan,Carroll S.FOUL (P3.T4) (S.Foster),nan,201960,DeMarre Carroll,TOR,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Shooting
+255954,21600831,4,7:17,Carter-Williams Free Throw 1 of 2 (6 PTS),nan,77 - 86,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255955,21600831,4,7:17,SUB: Butler FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+255956,21600831,4,7:17,nan,SUB: DeRozan FOR Lowry,nan,200768,Kyle Lowry,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+255957,21600831,4,7:17,MISS Carter-Williams Free Throw 2 of 2,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255958,21600831,4,7:15,nan,Carroll REBOUND (Off:0 Def:3),nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255959,21600831,4,6:57,nan,MISS DeRozan 25' 3PT Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255960,21600831,4,6:56,Carter-Williams REBOUND (Off:0 Def:4),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255961,21600831,4,6:50,MISS McDermott 26' 3PT Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255962,21600831,4,6:48,nan,Wright REBOUND (Off:0 Def:1),nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255963,21600831,4,6:28,nan,MISS Joseph 14' Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255964,21600831,4,6:27,Carter-Williams REBOUND (Off:0 Def:5),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255965,21600831,4,6:19,McDermott 12' Jump Shot (16 PTS) (Carter-Williams 3 AST),nan,77 - 88,203926,Doug McDermott,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+255966,21600831,4,6:00,nan,Joseph 24' 3PT Jump Shot (9 PTS) (DeRozan 3 AST),80 - 88,202709,Cory Joseph,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+255967,21600831,4,5:45,MISS McDermott 15' Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255968,21600831,4,5:44,nan,Carroll REBOUND (Off:0 Def:4),nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255969,21600831,4,5:36,Carter-Williams S.FOUL (P3.T2) (S.Foster),nan,nan,203487,Michael Carter-Williams,CHI,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+255970,21600831,4,5:36,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255971,21600831,4,5:36,nan,SUB: Nogueira FOR Poeltl,nan,1627751,Jakob Poeltl,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Substitution ,nan
+255972,21600831,4,5:36,nan,MISS DeRozan Free Throw 1 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255973,21600831,4,5:36,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255974,21600831,4,5:36,nan,DeRozan Free Throw 2 of 2 (12 PTS),81 - 88,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255975,21600831,4,5:15,Valentine 26' 3PT Jump Shot (6 PTS) (Butler 11 AST),nan,81 - 91,1627756,Denzel Valentine,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+255976,21600831,4,4:57,nan,MISS DeRozan 17' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255977,21600831,4,4:56,Valentine REBOUND (Off:0 Def:2),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255978,21600831,4,4:51,McDermott 3' Layup (18 PTS) (Valentine 1 AST),nan,81 - 93,203926,Doug McDermott,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+255979,21600831,4,4:33,Carter-Williams P.FOUL (P4.T3) (S.Foster),nan,nan,203487,Michael Carter-Williams,CHI,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+255980,21600831,4,4:33,nan,SUB: Lowry FOR Wright,nan,1626153,Delon Wright,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+255981,21600831,4,4:24,nan,Lowry 24' 3PT Jump Shot (19 PTS),84 - 93,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255982,21600831,4,4:11,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255983,21600831,4,4:10,nan,Carroll REBOUND (Off:0 Def:5),nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255984,21600831,4,3:56,nan,Lowry 2' Driving Layup (21 PTS),86 - 93,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255985,21600831,4,3:56,Valentine S.FOUL (P1.T4) (B.Barnaky),nan,nan,1627756,Denzel Valentine,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+255986,21600831,4,3:56,SUB: Gibson FOR Valentine,nan,nan,1627756,Denzel Valentine,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+255987,21600831,4,3:56,nan,Lowry Free Throw 1 of 1 (22 PTS),87 - 93,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+255988,21600831,4,3:37,Butler Lost Ball Turnover (P4.T16),DeRozan STEAL (1 STL),nan,202710,Jimmy Butler,CHI,201942,DeMar DeRozan,TOR,0,nan,nan,Turnover ,Lost Ball
+255989,21600831,4,3:27,nan,MISS DeRozan 5' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255990,21600831,4,3:27,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255991,21600831,4,3:20,Carter-Williams OFF.Foul (P5) (S.Foster),nan,nan,203487,Michael Carter-Williams,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Offensive
+255992,21600831,4,3:20,Carter-Williams Foul Turnover (P1.T17),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+255993,21600831,4,3:20,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255994,21600831,4,2:56,nan,MISS Joseph 21' Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255995,21600831,4,2:55,Gibson REBOUND (Off:0 Def:4),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255996,21600831,4,2:43,nan,DeRozan P.FOUL (P4.PN) (S.Foster),nan,201942,DeMar DeRozan,TOR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+255997,21600831,4,2:43,MISS Butler Free Throw 1 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255998,21600831,4,2:43,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255999,21600831,4,2:43,Butler Free Throw 2 of 2 (12 PTS),nan,87 - 94,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256000,21600831,4,2:32,Butler P.FOUL (P4.PN) (M.Kogut),nan,nan,202710,Jimmy Butler,CHI,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal
+256001,21600831,4,2:32,nan,DeRozan Free Throw 1 of 2 (13 PTS),88 - 94,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256002,21600831,4,2:32,nan,DeRozan Free Throw 2 of 2 (14 PTS),89 - 94,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256003,21600831,4,2:17,nan,Lowry P.FOUL (P3.PN) (B.Barnaky),nan,200768,Kyle Lowry,TOR,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Personal
+256004,21600831,4,2:17,Carter-Williams Free Throw 1 of 2 (7 PTS),nan,89 - 95,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256005,21600831,4,2:17,Carter-Williams Free Throw 2 of 2 (8 PTS),nan,89 - 96,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256006,21600831,4,2:08,Felicio S.FOUL (P2.PN) (M.Kogut),nan,nan,1626245,Cristiano Felicio,CHI,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+256007,21600831,4,2:08,nan,DeRozan Free Throw 1 of 2 (15 PTS),90 - 96,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256008,21600831,4,2:08,nan,DeRozan Free Throw 2 of 2 (16 PTS),91 - 96,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256009,21600831,4,1:48,nan,Lowry S.FOUL (P4.PN) (B.Barnaky),nan,200768,Kyle Lowry,TOR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+256010,21600831,4,1:48,nan,nan,nan,484,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+256011,21600831,4,1:48,Butler Free Throw 1 of 2 (13 PTS),nan,91 - 97,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256012,21600831,4,1:48,Butler Free Throw 2 of 2 (14 PTS),nan,91 - 98,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256013,21600831,4,1:28,nan,MISS Lowry 24' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256014,21600831,4,1:27,Felicio REBOUND (Off:3 Def:3),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256015,21600831,4,1:19,nan,DeRozan S.FOUL (P5.PN) (M.Kogut),nan,201942,DeMar DeRozan,TOR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+256016,21600831,4,1:19,Butler Free Throw 1 of 2 (15 PTS),nan,91 - 99,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256017,21600831,4,1:19,Butler Free Throw 2 of 2 (16 PTS),nan,91 - 100,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256018,21600831,4,1:19,nan,Raptors Timeout: Regular (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256019,21600831,4,1:10,nan,MISS Lowry 24' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256020,21600831,4,1:10,McDermott REBOUND (Off:0 Def:5),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256021,21600831,4,0:52,nan,Lowry P.FOUL (P5.PN) (M.Kogut),nan,200768,Kyle Lowry,TOR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+256022,21600831,4,0:52,MISS Butler Free Throw 1 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256023,21600831,4,0:52,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+256024,21600831,4,0:52,Butler Free Throw 2 of 2 (17 PTS),nan,91 - 101,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256025,21600831,4,0:52,nan,Raptors Timeout: Short (Reg.5 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+256026,21600831,4,0:47,nan,DeRozan 3' Layup (18 PTS) (Joseph 1 AST),93 - 101,201942,DeMar DeRozan,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+256027,21600831,4,0:28,McDermott 3' Layup (20 PTS) (Butler 12 AST),nan,93 - 103,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+256028,21600831,4,0:25,Felicio S.FOUL (P3.PN) (M.Kogut),nan,nan,1626245,Cristiano Felicio,CHI,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+256029,21600831,4,0:25,nan,DeRozan T.FOUL (P5.PN) (M.Kogut),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Foul ,Technical
+256030,21600831,4,0:25,nan,DeRozan T.FOUL (P5.PN) (S.Foster),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Foul ,Technical
+256031,21600831,4,0:25,Butler Free Throw Technical (18 PTS),nan,93 - 104,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+256032,21600831,4,0:25,Butler Free Throw Technical (19 PTS),nan,93 - 105,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+256033,21600831,4,0:25,nan,DeRozan Ejection:Second Technical,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Ejection ,nan
+256034,21600831,4,0:25,nan,SUB: Powell FOR DeRozan,nan,201942,DeMar DeRozan,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+256035,21600831,4,0:25,nan,MISS Joseph Free Throw 1 of 2,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256036,21600831,4,0:25,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+256037,21600831,4,0:25,nan,Joseph Free Throw 2 of 2 (10 PTS),94 - 105,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256038,21600831,4,0:00,MISS Butler  3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256039,21600831,4,0:00,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256040,21600831,4,0:00,nan,nan,94 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

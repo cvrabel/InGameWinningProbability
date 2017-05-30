@@ -1,0 +1,104 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+265619,21600911,4,12:00,nan,nan,73 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+265620,21600911,4,11:43,Biyombo S.FOUL (P1.T1) (S.Foster),nan,nan,202687,Bismack Biyombo,ORL,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Shooting
+265621,21600911,4,11:43,nan,Whiteside Free Throw 1 of 2 (10 PTS),74 - 85,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265622,21600911,4,11:43,nan,Whiteside Free Throw 2 of 2 (11 PTS),75 - 85,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265623,21600911,4,11:27,Augustin 25' 3PT Jump Shot (5 PTS) (Watson 2 AST),nan,75 - 88,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+265624,21600911,4,11:11,nan,Ellington 18' Pullup Jump Shot (5 PTS) (Johnson 5 AST),77 - 88,201961,Wayne Ellington,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+265625,21600911,4,10:56,MISS Hezonja  Dunk,Johnson BLOCK (2 BLK),nan,1626209,Mario Hezonja,ORL,0,nan,nan,201949,James Johnson,MIA,Missed Shot ,nan
+265626,21600911,4,10:55,nan,Richardson REBOUND (Off:0 Def:1),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265627,21600911,4,10:45,nan,MISS Johnson 20' Pullup Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265628,21600911,4,10:43,Watson REBOUND (Off:0 Def:1),nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265629,21600911,4,10:35,MISS Watson 21' Pullup Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265630,21600911,4,10:34,nan,Whiteside REBOUND (Off:1 Def:11),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265631,21600911,4,10:28,nan,Ellington Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+265632,21600911,4,10:12,Augustin 25' 3PT Jump Shot (8 PTS) (Watson 3 AST),nan,77 - 91,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+265633,21600911,4,9:54,nan,Ellington 17' Step Back Jump Shot (7 PTS) (Johnson 5 AST),79 - 91,201961,Wayne Ellington,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+265634,21600911,4,9:30,Green 9' Turnaround Jump Shot (9 PTS),nan,79 - 93,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265635,21600911,4,9:07,nan,MISS Johnson 26' 3PT Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265636,21600911,4,9:06,Biyombo REBOUND (Off:1 Def:1),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265637,21600911,4,9:00,Green 2' Running Layup (11 PTS) (Augustin 1 AST),nan,79 - 95,201145,Jeff Green,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+265638,21600911,4,9:00,nan,Heat Timeout: Regular (Reg.4 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265639,21600911,4,9:00,nan,SUB: Dragic FOR Johnson,nan,204020,Tyler Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+265640,21600911,4,9:00,SUB: Ross FOR Watson,nan,nan,201228,C.J. Watson,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+265641,21600911,4,8:47,nan,MISS Ellington 25' 3PT Jump Shot,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265642,21600911,4,8:46,Hezonja REBOUND (Off:0 Def:2),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265643,21600911,4,8:32,MISS Hezonja 19' Pullup Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265644,21600911,4,8:32,nan,Johnson REBOUND (Off:3 Def:1),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265645,21600911,4,8:23,nan,Johnson 8' Pullup Bank Shot (17 PTS),81 - 95,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+265646,21600911,4,8:05,MISS Augustin 24' 3PT Jump Shot,nan,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265647,21600911,4,8:05,nan,Whiteside REBOUND (Off:1 Def:12),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265648,21600911,4,7:58,nan,MISS Ellington 24' 3PT Jump Shot,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265649,21600911,4,7:57,nan,Richardson REBOUND (Off:1 Def:1),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265650,21600911,4,7:53,nan,MISS Dragic 24' 3PT Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265651,21600911,4,7:53,Ross REBOUND (Off:0 Def:3),nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265652,21600911,4,7:39,MISS Biyombo 2' Layup,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265653,21600911,4,7:39,nan,Whiteside REBOUND (Off:1 Def:13),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265654,21600911,4,7:31,nan,MISS Whiteside 21' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265655,21600911,4,7:29,Hezonja REBOUND (Off:0 Def:3),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265656,21600911,4,7:08,MISS Ross 10' Floating Jump Shot,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265657,21600911,4,7:08,nan,Richardson REBOUND (Off:1 Def:2),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265658,21600911,4,7:00,nan,Dragic 2' Driving Layup (12 PTS),83 - 95,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+265659,21600911,4,7:00,MAGIC Timeout: Regular (Full 4 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265660,21600911,4,7:00,nan,SUB: Babbitt FOR Johnson,nan,201949,James Johnson,MIA,202337,Luke Babbitt,MIA,0,nan,nan,Substitution ,nan
+265661,21600911,4,7:00,SUB: Fournier FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+265662,21600911,4,7:00,SUB: Vucevic FOR Green,nan,nan,201145,Jeff Green,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+265663,21600911,4,7:00,SUB: Gordon FOR Biyombo,nan,nan,202687,Bismack Biyombo,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+265664,21600911,4,6:36,MISS Vucevic 22' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265665,21600911,4,6:36,nan,Richardson REBOUND (Off:1 Def:3),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265666,21600911,4,6:22,nan,Whiteside 1' Alley Oop Layup (13 PTS) (Dragic 4 AST),85 - 95,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+265667,21600911,4,6:03,MISS Vucevic 1' Driving Layup,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265668,21600911,4,6:02,nan,Whiteside REBOUND (Off:1 Def:14),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265669,21600911,4,5:53,nan,MISS Dragic 7' Floating Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265670,21600911,4,5:52,Vucevic REBOUND (Off:1 Def:6),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265671,21600911,4,5:42,Augustin Bad Pass Turnover (P2.T9),Ellington STEAL (1 STL),nan,201571,D.J. Augustin,ORL,201961,Wayne Ellington,MIA,0,nan,nan,Turnover ,Bad Pass
+265672,21600911,4,5:36,nan,Ellington 1' Running Layup (9 PTS),87 - 95,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+265673,21600911,4,5:15,MISS Gordon 11' Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265674,21600911,4,5:14,nan,Whiteside REBOUND (Off:1 Def:15),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265675,21600911,4,5:00,nan,MISS Dragic 7' Pullup Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265676,21600911,4,5:00,Ross REBOUND (Off:0 Def:4),nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265677,21600911,4,4:48,Vucevic 7' Jump Shot (23 PTS) (Augustin 2 AST),nan,87 - 97,202696,Nikola Vucevic,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+265678,21600911,4,4:28,nan,Whiteside 19' Turnaround Jump Shot (15 PTS),89 - 97,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+265679,21600911,4,4:08,MISS Vucevic 19' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265680,21600911,4,4:07,nan,Dragic REBOUND (Off:1 Def:2),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265681,21600911,4,4:00,Augustin S.FOUL (P1.T2) (D.Taylor),nan,nan,201571,D.J. Augustin,ORL,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+265682,21600911,4,4:00,nan,MISS Dragic Free Throw 1 of 3,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+265683,21600911,4,4:00,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+265684,21600911,4,4:00,nan,Dragic Free Throw 2 of 3 (13 PTS),90 - 97,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+265685,21600911,4,4:00,nan,SUB: Johnson FOR Babbitt,nan,202337,Luke Babbitt,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+265686,21600911,4,4:00,SUB: Payton FOR Augustin,nan,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+265687,21600911,4,4:00,nan,Dragic Free Throw 3 of 3 (14 PTS),91 - 97,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+265688,21600911,4,3:43,Gordon  Alley Oop Dunk (21 PTS) (Payton 8 AST),nan,91 - 99,203932,Aaron Gordon,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+265689,21600911,4,3:27,nan,MISS Ellington 25' 3PT Jump Shot,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265690,21600911,4,3:27,nan,Dragic REBOUND (Off:2 Def:2),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265691,21600911,4,3:12,nan,MISS Richardson 9' Pullup Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265692,21600911,4,3:11,Payton REBOUND (Off:0 Def:9),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265693,21600911,4,2:57,MISS Ross 25' 3PT Jump Shot,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265694,21600911,4,2:55,Vucevic REBOUND (Off:2 Def:6),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265695,21600911,4,2:55,Vucevic 3' Putback Layup (25 PTS),nan,91 - 101,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265696,21600911,4,2:36,nan,MISS Dragic 8' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265697,21600911,4,2:36,Vucevic REBOUND (Off:2 Def:7),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265698,21600911,4,2:14,Fournier 25' 3PT Pullup Jump Shot (11 PTS) (Vucevic 1 AST),nan,91 - 104,203095,Evan Fournier,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+265699,21600911,4,2:14,nan,Heat Timeout: Regular (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265700,21600911,4,2:14,nan,SUB: Johnson FOR Richardson,nan,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+265701,21600911,4,2:03,nan,Ellington 24' 3PT Jump Shot (12 PTS) (Dragic 5 AST),94 - 104,201961,Wayne Ellington,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+265702,21600911,4,1:45,Payton 2' Driving Layup (10 PTS),nan,94 - 106,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265703,21600911,4,1:45,nan,Dragic S.FOUL (P2.T1) (E.Lewis),nan,201609,Goran Dragic,MIA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Shooting
+265704,21600911,4,1:45,MISS Payton Free Throw 1 of 1,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+265705,21600911,4,1:44,nan,Whiteside REBOUND (Off:1 Def:16),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265706,21600911,4,1:34,nan,Ellington 19' Pullup Jump Shot (14 PTS) (Johnson 6 AST),96 - 106,201961,Wayne Ellington,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+265707,21600911,4,1:11,MISS Gordon  3PT Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265708,21600911,4,1:11,nan,Whiteside REBOUND (Off:1 Def:17),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265709,21600911,4,0:50,nan,MISS Whiteside 9' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265710,21600911,4,0:50,Payton REBOUND (Off:0 Def:10),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265711,21600911,4,0:40,Ross 18' Jump Shot (10 PTS) (Fournier 5 AST),nan,96 - 108,203082,Terrence Ross,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+265712,21600911,4,0:40,nan,Heat Timeout: Regular (Reg.6 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265713,21600911,4,0:33,nan,Johnson 1' Driving Layup (19 PTS),98 - 108,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+265714,21600911,4,0:32,nan,Dragic Personal Take Foul (P3.PN) (E.Lewis),nan,201609,Goran Dragic,MIA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal Take
+265715,21600911,4,0:32,Payton Free Throw 1 of 2 (11 PTS),nan,98 - 109,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265716,21600911,4,0:32,Payton Free Throw 2 of 2 (12 PTS),nan,98 - 110,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265717,21600911,4,0:24,Vucevic S.FOUL (P2.T3) (E.Lewis),nan,nan,202696,Nikola Vucevic,ORL,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+265718,21600911,4,0:24,nan,MISS Dragic Free Throw 1 of 2,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265719,21600911,4,0:24,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+265720,21600911,4,0:24,nan,Dragic Free Throw 2 of 2 (15 PTS),99 - 110,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265721,21600911,4,0:00,nan,nan,99 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

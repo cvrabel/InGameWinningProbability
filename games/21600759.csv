@@ -1,0 +1,126 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+246889,21600759,4,12:00,nan,nan,84 - 68,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+246890,21600759,4,11:44,MISS Porzingis 20' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246891,21600759,4,11:42,Hernangomez REBOUND (Off:2 Def:2),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246892,21600759,4,11:40,Jennings 25' 3PT Jump Shot (16 PTS) (Hernangomez 4 AST),nan,84 - 71,201943,Brandon Jennings,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Made Shot ,nan
+246893,21600759,4,11:23,nan,Frye 25' 3PT Jump Shot (12 PTS) (Felder 3 AST),87 - 71,101112,Channing Frye,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+246894,21600759,4,11:12,nan,Frye S.FOUL (P2.T1) (S.Foster),nan,101112,Channing Frye,CLE,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Shooting
+246895,21600759,4,11:12,Hernangomez Free Throw 1 of 2 (9 PTS),nan,87 - 72,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246896,21600759,4,11:12,Hernangomez Free Throw 2 of 2 (10 PTS),nan,87 - 73,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246897,21600759,4,11:02,nan,James 1' Driving Layup (25 PTS),89 - 73,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+246898,21600759,4,11:02,Jennings S.FOUL (P3.T1) (D.Collins),nan,nan,201943,Brandon Jennings,NYK,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+246899,21600759,4,11:02,nan,MISS James Free Throw 1 of 1,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+246900,21600759,4,11:01,nan,Jefferson REBOUND (Off:1 Def:2),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246901,21600759,4,10:53,nan,Korver 24' 3PT Jump Shot (6 PTS) (James 8 AST),92 - 73,2594,Kyle Korver,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+246902,21600759,4,10:42,Hernangomez 5' Jump Shot (12 PTS) (Jennings 8 AST),nan,92 - 75,1626195,Willy Hernangomez,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+246903,21600759,4,10:26,nan,MISS Jefferson  3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246904,21600759,4,10:24,Jennings REBOUND (Off:0 Def:4),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246905,21600759,4,10:20,Jennings 25' 3PT Pullup Jump Shot (19 PTS),nan,92 - 78,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+246906,21600759,4,10:01,Holiday STEAL (2 STL),Frye Bad Pass Turnover (P2.T12),nan,101112,Channing Frye,CLE,203200,Justin Holiday,NYK,0,nan,nan,Turnover ,Bad Pass
+246907,21600759,4,9:53,Jennings  3PT Jump Shot (22 PTS) (Holiday 2 AST),nan,92 - 81,201943,Brandon Jennings,NYK,203200,Justin Holiday,NYK,0,nan,nan,Made Shot ,nan
+246908,21600759,4,9:53,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246909,21600759,4,9:53,nan,SUB: Shumpert FOR Felder,nan,1627770,Kay Felder,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+246910,21600759,4,9:45,Jennings P.FOUL (P4.T2) (D.Collins),nan,nan,201943,Brandon Jennings,NYK,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Personal
+246911,21600759,4,9:30,nan,James 19' Jump Shot (27 PTS),94 - 81,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+246912,21600759,4,9:16,Porzingis OFF.Foul (P4) (S.Foster),nan,nan,204001,Kristaps Porzingis,NYK,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Offensive
+246913,21600759,4,9:16,Porzingis Foul Turnover (P2.T10),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+246914,21600759,4,9:16,nan,nan,nan,202898,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+246915,21600759,4,9:16,nan,Korver Free Throw Technical (7 PTS),95 - 81,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+246916,21600759,4,9:07,nan,MISS Korver 26' 3PT Jump Shot,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246917,21600759,4,9:05,Kuzminskas REBOUND (Off:1 Def:3),nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246918,21600759,4,8:58,Porzingis 2' Layup (5 PTS) (Jennings 9 AST),nan,95 - 83,204001,Kristaps Porzingis,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+246919,21600759,4,8:58,nan,Shumpert S.FOUL (P2.T2) (S.Foster),nan,202697,Iman Shumpert,CLE,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+246920,21600759,4,8:58,Porzingis Free Throw 1 of 1 (6 PTS),nan,95 - 84,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+246921,21600759,4,8:36,nan,Jefferson 2' Layup (5 PTS) (Frye 2 AST),97 - 84,2210,Richard Jefferson,CLE,101112,Channing Frye,CLE,0,nan,nan,Made Shot ,nan
+246922,21600759,4,8:26,MISS Porzingis 24' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246923,21600759,4,8:24,Hernangomez REBOUND (Off:3 Def:2),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246924,21600759,4,8:16,nan,Jefferson S.FOUL (P3.T3) (G.Petraitis),nan,2210,Richard Jefferson,CLE,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Foul ,Shooting
+246925,21600759,4,8:16,Kuzminskas Free Throw 1 of 2 (4 PTS),nan,97 - 85,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246926,21600759,4,8:16,Kuzminskas Free Throw 2 of 2 (5 PTS),nan,97 - 86,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246927,21600759,4,8:06,nan,Frye 4' Hook Shot (14 PTS) (James 9 AST),99 - 86,101112,Channing Frye,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+246928,21600759,4,7:52,MISS Jennings  3PT Jump Shot,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246929,21600759,4,7:50,nan,Shumpert REBOUND (Off:1 Def:6),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246930,21600759,4,7:43,nan,MISS Korver 24' 3PT Jump Shot,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246931,21600759,4,7:42,nan,Frye REBOUND (Off:1 Def:1),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246932,21600759,4,7:42,Holiday S.FOUL (P2.T3) (G.Petraitis),nan,nan,203200,Justin Holiday,NYK,101112,Channing Frye,CLE,0,nan,nan,Foul ,Shooting
+246933,21600759,4,7:42,nan,MISS Frye Free Throw 1 of 2,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246934,21600759,4,7:42,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+246935,21600759,4,7:42,nan,MISS Frye Free Throw 2 of 2,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246936,21600759,4,7:41,Porzingis REBOUND (Off:1 Def:5),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246937,21600759,4,7:27,Kuzminskas 24' 3PT Jump Shot (8 PTS),nan,99 - 89,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+246938,21600759,4,7:04,nan,James 25' 3PT Jump Shot (30 PTS),102 - 89,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+246939,21600759,4,6:47,MISS Kuzminskas 24' 3PT Jump Shot,nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246940,21600759,4,6:44,nan,Frye REBOUND (Off:1 Def:2),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246941,21600759,4,6:36,nan,MISS Jefferson  3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246942,21600759,4,6:34,Porzingis REBOUND (Off:1 Def:6),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246943,21600759,4,6:26,MISS Jennings 16' Jump Shot,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246944,21600759,4,6:24,nan,James REBOUND (Off:0 Def:4),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246945,21600759,4,6:23,Holiday P.FOUL (P3.T4) (S.Foster),nan,nan,203200,Justin Holiday,NYK,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+246946,21600759,4,6:23,nan,SUB: Love FOR Frye,nan,101112,Channing Frye,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+246947,21600759,4,6:23,nan,SUB: Thompson FOR Jefferson,nan,2210,Richard Jefferson,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+246948,21600759,4,6:08,nan,MISS James 25' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246949,21600759,4,6:06,Porzingis REBOUND (Off:1 Def:7),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246950,21600759,4,6:02,nan,Shumpert P.FOUL (P3.T4) (D.Collins),nan,202697,Iman Shumpert,CLE,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+246951,21600759,4,5:58,nan,Thompson P.FOUL (P3.PN) (S.Foster),nan,202684,Tristan Thompson,CLE,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+246952,21600759,4,5:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+246953,21600759,4,5:58,MISS Jennings Free Throw 1 of 2,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246954,21600759,4,5:58,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+246955,21600759,4,5:58,Jennings Free Throw 2 of 2 (23 PTS),nan,102 - 90,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246956,21600759,4,5:35,nan,MISS Love 24' 3PT Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246957,21600759,4,5:33,Kuzminskas REBOUND (Off:1 Def:4),nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246958,21600759,4,5:18,MISS Hernangomez 7' Turnaround Jump Shot,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246959,21600759,4,5:16,nan,James REBOUND (Off:0 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246960,21600759,4,4:57,nan,Korver 18' Jump Shot (9 PTS),104 - 90,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+246961,21600759,4,4:40,Porzingis 24' 3PT Jump Shot (9 PTS) (Holiday 3 AST),nan,104 - 93,204001,Kristaps Porzingis,NYK,203200,Justin Holiday,NYK,0,nan,nan,Made Shot ,nan
+246962,21600759,4,4:22,nan,MISS Shumpert 25' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246963,21600759,4,4:19,Kuzminskas REBOUND (Off:1 Def:5),nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246964,21600759,4,4:13,MISS Jennings  Layup,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246965,21600759,4,4:11,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246966,21600759,4,4:11,KNICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246967,21600759,4,4:11,SUB: Anthony FOR Kuzminskas,nan,nan,1627851,Mindaugas Kuzminskas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+246968,21600759,4,4:00,nan,James P.FOUL (P1.PN) (D.Collins),nan,2544,LeBron James,CLE,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+246969,21600759,4,4:00,MISS Porzingis Free Throw 1 of 2,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246970,21600759,4,4:00,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+246971,21600759,4,4:00,MISS Porzingis Free Throw 2 of 2,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246972,21600759,4,3:59,nan,Love REBOUND (Off:5 Def:10),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246973,21600759,4,3:46,Porzingis STEAL (1 STL),Love Bad Pass Turnover (P5.T13),nan,201567,Kevin Love,CLE,204001,Kristaps Porzingis,NYK,0,nan,nan,Turnover ,Bad Pass
+246974,21600759,4,3:39,Hernangomez 9' Jump Shot (14 PTS) (Porzingis 2 AST),nan,104 - 95,1626195,Willy Hernangomez,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+246975,21600759,4,3:15,nan,MISS James 19' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246976,21600759,4,3:13,Jennings REBOUND (Off:0 Def:5),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246977,21600759,4,3:10,Jennings Out of Bounds - Bad Pass Turnover Turnover (P1.T11),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+246978,21600759,4,3:10,SUB: Lee FOR Holiday,nan,nan,203200,Justin Holiday,NYK,201584,Courtney Lee,NYK,0,nan,nan,Substitution ,nan
+246979,21600759,4,2:48,nan,MISS James 20' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246980,21600759,4,2:46,Lee REBOUND (Off:1 Def:2),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246981,21600759,4,2:30,MISS Anthony 25' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246982,21600759,4,2:29,nan,Korver REBOUND (Off:0 Def:4),nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246983,21600759,4,2:29,Porzingis L.B.FOUL (P5.PN) (S.Foster),nan,nan,204001,Kristaps Porzingis,NYK,2594,Kyle Korver,CLE,0,nan,nan,Foul ,Loose Ball
+246984,21600759,4,2:29,nan,Korver Free Throw 1 of 2 (10 PTS),105 - 95,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246985,21600759,4,2:29,nan,Korver Free Throw 2 of 2 (11 PTS),106 - 95,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246986,21600759,4,2:11,MISS Porzingis 6' Turnaround Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246987,21600759,4,2:09,nan,Shumpert REBOUND (Off:1 Def:7),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246988,21600759,4,1:45,nan,Cavaliers Turnover: Shot Clock (T#14),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+246989,21600759,4,1:32,Hernangomez 2' Layup (16 PTS) (Jennings 10 AST),nan,106 - 97,1626195,Willy Hernangomez,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+246990,21600759,4,1:24,nan,Cavaliers Turnover: 8 Second Violation (T#15),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,8 Second Violation
+246991,21600759,4,1:14,Lee 1' Reverse Layup (14 PTS) (Hernangomez 5 AST),nan,106 - 99,201584,Courtney Lee,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Made Shot ,nan
+246992,21600759,4,1:02,Anthony STEAL (2 STL),James Lost Ball Turnover (P4.T16),nan,2544,LeBron James,CLE,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Lost Ball
+246993,21600759,4,0:59,Anthony  Driving Dunk (17 PTS),nan,106 - 101,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+246994,21600759,4,0:44,nan,Love  3PT Jump Shot (23 PTS) (James 10 AST),109 - 101,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+246995,21600759,4,0:44,KNICKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246996,21600759,4,0:39,MISS Anthony 14' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246997,21600759,4,0:38,nan,Shumpert REBOUND (Off:1 Def:8),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246998,21600759,4,0:30,nan,James  Driving Dunk (32 PTS),111 - 101,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+246999,21600759,4,0:24,MISS Anthony 24' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247000,21600759,4,0:22,Lee REBOUND (Off:2 Def:2),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247001,21600759,4,0:21,Lee 25' 3PT Jump Shot (17 PTS),nan,111 - 104,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+247002,21600759,4,0:21,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247003,21600759,4,0:21,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+247004,21600759,4,0:21,SUB: Holiday FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,203200,Justin Holiday,NYK,0,nan,nan,Substitution ,nan
+247005,21600759,4,0:17,Jump Ball Lee vs. Korver: Tip to Love,nan,nan,201584,Courtney Lee,NYK,2594,Kyle Korver,CLE,201567,Kevin Love,CLE,Jump Ball ,nan
+247006,21600759,4,0:14,nan,James Out of Bounds Lost Ball Turnover (P5.T17),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+247007,21600759,4,0:14,nan,nan,nan,574,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+247008,21600759,4,0:14,KNICKS Timeout: Short (Full 5 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+247009,21600759,4,0:14,SUB: Porzingis FOR Hernangomez,nan,nan,1626195,Willy Hernangomez,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+247010,21600759,4,0:14,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+247011,21600759,4,0:09,MISS Holiday 25' 3PT Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247012,21600759,4,0:07,nan,Love REBOUND (Off:5 Def:11),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247013,21600759,4,0:00,nan,nan,111 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

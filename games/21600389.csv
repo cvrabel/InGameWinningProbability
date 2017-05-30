@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+201666,21600389,4,12:00,nan,nan,77 - 95,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+201667,21600389,4,11:48,Burke P.FOUL (P3.T1) (A.Smith),nan,nan,203504,Trey Burke,WAS,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+201668,21600389,4,11:36,Thornton Personal Take Foul (P3.T2) (M.McCutchen),nan,nan,201977,Marcus Thornton,WAS,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal Take
+201669,21600389,4,11:29,Burke S.FOUL (P4.T3) (A.Smith),nan,nan,203504,Trey Burke,WAS,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+201670,21600389,4,11:29,nan,MISS Jackson Free Throw 1 of 2,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201671,21600389,4,11:29,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201672,21600389,4,11:29,nan,Jackson Free Throw 2 of 2 (12 PTS),78 - 95,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201673,21600389,4,11:15,Burke 20' Jump Shot (6 PTS) (Porter Jr. 2 AST),nan,78 - 97,203504,Trey Burke,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+201674,21600389,4,11:01,nan,MISS Jackson 6' Jump Bank Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201675,21600389,4,10:59,Porter Jr. REBOUND (Off:0 Def:6),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201676,21600389,4,10:48,Thornton 26' 3PT Jump Shot (7 PTS),nan,78 - 100,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+201677,21600389,4,10:29,Porter Jr. P.FOUL (P3.T4) (M.Ayotte),nan,nan,203490,Otto Porter Jr.,WAS,202699,Tobias Harris,DET,0,nan,nan,Foul ,Personal
+201678,21600389,4,10:19,Burke STEAL (1 STL),Johnson Lost Ball Turnover (P1.T8),nan,1626169,Stanley Johnson,DET,203504,Trey Burke,WAS,0,nan,nan,Turnover ,Lost Ball
+201679,21600389,4,10:17,nan,Johnson S.FOUL (P2.T1) (M.Ayotte),nan,1626169,Stanley Johnson,DET,203504,Trey Burke,WAS,0,nan,nan,Foul ,Shooting
+201680,21600389,4,10:17,Burke Free Throw 1 of 2 (7 PTS),nan,78 - 101,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201681,21600389,4,10:17,Burke Free Throw 2 of 2 (8 PTS),nan,78 - 102,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201682,21600389,4,10:02,nan,Leuer 2' Layup (11 PTS),80 - 102,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201683,21600389,4,9:43,Thornton 16' Pullup Jump Shot (9 PTS) (Burke 2 AST),nan,80 - 104,201977,Marcus Thornton,WAS,203504,Trey Burke,WAS,0,nan,nan,Made Shot ,nan
+201684,21600389,4,9:23,nan,Harris 1' Driving Layup (14 PTS),82 - 104,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201685,21600389,4,9:00,Oubre Jr.  Cutting Dunk Shot (5 PTS) (Gortat 3 AST),nan,82 - 106,1626162,Kelly Oubre Jr.,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+201686,21600389,4,8:46,nan,Jackson  Driving Dunk (14 PTS),84 - 106,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201687,21600389,4,8:27,Thornton 1' Driving Layup (11 PTS) (Porter Jr. 3 AST),nan,84 - 108,201977,Marcus Thornton,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+201688,21600389,4,8:12,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+201689,21600389,4,8:12,nan,SUB: Caldwell-Pope FOR Leuer,nan,202720,Jon Leuer,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+201690,21600389,4,8:12,nan,SUB: Drummond FOR Baynes,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+201691,21600389,4,8:12,SUB: Nicholson FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,203094,Andrew Nicholson,WAS,0,nan,nan,Substitution ,nan
+201692,21600389,4,8:01,nan,MISS Jackson 27' 3PT Step Back Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201693,21600389,4,7:58,Oubre Jr. REBOUND (Off:0 Def:4),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201694,21600389,4,7:48,Porter Jr. Bad Pass Turnover (P1.T2),Caldwell-Pope STEAL (1 STL),nan,203490,Otto Porter Jr.,WAS,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Bad Pass
+201695,21600389,4,7:42,nan,Caldwell-Pope  Dunk (24 PTS),86 - 108,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201696,21600389,4,7:24,MISS Thornton 25' 3PT Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201697,21600389,4,7:23,nan,Jackson REBOUND (Off:0 Def:1),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201698,21600389,4,7:12,nan,MISS Drummond 4' Hook Shot,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201699,21600389,4,7:09,Porter Jr. REBOUND (Off:0 Def:7),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201700,21600389,4,6:56,MISS Burke 17' Jump Shot,nan,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201701,21600389,4,6:54,nan,Drummond REBOUND (Off:4 Def:7),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201702,21600389,4,6:41,nan,MISS Harris 25' 3PT Jump Shot,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201703,21600389,4,6:40,Porter Jr. REBOUND (Off:0 Def:8),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201704,21600389,4,6:34,MISS Oubre Jr. 3' Layup,Harris BLOCK (1 BLK),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,202699,Tobias Harris,DET,Missed Shot ,nan
+201705,21600389,4,6:32,nan,Drummond REBOUND (Off:4 Def:8),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201706,21600389,4,6:22,nan,MISS Harris 7' Jump Shot,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201707,21600389,4,6:20,nan,Harris REBOUND (Off:2 Def:4),nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201708,21600389,4,6:15,Oubre Jr. STEAL (1 STL),Caldwell-Pope Lost Ball Turnover (P3.T9),nan,203484,Kentavious Caldwell-Pope,DET,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Turnover ,Lost Ball
+201709,21600389,4,6:12,nan,Caldwell-Pope S.FOUL (P3.T2) (A.Smith),nan,203484,Kentavious Caldwell-Pope,DET,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Foul ,Shooting
+201710,21600389,4,6:12,Oubre Jr. Free Throw 1 of 2 (6 PTS),nan,86 - 109,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201711,21600389,4,6:12,nan,SUB: Udrih FOR Jackson,nan,202704,Reggie Jackson,DET,2757,Beno Udrih,DET,0,nan,nan,Substitution ,nan
+201712,21600389,4,6:12,Oubre Jr. Free Throw 2 of 2 (7 PTS),nan,86 - 110,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201713,21600389,4,5:58,nan,Johnson 5' Jump Shot (2 PTS) (Udrih 1 AST),88 - 110,1626169,Stanley Johnson,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+201714,21600389,4,5:58,Oubre Jr. S.FOUL (P3.PN) (M.Ayotte),nan,nan,1626162,Kelly Oubre Jr.,WAS,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+201715,21600389,4,5:58,WIZARDS Timeout: Regular (Full 4 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201716,21600389,4,5:58,nan,SUB: Baynes FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+201717,21600389,4,5:58,nan,SUB: Leuer FOR Harris,nan,202699,Tobias Harris,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+201718,21600389,4,5:58,nan,SUB: Hilliard FOR Drummond,nan,203083,Andre Drummond,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+201719,21600389,4,5:58,nan,MISS Johnson Free Throw 1 of 1,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+201720,21600389,4,5:55,Oubre Jr. REBOUND (Off:0 Def:5),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201721,21600389,4,5:51,Burke Out of Bounds - Bad Pass Turnover Turnover (P1.T3),nan,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+201722,21600389,4,5:26,nan,Johnson 13' Jump Shot (4 PTS),90 - 110,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201723,21600389,4,5:10,MISS Thornton 18' Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201724,21600389,4,5:10,nan,Johnson REBOUND (Off:0 Def:1),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201725,21600389,4,5:03,nan,Leuer 1' Finger Roll Layup (13 PTS) (Johnson 1 AST),92 - 110,202720,Jon Leuer,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+201726,21600389,4,4:39,Nicholson Lost Ball Turnover (P1.T4),Leuer STEAL (1 STL),nan,203094,Andrew Nicholson,WAS,202720,Jon Leuer,DET,0,nan,nan,Turnover ,Lost Ball
+201727,21600389,4,4:39,nan,Leuer 2' Layup (15 PTS) (Udrih 2 AST),94 - 110,202720,Jon Leuer,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+201728,21600389,4,4:39,WIZARDS Timeout: Regular (Full 5 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201729,21600389,4,4:39,SUB: Wall FOR Burke,nan,nan,203504,Trey Burke,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+201730,21600389,4,4:39,SUB: Beal FOR Thornton,nan,nan,201977,Marcus Thornton,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+201731,21600389,4,4:39,SUB: Gortat FOR Nicholson,nan,nan,203094,Andrew Nicholson,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+201732,21600389,4,4:17,Gortat 2' Layup (12 PTS) (Wall 9 AST),nan,94 - 112,101162,Marcin Gortat,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+201733,21600389,4,3:58,nan,Johnson 16' Jump Shot (6 PTS) (Udrih 3 AST),96 - 112,1626169,Stanley Johnson,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+201734,21600389,4,3:38,Beal 6' Fadeaway Jumper (23 PTS) (Wall 10 AST),nan,96 - 114,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+201735,21600389,4,3:26,nan,MISS Johnson  3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201736,21600389,4,3:26,nan,Baynes REBOUND (Off:2 Def:0),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201737,21600389,4,3:26,nan,MISS Baynes 1' Layup,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201738,21600389,4,3:25,nan,Leuer REBOUND (Off:1 Def:6),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201739,21600389,4,3:24,nan,Leuer 1' Layup (17 PTS),98 - 114,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+201740,21600389,4,3:06,Beal 2' Reverse Layup (25 PTS),nan,98 - 116,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+201741,21600389,4,2:49,nan,Johnson 16' Jump Shot (8 PTS) (Leuer 4 AST),100 - 116,1626169,Stanley Johnson,DET,202720,Jon Leuer,DET,0,nan,nan,Made Shot ,nan
+201742,21600389,4,2:24,WIZARDS Turnover: Shot Clock (T#5),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+201743,21600389,4,2:09,nan,Udrih 24' 3PT Jump Shot (3 PTS) (Hilliard 1 AST),103 - 116,2757,Beno Udrih,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Made Shot ,nan
+201744,21600389,4,1:45,Porter Jr. 25' 3PT Jump Shot (12 PTS) (Gortat 4 AST),nan,103 - 119,203490,Otto Porter Jr.,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+201745,21600389,4,1:30,nan,MISS Hilliard 15' Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201746,21600389,4,1:29,Oubre Jr. REBOUND (Off:0 Def:6),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201747,21600389,4,1:09,Porter Jr. 25' 3PT Jump Shot (15 PTS) (Wall 11 AST),nan,103 - 122,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+201748,21600389,4,1:06,Wall P.FOUL (P2.PN) (M.Ayotte),nan,nan,202322,John Wall,WAS,2757,Beno Udrih,DET,0,nan,nan,Foul ,Personal
+201749,21600389,4,1:06,SUB: Nicholson FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,203094,Andrew Nicholson,WAS,0,nan,nan,Substitution ,nan
+201750,21600389,4,1:06,SUB: Ochefu FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,1627849,Daniel Ochefu,WAS,0,nan,nan,Substitution ,nan
+201751,21600389,4,1:06,SUB: Satoransky FOR Wall,nan,nan,202322,John Wall,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Substitution ,nan
+201752,21600389,4,1:06,nan,Udrih Free Throw 1 of 2 (4 PTS),104 - 122,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201753,21600389,4,1:06,SUB: Burke FOR Beal,nan,nan,203078,Bradley Beal,WAS,203504,Trey Burke,WAS,0,nan,nan,Substitution ,nan
+201754,21600389,4,1:06,nan,Udrih Free Throw 2 of 2 (5 PTS),105 - 122,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201755,21600389,4,0:42,Burke Out of Bounds Lost Ball Turnover (P2.T6),nan,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+201756,21600389,4,0:19,nan,Hilliard 24' 3PT Jump Shot (3 PTS) (Leuer 5 AST),108 - 122,1626199,Darrun Hilliard,DET,202720,Jon Leuer,DET,0,nan,nan,Made Shot ,nan
+201757,21600389,4,0:00,nan,nan,108 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

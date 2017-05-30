@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+52990,21500422,4,12:00,nan,nan,83 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+52991,21500422,4,11:36,Foye BLOCK (1 BLK),MISS Clarkson 17' Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,200751,Randy Foye,DEN,Missed Shot ,nan
+52992,21500422,4,11:34,Foye REBOUND (Off:1 Def:4),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52993,21500422,4,11:25,Barton Lost Ball Turnover (P1.T11),Clarkson STEAL (3 STL),nan,203115,Will Barton,DEN,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Lost Ball
+52994,21500422,4,11:19,Barton BLOCK (1 BLK),MISS Clarkson 1' Layup,nan,203903,Jordan Clarkson,LAL,0,nan,nan,203115,Will Barton,DEN,Missed Shot ,nan
+52995,21500422,4,11:18,nan,Randle REBOUND (Off:2 Def:4),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52996,21500422,4,11:14,nan,MISS Randle 2' Layup,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52997,21500422,4,11:13,nan,Randle REBOUND (Off:3 Def:4),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52998,21500422,4,11:12,nan,Randle 3' Layup (6 PTS),85 - 80,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+52999,21500422,4,10:47,MISS Jokic 5' Hook Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53000,21500422,4,10:46,Jokic REBOUND (Off:5 Def:2),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53001,21500422,4,10:46,Jokic 2' Layup (12 PTS),nan,85 - 82,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+53002,21500422,4,10:25,nan,MISS Young 25' 3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53003,21500422,4,10:24,Jokic REBOUND (Off:5 Def:3),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53004,21500422,4,10:16,MISS Arthur 20' Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53005,21500422,4,10:16,nan,Bass REBOUND (Off:1 Def:4),nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53006,21500422,4,10:03,Harris STEAL (1 STL),Russell Bad Pass Turnover (P2.T10),nan,1626156,D'Angelo Russell,LAL,203914,Gary Harris,DEN,0,nan,nan,Turnover ,Bad Pass
+53007,21500422,4,9:58,Harris 1' Driving Layup (16 PTS),nan,85 - 84,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+53008,21500422,4,9:37,nan,Bass Out of Bounds Lost Ball Turnover (P1.T11),nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+53009,21500422,4,9:37,nan,SUB: Nance Jr. FOR Randle,nan,203944,Julius Randle,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Substitution ,nan
+53010,21500422,4,9:37,SUB: Nelson FOR Harris,nan,nan,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+53011,21500422,4,9:31,Foye 3' Driving Layup (9 PTS),nan,85 - 86,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+53012,21500422,4,9:31,nan,Lakers Timeout: Regular (Reg.4 Short 0),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+53013,21500422,4,9:31,nan,SUB: Williams FOR Clarkson,nan,203903,Jordan Clarkson,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+53014,21500422,4,9:11,nan,MISS Young 26' 3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53015,21500422,4,9:11,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53016,21500422,4,9:11,Foye L.B.FOUL (P2.T1) (S.Twardoski),nan,nan,200751,Randy Foye,DEN,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Loose Ball
+53017,21500422,4,8:58,nan,Williams 19' Jump Shot (15 PTS) (Bass 1 AST),87 - 86,101150,Lou Williams,LAL,101138,Brandon Bass,LAL,0,nan,nan,Made Shot ,nan
+53018,21500422,4,8:43,Arthur 20' Jump Shot (4 PTS) (Foye 4 AST),nan,87 - 88,201589,Darrell Arthur,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+53019,21500422,4,8:25,nan,Russell 26' 3PT Jump Shot (6 PTS) (Williams 5 AST),90 - 88,1626156,D'Angelo Russell,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+53020,21500422,4,8:11,nan,Bass S.FOUL (P1.T1) (J.Goble),nan,101138,Brandon Bass,LAL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Shooting
+53021,21500422,4,8:11,Jokic Free Throw 1 of 2 (13 PTS),nan,90 - 89,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53022,21500422,4,8:11,nan,SUB: Randle FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+53023,21500422,4,8:11,nan,SUB: Bryant FOR Young,nan,201156,Nick Young,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+53024,21500422,4,8:11,MISS Jokic Free Throw 2 of 2,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53025,21500422,4,8:11,nan,Randle REBOUND (Off:3 Def:5),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53026,21500422,4,7:52,nan,Randle 2' Layup (8 PTS),92 - 89,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+53027,21500422,4,7:52,Arthur S.FOUL (P3.T2) (J.Goble),nan,nan,201589,Darrell Arthur,DEN,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+53028,21500422,4,7:52,nan,MISS Randle Free Throw 1 of 1,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+53029,21500422,4,7:48,Barton REBOUND (Off:1 Def:5),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53030,21500422,4,7:32,MISS Foye 1' Layup,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53031,21500422,4,7:31,Foye REBOUND (Off:2 Def:4),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53032,21500422,4,7:25,MISS Foye 25' 3PT Jump Shot,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53033,21500422,4,7:23,Jokic REBOUND (Off:6 Def:3),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53034,21500422,4,7:23,Jokic 1' Tip Layup Shot (15 PTS),nan,92 - 91,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+53035,21500422,4,6:53,nan,MISS Bryant  3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53036,21500422,4,6:53,Barton REBOUND (Off:1 Def:6),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53037,21500422,4,6:36,MISS Arthur 3' Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53038,21500422,4,6:36,nan,Bass REBOUND (Off:1 Def:5),nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53039,21500422,4,6:13,nan,Bryant 18' Jump Shot (22 PTS),94 - 91,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+53040,21500422,4,5:58,Arthur 18' Jump Shot (6 PTS) (Nelson 6 AST),nan,94 - 93,201589,Darrell Arthur,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+53041,21500422,4,5:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+53042,21500422,4,5:36,nan,SUB: Clarkson FOR Russell,nan,1626156,D'Angelo Russell,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Substitution ,nan
+53043,21500422,4,5:27,nan,MISS Bryant 26' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53044,21500422,4,5:27,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53045,21500422,4,5:09,MISS Arthur 22' Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53046,21500422,4,5:08,nan,Clarkson REBOUND (Off:1 Def:4),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53047,21500422,4,4:50,Arthur S.FOUL (P4.T3) (S.Twardoski),nan,nan,201589,Darrell Arthur,DEN,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+53048,21500422,4,4:50,nan,MISS Williams Free Throw 1 of 3,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+53049,21500422,4,4:50,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+53050,21500422,4,4:50,nan,Williams Free Throw 2 of 3 (16 PTS),95 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+53051,21500422,4,4:50,SUB: Faried FOR Arthur,nan,nan,201589,Darrell Arthur,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+53052,21500422,4,4:50,nan,Williams Free Throw 3 of 3 (17 PTS),96 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+53053,21500422,4,4:38,Jokic Traveling Turnover (P3.T12),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+53054,21500422,4,4:25,nan,Bryant 22' Jump Shot (24 PTS) (Bass 2 AST),98 - 93,977,Kobe Bryant,LAL,101138,Brandon Bass,LAL,0,nan,nan,Made Shot ,nan
+53055,21500422,4,4:16,nan,Bryant P.FOUL (P2.T2) (J.Goble),nan,977,Kobe Bryant,LAL,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+53056,21500422,4,4:08,Faried  Driving Dunk (12 PTS) (Jokic 5 AST),nan,98 - 95,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+53057,21500422,4,3:48,Foye S.FOUL (P3.T4) (S.Twardoski),nan,nan,200751,Randy Foye,DEN,977,Kobe Bryant,LAL,0,nan,nan,Foul ,Shooting
+53058,21500422,4,3:48,nan,Bryant Free Throw 1 of 3 (25 PTS),99 - 95,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+53059,21500422,4,3:48,nan,Bryant Free Throw 2 of 3 (26 PTS),100 - 95,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+53060,21500422,4,3:48,SUB: Harris FOR Foye,nan,nan,200751,Randy Foye,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+53061,21500422,4,3:48,nan,Bryant Free Throw 3 of 3 (27 PTS),101 - 95,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+53062,21500422,4,3:33,MISS Barton 2' Layup,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53063,21500422,4,3:32,nan,Williams REBOUND (Off:1 Def:3),nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53064,21500422,4,3:16,nan,MISS Bryant 18' Turnaround Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53065,21500422,4,3:16,Barton REBOUND (Off:1 Def:7),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53066,21500422,4,3:11,Harris  Driving Dunk (18 PTS) (Barton 2 AST),nan,101 - 97,203914,Gary Harris,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+53067,21500422,4,2:49,nan,Bass 11' Jump Shot (11 PTS) (Bryant 5 AST),103 - 97,101138,Brandon Bass,LAL,977,Kobe Bryant,LAL,0,nan,nan,Made Shot ,nan
+53068,21500422,4,2:38,Harris 25' 3PT Jump Shot (21 PTS) (Nelson 7 AST),nan,103 - 100,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+53069,21500422,4,2:18,nan,MISS Bryant 18' Turnaround Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53070,21500422,4,2:17,Faried REBOUND (Off:3 Def:6),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53071,21500422,4,2:11,MISS Harris 2' Driving Layup,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53072,21500422,4,2:09,nan,Clarkson REBOUND (Off:1 Def:5),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53073,21500422,4,1:56,nan,MISS Clarkson 2' Layup,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53074,21500422,4,1:56,Jokic REBOUND (Off:6 Def:4),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53075,21500422,4,1:56,nan,Randle L.B.FOUL (P1.T3) (N.Buchert),nan,203944,Julius Randle,LAL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Loose Ball
+53076,21500422,4,1:56,NUGGETS Timeout: Regular (Full 4 Short 2),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+53077,21500422,4,1:56,SUB: Arthur FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Substitution ,nan
+53078,21500422,4,1:43,MISS Harris 26' 3PT Jump Shot,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53079,21500422,4,1:42,nan,Randle REBOUND (Off:3 Def:6),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53080,21500422,4,1:23,Harris S.FOUL (P2.PN) (N.Buchert),nan,nan,203914,Gary Harris,DEN,977,Kobe Bryant,LAL,0,nan,nan,Foul ,Shooting
+53081,21500422,4,1:23,nan,Bryant Free Throw 1 of 2 (28 PTS),104 - 100,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53082,21500422,4,1:23,nan,Bryant Free Throw 2 of 2 (29 PTS),105 - 100,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53083,21500422,4,1:13,MISS Nelson 2' Layup,Bass BLOCK (4 BLK),nan,2749,Jameer Nelson,DEN,0,nan,nan,101138,Brandon Bass,LAL,Missed Shot ,nan
+53084,21500422,4,1:12,Arthur REBOUND (Off:1 Def:2),nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53085,21500422,4,1:08,MISS Arthur 26' 3PT Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53086,21500422,4,1:06,nan,Randle REBOUND (Off:3 Def:7),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53087,21500422,4,0:51,nan,MISS Bryant 31' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+53088,21500422,4,0:50,nan,Clarkson REBOUND (Off:2 Def:5),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53089,21500422,4,0:32,nan,Bryant 16' Turnaround Jump Shot (31 PTS),107 - 100,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+53090,21500422,4,0:32,NUGGETS Timeout: Short (Full 4 Short 3),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+53091,21500422,4,0:23,nan,Williams S.FOUL (P2.PN) (S.Twardoski),nan,101150,Lou Williams,LAL,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+53092,21500422,4,0:23,Faried Free Throw 1 of 2 (13 PTS),nan,107 - 101,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53093,21500422,4,0:23,nan,SUB: Young FOR Randle,nan,203944,Julius Randle,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+53094,21500422,4,0:23,Faried Free Throw 2 of 2 (14 PTS),nan,107 - 102,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53095,21500422,4,0:22,Harris Personal Take Foul (P3.PN) (J.Goble),nan,nan,203914,Gary Harris,DEN,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Personal Take
+53096,21500422,4,0:22,nan,Clarkson Free Throw 1 of 2 (16 PTS),108 - 102,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53097,21500422,4,0:22,nan,MISS Clarkson Free Throw 2 of 2,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53098,21500422,4,0:20,nan,Clarkson REBOUND (Off:3 Def:5),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+53099,21500422,4,0:16,Nelson Personal Take Foul (P2.PN) (J.Goble),nan,nan,2749,Jameer Nelson,DEN,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Personal Take
+53100,21500422,4,0:16,nan,MISS Clarkson Free Throw 1 of 2,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53101,21500422,4,0:16,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+53102,21500422,4,0:16,nan,Clarkson Free Throw 2 of 2 (17 PTS),109 - 102,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53103,21500422,4,0:09,Nelson 2' Driving Layup (5 PTS),nan,109 - 104,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+53104,21500422,4,0:08,Harris Personal Take Foul (P4.PN) (J.Goble),nan,nan,203914,Gary Harris,DEN,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Personal Take
+53105,21500422,4,0:08,nan,Clarkson Free Throw 1 of 2 (18 PTS),110 - 104,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+53106,21500422,4,0:08,nan,Clarkson Free Throw 2 of 2 (19 PTS),111 - 104,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+53107,21500422,4,0:00,Arthur 26' 3PT Jump Shot (9 PTS) (Nelson 8 AST),nan,111 - 107,201589,Darrell Arthur,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+53108,21500422,4,0:00,nan,nan,nan,549,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+53109,21500422,4,0:00,nan,nan,111 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

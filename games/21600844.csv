@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+257436,21600844,4,12:00,nan,nan,76 - 102,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+257437,21600844,4,11:43,nan,MISS Nance Jr. 2' Alley Oop Layup,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257438,21600844,4,11:40,Len REBOUND (Off:3 Def:6),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257439,21600844,4,11:23,Len Bad Pass Turnover (P4.T11),Clarkson STEAL (1 STL),nan,203458,Alex Len,PHX,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Bad Pass
+257440,21600844,4,11:20,nan,Clarkson  Running Dunk (12 PTS),78 - 102,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+257441,21600844,4,10:59,nan,Huertas S.FOUL (P1.T1) (M.Ayotte),nan,1626273,Marcelo Huertas,LAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+257442,21600844,4,10:59,Bledsoe Free Throw 1 of 2 (21 PTS),nan,78 - 103,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257443,21600844,4,10:59,Bledsoe Free Throw 2 of 2 (22 PTS),nan,78 - 104,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257444,21600844,4,10:49,Len S.FOUL (P2.T1) (R.Mott),nan,nan,203458,Alex Len,PHX,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+257445,21600844,4,10:49,nan,Williams Free Throw 1 of 2 (17 PTS),79 - 104,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257446,21600844,4,10:49,nan,Williams Free Throw 2 of 2 (18 PTS),80 - 104,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257447,21600844,4,10:35,Tucker 23' Jump Shot (9 PTS) (Len 1 AST),nan,80 - 106,200782,PJ Tucker,PHX,203458,Alex Len,PHX,0,nan,nan,Made Shot ,nan
+257448,21600844,4,10:23,nan,MISS Nance Jr.  Alley Oop Layup,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257449,21600844,4,10:23,Dudley REBOUND (Off:0 Def:2),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257450,21600844,4,10:15,Len  Dunk (15 PTS) (Dudley 2 AST),nan,80 - 108,203458,Alex Len,PHX,201162,Jared Dudley,PHX,0,nan,nan,Made Shot ,nan
+257451,21600844,4,10:05,Len BLOCK (1 BLK),MISS Williams 5' Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+257452,21600844,4,10:05,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257453,21600844,4,9:58,nan,MISS Huertas 1' Driving Layup,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257454,21600844,4,9:57,Dudley REBOUND (Off:0 Def:3),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257455,21600844,4,9:52,Dudley 25' 3PT Jump Shot (3 PTS) (Bledsoe 13 AST),nan,80 - 111,201162,Jared Dudley,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+257456,21600844,4,9:51,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+257457,21600844,4,9:51,nan,SUB: Russell FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+257458,21600844,4,9:51,nan,SUB: Randle FOR Huertas,nan,1626273,Marcelo Huertas,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+257459,21600844,4,9:33,nan,MISS Russell 18' Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257460,21600844,4,9:31,Bledsoe REBOUND (Off:2 Def:7),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257461,21600844,4,9:11,Knight 26' 3PT Step Back Jump Shot (5 PTS),nan,80 - 114,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+257462,21600844,4,8:57,nan,Clarkson 26' 3PT Jump Shot (15 PTS) (Randle 2 AST),83 - 114,203903,Jordan Clarkson,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+257463,21600844,4,8:39,MISS Knight 24' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257464,21600844,4,8:37,nan,Randle REBOUND (Off:3 Def:6),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257465,21600844,4,8:30,nan,Williams 25' 3PT Jump Shot (21 PTS) (Randle 3 AST),86 - 114,101150,Lou Williams,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+257466,21600844,4,8:11,MISS Knight 25' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257467,21600844,4,8:09,nan,Randle REBOUND (Off:3 Def:7),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257468,21600844,4,8:05,nan,Randle 1' Driving Layup (8 PTS),88 - 114,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+257469,21600844,4,8:05,Len S.FOUL (P3.T2) (M.Ayotte),nan,nan,203458,Alex Len,PHX,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+257470,21600844,4,8:05,nan,Randle Free Throw 1 of 1 (9 PTS),89 - 114,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+257471,21600844,4,7:41,Bledsoe 26' 3PT Jump Shot (25 PTS) (Len 2 AST),nan,89 - 117,202339,Eric Bledsoe,PHX,203458,Alex Len,PHX,0,nan,nan,Made Shot ,nan
+257472,21600844,4,7:30,Dudley P.FOUL (P1.T3) (M.Ayotte),nan,nan,201162,Jared Dudley,PHX,2736,Luol Deng,LAL,0,nan,nan,Foul ,Personal
+257473,21600844,4,7:21,nan,MISS Russell 11' Floating Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257474,21600844,4,7:19,Dudley REBOUND (Off:0 Def:4),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257475,21600844,4,6:55,MISS Len 3' Alley Oop Layup,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257476,21600844,4,6:51,nan,Deng REBOUND (Off:0 Def:2),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257477,21600844,4,6:47,nan,Randle 1' Layup (11 PTS) (Williams 3 AST),91 - 117,203944,Julius Randle,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+257478,21600844,4,6:25,Dudley Bad Pass Turnover (P1.T12),Williams STEAL (3 STL),nan,201162,Jared Dudley,PHX,101150,Lou Williams,LAL,0,nan,nan,Turnover ,Bad Pass
+257479,21600844,4,6:19,Knight BLOCK (1 BLK),MISS Williams 7' Running Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,202688,Brandon Knight,PHX,Missed Shot ,nan
+257480,21600844,4,6:19,Knight REBOUND (Off:0 Def:1),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257481,21600844,4,6:15,MISS Tucker 24' 3PT Jump Shot,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257482,21600844,4,6:12,nan,Russell REBOUND (Off:0 Def:4),nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257483,21600844,4,6:09,nan,MISS Williams 25' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257484,21600844,4,6:06,Bledsoe REBOUND (Off:2 Def:8),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257485,21600844,4,5:55,nan,Williams P.FOUL (P3.T2) (K.Lane),nan,101150,Lou Williams,LAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+257486,21600844,4,5:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+257487,21600844,4,5:55,SUB: Barbosa FOR Bledsoe,nan,nan,202339,Eric Bledsoe,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Substitution ,nan
+257488,21600844,4,5:55,SUB: Ulis FOR Tucker,nan,nan,200782,PJ Tucker,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+257489,21600844,4,5:55,nan,SUB: Young FOR Deng,nan,2736,Luol Deng,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+257490,21600844,4,5:55,nan,SUB: Ingram FOR Williams,nan,101150,Lou Williams,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Substitution ,nan
+257491,21600844,4,5:50,MISS Knight 18' Pullup Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257492,21600844,4,5:46,nan,Young REBOUND (Off:1 Def:2),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257493,21600844,4,5:35,Ulis S.FOUL (P1.T4) (M.Ayotte),nan,nan,1627755,Tyler Ulis,PHX,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Shooting
+257494,21600844,4,5:35,nan,Russell Free Throw 1 of 2 (15 PTS),92 - 117,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257495,21600844,4,5:35,nan,Russell Free Throw 2 of 2 (16 PTS),93 - 117,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257496,21600844,4,5:20,Len Lost Ball Turnover (P5.T13),Randle STEAL (1 STL),nan,203458,Alex Len,PHX,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+257497,21600844,4,5:20,Len P.FOUL (P4.PN) (R.Mott),nan,nan,203458,Alex Len,PHX,203944,Julius Randle,LAL,0,nan,nan,Foul ,Personal
+257498,21600844,4,5:20,nan,Randle Free Throw 1 of 2 (12 PTS),94 - 117,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257499,21600844,4,5:20,nan,Randle Free Throw 2 of 2 (13 PTS),95 - 117,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257500,21600844,4,5:09,nan,Randle P.FOUL (P4.T3) (R.Mott),nan,203944,Julius Randle,LAL,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+257501,21600844,4,5:07,Len OFF.Foul (P5) (R.Mott),nan,nan,203458,Alex Len,PHX,1627742,Brandon Ingram,LAL,0,nan,nan,Foul ,Offensive
+257502,21600844,4,5:07,Len Foul Turnover (P6.T14),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+257503,21600844,4,4:52,Len BLOCK (2 BLK),MISS Russell 10' Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+257504,21600844,4,4:49,Knight REBOUND (Off:0 Def:2),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257505,21600844,4,4:47,Knight 1' Running Layup (7 PTS),nan,95 - 119,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+257506,21600844,4,4:37,Len S.FOUL (P6.PN) (R.Mott),nan,nan,203458,Alex Len,PHX,1627742,Brandon Ingram,LAL,0,nan,nan,Foul ,Shooting
+257507,21600844,4,4:37,SUB: Williams FOR Len,nan,nan,203458,Alex Len,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+257508,21600844,4,4:37,nan,Ingram Free Throw 1 of 2 (3 PTS),96 - 119,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257509,21600844,4,4:37,nan,MISS Ingram Free Throw 2 of 2,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257510,21600844,4,4:35,Williams REBOUND (Off:0 Def:1),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257511,21600844,4,4:23,Knight 1' Cutting Layup Shot (9 PTS) (Barbosa 1 AST),nan,96 - 121,202688,Brandon Knight,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Made Shot ,nan
+257512,21600844,4,4:15,nan,MISS Clarkson 24' 3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257513,21600844,4,4:13,Williams REBOUND (Off:0 Def:2),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257514,21600844,4,4:09,Ulis 10' Jump Bank Shot (2 PTS) (Williams 1 AST),nan,96 - 123,1627755,Tyler Ulis,PHX,1626210,Alan Williams,PHX,0,nan,nan,Made Shot ,nan
+257515,21600844,4,3:49,nan,MISS Clarkson 25' 3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257516,21600844,4,3:49,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257517,21600844,4,3:49,"SUB: Jones, Jr. FOR Dudley",nan,nan,201162,Jared Dudley,PHX,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,Substitution ,nan
+257518,21600844,4,3:39,Barbosa  Driving Layup (5 PTS),nan,96 - 125,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+257519,21600844,4,3:24,nan,MISS Clarkson 3' Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257520,21600844,4,3:22,Williams REBOUND (Off:0 Def:3),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257521,21600844,4,3:16,Ulis Bad Pass Turnover (P1.T15),Young STEAL (1 STL),nan,1627755,Tyler Ulis,PHX,201156,Nick Young,LAL,0,nan,nan,Turnover ,Bad Pass
+257522,21600844,4,3:09,nan,MISS Randle 7' Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257523,21600844,4,3:08,Williams REBOUND (Off:0 Def:4),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257524,21600844,4,3:04,Barbosa  Layup (7 PTS) (Ulis 1 AST),nan,96 - 127,2571,Leandro Barbosa,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+257525,21600844,4,3:04,nan,Lakers Timeout: Regular (Reg.5 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+257526,21600844,4,2:52,nan,MISS Ingram 1' Layup,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257527,21600844,4,2:49,"Jones, Jr. REBOUND (Off:0 Def:1)",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257528,21600844,4,2:46,MISS Knight 2' Layup,Russell BLOCK (1 BLK),nan,202688,Brandon Knight,PHX,0,nan,nan,1626156,D'Angelo Russell,LAL,Missed Shot ,nan
+257529,21600844,4,2:43,"Jones, Jr. REBOUND (Off:1 Def:1)",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257530,21600844,4,2:43,"Jones, Jr.  Putback Dunk (2 PTS)",nan,96 - 129,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+257531,21600844,4,2:34,nan,Russell 26' 3PT Jump Shot (19 PTS),99 - 129,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+257532,21600844,4,2:22,"Jones, Jr.  Alley Oop Dunk (4 PTS) (Ulis 2 AST)",nan,99 - 131,1627884,"Derrick Jones, Jr.",PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+257533,21600844,4,2:09,nan,MISS Russell  Driving Layup,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257534,21600844,4,2:06,Williams REBOUND (Off:0 Def:5),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257535,21600844,4,2:02,Knight  Dunk (11 PTS) (Ulis 3 AST),nan,99 - 133,202688,Brandon Knight,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+257536,21600844,4,2:02,nan,Lakers Timeout: Short (Reg.5 Short 2),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+257537,21600844,4,1:51,nan,MISS Russell 18' Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257538,21600844,4,1:49,Williams REBOUND (Off:0 Def:6),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257539,21600844,4,1:36,MISS Williams 7' Hook Shot,nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257540,21600844,4,1:33,nan,Young REBOUND (Off:1 Def:3),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257541,21600844,4,1:19,nan,MISS Randle 9' Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257542,21600844,4,1:19,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257543,21600844,4,1:19,nan,Clarkson L.B.FOUL (P3.T4) (R.Mott),nan,203903,Jordan Clarkson,LAL,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Loose Ball
+257544,21600844,4,1:03,"Jones, Jr.  Cutting Dunk Shot (6 PTS) (Ulis 4 AST)",nan,99 - 135,1627884,"Derrick Jones, Jr.",PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+257545,21600844,4,0:54,nan,Russell 9' Jump Shot (21 PTS),101 - 135,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+257546,21600844,4,0:30,Williams 8' Jump Shot (2 PTS) (Barbosa 2 AST),nan,101 - 137,1626210,Alan Williams,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Made Shot ,nan
+257547,21600844,4,0:17,nan,MISS Russell 25' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257548,21600844,4,0:16,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257549,21600844,4,0:00,nan,nan,101 - 137,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

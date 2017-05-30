@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+54258,21500433,4,12:00,nan,nan,79 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+54259,21500433,4,11:46,Teletovic Traveling Turnover (P2.T11),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Turnover ,Traveling
+54260,21500433,4,11:25,nan,Jokic 10' Turnaround Jump Shot (13 PTS) (Papanikolaou 2 AST),81 - 72,203999,Nikola Jokic,DEN,203123,Kostas Papanikolaou,DEN,0,nan,nan,Made Shot ,nan
+54261,21500433,4,11:13,Price 24' 3PT Jump Shot (12 PTS),nan,81 - 75,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+54262,21500433,4,10:50,nan,Barton 25' 3PT Jump Shot (14 PTS) (Arthur 2 AST),84 - 75,203115,Will Barton,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+54263,21500433,4,10:35,MISS Mark Morris 15' Jump Shot,nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54264,21500433,4,10:33,nan,Papanikolaou REBOUND (Off:1 Def:4),nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54265,21500433,4,10:22,nan,MISS Barton 26' 3PT Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54266,21500433,4,10:20,Price REBOUND (Off:0 Def:1),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54267,21500433,4,10:07,MISS Bledsoe 16' Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54268,21500433,4,10:05,nan,Jokic REBOUND (Off:5 Def:4),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54269,21500433,4,9:52,Bledsoe STEAL (3 STL),Jokic Bad Pass Turnover (P2.T14),nan,203999,Nikola Jokic,DEN,202339,Eric Bledsoe,PHX,0,nan,nan,Turnover ,Bad Pass
+54270,21500433,4,9:48,MISS Warren 2' Layup,Papanikolaou BLOCK (2 BLK),nan,203933,TJ Warren,PHX,0,nan,nan,203123,Kostas Papanikolaou,DEN,Missed Shot ,nan
+54271,21500433,4,9:47,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54272,21500433,4,9:47,SUNS Timeout: Regular (Full 4 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+54273,21500433,4,9:47,nan,nan,nan,383,Kendall Gill,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+54274,21500433,4,9:47,SUB: Tucker FOR Warren,nan,nan,203933,TJ Warren,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+54275,21500433,4,9:47,SUB: Leuer FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+54276,21500433,4,9:47,SUB: Knight FOR Mark Morris,nan,nan,202693,Markieff Morris,PHX,202688,Brandon Knight,PHX,0,nan,nan,Substitution ,nan
+54277,21500433,4,9:39,Knight 4' Jump Bank Shot (19 PTS),nan,84 - 77,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+54278,21500433,4,9:21,nan,MISS Barton 9' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54279,21500433,4,9:19,Leuer REBOUND (Off:1 Def:7),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54280,21500433,4,9:14,Price  3PT Jump Shot (15 PTS) (Knight 8 AST),nan,84 - 80,101179,Ronnie Price,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+54281,21500433,4,8:59,nan,Arthur 15' Jump Bank Shot (17 PTS) (Papanikolaou 3 AST),86 - 80,201589,Darrell Arthur,DEN,203123,Kostas Papanikolaou,DEN,0,nan,nan,Made Shot ,nan
+54282,21500433,4,8:48,MISS Knight 25' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54283,21500433,4,8:46,Leuer REBOUND (Off:2 Def:7),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54284,21500433,4,8:42,Price  3PT Jump Shot (18 PTS) (Knight 9 AST),nan,86 - 83,101179,Ronnie Price,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+54285,21500433,4,8:40,nan,Nuggets Timeout: Regular (Reg.5 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+54286,21500433,4,8:40,nan,SUB: Foye FOR Papanikolaou,nan,203123,Kostas Papanikolaou,DEN,200751,Randy Foye,DEN,0,nan,nan,Substitution ,nan
+54287,21500433,4,8:40,nan,SUB: Faried FOR Jokic,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+54288,21500433,4,8:28,nan,MISS Barton 6' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54289,21500433,4,8:27,Tucker REBOUND (Off:0 Def:8),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54290,21500433,4,8:24,nan,Arthur P.FOUL (P2.T1) (D.Richardson),nan,201589,Darrell Arthur,DEN,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+54291,21500433,4,8:08,MISS Knight 19' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54292,21500433,4,8:06,Price REBOUND (Off:1 Def:1),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54293,21500433,4,8:06,MISS Price 2' Layup,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54294,21500433,4,8:04,Price REBOUND (Off:2 Def:1),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54295,21500433,4,8:04,MISS Price 3' Layup,Faried BLOCK (2 BLK),nan,101179,Ronnie Price,PHX,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+54296,21500433,4,8:02,nan,Barton REBOUND (Off:0 Def:6),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54297,21500433,4,7:57,nan,MISS Foye 25' 3PT Jump Shot,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54298,21500433,4,7:54,Price REBOUND (Off:2 Def:2),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54299,21500433,4,7:41,MISS Knight 25' 3PT Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54300,21500433,4,7:39,Tucker REBOUND (Off:1 Def:8),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54301,21500433,4,7:31,MISS Leuer 6' Hook Shot,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54302,21500433,4,7:27,nan,Arthur REBOUND (Off:1 Def:8),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54303,21500433,4,7:10,nan,MISS Foye 3' Jump Shot,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54304,21500433,4,7:08,Tucker REBOUND (Off:1 Def:9),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54305,21500433,4,7:03,Price Step Out of Bounds Turnover (P1.T12),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+54306,21500433,4,6:44,Bledsoe P.FOUL (P1.T1) (S.Foster),nan,nan,202339,Eric Bledsoe,PHX,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+54307,21500433,4,6:33,nan,Arthur 17' Jump Shot (19 PTS) (Foye 4 AST),88 - 83,201589,Darrell Arthur,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+54308,21500433,4,6:14,MISS Leuer 17' Jump Shot,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54309,21500433,4,6:13,Tucker REBOUND (Off:2 Def:9),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54310,21500433,4,6:09,Tucker 5' Jump Bank Shot (7 PTS),nan,88 - 85,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+54311,21500433,4,5:52,Leuer BLOCK (1 BLK),MISS Harris 5' Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,202720,Jon Leuer,PHX,Missed Shot ,nan
+54312,21500433,4,5:52,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54313,21500433,4,5:48,Bledsoe STEAL (4 STL),Barton Bad Pass Turnover (P2.T15),nan,203115,Will Barton,DEN,202339,Eric Bledsoe,PHX,0,nan,nan,Turnover ,Bad Pass
+54314,21500433,4,5:44,Knight 2' Running Layup (21 PTS) (Bledsoe 7 AST),nan,88 - 87,202688,Brandon Knight,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+54315,21500433,4,5:27,nan,Faried 1' Alley Oop Layup (8 PTS) (Foye 5 AST),90 - 87,202702,Kenneth Faried,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+54316,21500433,4,5:14,Knight Out of Bounds Lost Ball Turnover (P3.T13),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+54317,21500433,4,4:54,nan,Barton 25' 3PT Jump Shot (17 PTS) (Foye 6 AST),93 - 87,203115,Will Barton,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+54318,21500433,4,4:38,Bledsoe Bad Pass Turnover (P4.T14),Barton STEAL (1 STL),nan,202339,Eric Bledsoe,PHX,203115,Will Barton,DEN,0,nan,nan,Turnover ,Bad Pass
+54319,21500433,4,4:27,nan,Faried 2' Layup (10 PTS) (Arthur 3 AST),95 - 87,202702,Kenneth Faried,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+54320,21500433,4,4:27,SUNS Timeout: Regular (Full 5 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+54321,21500433,4,4:14,Leuer 2' Layup (18 PTS),nan,95 - 89,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+54322,21500433,4,3:52,Bledsoe P.FOUL (P2.T2) (D.Richardson),nan,nan,202339,Eric Bledsoe,PHX,200751,Randy Foye,DEN,0,nan,nan,Foul ,Personal
+54323,21500433,4,3:46,nan,MISS Foye 2' Driving Layup,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54324,21500433,4,3:44,Tucker REBOUND (Off:2 Def:10),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54325,21500433,4,3:36,MISS Tucker 25' 3PT Jump Shot,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54326,21500433,4,3:34,nan,Arthur REBOUND (Off:1 Def:9),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54327,21500433,4,3:18,nan,MISS Foye  3PT Jump Shot,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54328,21500433,4,3:16,Knight REBOUND (Off:1 Def:2),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54329,21500433,4,2:57,MISS Leuer 5' Jump Shot,Arthur BLOCK (2 BLK),nan,202720,Jon Leuer,PHX,0,nan,nan,201589,Darrell Arthur,DEN,Missed Shot ,nan
+54330,21500433,4,2:55,nan,Barton REBOUND (Off:0 Def:7),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54331,21500433,4,2:43,nan,MISS Arthur 18' Jump Shot,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54332,21500433,4,2:41,nan,Faried REBOUND (Off:3 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54333,21500433,4,2:40,nan,MISS Faried 1' Putback Layup,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54334,21500433,4,2:38,Tucker REBOUND (Off:2 Def:11),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54335,21500433,4,2:34,nan,Arthur P.FOUL (P3.T2) (S.Foster),nan,201589,Darrell Arthur,DEN,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+54336,21500433,4,2:30,MISS Bledsoe 25' 3PT Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54337,21500433,4,2:29,Leuer REBOUND (Off:3 Def:7),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54338,21500433,4,2:15,Knight Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+54339,21500433,4,1:57,nan,Foye 25' 3PT Jump Shot (29 PTS),98 - 89,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+54340,21500433,4,1:45,MISS Knight 7' Floating Jump Shot,Faried BLOCK (3 BLK),nan,202688,Brandon Knight,PHX,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+54341,21500433,4,1:45,nan,Barton REBOUND (Off:0 Def:8),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54342,21500433,4,1:45,nan,nan,nan,473,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+54343,21500433,4,1:34,Price P.FOUL (P4.T3) (D.Richardson),nan,nan,101179,Ronnie Price,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+54344,21500433,4,1:33,nan,nan,nan,484,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+54345,21500433,4,1:32,Tucker P.FOUL (P3.PN) (M.Boland),nan,nan,200782,PJ Tucker,PHX,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+54346,21500433,4,1:32,nan,MISS Faried Free Throw 1 of 2,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+54347,21500433,4,1:32,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+54348,21500433,4,1:32,SUB: Teletovic FOR Tucker,nan,nan,200782,PJ Tucker,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+54349,21500433,4,1:32,nan,Faried Free Throw 2 of 2 (11 PTS),99 - 89,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+54350,21500433,4,1:21,Teletovic 30' 3PT Jump Shot (3 PTS) (Knight 10 AST),nan,99 - 92,203141,Mirza Teletovic,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+54351,21500433,4,1:21,nan,Nuggets Timeout: Regular (Reg.6 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+54352,21500433,4,1:21,nan,SUB: Papanikolaou FOR Faried,nan,202702,Kenneth Faried,DEN,203123,Kostas Papanikolaou,DEN,0,nan,nan,Substitution ,nan
+54353,21500433,4,1:21,SUB: Tucker FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+54354,21500433,4,1:07,Tucker STEAL (1 STL),Barton Lost Ball Turnover (P3.T16),nan,203115,Will Barton,DEN,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Lost Ball
+54355,21500433,4,1:00,MISS Price 26' 3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54356,21500433,4,0:59,nan,Barton REBOUND (Off:0 Def:9),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54357,21500433,4,0:42,nan,Foye 2' Driving Layup (31 PTS),101 - 92,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+54358,21500433,4,0:42,SUNS Timeout: Short (Full 5 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+54359,21500433,4,0:42,SUB: Teletovic FOR Tucker,nan,nan,200782,PJ Tucker,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+54360,21500433,4,0:35,Knight Bad Pass Turnover (P5.T16),Papanikolaou STEAL (2 STL),nan,202688,Brandon Knight,PHX,203123,Kostas Papanikolaou,DEN,0,nan,nan,Turnover ,Bad Pass
+54361,21500433,4,0:34,Bledsoe Personal Take Foul (P3.PN) (D.Richardson),nan,nan,202339,Eric Bledsoe,PHX,203123,Kostas Papanikolaou,DEN,0,nan,nan,Foul ,Personal Take
+54362,21500433,4,0:34,nan,Papanikolaou Free Throw 1 of 2 (7 PTS),102 - 92,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+54363,21500433,4,0:34,nan,Papanikolaou Free Throw 2 of 2 (8 PTS),103 - 92,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+54364,21500433,4,0:30,nan,Papanikolaou S.FOUL (P2.T3) (S.Foster),nan,203123,Kostas Papanikolaou,DEN,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+54365,21500433,4,0:30,Bledsoe Free Throw 1 of 2 (9 PTS),nan,103 - 93,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+54366,21500433,4,0:30,SUB: Tucker FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+54367,21500433,4,0:30,nan,SUB: Jokic FOR Papanikolaou,nan,203123,Kostas Papanikolaou,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+54368,21500433,4,0:30,MISS Bledsoe Free Throw 2 of 2,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+54369,21500433,4,0:30,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54370,21500433,4,0:30,nan,Jokic L.B.FOUL (P3.PN) (M.Boland),nan,203999,Nikola Jokic,DEN,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Loose Ball
+54371,21500433,4,0:30,MISS Tucker Free Throw 1 of 2,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+54372,21500433,4,0:30,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+54373,21500433,4,0:30,Tucker Free Throw 2 of 2 (8 PTS),nan,103 - 94,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+54374,21500433,4,0:17,nan,Foye Out of Bounds - Bad Pass Turnover Turnover (P4.T17),nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+54375,21500433,4,0:17,nan,SUB: Papanikolaou FOR Jokic,nan,203999,Nikola Jokic,DEN,203123,Kostas Papanikolaou,DEN,0,nan,nan,Substitution ,nan
+54376,21500433,4,0:13,MISS Price 28' 3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+54377,21500433,4,0:11,Knight REBOUND (Off:2 Def:2),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54378,21500433,4,0:07,Price 2' Driving Layup (20 PTS),nan,103 - 96,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+54379,21500433,4,0:04,Leuer Personal Take Foul (P3.PN) (S.Foster),nan,nan,202720,Jon Leuer,PHX,203123,Kostas Papanikolaou,DEN,0,nan,nan,Foul ,Personal Take
+54380,21500433,4,0:04,nan,Papanikolaou Free Throw 1 of 2 (9 PTS),104 - 96,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+54381,21500433,4,0:04,nan,MISS Papanikolaou Free Throw 2 of 2,nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+54382,21500433,4,0:04,Bledsoe REBOUND (Off:0 Def:5),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+54383,21500433,4,0:00,nan,nan,nan,541,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+54384,21500433,4,0:00,nan,nan,104 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

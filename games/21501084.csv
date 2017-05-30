@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+135290,21501084,4,12:00,nan,nan,85 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+135291,21501084,4,11:45,nan,Biyombo S.FOUL (P3.T1) (J.Tiven),nan,202687,Bismack Biyombo,TOR,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Shooting
+135292,21501084,4,11:45,MISS Hamilton Free Throw 1 of 2,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135293,21501084,4,11:45,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+135294,21501084,4,11:45,Hamilton Free Throw 2 of 2 (3 PTS),nan,85 - 62,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135295,21501084,4,11:33,nan,MISS Powell 12' Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135296,21501084,4,11:32,Perkins REBOUND (Off:0 Def:3),nan,nan,2570,Kendrick Perkins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135297,21501084,4,11:19,MISS Babbitt 7' Running Jump Shot,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135298,21501084,4,11:17,nan,Biyombo REBOUND (Off:0 Def:4),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135299,21501084,4,11:05,nan,Joseph 24' 3PT Jump Shot (5 PTS) (Patterson 2 AST),88 - 62,202709,Cory Joseph,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+135300,21501084,4,10:49,MISS Cunningham 21' Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135301,21501084,4,10:48,nan,Joseph REBOUND (Off:0 Def:2),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135302,21501084,4,10:37,Babbitt S.FOUL (P3.T1) (J.Tiven),nan,nan,202337,Luke Babbitt,NOP,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Shooting
+135303,21501084,4,10:37,nan,Patterson Free Throw 1 of 2 (15 PTS),89 - 62,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135304,21501084,4,10:37,nan,Patterson Free Throw 2 of 2 (16 PTS),90 - 62,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135305,21501084,4,10:26,Babbitt 25' 3PT Jump Shot (14 PTS) (Perkins 2 AST),nan,90 - 65,202337,Luke Babbitt,NOP,2570,Kendrick Perkins,NOP,0,nan,nan,Made Shot ,nan
+135306,21501084,4,10:06,nan,Biyombo 14' Jump Shot (4 PTS) (Powell 2 AST),92 - 65,202687,Bismack Biyombo,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+135307,21501084,4,9:45,Frazier 23' Jump Bank Shot (8 PTS),nan,92 - 67,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135308,21501084,4,9:30,nan,MISS Johnson 22' Jump Shot,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135309,21501084,4,9:29,nan,Biyombo REBOUND (Off:1 Def:4),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135310,21501084,4,9:18,nan,Powell  Driving Dunk (9 PTS),94 - 67,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+135311,21501084,4,9:18,Cunningham S.FOUL (P1.T2) (M.Boland),nan,nan,201967,Dante Cunningham,NOP,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+135312,21501084,4,9:18,nan,Powell Free Throw 1 of 1 (10 PTS),95 - 67,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+135313,21501084,4,8:56,Cunningham 2' Finger Roll Layup (5 PTS) (Frazier 4 AST),nan,95 - 69,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+135314,21501084,4,8:43,nan,MISS Powell 25' 3PT Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135315,21501084,4,8:42,Perkins REBOUND (Off:0 Def:4),nan,nan,2570,Kendrick Perkins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135316,21501084,4,8:18,MISS Cunningham 19' Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135317,21501084,4,8:16,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135318,21501084,4,8:16,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+135319,21501084,4,8:16,nan,nan,nan,370,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+135320,21501084,4,8:16,SUB: Gee FOR Babbitt,nan,nan,202337,Luke Babbitt,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Substitution ,nan
+135321,21501084,4,8:16,SUB: Ajinca FOR Perkins,nan,nan,2570,Kendrick Perkins,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+135322,21501084,4,8:01,nan,Johnson 3' Finger Roll Layup (6 PTS),97 - 69,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+135323,21501084,4,7:51,Frazier Lost Ball Turnover (P1.T3),Joseph STEAL (1 STL),nan,204025,Tim Frazier,NOP,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Lost Ball
+135324,21501084,4,7:44,nan,Johnson 25' 3PT Jump Shot (9 PTS) (Patterson 3 AST),100 - 69,201949,James Johnson,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+135325,21501084,4,7:38,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+135326,21501084,4,7:20,Hamilton 9' Fadeaway Jumper (5 PTS),nan,100 - 71,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135327,21501084,4,6:58,nan,Patterson Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+135328,21501084,4,6:49,nan,Patterson S.FOUL (P2.T2) (M.Boland),nan,202335,Patrick Patterson,TOR,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Shooting
+135329,21501084,4,6:49,Ajinca Free Throw 1 of 2 (4 PTS),nan,100 - 72,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135330,21501084,4,6:49,nan,SUB: Thompson FOR Patterson,nan,202335,Patrick Patterson,TOR,201574,Jason Thompson,TOR,0,nan,nan,Substitution ,nan
+135331,21501084,4,6:49,Ajinca Free Throw 2 of 2 (5 PTS),nan,100 - 73,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135332,21501084,4,6:31,nan,MISS Joseph 1' Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135333,21501084,4,6:30,Ajinca REBOUND (Off:0 Def:3),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135334,21501084,4,6:29,nan,Joseph P.FOUL (P1.T3) (M.Boland),nan,202709,Cory Joseph,TOR,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Personal
+135335,21501084,4,6:20,Hamilton 6' Jump Shot (7 PTS) (Frazier 5 AST),nan,100 - 75,202706,Jordan Hamilton,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+135336,21501084,4,6:00,Hamilton S.FOUL (P1.T3) (P.Fraher),nan,nan,202706,Jordan Hamilton,NOP,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+135337,21501084,4,6:00,nan,Powell Free Throw 1 of 2 (11 PTS),101 - 75,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135338,21501084,4,6:00,nan,Powell Free Throw 2 of 2 (12 PTS),102 - 75,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135339,21501084,4,5:48,MISS Gee 2' Layup,nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135340,21501084,4,5:47,Hamilton REBOUND (Off:1 Def:3),nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135341,21501084,4,5:44,Hamilton 2' Putback Layup (9 PTS),nan,102 - 77,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135342,21501084,4,5:27,nan,Johnson Discontinue Dribble Turnover (P2.T10),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Turnover ,Discontinue Dribble
+135343,21501084,4,5:22,MISS Frazier 3' Layup,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135344,21501084,4,5:19,Frazier REBOUND (Off:1 Def:2),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135345,21501084,4,5:14,MISS Frazier  3PT Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135346,21501084,4,5:11,Ajinca REBOUND (Off:1 Def:3),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135347,21501084,4,5:11,nan,Thompson L.B.FOUL (P1.T4) (P.Fraher),nan,201574,Jason Thompson,TOR,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Loose Ball
+135348,21501084,4,5:00,Cunningham 2' Driving Reverse Layup (7 PTS) (Hamilton 2 AST),nan,102 - 79,201967,Dante Cunningham,NOP,202706,Jordan Hamilton,NOP,0,nan,nan,Made Shot ,nan
+135349,21501084,4,4:46,Cunningham S.FOUL (P2.T4) (P.Fraher),nan,nan,201967,Dante Cunningham,NOP,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Shooting
+135350,21501084,4,4:46,nan,Biyombo Free Throw 1 of 2 (5 PTS),103 - 79,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135351,21501084,4,4:46,nan,Biyombo Free Throw 2 of 2 (6 PTS),104 - 79,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135352,21501084,4,4:35,Hamilton 16' Pullup Jump Shot (11 PTS),nan,104 - 81,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135353,21501084,4,4:16,nan,MISS Powell 25' 3PT Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135354,21501084,4,4:15,nan,Johnson REBOUND (Off:1 Def:3),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135355,21501084,4,4:14,nan,MISS Johnson 1' Putback Layup,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135356,21501084,4,4:09,nan,Johnson REBOUND (Off:2 Def:3),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135357,21501084,4,4:09,nan,Johnson Out of Bounds - Bad Pass Turnover Turnover (P3.T11),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+135358,21501084,4,4:05,Frazier 11' Jump Shot (10 PTS),nan,104 - 83,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135359,21501084,4,3:40,Ajinca Violation:Defensive Goaltending (J.Tiven),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+135360,21501084,4,3:40,nan,Johnson 4' Jump Shot (11 PTS),106 - 83,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+135361,21501084,4,3:40,Ajinca HANGING.TECH.FOUL (P1.T4) (J.Tiven),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Foul ,Hanging Technical
+135362,21501084,4,3:40,nan,Joseph Free Throw Technical (6 PTS),107 - 83,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+135363,21501084,4,3:34,Ajinca 2' Driving Layup (7 PTS) (Frazier 6 AST),nan,107 - 85,201582,Alexis Ajinca,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+135364,21501084,4,3:17,nan,SUB: Wright FOR Joseph,nan,202709,Cory Joseph,TOR,1626153,Delon Wright,TOR,0,nan,nan,Substitution ,nan
+135365,21501084,4,3:12,Ajinca S.FOUL (P2.PN) (M.Boland),nan,nan,201582,Alexis Ajinca,NOP,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Shooting
+135366,21501084,4,3:12,nan,MISS Biyombo Free Throw 1 of 2,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135367,21501084,4,3:12,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+135368,21501084,4,3:12,nan,Biyombo Free Throw 2 of 2 (7 PTS),108 - 85,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135369,21501084,4,3:06,Ajinca 17' Jump Shot (9 PTS) (Hamilton 3 AST),nan,108 - 87,201582,Alexis Ajinca,NOP,202706,Jordan Hamilton,NOP,0,nan,nan,Made Shot ,nan
+135370,21501084,4,2:42,nan,Raptors Timeout: Regular (Reg.3 Short 0),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+135371,21501084,4,2:42,nan,SUB: Nogueira FOR Biyombo,nan,202687,Bismack Biyombo,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Substitution ,nan
+135372,21501084,4,2:39,nan,Powell  3PT Jump Shot (15 PTS) (Wright 1 AST),111 - 87,1626181,Norman Powell,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+135373,21501084,4,2:17,Gee Offensive Charge Foul (P3.PN) (J.Tiven),nan,nan,202087,Alonzo Gee,NOP,201949,James Johnson,TOR,0,nan,nan,Foul ,Offensive Charge
+135374,21501084,4,2:17,Gee Foul Turnover (P2.T4),nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+135375,21501084,4,2:04,Frazier Violation:Kicked Ball (P.Fraher),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+135376,21501084,4,2:04,nan,SUB: Caboclo FOR Powell,nan,1626181,Norman Powell,TOR,203998,Bruno Caboclo,TOR,0,nan,nan,Substitution ,nan
+135377,21501084,4,2:04,SUB: Babbitt FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Substitution ,nan
+135378,21501084,4,1:53,nan,Thompson 6' Jump Shot (2 PTS) (Johnson 1 AST),113 - 87,201574,Jason Thompson,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+135379,21501084,4,1:47,Frazier 18' Jump Shot (12 PTS),nan,113 - 89,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+135380,21501084,4,1:25,nan,MISS Thompson 25' 3PT Jump Shot,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135381,21501084,4,1:25,Gee REBOUND (Off:3 Def:4),nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135382,21501084,4,1:19,MISS Hamilton 21' Jump Shot,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135383,21501084,4,1:18,nan,Thompson REBOUND (Off:0 Def:1),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135384,21501084,4,1:12,Hamilton S.FOUL (P2.PN) (J.Tiven),nan,nan,202706,Jordan Hamilton,NOP,203512,Lucas Nogueira,TOR,0,nan,nan,Foul ,Shooting
+135385,21501084,4,1:12,nan,Nogueira Free Throw 1 of 2 (1 PTS),114 - 89,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+135386,21501084,4,1:12,nan,Nogueira Free Throw 2 of 2 (2 PTS),115 - 89,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+135387,21501084,4,1:04,Ajinca Bad Pass Turnover (P1.T5),Thompson STEAL (1 STL),nan,201582,Alexis Ajinca,NOP,201574,Jason Thompson,TOR,0,nan,nan,Turnover ,Bad Pass
+135388,21501084,4,0:58,nan,Wright Out of Bounds - Bad Pass Turnover Turnover (P1.T12),nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+135389,21501084,4,0:48,Frazier Bad Pass Turnover (P2.T6),Johnson STEAL (1 STL),nan,204025,Tim Frazier,NOP,201949,James Johnson,TOR,0,nan,nan,Turnover ,Bad Pass
+135390,21501084,4,0:41,nan,Johnson Out of Bounds - Bad Pass Turnover Turnover (P4.T13),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+135391,21501084,4,0:29,Gee  Cutting Dunk Shot (18 PTS) (Babbitt 5 AST),nan,115 - 91,202087,Alonzo Gee,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Made Shot ,nan
+135392,21501084,4,0:06,nan,MISS Caboclo 14' Jump Shot,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135393,21501084,4,0:04,nan,Wright REBOUND (Off:1 Def:0),nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135394,21501084,4,0:04,nan,MISS Wright 2' Tip Layup Shot,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+135395,21501084,4,0:03,Gee REBOUND (Off:3 Def:5),nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+135396,21501084,4,0:01,Gee Bad Pass Turnover (P3.T7),Johnson STEAL (2 STL),nan,202087,Alonzo Gee,NOP,201949,James Johnson,TOR,0,nan,nan,Turnover ,Bad Pass
+135397,21501084,4,0:00,nan,nan,115 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

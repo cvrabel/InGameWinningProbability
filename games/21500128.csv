@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+16108,21500128,4,12:00,nan,nan,63 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+16109,21500128,4,11:40,nan,MISS Johnson 25' 3PT Jump Shot,nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16110,21500128,4,11:39,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16111,21500128,4,11:20,MISS Dedmon 1' Alley Oop Layup,nan,nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16112,21500128,4,11:19,Gordon REBOUND (Off:1 Def:0),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16113,21500128,4,11:17,MISS Gordon 3' Layup,Booker BLOCK (1 BLK),nan,203932,Aaron Gordon,ORL,0,nan,nan,202344,Trevor Booker,UTA,Missed Shot ,nan
+16114,21500128,4,11:15,Gordon REBOUND (Off:2 Def:0),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16115,21500128,4,11:11,Gordon 2' Driving Layup (8 PTS),nan,63 - 82,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+16116,21500128,4,10:43,nan,MISS Booker 29' 3PT Jump Shot,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16117,21500128,4,10:42,Dedmon REBOUND (Off:1 Def:2),nan,nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16118,21500128,4,10:39,Payton Bad Pass Turnover (P4.T17),Booker STEAL (3 STL),nan,203901,Elfrid Payton,ORL,202344,Trevor Booker,UTA,0,nan,nan,Turnover ,Bad Pass
+16119,21500128,4,10:31,nan,Booker  Running Dunk (6 PTS) (Burks 1 AST),65 - 82,202344,Trevor Booker,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+16120,21500128,4,10:13,Napier Bad Pass Turnover (P3.T18),Booker STEAL (4 STL),nan,203894,Shabazz Napier,ORL,202344,Trevor Booker,UTA,0,nan,nan,Turnover ,Bad Pass
+16121,21500128,4,10:08,nan,Neto 1' Running Reverse Layup (2 PTS) (Booker 1 AST),67 - 82,203526,Raul Neto,UTA,202344,Trevor Booker,UTA,0,nan,nan,Made Shot ,nan
+16122,21500128,4,9:59,Napier Lost Ball Turnover (P4.T19),Withey STEAL (1 STL),nan,203894,Shabazz Napier,ORL,203481,Jeff Withey,UTA,0,nan,nan,Turnover ,Lost Ball
+16123,21500128,4,9:53,Dedmon BLOCK (2 BLK),MISS Neto 2' Layup,nan,203526,Raul Neto,UTA,0,nan,nan,203473,Dewayne Dedmon,ORL,Missed Shot ,nan
+16124,21500128,4,9:51,nan,Johnson REBOUND (Off:1 Def:1),nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16125,21500128,4,9:51,nan,MISS Johnson 2' Layup,nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16126,21500128,4,9:51,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16127,21500128,4,9:51,Fournier S.FOUL (P3.T1) (J.Capers),nan,nan,203095,Evan Fournier,ORL,202692,Alec Burks,UTA,0,nan,nan,Foul ,Shooting
+16128,21500128,4,9:51,nan,Burks Free Throw 1 of 2 (10 PTS),68 - 82,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16129,21500128,4,9:51,nan,SUB: Millsap FOR Johnson,nan,203187,Chris Johnson,UTA,202407,Elijah Millsap,UTA,0,nan,nan,Substitution ,nan
+16130,21500128,4,9:51,nan,Burks Free Throw 2 of 2 (11 PTS),69 - 82,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16131,21500128,4,9:36,Dedmon  Cutting Dunk Shot (4 PTS) (Payton 4 AST),nan,69 - 84,203473,Dewayne Dedmon,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+16132,21500128,4,9:26,Dedmon BLOCK (3 BLK),MISS Booker 2' Driving Layup,nan,202344,Trevor Booker,UTA,0,nan,nan,203473,Dewayne Dedmon,ORL,Missed Shot ,nan
+16133,21500128,4,9:26,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16134,21500128,4,9:18,nan,MISS Burks 9' Driving Hook Shot,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16135,21500128,4,9:16,Gordon REBOUND (Off:2 Def:1),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16136,21500128,4,9:13,Fournier 1' Running Layup (18 PTS) (Gordon 2 AST),nan,69 - 86,203095,Evan Fournier,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+16137,21500128,4,9:13,nan,Millsap Shooting Block Foul (P2.T1) (S.Anderson),nan,202407,Elijah Millsap,UTA,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Shooting Block
+16138,21500128,4,9:13,SUB: Harris FOR Napier,nan,nan,203894,Shabazz Napier,ORL,202699,Tobias Harris,ORL,0,nan,nan,Substitution ,nan
+16139,21500128,4,9:13,Fournier Free Throw 1 of 1 (19 PTS),nan,69 - 87,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+16140,21500128,4,8:59,Gordon S.FOUL (P4.T2) (G.Zielinski),nan,nan,203932,Aaron Gordon,ORL,202407,Elijah Millsap,UTA,0,nan,nan,Foul ,Shooting
+16141,21500128,4,8:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+16142,21500128,4,8:59,nan,SUB: Favors FOR Burks,nan,202692,Alec Burks,UTA,202324,Derrick Favors,UTA,0,nan,nan,Substitution ,nan
+16143,21500128,4,8:59,nan,SUB: Hayward FOR Withey,nan,203481,Jeff Withey,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+16144,21500128,4,8:59,nan,Millsap Free Throw 1 of 2 (1 PTS),70 - 87,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16145,21500128,4,8:59,nan,Millsap Free Throw 2 of 2 (2 PTS),71 - 87,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16146,21500128,4,8:41,Payton 12' Pullup Jump Shot (12 PTS) (Harris 3 AST),nan,71 - 89,203901,Elfrid Payton,ORL,202699,Tobias Harris,ORL,0,nan,nan,Made Shot ,nan
+16147,21500128,4,8:18,Gordon STEAL (1 STL),Neto Bad Pass Turnover (P2.T15),nan,203526,Raul Neto,UTA,203932,Aaron Gordon,ORL,0,nan,nan,Turnover ,Bad Pass
+16148,21500128,4,8:13,Fournier 2' Running Layup (21 PTS) (Gordon 3 AST),nan,71 - 91,203095,Evan Fournier,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+16149,21500128,4,7:47,nan,MISS Neto 24' 3PT Jump Shot,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16150,21500128,4,7:46,Fournier REBOUND (Off:0 Def:4),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16151,21500128,4,7:25,Harris 24' 3PT Jump Shot (19 PTS) (Payton 5 AST),nan,71 - 94,202699,Tobias Harris,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+16152,21500128,4,7:20,nan,Jazz Timeout: Regular (Reg.4 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16153,21500128,4,7:20,nan,SUB: Lyles FOR Hayward,nan,202330,Gordon Hayward,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+16154,21500128,4,7:20,nan,SUB: Johnson FOR Favors,nan,202324,Derrick Favors,UTA,203187,Chris Johnson,UTA,0,nan,nan,Substitution ,nan
+16155,21500128,4,7:20,nan,SUB: Withey FOR Booker,nan,202344,Trevor Booker,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+16156,21500128,4,7:10,nan,MISS Johnson 27' 3PT Jump Shot,nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16157,21500128,4,7:09,Harris REBOUND (Off:2 Def:10),nan,nan,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16158,21500128,4,6:57,MISS Gordon  3PT Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16159,21500128,4,6:55,nan,Millsap REBOUND (Off:0 Def:1),nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16160,21500128,4,6:43,nan,MISS Lyles 26' 3PT Jump Shot,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16161,21500128,4,6:41,Dedmon REBOUND (Off:1 Def:3),nan,nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16162,21500128,4,6:24,MISS Fournier 25' 3PT Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16163,21500128,4,6:22,nan,Withey REBOUND (Off:3 Def:2),nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16164,21500128,4,6:12,nan,Lyles  Cutting Dunk Shot (2 PTS) (Neto 4 AST),73 - 94,1626168,Trey Lyles,UTA,203526,Raul Neto,UTA,0,nan,nan,Made Shot ,nan
+16165,21500128,4,5:53,MISS Payton 18' Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16166,21500128,4,5:51,nan,Withey REBOUND (Off:3 Def:3),nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16167,21500128,4,5:51,Dedmon L.B.FOUL (P2.T3) (G.Zielinski),nan,nan,203473,Dewayne Dedmon,ORL,203481,Jeff Withey,UTA,0,nan,nan,Foul ,Loose Ball
+16168,21500128,4,5:51,SUB: Nicholson FOR Dedmon,nan,nan,203473,Dewayne Dedmon,ORL,203094,Andrew Nicholson,ORL,0,nan,nan,Substitution ,nan
+16169,21500128,4,5:32,nan,MISS Millsap 26' 3PT Jump Shot,nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16170,21500128,4,5:30,Fournier REBOUND (Off:0 Def:5),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16171,21500128,4,5:15,MISS Fournier 17' Turnaround Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16172,21500128,4,5:13,nan,Johnson REBOUND (Off:1 Def:2),nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16173,21500128,4,5:08,Nicholson BLOCK (1 BLK),MISS Millsap 3' Layup,nan,202407,Elijah Millsap,UTA,0,nan,nan,203094,Andrew Nicholson,ORL,Missed Shot ,nan
+16174,21500128,4,5:06,nan,Withey REBOUND (Off:4 Def:3),nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16175,21500128,4,5:06,nan,MISS Withey 1' Layup,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16176,21500128,4,5:03,nan,Millsap REBOUND (Off:1 Def:1),nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16177,21500128,4,5:00,nan,Neto 25' 3PT Jump Shot (5 PTS) (Millsap 3 AST),76 - 94,203526,Raul Neto,UTA,202407,Elijah Millsap,UTA,0,nan,nan,Made Shot ,nan
+16178,21500128,4,4:34,Gordon 15' Pullup Jump Shot (10 PTS),nan,76 - 96,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+16179,21500128,4,4:15,nan,Lyles  Cutting Dunk Shot (4 PTS) (Neto 5 AST),78 - 96,1626168,Trey Lyles,UTA,203526,Raul Neto,UTA,0,nan,nan,Made Shot ,nan
+16180,21500128,4,4:00,MISS Nicholson 25' 3PT Jump Shot,nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16181,21500128,4,3:59,nan,Johnson REBOUND (Off:1 Def:3),nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16182,21500128,4,3:54,Harris S.FOUL (P2.T4) (S.Anderson),nan,nan,202699,Tobias Harris,ORL,202407,Elijah Millsap,UTA,0,nan,nan,Foul ,Shooting
+16183,21500128,4,3:54,nan,Millsap Free Throw 1 of 2 (3 PTS),79 - 96,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16184,21500128,4,3:54,nan,SUB: Pleiss FOR Withey,nan,203481,Jeff Withey,UTA,202353,Tibor Pleiss,UTA,0,nan,nan,Substitution ,nan
+16185,21500128,4,3:54,SUB: Hezonja FOR Harris,nan,nan,202699,Tobias Harris,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+16186,21500128,4,3:54,SUB: Napier FOR Fournier,nan,nan,203095,Evan Fournier,ORL,203894,Shabazz Napier,ORL,0,nan,nan,Substitution ,nan
+16187,21500128,4,3:54,SUB: Marble FOR Payton,nan,nan,203901,Elfrid Payton,ORL,203906,Devyn Marble,ORL,0,nan,nan,Substitution ,nan
+16188,21500128,4,3:54,nan,MISS Millsap Free Throw 2 of 2,nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16189,21500128,4,3:53,Gordon REBOUND (Off:2 Def:2),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16190,21500128,4,3:40,MISS Hezonja 26' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16191,21500128,4,3:38,nan,Johnson REBOUND (Off:1 Def:4),nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16192,21500128,4,3:34,nan,Lyles 1' Running Layup (6 PTS) (Johnson 1 AST),81 - 96,1626168,Trey Lyles,UTA,203187,Chris Johnson,UTA,0,nan,nan,Made Shot ,nan
+16193,21500128,4,3:30,MAGIC Timeout: Regular (Full 4 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16194,21500128,4,3:22,MISS Napier 22' Pullup Jump Shot,nan,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16195,21500128,4,3:21,nan,Millsap REBOUND (Off:1 Def:2),nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16196,21500128,4,3:15,Nicholson S.FOUL (P1.PN) (J.Capers),nan,nan,203094,Andrew Nicholson,ORL,203187,Chris Johnson,UTA,0,nan,nan,Foul ,Shooting
+16197,21500128,4,3:15,nan,MISS Johnson Free Throw 1 of 2,nan,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16198,21500128,4,3:15,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16199,21500128,4,3:15,nan,Johnson Free Throw 2 of 2 (4 PTS),82 - 96,203187,Chris Johnson,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16200,21500128,4,3:00,MISS Gordon 9' Turnaround Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16201,21500128,4,2:58,nan,Lyles REBOUND (Off:0 Def:3),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16202,21500128,4,2:52,Marble S.FOUL (P1.PN) (G.Zielinski),nan,nan,203906,Devyn Marble,ORL,202407,Elijah Millsap,UTA,0,nan,nan,Foul ,Shooting
+16203,21500128,4,2:52,nan,Millsap Free Throw 1 of 2 (4 PTS),83 - 96,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16204,21500128,4,2:52,SUB: Payton FOR Napier,nan,nan,203894,Shabazz Napier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+16205,21500128,4,2:52,SUB: Harris FOR Nicholson,nan,nan,203094,Andrew Nicholson,ORL,202699,Tobias Harris,ORL,0,nan,nan,Substitution ,nan
+16206,21500128,4,2:52,SUB: Vucevic FOR Marble,nan,nan,203906,Devyn Marble,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+16207,21500128,4,2:52,SUB: Fournier FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+16208,21500128,4,2:52,nan,SUB: Ingles FOR Johnson,nan,203187,Chris Johnson,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+16209,21500128,4,2:52,nan,Millsap Free Throw 2 of 2 (5 PTS),84 - 96,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16210,21500128,4,2:39,Harris Bad Pass Turnover (P2.T20),Neto STEAL (2 STL),nan,202699,Tobias Harris,ORL,203526,Raul Neto,UTA,0,nan,nan,Turnover ,Bad Pass
+16211,21500128,4,2:28,nan,Millsap 24' 3PT Jump Shot (8 PTS) (Lyles 1 AST),87 - 96,202407,Elijah Millsap,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Made Shot ,nan
+16212,21500128,4,2:14,nan,Millsap P.FOUL (P3.T2) (J.Capers),nan,202407,Elijah Millsap,UTA,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal
+16213,21500128,4,2:02,MISS Fournier 25' 3PT Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16214,21500128,4,2:01,Gordon REBOUND (Off:3 Def:2),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16215,21500128,4,2:00,MISS Gordon 1' Layup,Lyles BLOCK (1 BLK),nan,203932,Aaron Gordon,ORL,0,nan,nan,1626168,Trey Lyles,UTA,Missed Shot ,nan
+16216,21500128,4,1:57,nan,Millsap REBOUND (Off:1 Def:3),nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16217,21500128,4,1:52,Harris STEAL (3 STL),Millsap Bad Pass Turnover (P1.T16),nan,202407,Elijah Millsap,UTA,202699,Tobias Harris,ORL,0,nan,nan,Turnover ,Bad Pass
+16218,21500128,4,1:50,nan,Ingles P.FOUL (P1.T3) (S.Anderson),nan,204060,Joe Ingles,UTA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal
+16219,21500128,4,1:39,Payton Bad Pass Turnover (P5.T21),Ingles STEAL (2 STL),nan,203901,Elfrid Payton,ORL,204060,Joe Ingles,UTA,0,nan,nan,Turnover ,Bad Pass
+16220,21500128,4,1:27,Gordon BLOCK (4 BLK),MISS Pleiss 2' Layup,nan,202353,Tibor Pleiss,UTA,0,nan,nan,203932,Aaron Gordon,ORL,Missed Shot ,nan
+16221,21500128,4,1:25,Payton REBOUND (Off:0 Def:3),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16222,21500128,4,1:23,nan,Ingles S.FOUL (P2.PN) (J.Capers),nan,204060,Joe Ingles,UTA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Shooting
+16223,21500128,4,1:23,MISS Payton Free Throw 1 of 2,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16224,21500128,4,1:23,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16225,21500128,4,1:23,Payton Free Throw 2 of 2 (13 PTS),nan,87 - 97,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16226,21500128,4,1:10,nan,Ingles 24' 3PT Jump Shot (3 PTS) (Neto 6 AST),90 - 97,204060,Joe Ingles,UTA,203526,Raul Neto,UTA,0,nan,nan,Made Shot ,nan
+16227,21500128,4,1:09,nan,Neto Personal Take Foul (P1.PN) (J.Capers),nan,203526,Raul Neto,UTA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal Take
+16228,21500128,4,1:09,MISS Payton Free Throw 1 of 2,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16229,21500128,4,1:09,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16230,21500128,4,1:09,Payton Free Throw 2 of 2 (14 PTS),nan,90 - 98,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16231,21500128,4,1:08,Payton STEAL (2 STL),Lyles Bad Pass Turnover (P1.T17),nan,1626168,Trey Lyles,UTA,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Bad Pass
+16232,21500128,4,1:06,nan,Lyles Personal Take Foul (P2.PN) (S.Anderson),nan,1626168,Trey Lyles,UTA,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal Take
+16233,21500128,4,1:06,Payton Free Throw 1 of 2 (15 PTS),nan,90 - 99,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16234,21500128,4,1:06,Payton Free Throw 2 of 2 (16 PTS),nan,90 - 100,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16235,21500128,4,0:54,nan,MISS Pleiss 2' Driving Layup,nan,202353,Tibor Pleiss,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16236,21500128,4,0:52,Harris REBOUND (Off:2 Def:11),nan,nan,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16237,21500128,4,0:37,Vucevic 18' Jump Shot (16 PTS) (Payton 6 AST),nan,90 - 102,202696,Nikola Vucevic,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+16238,21500128,4,0:29,nan,Ingles  3PT Jump Shot (6 PTS) (Neto 7 AST),93 - 102,204060,Joe Ingles,UTA,203526,Raul Neto,UTA,0,nan,nan,Made Shot ,nan
+16239,21500128,4,0:05,MAGIC Turnover: Shot Clock (T#22),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+16240,21500128,4,0:00,nan,nan,93 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

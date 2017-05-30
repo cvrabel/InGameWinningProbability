@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+277355,21601008,4,12:00,nan,nan,77 - 62,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+277356,21601008,4,11:38,nan,Withey S.FOUL (P2.T1) (B.Adams),nan,203481,Jeff Withey,UTA,202699,Tobias Harris,DET,0,nan,nan,Foul ,Shooting
+277357,21601008,4,11:38,Harris Free Throw 1 of 2 (11 PTS),nan,77 - 63,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277358,21601008,4,11:38,Harris Free Throw 2 of 2 (12 PTS),nan,77 - 64,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277359,21601008,4,11:28,Harris P.FOUL (P3.T1) (D.Taylor),nan,nan,202699,Tobias Harris,DET,203481,Jeff Withey,UTA,0,nan,nan,Foul ,Personal
+277360,21601008,4,11:14,nan,MISS Johnson 24' 3PT Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277361,21601008,4,11:14,Smith REBOUND (Off:0 Def:3),nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277362,21601008,4,11:04,MISS Baynes 17' Jump Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277363,21601008,4,11:04,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277364,21601008,4,10:48,nan,Ingles  3PT Jump Shot (9 PTS),80 - 64,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+277365,21601008,4,10:30,MISS Bullock 16' Jump Shot,nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277366,21601008,4,10:30,Baynes REBOUND (Off:6 Def:5),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277367,21601008,4,10:25,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277368,21601008,4,10:23,nan,Ingles REBOUND (Off:0 Def:2),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277369,21601008,4,10:19,nan,Johnson Offensive Charge Foul (P1.T2) (Z.Zarba),nan,2207,Joe Johnson,UTA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Offensive Charge
+277370,21601008,4,10:19,nan,Johnson Foul Turnover (P2.T13),nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+277371,21601008,4,9:58,Baynes Lost Ball Turnover (P1.T8),Johnson STEAL (2 STL),nan,203382,Aron Baynes,DET,2207,Joe Johnson,UTA,0,nan,nan,Turnover ,Lost Ball
+277372,21601008,4,9:55,Leuer BLOCK (1 BLK),MISS Neto 4' Jump Shot,nan,203526,Raul Neto,UTA,0,nan,nan,202720,Jon Leuer,DET,Missed Shot ,nan
+277373,21601008,4,9:55,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277374,21601008,4,9:44,nan,MISS Withey 7' Floating Jump Shot,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277375,21601008,4,9:41,Bullock REBOUND (Off:0 Def:1),nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277376,21601008,4,9:33,Smith 14' Jump Shot (9 PTS),nan,80 - 66,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+277377,21601008,4,9:18,nan,MISS Neto 14' Pullup Jump Shot,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277378,21601008,4,9:17,Leuer REBOUND (Off:1 Def:4),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277379,21601008,4,9:08,Smith 19' Pullup Jump Shot (11 PTS),nan,80 - 68,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+277380,21601008,4,9:08,nan,Jazz Timeout: Regular (Reg.4 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277381,21601008,4,9:08,SUB: Marjanovic FOR Baynes,nan,nan,203382,Aron Baynes,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+277382,21601008,4,9:08,nan,SUB: G. Hill FOR Ingles,nan,204060,Joe Ingles,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+277383,21601008,4,9:08,nan,SUB: Gobert FOR Exum,nan,203957,Dante Exum,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+277384,21601008,4,9:08,nan,SUB: Hayward FOR Withey,nan,203481,Jeff Withey,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+277385,21601008,4,8:53,nan,Johnson 14' Jump Shot (12 PTS) (Hayward 5 AST),82 - 68,2207,Joe Johnson,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+277386,21601008,4,8:34,MISS Harris 7' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277387,21601008,4,8:34,Marjanovic REBOUND (Off:1 Def:0),nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277388,21601008,4,8:30,MISS Marjanovic 3' Layup,nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277389,21601008,4,8:30,nan,Hayward REBOUND (Off:2 Def:5),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277390,21601008,4,8:10,nan,MISS Johnson 1' Layup,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277391,21601008,4,8:10,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277392,21601008,4,8:10,nan,Gobert L.B.FOUL (P1.T3) (Z.Zarba),nan,203497,Rudy Gobert,UTA,1626246,Boban Marjanovic,DET,0,nan,nan,Foul ,Loose Ball
+277393,21601008,4,7:57,Smith Bad Pass Turnover (P2.T9),Johnson STEAL (3 STL),nan,202397,Ish Smith,DET,2207,Joe Johnson,UTA,0,nan,nan,Turnover ,Bad Pass
+277394,21601008,4,7:43,nan,MISS G. Hill 26' 3PT Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277395,21601008,4,7:43,Marjanovic REBOUND (Off:1 Def:1),nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277396,21601008,4,7:25,Smith 18' Jump Shot (13 PTS),nan,82 - 70,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+277397,21601008,4,7:10,nan,SUB: Exum FOR Neto,nan,203526,Raul Neto,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+277398,21601008,4,7:10,nan,SUB: Diaw FOR Johnson,nan,2207,Joe Johnson,UTA,2564,Boris Diaw,UTA,0,nan,nan,Substitution ,nan
+277399,21601008,4,6:59,Marjanovic BLOCK (1 BLK),MISS G. Hill  Layup,nan,201588,George Hill,UTA,0,nan,nan,1626246,Boban Marjanovic,DET,Missed Shot ,nan
+277400,21601008,4,6:59,Bullock REBOUND (Off:0 Def:2),nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277401,21601008,4,6:58,nan,Exum S.FOUL (P4.T4) (D.Taylor),nan,203957,Dante Exum,UTA,202397,Ish Smith,DET,0,nan,nan,Foul ,Shooting
+277402,21601008,4,6:58,MISS Smith Free Throw 1 of 2,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277403,21601008,4,6:58,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+277404,21601008,4,6:58,Smith Free Throw 2 of 2 (14 PTS),nan,82 - 71,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277405,21601008,4,6:43,nan,MISS Hayward 9' Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277406,21601008,4,6:43,Bullock REBOUND (Off:0 Def:3),nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277407,21601008,4,6:32,Marjanovic 5' Hook Shot (2 PTS) (Bullock 1 AST),nan,82 - 73,1626246,Boban Marjanovic,DET,203493,Reggie Bullock,DET,0,nan,nan,Made Shot ,nan
+277408,21601008,4,6:12,nan,G. Hill 14' Jump Shot (17 PTS) (Hayward 6 AST),84 - 73,201588,George Hill,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+277409,21601008,4,5:49,MISS Leuer 4' Jump Shot,Gobert BLOCK (3 BLK),nan,202720,Jon Leuer,DET,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+277410,21601008,4,5:48,nan,Gobert REBOUND (Off:1 Def:6),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277411,21601008,4,5:43,nan,Hayward 25' 3PT Jump Shot (20 PTS) (Exum 3 AST),87 - 73,202330,Gordon Hayward,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+277412,21601008,4,5:33,PISTONS Timeout: Regular (Full 4 Short 2),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277413,21601008,4,5:33,nan,SUB: Ingles FOR G. Hill,nan,201588,George Hill,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+277414,21601008,4,5:33,SUB: Marc Morris FOR Leuer,nan,nan,202720,Jon Leuer,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+277415,21601008,4,5:33,SUB: Caldwell-Pope FOR Bullock,nan,nan,203493,Reggie Bullock,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+277416,21601008,4,5:16,Caldwell-Pope 7' Driving Bank Shot (4 PTS) (Harris 2 AST),nan,87 - 75,203484,Kentavious Caldwell-Pope,DET,202699,Tobias Harris,DET,0,nan,nan,Made Shot ,nan
+277417,21601008,4,4:57,nan,Gobert 1' Alley Oop Layup (12 PTS) (Ingles 4 AST),89 - 75,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+277418,21601008,4,4:43,MISS Marc Morris 28' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277419,21601008,4,4:43,nan,Hayward REBOUND (Off:2 Def:6),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277420,21601008,4,4:28,Marjanovic STEAL (1 STL),Hayward Bad Pass Turnover (P3.T14),nan,202330,Gordon Hayward,UTA,1626246,Boban Marjanovic,DET,0,nan,nan,Turnover ,Bad Pass
+277421,21601008,4,4:22,Caldwell-Pope 25' 3PT Jump Shot (7 PTS),nan,89 - 78,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+277422,21601008,4,4:22,nan,Hayward S.FOUL (P2.PN) (Z.Zarba),nan,202330,Gordon Hayward,UTA,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+277423,21601008,4,4:22,SUB: Baynes FOR Marjanovic,nan,nan,1626246,Boban Marjanovic,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+277424,21601008,4,4:22,nan,SUB: G. Hill FOR Exum,nan,203957,Dante Exum,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+277425,21601008,4,4:22,MISS Caldwell-Pope Free Throw 1 of 1,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+277426,21601008,4,4:21,nan,Diaw REBOUND (Off:1 Def:1),nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277427,21601008,4,4:13,Harris P.FOUL (P4.T2) (Z.Zarba),nan,nan,202699,Tobias Harris,DET,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+277428,21601008,4,3:55,nan,MISS Diaw 15' Jump Shot,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277429,21601008,4,3:54,nan,Gobert REBOUND (Off:2 Def:6),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277430,21601008,4,3:40,nan,Gobert Offensive Charge Foul (P2.PN) (B.Adams),nan,203497,Rudy Gobert,UTA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Offensive Charge
+277431,21601008,4,3:40,nan,Gobert Foul Turnover (P4.T15),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+277432,21601008,4,3:40,nan,SUB: Johnson FOR Diaw,nan,2564,Boris Diaw,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+277433,21601008,4,3:26,MISS Caldwell-Pope 9' Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277434,21601008,4,3:25,nan,G. Hill REBOUND (Off:0 Def:3),nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277435,21601008,4,3:13,nan,MISS Hayward 25' 3PT Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277436,21601008,4,3:13,Baynes REBOUND (Off:6 Def:6),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277437,21601008,4,3:06,MISS Smith 1' Layup,Gobert BLOCK (4 BLK),nan,202397,Ish Smith,DET,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+277438,21601008,4,3:05,nan,G. Hill REBOUND (Off:0 Def:4),nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277439,21601008,4,2:56,nan,Ingles 24' 3PT Jump Shot (12 PTS) (G. Hill 3 AST),92 - 78,204060,Joe Ingles,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+277440,21601008,4,2:38,Caldwell-Pope 27' 3PT Jump Shot (10 PTS) (Baynes 2 AST),nan,92 - 81,203484,Kentavious Caldwell-Pope,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+277441,21601008,4,2:21,Baynes P.FOUL (P3.T3) (Z.Zarba),nan,nan,203382,Aron Baynes,DET,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+277442,21601008,4,2:21,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+277443,21601008,4,2:14,nan,Hayward Out of Bounds Lost Ball Turnover (P4.T16),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+277444,21601008,4,2:06,MISS Caldwell-Pope 27' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277445,21601008,4,2:05,nan,Ingles REBOUND (Off:0 Def:3),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277446,21601008,4,1:42,nan,MISS Ingles 10' Jump Shot,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277447,21601008,4,1:42,nan,Gobert REBOUND (Off:3 Def:6),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277448,21601008,4,1:22,nan,Hayward 27' 3PT Jump Shot (23 PTS) (Gobert 5 AST),95 - 81,202330,Gordon Hayward,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Made Shot ,nan
+277449,21601008,4,1:09,MISS Marc Morris 27' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277450,21601008,4,1:09,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277451,21601008,4,0:48,Marc Morris S.FOUL (P2.T4) (Z.Zarba),nan,nan,202694,Marcus Morris,DET,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+277452,21601008,4,0:48,nan,Hayward Free Throw 1 of 2 (24 PTS),96 - 81,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277453,21601008,4,0:48,nan,SUB: Neto FOR G. Hill,nan,201588,George Hill,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+277454,21601008,4,0:48,nan,SUB: Withey FOR Gobert,nan,203497,Rudy Gobert,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+277455,21601008,4,0:48,nan,Hayward Free Throw 2 of 2 (25 PTS),97 - 81,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277456,21601008,4,0:29,MISS Caldwell-Pope  Driving Layup,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277457,21601008,4,0:28,nan,Hayward REBOUND (Off:2 Def:7),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277458,21601008,4,0:07,nan,Jazz Turnover: Shot Clock (T#17),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+277459,21601008,4,0:07,nan,SUB: Exum FOR Hayward,nan,202330,Gordon Hayward,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+277460,21601008,4,0:00,Smith 16' Jump Shot (16 PTS),nan,97 - 83,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+277461,21601008,4,0:00,nan,nan,97 - 83,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

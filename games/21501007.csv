@@ -1,0 +1,174 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+125884,21501007,4,12:00,nan,nan,87 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+125885,21501007,4,11:40,nan,Schroder 14' Jump Shot (15 PTS),89 - 88,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+125886,21501007,4,11:22,MISS Marc Morris 18' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125887,21501007,4,11:22,nan,Schroder REBOUND (Off:0 Def:1),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125888,21501007,4,11:15,nan,MISS Korver 26' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125889,21501007,4,11:14,Drummond REBOUND (Off:4 Def:10),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125890,21501007,4,11:04,nan,Korver P.FOUL (P4.T1) (L.Holtkamp),nan,2594,Kyle Korver,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal
+125891,21501007,4,11:04,nan,Horford Personal Take Foul (P2.T2) (L.Holtkamp),nan,201143,Al Horford,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125892,21501007,4,11:04,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125893,21501007,4,11:04,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125894,21501007,4,11:04,Drummond Free Throw 2 of 2 (11 PTS),nan,89 - 89,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125895,21501007,4,10:52,nan,MISS Scott 17' Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125896,21501007,4,10:52,nan,Horford REBOUND (Off:2 Def:5),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125897,21501007,4,10:44,Drummond BLOCK (1 BLK),MISS Schroder 5' Jump Shot,nan,203471,Dennis Schroder,ATL,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+125898,21501007,4,10:42,Johnson REBOUND (Off:0 Def:4),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125899,21501007,4,10:30,Blake 18' Jump Shot (6 PTS),nan,89 - 91,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+125900,21501007,4,10:05,nan,Sefolosha  3PT Jump Shot (6 PTS) (Scott 3 AST),92 - 91,200757,Thabo Sefolosha,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+125901,21501007,4,9:52,Johnson Bad Pass Turnover (P3.T11),Korver STEAL (1 STL),nan,1626169,Stanley Johnson,DET,2594,Kyle Korver,ATL,0,nan,nan,Turnover ,Bad Pass
+125902,21501007,4,9:45,SUB: Caldwell-Pope FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+125903,21501007,4,9:36,nan,Korver  3PT Jump Shot (4 PTS) (Schroder 7 AST),95 - 91,2594,Kyle Korver,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+125904,21501007,4,9:28,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+125905,21501007,4,9:28,SUB: Jackson FOR Blake,nan,nan,2581,Steve Blake,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+125906,21501007,4,9:28,nan,Scott Personal Take Foul (P1.T3) (J.Tiven),nan,203118,Mike Scott,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125907,21501007,4,9:28,Drummond Free Throw 1 of 2 (12 PTS),nan,95 - 92,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125908,21501007,4,9:28,MISS Drummond Free Throw 2 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125909,21501007,4,9:27,nan,Horford REBOUND (Off:2 Def:6),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125910,21501007,4,9:10,nan,MISS Sefolosha 27' 3PT Jump Shot,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125911,21501007,4,9:10,Drummond REBOUND (Off:4 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125912,21501007,4,8:54,MISS Jackson  3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125913,21501007,4,8:54,nan,Sefolosha REBOUND (Off:1 Def:2),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125914,21501007,4,8:43,nan,Schroder Out of Bounds Lost Ball Turnover (P3.T10),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+125915,21501007,4,8:25,MISS Drummond 5' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125916,21501007,4,8:24,nan,Horford REBOUND (Off:2 Def:7),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125917,21501007,4,8:07,nan,Schroder 26' 3PT Jump Shot (18 PTS) (Horford 2 AST),98 - 92,203471,Dennis Schroder,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+125918,21501007,4,7:53,MISS Jackson 9' Floating Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125919,21501007,4,7:52,nan,Horford REBOUND (Off:2 Def:8),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125920,21501007,4,7:51,Marc Morris P.FOUL (P1.T1) (R.Garretson),nan,nan,202694,Marcus Morris,DET,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Personal
+125921,21501007,4,7:51,nan,SUB: Bazemore FOR Horford,nan,201143,Al Horford,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+125922,21501007,4,7:51,nan,SUB: Millsap FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+125923,21501007,4,7:43,Caldwell-Pope STEAL (1 STL),Schroder Bad Pass Turnover (P4.T11),nan,203471,Dennis Schroder,ATL,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Bad Pass
+125924,21501007,4,7:40,nan,Korver S.FOUL (P5.T4) (J.Tiven),nan,2594,Kyle Korver,ATL,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+125925,21501007,4,7:40,MISS Caldwell-Pope Free Throw 1 of 2,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125926,21501007,4,7:40,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125927,21501007,4,7:40,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+125928,21501007,4,7:40,SUB: Harris FOR Tolliver,nan,nan,201229,Anthony Tolliver,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+125929,21501007,4,7:40,Caldwell-Pope Free Throw 2 of 2 (21 PTS),nan,98 - 93,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125930,21501007,4,7:28,nan,MISS Schroder 22' Jump Shot,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125931,21501007,4,7:26,Marc Morris REBOUND (Off:0 Def:3),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125932,21501007,4,7:12,Caldwell-Pope Lost Ball Turnover (P2.T12),Millsap STEAL (3 STL),nan,203484,Kentavious Caldwell-Pope,DET,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Lost Ball
+125933,21501007,4,7:04,nan,MISS Scott 1' Layup,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125934,21501007,4,7:04,Harris REBOUND (Off:0 Def:8),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125935,21501007,4,6:52,Marc Morris 26' 3PT Jump Shot (11 PTS) (Jackson 8 AST),nan,98 - 96,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+125936,21501007,4,6:37,nan,MISS Millsap 13' Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125937,21501007,4,6:36,Caldwell-Pope REBOUND (Off:0 Def:3),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125938,21501007,4,6:30,MISS Caldwell-Pope 27' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125939,21501007,4,6:30,Marc Morris REBOUND (Off:1 Def:3),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125940,21501007,4,6:26,nan,Scott Personal Take Foul (P2.PN) (L.Holtkamp),nan,203118,Mike Scott,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125941,21501007,4,6:26,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125942,21501007,4,6:26,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125943,21501007,4,6:26,nan,SUB: Teague FOR Schroder,nan,203471,Dennis Schroder,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+125944,21501007,4,6:26,nan,SUB: Horford FOR Scott,nan,203118,Mike Scott,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+125945,21501007,4,6:26,Drummond Free Throw 2 of 2 (13 PTS),nan,98 - 97,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125946,21501007,4,6:08,nan,MISS Teague 9' Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125947,21501007,4,6:08,Drummond REBOUND (Off:4 Def:12),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125948,21501007,4,5:59,Jackson 5' Floating Jump Shot (15 PTS),nan,98 - 99,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+125949,21501007,4,5:39,nan,Bazemore 27' 3PT Jump Shot (14 PTS) (Horford 3 AST),101 - 99,203145,Kent Bazemore,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+125950,21501007,4,5:27,nan,Sefolosha Personal Take Foul (P2.PN) (R.Garretson),nan,200757,Thabo Sefolosha,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125951,21501007,4,5:27,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+125952,21501007,4,5:27,Drummond Free Throw 1 of 2 (14 PTS),nan,101 - 100,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125953,21501007,4,5:27,MISS Drummond Free Throw 2 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125954,21501007,4,5:26,nan,Sefolosha REBOUND (Off:1 Def:3),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125955,21501007,4,5:14,Drummond Violation:Defensive Goaltending (J.Tiven),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+125956,21501007,4,5:14,nan,Horford 1' Layup (21 PTS) (Teague 9 AST),103 - 100,201143,Al Horford,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+125957,21501007,4,5:11,nan,Sefolosha Personal Take Foul (P3.PN) (L.Holtkamp),nan,200757,Thabo Sefolosha,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125958,21501007,4,5:11,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125959,21501007,4,5:11,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125960,21501007,4,5:11,Drummond Free Throw 2 of 2 (15 PTS),nan,103 - 101,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125961,21501007,4,4:49,nan,MISS Teague 1' Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125962,21501007,4,4:48,Drummond REBOUND (Off:4 Def:13),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125963,21501007,4,4:37,MISS Jackson 7' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125964,21501007,4,4:37,Drummond REBOUND (Off:5 Def:13),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125965,21501007,4,4:34,Drummond  Tip Layup Shot (17 PTS),nan,103 - 103,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+125966,21501007,4,4:24,nan,MISS Millsap 1' Layup,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125967,21501007,4,4:23,nan,Millsap REBOUND (Off:1 Def:7),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125968,21501007,4,4:12,nan,MISS Bazemore 26' 3PT Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125969,21501007,4,4:11,Caldwell-Pope REBOUND (Off:0 Def:4),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125970,21501007,4,4:08,nan,Bazemore Personal Take Foul (P3.PN) (J.Tiven),nan,203145,Kent Bazemore,ATL,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+125971,21501007,4,4:08,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125972,21501007,4,4:08,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125973,21501007,4,4:08,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+125974,21501007,4,4:08,Drummond Free Throw 2 of 2 (18 PTS),nan,103 - 104,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125975,21501007,4,3:51,nan,Millsap 1' Layup (12 PTS) (Horford 4 AST),105 - 104,200794,Paul Millsap,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+125976,21501007,4,3:51,Drummond S.FOUL (P3.T2) (J.Tiven),nan,nan,203083,Andre Drummond,DET,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+125977,21501007,4,3:51,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+125978,21501007,4,3:51,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+125979,21501007,4,3:51,nan,Millsap Free Throw 1 of 1 (13 PTS),106 - 104,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+125980,21501007,4,3:37,Jackson Bad Pass Turnover (P3.T13),Millsap STEAL (4 STL),nan,202704,Reggie Jackson,DET,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Bad Pass
+125981,21501007,4,3:14,nan,MISS Bazemore 19' Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125982,21501007,4,3:14,nan,Millsap REBOUND (Off:2 Def:7),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125983,21501007,4,3:06,nan,Hawks Timeout: Regular (Reg.4 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+125984,21501007,4,3:06,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+125985,21501007,4,2:50,nan,MISS Bazemore  Layup,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125986,21501007,4,2:49,nan,Millsap REBOUND (Off:3 Def:7),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125987,21501007,4,2:47,nan,MISS Millsap 1' Layup,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125988,21501007,4,2:46,Harris REBOUND (Off:0 Def:9),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125989,21501007,4,2:38,MISS Marc Morris 13' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125990,21501007,4,2:37,nan,Horford REBOUND (Off:2 Def:9),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125991,21501007,4,2:26,nan,MISS Horford 17' Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125992,21501007,4,2:26,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125993,21501007,4,2:26,Marc Morris L.B.FOUL (P2.T3) (R.Garretson),nan,nan,202694,Marcus Morris,DET,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Loose Ball
+125994,21501007,4,2:19,Marc Morris S.FOUL (P3.T4) (L.Holtkamp),nan,nan,202694,Marcus Morris,DET,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Shooting
+125995,21501007,4,2:19,nan,Teague Free Throw 1 of 2 (15 PTS),107 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125996,21501007,4,2:19,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+125997,21501007,4,2:19,nan,Teague Free Throw 2 of 2 (16 PTS),108 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125998,21501007,4,1:57,MISS Harris 27' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125999,21501007,4,1:57,nan,Sefolosha REBOUND (Off:1 Def:4),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126000,21501007,4,1:56,Jackson P.FOUL (P3.PN) (R.Garretson),nan,nan,202704,Reggie Jackson,DET,200757,Thabo Sefolosha,ATL,0,nan,nan,Foul ,Personal
+126001,21501007,4,1:56,nan,MISS Sefolosha Free Throw 1 of 2,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126002,21501007,4,1:56,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+126003,21501007,4,1:56,nan,Sefolosha Free Throw 2 of 2 (7 PTS),109 - 104,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126004,21501007,4,1:40,MISS Jackson 16' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126005,21501007,4,1:39,nan,Bazemore REBOUND (Off:0 Def:9),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126006,21501007,4,1:25,Baynes P.FOUL (P1.PN) (L.Holtkamp),nan,nan,203382,Aron Baynes,DET,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+126007,21501007,4,1:25,nan,Teague Free Throw 1 of 2 (17 PTS),110 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126008,21501007,4,1:25,nan,Teague Free Throw 2 of 2 (18 PTS),111 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126009,21501007,4,1:25,PISTONS Timeout: Short (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+126010,21501007,4,1:23,Marc Morris Bad Pass Turnover (P2.T14),Sefolosha STEAL (1 STL),nan,202694,Marcus Morris,DET,200757,Thabo Sefolosha,ATL,0,nan,nan,Turnover ,Bad Pass
+126011,21501007,4,1:21,Caldwell-Pope S.FOUL (P2.PN) (L.Holtkamp),nan,nan,203484,Kentavious Caldwell-Pope,DET,200757,Thabo Sefolosha,ATL,0,nan,nan,Foul ,Shooting
+126012,21501007,4,1:21,nan,Sefolosha Free Throw 1 of 2 (8 PTS),112 - 104,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126013,21501007,4,1:21,nan,Sefolosha Free Throw 2 of 2 (9 PTS),113 - 104,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126014,21501007,4,1:21,PISTONS Timeout: Short (Full 4 Short 2),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+126015,21501007,4,1:18,Jackson  Driving Layup (17 PTS) (Harris 5 AST),nan,113 - 106,202704,Reggie Jackson,DET,202699,Tobias Harris,DET,0,nan,nan,Made Shot ,nan
+126016,21501007,4,1:13,Marc Morris P.FOUL (P4.PN) (R.Garretson),nan,nan,202694,Marcus Morris,DET,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+126017,21501007,4,1:13,nan,Teague Free Throw 1 of 2 (19 PTS),114 - 106,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126018,21501007,4,1:13,nan,Teague Free Throw 2 of 2 (20 PTS),115 - 106,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126019,21501007,4,1:03,MISS Caldwell-Pope 27' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126020,21501007,4,1:03,Harris REBOUND (Off:1 Def:9),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126021,21501007,4,1:02,nan,Bazemore P.FOUL (P4.PN) (L.Holtkamp),nan,203145,Kent Bazemore,ATL,202699,Tobias Harris,DET,0,nan,nan,Foul ,Personal
+126022,21501007,4,1:02,Harris Free Throw 1 of 2 (18 PTS),nan,115 - 107,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126023,21501007,4,1:02,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+126024,21501007,4,1:02,SUB: Johnson FOR Baynes,nan,nan,203382,Aron Baynes,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+126025,21501007,4,1:02,Harris Free Throw 2 of 2 (19 PTS),nan,115 - 108,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126026,21501007,4,1:01,nan,Teague Out of Bounds Lost Ball Turnover (P4.T12),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+126027,21501007,4,1:01,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+126028,21501007,4,1:01,SUB: Baynes FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+126029,21501007,4,0:53,MISS Jackson 27' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126030,21501007,4,0:53,nan,Sefolosha REBOUND (Off:1 Def:5),nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126031,21501007,4,0:46,Marc Morris P.FOUL (P5.PN) (R.Garretson),nan,nan,202694,Marcus Morris,DET,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal
+126032,21501007,4,0:46,nan,MISS Bazemore Free Throw 1 of 2,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126033,21501007,4,0:46,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+126034,21501007,4,0:46,SUB: Tolliver FOR Harris,nan,nan,202699,Tobias Harris,DET,201229,Anthony Tolliver,DET,0,nan,nan,Substitution ,nan
+126035,21501007,4,0:46,nan,Bazemore Free Throw 2 of 2 (15 PTS),116 - 108,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126036,21501007,4,0:38,Caldwell-Pope 28' 3PT Jump Shot (24 PTS) (Jackson 9 AST),nan,116 - 111,203484,Kentavious Caldwell-Pope,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+126037,21501007,4,0:32,Jackson P.FOUL (P4.PN) (R.Garretson),nan,nan,202704,Reggie Jackson,DET,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+126038,21501007,4,0:32,nan,MISS Millsap Free Throw 1 of 2,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126039,21501007,4,0:32,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+126040,21501007,4,0:32,SUB: Harris FOR Tolliver,nan,nan,201229,Anthony Tolliver,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+126041,21501007,4,0:32,nan,MISS Millsap Free Throw 2 of 2,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126042,21501007,4,0:31,Harris REBOUND (Off:1 Def:10),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126043,21501007,4,0:18,Marc Morris  Reverse Layup (13 PTS) (Jackson 10 AST),nan,116 - 113,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+126044,21501007,4,0:18,nan,Sefolosha S.FOUL (P4.PN) (R.Garretson),nan,200757,Thabo Sefolosha,ATL,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+126045,21501007,4,0:18,SUB: Johnson FOR Baynes,nan,nan,203382,Aron Baynes,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+126046,21501007,4,0:18,Marc Morris Free Throw 1 of 1 (14 PTS),nan,116 - 114,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+126047,21501007,4,0:18,nan,Hawks Timeout: Regular (Reg.5 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+126048,21501007,4,0:18,nan,SUB: Korver FOR Millsap,nan,200794,Paul Millsap,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+126049,21501007,4,0:17,Jackson P.FOUL (P5.PN) (J.Tiven),nan,nan,202704,Reggie Jackson,DET,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+126050,21501007,4,0:17,nan,Teague Free Throw 1 of 2 (21 PTS),117 - 114,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+126051,21501007,4,0:17,nan,SUB: Millsap FOR Korver,nan,2594,Kyle Korver,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+126052,21501007,4,0:17,SUB: Baynes FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+126053,21501007,4,0:17,nan,Teague Free Throw 2 of 2 (22 PTS),118 - 114,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+126054,21501007,4,0:04,MISS Jackson  3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+126055,21501007,4,0:03,nan,Bazemore REBOUND (Off:0 Def:10),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+126056,21501007,4,0:00,nan,nan,118 - 114,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

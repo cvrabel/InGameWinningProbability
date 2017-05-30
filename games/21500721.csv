@@ -1,0 +1,166 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+90058,21500721,4,12:00,nan,nan,75 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+90059,21500721,4,11:45,nan,Mozgov 12' Jump Shot (4 PTS) (Irving 6 AST),77 - 79,202389,Timofey Mozgov,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+90060,21500721,4,11:29,MISS Miles 25' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90061,21500721,4,11:26,Allen REBOUND (Off:3 Def:1),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90062,21500721,4,11:25,Allen  Putback Dunk (8 PTS),nan,77 - 81,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+90063,21500721,4,11:02,nan,Mozgov 10' Turnaround Hook Shot (6 PTS),79 - 81,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90064,21500721,4,10:41,MISS Hill 4' Running Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90065,21500721,4,10:40,nan,Shumpert REBOUND (Off:1 Def:3),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90066,21500721,4,10:23,nan,Smith 20' Step Back Jump Shot (15 PTS),81 - 81,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90067,21500721,4,10:23,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90068,21500721,4,10:23,nan,SUB: Love FOR Shumpert,nan,202697,Iman Shumpert,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+90069,21500721,4,10:12,MISS G. Hill 26' 3PT Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90070,21500721,4,10:10,Allen REBOUND (Off:4 Def:1),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90071,21500721,4,9:59,S. Hill 26' 3PT Jump Shot (8 PTS) (Hill 4 AST),nan,81 - 84,203524,Solomon Hill,IND,201941,Jordan Hill,IND,0,nan,nan,Made Shot ,nan
+90072,21500721,4,9:40,S. Hill S.FOUL (P3.T1) (B.Barnaky),nan,nan,203524,Solomon Hill,IND,2747,JR Smith,CLE,0,nan,nan,Foul ,Shooting
+90073,21500721,4,9:40,nan,MISS Smith Free Throw 1 of 2,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90074,21500721,4,9:40,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+90075,21500721,4,9:40,nan,Smith Free Throw 2 of 2 (16 PTS),82 - 84,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90076,21500721,4,9:23,MISS G. Hill 24' 3PT Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90077,21500721,4,9:22,nan,Mozgov REBOUND (Off:0 Def:2),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90078,21500721,4,9:00,nan,Irving 9' Pullup Jump Shot (12 PTS),84 - 84,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90079,21500721,4,8:44,MISS S. Hill 5' Driving Layup,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90080,21500721,4,8:43,Hill REBOUND (Off:3 Def:2),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90081,21500721,4,8:38,MISS Miles 24' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90082,21500721,4,8:37,nan,Smith REBOUND (Off:0 Def:2),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90083,21500721,4,8:19,nan,MISS Love 8' Hook Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90084,21500721,4,8:18,S. Hill REBOUND (Off:2 Def:1),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90085,21500721,4,8:02,MISS Hill 18' Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90086,21500721,4,8:01,nan,Irving REBOUND (Off:0 Def:2),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90087,21500721,4,7:47,nan,MISS Mozgov 20' Jump Shot,nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90088,21500721,4,7:47,S. Hill REBOUND (Off:2 Def:2),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90089,21500721,4,7:38,nan,Irving P.FOUL (P2.T1) (H.Workman),nan,202681,Kyrie Irving,CLE,101139,CJ Miles,IND,0,nan,nan,Foul ,Personal
+90090,21500721,4,7:38,SUB: George FOR Miles,nan,nan,101139,CJ Miles,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+90091,21500721,4,7:38,nan,SUB: James FOR Jefferson,nan,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+90092,21500721,4,7:28,MISS Hill 19' Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90093,21500721,4,7:28,George REBOUND (Off:1 Def:2),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90094,21500721,4,7:23,George 18' Jump Shot (11 PTS),nan,84 - 86,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+90095,21500721,4,7:03,nan,MISS Irving 24' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90096,21500721,4,7:02,S. Hill REBOUND (Off:2 Def:3),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90097,21500721,4,6:49,Hill 1' Driving Layup (12 PTS) (G. Hill 4 AST),nan,84 - 88,201941,Jordan Hill,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+90098,21500721,4,6:49,nan,Mozgov S.FOUL (P3.T2) (B.Barnaky),nan,202389,Timofey Mozgov,CLE,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+90099,21500721,4,6:49,SUB: Turner FOR Allen,nan,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+90100,21500721,4,6:49,SUB: Ellis FOR G. Hill,nan,nan,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+90101,21500721,4,6:49,nan,SUB: Thompson FOR Mozgov,nan,202389,Timofey Mozgov,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+90102,21500721,4,6:49,Hill Free Throw 1 of 1 (13 PTS),nan,84 - 89,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+90103,21500721,4,6:35,nan,Love 4' Driving Layup (16 PTS) (James 6 AST),86 - 89,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+90104,21500721,4,6:24,MISS Turner 3' Jump Shot,Love BLOCK (1 BLK),nan,1626167,Myles Turner,IND,0,nan,nan,201567,Kevin Love,CLE,Missed Shot ,nan
+90105,21500721,4,6:23,nan,James REBOUND (Off:0 Def:7),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90106,21500721,4,6:12,nan,Irving 25' 3PT Jump Shot (15 PTS) (Love 1 AST),89 - 89,202681,Kyrie Irving,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+90107,21500721,4,5:56,MISS George 13' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90108,21500721,4,5:56,nan,Smith REBOUND (Off:0 Def:3),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90109,21500721,4,5:50,nan,MISS Love 4' Driving Layup,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90110,21500721,4,5:49,George REBOUND (Off:1 Def:3),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90111,21500721,4,5:39,MISS S. Hill 25' 3PT Jump Shot,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90112,21500721,4,5:38,nan,James REBOUND (Off:0 Def:8),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90113,21500721,4,5:16,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+90114,21500721,4,5:16,SUB: Allen FOR Hill,nan,nan,201941,Jordan Hill,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+90115,21500721,4,5:16,Turner STEAL (1 STL),Irving Lost Ball Turnover (P3.T16),nan,202681,Kyrie Irving,CLE,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Lost Ball
+90116,21500721,4,5:16,Jump Ball Turner vs. Irving: Tip to S. Hill,nan,nan,1626167,Myles Turner,IND,202681,Kyrie Irving,CLE,203524,Solomon Hill,IND,Jump Ball ,nan
+90117,21500721,4,5:08,S. Hill 4' Dunk (10 PTS) (Ellis 4 AST),nan,89 - 91,203524,Solomon Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+90118,21500721,4,4:52,nan,MISS Irving 27' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90119,21500721,4,4:51,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90120,21500721,4,4:51,nan,Love L.B.FOUL (P2.T3) (M.McCutchen),nan,201567,Kevin Love,CLE,1626167,Myles Turner,IND,0,nan,nan,Foul ,Loose Ball
+90121,21500721,4,4:39,MISS Ellis 26' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90122,21500721,4,4:38,nan,James REBOUND (Off:0 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90123,21500721,4,4:30,Turner BLOCK (3 BLK),MISS James  Driving Dunk,nan,2544,LeBron James,CLE,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+90124,21500721,4,4:29,George REBOUND (Off:1 Def:4),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90125,21500721,4,4:19,MISS George 21' Pullup Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90126,21500721,4,4:18,nan,Love REBOUND (Off:0 Def:7),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90127,21500721,4,4:10,nan,MISS Smith 26' 3PT Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90128,21500721,4,4:09,S. Hill REBOUND (Off:2 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90129,21500721,4,4:00,Ellis 4' Driving Layup (12 PTS),nan,89 - 93,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+90130,21500721,4,3:55,Ellis Personal Block Foul (P3.T2) (M.McCutchen),nan,nan,101145,Monta Ellis,IND,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Block
+90131,21500721,4,3:39,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90132,21500721,4,3:38,Turner REBOUND (Off:6 Def:4),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90133,21500721,4,3:22,George Out of Bounds - Bad Pass Turnover Turnover (P4.T12),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+90134,21500721,4,3:11,Allen P.FOUL (P2.T3) (H.Workman),nan,nan,202730,Lavoy Allen,IND,201567,Kevin Love,CLE,0,nan,nan,Foul ,Personal
+90135,21500721,4,2:58,nan,MISS James 4' Layup,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90136,21500721,4,2:58,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90137,21500721,4,2:58,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90138,21500721,4,2:58,Turner S.FOUL (P4.T4) (H.Workman),nan,nan,1626167,Myles Turner,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+90139,21500721,4,2:58,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90140,21500721,4,2:58,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+90141,21500721,4,2:58,SUB: G. Hill FOR S. Hill,nan,nan,203524,Solomon Hill,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+90142,21500721,4,2:58,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90143,21500721,4,2:58,Allen REBOUND (Off:4 Def:2),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90144,21500721,4,2:37,MISS Ellis 25' 3PT Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90145,21500721,4,2:34,nan,Irving REBOUND (Off:0 Def:3),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90146,21500721,4,2:23,Allen BLOCK (2 BLK),MISS Irving 5' Driving Finger Roll Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,202730,Lavoy Allen,IND,Missed Shot ,nan
+90147,21500721,4,2:22,G. Hill REBOUND (Off:1 Def:4),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90148,21500721,4,2:09,Ellis Out of Bounds Lost Ball Turnover (P4.T13),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+90149,21500721,4,2:07,SUB: Hill FOR Allen,nan,nan,202730,Lavoy Allen,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+90150,21500721,4,1:58,nan,Smith 25' 3PT Jump Shot (19 PTS) (Love 2 AST),92 - 93,2747,JR Smith,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+90151,21500721,4,1:58,PACERS Timeout: Short (Full 4 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+90152,21500721,4,1:39,George Lost Ball Turnover (P5.T14),Love STEAL (1 STL),nan,202331,Paul George,IND,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Lost Ball
+90153,21500721,4,1:39,Jump Ball George vs. Love: Tip to James,nan,nan,202331,Paul George,IND,201567,Kevin Love,CLE,2544,LeBron James,CLE,Jump Ball ,nan
+90154,21500721,4,1:16,nan,James 5' Driving Bank Shot (20 PTS),94 - 93,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90155,21500721,4,0:53,G. Hill 24' 3PT Jump Shot (23 PTS) (George 6 AST),nan,94 - 96,201588,George Hill,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+90156,21500721,4,0:53,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90157,21500721,4,0:53,SUB: Allen FOR Hill,nan,nan,201941,Jordan Hill,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+90158,21500721,4,0:44,nan,Irving 13' Pullup Jump Shot (17 PTS),96 - 96,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90159,21500721,4,0:20,MISS G. Hill 22' Pullup Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90160,21500721,4,0:20,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90161,21500721,4,0:20,nan,Love L.B.FOUL (P3.T4) (H.Workman),nan,201567,Kevin Love,CLE,202730,Lavoy Allen,IND,0,nan,nan,Foul ,Loose Ball
+90162,21500721,4,0:20,PACERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90163,21500721,4,0:20,nan,SUB: Shumpert FOR Irving,nan,202681,Kyrie Irving,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+90164,21500721,4,0:20,SUB: Miles FOR Allen,nan,nan,202730,Lavoy Allen,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+90165,21500721,4,0:20,nan,SUB: Dellavedova FOR Love,nan,201567,Kevin Love,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+90166,21500721,4,0:00,MISS Ellis 18' Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90167,21500721,4,0:00,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90168,21500721,4,0:00,nan,nan,96 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+90169,21500721,5,5:00,nan,nan,96 - 96,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+90170,21500721,5,5:00,Jump Ball Turner vs. Thompson: Tip to Hill,nan,nan,1626167,Myles Turner,IND,202684,Tristan Thompson,CLE,201941,Jordan Hill,IND,Jump Ball ,nan
+90171,21500721,5,4:41,Turner 17' Jump Shot (12 PTS) (George 7 AST),nan,96 - 98,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+90172,21500721,5,4:21,Turner BLOCK (4 BLK),MISS James 4' Driving Layup,nan,2544,LeBron James,CLE,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+90173,21500721,5,4:20,nan,James REBOUND (Off:1 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90174,21500721,5,4:20,Turner P.FOUL (P5.T1) (M.McCutchen),nan,nan,1626167,Myles Turner,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+90175,21500721,5,4:10,nan,Love 27' 3PT Jump Shot (19 PTS) (Irving 7 AST),99 - 98,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+90176,21500721,5,3:51,Turner 20' Jump Shot (14 PTS) (Ellis 5 AST),nan,99 - 100,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+90177,21500721,5,3:29,nan,Irving 3' Driving Reverse Layup (19 PTS),101 - 100,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90178,21500721,5,3:18,Ellis Bad Pass Turnover (P5.T15),Love STEAL (2 STL),nan,101145,Monta Ellis,IND,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Bad Pass
+90179,21500721,5,3:01,nan,Irving 19' Pullup Jump Shot (21 PTS),103 - 100,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90180,21500721,5,3:00,PACERS Timeout: Regular (Full 6 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90181,21500721,5,3:00,SUB: Allen FOR Turner,nan,nan,1626167,Myles Turner,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+90182,21500721,5,2:47,Hill 9' Floating Jump Shot (15 PTS) (George 8 AST),nan,103 - 102,201941,Jordan Hill,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+90183,21500721,5,2:21,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90184,21500721,5,2:20,Hill REBOUND (Off:3 Def:3),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90185,21500721,5,2:05,Hill 2' Driving Layup (17 PTS),nan,103 - 104,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+90186,21500721,5,1:40,nan,James 11' Jump Shot (22 PTS),105 - 104,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+90187,21500721,5,1:27,Ellis Out of Bounds - Bad Pass Turnover Turnover (P6.T16),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+90188,21500721,5,1:06,nan,MISS James 9' Running Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90189,21500721,5,1:05,Allen REBOUND (Off:4 Def:3),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90190,21500721,5,0:48,MISS George 3' Driving Layup,Love BLOCK (2 BLK),nan,202331,Paul George,IND,0,nan,nan,201567,Kevin Love,CLE,Missed Shot ,nan
+90191,21500721,5,0:47,nan,Love REBOUND (Off:0 Def:8),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90192,21500721,5,0:43,G. Hill S.FOUL (P1.T2) (B.Barnaky),nan,nan,201588,George Hill,IND,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+90193,21500721,5,0:43,nan,Irving Free Throw 1 of 2 (22 PTS),106 - 104,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90194,21500721,5,0:43,nan,Irving Free Throw 2 of 2 (23 PTS),107 - 104,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90195,21500721,5,0:43,PACERS Timeout: Short (Full 6 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+90196,21500721,5,0:43,SUB: Turner FOR Allen,nan,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+90197,21500721,5,0:40,nan,Love S.FOUL (P4.T1) (H.Workman),nan,201567,Kevin Love,CLE,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+90198,21500721,5,0:40,Ellis Free Throw 1 of 2 (13 PTS),nan,107 - 105,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90199,21500721,5,0:40,SUB: Allen FOR Hill,nan,nan,201941,Jordan Hill,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+90200,21500721,5,0:40,Ellis Free Throw 2 of 2 (14 PTS),nan,107 - 106,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90201,21500721,5,0:21,nan,MISS Irving 25' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90202,21500721,5,0:21,nan,James REBOUND (Off:2 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90203,21500721,5,0:19,nan,Cavaliers Timeout: Regular (Reg.6 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90204,21500721,5,0:19,SUB: S. Hill FOR Turner,nan,nan,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+90205,21500721,5,0:19,nan,SUB: Dellavedova FOR Thompson,nan,202684,Tristan Thompson,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+90206,21500721,5,0:13,G. Hill P.FOUL (P2.PN) (M.McCutchen),nan,nan,201588,George Hill,IND,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+90207,21500721,5,0:13,nan,Irving Free Throw 1 of 2 (24 PTS),108 - 106,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90208,21500721,5,0:13,SUB: Hill FOR S. Hill,nan,nan,203524,Solomon Hill,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+90209,21500721,5,0:13,nan,SUB: Thompson FOR Love,nan,201567,Kevin Love,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+90210,21500721,5,0:13,nan,Irving Free Throw 2 of 2 (25 PTS),109 - 106,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90211,21500721,5,0:13,PACERS Timeout: Regular (Full 7 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90212,21500721,5,0:13,nan,SUB: Shumpert FOR Irving,nan,202681,Kyrie Irving,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+90213,21500721,5,0:13,SUB: Miles FOR Hill,nan,nan,201941,Jordan Hill,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+90214,21500721,5,0:13,SUB: Turner FOR Allen,nan,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+90215,21500721,5,0:03,MISS G. Hill 22' Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90216,21500721,5,0:03,nan,James REBOUND (Off:2 Def:10),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90217,21500721,5,0:03,Ellis Personal Take Foul (P4.PN) (B.Barnaky),nan,nan,101145,Monta Ellis,IND,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal Take
+90218,21500721,5,0:03,nan,James Free Throw 1 of 2 (23 PTS),110 - 106,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90219,21500721,5,0:03,nan,James Free Throw 2 of 2 (24 PTS),111 - 106,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90220,21500721,5,0:00,MISS Ellis 48' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90221,21500721,5,0:00,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90222,21500721,5,0:00,nan,nan,111 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

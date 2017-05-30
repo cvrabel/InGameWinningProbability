@@ -1,0 +1,141 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+247772,21600766,4,12:00,nan,nan,67 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+247773,21600766,4,11:53,Jerebko S.FOUL (P2.T1) (M.Kogut),nan,nan,201973,Jonas Jerebko,BOS,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+247774,21600766,4,11:53,nan,Rivers Free Throw 1 of 2 (4 PTS),68 - 81,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247775,21600766,4,11:53,nan,Rivers Free Throw 2 of 2 (5 PTS),69 - 81,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247776,21600766,4,11:39,Brown 2' Driving Layup (9 PTS) (Smart 2 AST),nan,69 - 83,1627759,Jaylen Brown,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+247777,21600766,4,11:13,nan,MISS Rivers 24' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247778,21600766,4,11:09,nan,Rivers REBOUND (Off:1 Def:1),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247779,21600766,4,11:05,nan,MISS Speights 26' 3PT Jump Shot,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247780,21600766,4,11:04,Rozier REBOUND (Off:1 Def:2),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247781,21600766,4,11:00,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247782,21600766,4,11:00,SUB: Johnson FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+247783,21600766,4,10:52,MISS Smart 26' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247784,21600766,4,10:51,Olynyk REBOUND (Off:2 Def:1),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247785,21600766,4,10:43,MISS Olynyk 11' Hook Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247786,21600766,4,10:41,nan,Felton REBOUND (Off:1 Def:4),nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247787,21600766,4,10:31,Johnson S.FOUL (P2.T2) (M.McCutchen),nan,nan,101161,Amir Johnson,BOS,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+247788,21600766,4,10:31,nan,Griffin Free Throw 1 of 2 (17 PTS),70 - 83,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247789,21600766,4,10:31,SUB: Thomas FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+247790,21600766,4,10:31,nan,Griffin Free Throw 2 of 2 (18 PTS),71 - 83,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247791,21600766,4,10:17,Thomas Bad Pass Turnover (P2.T9),Griffin STEAL (1 STL),nan,202738,Isaiah Thomas,BOS,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Bad Pass
+247792,21600766,4,10:13,nan,Crawford Out of Bounds - Bad Pass Turnover Turnover (P1.T12),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+247793,21600766,4,10:05,nan,Felton P.FOUL (P3.T1) (M.Kogut),nan,101109,Raymond Felton,LAC,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+247794,21600766,4,9:56,Thomas 2' Driving Finger Roll Layup (20 PTS),nan,71 - 85,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+247795,21600766,4,9:40,nan,Felton  3PT Jump Shot (16 PTS) (Griffin 4 AST),74 - 85,101109,Raymond Felton,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+247796,21600766,4,9:25,MISS Thomas 25' 3PT Pullup Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247797,21600766,4,9:24,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247798,21600766,4,9:24,Johnson L.B.FOUL (P3.T3) (M.Kogut),nan,nan,101161,Amir Johnson,BOS,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Loose Ball
+247799,21600766,4,9:12,nan,MISS Speights 25' 3PT Jump Shot,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247800,21600766,4,9:11,Thomas REBOUND (Off:0 Def:2),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247801,21600766,4,9:01,Olynyk Offensive Charge Foul (P3.T4) (P.Fraher),nan,nan,203482,Kelly Olynyk,BOS,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Offensive Charge
+247802,21600766,4,9:01,Olynyk Foul Turnover (P2.T10),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+247803,21600766,4,8:47,Brown S.FOUL (P1.PN) (M.Kogut),nan,nan,1627759,Jaylen Brown,BOS,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Shooting
+247804,21600766,4,8:47,nan,MISS Speights Free Throw 1 of 2,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247805,21600766,4,8:47,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+247806,21600766,4,8:47,nan,Speights Free Throw 2 of 2 (4 PTS),75 - 85,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247807,21600766,4,8:31,Thomas 1' Driving Finger Roll Layup (22 PTS) (Brown 1 AST),nan,75 - 87,202738,Isaiah Thomas,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Made Shot ,nan
+247808,21600766,4,8:08,nan,MISS Felton 28' 3PT Jump Shot,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247809,21600766,4,8:07,Olynyk REBOUND (Off:2 Def:2),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247810,21600766,4,7:59,MISS Thomas 5' Driving Floating Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247811,21600766,4,7:57,nan,Rivers REBOUND (Off:1 Def:2),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247812,21600766,4,7:48,nan,MISS Rivers 26' 3PT Pullup Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247813,21600766,4,7:47,Brown REBOUND (Off:0 Def:3),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247814,21600766,4,7:30,Johnson 3' Cutting Layup Shot (11 PTS) (Olynyk 2 AST),nan,75 - 89,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+247815,21600766,4,7:30,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247816,21600766,4,7:30,nan,SUB: Redick FOR Felton,nan,101109,Raymond Felton,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+247817,21600766,4,7:19,nan,Crawford 25' 3PT Pullup Jump Shot (17 PTS) (Rivers 4 AST),78 - 89,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+247818,21600766,4,6:59,MISS Brown 25' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247819,21600766,4,6:58,nan,Griffin REBOUND (Off:0 Def:8),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247820,21600766,4,6:55,Olynyk P.FOUL (P4.PN) (M.Kogut),nan,nan,203482,Kelly Olynyk,BOS,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Personal
+247821,21600766,4,6:55,Olynyk T.FOUL (P4.PN) (M.Kogut),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Foul ,Technical
+247822,21600766,4,6:55,nan,Crawford Free Throw Technical (18 PTS),79 - 89,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+247823,21600766,4,6:55,nan,Speights Free Throw 1 of 2 (5 PTS),80 - 89,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247824,21600766,4,6:55,SUB: Horford FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+247825,21600766,4,6:55,nan,Speights Free Throw 2 of 2 (6 PTS),81 - 89,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247826,21600766,4,6:42,Brown 5' Driving Bank Hook Shot (11 PTS) (Thomas 8 AST),nan,81 - 91,1627759,Jaylen Brown,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+247827,21600766,4,6:42,nan,Griffin S.FOUL (P1.T2) (M.McCutchen),nan,201933,Blake Griffin,LAC,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Shooting
+247828,21600766,4,6:42,nan,SUB: Jordan FOR Speights,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+247829,21600766,4,6:42,MISS Brown Free Throw 1 of 1,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+247830,21600766,4,6:42,nan,Jordan REBOUND (Off:3 Def:10),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247831,21600766,4,6:34,Brown P.FOUL (P2.PN) (M.McCutchen),nan,nan,1627759,Jaylen Brown,BOS,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal
+247832,21600766,4,6:34,nan,Redick Free Throw 1 of 2 (5 PTS),82 - 91,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247833,21600766,4,6:34,nan,Redick Free Throw 2 of 2 (6 PTS),83 - 91,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247834,21600766,4,6:15,Smart 25' 3PT Jump Shot (13 PTS) (Horford 6 AST),nan,83 - 94,203935,Marcus Smart,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+247835,21600766,4,5:58,nan,MISS Redick 19' Pullup Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247836,21600766,4,5:57,Johnson REBOUND (Off:2 Def:3),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247837,21600766,4,5:43,Thomas Backcourt Turnover (P3.T11),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+247838,21600766,4,5:43,SUB: Crowder FOR Smart,nan,nan,203935,Marcus Smart,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+247839,21600766,4,5:22,nan,MISS Crawford 5' Driving Floating Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247840,21600766,4,5:21,Horford REBOUND (Off:2 Def:12),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247841,21600766,4,5:13,Horford 25' 3PT Jump Shot (11 PTS) (Crowder 2 AST),nan,83 - 97,201143,Al Horford,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+247842,21600766,4,5:12,nan,Clippers Timeout: Regular (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247843,21600766,4,5:02,nan,MISS Griffin 3' Layup,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247844,21600766,4,5:01,nan,Jordan REBOUND (Off:4 Def:10),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247845,21600766,4,5:01,nan,MISS Jordan 1' Tip Layup Shot,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247846,21600766,4,5:00,Johnson REBOUND (Off:2 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247847,21600766,4,4:41,MISS Brown 16' Step Back Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247848,21600766,4,4:41,nan,Jordan REBOUND (Off:4 Def:11),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247849,21600766,4,4:34,nan,MISS Rivers 25' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247850,21600766,4,4:33,nan,Redick REBOUND (Off:1 Def:1),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247851,21600766,4,4:25,nan,Redick Backcourt Turnover (P2.T13),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+247852,21600766,4,4:02,MISS Crowder 25' 3PT Pullup Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247853,21600766,4,4:01,nan,Redick REBOUND (Off:1 Def:2),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247854,21600766,4,3:56,Crowder P.FOUL (P1.PN) (M.McCutchen),nan,nan,203109,Jae Crowder,BOS,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+247855,21600766,4,3:56,Crowder T.FOUL (P1.PN) (M.McCutchen),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Foul ,Technical
+247856,21600766,4,3:56,nan,Crawford Free Throw Technical (19 PTS),84 - 97,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+247857,21600766,4,3:56,nan,Crawford Free Throw 1 of 2 (20 PTS),85 - 97,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247858,21600766,4,3:56,SUB: Smart FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+247859,21600766,4,3:56,nan,Crawford Free Throw 2 of 2 (21 PTS),86 - 97,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247860,21600766,4,3:36,MISS Horford 9' Turnaround Bank Hook Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247861,21600766,4,3:35,nan,Jordan REBOUND (Off:4 Def:12),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247862,21600766,4,3:29,nan,Griffin  Running Dunk (20 PTS) (Crawford 5 AST),88 - 97,201933,Blake Griffin,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+247863,21600766,4,3:13,MISS Horford 25' 3PT Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247864,21600766,4,3:12,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247865,21600766,4,3:07,Johnson 9' Floating Jump Shot (13 PTS) (Smart 3 AST),nan,88 - 99,101161,Amir Johnson,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+247866,21600766,4,3:01,Horford Personal Take Foul (P2.PN) (P.Fraher),nan,nan,201143,Al Horford,BOS,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+247867,21600766,4,3:01,nan,Jordan Free Throw 1 of 2 (6 PTS),89 - 99,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247868,21600766,4,3:01,nan,MISS Jordan Free Throw 2 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247869,21600766,4,3:01,Crowder REBOUND (Off:0 Def:6),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247870,21600766,4,2:48,nan,Rivers S.FOUL (P3.T3) (M.Kogut),nan,203085,Austin Rivers,LAC,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+247871,21600766,4,2:48,nan,nan,nan,478,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+247872,21600766,4,2:48,MISS Thomas Free Throw 1 of 3,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+247873,21600766,4,2:48,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+247874,21600766,4,2:48,Thomas Free Throw 2 of 3 (23 PTS),nan,89 - 100,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+247875,21600766,4,2:48,nan,SUB: Speights FOR Jordan,nan,201599,DeAndre Jordan,LAC,201578,Marreese Speights,LAC,0,nan,nan,Substitution ,nan
+247876,21600766,4,2:48,Thomas Free Throw 3 of 3 (24 PTS),nan,89 - 101,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+247877,21600766,4,2:37,Horford S.FOUL (P3.PN) (P.Fraher),nan,nan,201143,Al Horford,BOS,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+247878,21600766,4,2:37,nan,MISS Griffin Free Throw 1 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247879,21600766,4,2:37,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+247880,21600766,4,2:37,SUB: Olynyk FOR Johnson,nan,nan,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+247881,21600766,4,2:37,nan,Griffin Free Throw 2 of 2 (21 PTS),90 - 101,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247882,21600766,4,2:22,MISS Horford 24' 3PT Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247883,21600766,4,2:21,nan,Speights REBOUND (Off:0 Def:4),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247884,21600766,4,2:11,nan,Speights 25' 3PT Jump Shot (9 PTS) (Redick 1 AST),93 - 101,201578,Marreese Speights,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+247885,21600766,4,1:52,Thomas 1' Driving Finger Roll Layup (26 PTS),nan,93 - 103,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+247886,21600766,4,1:44,nan,Crawford 2' Driving Finger Roll Layup (23 PTS),95 - 103,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+247887,21600766,4,1:23,MISS Thomas 25' 3PT Pullup Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247888,21600766,4,1:22,nan,Redick REBOUND (Off:1 Def:3),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247889,21600766,4,1:15,Horford S.FOUL (P4.PN) (M.McCutchen),nan,nan,201143,Al Horford,BOS,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+247890,21600766,4,1:15,nan,Griffin Free Throw 1 of 2 (22 PTS),96 - 103,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247891,21600766,4,1:15,nan,Griffin Free Throw 2 of 2 (23 PTS),97 - 103,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247892,21600766,4,0:56,MISS Crowder  3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247893,21600766,4,0:54,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247894,21600766,4,0:45,nan,MISS Crawford 25' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247895,21600766,4,0:43,nan,Speights REBOUND (Off:1 Def:4),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247896,21600766,4,0:42,Horford S.FOUL (P5.PN) (M.Kogut),nan,nan,201143,Al Horford,BOS,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Shooting
+247897,21600766,4,0:42,nan,Speights Free Throw 1 of 2 (10 PTS),98 - 103,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247898,21600766,4,0:42,nan,Speights Free Throw 2 of 2 (11 PTS),99 - 103,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247899,21600766,4,0:30,nan,Redick S.FOUL (P4.T4) (P.Fraher),nan,200755,JJ Redick,LAC,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+247900,21600766,4,0:30,Thomas Free Throw 1 of 2 (27 PTS),nan,99 - 104,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247901,21600766,4,0:30,SUB: Brown FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Substitution ,nan
+247902,21600766,4,0:30,Thomas Free Throw 2 of 2 (28 PTS),nan,99 - 105,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247903,21600766,4,0:30,nan,Clippers Timeout: Regular (Reg.6 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247904,21600766,4,0:21,nan,MISS Griffin 24' 3PT Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247905,21600766,4,0:20,Horford REBOUND (Off:2 Def:13),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247906,21600766,4,0:19,nan,Griffin Personal Take Foul (P2.PN) (M.Kogut),nan,201933,Blake Griffin,LAC,201143,Al Horford,BOS,0,nan,nan,Foul ,Personal Take
+247907,21600766,4,0:19,Horford Free Throw 1 of 2 (12 PTS),nan,99 - 106,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247908,21600766,4,0:19,nan,SUB: Pierce FOR Griffin,nan,201933,Blake Griffin,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+247909,21600766,4,0:19,Horford Free Throw 2 of 2 (13 PTS),nan,99 - 107,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247910,21600766,4,0:11,nan,Pierce 28' 3PT Jump Shot (3 PTS) (Rivers 5 AST),102 - 107,1718,Paul Pierce,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+247911,21600766,4,0:00,nan,nan,102 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

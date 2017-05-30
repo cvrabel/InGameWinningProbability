@@ -1,0 +1,148 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+32682,21500261,4,12:00,nan,nan,64 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+32683,21500261,4,11:38,CLIPPERS Turnover: Backcourt (T#9),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+32684,21500261,4,11:11,nan,Harkless 2' Layup (13 PTS),66 - 74,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+32685,21500261,4,10:59,MISS Rivers 22' Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32686,21500261,4,10:59,nan,Frazier REBOUND (Off:0 Def:3),nan,204025,Tim Frazier,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32687,21500261,4,10:47,nan,MISS Leonard 20' Jump Shot,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32688,21500261,4,10:46,Stephenson REBOUND (Off:0 Def:8),nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32689,21500261,4,10:37,Smith 25' 3PT Jump Shot (8 PTS) (Crawford 2 AST),nan,66 - 77,2746,Josh Smith,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+32690,21500261,4,10:17,nan,McCollum 2' Driving Layup (11 PTS),68 - 77,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+32691,21500261,4,10:08,nan,Davis P.FOUL (P3.T1) (C.Blair),nan,202334,Ed Davis,POR,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Personal
+32692,21500261,4,10:00,MISS Rivers 7' Floating Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32693,21500261,4,10:00,nan,Harkless REBOUND (Off:1 Def:2),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32694,21500261,4,10:00,Rivers P.FOUL (P2.T1) (C.Blair),nan,nan,203085,Austin Rivers,LAC,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Personal
+32695,21500261,4,9:45,nan,MISS McCollum 3' Layup,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32696,21500261,4,9:45,Stephenson REBOUND (Off:0 Def:9),nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32697,21500261,4,9:42,Stephenson Out of Bounds Lost Ball Turnover (P1.T10),nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+32698,21500261,4,9:35,nan,Frazier Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,204025,Tim Frazier,POR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+32699,21500261,4,9:18,MISS Pierce 25' 3PT Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32700,21500261,4,9:17,nan,Davis REBOUND (Off:4 Def:5),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32701,21500261,4,9:11,nan,Leonard 11' Driving Bank Shot (4 PTS) (Frazier 2 AST),70 - 77,203086,Meyers Leonard,POR,204025,Tim Frazier,POR,0,nan,nan,Made Shot ,nan
+32702,21500261,4,8:52,MISS Smith 22' Jump Shot,nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32703,21500261,4,8:51,Rivers REBOUND (Off:1 Def:0),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32704,21500261,4,8:46,MISS Crawford 8' Floating Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32705,21500261,4,8:44,Smith REBOUND (Off:2 Def:1),nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32706,21500261,4,8:44,nan,Frazier S.FOUL (P3.T2) (T.Washington),nan,204025,Tim Frazier,POR,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+32707,21500261,4,8:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32708,21500261,4,8:44,SUB: Jordan FOR Smith,nan,nan,2746,Josh Smith,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+32709,21500261,4,8:44,nan,SUB: Aminu FOR Leonard,nan,203086,Meyers Leonard,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+32710,21500261,4,8:44,nan,SUB: Henderson FOR Frazier,nan,204025,Tim Frazier,POR,201945,Gerald Henderson,POR,0,nan,nan,Substitution ,nan
+32711,21500261,4,8:44,Rivers Free Throw 1 of 2 (5 PTS),nan,70 - 78,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32712,21500261,4,8:44,Rivers Free Throw 2 of 2 (6 PTS),nan,70 - 79,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32713,21500261,4,8:24,Jordan STEAL (1 STL),Harkless Lost Ball Turnover (P3.T15),nan,203090,Maurice Harkless,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Turnover ,Lost Ball
+32714,21500261,4,8:05,MISS Rivers 26' 3PT Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32715,21500261,4,8:04,nan,Henderson REBOUND (Off:0 Def:3),nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32716,21500261,4,7:56,nan,MISS Henderson 22' Jump Shot,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32717,21500261,4,7:55,Stephenson REBOUND (Off:0 Def:10),nan,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32718,21500261,4,7:48,Stephenson 16' Jump Shot (2 PTS),nan,70 - 81,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+32719,21500261,4,7:24,nan,MISS Harkless 20' Jump Shot,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32720,21500261,4,7:24,nan,Davis REBOUND (Off:5 Def:5),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32721,21500261,4,7:18,nan,Davis 3' Tip Layup Shot (11 PTS),72 - 81,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+32722,21500261,4,7:02,Crawford 3' Driving Layup (9 PTS),nan,72 - 83,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+32723,21500261,4,6:50,nan,Henderson 19' Jump Shot (4 PTS) (McCollum 8 AST),74 - 83,201945,Gerald Henderson,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+32724,21500261,4,6:49,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32725,21500261,4,6:49,SUB: Griffin FOR Stephenson,nan,nan,202362,Lance Stephenson,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+32726,21500261,4,6:49,SUB: Redick FOR Pierce,nan,nan,1718,Paul Pierce,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+32727,21500261,4,6:49,nan,SUB: Plumlee FOR Harkless,nan,203090,Maurice Harkless,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+32728,21500261,4,6:35,Griffin 3' Alley Oop Layup (23 PTS) (Crawford 3 AST),nan,74 - 85,201933,Blake Griffin,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+32729,21500261,4,6:09,nan,Trail Blazers Turnover: Shot Clock (T#16),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+32730,21500261,4,5:58,MISS Redick 25' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32731,21500261,4,5:57,Jordan REBOUND (Off:8 Def:13),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32732,21500261,4,5:44,Crawford 20' Jump Shot (11 PTS) (Griffin 4 AST),nan,74 - 87,2037,Jamal Crawford,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+32733,21500261,4,5:30,nan,Henderson 21' Jump Shot (6 PTS) (Davis 1 AST),76 - 87,201945,Gerald Henderson,POR,202334,Ed Davis,POR,0,nan,nan,Made Shot ,nan
+32734,21500261,4,5:10,Redick 20' Jump Shot (11 PTS) (Griffin 5 AST),nan,76 - 89,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+32735,21500261,4,5:04,Crawford Personal Block Foul (P2.T2) (B.Adams),nan,nan,2037,Jamal Crawford,LAC,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal Block
+32736,21500261,4,4:47,nan,MISS Henderson 25' 3PT Jump Shot,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32737,21500261,4,4:46,nan,Plumlee REBOUND (Off:3 Def:7),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32738,21500261,4,4:46,Griffin BLOCK (1 BLK),MISS Plumlee 2' Layup,nan,203486,Mason Plumlee,POR,0,nan,nan,201933,Blake Griffin,LAC,Missed Shot ,nan
+32739,21500261,4,4:45,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32740,21500261,4,4:45,nan,Trail Blazers Turnover: Shot Clock (T#17),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+32741,21500261,4,4:34,nan,Aminu P.FOUL (P2.T3) (T.Washington),nan,202329,Al-Farouq Aminu,POR,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+32742,21500261,4,4:28,Redick 26' 3PT Jump Shot (14 PTS) (Griffin 6 AST),nan,76 - 92,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+32743,21500261,4,4:28,nan,Trail Blazers Timeout: Regular (Reg.4 Short 0),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32744,21500261,4,4:12,Rivers P.FOUL (P3.T3) (C.Blair),nan,nan,203085,Austin Rivers,LAC,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+32745,21500261,4,4:08,Redick P.FOUL (P2.T4) (C.Blair),nan,nan,200755,JJ Redick,LAC,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+32746,21500261,4,3:59,nan,Davis  Cutting Dunk Shot (13 PTS) (McCollum 9 AST),78 - 92,202334,Ed Davis,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+32747,21500261,4,3:51,nan,Davis Personal Take Foul (P4.T4) (T.Washington),nan,202334,Ed Davis,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32748,21500261,4,3:51,nan,Davis Personal Take Foul (P5.PN) (T.Washington),nan,202334,Ed Davis,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32749,21500261,4,3:51,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32750,21500261,4,3:51,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32751,21500261,4,3:51,nan,SUB: Harkless FOR Davis,nan,202334,Ed Davis,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+32752,21500261,4,3:51,Jordan Free Throw 2 of 2 (11 PTS),nan,78 - 93,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32753,21500261,4,3:42,Griffin S.FOUL (P4.PN) (B.Adams),nan,nan,201933,Blake Griffin,LAC,201945,Gerald Henderson,POR,0,nan,nan,Foul ,Shooting
+32754,21500261,4,3:42,nan,nan,nan,201933,Blake Griffin,LAC,201945,Gerald Henderson,POR,0,nan,nan,Foul ,Double Technical
+32755,21500261,4,3:42,nan,MISS Henderson Free Throw 1 of 2,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32756,21500261,4,3:42,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32757,21500261,4,3:42,nan,Henderson Free Throw 2 of 2 (7 PTS),79 - 93,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32758,21500261,4,3:42,nan,Harkless Personal Take Foul (P3.PN) (B.Adams),nan,203090,Maurice Harkless,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32759,21500261,4,3:42,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32760,21500261,4,3:42,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+32761,21500261,4,3:42,Jordan Free Throw 2 of 2 (12 PTS),nan,79 - 94,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32762,21500261,4,3:35,nan,Plumlee Traveling Turnover (P5.T18),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+32763,21500261,4,3:35,nan,Aminu Personal Take Foul (P3.PN) (C.Blair),nan,202329,Al-Farouq Aminu,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32764,21500261,4,3:35,Jordan Free Throw 1 of 2 (13 PTS),nan,79 - 95,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32765,21500261,4,3:35,MISS Jordan Free Throw 2 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32766,21500261,4,3:33,nan,Plumlee REBOUND (Off:3 Def:8),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32767,21500261,4,3:23,nan,Harkless 6' Running Jump Shot (15 PTS) (McCollum 10 AST),81 - 95,203090,Maurice Harkless,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+32768,21500261,4,3:20,nan,Harkless Personal Take Foul (P4.PN) (C.Blair),nan,203090,Maurice Harkless,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32769,21500261,4,3:20,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32770,21500261,4,3:20,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+32771,21500261,4,3:20,MISS Jordan Free Throw 2 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32772,21500261,4,3:19,nan,Plumlee REBOUND (Off:3 Def:9),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32773,21500261,4,3:09,nan,McCollum Out of Bounds - Bad Pass Turnover Turnover (P4.T19),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+32774,21500261,4,3:08,nan,Aminu Personal Take Foul (P4.PN) (T.Washington),nan,202329,Al-Farouq Aminu,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32775,21500261,4,3:08,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32776,21500261,4,3:08,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32777,21500261,4,3:08,Jordan Free Throw 2 of 2 (14 PTS),nan,81 - 96,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32778,21500261,4,2:58,Redick STEAL (1 STL),Aminu Bad Pass Turnover (P2.T20),nan,202329,Al-Farouq Aminu,POR,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Bad Pass
+32779,21500261,4,2:56,nan,Henderson Personal Take Foul (P4.PN) (C.Blair),nan,201945,Gerald Henderson,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32780,21500261,4,2:56,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32781,21500261,4,2:56,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32782,21500261,4,2:56,MISS Jordan Free Throw 2 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32783,21500261,4,2:54,nan,Plumlee REBOUND (Off:3 Def:10),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32784,21500261,4,2:46,Jordan S.FOUL (P3.PN) (C.Blair),nan,nan,201599,DeAndre Jordan,LAC,201945,Gerald Henderson,POR,0,nan,nan,Foul ,Shooting
+32785,21500261,4,2:46,nan,MISS Henderson Free Throw 1 of 2,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32786,21500261,4,2:46,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+32787,21500261,4,2:46,nan,Henderson Free Throw 2 of 2 (8 PTS),82 - 96,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32788,21500261,4,2:46,nan,Plumlee Personal Take Foul (P4.PN) (B.Adams),nan,203486,Mason Plumlee,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32789,21500261,4,2:46,Jordan Free Throw 1 of 2 (15 PTS),nan,82 - 97,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32790,21500261,4,2:46,MISS Jordan Free Throw 2 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32791,21500261,4,2:46,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32792,21500261,4,2:39,Jordan P.FOUL (P4.PN) (T.Washington),nan,nan,201599,DeAndre Jordan,LAC,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+32793,21500261,4,2:39,nan,MISS McCollum Free Throw 1 of 2,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32794,21500261,4,2:39,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+32795,21500261,4,2:39,nan,McCollum Free Throw 2 of 2 (12 PTS),83 - 97,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32796,21500261,4,2:39,nan,McCollum Personal Take Foul (P4.PN) (C.Blair),nan,203468,CJ McCollum,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32797,21500261,4,2:39,Jordan Free Throw 1 of 2 (16 PTS),nan,83 - 98,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32798,21500261,4,2:39,Jordan Free Throw 2 of 2 (17 PTS),nan,83 - 99,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32799,21500261,4,2:22,Jordan BLOCK (2 BLK),MISS Harkless 4' Jump Shot,nan,203090,Maurice Harkless,POR,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+32800,21500261,4,2:22,nan,Harkless REBOUND (Off:2 Def:2),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32801,21500261,4,2:21,nan,MISS Aminu 26' 3PT Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32802,21500261,4,2:19,Jordan REBOUND (Off:8 Def:14),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32803,21500261,4,2:19,nan,Henderson Personal Take Foul (P5.PN) (B.Adams),nan,201945,Gerald Henderson,POR,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+32804,21500261,4,2:19,Jordan Free Throw 1 of 2 (18 PTS),nan,83 - 100,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32805,21500261,4,2:19,nan,SUB: Connaughton FOR Aminu,nan,202329,Al-Farouq Aminu,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+32806,21500261,4,2:19,nan,SUB: Crabbe FOR Plumlee,nan,203486,Mason Plumlee,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+32807,21500261,4,2:19,nan,SUB: Alexander FOR McCollum,nan,203468,CJ McCollum,POR,1626146,Cliff Alexander,POR,0,nan,nan,Substitution ,nan
+32808,21500261,4,2:19,nan,SUB: Vonleh FOR Harkless,nan,203090,Maurice Harkless,POR,203943,Noah Vonleh,POR,0,nan,nan,Substitution ,nan
+32809,21500261,4,2:19,nan,SUB: Frazier FOR Henderson,nan,201945,Gerald Henderson,POR,204025,Tim Frazier,POR,0,nan,nan,Substitution ,nan
+32810,21500261,4,2:19,SUB: Mbah a Moute FOR Griffin,nan,nan,201933,Blake Griffin,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+32811,21500261,4,2:19,MISS Jordan Free Throw 2 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32812,21500261,4,2:18,nan,Vonleh REBOUND (Off:0 Def:1),nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32813,21500261,4,2:01,nan,Alexander 20' Jump Shot (2 PTS),85 - 100,1626146,Cliff Alexander,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+32814,21500261,4,1:45,MISS Rivers 3' Layup,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32815,21500261,4,1:44,Jordan REBOUND (Off:9 Def:14),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32816,21500261,4,1:43,MISS Jordan 2' Tip Layup Shot,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32817,21500261,4,1:42,nan,Frazier REBOUND (Off:0 Def:4),nan,204025,Tim Frazier,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32818,21500261,4,1:35,nan,MISS Vonleh 2' Layup,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32819,21500261,4,1:34,Jordan REBOUND (Off:9 Def:15),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32820,21500261,4,1:26,CLIPPERS Timeout: Short (Full 4 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32821,21500261,4,1:26,SUB: W. Johnson FOR Jordan,nan,nan,201599,DeAndre Jordan,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+32822,21500261,4,1:26,SUB: Stephenson FOR Redick,nan,nan,200755,JJ Redick,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Substitution ,nan
+32823,21500261,4,1:20,Stephenson Bad Pass Turnover (P2.T11),Alexander STEAL (1 STL),nan,202362,Lance Stephenson,LAC,1626146,Cliff Alexander,POR,0,nan,nan,Turnover ,Bad Pass
+32824,21500261,4,0:58,nan,Frazier 20' Jump Shot (2 PTS),87 - 100,204025,Tim Frazier,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+32825,21500261,4,0:40,Mbah a Moute 3' Layup (4 PTS) (Crawford 4 AST),nan,87 - 102,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+32826,21500261,4,0:29,Crawford STEAL (1 STL),Frazier Bad Pass Turnover (P3.T21),nan,204025,Tim Frazier,POR,2037,Jamal Crawford,LAC,0,nan,nan,Turnover ,Bad Pass
+32827,21500261,4,0:06,CLIPPERS Turnover: Shot Clock (T#12),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+32828,21500261,4,0:00,nan,nan,87 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

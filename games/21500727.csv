@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+90795,21500727,4,12:00,nan,nan,65 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+90796,21500727,4,11:45,MISS Nurkic 2' Layup,nan,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90797,21500727,4,11:43,Barton REBOUND (Off:1 Def:3),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90798,21500727,4,11:43,Barton 3' Tip Layup Shot (6 PTS),nan,65 - 82,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90799,21500727,4,11:32,Nurkic S.FOUL (P2.T1) (M.Kogut),nan,nan,203994,Jusuf Nurkic,DEN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+90800,21500727,4,11:32,nan,MISS Lowry Free Throw 1 of 2,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90801,21500727,4,11:32,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+90802,21500727,4,11:32,nan,MISS Lowry Free Throw 2 of 2,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90803,21500727,4,11:31,Barton REBOUND (Off:1 Def:4),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90804,21500727,4,11:20,Barton 2' Driving Reverse Layup (8 PTS),nan,65 - 84,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90805,21500727,4,11:20,nan,Nogueira S.FOUL (P2.T1) (M.Kogut),nan,203512,Lucas Nogueira,TOR,203115,Will Barton,DEN,0,nan,nan,Foul ,Shooting
+90806,21500727,4,11:20,Barton Free Throw 1 of 1 (9 PTS),nan,65 - 85,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+90807,21500727,4,11:05,nan,MISS Ross 24' 3PT Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90808,21500727,4,11:04,Foye REBOUND (Off:0 Def:1),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90809,21500727,4,10:54,MISS Nurkic 7' Floating Jump Shot,Nogueira BLOCK (1 BLK),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,203512,Lucas Nogueira,TOR,Missed Shot ,nan
+90810,21500727,4,10:54,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90811,21500727,4,10:40,nan,MISS Joseph  3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90812,21500727,4,10:40,Foye REBOUND (Off:0 Def:2),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90813,21500727,4,10:34,Barton 26' 3PT Pullup Jump Shot (12 PTS),nan,65 - 88,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90814,21500727,4,10:22,Foye S.FOUL (P3.T2) (B.Kennedy),nan,nan,200751,Randy Foye,DEN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+90815,21500727,4,10:22,nan,Lowry Free Throw 1 of 2 (9 PTS),66 - 88,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90816,21500727,4,10:22,nan,Lowry Free Throw 2 of 2 (10 PTS),67 - 88,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90817,21500727,4,10:14,Foye Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+90818,21500727,4,9:58,Foye BLOCK (2 BLK),MISS Joseph 1' Driving Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,200751,Randy Foye,DEN,Missed Shot ,nan
+90819,21500727,4,9:56,Nurkic REBOUND (Off:3 Def:4),nan,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90820,21500727,4,9:44,Foye 25' 3PT Jump Shot (13 PTS) (Arthur 1 AST),nan,67 - 91,200751,Randy Foye,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+90821,21500727,4,9:43,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90822,21500727,4,9:43,nan,SUB: Powell FOR Lowry,nan,200768,Kyle Lowry,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+90823,21500727,4,9:36,nan,Ross Traveling Turnover (P2.T9),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+90824,21500727,4,9:36,nan,nan,nan,1335,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+90825,21500727,4,9:36,Barton Free Throw Technical (13 PTS),nan,67 - 92,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+90826,21500727,4,9:25,nan,Patterson Violation:Kicked Ball (B.Kennedy),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+90827,21500727,4,9:22,Barton Bad Pass Turnover (P2.T15),Nogueira STEAL (1 STL),nan,203115,Will Barton,DEN,203512,Lucas Nogueira,TOR,0,nan,nan,Turnover ,Bad Pass
+90828,21500727,4,9:16,nan,Ross 24' 3PT Jump Shot (10 PTS) (Patterson 2 AST),70 - 92,203082,Terrence Ross,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+90829,21500727,4,8:53,MISS Nurkic 2' Hook Shot,nan,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90830,21500727,4,8:53,nan,Joseph REBOUND (Off:1 Def:1),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90831,21500727,4,8:46,nan,MISS Ross 25' 3PT Pullup Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90832,21500727,4,8:46,Foye REBOUND (Off:0 Def:3),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90833,21500727,4,8:40,Barton  Running Dunk (15 PTS) (Foye 2 AST),nan,70 - 94,203115,Will Barton,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+90834,21500727,4,8:36,Barton P.FOUL (P3.T3) (D.Jones),nan,nan,203115,Will Barton,DEN,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal
+90835,21500727,4,8:23,Nurkic STEAL (1 STL),Patterson Bad Pass Turnover (P1.T10),nan,202335,Patrick Patterson,TOR,203994,Jusuf Nurkic,DEN,0,nan,nan,Turnover ,Bad Pass
+90836,21500727,4,8:03,Foye 25' 3PT Jump Shot (16 PTS),nan,70 - 97,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90837,21500727,4,7:47,nan,Joseph Out of Bounds Lost Ball Turnover (P1.T11),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+90838,21500727,4,7:41,nan,Nogueira P.FOUL (P3.T2) (D.Jones),nan,203512,Lucas Nogueira,TOR,203994,Jusuf Nurkic,DEN,0,nan,nan,Foul ,Personal
+90839,21500727,4,7:41,nan,SUB: Bennett FOR Patterson,nan,202335,Patrick Patterson,TOR,203461,Anthony Bennett,TOR,0,nan,nan,Substitution ,nan
+90840,21500727,4,7:29,Nurkic Lost Ball Turnover (P1.T16),Powell STEAL (1 STL),nan,203994,Jusuf Nurkic,DEN,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Lost Ball
+90841,21500727,4,7:14,nan,Nogueira 1' Finger Roll Layup (2 PTS) (Joseph 2 AST),72 - 97,203512,Lucas Nogueira,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+90842,21500727,4,7:04,Barton 1' Alley Oop Dunk (17 PTS) (Foye 3 AST),nan,72 - 99,203115,Will Barton,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+90843,21500727,4,6:53,nan,MISS Joseph 3' Driving Reverse Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90844,21500727,4,6:52,nan,Nogueira REBOUND (Off:1 Def:0),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90845,21500727,4,6:51,Foye S.FOUL (P4.T4) (D.Jones),nan,nan,200751,Randy Foye,DEN,203512,Lucas Nogueira,TOR,0,nan,nan,Foul ,Shooting
+90846,21500727,4,6:51,nan,Nogueira Free Throw 1 of 2 (3 PTS),73 - 99,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90847,21500727,4,6:51,nan,Nogueira Free Throw 2 of 2 (4 PTS),74 - 99,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90848,21500727,4,6:40,Arthur Bad Pass Turnover (P1.T17),Nogueira STEAL (2 STL),nan,201589,Darrell Arthur,DEN,203512,Lucas Nogueira,TOR,0,nan,nan,Turnover ,Bad Pass
+90849,21500727,4,6:29,nan,MISS Ross 19' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90850,21500727,4,6:28,Foye REBOUND (Off:0 Def:4),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90851,21500727,4,6:06,MISS Kilpatrick 26' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90852,21500727,4,6:05,nan,Bennett REBOUND (Off:0 Def:1),nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90853,21500727,4,5:57,Nurkic S.FOUL (P3.PN) (M.Kogut),nan,nan,203994,Jusuf Nurkic,DEN,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+90854,21500727,4,5:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+90855,21500727,4,5:57,SUB: Harris FOR Nurkic,nan,nan,203994,Jusuf Nurkic,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+90856,21500727,4,5:57,SUB: Jokic FOR Arthur,nan,nan,201589,Darrell Arthur,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+90857,21500727,4,5:57,nan,Joseph Free Throw 1 of 2 (3 PTS),75 - 99,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90858,21500727,4,5:57,nan,Joseph Free Throw 2 of 2 (4 PTS),76 - 99,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90859,21500727,4,5:46,Barton Lost Ball Turnover (P3.T18),Bennett STEAL (1 STL),nan,203115,Will Barton,DEN,203461,Anthony Bennett,TOR,0,nan,nan,Turnover ,Lost Ball
+90860,21500727,4,5:31,nan,Nogueira Out of Bounds Lost Ball Turnover (P1.T12),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+90861,21500727,4,5:31,nan,SUB: Wright FOR Joseph,nan,202709,Cory Joseph,TOR,1626153,Delon Wright,TOR,0,nan,nan,Substitution ,nan
+90862,21500727,4,5:04,MISS Jokic 18' Turnaround Fadeaway Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90863,21500727,4,5:04,nan,Bennett REBOUND (Off:0 Def:2),nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90864,21500727,4,4:56,nan,Wright 26' 3PT Jump Shot (3 PTS),79 - 99,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+90865,21500727,4,4:41,MISS Barton 25' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90866,21500727,4,4:40,nan,Powell REBOUND (Off:0 Def:2),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90867,21500727,4,4:32,nan,MISS Powell 20' Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90868,21500727,4,4:29,nan,Bennett REBOUND (Off:1 Def:2),nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90869,21500727,4,4:29,nan,Bennett 3' Tip Layup Shot (2 PTS),81 - 99,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+90870,21500727,4,4:22,NUGGETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+90871,21500727,4,4:16,MISS Harris 2' Driving Layup,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90872,21500727,4,4:15,Jokic REBOUND (Off:3 Def:11),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90873,21500727,4,4:15,Jokic  Putback Dunk (25 PTS),nan,81 - 101,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90874,21500727,4,3:57,nan,Ross 2' Driving Finger Roll Layup (12 PTS),83 - 101,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+90875,21500727,4,3:38,Jokic 1' Finger Roll Layup (27 PTS) (Harris 1 AST),nan,83 - 103,203999,Nikola Jokic,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+90876,21500727,4,3:25,nan,MISS Bennett 26' 3PT Jump Shot,nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90877,21500727,4,3:24,Harris REBOUND (Off:0 Def:2),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90878,21500727,4,3:08,Barton 26' 3PT Jump Shot (20 PTS),nan,83 - 106,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90879,21500727,4,2:54,nan,SUB: Joseph FOR Ross,nan,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+90880,21500727,4,2:54,SUB: Lauvergne FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,203530,Joffrey Lauvergne,DEN,0,nan,nan,Substitution ,nan
+90881,21500727,4,2:42,nan,MISS Bennett 6' Floating Jump Shot,nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90882,21500727,4,2:41,Barton REBOUND (Off:1 Def:5),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90883,21500727,4,2:28,SUB: Miller FOR Harris,nan,nan,203914,Gary Harris,DEN,2034,Mike Miller,DEN,0,nan,nan,Substitution ,nan
+90884,21500727,4,2:24,Foye Bad Pass Turnover (P3.T19),Wright STEAL (1 STL),nan,200751,Randy Foye,DEN,1626153,Delon Wright,TOR,0,nan,nan,Turnover ,Bad Pass
+90885,21500727,4,2:18,nan,MISS Powell 3' Layup,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90886,21500727,4,2:17,Barton REBOUND (Off:1 Def:6),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90887,21500727,4,2:02,Lauvergne 1' Cutting Layup Shot (2 PTS) (Barton 3 AST),nan,83 - 108,203530,Joffrey Lauvergne,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+90888,21500727,4,1:47,Miller S.FOUL (P1.PN) (D.Jones),nan,nan,2034,Mike Miller,DEN,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+90889,21500727,4,1:47,nan,Powell Free Throw 1 of 2 (1 PTS),84 - 108,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+90890,21500727,4,1:47,nan,Powell Free Throw 2 of 2 (2 PTS),85 - 108,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+90891,21500727,4,1:30,Lauvergne 19' Jump Shot (4 PTS) (Miller 1 AST),nan,85 - 110,203530,Joffrey Lauvergne,DEN,2034,Mike Miller,DEN,0,nan,nan,Made Shot ,nan
+90892,21500727,4,1:15,nan,Joseph 25' 3PT Jump Shot (7 PTS) (Powell 1 AST),88 - 110,202709,Cory Joseph,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+90893,21500727,4,1:01,Kilpatrick 2' Driving Layup (2 PTS),nan,88 - 112,203930,Sean Kilpatrick,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+90894,21500727,4,0:37,nan,MISS Powell 16' Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90895,21500727,4,0:35,Foye REBOUND (Off:0 Def:5),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90896,21500727,4,0:17,MISS Kilpatrick 26' 3PT Step Back Jump Shot,nan,nan,203930,Sean Kilpatrick,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+90897,21500727,4,0:16,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+90898,21500727,4,0:08,nan,Wright 25' 3PT Jump Shot (6 PTS),91 - 112,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+90899,21500727,4,0:08,Miller AWAY.FROM.PLAY.FOUL (P2.PN) (M.Kogut),nan,nan,2034,Mike Miller,DEN,203461,Anthony Bennett,TOR,0,nan,nan,Foul ,Away From Play
+90900,21500727,4,0:08,Miller T.FOUL (P2.PN) (M.Kogut),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Foul ,Technical
+90901,21500727,4,0:08,nan,Bennett Free Throw Technical (3 PTS),92 - 112,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+90902,21500727,4,0:08,nan,Bennett Free Throw 1 of 1 (4 PTS),93 - 112,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+90903,21500727,4,0:00,nan,nan,93 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,96 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+42583,21500337,4,12:00,nan,nan,60 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+42584,21500337,4,11:41,nan,O'Bryant III S.FOUL (P3.T1) (M.Smith),nan,203948,Johnny O'Bryant III,MIL,201949,James Johnson,TOR,0,nan,nan,Foul ,Shooting
+42585,21500337,4,11:41,MISS Johnson Free Throw 1 of 2,nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42586,21500337,4,11:41,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+42587,21500337,4,11:41,MISS Johnson Free Throw 2 of 2,nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42588,21500337,4,11:40,nan,O'Bryant III REBOUND (Off:3 Def:3),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42589,21500337,4,11:25,nan,Middleton 3' Driving Layup (18 PTS),62 - 70,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+42590,21500337,4,11:15,nan,Carter-Williams P.FOUL (P3.T2) (B.Taylor),nan,203487,Michael Carter-Williams,MIL,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+42591,21500337,4,11:06,Scola 13' Jump Shot (12 PTS) (Joseph 3 AST),nan,62 - 72,2449,Luis Scola,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+42592,21500337,4,10:53,Ross P.FOUL (P2.T1) (J.Tiven),nan,nan,203082,Terrence Ross,TOR,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+42593,21500337,4,10:39,nan,MISS O'Bryant III 17' Jump Shot,nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42594,21500337,4,10:39,Patterson REBOUND (Off:0 Def:3),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42595,21500337,4,10:32,Johnson Lost Ball Turnover (P1.T10),O'Bryant III STEAL (1 STL),nan,201949,James Johnson,TOR,203948,Johnny O'Bryant III,MIL,0,nan,nan,Turnover ,Lost Ball
+42596,21500337,4,10:24,nan,Middleton 27' 3PT Running Jump Shot (21 PTS) (Carter-Williams 3 AST),65 - 72,203114,Khris Middleton,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Made Shot ,nan
+42597,21500337,4,10:05,Joseph 1' Driving Reverse Layup (10 PTS),nan,65 - 74,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+42598,21500337,4,9:47,nan,MISS O'Bryant III 2' Turnaround Hook Shot,nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42599,21500337,4,9:47,Scola REBOUND (Off:4 Def:4),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42600,21500337,4,9:39,Joseph OFF.Foul (P1) (J.Tiven),nan,nan,202709,Cory Joseph,TOR,203487,Michael Carter-Williams,MIL,0,nan,nan,Foul ,Offensive
+42601,21500337,4,9:39,Joseph Foul Turnover (P2.T11),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+42602,21500337,4,9:21,nan,MISS Carter-Williams 15' Jump Shot,nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42603,21500337,4,9:20,Johnson REBOUND (Off:0 Def:2),nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42604,21500337,4,8:57,Johnson 4' Cutting Layup Shot (4 PTS) (Scola 1 AST),nan,65 - 76,201949,James Johnson,TOR,2449,Luis Scola,TOR,0,nan,nan,Made Shot ,nan
+42605,21500337,4,8:57,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+42606,21500337,4,8:57,nan,nan,nan,406,Shaquille O'Neal,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+42607,21500337,4,8:57,nan,SUB: Mayo FOR O'Bryant III,nan,203948,Johnny O'Bryant III,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Substitution ,nan
+42608,21500337,4,8:45,nan,Middleton 18' Jump Shot (23 PTS),67 - 76,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+42609,21500337,4,8:19,Johnson 27' 3PT Pullup Jump Shot (7 PTS) (Scola 2 AST),nan,67 - 79,201949,James Johnson,TOR,2449,Luis Scola,TOR,0,nan,nan,Made Shot ,nan
+42610,21500337,4,8:05,Johnson P.FOUL (P4.T2) (J.Tiven),nan,nan,201949,James Johnson,TOR,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+42611,21500337,4,7:50,nan,MISS Mayo  3PT Jump Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42612,21500337,4,7:50,Patterson REBOUND (Off:0 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42613,21500337,4,7:42,Scola Lost Ball Turnover (P2.T12),Antetokounmpo STEAL (2 STL),nan,2449,Luis Scola,TOR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Lost Ball
+42614,21500337,4,7:36,nan,Antetokounmpo  Running Dunk (13 PTS) (Carter-Williams 4 AST),69 - 79,203507,Giannis Antetokounmpo,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Made Shot ,nan
+42615,21500337,4,7:18,Ross 16' Pullup Jump Shot (7 PTS),nan,69 - 81,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+42616,21500337,4,6:58,nan,MISS Middleton 3' Layup,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42617,21500337,4,6:58,nan,Henson REBOUND (Off:2 Def:2),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42618,21500337,4,6:54,nan,MISS Henson 3' Tip Layup Shot,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42619,21500337,4,6:53,nan,Henson REBOUND (Off:3 Def:2),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42620,21500337,4,6:51,nan,Henson  Tip Layup Shot (4 PTS),71 - 81,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+42621,21500337,4,6:34,Ross Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+42622,21500337,4,6:34,SUB: Lowry FOR Ross,nan,nan,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+42623,21500337,4,6:34,SUB: Biyombo FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+42624,21500337,4,6:34,SUB: DeRozan FOR Johnson,nan,nan,201949,James Johnson,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+42625,21500337,4,6:14,nan,Henson 5' Turnaround Hook Shot (6 PTS) (Middleton 3 AST),73 - 81,203089,John Henson,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+42626,21500337,4,5:48,MISS DeRozan 17' Pullup Jump Shot,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42627,21500337,4,5:47,nan,Middleton REBOUND (Off:0 Def:3),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42628,21500337,4,5:44,Joseph Shooting Block Foul (P2.T3) (J.Tiven),nan,nan,202709,Cory Joseph,TOR,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting Block
+42629,21500337,4,5:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+42630,21500337,4,5:44,SUB: Patterson FOR Scola,nan,nan,2449,Luis Scola,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Substitution ,nan
+42631,21500337,4,5:44,nan,Middleton Free Throw 1 of 2 (24 PTS),74 - 81,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42632,21500337,4,5:44,nan,Middleton Free Throw 2 of 2 (25 PTS),75 - 81,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42633,21500337,4,5:24,MISS Lowry 25' 3PT Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42634,21500337,4,5:24,nan,Antetokounmpo REBOUND (Off:2 Def:5),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42635,21500337,4,5:12,nan,Antetokounmpo  Alley Oop Dunk (15 PTS) (Carter-Williams 5 AST),77 - 81,203507,Giannis Antetokounmpo,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Made Shot ,nan
+42636,21500337,4,4:47,Joseph 25' 3PT Jump Shot (13 PTS) (Patterson 2 AST),nan,77 - 84,202709,Cory Joseph,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+42637,21500337,4,4:30,DeRozan STEAL (2 STL),Middleton Lost Ball Turnover (P1.T13),nan,203114,Khris Middleton,MIL,201942,DeMar DeRozan,TOR,0,nan,nan,Turnover ,Lost Ball
+42638,21500337,4,4:07,MISS Joseph 3' Driving Layup,Carter-Williams BLOCK (1 BLK),nan,202709,Cory Joseph,TOR,0,nan,nan,203487,Michael Carter-Williams,MIL,Missed Shot ,nan
+42639,21500337,4,4:07,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42640,21500337,4,4:07,MISS DeRozan 14' Floating Jump Shot,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42641,21500337,4,4:06,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42642,21500337,4,4:06,RAPTORS Turnover: Shot Clock (T#14),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+42643,21500337,4,3:45,nan,MISS Antetokounmpo 26' 3PT Jump Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42644,21500337,4,3:45,Biyombo REBOUND (Off:2 Def:6),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42645,21500337,4,3:23,MISS Patterson 13' Turnaround Jump Shot,nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42646,21500337,4,3:22,Patterson REBOUND (Off:1 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42647,21500337,4,3:15,nan,Henson S.FOUL (P1.T3) (J.Tiven),nan,203089,John Henson,MIL,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+42648,21500337,4,3:15,DeRozan Free Throw 1 of 2 (24 PTS),nan,77 - 85,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42649,21500337,4,3:15,nan,SUB: Monroe FOR Henson,nan,203089,John Henson,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+42650,21500337,4,3:15,DeRozan Free Throw 2 of 2 (25 PTS),nan,77 - 86,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42651,21500337,4,3:04,nan,Mayo 21' Jump Shot (6 PTS) (Carter-Williams 6 AST),79 - 86,201564,O.J. Mayo,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Made Shot ,nan
+42652,21500337,4,2:48,Lowry OFF.Foul (P3) (J.Tiven),nan,nan,200768,Kyle Lowry,TOR,203487,Michael Carter-Williams,MIL,0,nan,nan,Foul ,Offensive
+42653,21500337,4,2:48,Lowry Foul Turnover (P5.T15),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+42654,21500337,4,2:48,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+42655,21500337,4,2:29,Lowry BLOCK (2 BLK),MISS Mayo 18' Pullup Jump Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,200768,Kyle Lowry,TOR,Missed Shot ,nan
+42656,21500337,4,2:29,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42657,21500337,4,2:26,nan,Carter-Williams Offensive Goaltending Turnover (P2.T14),nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+42658,21500337,4,2:10,MISS DeRozan 3' Driving Floating Jump Shot,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42659,21500337,4,2:09,nan,Carter-Williams REBOUND (Off:0 Def:3),nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42660,21500337,4,2:00,Biyombo STEAL (1 STL),Carter-Williams Bad Pass Turnover (P3.T15),nan,203487,Michael Carter-Williams,MIL,202687,Bismack Biyombo,TOR,0,nan,nan,Turnover ,Bad Pass
+42661,21500337,4,1:57,Biyombo Bad Pass Turnover (P3.T16),Monroe STEAL (3 STL),nan,202687,Bismack Biyombo,TOR,202328,Greg Monroe,MIL,0,nan,nan,Turnover ,Bad Pass
+42662,21500337,4,1:53,nan,Mayo 26' 3PT Running Pull-Up Jump Shot (9 PTS) (Monroe 2 AST),82 - 86,201564,O.J. Mayo,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+42663,21500337,4,1:42,DeRozan 19' Pullup Jump Shot (27 PTS),nan,82 - 88,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+42664,21500337,4,1:25,Patterson S.FOUL (P2.T4) (B.Taylor),nan,nan,202335,Patrick Patterson,TOR,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+42665,21500337,4,1:25,nan,Middleton Free Throw 1 of 2 (26 PTS),83 - 88,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42666,21500337,4,1:25,nan,MISS Middleton Free Throw 2 of 2,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42667,21500337,4,1:24,Patterson REBOUND (Off:1 Def:5),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42668,21500337,4,1:04,Biyombo OFF.Foul (P4) (J.Tiven),nan,nan,202687,Bismack Biyombo,TOR,201564,O.J. Mayo,MIL,0,nan,nan,Foul ,Offensive
+42669,21500337,4,1:04,Biyombo Foul Turnover (P4.T17),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+42670,21500337,4,0:45,nan,MISS Antetokounmpo 4' Turnaround Hook Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42671,21500337,4,0:44,Biyombo REBOUND (Off:2 Def:7),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42672,21500337,4,0:24,Lowry 2' Driving Layup (12 PTS),nan,83 - 90,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+42673,21500337,4,0:24,nan,Bucks Timeout: Regular (Reg.5 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+42674,21500337,4,0:15,nan,MISS Mayo 13' Driving Bank Hook Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42675,21500337,4,0:14,Lowry REBOUND (Off:0 Def:7),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42676,21500337,4,0:13,nan,Antetokounmpo P.FOUL (P3.T4) (M.Smith),nan,203507,Giannis Antetokounmpo,MIL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+42677,21500337,4,0:00,nan,nan,83 - 90,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

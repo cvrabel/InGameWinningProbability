@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+47840,21500381,4,12:00,nan,nan,65 - 105,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+47841,21500381,4,11:45,Livingston STEAL (1 STL),Teletovic Lost Ball Turnover (P2.T19),nan,203141,Mirza Teletovic,PHX,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Lost Ball
+47842,21500381,4,11:27,nan,Warren S.FOUL (P1.T1) (B.Kennedy),nan,203933,TJ Warren,PHX,203105,Festus Ezeli,GSW,0,nan,nan,Foul ,Shooting
+47843,21500381,4,11:27,MISS Ezeli Free Throw 1 of 2,nan,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47844,21500381,4,11:27,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47845,21500381,4,11:27,Ezeli Free Throw 2 of 2 (7 PTS),nan,65 - 106,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47846,21500381,4,11:13,nan,Teletovic 16' Fadeaway Jumper (17 PTS) (Goodwin 1 AST),67 - 106,203141,Mirza Teletovic,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+47847,21500381,4,10:59,MISS Speights 3' Jump Shot,Warren BLOCK (2 BLK),nan,201578,Marreese Speights,GSW,0,nan,nan,203933,TJ Warren,PHX,Missed Shot ,nan
+47848,21500381,4,10:58,nan,Goodwin REBOUND (Off:0 Def:1),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47849,21500381,4,10:54,nan,Knight 1' Driving Layup (17 PTS) (Goodwin 2 AST),69 - 106,202688,Brandon Knight,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+47850,21500381,4,10:32,nan,Warren S.FOUL (P2.T2) (B.Kennedy),nan,203933,TJ Warren,PHX,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+47851,21500381,4,10:32,Speights Free Throw 1 of 2 (1 PTS),nan,69 - 107,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47852,21500381,4,10:32,SUB: Rush FOR Ezeli,nan,nan,203105,Festus Ezeli,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+47853,21500381,4,10:32,Speights Free Throw 2 of 2 (2 PTS),nan,69 - 108,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47854,21500381,4,10:20,nan,Goodwin 2' Driving Layup (2 PTS) (Teletovic 2 AST),71 - 108,203462,Archie Goodwin,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Made Shot ,nan
+47855,21500381,4,10:13,Barbosa 1' Driving Layup (4 PTS),nan,71 - 110,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+47856,21500381,4,9:58,nan,Teletovic 1' Finger Roll Layup (19 PTS) (Knight 2 AST),73 - 110,203141,Mirza Teletovic,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+47857,21500381,4,9:47,MISS Livingston 9' Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47858,21500381,4,9:46,Speights REBOUND (Off:1 Def:0),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47859,21500381,4,9:44,Speights 4' Jump Bank Shot (4 PTS),nan,73 - 112,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+47860,21500381,4,9:33,nan,MISS Goodwin 28' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47861,21500381,4,9:32,Livingston REBOUND (Off:0 Def:2),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47862,21500381,4,9:27,MISS Barbosa 26' 3PT Jump Shot,nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47863,21500381,4,9:26,nan,Teletovic REBOUND (Off:1 Def:2),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47864,21500381,4,9:13,nan,Teletovic 27' 3PT Jump Shot (22 PTS) (Warren 2 AST),76 - 112,203141,Mirza Teletovic,PHX,203933,TJ Warren,PHX,0,nan,nan,Made Shot ,nan
+47865,21500381,4,8:55,Speights OFF.Foul (P1) (D.Collins),nan,nan,201578,Marreese Speights,GSW,203141,Mirza Teletovic,PHX,0,nan,nan,Foul ,Offensive
+47866,21500381,4,8:55,Speights Foul Turnover (P1.T14),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+47867,21500381,4,8:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+47868,21500381,4,8:37,Speights S.FOUL (P2.T1) (T.Maddox),nan,nan,201578,Marreese Speights,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+47869,21500381,4,8:37,nan,Goodwin Free Throw 1 of 2 (3 PTS),77 - 112,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47870,21500381,4,8:37,nan,Goodwin Free Throw 2 of 2 (4 PTS),78 - 112,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47871,21500381,4,8:19,MISS Barbosa 25' 3PT Jump Shot,nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47872,21500381,4,8:18,nan,Teletovic REBOUND (Off:1 Def:3),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47873,21500381,4,8:09,Livingston BLOCK (1 BLK),MISS Knight 4' Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,2733,Shaun Livingston,GSW,Missed Shot ,nan
+47874,21500381,4,8:08,Iguodala REBOUND (Off:1 Def:4),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47875,21500381,4,7:58,MISS Livingston  3PT Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47876,21500381,4,7:58,nan,Goodwin REBOUND (Off:0 Def:2),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47877,21500381,4,7:52,nan,Goodwin OFF.Foul (P1) (B.Kennedy),nan,203462,Archie Goodwin,PHX,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Offensive
+47878,21500381,4,7:52,nan,Goodwin Foul Turnover (P1.T20),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+47879,21500381,4,7:37,Speights 2' Driving Layup (6 PTS) (Rush 2 AST),nan,78 - 114,201578,Marreese Speights,GSW,201575,Brandon Rush,GSW,0,nan,nan,Made Shot ,nan
+47880,21500381,4,7:17,nan,Teletovic 2' Layup (24 PTS) (Bledsoe 8 AST),80 - 114,203141,Mirza Teletovic,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+47881,21500381,4,7:02,Iguodala 8' Turnaround Bank Shot (2 PTS),nan,80 - 116,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+47882,21500381,4,7:02,nan,Teletovic S.FOUL (P2.T3) (B.Kennedy),nan,203141,Mirza Teletovic,PHX,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Shooting
+47883,21500381,4,7:02,Iguodala Free Throw 1 of 1 (3 PTS),nan,80 - 117,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+47884,21500381,4,6:44,Barbosa STEAL (2 STL),Goodwin Bad Pass Turnover (P2.T21),nan,203462,Archie Goodwin,PHX,2571,Leandro Barbosa,GSW,0,nan,nan,Turnover ,Bad Pass
+47885,21500381,4,6:38,Iguodala 2' Driving Layup (5 PTS) (Barbosa 3 AST),nan,80 - 119,2738,Andre Iguodala,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+47886,21500381,4,6:26,nan,MISS Goodwin 25' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47887,21500381,4,6:26,nan,Warren REBOUND (Off:1 Def:5),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47888,21500381,4,6:21,nan,Warren 12' Jump Shot (13 PTS),82 - 119,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+47889,21500381,4,6:20,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+47890,21500381,4,6:20,nan,SUB: Price FOR Knight,nan,202688,Brandon Knight,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+47891,21500381,4,6:20,nan,SUB: Weems FOR Bledsoe,nan,202339,Eric Bledsoe,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+47892,21500381,4,6:20,nan,SUB: Len FOR Teletovic,nan,203141,Mirza Teletovic,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+47893,21500381,4,6:20,SUB: Clark FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+47894,21500381,4,6:02,Speights  Driving Dunk (8 PTS) (Livingston 4 AST),nan,82 - 121,201578,Marreese Speights,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+47895,21500381,4,5:40,nan,MISS Warren 11' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47896,21500381,4,5:39,Clark REBOUND (Off:0 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47897,21500381,4,5:30,MISS Speights 19' Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47898,21500381,4,5:29,nan,Goodwin REBOUND (Off:0 Def:3),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47899,21500381,4,5:11,nan,MISS Price 18' Jump Shot,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47900,21500381,4,5:10,nan,Price REBOUND (Off:1 Def:1),nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47901,21500381,4,5:04,nan,Warren 18' Jump Shot (15 PTS) (Price 1 AST),84 - 121,203933,TJ Warren,PHX,101179,Ronnie Price,PHX,0,nan,nan,Made Shot ,nan
+47902,21500381,4,4:39,Clark 15' Floating Jump Shot (2 PTS),nan,84 - 123,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+47903,21500381,4,4:14,nan,MISS Len 14' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47904,21500381,4,4:12,nan,Warren REBOUND (Off:2 Def:5),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47905,21500381,4,4:12,nan,Warren 1' Tip Layup Shot (17 PTS),86 - 123,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+47906,21500381,4,4:06,WARRIORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+47907,21500381,4,4:06,SUB: McAdoo FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+47908,21500381,4,4:06,SUB: Thompson FOR Barbosa,nan,nan,2571,Leandro Barbosa,GSW,201574,Jason Thompson,GSW,0,nan,nan,Substitution ,nan
+47909,21500381,4,3:54,MISS Clark 24' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47910,21500381,4,3:53,nan,Goodwin REBOUND (Off:0 Def:4),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47911,21500381,4,3:47,nan,Goodwin 2' Running Layup (6 PTS),88 - 123,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+47912,21500381,4,3:34,MISS Rush 17' Jump Shot,nan,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47913,21500381,4,3:32,nan,Price REBOUND (Off:1 Def:2),nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47914,21500381,4,3:31,Speights P.FOUL (P3.T2) (T.Maddox),nan,nan,201578,Marreese Speights,GSW,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Personal
+47915,21500381,4,3:31,nan,nan,nan,474,Stefano Rusconi,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+47916,21500381,4,3:08,nan,Price 26' 3PT Pullup Jump Shot (6 PTS) (Warren 3 AST),91 - 123,101179,Ronnie Price,PHX,203933,TJ Warren,PHX,0,nan,nan,Made Shot ,nan
+47917,21500381,4,3:08,Speights S.FOUL (P4.T3) (D.Collins),nan,nan,201578,Marreese Speights,GSW,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Shooting
+47918,21500381,4,3:08,nan,Price Free Throw 1 of 1 (7 PTS),92 - 123,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+47919,21500381,4,2:56,nan,Weems P.FOUL (P1.T4) (D.Collins),nan,201603,Sonny Weems,PHX,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Personal
+47920,21500381,4,2:48,MISS Speights 19' Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47921,21500381,4,2:47,nan,Goodwin REBOUND (Off:0 Def:5),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47922,21500381,4,2:39,nan,Len 14' Turnaround Fadeaway (4 PTS) (Goodwin 3 AST),94 - 123,203458,Alex Len,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+47923,21500381,4,2:29,nan,Warren P.FOUL (P3.PN) (B.Kennedy),nan,203933,TJ Warren,PHX,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Personal
+47924,21500381,4,2:29,MISS Speights Free Throw 1 of 2,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47925,21500381,4,2:29,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47926,21500381,4,2:29,Speights Free Throw 2 of 2 (9 PTS),nan,94 - 124,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47927,21500381,4,2:21,nan,Goodwin 16' Jump Shot (8 PTS) (Weems 1 AST),96 - 124,203462,Archie Goodwin,PHX,201603,Sonny Weems,PHX,0,nan,nan,Made Shot ,nan
+47928,21500381,4,2:05,Speights Bad Pass Turnover (P2.T15),Warren STEAL (1 STL),nan,201578,Marreese Speights,GSW,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Bad Pass
+47929,21500381,4,1:57,nan,Len  Dunk (6 PTS) (Goodwin 4 AST),98 - 124,203458,Alex Len,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+47930,21500381,4,1:46,MISS Speights 5' Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47931,21500381,4,1:43,Speights REBOUND (Off:2 Def:0),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47932,21500381,4,1:35,McAdoo 6' Jump Bank Shot (2 PTS) (Clark 1 AST),nan,98 - 126,203949,James Michael McAdoo,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+47933,21500381,4,1:22,nan,MISS Len 15' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47934,21500381,4,1:22,Thompson REBOUND (Off:0 Def:1),nan,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47935,21500381,4,1:03,MISS Rush 20' Jump Shot,nan,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47936,21500381,4,1:02,nan,Warren REBOUND (Off:2 Def:6),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47937,21500381,4,0:58,Rush S.FOUL (P2.T4) (B.Kennedy),nan,nan,201575,Brandon Rush,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+47938,21500381,4,0:58,nan,Goodwin Free Throw 1 of 2 (9 PTS),99 - 126,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47939,21500381,4,0:58,nan,MISS Goodwin Free Throw 2 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47940,21500381,4,0:57,Thompson REBOUND (Off:0 Def:2),nan,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47941,21500381,4,0:46,Clark Bad Pass Turnover (P1.T16),Price STEAL (3 STL),nan,203546,Ian Clark,GSW,101179,Ronnie Price,PHX,0,nan,nan,Turnover ,Bad Pass
+47942,21500381,4,0:45,Speights P.FOUL (P5.PN) (B.Kennedy),nan,nan,201578,Marreese Speights,GSW,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Personal
+47943,21500381,4,0:45,nan,Price Free Throw 1 of 2 (8 PTS),100 - 126,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47944,21500381,4,0:45,nan,Price Free Throw 2 of 2 (9 PTS),101 - 126,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47945,21500381,4,0:32,Clark Bad Pass Turnover (P2.T17),Goodwin STEAL (1 STL),nan,203546,Ian Clark,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Turnover ,Bad Pass
+47946,21500381,4,0:28,nan,Warren  Driving Dunk (19 PTS) (Price 2 AST),103 - 126,203933,TJ Warren,PHX,101179,Ronnie Price,PHX,0,nan,nan,Made Shot ,nan
+47947,21500381,4,0:19,nan,Price P.FOUL (P2.PN) (B.Kennedy),nan,101179,Ronnie Price,PHX,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Personal
+47948,21500381,4,0:19,Speights Free Throw 1 of 2 (10 PTS),nan,103 - 127,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47949,21500381,4,0:19,Speights Free Throw 2 of 2 (11 PTS),nan,103 - 128,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47950,21500381,4,0:09,nan,MISS Goodwin 24' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47951,21500381,4,0:09,Thompson REBOUND (Off:0 Def:3),nan,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47952,21500381,4,0:00,nan,nan,103 - 128,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

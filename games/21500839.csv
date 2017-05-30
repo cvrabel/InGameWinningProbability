@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+105178,21500839,4,12:00,nan,nan,61 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+105179,21500839,4,11:43,Aldrich 2' Layup (6 PTS) (W. Johnson 1 AST),nan,61 - 92,202332,Cole Aldrich,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Made Shot ,nan
+105180,21500839,4,11:27,Aldrich BLOCK (3 BLK),MISS Goodwin 3' Layup,nan,203462,Archie Goodwin,PHX,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+105181,21500839,4,11:26,nan,Teletovic REBOUND (Off:1 Def:4),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105182,21500839,4,11:21,nan,MISS Goodwin 24' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105183,21500839,4,11:20,nan,Weems REBOUND (Off:1 Def:0),nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105184,21500839,4,11:14,nan,Goodwin 2' Layup (14 PTS) (Teletovic 1 AST),63 - 92,203462,Archie Goodwin,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Made Shot ,nan
+105185,21500839,4,11:14,W. Johnson AWAY.FROM.PLAY.FOUL (P2.T1) (B.Adams),nan,nan,202325,Wesley Johnson,LAC,203458,Alex Len,PHX,0,nan,nan,Foul ,Away From Play
+105186,21500839,4,11:14,nan,Len Free Throw 1 of 1 (14 PTS),64 - 92,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+105187,21500839,4,10:59,Prigioni 13' Turnaround Jump Shot (3 PTS),nan,64 - 94,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+105188,21500839,4,10:42,Jump Ball W. Johnson vs. Goodwin: Tip to Crawford,nan,nan,202325,Wesley Johnson,LAC,203462,Archie Goodwin,PHX,2037,Jamal Crawford,LAC,Jump Ball ,nan
+105189,21500839,4,10:42,W. Johnson STEAL (2 STL),Weems Bad Pass Turnover (P1.T15),nan,201603,Sonny Weems,PHX,202325,Wesley Johnson,LAC,0,nan,nan,Turnover ,Bad Pass
+105190,21500839,4,10:32,MISS Crawford 26' 3PT Pullup Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105191,21500839,4,10:28,Aldrich REBOUND (Off:3 Def:1),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105192,21500839,4,10:28,Aldrich Poss Lost Ball Turnover (P3.T13),Goodwin STEAL (1 STL),nan,202332,Cole Aldrich,LAC,203462,Archie Goodwin,PHX,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+105193,21500839,4,10:28,Green S.FOUL (P1.T2) (T.Ford),nan,nan,201145,Jeff Green,LAC,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+105194,21500839,4,10:28,nan,Goodwin Free Throw 1 of 2 (15 PTS),65 - 94,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105195,21500839,4,10:28,SUB: Wilcox FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,203912,CJ Wilcox,LAC,0,nan,nan,Substitution ,nan
+105196,21500839,4,10:28,nan,Goodwin Free Throw 2 of 2 (16 PTS),66 - 94,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105197,21500839,4,10:08,W. Johnson 24' 3PT Fadeaway Jumper (8 PTS) (Prigioni 1 AST),nan,66 - 97,202325,Wesley Johnson,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+105198,21500839,4,10:00,Wilcox STEAL (1 STL),Goodwin Lost Ball Turnover (P3.T16),nan,203462,Archie Goodwin,PHX,203912,CJ Wilcox,LAC,0,nan,nan,Turnover ,Lost Ball
+105199,21500839,4,9:54,Aldrich Traveling Turnover (P4.T14),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+105200,21500839,4,9:38,nan,MISS Len 4' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105201,21500839,4,9:37,Aldrich REBOUND (Off:3 Def:2),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105202,21500839,4,9:25,Wilcox 13' Pullup Jump Shot (2 PTS) (Aldrich 1 AST),nan,66 - 99,203912,CJ Wilcox,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Made Shot ,nan
+105203,21500839,4,9:17,nan,MISS Pressey 5' Floating Jump Shot,nan,203515,Phil Pressey,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105204,21500839,4,9:14,Aldrich REBOUND (Off:3 Def:3),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105205,21500839,4,9:03,Aldrich 3' Cutting Layup Shot (8 PTS) (Prigioni 2 AST),nan,66 - 101,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+105206,21500839,4,9:02,nan,Suns Timeout: Regular (Reg.5 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105207,21500839,4,9:02,nan,SUB: Price FOR Len,nan,203458,Alex Len,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+105208,21500839,4,9:02,nan,SUB: Leuer FOR Pressey,nan,203515,Phil Pressey,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+105209,21500839,4,8:49,Prigioni S.FOUL (P1.T3) (T.Ford),nan,nan,203143,Pablo Prigioni,LAC,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+105210,21500839,4,8:49,nan,Goodwin Free Throw 1 of 2 (17 PTS),67 - 101,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105211,21500839,4,8:49,nan,Goodwin Free Throw 2 of 2 (18 PTS),68 - 101,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105212,21500839,4,8:28,Green 28' 3PT Jump Shot (9 PTS) (W. Johnson 2 AST),nan,68 - 104,201145,Jeff Green,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Made Shot ,nan
+105213,21500839,4,8:08,nan,Price 10' Pullup Jump Shot (8 PTS),70 - 104,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+105214,21500839,4,7:45,W. Johnson 25' 3PT Jump Shot (11 PTS) (Green 1 AST),nan,70 - 107,202325,Wesley Johnson,LAC,201145,Jeff Green,LAC,0,nan,nan,Made Shot ,nan
+105215,21500839,4,7:30,nan,MISS Price 16' Step Back Jump Shot,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105216,21500839,4,7:27,Aldrich REBOUND (Off:3 Def:4),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105217,21500839,4,7:12,Prigioni Lost Ball Turnover (P3.T15),Price STEAL (2 STL),nan,203143,Pablo Prigioni,LAC,101179,Ronnie Price,PHX,0,nan,nan,Turnover ,Lost Ball
+105218,21500839,4,7:09,nan,Price 2' Driving Layup (10 PTS),72 - 107,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+105219,21500839,4,6:55,MISS W. Johnson 26' 3PT Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105220,21500839,4,6:54,nan,Teletovic REBOUND (Off:1 Def:5),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105221,21500839,4,6:43,nan,MISS Goodwin 27' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105222,21500839,4,6:42,Green REBOUND (Off:0 Def:5),nan,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105223,21500839,4,6:28,Wilcox 26' 3PT Jump Shot (5 PTS) (Green 2 AST),nan,72 - 110,203912,CJ Wilcox,LAC,201145,Jeff Green,LAC,0,nan,nan,Made Shot ,nan
+105224,21500839,4,6:16,nan,MISS Leuer 18' Jump Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105225,21500839,4,6:15,Aldrich REBOUND (Off:3 Def:5),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105226,21500839,4,6:07,nan,Leuer S.FOUL (P4.T1) (B.Adams),nan,202720,Jon Leuer,PHX,201145,Jeff Green,LAC,0,nan,nan,Foul ,Shooting
+105227,21500839,4,6:07,Green Free Throw 1 of 2 (10 PTS),nan,72 - 111,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105228,21500839,4,6:07,nan,SUB: Booker FOR Weems,nan,201603,Sonny Weems,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+105229,21500839,4,6:07,nan,SUB: Len FOR Teletovic,nan,203141,Mirza Teletovic,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+105230,21500839,4,6:07,SUB: Stepheson FOR Aldrich,nan,nan,202332,Cole Aldrich,LAC,1627293,Alex Stepheson,LAC,0,nan,nan,Substitution ,nan
+105231,21500839,4,6:07,Green Free Throw 2 of 2 (11 PTS),nan,72 - 112,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105232,21500839,4,5:54,Green BLOCK (1 BLK),MISS Goodwin 4' Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,201145,Jeff Green,LAC,Missed Shot ,nan
+105233,21500839,4,5:52,nan,Leuer REBOUND (Off:1 Def:3),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105234,21500839,4,5:51,nan,Leuer 2' Layup (4 PTS),74 - 112,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+105235,21500839,4,5:49,nan,Booker P.FOUL (P6.T2) (T.Ford),nan,1626164,Devin Booker,PHX,203912,CJ Wilcox,LAC,0,nan,nan,Foul ,Personal
+105236,21500839,4,5:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+105237,21500839,4,5:49,nan,SUB: Pressey FOR Booker,nan,1626164,Devin Booker,PHX,203515,Phil Pressey,PHX,0,nan,nan,Substitution ,nan
+105238,21500839,4,5:49,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105239,21500839,4,5:38,MISS Wilcox 25' 3PT Jump Shot,nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105240,21500839,4,5:37,nan,Leuer REBOUND (Off:1 Def:4),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105241,21500839,4,5:14,nan,MISS Len 8' Hook Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105242,21500839,4,5:12,Prigioni REBOUND (Off:1 Def:3),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105243,21500839,4,5:02,Green 4' Driving Bank Shot (13 PTS) (Prigioni 3 AST),nan,74 - 114,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+105244,21500839,4,4:39,nan,Goodwin 18' Step Back Jump Shot (20 PTS),76 - 114,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+105245,21500839,4,4:24,MISS Wilcox 20' Jump Shot,nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105246,21500839,4,4:23,nan,Len REBOUND (Off:4 Def:4),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105247,21500839,4,4:11,Prigioni P.FOUL (P2.T4) (K.Mauer),nan,nan,203143,Pablo Prigioni,LAC,203515,Phil Pressey,PHX,0,nan,nan,Foul ,Personal
+105248,21500839,4,4:01,nan,MISS Len 18' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105249,21500839,4,4:00,W. Johnson REBOUND (Off:1 Def:7),nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105250,21500839,4,3:53,MISS Wilcox 11' Floating Jump Shot,nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105251,21500839,4,3:51,Stepheson REBOUND (Off:1 Def:0),nan,nan,1627293,Alex Stepheson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105252,21500839,4,3:51,Stepheson 1' Tip Layup Shot (2 PTS),nan,76 - 116,1627293,Alex Stepheson,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+105253,21500839,4,3:40,Wilcox STEAL (2 STL),Pressey Bad Pass Turnover (P3.T17),nan,203515,Phil Pressey,PHX,203912,CJ Wilcox,LAC,0,nan,nan,Turnover ,Bad Pass
+105254,21500839,4,3:30,nan,Len P.FOUL (P6.T3) (K.Mauer),nan,203458,Alex Len,PHX,1627293,Alex Stepheson,LAC,0,nan,nan,Foul ,Personal
+105255,21500839,4,3:30,nan,SUB: Weems FOR Len,nan,203458,Alex Len,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+105256,21500839,4,3:15,CLIPPERS Turnover: Shot Clock (T#16),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+105257,21500839,4,3:06,nan,MISS Leuer 15' Jump Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105258,21500839,4,3:04,Prigioni REBOUND (Off:1 Def:4),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105259,21500839,4,2:56,Green 25' 3PT Jump Shot (16 PTS) (Prigioni 4 AST),nan,76 - 119,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+105260,21500839,4,2:34,Stepheson BLOCK (1 BLK),MISS Leuer 4' Jump Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,1627293,Alex Stepheson,LAC,Missed Shot ,nan
+105261,21500839,4,2:32,nan,Price REBOUND (Off:1 Def:2),nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105262,21500839,4,2:28,nan,MISS Goodwin 25' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105263,21500839,4,2:28,nan,Price REBOUND (Off:2 Def:2),nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105264,21500839,4,2:28,nan,Suns Turnover: Shot Clock (T#18),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+105265,21500839,4,2:19,Wilcox Bad Pass Turnover (P1.T17),Leuer STEAL (1 STL),nan,203912,CJ Wilcox,LAC,202720,Jon Leuer,PHX,0,nan,nan,Turnover ,Bad Pass
+105266,21500839,4,2:15,Stepheson S.FOUL (P3.PN) (K.Mauer),nan,nan,1627293,Alex Stepheson,LAC,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+105267,21500839,4,2:15,nan,Leuer Free Throw 1 of 2 (5 PTS),77 - 119,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105268,21500839,4,2:15,nan,Leuer Free Throw 2 of 2 (6 PTS),78 - 119,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105269,21500839,4,2:03,MISS Wilcox 2' Driving Layup,nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105270,21500839,4,2:01,nan,Price REBOUND (Off:2 Def:3),nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105271,21500839,4,1:53,nan,Weems 14' Pullup Jump Shot (2 PTS) (Pressey 10 AST),80 - 119,201603,Sonny Weems,PHX,203515,Phil Pressey,PHX,0,nan,nan,Made Shot ,nan
+105272,21500839,4,1:33,Prigioni 25' 3PT Jump Shot (6 PTS) (Wilcox 1 AST),nan,80 - 122,203143,Pablo Prigioni,LAC,203912,CJ Wilcox,LAC,0,nan,nan,Made Shot ,nan
+105273,21500839,4,1:23,nan,Leuer 19' Jump Shot (8 PTS) (Price 3 AST),82 - 122,202720,Jon Leuer,PHX,101179,Ronnie Price,PHX,0,nan,nan,Made Shot ,nan
+105274,21500839,4,1:12,Green 5' Finger Roll Layup (18 PTS) (Prigioni 5 AST),nan,82 - 124,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+105275,21500839,4,0:55,nan,Price 12' Pullup Jump Shot (12 PTS),84 - 124,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+105276,21500839,4,0:40,MISS Wilcox 25' 3PT Jump Shot,nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105277,21500839,4,0:38,nan,Leuer REBOUND (Off:1 Def:5),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105278,21500839,4,0:30,nan,MISS Goodwin 24' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105279,21500839,4,0:28,Prigioni REBOUND (Off:1 Def:5),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105280,21500839,4,0:05,CLIPPERS Turnover: Shot Clock (T#18),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+105281,21500839,4,0:00,nan,MISS Pressey 28' 3PT Jump Shot,nan,203515,Phil Pressey,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105282,21500839,4,0:00,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105283,21500839,4,0:00,nan,nan,84 - 124,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

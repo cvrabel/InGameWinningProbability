@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+233490,21600651,4,12:00,nan,nan,82 - 98,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+233491,21600651,4,11:49,Smith Bad Pass Turnover (P2.T16),Mark Morris STEAL (2 STL),nan,202397,Ish Smith,DET,202693,Markieff Morris,WAS,0,nan,nan,Turnover ,Bad Pass
+233492,21600651,4,11:49,Bullock P.FOUL (P4.T1) (M.Ervin),nan,nan,203493,Reggie Bullock,DET,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Personal
+233493,21600651,4,11:38,nan,MISS Smith 19' Jump Shot,nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233494,21600651,4,11:37,nan,Mark Morris REBOUND (Off:3 Def:2),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233495,21600651,4,11:32,nan,Burke 24' 3PT Jump Shot (3 PTS) (Mark Morris 2 AST),85 - 98,203504,Trey Burke,WAS,202693,Markieff Morris,WAS,0,nan,nan,Made Shot ,nan
+233496,21600651,4,11:18,nan,Mark Morris S.FOUL (P4.T1) (M.Ervin),nan,202693,Markieff Morris,WAS,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+233497,21600651,4,11:18,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+233498,21600651,4,11:18,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+233499,21600651,4,11:18,MISS Drummond Free Throw 2 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+233500,21600651,4,11:17,nan,McClellan REBOUND (Off:0 Def:1),nan,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233501,21600651,4,10:54,nan,Oubre Jr. 13' Jump Shot (6 PTS) (Burke 2 AST),87 - 98,1626162,Kelly Oubre Jr.,WAS,203504,Trey Burke,WAS,0,nan,nan,Made Shot ,nan
+233502,21600651,4,10:37,nan,Mark Morris P.FOUL (P5.T2) (M.Ervin),nan,202693,Markieff Morris,WAS,202397,Ish Smith,DET,0,nan,nan,Foul ,Personal
+233503,21600651,4,10:24,MISS Smith 21' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233504,21600651,4,10:24,nan,Mark Morris REBOUND (Off:3 Def:3),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233505,21600651,4,10:12,Drummond S.FOUL (P5.T2) (D.Guthrie),nan,nan,203083,Andre Drummond,DET,201160,Jason Smith,WAS,0,nan,nan,Foul ,Shooting
+233506,21600651,4,10:12,nan,Smith Free Throw 1 of 2 (13 PTS),88 - 98,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+233507,21600651,4,10:12,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+233508,21600651,4,10:12,nan,Smith Free Throw 2 of 2 (14 PTS),89 - 98,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+233509,21600651,4,9:57,Smith 1' Driving Layup (9 PTS),nan,89 - 100,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+233510,21600651,4,9:48,Baynes Violation:Defensive Goaltending (D.Guthrie),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+233511,21600651,4,9:48,nan,Burke 1' Driving Layup (5 PTS),91 - 100,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+233512,21600651,4,9:35,MISS Smith 6' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233513,21600651,4,9:35,nan,Mark Morris REBOUND (Off:3 Def:4),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233514,21600651,4,9:29,Johnson BLOCK (1 BLK),MISS McClellan 1' Layup,nan,1627815,Sheldon McClellan,WAS,0,nan,nan,1626169,Stanley Johnson,DET,Missed Shot ,nan
+233515,21600651,4,9:28,nan,Smith REBOUND (Off:1 Def:3),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233516,21600651,4,9:24,nan,Smith 1' Layup (16 PTS),93 - 100,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+233517,21600651,4,9:24,PISTONS Timeout: Regular (Full 3 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+233518,21600651,4,9:24,SUB: Jackson FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+233519,21600651,4,9:24,SUB: Harris FOR Smith,nan,nan,202397,Ish Smith,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+233520,21600651,4,9:05,Baynes 4' Hook Shot (9 PTS) (Jackson 8 AST),nan,93 - 102,203382,Aron Baynes,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+233521,21600651,4,8:46,Leuer BLOCK (1 BLK),MISS Mark Morris 7' Jump Shot,nan,202693,Markieff Morris,WAS,0,nan,nan,202720,Jon Leuer,DET,Missed Shot ,nan
+233522,21600651,4,8:46,nan,Burke REBOUND (Off:1 Def:0),nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233523,21600651,4,8:42,nan,Burke 16' Jump Shot (7 PTS),95 - 102,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+233524,21600651,4,8:27,MISS Leuer 8' Hook Shot,nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233525,21600651,4,8:25,nan,McClellan REBOUND (Off:0 Def:2),nan,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233526,21600651,4,8:19,nan,MISS Burke 19' Jump Shot,nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233527,21600651,4,8:19,Harris REBOUND (Off:0 Def:7),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233528,21600651,4,8:05,Jackson 11' Jump Shot (17 PTS),nan,95 - 104,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+233529,21600651,4,7:49,nan,MISS Oubre Jr. 6' Jump Shot,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233530,21600651,4,7:49,nan,Oubre Jr. REBOUND (Off:1 Def:2),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233531,21600651,4,7:46,nan,Oubre Jr.  Layup (8 PTS),97 - 104,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+233532,21600651,4,7:35,MISS Leuer 5' Jump Shot,Smith BLOCK (1 BLK),nan,202720,Jon Leuer,DET,0,nan,nan,201160,Jason Smith,WAS,Missed Shot ,nan
+233533,21600651,4,7:34,nan,Burke REBOUND (Off:1 Def:1),nan,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233534,21600651,4,7:25,Baynes P.FOUL (P5.T3) (S.Corbin),nan,nan,203382,Aron Baynes,DET,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Personal
+233535,21600651,4,7:25,nan,SUB: Beal FOR Burke,nan,203504,Trey Burke,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+233536,21600651,4,7:25,nan,SUB: Wall FOR McClellan,nan,1627815,Sheldon McClellan,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+233537,21600651,4,7:25,SUB: Marc Morris FOR Baynes,nan,nan,203382,Aron Baynes,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+233538,21600651,4,7:11,nan,MISS Beal 20' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233539,21600651,4,7:11,Leuer REBOUND (Off:1 Def:2),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233540,21600651,4,7:01,MISS Jackson 26' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233541,21600651,4,7:01,nan,Mark Morris REBOUND (Off:3 Def:5),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233542,21600651,4,6:54,Leuer BLOCK (2 BLK),MISS Wall 6' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,202720,Jon Leuer,DET,Missed Shot ,nan
+233543,21600651,4,6:52,Harris REBOUND (Off:0 Def:8),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233544,21600651,4,6:48,nan,Smith S.FOUL (P2.T3) (M.Ervin),nan,201160,Jason Smith,WAS,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+233545,21600651,4,6:48,MISS Marc Morris Free Throw 1 of 2,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+233546,21600651,4,6:48,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+233547,21600651,4,6:48,Marc Morris Free Throw 2 of 2 (21 PTS),nan,97 - 105,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+233548,21600651,4,6:32,nan,MISS Beal 26' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233549,21600651,4,6:32,Bullock REBOUND (Off:0 Def:4),nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233550,21600651,4,6:22,MISS Marc Morris 27' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233551,21600651,4,6:21,Leuer REBOUND (Off:2 Def:2),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233552,21600651,4,6:19,Leuer Bad Pass Turnover (P2.T17),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+233553,21600651,4,6:19,nan,SUB: Porter Jr. FOR Smith,nan,201160,Jason Smith,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+233554,21600651,4,6:02,nan,Mark Morris  Driving Layup (15 PTS) (Porter Jr. 2 AST),99 - 105,202693,Markieff Morris,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+233555,21600651,4,5:45,Leuer 7' Jump Shot (10 PTS) (Bullock 1 AST),nan,99 - 107,202720,Jon Leuer,DET,203493,Reggie Bullock,DET,0,nan,nan,Made Shot ,nan
+233556,21600651,4,5:28,nan,MISS Mark Morris 24' 3PT Jump Shot,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233557,21600651,4,5:28,Leuer REBOUND (Off:2 Def:3),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233558,21600651,4,5:20,Jackson Offensive Charge Foul (P3.T4) (S.Corbin),nan,nan,202704,Reggie Jackson,DET,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Offensive Charge
+233559,21600651,4,5:20,Jackson Foul Turnover (P3.T18),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+233560,21600651,4,5:20,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+233561,21600651,4,5:12,Jackson S.FOUL (P4.PN) (D.Guthrie),nan,nan,202704,Reggie Jackson,DET,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+233562,21600651,4,5:12,nan,Wall Free Throw 1 of 2 (18 PTS),100 - 107,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+233563,21600651,4,5:12,nan,Wall Free Throw 2 of 2 (19 PTS),101 - 107,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+233564,21600651,4,4:51,MISS Jackson 6' Hook Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233565,21600651,4,4:49,nan,Porter Jr. REBOUND (Off:0 Def:5),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233566,21600651,4,4:39,nan,Oubre Jr.  3PT Jump Shot (11 PTS) (Porter Jr. 3 AST),104 - 107,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+233567,21600651,4,4:26,Jackson Traveling Turnover (P4.T19),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Traveling
+233568,21600651,4,4:16,nan,Mark Morris  Dunk (17 PTS) (Wall 9 AST),106 - 107,202693,Markieff Morris,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+233569,21600651,4,4:16,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+233570,21600651,4,4:16,SUB: Drummond FOR Leuer,nan,nan,202720,Jon Leuer,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+233571,21600651,4,3:50,Jackson 16' Step Back Jump Shot (19 PTS),nan,106 - 109,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+233572,21600651,4,3:29,nan,MISS Wall 26' 3PT Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233573,21600651,4,3:28,nan,Oubre Jr. REBOUND (Off:2 Def:2),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233574,21600651,4,3:25,nan,MISS Oubre Jr. 2' Layup,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233575,21600651,4,3:24,Jackson REBOUND (Off:0 Def:3),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233576,21600651,4,3:19,MISS Jackson  Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233577,21600651,4,3:18,nan,Wall REBOUND (Off:2 Def:4),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233578,21600651,4,3:01,nan,MISS Mark Morris  Finger Roll Layup,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233579,21600651,4,3:00,nan,Mark Morris REBOUND (Off:4 Def:5),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233580,21600651,4,3:00,Drummond BLOCK (1 BLK),MISS Mark Morris 1' Putback Layup,nan,202693,Markieff Morris,WAS,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+233581,21600651,4,2:56,nan,Porter Jr. REBOUND (Off:1 Def:5),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233582,21600651,4,2:53,nan,Porter Jr. 1' Layup (11 PTS),108 - 109,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+233583,21600651,4,2:39,nan,Oubre Jr. P.FOUL (P2.T4) (D.Guthrie),nan,1626162,Kelly Oubre Jr.,WAS,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal
+233584,21600651,4,2:24,MISS Jackson  Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233585,21600651,4,2:24,nan,Porter Jr. REBOUND (Off:1 Def:6),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233586,21600651,4,2:14,nan,Mark Morris  Alley Oop Dunk (19 PTS) (Wall 10 AST),110 - 109,202693,Markieff Morris,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+233587,21600651,4,1:57,Marc Morris 13' Pullup Jump Shot (23 PTS),nan,110 - 111,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+233588,21600651,4,1:36,nan,MISS Wall 13' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233589,21600651,4,1:35,Drummond REBOUND (Off:1 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233590,21600651,4,1:19,MISS Jackson 1' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233591,21600651,4,1:19,Drummond REBOUND (Off:2 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233592,21600651,4,1:15,Drummond Lost Ball Turnover (P4.T20),Beal STEAL (2 STL),nan,203083,Andre Drummond,DET,203078,Bradley Beal,WAS,0,nan,nan,Turnover ,Lost Ball
+233593,21600651,4,1:13,Harris S.FOUL (P1.PN) (D.Guthrie),nan,nan,202699,Tobias Harris,DET,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+233594,21600651,4,1:13,nan,Beal Free Throw 1 of 2 (16 PTS),111 - 111,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+233595,21600651,4,1:13,nan,Beal Free Throw 2 of 2 (17 PTS),112 - 111,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+233596,21600651,4,0:51,MISS Harris  3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233597,21600651,4,0:51,Marc Morris REBOUND (Off:5 Def:5),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233598,21600651,4,0:51,MISS Marc Morris 3' Jump Shot,Mark Morris BLOCK (1 BLK),nan,202694,Marcus Morris,DET,0,nan,nan,202693,Markieff Morris,WAS,Missed Shot ,nan
+233599,21600651,4,0:51,nan,Wall REBOUND (Off:2 Def:5),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233600,21600651,4,0:51,nan,nan,nan,545,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+233601,21600651,4,0:27,nan,MISS Wall 19' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233602,21600651,4,0:27,Bullock REBOUND (Off:0 Def:5),nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233603,21600651,4,0:11,MISS Jackson 13' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233604,21600651,4,0:08,Drummond REBOUND (Off:3 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233605,21600651,4,0:04,MISS Harris  3PT Jump Shot,Beal BLOCK (1 BLK),nan,202699,Tobias Harris,DET,0,nan,nan,203078,Bradley Beal,WAS,Missed Shot ,nan
+233606,21600651,4,0:03,Harris REBOUND (Off:1 Def:8),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233607,21600651,4,0:01,MISS Harris 3' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+233608,21600651,4,0:00,Marc Morris REBOUND (Off:6 Def:5),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+233609,21600651,4,0:00,Marc Morris  Tip Layup Shot (25 PTS),nan,112 - 113,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+233610,21600651,4,0:00,nan,nan,nan,558,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+233611,21600651,4,0:00,nan,nan,112 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

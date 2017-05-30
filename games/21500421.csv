@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+52849,21500421,4,12:00,nan,nan,67 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+52850,21500421,4,11:38,MISS Lowry 9' Turnaround Fadeaway Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52851,21500421,4,11:38,nan,Nowitzki REBOUND (Off:1 Def:4),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52852,21500421,4,11:21,nan,Powell 2' Layup (3 PTS) (Parsons 1 AST),69 - 72,203939,Dwight Powell,DAL,202718,Chandler Parsons,DAL,0,nan,nan,Made Shot ,nan
+52853,21500421,4,11:07,Lowry 24' 3PT Jump Shot (14 PTS) (DeRozan 4 AST),nan,69 - 75,200768,Kyle Lowry,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+52854,21500421,4,10:49,nan,Nowitzki 26' 3PT Jump Shot (20 PTS) (Barea 1 AST),72 - 75,1717,Dirk Nowitzki,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+52855,21500421,4,10:31,MISS Bennett 26' 3PT Jump Shot,nan,nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52856,21500421,4,10:31,nan,Parsons REBOUND (Off:0 Def:2),nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52857,21500421,4,10:19,nan,MISS Nowitzki  3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52858,21500421,4,10:19,Bennett REBOUND (Off:0 Def:2),nan,nan,203461,Anthony Bennett,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52859,21500421,4,10:13,nan,Barea P.FOUL (P1.T1) (M.Ervin),nan,200826,J.J. Barea,DAL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+52860,21500421,4,10:13,SUB: Scola FOR Bennett,nan,nan,203461,Anthony Bennett,TOR,2449,Luis Scola,TOR,0,nan,nan,Substitution ,nan
+52861,21500421,4,10:05,nan,Barea P.FOUL (P2.T2) (E.Malloy),nan,200826,J.J. Barea,DAL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+52862,21500421,4,9:49,DeRozan 26' 3PT Jump Shot (24 PTS) (Lowry 3 AST),nan,72 - 78,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+52863,21500421,4,9:39,Lowry P.FOUL (P2.T1) (E.Malloy),nan,nan,200768,Kyle Lowry,TOR,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+52864,21500421,4,9:29,nan,MISS Powell 1' Layup,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52865,21500421,4,9:29,Biyombo REBOUND (Off:5 Def:10),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52866,21500421,4,9:26,nan,Powell P.FOUL (P1.T3) (M.Ervin),nan,203939,Dwight Powell,DAL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+52867,21500421,4,9:06,MISS Biyombo 3' Layup,Nowitzki BLOCK (2 BLK),nan,202687,Bismack Biyombo,TOR,0,nan,nan,1717,Dirk Nowitzki,DAL,Missed Shot ,nan
+52868,21500421,4,9:04,nan,Nowitzki REBOUND (Off:1 Def:5),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52869,21500421,4,8:54,nan,MISS Parsons 6' Turnaround Bank Hook Shot,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52870,21500421,4,8:54,Scola REBOUND (Off:2 Def:6),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52871,21500421,4,8:54,nan,Powell P.FOUL (P2.T4) (B.Adams),nan,203939,Dwight Powell,DAL,2449,Luis Scola,TOR,0,nan,nan,Foul ,Personal
+52872,21500421,4,8:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+52873,21500421,4,8:54,SUB: Ross FOR DeRozan,nan,nan,201942,DeMar DeRozan,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+52874,21500421,4,8:54,nan,SUB: McGee FOR Matthews,nan,202083,Wesley Matthews,DAL,201580,JaVale McGee,DAL,0,nan,nan,Substitution ,nan
+52875,21500421,4,8:54,nan,SUB: Felton FOR Powell,nan,203939,Dwight Powell,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+52876,21500421,4,8:38,nan,Barea P.FOUL (P3.PN) (B.Adams),nan,200826,J.J. Barea,DAL,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+52877,21500421,4,8:38,Joseph Free Throw 1 of 2 (3 PTS),nan,72 - 79,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52878,21500421,4,8:38,Joseph Free Throw 2 of 2 (4 PTS),nan,72 - 80,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52879,21500421,4,8:30,Biyombo S.FOUL (P2.T2) (B.Adams),nan,nan,202687,Bismack Biyombo,TOR,201580,JaVale McGee,DAL,0,nan,nan,Foul ,Shooting
+52880,21500421,4,8:30,nan,McGee Free Throw 1 of 2 (4 PTS),73 - 80,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52881,21500421,4,8:30,nan,McGee Free Throw 2 of 2 (5 PTS),74 - 80,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52882,21500421,4,8:11,MISS Lowry 25' 3PT Pullup Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52883,21500421,4,8:11,nan,Nowitzki REBOUND (Off:1 Def:6),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52884,21500421,4,8:03,nan,MISS Barea 3' Running Finger Roll Layup,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52885,21500421,4,8:01,Joseph REBOUND (Off:0 Def:2),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52886,21500421,4,7:53,Joseph 25' 3PT Jump Shot (7 PTS) (Lowry 4 AST),nan,74 - 83,202709,Cory Joseph,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+52887,21500421,4,7:33,nan,MISS Parsons 17' Floating Jump Shot,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52888,21500421,4,7:33,Biyombo REBOUND (Off:5 Def:11),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52889,21500421,4,7:20,Joseph  3PT Jump Shot (10 PTS) (Lowry 5 AST),nan,74 - 86,202709,Cory Joseph,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+52890,21500421,4,7:19,nan,Mavericks Timeout: Regular (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+52891,21500421,4,7:19,nan,SUB: Matthews FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+52892,21500421,4,7:19,nan,SUB: Powell FOR Parsons,nan,202718,Chandler Parsons,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+52893,21500421,4,7:10,nan,MISS Barea 5' Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52894,21500421,4,7:10,Ross REBOUND (Off:0 Def:3),nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52895,21500421,4,7:04,MISS Lowry 3' Running Layup,McGee BLOCK (3 BLK),nan,200768,Kyle Lowry,TOR,0,nan,nan,201580,JaVale McGee,DAL,Missed Shot ,nan
+52896,21500421,4,7:01,nan,Felton REBOUND (Off:0 Def:4),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52897,21500421,4,6:53,nan,MISS Felton 10' Driving Floating Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52898,21500421,4,6:52,Biyombo REBOUND (Off:5 Def:12),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52899,21500421,4,6:46,Ross  3PT Running Jump Shot (14 PTS) (Lowry 6 AST),nan,74 - 89,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+52900,21500421,4,6:27,Biyombo BLOCK (2 BLK),MISS McGee 3' Layup,nan,201580,JaVale McGee,DAL,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+52901,21500421,4,6:26,Joseph REBOUND (Off:0 Def:3),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52902,21500421,4,6:17,MISS Joseph 26' 3PT Jump Shot,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52903,21500421,4,6:17,nan,McGee REBOUND (Off:0 Def:5),nan,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52904,21500421,4,6:07,nan,MISS Powell 21' Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52905,21500421,4,6:07,Lowry REBOUND (Off:0 Def:9),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52906,21500421,4,5:51,nan,Powell S.FOUL (P3.PN) (B.Adams),nan,203939,Dwight Powell,DAL,2449,Luis Scola,TOR,0,nan,nan,Foul ,Shooting
+52907,21500421,4,5:51,Scola Free Throw 1 of 2 (13 PTS),nan,74 - 90,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52908,21500421,4,5:51,nan,SUB: Evans FOR McGee,nan,201580,JaVale McGee,DAL,202379,Jeremy Evans,DAL,0,nan,nan,Substitution ,nan
+52909,21500421,4,5:51,SUB: DeRozan FOR Lowry,nan,nan,200768,Kyle Lowry,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+52910,21500421,4,5:51,MISS Scola Free Throw 2 of 2,nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52911,21500421,4,5:50,nan,Powell REBOUND (Off:2 Def:2),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52912,21500421,4,5:34,nan,MISS Barea 25' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52913,21500421,4,5:34,Scola REBOUND (Off:2 Def:7),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52914,21500421,4,5:20,Biyombo Traveling Turnover (P1.T14),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+52915,21500421,4,5:20,nan,SUB: Villanueva FOR Powell,nan,203939,Dwight Powell,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Substitution ,nan
+52916,21500421,4,5:20,nan,Mavericks Timeout: Short (Reg.4 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+52917,21500421,4,5:20,nan,SUB: Jenkins FOR Matthews,nan,202083,Wesley Matthews,DAL,203098,John Jenkins,DAL,0,nan,nan,Substitution ,nan
+52918,21500421,4,5:20,nan,SUB: Anderson FOR Felton,nan,101109,Raymond Felton,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+52919,21500421,4,5:10,nan,Villanueva 5' Driving Floating Jump Shot (2 PTS) (Jenkins 1 AST),76 - 90,101111,Charlie Villanueva,DAL,203098,John Jenkins,DAL,0,nan,nan,Made Shot ,nan
+52920,21500421,4,4:50,MISS DeRozan 5' Driving Floating Jump Shot,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52921,21500421,4,4:49,nan,Anderson REBOUND (Off:0 Def:1),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52922,21500421,4,4:30,nan,Anderson 16' Pullup Jump Shot (2 PTS) (Barea 2 AST),78 - 90,1626147,Justin Anderson,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+52923,21500421,4,4:16,nan,Barea S.FOUL (P4.PN) (M.Ervin),nan,200826,J.J. Barea,DAL,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+52924,21500421,4,4:16,Joseph Free Throw 1 of 2 (11 PTS),nan,78 - 91,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52925,21500421,4,4:16,Joseph Free Throw 2 of 2 (12 PTS),nan,78 - 92,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52926,21500421,4,4:16,RAPTORS Violation: Delay of game Violation,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+52927,21500421,4,4:04,nan,Barea 26' 3PT Pullup Jump Shot (5 PTS),81 - 92,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+52928,21500421,4,3:47,MISS Scola 19' Jump Shot,nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52929,21500421,4,3:46,Biyombo REBOUND (Off:6 Def:12),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52930,21500421,4,3:43,MISS Biyombo 2' Dunk,Evans BLOCK (1 BLK),nan,202687,Bismack Biyombo,TOR,0,nan,nan,202379,Jeremy Evans,DAL,Missed Shot ,nan
+52931,21500421,4,3:41,Biyombo REBOUND (Off:7 Def:12),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52932,21500421,4,3:39,MISS Biyombo 1' Layup,nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52933,21500421,4,3:39,nan,Villanueva REBOUND (Off:0 Def:2),nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52934,21500421,4,3:30,nan,MISS Villanueva 24' 3PT Jump Shot,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52935,21500421,4,3:29,Biyombo REBOUND (Off:7 Def:13),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52936,21500421,4,3:23,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+52937,21500421,4,3:23,SUB: Lowry FOR Ross,nan,nan,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+52938,21500421,4,3:15,DeRozan Lost Ball Turnover (P7.T15),Villanueva STEAL (1 STL),nan,201942,DeMar DeRozan,TOR,101111,Charlie Villanueva,DAL,0,nan,nan,Turnover ,Lost Ball
+52939,21500421,4,3:09,nan,Anderson  Running Dunk (4 PTS) (Villanueva 1 AST),83 - 92,1626147,Justin Anderson,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Made Shot ,nan
+52940,21500421,4,2:48,Scola OFF.Foul (P5) (B.Adams),nan,nan,2449,Luis Scola,TOR,200826,J.J. Barea,DAL,0,nan,nan,Foul ,Offensive
+52941,21500421,4,2:48,Scola Foul Turnover (P2.T16),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+52942,21500421,4,2:38,nan,Evans 21' Jump Shot (2 PTS) (Villanueva 2 AST),85 - 92,202379,Jeremy Evans,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Made Shot ,nan
+52943,21500421,4,2:16,Scola 1' Cutting Layup Shot (15 PTS) (Joseph 5 AST),nan,85 - 94,2449,Luis Scola,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+52944,21500421,4,2:00,nan,Evans  Cutting Dunk Shot (4 PTS) (Villanueva 3 AST),87 - 94,202379,Jeremy Evans,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Made Shot ,nan
+52945,21500421,4,2:00,nan,nan,nan,474,Stefano Rusconi,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+52946,21500421,4,1:48,nan,Jenkins P.FOUL (P1.PN) (E.Malloy),nan,203098,John Jenkins,DAL,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal
+52947,21500421,4,1:48,MISS DeRozan Free Throw 1 of 2,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52948,21500421,4,1:48,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+52949,21500421,4,1:48,DeRozan Free Throw 2 of 2 (25 PTS),nan,87 - 95,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52950,21500421,4,1:36,nan,Villanueva 6' Driving Floating Jump Shot (4 PTS) (Barea 3 AST),89 - 95,101111,Charlie Villanueva,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+52951,21500421,4,1:24,Joseph Bad Pass Turnover (P3.T17),Villanueva STEAL (2 STL),nan,202709,Cory Joseph,TOR,101111,Charlie Villanueva,DAL,0,nan,nan,Turnover ,Bad Pass
+52952,21500421,4,1:20,nan,Villanueva  Running Layup (6 PTS),91 - 95,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+52953,21500421,4,1:07,nan,Anderson Shooting Block Foul (P1.PN) (B.Adams),nan,1626147,Justin Anderson,DAL,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting Block
+52954,21500421,4,1:07,MISS DeRozan Free Throw 1 of 2,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52955,21500421,4,1:07,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+52956,21500421,4,1:07,DeRozan Free Throw 2 of 2 (26 PTS),nan,91 - 96,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52957,21500421,4,0:59,nan,MISS Jenkins  3PT Jump Shot,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52958,21500421,4,0:59,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52959,21500421,4,0:59,DeRozan L.B.FOUL (P4.T3) (B.Adams),nan,nan,201942,DeMar DeRozan,TOR,202379,Jeremy Evans,DAL,0,nan,nan,Foul ,Loose Ball
+52960,21500421,4,0:52,nan,MISS Villanueva 25' 3PT Jump Bank Shot,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52961,21500421,4,0:52,DeRozan REBOUND (Off:1 Def:3),nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52962,21500421,4,0:45,nan,Anderson S.FOUL (P2.PN) (B.Adams),nan,1626147,Justin Anderson,DAL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+52963,21500421,4,0:45,Lowry Free Throw 1 of 2 (15 PTS),nan,91 - 97,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52964,21500421,4,0:45,Biyombo Lane Violation Turnover (P2.T18),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Turnover ,Lane Violation
+52965,21500421,4,0:45,nan,Mavericks Timeout: Regular (Reg.5 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+52966,21500421,4,0:43,nan,Villanueva 26' 3PT Jump Shot (9 PTS) (Barea 4 AST),94 - 97,101111,Charlie Villanueva,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+52967,21500421,4,0:34,nan,Jenkins P.FOUL (P2.PN) (B.Adams),nan,203098,John Jenkins,DAL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+52968,21500421,4,0:34,Lowry Free Throw 1 of 2 (16 PTS),nan,94 - 98,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52969,21500421,4,0:34,Lowry Free Throw 2 of 2 (17 PTS),nan,94 - 99,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52970,21500421,4,0:26,nan,Barea 26' 3PT Pullup Jump Shot (8 PTS),97 - 99,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+52971,21500421,4,0:15,DeRozan 1' Running Layup (28 PTS) (Lowry 7 AST),nan,97 - 101,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+52972,21500421,4,0:15,nan,Mavericks Timeout: Short (Reg.5 Short 3),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+52973,21500421,4,0:15,SUB: Ross FOR Scola,nan,nan,2449,Luis Scola,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+52974,21500421,4,0:11,nan,Evans 1' Alley Oop Layup (6 PTS) (Barea 5 AST),99 - 101,202379,Jeremy Evans,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+52975,21500421,4,0:11,DeRozan S.FOUL (P5.PN) (E.Malloy),nan,nan,201942,DeMar DeRozan,TOR,202379,Jeremy Evans,DAL,0,nan,nan,Foul ,Shooting
+52976,21500421,4,0:11,SUB: Scola FOR Ross,nan,nan,203082,Terrence Ross,TOR,2449,Luis Scola,TOR,0,nan,nan,Substitution ,nan
+52977,21500421,4,0:11,nan,MISS Evans Free Throw 1 of 1,nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+52978,21500421,4,0:11,Lowry REBOUND (Off:0 Def:10),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52979,21500421,4,0:11,RAPTORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+52980,21500421,4,0:11,SUB: Ross FOR Biyombo,nan,nan,202687,Bismack Biyombo,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+52981,21500421,4,0:10,nan,Evans Personal Take Foul (P1.PN) (M.Ervin),nan,202379,Jeremy Evans,DAL,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal Take
+52982,21500421,4,0:10,Ross Free Throw 1 of 2 (15 PTS),nan,99 - 102,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+52983,21500421,4,0:10,SUB: Biyombo FOR Scola,nan,nan,2449,Luis Scola,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+52984,21500421,4,0:10,Ross Free Throw 2 of 2 (16 PTS),nan,99 - 103,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+52985,21500421,4,0:03,nan,MISS Barea 31' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52986,21500421,4,0:02,nan,Jenkins REBOUND (Off:1 Def:2),nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52987,21500421,4,0:00,nan,MISS Jenkins 17' Fadeaway Jumper,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+52988,21500421,4,0:00,Joseph REBOUND (Off:0 Def:4),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+52989,21500421,4,0:00,nan,nan,99 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

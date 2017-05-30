@@ -1,0 +1,149 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+235522,21600668,4,12:00,nan,nan,73 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+235523,21600668,4,11:47,Ellington 25' 3PT Jump Shot (9 PTS) (Dragic 5 AST),nan,73 - 80,201961,Wayne Ellington,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+235524,21600668,4,11:32,nan,Thompson 25' 3PT Jump Shot (17 PTS) (Green 6 AST),76 - 80,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+235525,21600668,4,11:15,MISS Ellington 20' Jump Shot,nan,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235526,21600668,4,11:14,nan,Pachulia REBOUND (Off:2 Def:6),nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235527,21600668,4,11:07,nan,MISS Thompson 26' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235528,21600668,4,11:06,Reed REBOUND (Off:0 Def:6),nan,nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235529,21600668,4,10:56,Dragic Bad Pass Turnover (P3.T12),Pachulia STEAL (2 STL),nan,201609,Goran Dragic,MIA,2585,Zaza Pachulia,GSW,0,nan,nan,Turnover ,Bad Pass
+235530,21600668,4,10:48,nan,McCaw 24' 3PT Jump Shot (3 PTS) (Livingston 5 AST),79 - 80,1627775,Patrick McCaw,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+235531,21600668,4,10:36,MISS Johnson 7' Jump Shot,nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235532,21600668,4,10:35,Reed REBOUND (Off:1 Def:6),nan,nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235533,21600668,4,10:34,MISS Reed 2' Tip Layup Shot,nan,nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235534,21600668,4,10:33,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235535,21600668,4,10:32,Reed L.B.FOUL (P2.T1) (J.Orr),nan,nan,203186,Willie Reed,MIA,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Loose Ball
+235536,21600668,4,10:18,Johnson P.FOUL (P4.T2) (M.Callahan),nan,nan,201949,James Johnson,MIA,2585,Zaza Pachulia,GSW,0,nan,nan,Foul ,Personal
+235537,21600668,4,10:11,nan,MISS Thompson 17' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235538,21600668,4,10:10,Ellington REBOUND (Off:0 Def:2),nan,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235539,21600668,4,10:02,Johnson Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+235540,21600668,4,10:02,SUB: White FOR Johnson,nan,nan,201949,James Johnson,MIA,1627855,Okaro White,MIA,0,nan,nan,Substitution ,nan
+235541,21600668,4,9:47,nan,MISS Thompson 12' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235542,21600668,4,9:46,nan,Pachulia REBOUND (Off:3 Def:6),nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235543,21600668,4,9:45,Ellington S.FOUL (P2.T3) (J.Orr),nan,nan,201961,Wayne Ellington,MIA,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+235544,21600668,4,9:45,nan,Thompson Free Throw 1 of 2 (18 PTS),80 - 80,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235545,21600668,4,9:45,SUB: Whiteside FOR Reed,nan,nan,203186,Willie Reed,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+235546,21600668,4,9:45,nan,Thompson Free Throw 2 of 2 (19 PTS),81 - 80,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235547,21600668,4,9:37,nan,McCaw Violation:Kicked Ball (M.Callahan),nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+235548,21600668,4,9:23,nan,Green S.FOUL (P2.T1) (J.Orr),nan,203110,Draymond Green,GSW,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+235549,21600668,4,9:23,Dragic Free Throw 1 of 2 (14 PTS),nan,81 - 81,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235550,21600668,4,9:23,Dragic Free Throw 2 of 2 (15 PTS),nan,81 - 82,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235551,21600668,4,9:10,Babbitt S.FOUL (P2.T4) (M.Callahan),nan,nan,202337,Luke Babbitt,MIA,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+235552,21600668,4,9:10,nan,Green Free Throw 1 of 2 (7 PTS),82 - 82,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235553,21600668,4,9:10,nan,MISS Green Free Throw 2 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235554,21600668,4,9:10,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235555,21600668,4,8:57,White 4' Jump Shot (4 PTS) (Ellington 3 AST),nan,82 - 84,1627855,Okaro White,MIA,201961,Wayne Ellington,MIA,0,nan,nan,Made Shot ,nan
+235556,21600668,4,8:57,nan,Pachulia S.FOUL (P2.T2) (M.Callahan),nan,2585,Zaza Pachulia,GSW,1627855,Okaro White,MIA,0,nan,nan,Foul ,Shooting
+235557,21600668,4,8:57,nan,Clark Timeout:Official,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Timeout ,Official
+235558,21600668,4,8:57,nan,nan,nan,398,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+235559,21600668,4,8:57,nan,SUB: Durant FOR Thompson,nan,202691,Klay Thompson,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+235560,21600668,4,8:57,White Free Throw 1 of 1 (5 PTS),nan,82 - 85,1627855,Okaro White,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+235561,21600668,4,8:41,nan,MISS Durant 18' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235562,21600668,4,8:40,nan,Pachulia REBOUND (Off:4 Def:6),nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235563,21600668,4,8:38,nan,MISS Pachulia 4' Jump Shot,nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235564,21600668,4,8:37,Whiteside REBOUND (Off:4 Def:9),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235565,21600668,4,8:14,nan,Livingston S.FOUL (P2.T3) (J.Orr),nan,2733,Shaun Livingston,GSW,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+235566,21600668,4,8:14,Dragic Free Throw 1 of 2 (16 PTS),nan,82 - 86,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235567,21600668,4,8:14,Dragic Free Throw 2 of 2 (17 PTS),nan,82 - 87,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235568,21600668,4,8:00,nan,Livingston 15' Turnaround Fadeaway (2 PTS),84 - 87,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+235569,21600668,4,7:49,Dragic Step Out of Bounds Turnover (P4.T14),nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+235570,21600668,4,7:35,nan,MISS Livingston 12' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235571,21600668,4,7:34,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235572,21600668,4,7:32,nan,Livingston Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+235573,21600668,4,7:13,MISS Dragic 25' 3PT Jump Shot,Livingston BLOCK (1 BLK),nan,201609,Goran Dragic,MIA,0,nan,nan,2733,Shaun Livingston,GSW,Missed Shot ,nan
+235574,21600668,4,7:11,Babbitt REBOUND (Off:1 Def:5),nan,nan,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235575,21600668,4,7:08,Babbitt 26' 3PT Jump Shot (9 PTS),nan,84 - 90,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+235576,21600668,4,6:53,Babbitt P.FOUL (P3.PN) (J.Orr),nan,nan,202337,Luke Babbitt,MIA,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+235577,21600668,4,6:53,nan,MISS Green Free Throw 1 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235578,21600668,4,6:53,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235579,21600668,4,6:53,nan,SUB: Curry FOR McCaw,nan,1627775,Patrick McCaw,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+235580,21600668,4,6:53,nan,MISS Green Free Throw 2 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235581,21600668,4,6:52,Whiteside REBOUND (Off:4 Def:10),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235582,21600668,4,6:51,nan,Pachulia FLAGRANT.FOUL.TYPE1 (P3.T4) (M.Callahan),nan,2585,Zaza Pachulia,GSW,202337,Luke Babbitt,MIA,0,nan,nan,Foul ,Flagrant Type 1
+235583,21600668,4,6:51,nan,nan,nan,466,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+235584,21600668,4,6:51,Babbitt T.FOUL (P3.PN) (M.Callahan),nan,nan,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Foul ,Technical
+235585,21600668,4,6:51,nan,MISS Curry Free Throw Technical,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+235586,21600668,4,6:51,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235587,21600668,4,6:51,Babbitt Free Throw Flagrant 1 of 2 (10 PTS),nan,84 - 91,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+235588,21600668,4,6:51,Babbitt Free Throw Flagrant 2 of 2 (11 PTS),nan,84 - 92,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+235589,21600668,4,6:43,nan,Livingston P.FOUL (P3.PN) (B.Forte),nan,2733,Shaun Livingston,GSW,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+235590,21600668,4,6:43,Dragic Free Throw 1 of 2 (18 PTS),nan,84 - 93,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235591,21600668,4,6:43,nan,SUB: Thompson FOR Pachulia,nan,2585,Zaza Pachulia,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+235592,21600668,4,6:43,MISS Dragic Free Throw 2 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235593,21600668,4,6:42,nan,Durant REBOUND (Off:0 Def:5),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235594,21600668,4,6:25,nan,Durant 18' Pullup Jump Shot (18 PTS),86 - 93,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+235595,21600668,4,6:02,MISS Ellington 16' Jump Shot,nan,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235596,21600668,4,6:01,nan,Thompson REBOUND (Off:0 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235597,21600668,4,5:52,Babbitt STEAL (1 STL),Green Bad Pass Turnover (P2.T11),nan,203110,Draymond Green,GSW,202337,Luke Babbitt,MIA,0,nan,nan,Turnover ,Bad Pass
+235598,21600668,4,5:28,MISS Dragic 8' Fadeaway Jumper,Green BLOCK (1 BLK),nan,201609,Goran Dragic,MIA,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+235599,21600668,4,5:27,nan,Curry REBOUND (Off:0 Def:8),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235600,21600668,4,5:15,nan,MISS Thompson 24' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235601,21600668,4,5:14,Whiteside REBOUND (Off:4 Def:11),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235602,21600668,4,5:08,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235603,21600668,4,5:08,SUB: Waiters FOR Babbitt,nan,nan,202337,Luke Babbitt,MIA,203079,Dion Waiters,MIA,0,nan,nan,Substitution ,nan
+235604,21600668,4,5:08,SUB: Johnson FOR White,nan,nan,1627855,Okaro White,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+235605,21600668,4,4:58,Waiters 11' Driving Floating Jump Shot (24 PTS),nan,86 - 95,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+235606,21600668,4,4:58,nan,Livingston S.FOUL (P4.PN) (M.Callahan),nan,2733,Shaun Livingston,GSW,203079,Dion Waiters,MIA,0,nan,nan,Foul ,Shooting
+235607,21600668,4,4:58,Waiters Free Throw 1 of 1 (25 PTS),nan,86 - 96,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+235608,21600668,4,4:49,Whiteside S.FOUL (P4.PN) (B.Forte),nan,nan,202355,Hassan Whiteside,MIA,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+235609,21600668,4,4:49,nan,Durant Free Throw 1 of 2 (19 PTS),87 - 96,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235610,21600668,4,4:49,nan,Durant Free Throw 2 of 2 (20 PTS),88 - 96,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235611,21600668,4,4:34,MISS Johnson 2' Driving Layup,Curry BLOCK (1 BLK),nan,201949,James Johnson,MIA,0,nan,nan,201939,Stephen Curry,GSW,Missed Shot ,nan
+235612,21600668,4,4:33,nan,Durant REBOUND (Off:0 Def:6),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235613,21600668,4,4:22,Ellington STEAL (4 STL),Curry Bad Pass Turnover (P4.T12),nan,201939,Stephen Curry,GSW,201961,Wayne Ellington,MIA,0,nan,nan,Turnover ,Bad Pass
+235614,21600668,4,4:03,Waiters 18' Pullup Jump Shot (27 PTS),nan,88 - 98,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+235615,21600668,4,3:52,nan,MISS Curry 26' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235616,21600668,4,3:51,Waiters REBOUND (Off:1 Def:4),nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235617,21600668,4,3:33,nan,Green Violation:Kicked Ball (J.Orr),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+235618,21600668,4,3:19,HEAT Turnover: Shot Clock (T#15),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+235619,21600668,4,3:13,Whiteside S.FOUL (P5.PN) (J.Orr),nan,nan,202355,Hassan Whiteside,MIA,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+235620,21600668,4,3:13,nan,Curry Free Throw 1 of 2 (20 PTS),89 - 98,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235621,21600668,4,3:13,nan,Curry Free Throw 2 of 2 (21 PTS),90 - 98,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235622,21600668,4,3:10,nan,Durant Personal Take Foul (P2.PN) (M.Callahan),nan,201142,Kevin Durant,GSW,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal Take
+235623,21600668,4,3:10,MISS Whiteside Free Throw 1 of 2,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235624,21600668,4,3:10,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235625,21600668,4,3:10,MISS Whiteside Free Throw 2 of 2,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235626,21600668,4,3:09,nan,Livingston REBOUND (Off:0 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235627,21600668,4,3:03,Johnson BLOCK (2 BLK),MISS Green 2' Driving Layup,nan,203110,Draymond Green,GSW,0,nan,nan,201949,James Johnson,MIA,Missed Shot ,nan
+235628,21600668,4,3:02,nan,Livingston REBOUND (Off:1 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235629,21600668,4,3:01,SUB: White FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,1627855,Okaro White,MIA,0,nan,nan,Substitution ,nan
+235630,21600668,4,2:57,nan,Thompson 25' 3PT Jump Shot (22 PTS) (Curry 6 AST),93 - 98,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+235631,21600668,4,2:35,MISS Ellington 25' 3PT Jump Shot,nan,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235632,21600668,4,2:34,nan,Livingston REBOUND (Off:1 Def:3),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235633,21600668,4,2:26,nan,Thompson Offensive Charge Foul (P4.PN) (B.Forte),nan,202691,Klay Thompson,GSW,1627855,Okaro White,MIA,0,nan,nan,Foul ,Offensive Charge
+235634,21600668,4,2:26,nan,Thompson Foul Turnover (P2.T13),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+235635,21600668,4,2:26,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235636,21600668,4,2:09,MISS Waiters 15' Jump Shot,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235637,21600668,4,2:08,nan,Thompson REBOUND (Off:0 Def:5),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235638,21600668,4,1:54,nan,Durant 25' 3PT Jump Shot (23 PTS) (Curry 7 AST),96 - 98,201142,Kevin Durant,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+235639,21600668,4,1:47,HEAT Timeout: Short (Full 4 Short 2),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+235640,21600668,4,1:47,SUB: Whiteside FOR White,nan,nan,1627855,Okaro White,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+235641,21600668,4,1:31,Waiters 24' 3PT Jump Shot (30 PTS),nan,96 - 101,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+235642,21600668,4,1:19,nan,MISS Durant 24' 3PT Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235643,21600668,4,1:18,nan,Green REBOUND (Off:1 Def:2),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235644,21600668,4,1:17,nan,Livingston Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+235645,21600668,4,1:17,nan,nan,nan,545,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+235646,21600668,4,0:56,MISS Waiters 6' Driving Bank Shot,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235647,21600668,4,0:55,nan,Livingston REBOUND (Off:1 Def:4),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235648,21600668,4,0:50,nan,Durant 1' Alley Oop Layup (25 PTS) (Green 7 AST),98 - 101,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+235649,21600668,4,0:26,MISS Waiters 19' Jump Shot,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235650,21600668,4,0:25,nan,Curry REBOUND (Off:0 Def:9),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235651,21600668,4,0:21,nan,Livingston 1' Running Layup (4 PTS) (Curry 8 AST),100 - 101,2733,Shaun Livingston,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+235652,21600668,4,0:21,HEAT Timeout: Regular (Full 5 Short 2),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235653,21600668,4,0:21,SUB: White FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,1627855,Okaro White,MIA,0,nan,nan,Substitution ,nan
+235654,21600668,4,0:18,HEAT Timeout: Short (Full 5 Short 3),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+235655,21600668,4,0:18,nan,Durant Violation:Kicked Ball (M.Callahan),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+235656,21600668,4,0:17,nan,Green P.FOUL (P3.PN) (J.Orr),nan,203110,Draymond Green,GSW,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+235657,21600668,4,0:17,MISS Dragic Free Throw 1 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235658,21600668,4,0:17,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235659,21600668,4,0:17,nan,SUB: Pachulia FOR Thompson,nan,202691,Klay Thompson,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+235660,21600668,4,0:17,Dragic Free Throw 2 of 2 (19 PTS),nan,100 - 102,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235661,21600668,4,0:17,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235662,21600668,4,0:17,nan,SUB: Thompson FOR Pachulia,nan,2585,Zaza Pachulia,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+235663,21600668,4,0:11,nan,Durant  Driving Dunk (27 PTS),102 - 102,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+235664,21600668,4,0:00,Waiters 25' 3PT Jump Shot (33 PTS),nan,102 - 105,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+235665,21600668,4,0:00,nan,Warriors Timeout: Short (Reg.5 Short 2),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+235666,21600668,4,0:00,SUB: Whiteside FOR Ellington,nan,nan,201961,Wayne Ellington,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+235667,21600668,4,0:00,nan,MISS Curry 22' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235668,21600668,4,0:00,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235669,21600668,4,0:00,nan,nan,102 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

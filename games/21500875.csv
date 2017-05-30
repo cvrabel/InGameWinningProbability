@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+109741,21500875,4,12:00,nan,nan,76 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+109742,21500875,4,11:41,nan,Green S.FOUL (P3.T1) (B.Barnaky),nan,203210,JaMychal Green,MEM,203141,Mirza Teletovic,PHX,0,nan,nan,Foul ,Shooting
+109743,21500875,4,11:41,Teletovic Free Throw 1 of 2 (12 PTS),nan,76 - 87,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109744,21500875,4,11:41,Teletovic Free Throw 2 of 2 (13 PTS),nan,76 - 88,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109745,21500875,4,11:25,nan,Green  Cutting Dunk Shot (6 PTS) (Stephenson 3 AST),78 - 88,203210,JaMychal Green,MEM,202362,Lance Stephenson,MEM,0,nan,nan,Made Shot ,nan
+109746,21500875,4,11:10,nan,Stephenson P.FOUL (P3.T2) (B.Barnaky),nan,202362,Lance Stephenson,MEM,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Personal
+109747,21500875,4,10:57,Leuer Lost Ball Turnover (P1.T16),Carter STEAL (2 STL),nan,202720,Jon Leuer,PHX,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Lost Ball
+109748,21500875,4,10:51,nan,MISS Barnes 3' Layup,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109749,21500875,4,10:50,Goodwin REBOUND (Off:0 Def:3),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109750,21500875,4,10:45,MISS Goodwin 2' Layup,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109751,21500875,4,10:45,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109752,21500875,4,10:43,Leuer Lost Ball Turnover (P2.T17),Chalmers STEAL (3 STL),nan,202720,Jon Leuer,PHX,201596,Mario Chalmers,MEM,0,nan,nan,Turnover ,Lost Ball
+109753,21500875,4,10:37,nan,Barnes 1' Running Layup (12 PTS) (Chalmers 1 AST),80 - 88,2440,Matt Barnes,MEM,201596,Mario Chalmers,MEM,0,nan,nan,Made Shot ,nan
+109754,21500875,4,10:37,SUNS Timeout: Regular (Full 3 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+109755,21500875,4,10:19,MISS Leuer 25' 3PT Jump Shot,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109756,21500875,4,10:18,nan,Carter REBOUND (Off:0 Def:2),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109757,21500875,4,9:58,nan,Stephenson 4' Driving Bank Shot (12 PTS),82 - 88,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+109758,21500875,4,9:45,Leuer Traveling Turnover (P3.T18),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Turnover ,Traveling
+109759,21500875,4,9:26,nan,MISS Stephenson 4' Jump Shot,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109760,21500875,4,9:25,Teletovic REBOUND (Off:1 Def:3),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109761,21500875,4,9:17,nan,Chalmers P.FOUL (P1.T3) (S.Wright),nan,201596,Mario Chalmers,MEM,203515,Phil Pressey,PHX,0,nan,nan,Foul ,Personal
+109762,21500875,4,9:17,SUB: Len FOR Leuer,nan,nan,202720,Jon Leuer,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+109763,21500875,4,9:17,nan,SUB: Andersen FOR Green,nan,203210,JaMychal Green,MEM,2365,Chris Andersen,MEM,0,nan,nan,Substitution ,nan
+109764,21500875,4,9:09,Teletovic 25' 3PT Jump Shot (16 PTS) (Pressey 4 AST),nan,82 - 91,203141,Mirza Teletovic,PHX,203515,Phil Pressey,PHX,0,nan,nan,Made Shot ,nan
+109765,21500875,4,8:51,nan,Chalmers 4' Jump Shot (14 PTS),84 - 91,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+109766,21500875,4,8:51,Pressey S.FOUL (P2.T1) (S.Wright),nan,nan,203515,Phil Pressey,PHX,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Shooting
+109767,21500875,4,8:51,SUB: Booker FOR Pressey,nan,nan,203515,Phil Pressey,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+109768,21500875,4,8:51,nan,Chalmers Free Throw 1 of 1 (15 PTS),85 - 91,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+109769,21500875,4,8:42,nan,Barnes S.FOUL (P2.T4) (S.Wright),nan,2440,Matt Barnes,MEM,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+109770,21500875,4,8:42,MISS Booker Free Throw 1 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109771,21500875,4,8:42,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+109772,21500875,4,8:42,nan,SUB: Conley FOR Chalmers,nan,201596,Mario Chalmers,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+109773,21500875,4,8:42,Booker Free Throw 2 of 2 (15 PTS),nan,85 - 92,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109774,21500875,4,8:25,nan,MISS Conley 18' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109775,21500875,4,8:25,Teletovic REBOUND (Off:1 Def:4),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109776,21500875,4,8:16,MISS Len 17' Jump Shot,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109777,21500875,4,8:15,Tucker REBOUND (Off:5 Def:5),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109778,21500875,4,8:13,Tucker 3' Layup (15 PTS),nan,85 - 94,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109779,21500875,4,7:52,nan,MISS Conley 24' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109780,21500875,4,7:51,Len REBOUND (Off:0 Def:10),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109781,21500875,4,7:28,MISS Len 12' Turnaround Jump Shot,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109782,21500875,4,7:26,nan,Barnes REBOUND (Off:1 Def:3),nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109783,21500875,4,7:19,nan,MISS Conley 3' Driving Layup,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109784,21500875,4,7:16,nan,Andersen REBOUND (Off:2 Def:2),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109785,21500875,4,7:16,Booker S.FOUL (P4.T2) (B.Barnaky),nan,nan,1626164,Devin Booker,PHX,2365,Chris Andersen,MEM,0,nan,nan,Foul ,Shooting
+109786,21500875,4,7:16,nan,Andersen Free Throw 1 of 2 (3 PTS),86 - 94,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109787,21500875,4,7:16,nan,Andersen Free Throw 2 of 2 (4 PTS),87 - 94,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109788,21500875,4,7:03,nan,Andersen S.FOUL (P3.PN) (B.Barnaky),nan,2365,Chris Andersen,MEM,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+109789,21500875,4,7:03,Len Free Throw 1 of 2 (15 PTS),nan,87 - 95,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109790,21500875,4,7:03,Len Free Throw 2 of 2 (16 PTS),nan,87 - 96,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109791,21500875,4,6:50,nan,Barnes 26' 3PT Jump Shot (15 PTS) (Conley 7 AST),90 - 96,2440,Matt Barnes,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+109792,21500875,4,6:34,MISS Goodwin 2' Driving Layup,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109793,21500875,4,6:33,Len REBOUND (Off:1 Def:10),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109794,21500875,4,6:33,Len 1' Tip Layup Shot (18 PTS),nan,90 - 98,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109795,21500875,4,6:06,nan,MISS Conley 1' Driving Layup,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109796,21500875,4,6:05,Booker REBOUND (Off:2 Def:2),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109797,21500875,4,5:57,MISS Tucker  3PT Jump Shot,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109798,21500875,4,5:57,nan,Andersen REBOUND (Off:2 Def:3),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109799,21500875,4,5:57,nan,Grizzlies Timeout: Regular (Reg.5 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+109800,21500875,4,5:57,nan,SUB: Randolph FOR Carter,nan,1713,Vince Carter,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+109801,21500875,4,5:45,Booker S.FOUL (P5.T3) (S.Wright),nan,nan,1626164,Devin Booker,PHX,2440,Matt Barnes,MEM,0,nan,nan,Foul ,Shooting
+109802,21500875,4,5:45,nan,Barnes Free Throw 1 of 2 (16 PTS),91 - 98,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109803,21500875,4,5:45,nan,MISS Barnes Free Throw 2 of 2,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109804,21500875,4,5:44,Len REBOUND (Off:1 Def:11),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109805,21500875,4,5:27,Goodwin 2' Driving Layup (10 PTS),nan,91 - 100,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109806,21500875,4,5:13,nan,MISS Randolph 2' Driving Layup,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109807,21500875,4,5:12,Teletovic REBOUND (Off:1 Def:5),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109808,21500875,4,5:02,MISS Booker 25' 3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109809,21500875,4,5:02,Len REBOUND (Off:2 Def:11),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109810,21500875,4,5:02,nan,Barnes S.FOUL (P3.PN) (S.Wright),nan,2440,Matt Barnes,MEM,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+109811,21500875,4,5:02,MISS Len Free Throw 1 of 2,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109812,21500875,4,5:02,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+109813,21500875,4,5:02,MISS Len Free Throw 2 of 2,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109814,21500875,4,5:01,nan,Andersen REBOUND (Off:2 Def:4),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109815,21500875,4,4:48,nan,MISS Stephenson 2' Driving Layup,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109816,21500875,4,4:48,Tucker REBOUND (Off:5 Def:6),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109817,21500875,4,4:26,nan,Andersen Violation:Defensive Goaltending (S.Wright),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+109818,21500875,4,4:26,Goodwin 2' Driving Layup (12 PTS),nan,91 - 102,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109819,21500875,4,4:12,nan,Randolph 3' Driving Hook Shot (19 PTS),93 - 102,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+109820,21500875,4,3:57,MISS Teletovic 25' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109821,21500875,4,3:57,nan,Andersen REBOUND (Off:2 Def:5),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109822,21500875,4,3:51,Booker P.FOUL (P6.T4) (B.Barnaky),nan,nan,1626164,Devin Booker,PHX,2440,Matt Barnes,MEM,0,nan,nan,Foul ,Personal
+109823,21500875,4,3:51,SUB: Chandler FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+109824,21500875,4,3:51,SUB: Price FOR Booker,nan,nan,1626164,Devin Booker,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+109825,21500875,4,3:42,nan,MISS Barnes 19' Jump Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109826,21500875,4,3:42,Len REBOUND (Off:2 Def:12),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109827,21500875,4,3:28,MISS Goodwin 25' 3PT Jump Shot,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109828,21500875,4,3:27,nan,Andersen REBOUND (Off:2 Def:6),nan,2365,Chris Andersen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109829,21500875,4,3:09,Len BLOCK (2 BLK),MISS Randolph 4' Turnaround Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+109830,21500875,4,3:08,Chandler REBOUND (Off:3 Def:9),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109831,21500875,4,2:52,MISS Price  3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109832,21500875,4,2:51,nan,Randolph REBOUND (Off:1 Def:3),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109833,21500875,4,2:46,nan,Conley 26' 3PT Pullup Jump Shot (12 PTS),96 - 102,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+109834,21500875,4,2:21,Len 15' Jump Shot (20 PTS),nan,96 - 104,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109835,21500875,4,2:06,Len Personal Block Foul (P3.PN) (H.Workman),nan,nan,203458,Alex Len,PHX,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal Block
+109836,21500875,4,2:06,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+109837,21500875,4,2:06,nan,SUB: Hairston FOR Andersen,nan,2365,Chris Andersen,MEM,203798,PJ Hairston,MEM,0,nan,nan,Substitution ,nan
+109838,21500875,4,2:06,nan,SUB: Carter FOR Stephenson,nan,202362,Lance Stephenson,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+109839,21500875,4,2:06,nan,Conley Free Throw 1 of 2 (13 PTS),97 - 104,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109840,21500875,4,2:06,nan,Conley Free Throw 2 of 2 (14 PTS),98 - 104,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109841,21500875,4,1:49,MISS Goodwin 3' Driving Layup,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109842,21500875,4,1:49,nan,Barnes REBOUND (Off:1 Def:4),nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109843,21500875,4,1:30,nan,MISS Barnes 2' Cutting Layup Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109844,21500875,4,1:28,Len REBOUND (Off:2 Def:13),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109845,21500875,4,1:05,MISS Tucker 27' 3PT Jump Shot,nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109846,21500875,4,1:05,Len REBOUND (Off:3 Def:13),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109847,21500875,4,1:05,Len  Tip Dunk Shot (22 PTS),nan,98 - 106,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109848,21500875,4,1:00,nan,Carter 26' 3PT Jump Shot (5 PTS) (Conley 8 AST),101 - 106,1713,Vince Carter,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+109849,21500875,4,0:40,nan,Carter S.FOUL (P5.PN) (S.Wright),nan,1713,Vince Carter,MEM,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Shooting
+109850,21500875,4,0:40,Tucker Free Throw 1 of 2 (16 PTS),nan,101 - 107,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109851,21500875,4,0:40,SUB: Teletovic FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+109852,21500875,4,0:40,Tucker Free Throw 2 of 2 (17 PTS),nan,101 - 108,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109853,21500875,4,0:32,nan,nan,nan,569,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+109854,21500875,4,0:26,nan,nan,nan,573,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+109855,21500875,4,0:26,nan,SUB: Chalmers FOR Hairston,nan,203798,PJ Hairston,MEM,201596,Mario Chalmers,MEM,0,nan,nan,Substitution ,nan
+109856,21500875,4,0:22,nan,Conley 1' Driving Layup (16 PTS),103 - 108,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+109857,21500875,4,0:21,nan,Conley Personal Take Foul (P3.PN) (B.Barnaky),nan,201144,Mike Conley,MEM,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Personal Take
+109858,21500875,4,0:21,Price Free Throw 1 of 2 (12 PTS),nan,103 - 109,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+109859,21500875,4,0:21,MISS Price Free Throw 2 of 2,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+109860,21500875,4,0:21,Teletovic REBOUND (Off:2 Def:5),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109861,21500875,4,0:21,Teletovic 2' Tip Layup Shot (18 PTS),nan,103 - 111,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+109862,21500875,4,0:21,nan,nan,nan,580,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+109863,21500875,4,0:11,nan,MISS Carter 25' 3PT Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+109864,21500875,4,0:09,nan,Barnes REBOUND (Off:2 Def:4),nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+109865,21500875,4,0:05,Teletovic S.FOUL (P5.PN) (S.Wright),nan,nan,203141,Mirza Teletovic,PHX,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+109866,21500875,4,0:05,nan,nan,nan,585,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+109867,21500875,4,0:05,nan,Conley Free Throw 1 of 3 (17 PTS),104 - 111,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+109868,21500875,4,0:05,nan,Conley Free Throw 2 of 3 (18 PTS),105 - 111,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+109869,21500875,4,0:05,nan,Conley Free Throw 3 of 3 (19 PTS),106 - 111,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+109870,21500875,4,0:05,SUNS Timeout: Short (Full 3 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+109871,21500875,4,0:05,nan,SUB: Hairston FOR Randolph,nan,2216,Zach Randolph,MEM,203798,PJ Hairston,MEM,0,nan,nan,Substitution ,nan
+109872,21500875,4,0:05,nan,SUB: Stephenson FOR Carter,nan,1713,Vince Carter,MEM,202362,Lance Stephenson,MEM,0,nan,nan,Substitution ,nan
+109873,21500875,4,0:00,nan,nan,106 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

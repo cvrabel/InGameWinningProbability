@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+62694,21500502,4,12:00,nan,nan,72 - 96,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+62695,21500502,4,11:41,nan,Lawson 13' Step Back Jump Shot (6 PTS),74 - 96,201951,Ty Lawson,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+62696,21500502,4,11:22,MISS Mills 25' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62697,21500502,4,11:20,nan,Howard REBOUND (Off:1 Def:8),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62698,21500502,4,11:08,nan,Howard 1' Driving Layup (15 PTS) (Lawson 6 AST),76 - 96,2730,Dwight Howard,HOU,201951,Ty Lawson,HOU,0,nan,nan,Made Shot ,nan
+62699,21500502,4,11:08,Diaw S.FOUL (P3.T1) (D.Stafford),nan,nan,2564,Boris Diaw,SAS,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+62700,21500502,4,11:08,nan,MISS Howard Free Throw 1 of 1,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+62701,21500502,4,11:07,Diaw REBOUND (Off:2 Def:5),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62702,21500502,4,10:53,Mills 25' 3PT Pullup Jump Shot (6 PTS) (West 2 AST),nan,76 - 99,201988,Patty Mills,SAS,2561,David West,SAS,0,nan,nan,Made Shot ,nan
+62703,21500502,4,10:38,nan,Terry 26' 3PT Pullup Jump Shot (3 PTS) (Jones 3 AST),79 - 99,1891,Jason Terry,HOU,203093,Terrence Jones,HOU,0,nan,nan,Made Shot ,nan
+62704,21500502,4,10:26,Mills 25' 3PT Pullup Jump Shot (9 PTS),nan,79 - 102,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+62705,21500502,4,10:18,West S.FOUL (P2.T2) (K.Cutler),nan,nan,2561,David West,SAS,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+62706,21500502,4,10:18,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62707,21500502,4,10:18,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+62708,21500502,4,10:18,nan,Howard Free Throw 2 of 2 (16 PTS),80 - 102,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62709,21500502,4,10:04,nan,Brewer P.FOUL (P3.T1) (K.Cutler),nan,201147,Corey Brewer,HOU,2564,Boris Diaw,SAS,0,nan,nan,Foul ,Personal
+62710,21500502,4,9:56,MISS Ginobili 23' Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62711,21500502,4,9:55,nan,Brewer REBOUND (Off:1 Def:1),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62712,21500502,4,9:53,nan,Howard  Running Dunk (18 PTS) (Brewer 1 AST),82 - 102,2730,Dwight Howard,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+62713,21500502,4,9:53,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+62714,21500502,4,9:37,Diaw 1' Cutting Finger Roll Layup Shot (17 PTS) (Ginobili 5 AST),nan,82 - 104,2564,Boris Diaw,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+62715,21500502,4,9:18,nan,Jones 2' Layup (8 PTS) (Howard 2 AST),84 - 104,203093,Terrence Jones,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+62716,21500502,4,9:01,MISS Diaw 1' Finger Roll Layup,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62717,21500502,4,8:59,nan,Jones REBOUND (Off:0 Def:2),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62718,21500502,4,8:51,nan,Howard Bad Pass Turnover (P2.T15),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+62719,21500502,4,8:42,Diaw 1' Reverse Layup (19 PTS) (Mills 3 AST),nan,84 - 106,2564,Boris Diaw,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+62720,21500502,4,8:42,nan,Jones S.FOUL (P4.T2) (K.Cutler),nan,203093,Terrence Jones,HOU,2564,Boris Diaw,SAS,0,nan,nan,Foul ,Shooting
+62721,21500502,4,8:42,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+62722,21500502,4,8:42,nan,SUB: Capela FOR Jones,nan,203093,Terrence Jones,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+62723,21500502,4,8:42,Diaw Free Throw 1 of 1 (20 PTS),nan,84 - 107,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+62724,21500502,4,8:32,nan,MISS Brewer 24' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62725,21500502,4,8:31,Green REBOUND (Off:0 Def:4),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62726,21500502,4,8:15,MISS Leonard 3' Driving Hook Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62727,21500502,4,8:13,Diaw REBOUND (Off:3 Def:5),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62728,21500502,4,8:01,MISS Leonard 17' Pullup Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62729,21500502,4,7:59,nan,Terry REBOUND (Off:0 Def:1),nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62730,21500502,4,7:52,nan,Terry  3PT Pullup Jump Shot (6 PTS) (Brewer 2 AST),87 - 107,1891,Jason Terry,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+62731,21500502,4,7:41,nan,Brewer P.FOUL (P4.T3) (M.Smith),nan,201147,Corey Brewer,HOU,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+62732,21500502,4,7:41,nan,SUB: Beverley FOR Lawson,nan,201951,Ty Lawson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+62733,21500502,4,7:41,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+62734,21500502,4,7:41,SUB: Aldridge FOR Diaw,nan,nan,2564,Boris Diaw,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+62735,21500502,4,7:35,Leonard OFF.Foul (P3) (K.Cutler),nan,nan,202695,Kawhi Leonard,SAS,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Offensive
+62736,21500502,4,7:35,Leonard Foul Turnover (P3.T10),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+62737,21500502,4,7:16,Aldridge S.FOUL (P3.T3) (D.Stafford),nan,nan,200746,LaMarcus Aldridge,SAS,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+62738,21500502,4,7:16,nan,Howard Free Throw 1 of 2 (19 PTS),88 - 107,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62739,21500502,4,7:16,SUB: Simmons FOR Green,nan,nan,201980,Danny Green,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+62740,21500502,4,7:16,nan,Howard Free Throw 2 of 2 (20 PTS),89 - 107,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62741,21500502,4,6:50,MISS West 15' Jump Shot,nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62742,21500502,4,6:48,Aldridge REBOUND (Off:1 Def:5),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62743,21500502,4,6:47,MISS Aldridge 1' Tip Layup Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62744,21500502,4,6:45,nan,Beverley REBOUND (Off:0 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62745,21500502,4,6:28,nan,MISS Beverley  Layup,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62746,21500502,4,6:26,nan,Howard REBOUND (Off:2 Def:8),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62747,21500502,4,6:23,nan,MISS Terry 26' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62748,21500502,4,6:21,nan,Beverley REBOUND (Off:1 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62749,21500502,4,6:18,nan,MISS Beverley 3' Tip Layup Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62750,21500502,4,6:17,Aldridge REBOUND (Off:1 Def:6),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62751,21500502,4,6:04,MISS Aldridge 17' Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62752,21500502,4,6:03,nan,Capela REBOUND (Off:1 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62753,21500502,4,5:44,nan,MISS Brewer 9' Turnaround Bank Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62754,21500502,4,5:43,Aldridge REBOUND (Off:1 Def:7),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62755,21500502,4,5:34,West 14' Jump Shot (10 PTS) (Parker 9 AST),nan,89 - 109,2561,David West,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+62756,21500502,4,5:22,Aldridge STEAL (2 STL),Brewer Bad Pass Turnover (P2.T16),nan,201147,Corey Brewer,HOU,200746,LaMarcus Aldridge,SAS,0,nan,nan,Turnover ,Bad Pass
+62757,21500502,4,5:19,Aldridge  Running Dunk (24 PTS),nan,89 - 111,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+62758,21500502,4,5:18,nan,Rockets Timeout: Regular (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+62759,21500502,4,5:18,nan,SUB: McDaniels FOR Capela,nan,203991,Clint Capela,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+62760,21500502,4,5:18,nan,SUB: Harrell FOR Brewer,nan,201147,Corey Brewer,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+62761,21500502,4,5:00,West S.FOUL (P3.T4) (K.Cutler),nan,nan,2561,David West,SAS,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+62762,21500502,4,5:00,nan,Howard Free Throw 1 of 2 (21 PTS),90 - 111,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62763,21500502,4,5:00,nan,Howard Free Throw 2 of 2 (22 PTS),91 - 111,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62764,21500502,4,4:39,MISS Aldridge 16' Fadeaway Jumper,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62765,21500502,4,4:38,nan,Terry REBOUND (Off:0 Def:2),nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62766,21500502,4,4:34,Simmons S.FOUL (P1.PN) (M.Smith),nan,nan,203613,Jonathon Simmons,SAS,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Shooting
+62767,21500502,4,4:34,nan,MISS Harrell Free Throw 1 of 2,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62768,21500502,4,4:34,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+62769,21500502,4,4:34,nan,MISS Harrell Free Throw 2 of 2,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62770,21500502,4,4:34,Leonard REBOUND (Off:1 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62771,21500502,4,4:09,MISS Simmons 25' 3PT Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62772,21500502,4,4:07,Aldridge REBOUND (Off:2 Def:7),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62773,21500502,4,3:57,SUB: Marjanovic FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+62774,21500502,4,3:53,MISS Leonard 18' Step Back Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62775,21500502,4,3:50,nan,Harrell REBOUND (Off:0 Def:1),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62776,21500502,4,3:43,nan,Harrell 19' Jump Shot (2 PTS) (Beverley 6 AST),93 - 111,1626149,Montrezl Harrell,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+62777,21500502,4,3:19,MISS Marjanovic 8' Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62778,21500502,4,3:17,nan,Howard REBOUND (Off:2 Def:9),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62779,21500502,4,3:12,nan,Beverley 26' 3PT Pullup Jump Shot (6 PTS),96 - 111,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+62780,21500502,4,2:52,Simmons  Cutting Dunk Shot (2 PTS) (Marjanovic 1 AST),nan,96 - 113,203613,Jonathon Simmons,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Made Shot ,nan
+62781,21500502,4,2:26,nan,MISS Harrell 17' Turnaround Jump Shot,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62782,21500502,4,2:23,Parker REBOUND (Off:0 Def:4),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62783,21500502,4,2:11,Leonard 4' Driving Hook Shot (22 PTS) (Parker 10 AST),nan,96 - 115,202695,Kawhi Leonard,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+62784,21500502,4,2:07,Parker Personal Take Foul (P1.PN) (D.Stafford),nan,nan,2225,Tony Parker,SAS,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal Take
+62785,21500502,4,2:07,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+62786,21500502,4,2:07,SUB: Anderson FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+62787,21500502,4,2:07,SUB: Bonner FOR Parker,nan,nan,2225,Tony Parker,SAS,2588,Matt Bonner,SAS,0,nan,nan,Substitution ,nan
+62788,21500502,4,2:07,SUB: Diaw FOR West,nan,nan,2561,David West,SAS,2564,Boris Diaw,SAS,0,nan,nan,Substitution ,nan
+62789,21500502,4,2:07,nan,MISS Beverley Free Throw 1 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62790,21500502,4,2:07,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+62791,21500502,4,2:07,nan,Beverley Free Throw 2 of 2 (7 PTS),97 - 115,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62792,21500502,4,1:56,Simmons 1' Driving Finger Roll Layup (4 PTS),nan,97 - 117,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+62793,21500502,4,1:46,nan,MISS Terry 27' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62794,21500502,4,1:45,Simmons REBOUND (Off:0 Def:1),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62795,21500502,4,1:38,nan,Terry S.FOUL (P1.T4) (K.Cutler),nan,1891,Jason Terry,HOU,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Shooting
+62796,21500502,4,1:38,Anderson Free Throw 1 of 2 (1 PTS),nan,97 - 118,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62797,21500502,4,1:38,Anderson Free Throw 2 of 2 (2 PTS),nan,97 - 119,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62798,21500502,4,1:30,Simmons BLOCK (1 BLK),MISS Beverley 12' Floating Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,203613,Jonathon Simmons,SAS,Missed Shot ,nan
+62799,21500502,4,1:30,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62800,21500502,4,1:18,Simmons P.FOUL (P2.PN) (D.Stafford),nan,nan,203613,Jonathon Simmons,SAS,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal
+62801,21500502,4,1:18,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62802,21500502,4,1:18,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+62803,21500502,4,1:18,nan,MISS Howard Free Throw 2 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62804,21500502,4,1:17,nan,Beverley REBOUND (Off:2 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62805,21500502,4,1:14,Bonner Personal Block Foul (P1.PN) (M.Smith),nan,nan,2588,Matt Bonner,SAS,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal Block
+62806,21500502,4,1:14,nan,MISS Beverley Free Throw 1 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+62807,21500502,4,1:14,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62808,21500502,4,1:14,nan,Beverley Free Throw 2 of 2 (8 PTS),98 - 119,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+62809,21500502,4,0:55,MISS Marjanovic 16' Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62810,21500502,4,0:54,nan,Howard REBOUND (Off:2 Def:10),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62811,21500502,4,0:49,nan,Beverley 3' Driving Finger Roll Layup (10 PTS),100 - 119,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+62812,21500502,4,0:31,Simmons 7' Floating Jump Shot (6 PTS),nan,100 - 121,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+62813,21500502,4,0:26,nan,Terry 24' 3PT Jump Shot (9 PTS) (Beverley 7 AST),103 - 121,1891,Jason Terry,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+62814,21500502,4,0:03,Marjanovic Bad Pass Turnover (P1.T11),McDaniels STEAL (1 STL),nan,1626246,Boban Marjanovic,SAS,203909,KJ McDaniels,HOU,0,nan,nan,Turnover ,Bad Pass
+62815,21500502,4,0:00,nan,MISS McDaniels 3' Layup,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+62816,21500502,4,0:00,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+62817,21500502,4,0:00,nan,nan,103 - 121,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,166 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+18245,21500144,4,12:00,nan,nan,77 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+18246,21500144,4,11:44,Bogut P.FOUL (P3.T1) (J.Williams),nan,nan,101106,Andrew Bogut,GSW,2207,Joe Johnson,BKN,0,nan,nan,Foul ,Personal
+18247,21500144,4,11:33,nan,MISS Johnson 26' 3PT Pullup Jump Shot,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18248,21500144,4,11:32,Bogut REBOUND (Off:2 Def:7),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18249,21500144,4,11:17,Bogut 8' Turnaround Hook Shot (6 PTS),nan,77 - 72,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+18250,21500144,4,10:59,Bogut STEAL (2 STL),Johnson Bad Pass Turnover (P2.T8),nan,2207,Joe Johnson,BKN,101106,Andrew Bogut,GSW,0,nan,nan,Turnover ,Bad Pass
+18251,21500144,4,10:51,nan,Ellington P.FOUL (P2.T1) (J.Williams),nan,201961,Wayne Ellington,BKN,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Personal
+18252,21500144,4,10:40,Clark 7' Driving Floating Jump Shot (2 PTS),nan,77 - 74,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+18253,21500144,4,10:16,nan,MISS Bogdanovic 26' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18254,21500144,4,10:15,Bogut REBOUND (Off:2 Def:8),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18255,21500144,4,10:02,MISS Clark 24' 3PT Pullup Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18256,21500144,4,10:01,nan,Larkin REBOUND (Off:0 Def:1),nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18257,21500144,4,9:48,nan,Larkin 17' Pullup Jump Shot (2 PTS),79 - 74,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+18258,21500144,4,9:37,Bogut 4' Driving Hook Shot (8 PTS) (Livingston 2 AST),nan,79 - 76,101106,Andrew Bogut,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+18259,21500144,4,9:18,Bogut P.FOUL (P4.T2) (M.Ervin),nan,nan,101106,Andrew Bogut,GSW,2207,Joe Johnson,BKN,0,nan,nan,Foul ,Personal
+18260,21500144,4,9:03,nan,Lopez 1' Reverse Layup (16 PTS) (Bogdanovic 2 AST),81 - 76,201572,Brook Lopez,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Made Shot ,nan
+18261,21500144,4,8:42,MISS Livingston 17' Pullup Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18262,21500144,4,8:41,nan,Bogdanovic REBOUND (Off:0 Def:3),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18263,21500144,4,8:31,nan,MISS Lopez 20' Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18264,21500144,4,8:30,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18265,21500144,4,8:30,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+18266,21500144,4,8:30,SUB: Curry FOR Clark,nan,nan,203546,Ian Clark,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+18267,21500144,4,8:30,nan,SUB: Jack FOR Johnson,nan,2207,Joe Johnson,BKN,101127,Jarrett Jack,BKN,0,nan,nan,Substitution ,nan
+18268,21500144,4,8:13,MISS Iguodala 26' 3PT Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18269,21500144,4,8:13,nan,Larkin REBOUND (Off:0 Def:2),nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18270,21500144,4,8:05,nan,Bogdanovic 1' Driving Layup (2 PTS) (Larkin 2 AST),83 - 76,202711,Bojan Bogdanovic,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+18271,21500144,4,7:52,MISS Bogut 9' Floating Jump Shot,nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18272,21500144,4,7:51,nan,Lopez REBOUND (Off:2 Def:5),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18273,21500144,4,7:41,nan,MISS Larkin 24' 3PT Jump Shot,nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18274,21500144,4,7:41,Iguodala REBOUND (Off:1 Def:5),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18275,21500144,4,7:38,nan,Jack P.FOUL (P3.T2) (M.Ervin),nan,101127,Jarrett Jack,BKN,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+18276,21500144,4,7:27,Curry 25' 3PT Pullup Jump Shot (27 PTS) (Iguodala 2 AST),nan,83 - 79,201939,Stephen Curry,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+18277,21500144,4,7:07,nan,MISS Bogdanovic 27' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18278,21500144,4,7:07,Barnes REBOUND (Off:0 Def:2),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18279,21500144,4,6:54,MISS Curry 9' Floating Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18280,21500144,4,6:52,Bogut REBOUND (Off:3 Def:8),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18281,21500144,4,6:52,MISS Bogut 2' Layup,nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18282,21500144,4,6:50,Bogut REBOUND (Off:4 Def:8),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18283,21500144,4,6:49,Bogut Bad Pass Turnover (P1.T11),Larkin STEAL (1 STL),nan,101106,Andrew Bogut,GSW,203499,Shane Larkin,BKN,0,nan,nan,Turnover ,Bad Pass
+18284,21500144,4,6:46,Iguodala S.FOUL (P2.T3) (M.McCutchen),nan,nan,2738,Andre Iguodala,GSW,201961,Wayne Ellington,BKN,0,nan,nan,Foul ,Shooting
+18285,21500144,4,6:46,nan,Ellington Free Throw 1 of 2 (5 PTS),84 - 79,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+18286,21500144,4,6:46,SUB: Green FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+18287,21500144,4,6:46,nan,SUB: Young FOR Larkin,nan,203499,Shane Larkin,BKN,201152,Thaddeus Young,BKN,0,nan,nan,Substitution ,nan
+18288,21500144,4,6:46,nan,Ellington Free Throw 2 of 2 (6 PTS),85 - 79,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+18289,21500144,4,6:28,MISS Curry 24' 3PT Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18290,21500144,4,6:27,Bogut REBOUND (Off:5 Def:8),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18291,21500144,4,6:18,nan,Young P.FOUL (P1.T3) (M.McCutchen),nan,201152,Thaddeus Young,BKN,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Personal
+18292,21500144,4,6:03,Green 2' Driving Layup (10 PTS) (Curry 5 AST),nan,85 - 81,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+18293,21500144,4,5:46,nan,MISS Jack 24' 3PT Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18294,21500144,4,5:45,nan,Lopez REBOUND (Off:3 Def:5),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18295,21500144,4,5:31,nan,MISS Young 7' Turnaround Hook Shot,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18296,21500144,4,5:31,Bogut REBOUND (Off:5 Def:9),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18297,21500144,4,5:24,Curry 24' 3PT Pullup Jump Shot (30 PTS) (Green 7 AST),nan,85 - 84,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18298,21500144,4,5:23,nan,Nets Timeout: Regular (Reg.4 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+18299,21500144,4,5:23,nan,SUB: Robinson FOR Lopez,nan,201572,Brook Lopez,BKN,203080,Thomas Robinson,BKN,0,nan,nan,Substitution ,nan
+18300,21500144,4,5:23,SUB: Barnes FOR Bogut,nan,nan,101106,Andrew Bogut,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+18301,21500144,4,5:16,Livingston P.FOUL (P3.T4) (M.McCutchen),nan,nan,2733,Shaun Livingston,GSW,101127,Jarrett Jack,BKN,0,nan,nan,Foul ,Personal
+18302,21500144,4,5:16,nan,SUB: Johnson FOR Robinson,nan,203080,Thomas Robinson,BKN,2207,Joe Johnson,BKN,0,nan,nan,Substitution ,nan
+18303,21500144,4,5:16,nan,SUB: Hollis-Jefferson FOR Ellington,nan,201961,Wayne Ellington,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+18304,21500144,4,5:03,Green BLOCK (4 BLK),MISS Jack 5' Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+18305,21500144,4,5:01,nan,Hollis-Jefferson REBOUND (Off:4 Def:8),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18306,21500144,4,4:58,nan,MISS Hollis-Jefferson 26' 3PT Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18307,21500144,4,4:57,Green REBOUND (Off:1 Def:6),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18308,21500144,4,4:36,Curry 1' Driving Reverse Layup (32 PTS) (Green 8 AST),nan,85 - 86,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18309,21500144,4,4:14,nan,MISS Johnson 20' Fadeaway Jumper,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18310,21500144,4,4:13,Curry REBOUND (Off:0 Def:3),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18311,21500144,4,4:07,MISS Curry 18' Pullup Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18312,21500144,4,4:06,Barnes REBOUND (Off:1 Def:2),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18313,21500144,4,3:45,Barnes 15' Pullup Jump Shot (13 PTS) (Green 9 AST),nan,85 - 88,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18314,21500144,4,3:19,nan,Johnson 16' Step Back Jump Shot (6 PTS),87 - 88,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+18315,21500144,4,2:58,MISS Livingston  Driving Dunk,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18316,21500144,4,2:57,nan,Hollis-Jefferson REBOUND (Off:4 Def:9),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18317,21500144,4,2:49,nan,Young Traveling Turnover (P1.T9),nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+18318,21500144,4,2:49,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+18319,21500144,4,2:49,nan,SUB: Lopez FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+18320,21500144,4,2:49,SUB: Bogut FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+18321,21500144,4,2:39,Green 2' Cutting Layup Shot (12 PTS) (Iguodala 3 AST),nan,87 - 90,203110,Draymond Green,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+18322,21500144,4,2:26,Green P.FOUL (P3.PN) (M.McCutchen),nan,nan,203110,Draymond Green,GSW,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Personal
+18323,21500144,4,2:26,nan,Lopez Free Throw 1 of 2 (17 PTS),88 - 90,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+18324,21500144,4,2:26,nan,Lopez Free Throw 2 of 2 (18 PTS),89 - 90,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+18325,21500144,4,2:13,MISS Green 25' 3PT Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18326,21500144,4,2:13,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18327,21500144,4,2:13,nan,Lopez L.B.FOUL (P3.T4) (J.Williams),nan,201572,Brook Lopez,BKN,101106,Andrew Bogut,GSW,0,nan,nan,Foul ,Loose Ball
+18328,21500144,4,2:00,MISS Green 5' Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18329,21500144,4,1:58,Green REBOUND (Off:2 Def:6),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18330,21500144,4,1:58,MISS Green 3' Tip Layup Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18331,21500144,4,1:56,nan,Bogdanovic REBOUND (Off:0 Def:4),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18332,21500144,4,1:45,Livingston S.FOUL (P4.PN) (J.Williams),nan,nan,2733,Shaun Livingston,GSW,101127,Jarrett Jack,BKN,0,nan,nan,Foul ,Shooting
+18333,21500144,4,1:45,nan,Jack Free Throw 1 of 2 (23 PTS),90 - 90,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+18334,21500144,4,1:45,nan,Jack Free Throw 2 of 2 (24 PTS),91 - 90,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+18335,21500144,4,1:26,Iguodala 17' Pullup Jump Shot (10 PTS),nan,91 - 92,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+18336,21500144,4,1:16,nan,Jack 8' Driving Floating Jump Shot (26 PTS),93 - 92,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+18337,21500144,4,1:05,Green 2' Driving Layup (14 PTS) (Curry 6 AST),nan,93 - 94,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+18338,21500144,4,0:50,nan,MISS Jack 16' Pullup Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18339,21500144,4,0:50,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18340,21500144,4,0:50,nan,nan,nan,447,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+18341,21500144,4,0:43,nan,MISS Lopez 4' Driving Hook Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18342,21500144,4,0:43,Bogut REBOUND (Off:5 Def:10),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18343,21500144,4,0:41,Bogut Lost Ball Turnover (P2.T12),Young STEAL (2 STL),nan,101106,Andrew Bogut,GSW,201152,Thaddeus Young,BKN,0,nan,nan,Turnover ,Lost Ball
+18344,21500144,4,0:29,Livingston S.FOUL (P5.PN) (M.McCutchen),nan,nan,2733,Shaun Livingston,GSW,101127,Jarrett Jack,BKN,0,nan,nan,Foul ,Shooting
+18345,21500144,4,0:29,nan,Jack Free Throw 1 of 2 (27 PTS),94 - 94,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+18346,21500144,4,0:29,nan,SUB: Hollis-Jefferson FOR Young,nan,201152,Thaddeus Young,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+18347,21500144,4,0:29,SUB: Barnes FOR Bogut,nan,nan,101106,Andrew Bogut,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+18348,21500144,4,0:29,nan,SUB: Young FOR Lopez,nan,201572,Brook Lopez,BKN,201152,Thaddeus Young,BKN,0,nan,nan,Substitution ,nan
+18349,21500144,4,0:29,nan,Jack Free Throw 2 of 2 (28 PTS),95 - 94,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+18350,21500144,4,0:22,MISS Curry 2' Running Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18351,21500144,4,0:21,nan,Young REBOUND (Off:3 Def:7),nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18352,21500144,4,0:15,nan,Nets Turnover: 8 Second Violation (T#10),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Turnover ,8 Second Violation
+18353,21500144,4,0:15,WARRIORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+18354,21500144,4,0:09,Curry Bad Pass Turnover (P3.T13),Young STEAL (3 STL),nan,201939,Stephen Curry,GSW,201152,Thaddeus Young,BKN,0,nan,nan,Turnover ,Bad Pass
+18355,21500144,4,0:09,Green P.FOUL (P4.PN) (M.Ervin),nan,nan,203110,Draymond Green,GSW,201152,Thaddeus Young,BKN,0,nan,nan,Foul ,Personal
+18356,21500144,4,0:09,nan,Young Free Throw 1 of 2 (23 PTS),96 - 94,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+18357,21500144,4,0:09,nan,Young Free Throw 2 of 2 (24 PTS),97 - 94,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+18358,21500144,4,0:09,WARRIORS Timeout: Short (Full 5 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+18359,21500144,4,0:05,Iguodala 27' 3PT Pullup Jump Shot (13 PTS) (Green 10 AST),nan,97 - 97,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18360,21500144,4,0:05,nan,nan,nan,474,Stefano Rusconi,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+18361,21500144,4,0:05,nan,Nets Timeout: Short (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+18362,21500144,4,0:05,SUB: Bogut FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+18363,21500144,4,0:05,nan,Nets Timeout: Regular (Reg.5 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+18364,21500144,4,0:05,nan,SUB: Lopez FOR Young,nan,201152,Thaddeus Young,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+18365,21500144,4,0:05,nan,SUB: Ellington FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+18366,21500144,4,0:01,nan,MISS Jack 19' Pullup Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18367,21500144,4,0:00,nan,Lopez REBOUND (Off:4 Def:5),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18368,21500144,4,0:00,nan,MISS Lopez 2' Tip Layup Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18369,21500144,4,0:00,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18370,21500144,4,0:00,nan,nan,nan,485,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+18371,21500144,4,0:00,SUB: Ezeli FOR Curry,nan,nan,201939,Stephen Curry,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Substitution ,nan
+18372,21500144,4,0:00,nan,MISS Lopez 2' Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18373,21500144,4,0:00,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18374,21500144,4,0:00,nan,nan,97 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+18375,21500144,5,5:00,nan,nan,97 - 97,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+18376,21500144,5,5:00,Jump Ball Bogut vs. Lopez: Tip to Curry,nan,nan,101106,Andrew Bogut,GSW,201572,Brook Lopez,BKN,201939,Stephen Curry,GSW,Jump Ball ,nan
+18377,21500144,5,4:46,MISS Green 2' Driving Layup,Lopez BLOCK (3 BLK),nan,203110,Draymond Green,GSW,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+18378,21500144,5,4:45,nan,Bogdanovic REBOUND (Off:0 Def:5),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18379,21500144,5,4:41,nan,Johnson Out of Bounds - Bad Pass Turnover Turnover (P3.T11),nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+18380,21500144,5,4:33,Bogut  Alley Oop Dunk (10 PTS) (Green 11 AST),nan,97 - 99,101106,Andrew Bogut,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18381,21500144,5,4:19,nan,MISS Jack 18' Pullup Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18382,21500144,5,4:18,Green REBOUND (Off:2 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18383,21500144,5,4:00,MISS Curry 25' 3PT Turnaround Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18384,21500144,5,3:58,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18385,21500144,5,3:35,Iguodala STEAL (2 STL),Johnson Lost Ball Turnover (P4.T12),nan,2207,Joe Johnson,BKN,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Lost Ball
+18386,21500144,5,3:30,Livingston  Running Dunk (6 PTS) (Iguodala 4 AST),nan,97 - 101,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+18387,21500144,5,3:13,nan,SUB: Young FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201152,Thaddeus Young,BKN,0,nan,nan,Substitution ,nan
+18388,21500144,5,3:03,nan,MISS Bogdanovic 27' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18389,21500144,5,3:03,Bogut REBOUND (Off:5 Def:11),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18390,21500144,5,2:43,Green 8' Driving Floating Jump Shot (16 PTS) (Iguodala 5 AST),nan,97 - 103,203110,Draymond Green,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+18391,21500144,5,2:26,Bogut BLOCK (2 BLK),MISS Jack 6' Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+18392,21500144,5,2:25,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18393,21500144,5,2:05,Curry  Driving Dunk (34 PTS) (Iguodala 6 AST),nan,97 - 105,201939,Stephen Curry,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+18394,21500144,5,2:05,nan,Nets Timeout: Regular (Reg.6 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+18395,21500144,5,1:53,Green STEAL (2 STL),Johnson Bad Pass Turnover (P5.T13),nan,2207,Joe Johnson,BKN,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+18396,21500144,5,1:50,Iguodala  Running Alley Oop Dunk Shot (15 PTS) (Green 12 AST),nan,97 - 107,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+18397,21500144,5,1:35,nan,MISS Young 15' Turnaround Jump Shot,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18398,21500144,5,1:33,Green REBOUND (Off:2 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18399,21500144,5,1:14,Curry Bad Pass Turnover (P4.T14),Jack STEAL (2 STL),nan,201939,Stephen Curry,GSW,101127,Jarrett Jack,BKN,0,nan,nan,Turnover ,Bad Pass
+18400,21500144,5,1:09,nan,Young 2' Driving Layup (26 PTS),99 - 107,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+18401,21500144,5,0:51,nan,Young P.FOUL (P2.T1) (M.Ervin),nan,201152,Thaddeus Young,BKN,101106,Andrew Bogut,GSW,0,nan,nan,Foul ,Personal
+18402,21500144,5,0:38,MISS Curry 18' Step Back Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18403,21500144,5,0:37,nan,Bogdanovic REBOUND (Off:0 Def:6),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18404,21500144,5,0:30,Bogut BLOCK (3 BLK),MISS Jack 29' 3PT Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+18405,21500144,5,0:29,Bogut REBOUND (Off:5 Def:12),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18406,21500144,5,0:07,WARRIORS Turnover: Shot Clock (T#15),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+18407,21500144,5,0:01,nan,MISS Lopez 27' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+18408,21500144,5,0:00,Bogut REBOUND (Off:5 Def:13),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+18409,21500144,5,0:00,nan,nan,99 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

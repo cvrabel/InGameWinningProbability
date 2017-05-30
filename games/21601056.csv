@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+283141,21601056,4,12:00,nan,nan,73 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+283142,21601056,4,11:39,nan,Aldridge S.FOUL (P1.T1) (S.Anderson),nan,200746,LaMarcus Aldridge,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+283143,21601056,4,11:39,Towns Free Throw 1 of 2 (11 PTS),nan,73 - 68,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283144,21601056,4,11:39,Towns Free Throw 2 of 2 (12 PTS),nan,73 - 69,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283145,21601056,4,11:20,nan,Ginobili 18' Step Back Jump Shot (9 PTS),75 - 69,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283146,21601056,4,10:57,Casspi Lost Ball Turnover (P5.T20),Ginobili STEAL (3 STL),nan,201956,Omri Casspi,MIN,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Lost Ball
+283147,21601056,4,10:42,nan,Aldridge 15' Fadeaway Jumper (24 PTS),77 - 69,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283148,21601056,4,10:21,nan,Green S.FOUL (P3.T2) (S.Anderson),nan,201980,Danny Green,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+283149,21601056,4,10:21,Towns Free Throw 1 of 2 (13 PTS),nan,77 - 70,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283150,21601056,4,10:21,Towns Free Throw 2 of 2 (14 PTS),nan,77 - 71,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283151,21601056,4,10:05,Towns BLOCK (2 BLK),MISS Aldridge 2' Layup,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+283152,21601056,4,10:03,nan,Ginobili REBOUND (Off:2 Def:1),nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283153,21601056,4,10:01,nan,Green 1' Layup (10 PTS) (Ginobili 2 AST),79 - 71,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+283154,21601056,4,9:45,Dunn 24' 3PT Jump Shot (3 PTS) (Jones 3 AST),nan,79 - 74,1627739,Kris Dunn,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+283155,21601056,4,9:33,nan,Mills 25' 3PT Jump Shot (8 PTS) (Aldridge 3 AST),82 - 74,201988,Patty Mills,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+283156,21601056,4,9:17,Towns 8' Jump Shot (16 PTS) (Jones 4 AST),nan,82 - 76,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+283157,21601056,4,9:11,nan,Spurs Timeout: Regular (Reg.4 Short 1),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283158,21601056,4,9:11,SUB: Dieng FOR Casspi,nan,nan,201956,Omri Casspi,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+283159,21601056,4,9:03,nan,MISS Aldridge 19' Jump Shot,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283160,21601056,4,9:01,Dieng REBOUND (Off:1 Def:2),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283161,21601056,4,8:43,nan,Mills P.FOUL (P1.T3) (J.Tiven),nan,201988,Patty Mills,SAS,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+283162,21601056,4,8:43,nan,SUB: Leonard FOR Ginobili,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+283163,21601056,4,8:33,Towns 10' Turnaround Jump Shot (18 PTS) (Jones 5 AST),nan,82 - 78,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+283164,21601056,4,8:13,nan,Leonard 1' Driving Finger Roll Layup (16 PTS),84 - 78,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283165,21601056,4,7:49,nan,Aldridge P.FOUL (P2.T4) (J.Tiven),nan,200746,LaMarcus Aldridge,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+283166,21601056,4,7:49,SUB: Wiggins FOR Jones,nan,nan,1626145,Tyus Jones,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+283167,21601056,4,7:49,nan,SUB: Gasol FOR Dedmon,nan,203473,Dewayne Dedmon,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+283168,21601056,4,7:49,nan,SUB: Parker FOR Mills,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+283169,21601056,4,7:39,Dunn 18' Step Back Jump Shot (5 PTS),nan,84 - 80,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+283170,21601056,4,7:20,nan,Leonard 8' Floating Jump Shot (18 PTS),86 - 80,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283171,21601056,4,7:00,MISS Wiggins 21' Pullup Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283172,21601056,4,6:58,nan,Leonard REBOUND (Off:0 Def:3),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283173,21601056,4,6:51,Dieng P.FOUL (P3.T1) (J.Tiven),nan,nan,203476,Gorgui Dieng,MIN,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+283174,21601056,4,6:51,SUB: Rubio FOR Dunn,nan,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+283175,21601056,4,6:51,nan,SUB: Simmons FOR Leonard,nan,202695,Kawhi Leonard,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+283176,21601056,4,6:43,nan,Gasol 6' Jump Shot (9 PTS),88 - 80,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283177,21601056,4,6:29,nan,Aldridge S.FOUL (P3.PN) (J.Tiven),nan,200746,LaMarcus Aldridge,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+283178,21601056,4,6:29,Towns Free Throw 1 of 2 (19 PTS),nan,88 - 81,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283179,21601056,4,6:29,SUB: Dunn FOR Muhammad,nan,nan,203498,Shabazz Muhammad,MIN,1627739,Kris Dunn,MIN,0,nan,nan,Substitution ,nan
+283180,21601056,4,6:29,Towns Free Throw 2 of 2 (20 PTS),nan,88 - 82,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283181,21601056,4,6:04,nan,MISS Gasol 25' 3PT Jump Shot,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283182,21601056,4,6:03,Dunn REBOUND (Off:0 Def:2),nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283183,21601056,4,5:58,Wiggins  Running Dunk (20 PTS) (Rubio 6 AST),nan,88 - 84,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+283184,21601056,4,5:43,nan,MISS Parker 13' Pullup Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283185,21601056,4,5:42,Wiggins REBOUND (Off:0 Def:3),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283186,21601056,4,5:24,MISS Dieng  3PT Jump Shot,nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283187,21601056,4,5:23,nan,Simmons REBOUND (Off:0 Def:2),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283188,21601056,4,5:05,nan,Aldridge 20' Jump Shot (26 PTS) (Green 3 AST),90 - 84,200746,LaMarcus Aldridge,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+283189,21601056,4,4:39,MISS Wiggins 1' Driving Layup,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283190,21601056,4,4:38,Towns REBOUND (Off:6 Def:9),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283191,21601056,4,4:38,Towns  Putback Dunk (22 PTS),nan,90 - 86,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+283192,21601056,4,4:23,nan,MISS Aldridge 21' Jump Shot,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283193,21601056,4,4:22,nan,Simmons REBOUND (Off:1 Def:2),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283194,21601056,4,4:22,nan,Simmons  Putback Dunk (8 PTS),92 - 86,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283195,21601056,4,3:58,MISS Dieng 2' Reverse Layup,Gasol BLOCK (1 BLK),nan,203476,Gorgui Dieng,MIN,0,nan,nan,2200,Pau Gasol,SAS,Missed Shot ,nan
+283196,21601056,4,3:55,nan,Aldridge REBOUND (Off:3 Def:1),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283197,21601056,4,3:40,nan,MISS Aldridge 1' Alley Oop Layup,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283198,21601056,4,3:39,Rubio REBOUND (Off:1 Def:5),nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283199,21601056,4,3:23,Rubio 17' Pullup Jump Shot (9 PTS),nan,92 - 88,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+283200,21601056,4,3:02,nan,MISS Parker 22' Pullup Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283201,21601056,4,3:02,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283202,21601056,4,3:02,Dieng L.B.FOUL (P4.T2) (S.Foster),nan,nan,203476,Gorgui Dieng,MIN,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Loose Ball
+283203,21601056,4,3:02,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283204,21601056,4,3:02,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283205,21601056,4,3:02,nan,SUB: Leonard FOR Simmons,nan,203613,Jonathon Simmons,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+283206,21601056,4,3:02,nan,SUB: Ginobili FOR Green,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+283207,21601056,4,2:47,Dunn STEAL (2 STL),Aldridge Lost Ball Turnover (P2.T15),nan,200746,LaMarcus Aldridge,SAS,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+283208,21601056,4,2:31,MISS Rubio 22' Jump Shot,nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283209,21601056,4,2:29,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283210,21601056,4,2:29,nan,Gasol L.B.FOUL (P4.PN) (S.Foster),nan,2200,Pau Gasol,SAS,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Loose Ball
+283211,21601056,4,2:29,Wiggins Free Throw 1 of 2 (21 PTS),nan,92 - 89,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283212,21601056,4,2:29,nan,SUB: Green FOR Ginobili,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+283213,21601056,4,2:29,Wiggins Free Throw 2 of 2 (22 PTS),nan,92 - 90,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283214,21601056,4,2:18,nan,MISS Green 24' 3PT Jump Shot,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283215,21601056,4,2:17,Wiggins REBOUND (Off:0 Def:4),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283216,21601056,4,2:04,Towns 3' Cutting Layup Shot (24 PTS) (Rubio 7 AST),nan,92 - 92,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+283217,21601056,4,2:04,nan,Green Shooting Block Foul (P4.PN) (J.Tiven),nan,201980,Danny Green,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting Block
+283218,21601056,4,2:04,nan,SUB: Ginobili FOR Green,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+283219,21601056,4,2:04,Towns Free Throw 1 of 1 (25 PTS),nan,92 - 93,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+283220,21601056,4,1:45,Towns STEAL (1 STL),Gasol Bad Pass Turnover (P3.T16),nan,2200,Pau Gasol,SAS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Bad Pass
+283221,21601056,4,1:28,MISS Towns 24' 3PT Jump Shot,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283222,21601056,4,1:27,Dieng REBOUND (Off:2 Def:2),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283223,21601056,4,1:08,Rubio Bad Pass Turnover (P3.T21),Parker STEAL (2 STL),nan,201937,Ricky Rubio,MIN,2225,Tony Parker,SAS,0,nan,nan,Turnover ,Bad Pass
+283224,21601056,4,1:07,Dieng Personal Take Foul (P5.T3) (J.Tiven),nan,nan,203476,Gorgui Dieng,MIN,2225,Tony Parker,SAS,0,nan,nan,Foul ,Personal Take
+283225,21601056,4,0:54,nan,Leonard 19' Jump Shot (20 PTS),94 - 93,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+283226,21601056,4,0:54,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283227,21601056,4,0:54,nan,SUB: Green FOR Ginobili,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+283228,21601056,4,0:54,nan,SUB: Mills FOR Parker,nan,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+283229,21601056,4,0:45,TIMBERWOLVES Timeout: Short (Full 5 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+283230,21601056,4,0:37,MISS Wiggins 17' Pullup Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283231,21601056,4,0:36,nan,Gasol REBOUND (Off:0 Def:7),nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283232,21601056,4,0:35,Dunn P.FOUL (P5.PN) (J.Tiven),nan,nan,1627739,Kris Dunn,MIN,2200,Pau Gasol,SAS,0,nan,nan,Foul ,Personal
+283233,21601056,4,0:35,nan,Gasol Free Throw 1 of 2 (10 PTS),95 - 93,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283234,21601056,4,0:35,nan,Gasol Free Throw 2 of 2 (11 PTS),96 - 93,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283235,21601056,4,0:35,TIMBERWOLVES Timeout: Short (Full 5 Short 2),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+283236,21601056,4,0:35,nan,SUB: Dedmon FOR Gasol,nan,2200,Pau Gasol,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Substitution ,nan
+283237,21601056,4,0:35,nan,SUB: Ginobili FOR Mills,nan,201988,Patty Mills,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+283238,21601056,4,0:28,Rubio Bad Pass Turnover (P4.T22),Leonard STEAL (3 STL),nan,201937,Ricky Rubio,MIN,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+283239,21601056,4,0:20,Towns Personal Take Foul (P3.PN) (J.Tiven),nan,nan,1626157,Karl-Anthony Towns,MIN,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal Take
+283240,21601056,4,0:20,nan,Leonard Free Throw 1 of 2 (21 PTS),97 - 93,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283241,21601056,4,0:20,nan,Leonard Free Throw 2 of 2 (22 PTS),98 - 93,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283242,21601056,4,0:12,Dieng OFF.Foul (P6) (S.Anderson),nan,nan,203476,Gorgui Dieng,MIN,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Offensive
+283243,21601056,4,0:12,Dieng Foul Turnover (P3.T23),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+283244,21601056,4,0:12,SUB: Casspi FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,201956,Omri Casspi,MIN,0,nan,nan,Substitution ,nan
+283245,21601056,4,0:12,nan,Spurs Timeout: Regular (Reg.5 Short 1),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283246,21601056,4,0:12,nan,SUB: Mills FOR Dedmon,nan,203473,Dewayne Dedmon,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+283247,21601056,4,0:12,nan,SUB: Gasol FOR Green,nan,201980,Danny Green,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+283248,21601056,4,0:09,nan,Spurs Timeout: Short (Reg.5 Short 2),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+283249,21601056,4,0:09,SUB: Aldrich FOR Casspi,nan,nan,201956,Omri Casspi,MIN,202332,Cole Aldrich,MIN,0,nan,nan,Substitution ,nan
+283250,21601056,4,0:08,Rubio Personal Take Foul (P2.PN) (S.Foster),nan,nan,201937,Ricky Rubio,MIN,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal Take
+283251,21601056,4,0:08,nan,Ginobili Free Throw 1 of 2 (10 PTS),99 - 93,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283252,21601056,4,0:08,nan,SUB: Simmons FOR Gasol,nan,2200,Pau Gasol,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+283253,21601056,4,0:08,nan,Ginobili Free Throw 2 of 2 (11 PTS),100 - 93,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283254,21601056,4,0:03,MISS Wiggins 25' 3PT Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283255,21601056,4,0:01,nan,Simmons REBOUND (Off:1 Def:3),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283256,21601056,4,0:00,nan,nan,100 - 93,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

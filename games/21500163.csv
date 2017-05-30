@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+20546,21500163,4,12:00,nan,nan,83 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+20547,21500163,4,11:35,MISS Gordon 11' Jump Shot,nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20548,21500163,4,11:34,Gee REBOUND (Off:1 Def:5),nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20549,21500163,4,11:30,MISS Gordon 24' 3PT Jump Shot,nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20550,21500163,4,11:29,nan,Papanikolaou REBOUND (Off:1 Def:2),nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20551,21500163,4,11:08,nan,MISS Papanikolaou 13' Jump Shot,nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20552,21500163,4,11:07,nan,Mudiay REBOUND (Off:1 Def:2),nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20553,21500163,4,11:06,nan,Nuggets Turnover: Shot Clock (T#12),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+20554,21500163,4,11:06,SUB: Babbitt FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Substitution ,nan
+20555,21500163,4,11:01,nan,Mudiay P.FOUL (P1.T1) (D.Stafford),nan,1626144,Emmanuel Mudiay,DEN,201569,Eric Gordon,NOP,0,nan,nan,Foul ,Personal
+20556,21500163,4,10:45,Gordon 18' Pullup Jump Shot (16 PTS),nan,83 - 77,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+20557,21500163,4,10:22,Gordon STEAL (1 STL),Foye Lost Ball Turnover (P3.T13),nan,200751,Randy Foye,DEN,201569,Eric Gordon,NOP,0,nan,nan,Turnover ,Lost Ball
+20558,21500163,4,10:21,nan,Nelson P.FOUL (P2.T2) (L.Holtkamp),nan,2749,Jameer Nelson,DEN,201569,Eric Gordon,NOP,0,nan,nan,Foul ,Personal
+20559,21500163,4,10:21,nan,SUB: Faried FOR Papanikolaou,nan,203123,Kostas Papanikolaou,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+20560,21500163,4,10:12,Gee OFF.Foul (P4) (C.Kirkland),nan,nan,202087,Alonzo Gee,NOP,200751,Randy Foye,DEN,0,nan,nan,Foul ,Offensive
+20561,21500163,4,10:12,Gee Foul Turnover (P2.T9),nan,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+20562,21500163,4,9:48,nan,MISS Mudiay 25' 3PT Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20563,21500163,4,9:47,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20564,21500163,4,9:47,nan,Barton L.B.FOUL (P1.T3) (D.Stafford),nan,203115,Will Barton,DEN,201962,Toney Douglas,NOP,0,nan,nan,Foul ,Loose Ball
+20565,21500163,4,9:47,SUB: Holiday FOR Gordon,nan,nan,201569,Eric Gordon,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+20566,21500163,4,9:47,SUB: Anderson FOR Gee,nan,nan,202087,Alonzo Gee,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Substitution ,nan
+20567,21500163,4,9:28,Holiday Bad Pass Turnover (P1.T10),Nelson STEAL (1 STL),nan,201950,Jrue Holiday,NOP,2749,Jameer Nelson,DEN,0,nan,nan,Turnover ,Bad Pass
+20568,21500163,4,9:21,nan,Foye 2' Layup (4 PTS),85 - 77,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20569,21500163,4,9:21,Anderson S.FOUL (P1.T1) (D.Stafford),nan,nan,201583,Ryan Anderson,NOP,200751,Randy Foye,DEN,0,nan,nan,Foul ,Shooting
+20570,21500163,4,9:21,nan,Foye Free Throw 1 of 1 (5 PTS),86 - 77,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+20571,21500163,4,9:10,MISS Babbitt 3' Layup,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20572,21500163,4,9:10,nan,Nelson REBOUND (Off:0 Def:1),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20573,21500163,4,9:04,nan,Faried 2' Layup (11 PTS) (Mudiay 8 AST),88 - 77,202702,Kenneth Faried,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+20574,21500163,4,9:04,PELICANS Timeout: Regular (Full 3 Short 2),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20575,21500163,4,8:50,MISS Holiday 4' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20576,21500163,4,8:49,Anderson REBOUND (Off:2 Def:3),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20577,21500163,4,8:42,nan,Faried S.FOUL (P5.T4) (L.Holtkamp),nan,202702,Kenneth Faried,DEN,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Shooting
+20578,21500163,4,8:42,Anderson Free Throw 1 of 2 (20 PTS),nan,88 - 78,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20579,21500163,4,8:42,nan,SUB: Gallinari FOR Faried,nan,202702,Kenneth Faried,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+20580,21500163,4,8:42,Anderson Free Throw 2 of 2 (21 PTS),nan,88 - 79,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20581,21500163,4,8:23,nan,MISS Nelson 25' 3PT Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20582,21500163,4,8:22,Anderson REBOUND (Off:2 Def:4),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20583,21500163,4,8:02,Smith 25' 3PT Jump Shot (13 PTS) (Holiday 6 AST),nan,88 - 82,202397,Ish Smith,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+20584,21500163,4,7:38,nan,MISS Foye 24' 3PT Jump Shot,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20585,21500163,4,7:38,Babbitt REBOUND (Off:0 Def:5),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20586,21500163,4,7:32,MISS Holiday  3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20587,21500163,4,7:31,nan,Gallinari REBOUND (Off:1 Def:7),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20588,21500163,4,7:15,nan,Mudiay 18' Jump Shot (6 PTS) (Barton 2 AST),90 - 82,1626144,Emmanuel Mudiay,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+20589,21500163,4,7:09,nan,Nelson Personal Block Foul (P3.PN) (L.Holtkamp),nan,2749,Jameer Nelson,DEN,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Personal Block
+20590,21500163,4,7:09,Holiday Free Throw 1 of 2 (7 PTS),nan,90 - 83,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20591,21500163,4,7:09,SUB: Gordon FOR Douglas,nan,nan,201962,Toney Douglas,NOP,201569,Eric Gordon,NOP,0,nan,nan,Substitution ,nan
+20592,21500163,4,7:09,nan,SUB: Harris FOR Barton,nan,203115,Will Barton,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+20593,21500163,4,7:09,Holiday Free Throw 2 of 2 (8 PTS),nan,90 - 84,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20594,21500163,4,6:48,nan,Nelson 25' 3PT Jump Shot (8 PTS) (Foye 2 AST),93 - 84,2749,Jameer Nelson,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+20595,21500163,4,6:38,nan,Nelson S.FOUL (P4.PN) (D.Stafford),nan,2749,Jameer Nelson,DEN,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Shooting
+20596,21500163,4,6:38,MISS Anderson Free Throw 1 of 2,nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20597,21500163,4,6:38,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+20598,21500163,4,6:38,Anderson Free Throw 2 of 2 (22 PTS),nan,93 - 85,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20599,21500163,4,6:18,nan,Mudiay 3' Driving Finger Roll Layup (8 PTS),95 - 85,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20600,21500163,4,6:18,Gordon S.FOUL (P1.T2) (D.Stafford),nan,nan,201569,Eric Gordon,NOP,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+20601,21500163,4,6:18,nan,MISS Mudiay Free Throw 1 of 1,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+20602,21500163,4,6:17,Babbitt REBOUND (Off:0 Def:6),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20603,21500163,4,6:02,Holiday  Driving Dunk (10 PTS) (Anderson 2 AST),nan,95 - 87,201950,Jrue Holiday,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+20604,21500163,4,5:47,Holiday P.FOUL (P1.T3) (L.Holtkamp),nan,nan,201950,Jrue Holiday,NOP,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+20605,21500163,4,5:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+20606,21500163,4,5:47,nan,SUB: Barton FOR Foye,nan,200751,Randy Foye,DEN,203115,Will Barton,DEN,0,nan,nan,Substitution ,nan
+20607,21500163,4,5:34,nan,MISS Gallinari 1' Driving Layup,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20608,21500163,4,5:33,Babbitt REBOUND (Off:0 Def:7),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20609,21500163,4,5:17,Babbitt 25' 3PT Jump Shot (8 PTS) (Smith 7 AST),nan,95 - 90,202337,Luke Babbitt,NOP,202397,Ish Smith,NOP,0,nan,nan,Made Shot ,nan
+20610,21500163,4,4:53,nan,Nelson 21' Pullup Jump Shot (10 PTS),97 - 90,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20611,21500163,4,4:41,MISS Holiday 24' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20612,21500163,4,4:40,nan,Barton REBOUND (Off:2 Def:4),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20613,21500163,4,4:19,nan,Nelson 25' 3PT Jump Shot (13 PTS),100 - 90,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20614,21500163,4,4:05,MISS Holiday 25' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20615,21500163,4,4:05,nan,Harris REBOUND (Off:2 Def:2),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20616,21500163,4,3:55,Holiday BLOCK (1 BLK),MISS Nelson 3' Driving Layup,nan,2749,Jameer Nelson,DEN,0,nan,nan,201950,Jrue Holiday,NOP,Missed Shot ,nan
+20617,21500163,4,3:54,nan,Nelson REBOUND (Off:1 Def:1),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20618,21500163,4,3:53,nan,Nuggets Timeout: Regular (Reg.5 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20619,21500163,4,3:53,nan,SUB: Faried FOR Harris,nan,203914,Gary Harris,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+20620,21500163,4,3:45,nan,Barton 28' 3PT Jump Shot (15 PTS) (Gallinari 7 AST),103 - 90,203115,Will Barton,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+20621,21500163,4,3:26,MISS Anderson 14' Jump Shot,nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20622,21500163,4,3:25,nan,Nelson REBOUND (Off:1 Def:2),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20623,21500163,4,3:06,nan,Mudiay 21' Jump Shot (10 PTS) (Nelson 4 AST),105 - 90,1626144,Emmanuel Mudiay,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+20624,21500163,4,2:58,MISS Gordon 24' 3PT Jump Shot,nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20625,21500163,4,2:57,nan,Nelson REBOUND (Off:1 Def:3),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20626,21500163,4,2:47,Babbitt S.FOUL (P2.T4) (L.Holtkamp),nan,nan,202337,Luke Babbitt,NOP,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+20627,21500163,4,2:47,Babbitt T.FOUL (P2.T4) (L.Holtkamp),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Foul ,Technical
+20628,21500163,4,2:47,nan,Gallinari Free Throw Technical (30 PTS),106 - 90,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+20629,21500163,4,2:47,nan,Mudiay Free Throw 1 of 2 (11 PTS),107 - 90,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20630,21500163,4,2:47,nan,Mudiay Free Throw 2 of 2 (12 PTS),108 - 90,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20631,21500163,4,2:35,MISS Holiday 2' Driving Reverse Layup,Faried BLOCK (1 BLK),nan,201950,Jrue Holiday,NOP,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+20632,21500163,4,2:34,nan,Faried REBOUND (Off:1 Def:6),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20633,21500163,4,2:20,nan,Gallinari Out of Bounds Lost Ball Turnover (P3.T14),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+20634,21500163,4,2:02,Anderson 20' Fadeaway Jumper (24 PTS),nan,108 - 92,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+20635,21500163,4,1:40,nan,Barton  Driving Dunk (17 PTS) (Gallinari 8 AST),110 - 92,203115,Will Barton,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+20636,21500163,4,1:31,Babbitt 24' 3PT Jump Shot (11 PTS) (Holiday 7 AST),nan,110 - 95,202337,Luke Babbitt,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+20637,21500163,4,1:07,nan,Gallinari 2' Driving Finger Roll Layup (32 PTS),112 - 95,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20638,21500163,4,0:59,Gordon 25' 3PT Jump Shot (19 PTS) (Smith 8 AST),nan,112 - 98,201569,Eric Gordon,NOP,202397,Ish Smith,NOP,0,nan,nan,Made Shot ,nan
+20639,21500163,4,0:39,nan,Nelson 25' 3PT Jump Shot (16 PTS),115 - 98,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+20640,21500163,4,0:39,PELICANS Timeout: Short (Full 3 Short 3),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+20641,21500163,4,0:39,SUB: Fredette FOR Gordon,nan,nan,201569,Eric Gordon,NOP,202690,Jimmer Fredette,NOP,0,nan,nan,Substitution ,nan
+20642,21500163,4,0:39,SUB: Douglas FOR Holiday,nan,nan,201950,Jrue Holiday,NOP,201962,Toney Douglas,NOP,0,nan,nan,Substitution ,nan
+20643,21500163,4,0:39,SUB: Gee FOR Anderson,nan,nan,201583,Ryan Anderson,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Substitution ,nan
+20644,21500163,4,0:39,nan,SUB: Papanikolaou FOR Gallinari,nan,201568,Danilo Gallinari,DEN,203123,Kostas Papanikolaou,DEN,0,nan,nan,Substitution ,nan
+20645,21500163,4,0:39,nan,SUB: Jokic FOR Faried,nan,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+20646,21500163,4,0:39,nan,SUB: Harris FOR Nelson,nan,2749,Jameer Nelson,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+20647,21500163,4,0:29,MISS Smith 2' Driving Layup,nan,nan,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20648,21500163,4,0:28,nan,Barton REBOUND (Off:2 Def:5),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20649,21500163,4,0:09,nan,MISS Mudiay 18' Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20650,21500163,4,0:08,nan,Jokic REBOUND (Off:1 Def:0),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20651,21500163,4,0:00,nan,nan,115 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

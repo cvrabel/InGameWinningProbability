@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+182993,21600239,4,12:00,nan,nan,90 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+182994,21600239,4,11:39,nan,MISS Dekker 25' 3PT Jump Shot,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+182995,21600239,4,11:39,Koufos REBOUND (Off:2 Def:3),nan,nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+182996,21600239,4,11:16,Lawson 15' Pullup Jump Shot (8 PTS),nan,90 - 76,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+182997,21600239,4,11:02,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+182998,21600239,4,11:02,Casspi REBOUND (Off:0 Def:3),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+182999,21600239,4,10:53,MISS Lawson 16' Pullup Jump Shot,nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183000,21600239,4,10:53,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183001,21600239,4,10:50,Koufos 3' Layup (8 PTS) (Casspi 3 AST),nan,90 - 78,201585,Kosta Koufos,SAC,201956,Omri Casspi,SAC,0,nan,nan,Made Shot ,nan
+183002,21600239,4,10:31,nan,Gordon 25' 3PT Pullup Jump Shot (11 PTS),93 - 78,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183003,21600239,4,10:08,MISS Barnes 24' 3PT Jump Shot,nan,nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183004,21600239,4,10:07,Lawson REBOUND (Off:1 Def:0),nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183005,21600239,4,10:07,nan,Brewer S.FOUL (P3.T1) (M.Lindsay),nan,201147,Corey Brewer,HOU,201951,Ty Lawson,SAC,0,nan,nan,Foul ,Shooting
+183006,21600239,4,10:07,Lawson Free Throw 1 of 2 (9 PTS),nan,93 - 79,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+183007,21600239,4,10:07,nan,SUB: Capela FOR Nene,nan,2403,Nene,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+183008,21600239,4,10:07,Lawson Free Throw 2 of 2 (10 PTS),nan,93 - 80,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+183009,21600239,4,9:59,Lawson S.FOUL (P1.T1) (R.Mott),nan,nan,201951,Ty Lawson,SAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting
+183010,21600239,4,9:59,nan,Beverley Free Throw 1 of 2 (7 PTS),94 - 80,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+183011,21600239,4,9:59,nan,MISS Beverley Free Throw 2 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+183012,21600239,4,9:58,Barnes REBOUND (Off:0 Def:3),nan,nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183013,21600239,4,9:46,MISS Casspi 4' Jump Shot,nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183014,21600239,4,9:45,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183015,21600239,4,9:35,Koufos Lost Ball Turnover (P1.T10),Brewer STEAL (1 STL),nan,201585,Kosta Koufos,SAC,201147,Corey Brewer,HOU,0,nan,nan,Turnover ,Lost Ball
+183016,21600239,4,9:26,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183017,21600239,4,9:25,Casspi REBOUND (Off:0 Def:4),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183018,21600239,4,9:15,MISS Temple 25' 3PT Jump Shot,nan,nan,202066,Garrett Temple,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183019,21600239,4,9:15,Lawson REBOUND (Off:2 Def:0),nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183020,21600239,4,9:12,Lawson 2' Layup (12 PTS),nan,94 - 82,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+183021,21600239,4,8:44,nan,Rockets Turnover: Shot Clock (T#14),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+183022,21600239,4,8:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+183023,21600239,4,8:44,nan,SUB: Harden FOR Gordon,nan,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+183024,21600239,4,8:22,Koufos 7' Hook Shot (10 PTS),nan,94 - 84,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+183025,21600239,4,7:58,nan,Brewer 3' Driving Layup (10 PTS),96 - 84,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183026,21600239,4,7:45,Casspi 3' Layup (7 PTS) (Lawson 2 AST),nan,96 - 86,201956,Omri Casspi,SAC,201951,Ty Lawson,SAC,0,nan,nan,Made Shot ,nan
+183027,21600239,4,7:33,Koufos P.FOUL (P3.T2) (T.Maddox),nan,nan,201585,Kosta Koufos,SAC,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+183028,21600239,4,7:33,nan,SUB: Anderson FOR Dekker,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+183029,21600239,4,7:19,nan,Harden 3' Driving Layup (13 PTS),98 - 86,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183030,21600239,4,7:19,Temple S.FOUL (P2.T3) (R.Mott),nan,nan,202066,Garrett Temple,SAC,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+183031,21600239,4,7:19,SUB: Cousins FOR Koufos,nan,nan,201585,Kosta Koufos,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Substitution ,nan
+183032,21600239,4,7:19,nan,Harden Free Throw 1 of 1 (14 PTS),99 - 86,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+183033,21600239,4,7:10,MISS Barnes  3PT Jump Shot,nan,nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183034,21600239,4,7:09,nan,Harden REBOUND (Off:1 Def:7),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183035,21600239,4,6:46,nan,MISS Beverley 25' 3PT Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183036,21600239,4,6:45,Lawson REBOUND (Off:2 Def:1),nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183037,21600239,4,6:39,Casspi Step Out of Bounds Turnover (P1.T11),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+183038,21600239,4,6:39,SUB: Gay FOR Lawson,nan,nan,201951,Ty Lawson,SAC,200752,Rudy Gay,SAC,0,nan,nan,Substitution ,nan
+183039,21600239,4,6:20,nan,Harden Poss Lost Ball Turnover (P5.T15),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+183040,21600239,4,6:20,nan,Harden L.B.FOUL (P2.T2) (R.Mott),nan,201935,James Harden,HOU,202066,Garrett Temple,SAC,0,nan,nan,Foul ,Loose Ball
+183041,21600239,4,6:20,nan,SUB: Ariza FOR Brewer,nan,201147,Corey Brewer,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+183042,21600239,4,6:09,Gay  Cutting Dunk Shot (10 PTS) (Cousins 1 AST),nan,99 - 88,200752,Rudy Gay,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Made Shot ,nan
+183043,21600239,4,5:48,nan,MISS Beverley 5' Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183044,21600239,4,5:46,nan,Capela REBOUND (Off:3 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183045,21600239,4,5:45,nan,Capela  Dunk (13 PTS),101 - 88,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183046,21600239,4,5:41,Temple Bad Pass Turnover (P3.T12),Ariza STEAL (2 STL),nan,202066,Garrett Temple,SAC,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+183047,21600239,4,5:35,nan,Harden 25' 3PT Jump Shot (17 PTS),104 - 88,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183048,21600239,4,5:35,KINGS Timeout: Regular (Full 4 Short 1),nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+183049,21600239,4,5:35,nan,SUB: Gordon FOR Beverley,nan,201976,Patrick Beverley,HOU,201569,Eric Gordon,HOU,0,nan,nan,Substitution ,nan
+183050,21600239,4,5:20,MISS Cousins 4' Jump Shot,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183051,21600239,4,5:19,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183052,21600239,4,5:08,nan,Ariza OFF.Foul (P1) (R.Mott),nan,2772,Trevor Ariza,HOU,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Offensive
+183053,21600239,4,5:08,nan,Ariza Foul Turnover (P3.T16),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+183054,21600239,4,4:54,nan,Capela P.FOUL (P1.T3) (R.Mott),nan,203991,Clint Capela,HOU,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Personal
+183055,21600239,4,4:43,Cousins 3' Layup (18 PTS),nan,104 - 90,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+183056,21600239,4,4:27,nan,MISS Harden 26' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183057,21600239,4,4:26,Cousins REBOUND (Off:0 Def:7),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183058,21600239,4,4:19,Cousins Offensive Charge Foul (P5.T4) (T.Maddox),nan,nan,202326,DeMarcus Cousins,SAC,203991,Clint Capela,HOU,0,nan,nan,Foul ,Offensive Charge
+183059,21600239,4,4:19,Cousins Foul Turnover (P3.T13),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+183060,21600239,4,4:11,nan,MISS Gordon  3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183061,21600239,4,4:11,Gay REBOUND (Off:0 Def:4),nan,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183062,21600239,4,4:01,MISS Cousins 25' 3PT Jump Shot,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183063,21600239,4,4:01,nan,Ariza REBOUND (Off:0 Def:10),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183064,21600239,4,3:53,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183065,21600239,4,3:53,Cousins REBOUND (Off:0 Def:8),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183066,21600239,4,3:53,KINGS Timeout: Regular (Full 5 Short 1),nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+183067,21600239,4,3:53,nan,nan,nan,201220,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+183068,21600239,4,3:53,nan,SUB: Beverley FOR Anderson,nan,201583,Ryan Anderson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+183069,21600239,4,3:53,SUB: Lawson FOR Temple,nan,nan,202066,Garrett Temple,SAC,201951,Ty Lawson,SAC,0,nan,nan,Substitution ,nan
+183070,21600239,4,3:53,nan,Harden Free Throw Technical (18 PTS),105 - 90,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+183071,21600239,4,3:37,nan,Capela S.FOUL (P2.T4) (M.Lindsay),nan,203991,Clint Capela,HOU,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Shooting
+183072,21600239,4,3:37,Cousins Free Throw 1 of 2 (19 PTS),nan,105 - 91,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+183073,21600239,4,3:37,Cousins Free Throw 2 of 2 (20 PTS),nan,105 - 92,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+183074,21600239,4,3:23,Cousins BLOCK (3 BLK),MISS Capela 3' Driving Layup,nan,203991,Clint Capela,HOU,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+183075,21600239,4,3:22,Lawson REBOUND (Off:2 Def:2),nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183076,21600239,4,3:13,Cousins 25' 3PT Jump Shot (23 PTS) (Casspi 4 AST),nan,105 - 95,202326,DeMarcus Cousins,SAC,201956,Omri Casspi,SAC,0,nan,nan,Made Shot ,nan
+183077,21600239,4,3:12,KINGS Violation: Delay of game Violation,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+183078,21600239,4,2:53,Cousins BLOCK (4 BLK),MISS Capela 3' Layup,nan,203991,Clint Capela,HOU,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+183079,21600239,4,2:52,nan,Beverley REBOUND (Off:3 Def:4),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183080,21600239,4,2:45,nan,Harden 26' 3PT Pullup Jump Shot (21 PTS),108 - 95,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183081,21600239,4,2:31,Cousins 25' 3PT Jump Shot (26 PTS) (Barnes 2 AST),nan,108 - 98,202326,DeMarcus Cousins,SAC,2440,Matt Barnes,SAC,0,nan,nan,Made Shot ,nan
+183082,21600239,4,2:07,nan,Capela 4' Jump Shot (15 PTS) (Beverley 6 AST),110 - 98,203991,Clint Capela,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+183083,21600239,4,1:57,Cousins 25' 3PT Jump Shot (29 PTS) (Lawson 3 AST),nan,110 - 101,202326,DeMarcus Cousins,SAC,201951,Ty Lawson,SAC,0,nan,nan,Made Shot ,nan
+183084,21600239,4,1:31,nan,MISS Harden 26' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183085,21600239,4,1:30,Cousins REBOUND (Off:0 Def:9),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183086,21600239,4,1:22,Cousins Lost Ball Turnover (P4.T14),Gordon STEAL (1 STL),nan,202326,DeMarcus Cousins,SAC,201569,Eric Gordon,HOU,0,nan,nan,Turnover ,Lost Ball
+183087,21600239,4,1:18,nan,Capela  Dunk (17 PTS) (Harden 9 AST),112 - 101,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+183088,21600239,4,1:12,Cousins 26' 3PT Jump Shot (32 PTS) (Casspi 5 AST),nan,112 - 104,202326,DeMarcus Cousins,SAC,201956,Omri Casspi,SAC,0,nan,nan,Made Shot ,nan
+183089,21600239,4,0:51,nan,Gordon 25' 3PT Jump Shot (14 PTS) (Harden 10 AST),115 - 104,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+183090,21600239,4,0:45,MISS Cousins 26' 3PT Jump Shot,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183091,21600239,4,0:45,nan,Capela REBOUND (Off:3 Def:7),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183092,21600239,4,0:44,nan,nan,nan,511,Melvin Booker,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+183093,21600239,4,0:44,nan,nan,nan,202326,DeMarcus Cousins,SAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Double Technical
+183094,21600239,4,0:32,Cousins BLOCK (5 BLK),MISS Capela 3' Jump Shot,nan,203991,Clint Capela,HOU,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+183095,21600239,4,0:32,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183096,21600239,4,0:32,Lawson L.B.FOUL (P2.PN) (R.Mott),nan,nan,201951,Ty Lawson,SAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Loose Ball
+183097,21600239,4,0:18,nan,Harden 4' Driving Layup (23 PTS),117 - 104,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+183098,21600239,4,0:10,MISS Gay 25' 3PT Jump Shot,nan,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+183099,21600239,4,0:09,nan,Harden REBOUND (Off:1 Def:8),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+183100,21600239,4,0:00,nan,nan,117 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

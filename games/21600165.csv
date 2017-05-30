@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+173657,21600165,4,12:00,nan,nan,95 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+173658,21600165,4,11:42,Lowry P.FOUL (P3.T1) (M.Kogut),nan,nan,200768,Kyle Lowry,TOR,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+173659,21600165,4,11:29,nan,West 2' Layup (2 PTS) (McCaw 1 AST),97 - 86,2561,David West,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Made Shot ,nan
+173660,21600165,4,11:10,DeRozan Lost Ball Turnover (P4.T12),West STEAL (1 STL),nan,201942,DeMar DeRozan,TOR,2561,David West,GSW,0,nan,nan,Turnover ,Lost Ball
+173661,21600165,4,11:06,nan,Iguodala  Running Dunk (7 PTS),99 - 86,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+173662,21600165,4,10:40,nan,McCaw S.FOUL (P2.T1) (M.Kogut),nan,1627775,Patrick McCaw,GSW,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+173663,21600165,4,10:40,MISS Joseph Free Throw 1 of 3,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+173664,21600165,4,10:40,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173665,21600165,4,10:40,Joseph Free Throw 2 of 3 (7 PTS),nan,99 - 87,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+173666,21600165,4,10:40,nan,SUB: Thompson FOR McCaw,nan,1627775,Patrick McCaw,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+173667,21600165,4,10:40,SUB: Ross FOR DeRozan,nan,nan,201942,DeMar DeRozan,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+173668,21600165,4,10:40,Joseph Free Throw 3 of 3 (8 PTS),nan,99 - 88,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+173669,21600165,4,10:25,nan,MISS Durant 17' Fadeaway Jumper,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173670,21600165,4,10:25,Nogueira REBOUND (Off:0 Def:5),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173671,21600165,4,10:19,Patterson 27' 3PT Running Jump Shot (5 PTS) (Lowry 4 AST),nan,99 - 91,202335,Patrick Patterson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+173672,21600165,4,9:58,nan,Durant 19' Pullup Jump Shot (25 PTS) (West 1 AST),101 - 91,201142,Kevin Durant,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+173673,21600165,4,9:46,Lowry 3' Cutting Layup Shot (19 PTS) (Joseph 2 AST),nan,101 - 93,200768,Kyle Lowry,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+173674,21600165,4,9:20,nan,Iguodala 24' 3PT Jump Shot (10 PTS) (Durant 6 AST),104 - 93,2738,Andre Iguodala,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+173675,21600165,4,9:05,nan,Iguodala P.FOUL (P1.T2) (M.Kogut),nan,2738,Andre Iguodala,GSW,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+173676,21600165,4,9:00,Joseph 2' Driving Layup (10 PTS),nan,104 - 95,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+173677,21600165,4,8:49,nan,West 17' Jump Shot (4 PTS) (Livingston 3 AST),106 - 95,2561,David West,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+173678,21600165,4,8:31,Lowry 2' Driving Layup (21 PTS),nan,106 - 97,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+173679,21600165,4,8:12,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+173680,21600165,4,8:12,SUB: Siakam FOR Nogueira,nan,nan,203512,Lucas Nogueira,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+173681,21600165,4,8:00,nan,Durant 6' Driving Hook Shot (27 PTS),108 - 97,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+173682,21600165,4,7:44,Siakam 2' Alley Oop Layup (10 PTS) (Lowry 5 AST),nan,108 - 99,1627783,Pascal Siakam,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+173683,21600165,4,7:35,nan,Livingston 1' Cutting Finger Roll Layup Shot (2 PTS) (Iguodala 5 AST),110 - 99,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+173684,21600165,4,7:35,Ross S.FOUL (P1.T2) (R.Garretson),nan,nan,203082,Terrence Ross,TOR,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+173685,21600165,4,7:35,nan,SUB: McCaw FOR Iguodala,nan,2738,Andre Iguodala,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+173686,21600165,4,7:35,nan,SUB: Curry FOR Thompson,nan,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+173687,21600165,4,7:35,nan,SUB: Green FOR Durant,nan,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+173688,21600165,4,7:35,nan,Livingston Free Throw 1 of 1 (3 PTS),111 - 99,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173689,21600165,4,7:18,MISS Lowry 25' 3PT Pullup Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173690,21600165,4,7:18,nan,West REBOUND (Off:0 Def:2),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173691,21600165,4,7:04,nan,West 1' Cutting Layup Shot (6 PTS) (McCaw 2 AST),113 - 99,2561,David West,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Made Shot ,nan
+173692,21600165,4,6:45,SUB: DeRozan FOR Ross,nan,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+173693,21600165,4,6:45,SUB: Powell FOR Joseph,nan,nan,202709,Cory Joseph,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+173694,21600165,4,6:40,MISS Siakam 14' Pullup Jump Shot,nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173695,21600165,4,6:40,nan,Green REBOUND (Off:0 Def:7),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173696,21600165,4,6:30,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173697,21600165,4,6:23,nan,MISS Green 26' 3PT Jump Bank Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173698,21600165,4,6:22,DeRozan REBOUND (Off:1 Def:4),nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173699,21600165,4,6:03,MISS Patterson 13' Jump Shot,nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173700,21600165,4,6:03,nan,McCaw REBOUND (Off:0 Def:2),nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173701,21600165,4,5:49,nan,MISS Curry 18' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173702,21600165,4,5:49,Patterson REBOUND (Off:1 Def:2),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173703,21600165,4,5:39,nan,McCaw S.FOUL (P3.T3) (R.Garretson),nan,1627775,Patrick McCaw,GSW,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+173704,21600165,4,5:39,MISS Lowry Free Throw 1 of 2,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173705,21600165,4,5:39,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173706,21600165,4,5:39,Lowry Free Throw 2 of 2 (22 PTS),nan,113 - 100,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173707,21600165,4,5:18,nan,Curry Traveling Turnover (P3.T11),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Turnover ,Traveling
+173708,21600165,4,5:13,Lowry Bad Pass Turnover (P4.T13),Livingston STEAL (1 STL),nan,200768,Kyle Lowry,TOR,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Bad Pass
+173709,21600165,4,5:02,nan,McCaw  3PT Jump Shot (5 PTS) (Livingston 4 AST),116 - 100,1627775,Patrick McCaw,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+173710,21600165,4,4:35,MISS Powell 3' Driving Reverse Layup,West BLOCK (1 BLK),nan,1626181,Norman Powell,TOR,0,nan,nan,2561,David West,GSW,Missed Shot ,nan
+173711,21600165,4,4:33,Siakam REBOUND (Off:4 Def:4),nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173712,21600165,4,4:32,MISS Siakam 1' Layup,McCaw BLOCK (1 BLK),nan,1627783,Pascal Siakam,TOR,0,nan,nan,1627775,Patrick McCaw,GSW,Missed Shot ,nan
+173713,21600165,4,4:30,nan,Curry REBOUND (Off:2 Def:1),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173714,21600165,4,4:27,Powell S.FOUL (P2.T3) (R.Garretson),nan,nan,1626181,Norman Powell,TOR,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+173715,21600165,4,4:27,nan,Curry Free Throw 1 of 2 (32 PTS),117 - 100,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173716,21600165,4,4:27,nan,SUB: Durant FOR West,nan,2561,David West,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+173717,21600165,4,4:27,nan,Curry Free Throw 2 of 2 (33 PTS),118 - 100,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173718,21600165,4,4:14,DeRozan Lost Ball Turnover (P5.T14),Green STEAL (2 STL),nan,201942,DeMar DeRozan,TOR,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+173719,21600165,4,4:01,nan,MISS Green 6' Floating Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173720,21600165,4,4:01,Siakam REBOUND (Off:4 Def:5),nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173721,21600165,4,3:53,Powell 24' 3PT Jump Shot (3 PTS) (DeRozan 4 AST),nan,118 - 103,1626181,Norman Powell,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+173722,21600165,4,3:42,nan,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T12),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+173723,21600165,4,3:33,MISS Lowry 27' 3PT Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173724,21600165,4,3:32,nan,Durant REBOUND (Off:2 Def:7),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173725,21600165,4,3:16,nan,MISS Curry 27' 3PT Pullup Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173726,21600165,4,3:16,Patterson REBOUND (Off:1 Def:3),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173727,21600165,4,3:11,nan,Durant S.FOUL (P3.T4) (M.Kogut),nan,201142,Kevin Durant,GSW,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+173728,21600165,4,3:11,Lowry Free Throw 1 of 2 (23 PTS),nan,118 - 104,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173729,21600165,4,3:11,nan,SUB: Thompson FOR Livingston,nan,2733,Shaun Livingston,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+173730,21600165,4,3:11,Lowry Free Throw 2 of 2 (24 PTS),nan,118 - 105,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173731,21600165,4,3:03,Powell P.FOUL (P3.T4) (E.Malloy),nan,nan,1626181,Norman Powell,TOR,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+173732,21600165,4,2:50,nan,MISS Green 6' Driving Floating Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173733,21600165,4,2:50,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173734,21600165,4,2:50,RAPTORS Timeout: Regular (Full 4 Short 1),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173735,21600165,4,2:50,SUB: Joseph FOR Lowry,nan,nan,200768,Kyle Lowry,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+173736,21600165,4,2:41,nan,Green P.FOUL (P2.PN) (M.Kogut),nan,203110,Draymond Green,GSW,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal
+173737,21600165,4,2:41,DeRozan Free Throw 1 of 2 (31 PTS),nan,118 - 106,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173738,21600165,4,2:41,DeRozan Free Throw 2 of 2 (32 PTS),nan,118 - 107,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173739,21600165,4,2:23,nan,Durant 19' Pullup Jump Shot (29 PTS),120 - 107,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+173740,21600165,4,2:11,Joseph 16' Pullup Jump Shot (12 PTS),nan,120 - 109,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+173741,21600165,4,1:59,nan,MISS Curry 19' Pullup Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173742,21600165,4,1:59,DeRozan REBOUND (Off:1 Def:5),nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173743,21600165,4,1:53,DeRozan 3' Running Layup (34 PTS),nan,120 - 111,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+173744,21600165,4,1:38,nan,MISS Curry 26' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173745,21600165,4,1:38,Powell REBOUND (Off:0 Def:1),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173746,21600165,4,1:30,nan,Green S.FOUL (P3.PN) (E.Malloy),nan,203110,Draymond Green,GSW,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+173747,21600165,4,1:30,Joseph Free Throw 1 of 2 (13 PTS),nan,120 - 112,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173748,21600165,4,1:30,SUB: Ross FOR DeRozan,nan,nan,201942,DeMar DeRozan,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+173749,21600165,4,1:30,Joseph Free Throw 2 of 2 (14 PTS),nan,120 - 113,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173750,21600165,4,1:16,Powell S.FOUL (P4.PN) (E.Malloy),nan,nan,1626181,Norman Powell,TOR,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+173751,21600165,4,1:16,nan,Thompson Free Throw 1 of 2 (12 PTS),121 - 113,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173752,21600165,4,1:16,nan,Thompson Free Throw 2 of 2 (13 PTS),122 - 113,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173753,21600165,4,1:16,RAPTORS Timeout: Short (Full 4 Short 2),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+173754,21600165,4,1:16,SUB: DeRozan FOR Siakam,nan,nan,1627783,Pascal Siakam,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+173755,21600165,4,1:07,Ross 27' 3PT Pullup Jump Shot (6 PTS),nan,122 - 116,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+173756,21600165,4,0:40,nan,MISS Durant 26' 3PT Driving Floating Bank Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173757,21600165,4,0:40,Joseph REBOUND (Off:1 Def:1),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173758,21600165,4,0:40,RAPTORS Timeout: Short (Full 4 Short 3),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+173759,21600165,4,0:33,MISS Ross 26' 3PT Jump Shot,nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173760,21600165,4,0:33,nan,Thompson REBOUND (Off:1 Def:3),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173761,21600165,4,0:20,Jump Ball Ross vs. Curry: Tip to Green,nan,nan,203082,Terrence Ross,TOR,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,Jump Ball ,nan
+173762,21600165,4,0:14,Joseph Personal Take Foul (P3.PN) (M.Kogut),nan,nan,202709,Cory Joseph,TOR,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal Take
+173763,21600165,4,0:14,nan,MISS Durant Free Throw 1 of 2,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173764,21600165,4,0:14,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173765,21600165,4,0:14,nan,Durant Free Throw 2 of 2 (30 PTS),123 - 116,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173766,21600165,4,0:14,RAPTORS Timeout: Regular (Full 5 Short 3),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173767,21600165,4,0:13,nan,Curry S.FOUL (P3.PN) (E.Malloy),nan,201939,Stephen Curry,GSW,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Shooting
+173768,21600165,4,0:13,Ross Free Throw 1 of 3 (7 PTS),nan,123 - 117,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+173769,21600165,4,0:13,Ross Free Throw 2 of 3 (8 PTS),nan,123 - 118,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+173770,21600165,4,0:13,SUB: Siakam FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+173771,21600165,4,0:13,Ross Free Throw 3 of 3 (9 PTS),nan,123 - 119,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+173772,21600165,4,0:12,Ross Personal Take Foul (P2.PN) (R.Garretson),nan,nan,203082,Terrence Ross,TOR,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal Take
+173773,21600165,4,0:12,nan,Thompson Free Throw 1 of 2 (14 PTS),124 - 119,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173774,21600165,4,0:12,SUB: Patterson FOR Siakam,nan,nan,1627783,Pascal Siakam,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Substitution ,nan
+173775,21600165,4,0:12,nan,Thompson Free Throw 2 of 2 (15 PTS),125 - 119,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173776,21600165,4,0:05,nan,Green S.FOUL (P4.PN) (M.Kogut),nan,203110,Draymond Green,GSW,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Shooting
+173777,21600165,4,0:05,Ross Free Throw 1 of 2 (10 PTS),nan,125 - 120,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173778,21600165,4,0:05,Ross Free Throw 2 of 2 (11 PTS),nan,125 - 121,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173779,21600165,4,0:03,Joseph Personal Take Foul (P4.PN) (R.Garretson),nan,nan,202709,Cory Joseph,TOR,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal Take
+173780,21600165,4,0:03,nan,Curry Free Throw 1 of 2 (34 PTS),126 - 121,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173781,21600165,4,0:03,nan,Curry Free Throw 2 of 2 (35 PTS),127 - 121,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173782,21600165,4,0:03,Patterson Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+173783,21600165,4,0:00,nan,nan,127 - 121,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

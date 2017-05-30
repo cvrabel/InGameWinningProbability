@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+270263,21600949,4,12:00,nan,nan,77 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+270264,21600949,4,11:49,Green S.FOUL (P2.T1) (A.Smith),nan,nan,201145,Jeff Green,ORL,203530,Joffrey Lauvergne,CHI,0,nan,nan,Foul ,Shooting
+270265,21600949,4,11:49,nan,MISS Lauvergne Free Throw 1 of 2,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+270266,21600949,4,11:49,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+270267,21600949,4,11:49,nan,Lauvergne Free Throw 2 of 2 (7 PTS),78 - 77,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+270268,21600949,4,11:27,Green 14' Pullup Jump Shot (7 PTS),nan,78 - 79,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+270269,21600949,4,11:07,Watson STEAL (1 STL),Rondo Bad Pass Turnover (P2.T16),nan,200765,Rajon Rondo,CHI,201228,C.J. Watson,ORL,0,nan,nan,Turnover ,Bad Pass
+270270,21600949,4,11:01,MISS Hezonja 1' Running Layup,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270271,21600949,4,10:57,nan,Payne REBOUND (Off:0 Def:1),nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270272,21600949,4,10:50,Watson BLOCK (1 BLK),MISS Valentine 24' 3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,201228,C.J. Watson,ORL,Missed Shot ,nan
+270273,21600949,4,10:47,Hezonja REBOUND (Off:0 Def:3),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270274,21600949,4,10:37,MISS Green 6' Floating Jump Shot,nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270275,21600949,4,10:35,nan,Felicio REBOUND (Off:0 Def:2),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270276,21600949,4,10:26,nan,MISS Valentine  3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270277,21600949,4,10:25,Watson REBOUND (Off:0 Def:2),nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270278,21600949,4,10:19,MISS Watson 25' 3PT Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270279,21600949,4,10:18,nan,Rondo REBOUND (Off:1 Def:2),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270280,21600949,4,10:05,nan,MISS Felicio 3' Driving Layup,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270281,21600949,4,10:03,Green REBOUND (Off:2 Def:2),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270282,21600949,4,9:58,MISS Hezonja  3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270283,21600949,4,9:55,nan,Lauvergne REBOUND (Off:1 Def:3),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270284,21600949,4,9:44,Zimmerman S.FOUL (P1.T2) (T.Brothers),nan,nan,1627757,Stephen Zimmerman,ORL,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+270285,21600949,4,9:44,nan,MISS Felicio Free Throw 1 of 2,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+270286,21600949,4,9:44,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+270287,21600949,4,9:44,nan,Felicio Free Throw 2 of 2 (9 PTS),79 - 79,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+270288,21600949,4,9:20,MISS Augustin 26' 3PT Jump Shot,nan,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270289,21600949,4,9:19,nan,Rondo REBOUND (Off:1 Def:3),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270290,21600949,4,9:11,nan,Felicio 5' Hook Shot (11 PTS),81 - 79,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+270291,21600949,4,8:59,MISS Hezonja 26' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270292,21600949,4,8:58,nan,Lauvergne REBOUND (Off:1 Def:4),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270293,21600949,4,8:39,nan,MISS Rondo 26' 3PT Jump Shot,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270294,21600949,4,8:37,Hezonja REBOUND (Off:0 Def:4),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270295,21600949,4,8:28,Augustin 20' Pullup Jump Shot (5 PTS),nan,81 - 81,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+270296,21600949,4,8:18,nan,MISS Lauvergne 26' 3PT Jump Shot,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270297,21600949,4,8:16,Hezonja REBOUND (Off:0 Def:5),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270298,21600949,4,8:10,MISS Augustin 26' 3PT Pullup Jump Shot,nan,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270299,21600949,4,8:08,nan,Lauvergne REBOUND (Off:1 Def:5),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270300,21600949,4,7:55,nan,MISS Payne 11' Pullup Jump Shot,nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270301,21600949,4,7:54,Green REBOUND (Off:2 Def:3),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270302,21600949,4,7:46,Augustin 3' Cutting Layup Shot (7 PTS) (Watson 1 AST),nan,81 - 83,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+270303,21600949,4,7:46,nan,Bulls Timeout: Regular (Reg.4 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+270304,21600949,4,7:46,nan,SUB: Butler FOR Valentine,nan,1627756,Denzel Valentine,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+270305,21600949,4,7:36,nan,Payne Step Out of Bounds Turnover (P2.T17),nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+270306,21600949,4,7:22,Green 7' Driving Hook Shot (9 PTS),nan,81 - 85,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+270307,21600949,4,7:06,Watson STEAL (2 STL),Butler Lost Ball Turnover (P5.T18),nan,202710,Jimmy Butler,CHI,201228,C.J. Watson,ORL,0,nan,nan,Turnover ,Lost Ball
+270308,21600949,4,7:04,Watson 1' Layup (4 PTS),nan,81 - 87,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+270309,21600949,4,7:04,nan,Payne S.FOUL (P2.T1) (T.Brothers),nan,1626166,Cameron Payne,CHI,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Shooting
+270310,21600949,4,7:04,SUB: Payton FOR Augustin,nan,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+270311,21600949,4,7:04,nan,SUB: Lopez FOR Felicio,nan,1626245,Cristiano Felicio,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+270312,21600949,4,7:04,nan,SUB: Grant FOR Payne,nan,1626166,Cameron Payne,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+270313,21600949,4,7:04,SUB: Biyombo FOR Zimmerman,nan,nan,1627757,Stephen Zimmerman,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+270314,21600949,4,7:04,Watson Free Throw 1 of 1 (5 PTS),nan,81 - 88,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+270315,21600949,4,6:44,nan,Rondo  3PT Jump Shot (8 PTS) (Lauvergne 4 AST),84 - 88,200765,Rajon Rondo,CHI,203530,Joffrey Lauvergne,CHI,0,nan,nan,Made Shot ,nan
+270316,21600949,4,6:24,MISS Hezonja 27' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270317,21600949,4,6:23,nan,Lauvergne REBOUND (Off:1 Def:6),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270318,21600949,4,6:05,Hezonja P.FOUL (P2.T3) (T.Brothers),nan,nan,1626209,Mario Hezonja,ORL,201577,Robin Lopez,CHI,0,nan,nan,Foul ,Personal
+270319,21600949,4,6:05,SUB: Fournier FOR Watson,nan,nan,201228,C.J. Watson,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+270320,21600949,4,6:05,SUB: Ross FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+270321,21600949,4,5:48,nan,Grant 8' Driving Bank Hook Shot (8 PTS) (Rondo 5 AST),86 - 88,1626170,Jerian Grant,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+270322,21600949,4,5:25,MISS Payton 25' 3PT Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270323,21600949,4,5:24,nan,Grant REBOUND (Off:0 Def:2),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270324,21600949,4,5:14,Ross P.FOUL (P3.T4) (M.Smith),nan,nan,203082,Terrence Ross,ORL,203530,Joffrey Lauvergne,CHI,0,nan,nan,Foul ,Personal
+270325,21600949,4,5:14,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+270326,21600949,4,5:14,SUB: Gordon FOR Green,nan,nan,201145,Jeff Green,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+270327,21600949,4,5:03,nan,MISS Butler 17' Pullup Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270328,21600949,4,5:02,nan,Grant REBOUND (Off:1 Def:2),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270329,21600949,4,4:51,nan,MISS Butler 1' Driving Layup,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270330,21600949,4,4:48,Payton REBOUND (Off:5 Def:7),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270331,21600949,4,4:44,Ross 27' 3PT Jump Shot (14 PTS) (Payton 14 AST),nan,86 - 91,203082,Terrence Ross,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+270332,21600949,4,4:18,nan,MISS Lauvergne 26' 3PT Jump Shot,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270333,21600949,4,4:16,nan,Rondo REBOUND (Off:2 Def:3),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270334,21600949,4,4:08,nan,MISS Rondo 2' Driving Layup,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270335,21600949,4,4:06,Biyombo REBOUND (Off:1 Def:4),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270336,21600949,4,3:51,Gordon Offensive Charge Foul (P2.PN) (T.Brothers),nan,nan,203932,Aaron Gordon,ORL,203530,Joffrey Lauvergne,CHI,0,nan,nan,Foul ,Offensive Charge
+270337,21600949,4,3:51,Gordon Foul Turnover (P2.T10),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+270338,21600949,4,3:37,nan,Grant 24' 3PT Jump Shot (11 PTS) (Rondo 6 AST),89 - 91,1626170,Jerian Grant,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+270339,21600949,4,3:11,MISS Payton 3' Driving Hook Shot,Lopez BLOCK (2 BLK),nan,203901,Elfrid Payton,ORL,0,nan,nan,201577,Robin Lopez,CHI,Missed Shot ,nan
+270340,21600949,4,3:11,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270341,21600949,4,3:11,MAGIC Timeout: Regular (Full 4 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+270342,21600949,4,3:09,Gordon 5' Jump Shot (13 PTS) (Fournier 2 AST),nan,89 - 93,203932,Aaron Gordon,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+270343,21600949,4,2:44,nan,MISS Butler 14' Pullup Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270344,21600949,4,2:43,Ross REBOUND (Off:1 Def:2),nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270345,21600949,4,2:35,MISS Ross 7' Floating Jump Shot,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270346,21600949,4,2:34,Fournier REBOUND (Off:2 Def:4),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270347,21600949,4,2:33,MISS Fournier 2' Putback Layup,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270348,21600949,4,2:31,Biyombo REBOUND (Off:2 Def:4),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270349,21600949,4,2:31,MISS Biyombo 2' Tip Layup Shot,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270350,21600949,4,2:30,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270351,21600949,4,2:23,MISS Fournier 1' Driving Layup,Rondo BLOCK (1 BLK),nan,203095,Evan Fournier,ORL,0,nan,nan,200765,Rajon Rondo,CHI,Missed Shot ,nan
+270352,21600949,4,2:19,nan,Grant REBOUND (Off:1 Def:3),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270353,21600949,4,2:10,nan,Grant 20' Step Back Jump Shot (13 PTS),91 - 93,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+270354,21600949,4,1:44,MISS Payton 8' Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270355,21600949,4,1:43,Fournier REBOUND (Off:3 Def:4),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270356,21600949,4,1:42,Jump Ball Fournier vs. Grant: Tip to Gordon,nan,nan,203095,Evan Fournier,ORL,1626170,Jerian Grant,CHI,203932,Aaron Gordon,ORL,Jump Ball ,nan
+270357,21600949,4,1:29,MISS Ross 28' 3PT Jump Shot,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270358,21600949,4,1:26,Gordon REBOUND (Off:1 Def:2),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270359,21600949,4,1:17,MISS Ross  Driving Dunk,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270360,21600949,4,1:16,Payton REBOUND (Off:6 Def:7),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270361,21600949,4,1:16,Payton 1' Putback Layup (22 PTS),nan,91 - 95,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+270362,21600949,4,1:16,nan,Bulls Timeout: Regular (Reg.5 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+270363,21600949,4,1:00,nan,MISS Butler 25' 3PT Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270364,21600949,4,0:59,Fournier REBOUND (Off:3 Def:5),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270365,21600949,4,0:36,MISS Ross 14' Pullup Jump Shot,nan,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270366,21600949,4,0:35,nan,Grant REBOUND (Off:1 Def:4),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270367,21600949,4,0:29,Payton BLOCK (2 BLK),MISS Grant 2' Running Layup,nan,1626170,Jerian Grant,CHI,0,nan,nan,203901,Elfrid Payton,ORL,Missed Shot ,nan
+270368,21600949,4,0:28,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270369,21600949,4,0:26,nan,MISS Grant 26' 3PT Jump Shot,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270370,21600949,4,0:24,nan,Lauvergne REBOUND (Off:2 Def:6),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270371,21600949,4,0:22,nan,MISS Lauvergne 2' Layup,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270372,21600949,4,0:21,Gordon REBOUND (Off:1 Def:3),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270373,21600949,4,0:21,nan,Grant Personal Take Foul (P3.T2) (A.Smith),nan,1626170,Jerian Grant,CHI,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Personal Take
+270374,21600949,4,0:21,nan,SUB: Payne FOR Lopez,nan,201577,Robin Lopez,CHI,1626166,Cameron Payne,CHI,0,nan,nan,Substitution ,nan
+270375,21600949,4,0:17,nan,Rondo Personal Take Foul (P1.PN) (A.Smith),nan,200765,Rajon Rondo,CHI,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal Take
+270376,21600949,4,0:17,MISS Fournier Free Throw 1 of 2,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+270377,21600949,4,0:17,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+270378,21600949,4,0:17,nan,SUB: Lopez FOR Payne,nan,1626166,Cameron Payne,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+270379,21600949,4,0:17,Fournier Free Throw 2 of 2 (18 PTS),nan,91 - 96,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+270380,21600949,4,0:17,nan,Bulls Timeout: Short (Reg.5 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+270381,21600949,4,0:11,nan,MISS Grant 1' Layup,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270382,21600949,4,0:09,Fournier REBOUND (Off:3 Def:6),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270383,21600949,4,0:09,nan,Grant Personal Take Foul (P4.PN) (T.Brothers),nan,1626170,Jerian Grant,CHI,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal Take
+270384,21600949,4,0:09,Fournier Free Throw 1 of 2 (19 PTS),nan,91 - 97,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+270385,21600949,4,0:09,Fournier Free Throw 2 of 2 (20 PTS),nan,91 - 98,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+270386,21600949,4,0:09,nan,Bulls Timeout: Short (Reg.5 Short 2),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+270387,21600949,4,0:06,nan,MISS Butler 25' 3PT Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270388,21600949,4,0:04,nan,Lopez REBOUND (Off:3 Def:6),nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270389,21600949,4,0:04,nan,MISS Lopez 2' Tip Layup Shot,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270390,21600949,4,0:02,Payton REBOUND (Off:6 Def:8),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270391,21600949,4,0:00,nan,nan,91 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+140898,21501130,4,12:00,nan,nan,70 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+140899,21501130,4,11:47,nan,MISS Brown 18' Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140900,21501130,4,11:45,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140901,21501130,4,11:30,MISS Seraphin 4' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140902,21501130,4,11:28,nan,McCullough REBOUND (Off:1 Def:4),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140903,21501130,4,11:11,Galloway STEAL (1 STL),Kilpatrick Bad Pass Turnover (P2.T10),nan,203930,Sean Kilpatrick,BKN,204038,Langston Galloway,NYK,0,nan,nan,Turnover ,Bad Pass
+140904,21501130,4,11:06,MISS Galloway 2' Driving Layup,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140905,21501130,4,11:04,nan,McCullough REBOUND (Off:1 Def:5),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140906,21501130,4,10:57,nan,Brown 3' Driving Layup (11 PTS) (Sloan 3 AST),72 - 77,203900,Markel Brown,BKN,202388,Donald Sloan,BKN,0,nan,nan,Made Shot ,nan
+140907,21501130,4,10:43,nan,Sims P.FOUL (P1.T1) (E.Malloy),nan,203156,Henry Sims,BKN,202338,Kevin Seraphin,NYK,0,nan,nan,Foul ,Personal
+140908,21501130,4,10:29,MISS Early 2' Layup,Sims BLOCK (1 BLK),nan,203921,Cleanthony Early,NYK,0,nan,nan,203156,Henry Sims,BKN,Missed Shot ,nan
+140909,21501130,4,10:27,nan,Sims REBOUND (Off:0 Def:2),nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140910,21501130,4,10:10,Seraphin S.FOUL (P2.T1) (D.Jones),nan,nan,202338,Kevin Seraphin,NYK,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+140911,21501130,4,10:10,nan,Kilpatrick Free Throw 1 of 2 (14 PTS),73 - 77,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+140912,21501130,4,10:10,nan,Kilpatrick Free Throw 2 of 2 (15 PTS),74 - 77,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+140913,21501130,4,9:56,Galloway Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+140914,21501130,4,9:45,nan,MISS Kilpatrick 24' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140915,21501130,4,9:42,Galloway REBOUND (Off:0 Def:4),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140916,21501130,4,9:40,Galloway 1' Driving Layup (6 PTS),nan,74 - 79,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+140917,21501130,4,9:26,nan,MISS Kilpatrick 3' Layup,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140918,21501130,4,9:24,nan,Kilpatrick REBOUND (Off:2 Def:0),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140919,21501130,4,9:15,nan,McCullough Traveling Turnover (P2.T11),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+140920,21501130,4,8:52,Galloway 27' 3PT Jump Shot (9 PTS),nan,74 - 82,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+140921,21501130,4,8:50,nan,Nets Timeout: Regular (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+140922,21501130,4,8:36,O'Quinn P.FOUL (P2.T2) (D.Jones),nan,nan,203124,Kyle O'Quinn,NYK,203156,Henry Sims,BKN,0,nan,nan,Foul ,Personal
+140923,21501130,4,8:28,nan,Sloan 6' Jump Bank Shot (2 PTS),76 - 82,202388,Donald Sloan,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+140924,21501130,4,8:28,nan,Sims L.B.FOUL (P2.T2) (S.Anderson),nan,203156,Henry Sims,BKN,203124,Kyle O'Quinn,NYK,0,nan,nan,Foul ,Loose Ball
+140925,21501130,4,8:28,nan,nan,nan,383,Kendall Gill,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+140926,21501130,4,8:15,Galloway 25' 3PT Jump Shot (12 PTS),nan,76 - 85,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+140927,21501130,4,7:59,nan,MISS Sims 9' Jump Shot,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140928,21501130,4,7:56,Early REBOUND (Off:1 Def:3),nan,nan,203921,Cleanthony Early,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140929,21501130,4,7:51,O'Quinn 2' Layup (4 PTS) (Early 3 AST),nan,76 - 87,203124,Kyle O'Quinn,NYK,203921,Cleanthony Early,NYK,0,nan,nan,Made Shot ,nan
+140930,21501130,4,7:51,nan,Sims S.FOUL (P3.T3) (E.Malloy),nan,203156,Henry Sims,BKN,203124,Kyle O'Quinn,NYK,0,nan,nan,Foul ,Shooting
+140931,21501130,4,7:51,nan,SUB: Lopez FOR Sims,nan,203156,Henry Sims,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+140932,21501130,4,7:51,nan,SUB: Larkin FOR Sloan,nan,202388,Donald Sloan,BKN,203499,Shane Larkin,BKN,0,nan,nan,Substitution ,nan
+140933,21501130,4,7:51,nan,SUB: Robinson FOR McCullough,nan,1626191,Chris McCullough,BKN,203080,Thomas Robinson,BKN,0,nan,nan,Substitution ,nan
+140934,21501130,4,7:51,O'Quinn Free Throw 1 of 1 (5 PTS),nan,76 - 88,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+140935,21501130,4,7:38,nan,MISS Lopez 1' Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140936,21501130,4,7:36,Seraphin REBOUND (Off:0 Def:4),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140937,21501130,4,7:22,Seraphin 8' Jump Shot (10 PTS) (Galloway 4 AST),nan,76 - 90,202338,Kevin Seraphin,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+140938,21501130,4,7:07,nan,Robinson 2' Driving Layup (12 PTS),78 - 90,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+140939,21501130,4,6:55,Early Bad Pass Turnover (P3.T15),Robinson STEAL (5 STL),nan,203921,Cleanthony Early,NYK,203080,Thomas Robinson,BKN,0,nan,nan,Turnover ,Bad Pass
+140940,21501130,4,6:51,nan,Robinson  Dunk (14 PTS),80 - 90,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+140941,21501130,4,6:26,Seraphin 1' Layup (12 PTS) (Afflalo 1 AST),nan,80 - 92,202338,Kevin Seraphin,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+140942,21501130,4,6:11,O'Quinn BLOCK (1 BLK),MISS Lopez 7' Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+140943,21501130,4,6:09,nan,Brown REBOUND (Off:1 Def:2),nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140944,21501130,4,6:07,nan,MISS Brown 2' Layup,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140945,21501130,4,6:07,nan,Lopez REBOUND (Off:3 Def:4),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140946,21501130,4,6:07,nan,Lopez 2' Layup (15 PTS),82 - 92,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+140947,21501130,4,6:07,O'Quinn S.FOUL (P3.T3) (S.Anderson),nan,nan,203124,Kyle O'Quinn,NYK,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+140948,21501130,4,6:07,nan,Lopez Free Throw 1 of 1 (16 PTS),83 - 92,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+140949,21501130,4,5:57,MISS Seraphin 10' Turnaround Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140950,21501130,4,5:55,nan,Lopez REBOUND (Off:3 Def:5),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140951,21501130,4,5:47,nan,MISS Brown 2' Driving Layup,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140952,21501130,4,5:46,Seraphin REBOUND (Off:0 Def:5),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140953,21501130,4,5:37,Afflalo  3PT Jump Shot (5 PTS) (Galloway 5 AST),nan,83 - 95,201167,Arron Afflalo,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+140954,21501130,4,5:31,nan,Nets Timeout: Regular (Reg.5 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+140955,21501130,4,5:31,nan,SUB: Ellington FOR Kilpatrick,nan,203930,Sean Kilpatrick,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+140956,21501130,4,5:08,nan,MISS Brown  3PT Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140957,21501130,4,5:06,Galloway REBOUND (Off:0 Def:5),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140958,21501130,4,5:03,Galloway Out of Bounds - Bad Pass Turnover Turnover (P3.T16),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+140959,21501130,4,4:50,nan,MISS Larkin 16' Jump Shot,nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140960,21501130,4,4:48,Seraphin REBOUND (Off:0 Def:6),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140961,21501130,4,4:33,Galloway  3PT Jump Shot (15 PTS),nan,83 - 98,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+140962,21501130,4,4:16,nan,MISS Robinson 5' Jump Shot,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140963,21501130,4,4:14,nan,Ellington REBOUND (Off:2 Def:2),nan,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140964,21501130,4,4:14,nan,MISS Ellington 1' Layup,nan,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140965,21501130,4,4:12,Afflalo REBOUND (Off:0 Def:2),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140966,21501130,4,4:08,Galloway 25' 3PT Jump Shot (18 PTS) (Afflalo 2 AST),nan,83 - 101,204038,Langston Galloway,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+140967,21501130,4,4:06,nan,Nets Timeout: Regular (Reg.6 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+140968,21501130,4,4:06,nan,SUB: McCullough FOR Robinson,nan,203080,Thomas Robinson,BKN,1626191,Chris McCullough,BKN,0,nan,nan,Substitution ,nan
+140969,21501130,4,4:06,nan,SUB: Kilpatrick FOR Lopez,nan,201572,Brook Lopez,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+140970,21501130,4,4:06,nan,SUB: Sims FOR Larkin,nan,203499,Shane Larkin,BKN,203156,Henry Sims,BKN,0,nan,nan,Substitution ,nan
+140971,21501130,4,3:52,nan,MISS Ellington 26' 3PT Jump Shot,nan,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140972,21501130,4,3:50,Early REBOUND (Off:1 Def:4),nan,nan,203921,Cleanthony Early,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140973,21501130,4,3:35,MISS Galloway 24' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140974,21501130,4,3:33,O'Quinn REBOUND (Off:1 Def:2),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140975,21501130,4,3:21,MISS Afflalo 15' Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140976,21501130,4,3:19,nan,Brown REBOUND (Off:1 Def:3),nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140977,21501130,4,3:16,nan,MISS McCullough  Alley Oop Layup,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140978,21501130,4,3:13,Galloway REBOUND (Off:0 Def:6),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140979,21501130,4,3:09,O'Quinn  Dunk (7 PTS) (Galloway 6 AST),nan,83 - 103,203124,Kyle O'Quinn,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+140980,21501130,4,2:53,nan,MISS Kilpatrick 5' Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140981,21501130,4,2:51,O'Quinn REBOUND (Off:1 Def:3),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140982,21501130,4,2:37,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140983,21501130,4,2:35,nan,McCullough REBOUND (Off:1 Def:6),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140984,21501130,4,2:28,nan,MISS Brown 10' Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140985,21501130,4,2:26,Afflalo REBOUND (Off:0 Def:3),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140986,21501130,4,2:24,Afflalo Double Dribble Turnover (P1.T17),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+140987,21501130,4,2:24,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+140988,21501130,4,2:24,SUB: Grant FOR Afflalo,nan,nan,201167,Arron Afflalo,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Substitution ,nan
+140989,21501130,4,2:08,nan,MISS Brown 26' 3PT Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140990,21501130,4,2:06,Early REBOUND (Off:1 Def:5),nan,nan,203921,Cleanthony Early,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140991,21501130,4,1:56,O'Quinn 17' Jump Shot (9 PTS) (Galloway 7 AST),nan,83 - 105,203124,Kyle O'Quinn,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+140992,21501130,4,1:44,nan,MISS Kilpatrick 2' Driving Layup,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+140993,21501130,4,1:42,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140994,21501130,4,1:39,Galloway BLOCK (1 BLK),MISS Ellington 12' Jump Shot,nan,201961,Wayne Ellington,BKN,0,nan,nan,204038,Langston Galloway,NYK,Missed Shot ,nan
+140995,21501130,4,1:38,nan,Sims REBOUND (Off:1 Def:2),nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+140996,21501130,4,1:37,Early S.FOUL (P1.T4) (D.Jones),nan,nan,203921,Cleanthony Early,NYK,203156,Henry Sims,BKN,0,nan,nan,Foul ,Shooting
+140997,21501130,4,1:37,nan,MISS Sims Free Throw 1 of 2,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+140998,21501130,4,1:37,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+140999,21501130,4,1:37,nan,Sims Free Throw 2 of 2 (7 PTS),84 - 105,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141000,21501130,4,1:26,MISS Grant 1' Layup,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141001,21501130,4,1:23,nan,Sims REBOUND (Off:1 Def:3),nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141002,21501130,4,1:19,nan,Brown 2' Layup (13 PTS) (Ellington 1 AST),86 - 105,203900,Markel Brown,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Made Shot ,nan
+141003,21501130,4,1:19,Seraphin S.FOUL (P3.PN) (D.Jones),nan,nan,202338,Kevin Seraphin,NYK,203900,Markel Brown,BKN,0,nan,nan,Foul ,Shooting
+141004,21501130,4,1:19,Seraphin T.FOUL (P3.PN) (D.Jones),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Foul ,Technical
+141005,21501130,4,1:19,nan,Brown Free Throw Technical (14 PTS),87 - 105,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+141006,21501130,4,1:19,nan,MISS Brown Free Throw 1 of 1,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+141007,21501130,4,1:18,Seraphin REBOUND (Off:0 Def:7),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141008,21501130,4,1:06,MISS Grant 15' Jump Shot,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141009,21501130,4,1:04,nan,Kilpatrick REBOUND (Off:2 Def:1),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141010,21501130,4,1:00,nan,Kilpatrick 1' Driving Layup (17 PTS),89 - 105,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+141011,21501130,4,0:46,MISS Early 21' Jump Shot,nan,nan,203921,Cleanthony Early,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141012,21501130,4,0:43,nan,McCullough REBOUND (Off:1 Def:7),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141013,21501130,4,0:36,nan,MISS McCullough 26' 3PT Jump Shot,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141014,21501130,4,0:34,O'Quinn REBOUND (Off:1 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141015,21501130,4,0:11,MISS Seraphin 26' 3PT Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141016,21501130,4,0:09,nan,Kilpatrick REBOUND (Off:2 Def:2),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141017,21501130,4,0:04,nan,MISS Kilpatrick 26' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141018,21501130,4,0:00,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141019,21501130,4,0:00,nan,Brown 1' Layup (16 PTS) (Kilpatrick 2 AST),91 - 105,203900,Markel Brown,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+141020,21501130,4,0:00,nan,nan,nan,497,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+141021,21501130,4,0:00,nan,nan,91 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

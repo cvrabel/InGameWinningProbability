@@ -1,0 +1,132 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+192514,21600315,4,12:00,nan,nan,96 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+192515,21600315,4,11:50,nan,Meeks 1' Cutting Layup Shot (11 PTS) (Vucevic 5 AST),98 - 81,201975,Jodie Meeks,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+192516,21600315,4,11:35,Wall 1' Driving Layup (36 PTS),nan,98 - 83,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192517,21600315,4,11:13,nan,MISS Gordon 8' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192518,21600315,4,11:12,Gortat REBOUND (Off:2 Def:8),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192519,21600315,4,10:59,Oubre Jr. 27' 3PT Jump Shot (3 PTS) (Mark Morris 1 AST),nan,98 - 86,1626162,Kelly Oubre Jr.,WAS,202693,Markieff Morris,WAS,0,nan,nan,Made Shot ,nan
+192520,21600315,4,10:44,nan,MISS Vucevic 27' 3PT Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192521,21600315,4,10:43,Oubre Jr. REBOUND (Off:1 Def:4),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192522,21600315,4,10:34,Wall 5' Floating Jump Shot (38 PTS),nan,98 - 88,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192523,21600315,4,10:14,Thornton S.FOUL (P2.T1) (B.Kennedy),nan,nan,201977,Marcus Thornton,WAS,201975,Jodie Meeks,ORL,0,nan,nan,Foul ,Shooting
+192524,21600315,4,10:14,nan,Meeks Free Throw 1 of 2 (12 PTS),99 - 88,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192525,21600315,4,10:14,nan,Meeks Free Throw 2 of 2 (13 PTS),100 - 88,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192526,21600315,4,10:04,Wall Bad Pass Turnover (P4.T11),Gordon STEAL (1 STL),nan,202322,John Wall,WAS,203932,Aaron Gordon,ORL,0,nan,nan,Turnover ,Bad Pass
+192527,21600315,4,10:00,nan,Gordon  Driving Reverse Dunk Shot (9 PTS) (Meeks 1 AST),102 - 88,203932,Aaron Gordon,ORL,201975,Jodie Meeks,ORL,0,nan,nan,Made Shot ,nan
+192528,21600315,4,9:59,WIZARDS Timeout: Regular (Full 4 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192529,21600315,4,9:59,SUB: Beal FOR Mark Morris,nan,nan,202693,Markieff Morris,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+192530,21600315,4,9:48,MISS Thornton 28' 3PT Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192531,21600315,4,9:47,nan,Vucevic REBOUND (Off:0 Def:6),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192532,21600315,4,9:26,nan,MISS Green 29' 3PT Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192533,21600315,4,9:26,Thornton REBOUND (Off:0 Def:2),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192534,21600315,4,9:06,MISS Gortat 1' Layup,nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192535,21600315,4,9:05,Thornton REBOUND (Off:1 Def:2),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192536,21600315,4,9:00,MISS Thornton 26' 3PT Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192537,21600315,4,8:59,nan,Vucevic REBOUND (Off:0 Def:7),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192538,21600315,4,8:51,nan,Meeks 26' 3PT Jump Shot (16 PTS) (Payton 8 AST),105 - 88,201975,Jodie Meeks,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+192539,21600315,4,8:34,Thornton 2' Layup (6 PTS) (Beal 4 AST),nan,105 - 90,201977,Marcus Thornton,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+192540,21600315,4,8:11,nan,MISS Vucevic 13' Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192541,21600315,4,8:10,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192542,21600315,4,8:10,SUB: Porter Jr. FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+192543,21600315,4,8:08,Gortat Shooting Block Foul (P2.T2) (T.Maddox),nan,nan,101162,Marcin Gortat,WAS,201975,Jodie Meeks,ORL,0,nan,nan,Foul ,Shooting Block
+192544,21600315,4,8:08,nan,Meeks Free Throw 1 of 2 (17 PTS),106 - 90,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192545,21600315,4,8:08,nan,Meeks Free Throw 2 of 2 (18 PTS),107 - 90,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192546,21600315,4,7:54,MISS Beal 27' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192547,21600315,4,7:53,Thornton REBOUND (Off:2 Def:2),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192548,21600315,4,7:51,Thornton 1' Putback Layup (8 PTS),nan,107 - 92,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192549,21600315,4,7:36,nan,MISS Vucevic 26' 3PT Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192550,21600315,4,7:35,Thornton REBOUND (Off:2 Def:3),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192551,21600315,4,7:30,Wall 26' 3PT Pullup Jump Shot (41 PTS) (Thornton 2 AST),nan,107 - 95,202322,John Wall,WAS,201977,Marcus Thornton,WAS,0,nan,nan,Made Shot ,nan
+192552,21600315,4,7:10,nan,MISS Payton  Layup,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192553,21600315,4,7:09,nan,Vucevic REBOUND (Off:1 Def:7),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192554,21600315,4,7:08,nan,Vucevic 1' Putback Layup (8 PTS),109 - 95,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192555,21600315,4,6:56,Beal 25' 3PT Jump Shot (12 PTS) (Wall 8 AST),nan,109 - 98,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+192556,21600315,4,6:56,nan,Magic Timeout: Regular (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192557,21600315,4,6:56,nan,SUB: Fournier FOR Green,nan,201145,Jeff Green,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+192558,21600315,4,6:56,nan,SUB: Biyombo FOR Meeks,nan,201975,Jodie Meeks,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+192559,21600315,4,6:31,nan,MISS Fournier 24' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192560,21600315,4,6:30,Thornton REBOUND (Off:2 Def:4),nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192561,21600315,4,6:26,nan,Gordon Violation:Defensive Goaltending (N.Buchert),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+192562,21600315,4,6:26,Beal 1' Driving Layup (14 PTS) (Thornton 3 AST),nan,109 - 100,203078,Bradley Beal,WAS,201977,Marcus Thornton,WAS,0,nan,nan,Made Shot ,nan
+192563,21600315,4,6:05,nan,MISS Gordon 17' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192564,21600315,4,6:03,nan,Vucevic REBOUND (Off:2 Def:7),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192565,21600315,4,5:43,nan,MISS Fournier 9' Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192566,21600315,4,5:42,Gortat REBOUND (Off:2 Def:9),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192567,21600315,4,5:36,MISS Wall  Layup,Gordon BLOCK (2 BLK),nan,202322,John Wall,WAS,0,nan,nan,203932,Aaron Gordon,ORL,Missed Shot ,nan
+192568,21600315,4,5:35,Porter Jr. REBOUND (Off:1 Def:2),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192569,21600315,4,5:28,Beal Lost Ball Turnover (P3.T12),Payton STEAL (3 STL),nan,203078,Bradley Beal,WAS,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Lost Ball
+192570,21600315,4,5:25,Gortat BLOCK (1 BLK),MISS Payton 2' Layup,nan,203901,Elfrid Payton,ORL,0,nan,nan,101162,Marcin Gortat,WAS,Missed Shot ,nan
+192571,21600315,4,5:24,nan,Vucevic REBOUND (Off:3 Def:7),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192572,21600315,4,5:23,Beal S.FOUL (P3.T3) (T.Maddox),nan,nan,203078,Bradley Beal,WAS,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Shooting
+192573,21600315,4,5:23,nan,Vucevic Free Throw 1 of 2 (9 PTS),110 - 100,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192574,21600315,4,5:23,nan,SUB: Ibaka FOR Biyombo,nan,202687,Bismack Biyombo,ORL,201586,Serge Ibaka,ORL,0,nan,nan,Substitution ,nan
+192575,21600315,4,5:23,nan,Vucevic Free Throw 2 of 2 (10 PTS),111 - 100,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192576,21600315,4,5:17,Wall 1' Driving Layup (43 PTS),nan,111 - 102,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192577,21600315,4,5:00,nan,Fournier 6' Driving Bank Shot (10 PTS) (Vucevic 6 AST),113 - 102,203095,Evan Fournier,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+192578,21600315,4,4:43,Wall 1' Driving Layup (45 PTS),nan,113 - 104,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192579,21600315,4,4:26,nan,Fournier Out of Bounds Lost Ball Turnover (P4.T11),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+192580,21600315,4,4:26,nan,SUB: Green FOR Gordon,nan,203932,Aaron Gordon,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+192581,21600315,4,4:26,nan,SUB: Biyombo FOR Vucevic,nan,202696,Nikola Vucevic,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+192582,21600315,4,4:18,MISS Wall 5' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192583,21600315,4,4:17,nan,Fournier REBOUND (Off:0 Def:1),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192584,21600315,4,4:09,Jump Ball Thornton vs. Green: Tip to Beal,nan,nan,201977,Marcus Thornton,WAS,201145,Jeff Green,ORL,203078,Bradley Beal,WAS,Jump Ball ,nan
+192585,21600315,4,4:09,Thornton STEAL (1 STL),Green Lost Ball Turnover (P1.T12),nan,201145,Jeff Green,ORL,201977,Marcus Thornton,WAS,0,nan,nan,Turnover ,Lost Ball
+192586,21600315,4,4:04,MISS Beal  Dunk,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192587,21600315,4,4:01,nan,Fournier REBOUND (Off:0 Def:2),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192588,21600315,4,3:55,nan,Green 3' Layup (17 PTS) (Payton 9 AST),115 - 104,201145,Jeff Green,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+192589,21600315,4,3:43,Wall 1' Driving Layup (47 PTS),nan,115 - 106,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192590,21600315,4,3:43,nan,Biyombo S.FOUL (P2.T1) (T.Maddox),nan,202687,Bismack Biyombo,ORL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+192591,21600315,4,3:43,Wall Free Throw 1 of 1 (48 PTS),nan,115 - 107,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+192592,21600315,4,3:24,nan,MISS Payton 7' Jump Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192593,21600315,4,3:23,nan,Biyombo REBOUND (Off:3 Def:9),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192594,21600315,4,3:22,nan,Biyombo 2' Tip Layup Shot (10 PTS),117 - 107,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192595,21600315,4,3:09,MISS Gortat 1' Layup,Ibaka BLOCK (4 BLK),nan,101162,Marcin Gortat,WAS,0,nan,nan,201586,Serge Ibaka,ORL,Missed Shot ,nan
+192596,21600315,4,3:06,nan,Fournier REBOUND (Off:0 Def:3),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192597,21600315,4,3:03,Wall P.FOUL (P3.T4) (T.Maddox),nan,nan,202322,John Wall,WAS,201586,Serge Ibaka,ORL,0,nan,nan,Foul ,Personal
+192598,21600315,4,3:03,SUB: Mark Morris FOR Thornton,nan,nan,201977,Marcus Thornton,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+192599,21600315,4,2:44,nan,Green 26' 3PT Jump Shot (20 PTS) (Fournier 1 AST),120 - 107,201145,Jeff Green,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+192600,21600315,4,2:42,WIZARDS Timeout: Short (Full 4 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+192601,21600315,4,2:42,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+192602,21600315,4,2:30,nan,Payton S.FOUL (P4.T2) (T.Maddox),nan,203901,Elfrid Payton,ORL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+192603,21600315,4,2:30,MISS Wall Free Throw 1 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192604,21600315,4,2:30,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192605,21600315,4,2:30,Wall Free Throw 2 of 2 (49 PTS),nan,120 - 108,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192606,21600315,4,2:28,Gortat Personal Take Foul (P3.PN) (N.Buchert),nan,nan,101162,Marcin Gortat,WAS,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Personal Take
+192607,21600315,4,2:28,nan,MISS Biyombo Free Throw 1 of 2,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192608,21600315,4,2:28,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192609,21600315,4,2:28,nan,Biyombo Free Throw 2 of 2 (11 PTS),121 - 108,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192610,21600315,4,2:12,MISS Beal  Layup,Biyombo BLOCK (3 BLK),nan,203078,Bradley Beal,WAS,0,nan,nan,202687,Bismack Biyombo,ORL,Missed Shot ,nan
+192611,21600315,4,2:10,nan,Green REBOUND (Off:0 Def:2),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192612,21600315,4,2:07,Gortat Personal Take Foul (P4.PN) (N.Buchert),nan,nan,101162,Marcin Gortat,WAS,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Personal Take
+192613,21600315,4,2:07,nan,MISS Biyombo Free Throw 1 of 2,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192614,21600315,4,2:07,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192615,21600315,4,2:07,nan,Biyombo Free Throw 2 of 2 (12 PTS),122 - 108,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192616,21600315,4,2:02,nan,Fournier S.FOUL (P5.T3) (N.Buchert),nan,203095,Evan Fournier,ORL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+192617,21600315,4,2:02,Wall Free Throw 1 of 2 (50 PTS),nan,122 - 109,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192618,21600315,4,2:02,nan,SUB: Augustin FOR Biyombo,nan,202687,Bismack Biyombo,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Substitution ,nan
+192619,21600315,4,2:02,MISS Wall Free Throw 2 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192620,21600315,4,2:01,nan,Green REBOUND (Off:0 Def:3),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192621,21600315,4,1:45,nan,MISS Ibaka 29' 3PT Jump Shot,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192622,21600315,4,1:44,Mark Morris REBOUND (Off:2 Def:5),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192623,21600315,4,1:38,MISS Wall  Layup,Payton BLOCK (3 BLK),nan,202322,John Wall,WAS,0,nan,nan,203901,Elfrid Payton,ORL,Missed Shot ,nan
+192624,21600315,4,1:38,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192625,21600315,4,1:38,nan,SUB: Biyombo FOR Augustin,nan,201571,D.J. Augustin,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+192626,21600315,4,1:32,Beal  Driving Dunk (16 PTS),nan,122 - 111,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192627,21600315,4,1:20,Gortat Personal Take Foul (P5.PN) (T.Maddox),nan,nan,101162,Marcin Gortat,WAS,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Personal Take
+192628,21600315,4,1:20,nan,Biyombo Free Throw 1 of 2 (13 PTS),123 - 111,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192629,21600315,4,1:20,nan,Biyombo Free Throw 2 of 2 (14 PTS),124 - 111,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192630,21600315,4,1:20,WIZARDS Timeout: Regular (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192631,21600315,4,1:20,WIZARDS Timeout: Short (Full 5 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+192632,21600315,4,1:15,Beal 29' 3PT Jump Shot (19 PTS),nan,124 - 114,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192633,21600315,4,0:52,nan,MISS Green 9' Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192634,21600315,4,0:51,nan,Biyombo REBOUND (Off:4 Def:9),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192635,21600315,4,0:33,nan,MISS Ibaka 26' 3PT Jump Shot,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192636,21600315,4,0:31,Beal REBOUND (Off:1 Def:2),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192637,21600315,4,0:23,nan,Biyombo S.FOUL (P3.T4) (T.Maddox),nan,202687,Bismack Biyombo,ORL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+192638,21600315,4,0:23,Wall Free Throw 1 of 2 (51 PTS),nan,124 - 115,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192639,21600315,4,0:23,Wall Free Throw 2 of 2 (52 PTS),nan,124 - 116,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192640,21600315,4,0:09,Jump Ball Wall vs. Fournier: Tip to Gortat,nan,nan,202322,John Wall,WAS,203095,Evan Fournier,ORL,101162,Marcin Gortat,WAS,Jump Ball ,nan
+192641,21600315,4,0:09,Wall STEAL (3 STL),Fournier Lost Ball Turnover (P5.T13),nan,203095,Evan Fournier,ORL,202322,John Wall,WAS,0,nan,nan,Turnover ,Lost Ball
+192642,21600315,4,0:01,MISS Wall 27' 3PT Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192643,21600315,4,0:00,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192644,21600315,4,0:00,nan,nan,124 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

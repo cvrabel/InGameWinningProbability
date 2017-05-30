@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+180371,21600217,4,12:00,nan,nan,79 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+180372,21600217,4,11:46,Whitehead 9' Jump Shot (4 PTS),nan,79 - 68,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180373,21600217,4,11:33,nan,MISS Bradley 24' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180374,21600217,4,11:31,nan,Rozier REBOUND (Off:1 Def:3),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180375,21600217,4,11:27,nan,Olynyk 25' 3PT Jump Shot (8 PTS) (Rozier 1 AST),82 - 68,203482,Kelly Olynyk,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+180376,21600217,4,11:06,Kilpatrick 3' Driving Layup (12 PTS) (Whitehead 3 AST),nan,82 - 70,203930,Sean Kilpatrick,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+180377,21600217,4,10:47,nan,MISS Olynyk 24' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180378,21600217,4,10:46,Booker REBOUND (Off:3 Def:5),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180379,21600217,4,10:40,Booker 5' Driving Bank Shot (15 PTS),nan,82 - 72,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180380,21600217,4,10:19,nan,Jerebko 19' Turnaround Fadeaway (5 PTS),84 - 72,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180381,21600217,4,10:03,Scola Bad Pass Turnover (P2.T14),Smart STEAL (2 STL),nan,2449,Luis Scola,BKN,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+180382,21600217,4,9:53,nan,MISS Rozier 25' 3PT Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180383,21600217,4,9:52,nan,Olynyk REBOUND (Off:1 Def:1),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180384,21600217,4,9:45,Kilpatrick BLOCK (2 BLK),MISS Olynyk 3' Layup,nan,203482,Kelly Olynyk,BOS,0,nan,nan,203930,Sean Kilpatrick,BKN,Missed Shot ,nan
+180385,21600217,4,9:44,Booker REBOUND (Off:3 Def:6),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180386,21600217,4,9:43,Kilpatrick 3' Driving Layup (14 PTS) (Booker 2 AST),nan,84 - 74,203930,Sean Kilpatrick,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+180387,21600217,4,9:43,nan,Smart S.FOUL (P2.T1) (J.Phillips),nan,203935,Marcus Smart,BOS,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+180388,21600217,4,9:43,nan,nan,nan,202344,Trevor Booker,BKN,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Double Technical
+180389,21600217,4,9:43,Kilpatrick Free Throw 1 of 1 (15 PTS),nan,84 - 75,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+180390,21600217,4,9:23,nan,Jerebko 19' Jump Shot (7 PTS),86 - 75,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180391,21600217,4,9:13,Scola Lost Ball Turnover (P3.T15),Jerebko STEAL (1 STL),nan,2449,Luis Scola,BKN,201973,Jonas Jerebko,BOS,0,nan,nan,Turnover ,Lost Ball
+180392,21600217,4,9:03,nan,MISS Bradley 24' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180393,21600217,4,9:02,Booker REBOUND (Off:3 Def:7),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180394,21600217,4,8:54,Harris 24' 3PT Jump Shot (9 PTS) (Booker 3 AST),nan,86 - 78,203925,Joe Harris,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+180395,21600217,4,8:32,nan,Jerebko 25' 3PT Jump Shot (10 PTS) (Olynyk 1 AST),89 - 78,201973,Jonas Jerebko,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+180396,21600217,4,8:16,Kilpatrick 26' 3PT Jump Shot (18 PTS),nan,89 - 81,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180397,21600217,4,8:05,nan,Rozier Offensive Charge Foul (P2.T2) (C.Blair),nan,1626179,Terry Rozier,BOS,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Offensive Charge
+180398,21600217,4,8:05,nan,Rozier Foul Turnover (P1.T13),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+180399,21600217,4,8:05,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+180400,21600217,4,8:05,SUB: Lopez FOR Booker,nan,nan,202344,Trevor Booker,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+180401,21600217,4,8:05,SUB: Bogdanovic FOR Harris,nan,nan,203925,Joe Harris,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+180402,21600217,4,8:05,SUB: Hamilton FOR Scola,nan,nan,2449,Luis Scola,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+180403,21600217,4,7:55,nan,Jerebko Shooting Block Foul (P1.T3) (S.Corbin),nan,201973,Jonas Jerebko,BOS,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting Block
+180404,21600217,4,7:55,Kilpatrick Free Throw 1 of 2 (19 PTS),nan,89 - 82,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180405,21600217,4,7:55,MISS Kilpatrick Free Throw 2 of 2,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180406,21600217,4,7:54,nan,Bradley REBOUND (Off:0 Def:5),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180407,21600217,4,7:36,Kilpatrick BLOCK (3 BLK),MISS Bradley 3' Driving Layup,nan,202340,Avery Bradley,BOS,0,nan,nan,203930,Sean Kilpatrick,BKN,Missed Shot ,nan
+180408,21600217,4,7:35,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180409,21600217,4,7:35,nan,SUB: Crowder FOR Smart,nan,203935,Marcus Smart,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+180410,21600217,4,7:33,nan,Bradley 3' Driving Finger Roll Layup (19 PTS) (Crowder 1 AST),91 - 82,202340,Avery Bradley,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+180411,21600217,4,7:20,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180412,21600217,4,7:18,nan,Rozier REBOUND (Off:1 Def:4),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180413,21600217,4,7:11,Kilpatrick S.FOUL (P1.T1) (S.Corbin),nan,nan,203930,Sean Kilpatrick,BKN,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Shooting
+180414,21600217,4,7:11,nan,MISS Bradley Free Throw 1 of 2,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180415,21600217,4,7:11,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+180416,21600217,4,7:11,SUB: Harris FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,203925,Joe Harris,BKN,0,nan,nan,Substitution ,nan
+180417,21600217,4,7:11,nan,SUB: Zeller FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+180418,21600217,4,7:11,nan,Bradley Free Throw 2 of 2 (20 PTS),92 - 82,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180419,21600217,4,6:59,MISS Kilpatrick 3' Driving Layup,Zeller BLOCK (2 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,203092,Tyler Zeller,BOS,Missed Shot ,nan
+180420,21600217,4,6:58,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180421,21600217,4,6:53,nan,Jerebko P.FOUL (P2.T4) (S.Corbin),nan,201973,Jonas Jerebko,BOS,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Personal
+180422,21600217,4,6:45,MISS Bogdanovic 24' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180423,21600217,4,6:44,nan,Rozier REBOUND (Off:1 Def:5),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180424,21600217,4,6:30,nan,MISS Bradley 24' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180425,21600217,4,6:29,Harris REBOUND (Off:0 Def:3),nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180426,21600217,4,6:22,nan,Bradley S.FOUL (P3.PN) (C.Blair),nan,202340,Avery Bradley,BOS,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+180427,21600217,4,6:22,Kilpatrick Free Throw 1 of 2 (20 PTS),nan,92 - 83,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180428,21600217,4,6:22,nan,SUB: Horford FOR Jerebko,nan,201973,Jonas Jerebko,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+180429,21600217,4,6:22,SUB: Booker FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+180430,21600217,4,6:22,Kilpatrick Free Throw 2 of 2 (21 PTS),nan,92 - 84,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180431,21600217,4,6:17,nan,Celtics Timeout: Regular (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180432,21600217,4,6:17,SUB: Whitehead FOR Kilpatrick,nan,nan,203930,Sean Kilpatrick,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+180433,21600217,4,5:58,nan,Crowder 25' 3PT Jump Shot (10 PTS) (Horford 8 AST),95 - 84,203109,Jae Crowder,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+180434,21600217,4,5:40,MISS Lopez  3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180435,21600217,4,5:38,nan,Crowder REBOUND (Off:1 Def:4),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180436,21600217,4,5:20,nan,MISS Bradley 3' Driving Finger Roll Layup,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180437,21600217,4,5:19,nan,Bradley REBOUND (Off:1 Def:5),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180438,21600217,4,5:18,nan,Bradley 3' Tip Layup Shot (22 PTS),97 - 84,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180439,21600217,4,5:12,NETS Timeout: Regular (Full 4 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180440,21600217,4,5:12,nan,SUB: Thomas FOR Rozier,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+180441,21600217,4,5:12,nan,SUB: Smart FOR Zeller,nan,203092,Tyler Zeller,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+180442,21600217,4,5:12,SUB: Kilpatrick FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+180443,21600217,4,5:03,MISS Kilpatrick 5' Jump Shot,Horford BLOCK (2 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,201143,Al Horford,BOS,Missed Shot ,nan
+180444,21600217,4,5:01,Booker REBOUND (Off:4 Def:7),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180445,21600217,4,4:57,Booker 5' Hook Shot (17 PTS),nan,97 - 86,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180446,21600217,4,4:44,nan,Crowder 22' Step Back Jump Shot (12 PTS),99 - 86,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180447,21600217,4,4:34,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180448,21600217,4,4:33,Booker REBOUND (Off:5 Def:7),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180449,21600217,4,4:33,nan,Crowder S.FOUL (P2.PN) (S.Corbin),nan,203109,Jae Crowder,BOS,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Shooting
+180450,21600217,4,4:33,MISS Booker Free Throw 1 of 2,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180451,21600217,4,4:33,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+180452,21600217,4,4:33,Booker Free Throw 2 of 2 (18 PTS),nan,99 - 87,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180453,21600217,4,4:14,nan,Thomas 24' 3PT Jump Shot (23 PTS) (Bradley 1 AST),102 - 87,202738,Isaiah Thomas,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+180454,21600217,4,4:00,MISS Kilpatrick 24' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180455,21600217,4,3:59,nan,Bradley REBOUND (Off:1 Def:6),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180456,21600217,4,3:46,nan,Crowder 25' 3PT Jump Shot (15 PTS) (Smart 8 AST),105 - 87,203109,Jae Crowder,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+180457,21600217,4,3:37,Kilpatrick Lost Ball Turnover (P2.T16),Bradley STEAL (4 STL),nan,203930,Sean Kilpatrick,BKN,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+180458,21600217,4,3:21,nan,MISS Bradley 2' Driving Layup,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180459,21600217,4,3:19,Lopez REBOUND (Off:1 Def:2),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180460,21600217,4,3:12,MISS Lopez 25' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180461,21600217,4,3:11,nan,Smart REBOUND (Off:1 Def:5),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180462,21600217,4,2:51,nan,MISS Thomas 11' Turnaround Fadeaway Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180463,21600217,4,2:50,Bogdanovic REBOUND (Off:0 Def:8),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180464,21600217,4,2:41,Bogdanovic Bad Pass Turnover (P2.T17),Bradley STEAL (5 STL),nan,202711,Bojan Bogdanovic,BKN,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Bad Pass
+180465,21600217,4,2:37,Booker STEAL (4 STL),Horford Bad Pass Turnover (P2.T14),nan,201143,Al Horford,BOS,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Bad Pass
+180466,21600217,4,2:25,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180467,21600217,4,2:24,nan,Horford REBOUND (Off:1 Def:4),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180468,21600217,4,2:05,nan,Horford 19' Jump Shot (17 PTS),107 - 87,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180469,21600217,4,1:59,NETS Timeout: Regular (Full 5 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180470,21600217,4,1:59,nan,SUB: Jerebko FOR Crowder,nan,203109,Jae Crowder,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+180471,21600217,4,1:59,nan,SUB: Olynyk FOR Horford,nan,201143,Al Horford,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+180472,21600217,4,1:59,nan,SUB: Rozier FOR Bradley,nan,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+180473,21600217,4,1:59,SUB: Ferrell FOR Booker,nan,nan,202344,Trevor Booker,BKN,1627812,Yogi Ferrell,BKN,0,nan,nan,Substitution ,nan
+180474,21600217,4,1:59,SUB: McCullough FOR Lopez,nan,nan,201572,Brook Lopez,BKN,1626191,Chris McCullough,BKN,0,nan,nan,Substitution ,nan
+180475,21600217,4,1:59,SUB: Bennett FOR Bogdanovic,nan,nan,202711,Bojan Bogdanovic,BKN,203461,Anthony Bennett,BKN,0,nan,nan,Substitution ,nan
+180476,21600217,4,1:55,Harris 25' 3PT Jump Shot (12 PTS) (Bennett 1 AST),nan,107 - 90,203925,Joe Harris,BKN,203461,Anthony Bennett,BKN,0,nan,nan,Made Shot ,nan
+180477,21600217,4,1:44,nan,MISS Smart 9' Running Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180478,21600217,4,1:42,McCullough REBOUND (Off:0 Def:1),nan,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180479,21600217,4,1:35,nan,Olynyk S.FOUL (P4.PN) (J.Phillips),nan,203482,Kelly Olynyk,BOS,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+180480,21600217,4,1:35,Kilpatrick Free Throw 1 of 2 (22 PTS),nan,107 - 91,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180481,21600217,4,1:35,nan,SUB: Young FOR Thomas,nan,202738,Isaiah Thomas,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+180482,21600217,4,1:35,Kilpatrick Free Throw 2 of 2 (23 PTS),nan,107 - 92,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180483,21600217,4,1:18,nan,MISS Smart 17' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180484,21600217,4,1:17,Bennett REBOUND (Off:0 Def:1),nan,nan,203461,Anthony Bennett,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180485,21600217,4,1:14,Bennett Bad Pass Turnover (P1.T18),Rozier STEAL (2 STL),nan,203461,Anthony Bennett,BKN,1626179,Terry Rozier,BOS,0,nan,nan,Turnover ,Bad Pass
+180486,21600217,4,0:53,nan,MISS Olynyk 20' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180487,21600217,4,0:53,nan,Jerebko REBOUND (Off:1 Def:0),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180488,21600217,4,0:53,nan,MISS Smart 2' Tip Layup Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180489,21600217,4,0:52,nan,Smart REBOUND (Off:2 Def:5),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180490,21600217,4,0:49,nan,Smart 2' Putback Layup (4 PTS),109 - 92,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180491,21600217,4,0:43,Kilpatrick Bad Pass Turnover (P3.T19),Olynyk STEAL (2 STL),nan,203930,Sean Kilpatrick,BKN,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Bad Pass
+180492,21600217,4,0:40,nan,Olynyk  Dunk (10 PTS),111 - 92,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+180493,21600217,4,0:34,MISS Ferrell 19' Jump Shot,nan,nan,1627812,Yogi Ferrell,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180494,21600217,4,0:33,nan,Smart REBOUND (Off:2 Def:6),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180495,21600217,4,0:10,nan,MISS Smart 25' 3PT Step Back Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180496,21600217,4,0:08,Ferrell REBOUND (Off:0 Def:1),nan,nan,1627812,Yogi Ferrell,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180497,21600217,4,0:01,MISS McCullough 18' Jump Shot,nan,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180498,21600217,4,0:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180499,21600217,4,0:00,nan,nan,111 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

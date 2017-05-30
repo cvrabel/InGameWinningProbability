@@ -1,0 +1,106 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+196001,21600343,4,12:00,nan,nan,77 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+196002,21600343,4,11:50,nan,Brooks P.FOUL (P2.T1) (E.Malloy),nan,201166,Aaron Brooks,IND,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+196003,21600343,4,11:38,Barnes  3PT Jump Shot (22 PTS) (Brussino 1 AST),nan,77 - 88,203084,Harrison Barnes,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Made Shot ,nan
+196004,21600343,4,11:20,nan,Jefferson 3' Driving Bank Shot (6 PTS),79 - 88,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+196005,21600343,4,11:06,nan,Jefferson S.FOUL (P2.T2) (C.Washington),nan,2744,Al Jefferson,IND,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Shooting
+196006,21600343,4,11:06,Powell Free Throw 1 of 2 (3 PTS),nan,79 - 89,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196007,21600343,4,11:06,Powell Free Throw 2 of 2 (4 PTS),nan,79 - 90,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196008,21600343,4,10:47,nan,Jefferson 10' Turnaround Hook Shot (8 PTS),81 - 90,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+196009,21600343,4,10:35,MISS D. Williams 15' Pullup Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196010,21600343,4,10:34,nan,Brooks REBOUND (Off:1 Def:2),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196011,21600343,4,10:25,nan,Jefferson 4' Turnaround Jump Shot (10 PTS) (Miles 1 AST),83 - 90,2744,Al Jefferson,IND,101139,CJ Miles,IND,0,nan,nan,Made Shot ,nan
+196012,21600343,4,10:07,Barnes  3PT Jump Shot (25 PTS) (Powell 1 AST),nan,83 - 93,203084,Harrison Barnes,DAL,203939,Dwight Powell,DAL,0,nan,nan,Made Shot ,nan
+196013,21600343,4,9:45,nan,MISS Jefferson 14' Jump Shot,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196014,21600343,4,9:44,Barnes REBOUND (Off:1 Def:4),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196015,21600343,4,9:34,MISS Curry 25' 3PT Jump Shot,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196016,21600343,4,9:33,nan,Stuckey REBOUND (Off:0 Def:3),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196017,21600343,4,9:19,nan,MISS Brooks 24' 3PT Jump Shot,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196018,21600343,4,9:18,Brussino REBOUND (Off:0 Def:3),nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196019,21600343,4,9:09,nan,George P.FOUL (P4.T3) (K.Fitzgerald),nan,202331,Paul George,IND,203552,Seth Curry,DAL,0,nan,nan,Foul ,Personal
+196020,21600343,4,9:09,SUB: Mejri FOR Powell,nan,nan,203939,Dwight Powell,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Substitution ,nan
+196021,21600343,4,9:04,Brussino Bad Pass Turnover (P1.T8),Miles STEAL (2 STL),nan,1627852,Nicolas Brussino,DAL,101139,CJ Miles,IND,0,nan,nan,Turnover ,Bad Pass
+196022,21600343,4,8:42,nan,MISS Jefferson 13' Turnaround Fadeaway Shot,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196023,21600343,4,8:41,Barnes REBOUND (Off:1 Def:5),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196024,21600343,4,8:31,Mejri 1' Cutting Finger Roll Layup Shot (6 PTS) (D. Williams 5 AST),nan,83 - 95,1626257,Salah Mejri,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+196025,21600343,4,8:30,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196026,21600343,4,8:29,SUB: Finney-Smith FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+196027,21600343,4,8:29,SUB: Matthews FOR Brussino,nan,nan,1627852,Nicolas Brussino,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+196028,21600343,4,8:29,nan,SUB: Teague FOR Jefferson,nan,2744,Al Jefferson,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+196029,21600343,4,8:29,nan,SUB: Turner FOR Brooks,nan,201166,Aaron Brooks,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+196030,21600343,4,8:08,nan,Miles 25' 3PT Jump Shot (18 PTS) (Turner 2 AST),86 - 95,101139,CJ Miles,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+196031,21600343,4,7:42,D. Williams 25' 3PT Jump Shot (16 PTS) (Curry 6 AST),nan,86 - 98,101114,Deron Williams,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+196032,21600343,4,7:25,nan,MISS Teague 6' Driving Floating Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196033,21600343,4,7:24,nan,Turner REBOUND (Off:1 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196034,21600343,4,7:24,nan,Turner 1' Tip Layup Shot (12 PTS),88 - 98,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+196035,21600343,4,7:01,Matthews 25' 3PT Jump Shot (26 PTS) (Finney-Smith 1 AST),nan,88 - 101,202083,Wesley Matthews,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+196036,21600343,4,7:00,nan,nan,nan,1778,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+196037,21600343,4,7:00,MISS Curry Free Throw Technical,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+196038,21600343,4,7:00,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+196039,21600343,4,6:43,nan,MISS George 19' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196040,21600343,4,6:43,Finney-Smith REBOUND (Off:1 Def:7),nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196041,21600343,4,6:24,MISS Matthews 24' 3PT Turnaround Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196042,21600343,4,6:22,nan,George REBOUND (Off:0 Def:6),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196043,21600343,4,6:08,Matthews S.FOUL (P2.T1) (C.Washington),nan,nan,202083,Wesley Matthews,DAL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+196044,21600343,4,6:08,nan,Turner Free Throw 1 of 2 (13 PTS),89 - 101,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196045,21600343,4,6:08,MAVERICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196046,21600343,4,6:08,SUB: Harris FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+196047,21600343,4,6:08,SUB: Barnes FOR Curry,nan,nan,203552,Seth Curry,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+196048,21600343,4,6:08,nan,Turner Free Throw 2 of 2 (14 PTS),90 - 101,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196049,21600343,4,6:01,Harris OFF.Foul (P1) (C.Washington),nan,nan,2734,Devin Harris,DAL,201952,Jeff Teague,IND,0,nan,nan,Foul ,Offensive
+196050,21600343,4,6:01,Harris Foul Turnover (P1.T9),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+196051,21600343,4,5:46,nan,MISS Miles 24' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196052,21600343,4,5:46,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196053,21600343,4,5:28,MAVERICKS Timeout: Short (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+196054,21600343,4,5:28,SUB: Powell FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+196055,21600343,4,5:25,Powell 19' Jump Shot (6 PTS) (D. Williams 6 AST),nan,90 - 103,203939,Dwight Powell,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+196056,21600343,4,5:13,nan,Teague 1' Driving Layup (9 PTS),92 - 103,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+196057,21600343,4,5:00,nan,Miles S.FOUL (P2.T4) (K.Fitzgerald),nan,101139,CJ Miles,IND,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Shooting
+196058,21600343,4,5:00,Powell Free Throw 1 of 2 (7 PTS),nan,92 - 104,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196059,21600343,4,5:00,Powell Free Throw 2 of 2 (8 PTS),nan,92 - 105,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196060,21600343,4,4:42,Powell S.FOUL (P4.T2) (K.Fitzgerald),nan,nan,203939,Dwight Powell,DAL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+196061,21600343,4,4:42,nan,Turner Free Throw 1 of 2 (15 PTS),93 - 105,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196062,21600343,4,4:42,SUB: Finney-Smith FOR Harris,nan,nan,2734,Devin Harris,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+196063,21600343,4,4:42,nan,Turner Free Throw 2 of 2 (16 PTS),94 - 105,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196064,21600343,4,4:31,nan,George FLAGRANT.FOUL.TYPE1 (P5.PN) (C.Washington),nan,202331,Paul George,IND,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Flagrant Type 1
+196065,21600343,4,4:31,nan,nan,nan,462,J.R. Reid,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+196066,21600343,4,4:31,Powell Free Throw Flagrant 1 of 2 (9 PTS),nan,94 - 106,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+196067,21600343,4,4:31,Powell Free Throw Flagrant 2 of 2 (10 PTS),nan,94 - 107,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+196068,21600343,4,4:18,MISS D. Williams 24' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196069,21600343,4,4:17,nan,Stuckey REBOUND (Off:0 Def:4),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196070,21600343,4,4:01,nan,MISS Teague 6' Driving Floating Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196071,21600343,4,3:59,nan,Turner REBOUND (Off:2 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196072,21600343,4,3:59,nan,MISS Turner 2' Tip Layup Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196073,21600343,4,3:59,Powell REBOUND (Off:1 Def:3),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196074,21600343,4,3:34,MISS Powell 22' Jump Shot,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196075,21600343,4,3:33,nan,George REBOUND (Off:0 Def:7),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196076,21600343,4,3:22,nan,MISS George 11' Step Back Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196077,21600343,4,3:21,Powell REBOUND (Off:1 Def:4),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196078,21600343,4,3:08,MISS Powell 17' Jump Shot,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196079,21600343,4,3:06,Barnes REBOUND (Off:2 Def:5),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196080,21600343,4,2:49,nan,Turner S.FOUL (P2.PN) (C.Washington),nan,1626167,Myles Turner,IND,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Shooting
+196081,21600343,4,2:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+196082,21600343,4,2:49,Powell Free Throw 1 of 2 (11 PTS),nan,94 - 108,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196083,21600343,4,2:49,Powell Free Throw 2 of 2 (12 PTS),nan,94 - 109,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196084,21600343,4,2:37,nan,George 2' Driving Layup (21 PTS) (Teague 5 AST),96 - 109,202331,Paul George,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+196085,21600343,4,2:37,Powell S.FOUL (P5.T3) (C.Washington),nan,nan,203939,Dwight Powell,DAL,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+196086,21600343,4,2:37,nan,George Free Throw 1 of 1 (22 PTS),97 - 109,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+196087,21600343,4,2:16,MISS Barnes 19' Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196088,21600343,4,2:15,nan,Miles REBOUND (Off:0 Def:3),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196089,21600343,4,1:59,nan,Turner  Cutting Dunk Shot (18 PTS) (Teague 6 AST),99 - 109,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+196090,21600343,4,1:37,Powell 20' Jump Shot (14 PTS) (Finney-Smith 2 AST),nan,99 - 111,203939,Dwight Powell,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+196091,21600343,4,1:34,Barnes Shooting Block Foul (P2.T4) (K.Fitzgerald),nan,nan,203084,Harrison Barnes,DAL,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting Block
+196092,21600343,4,1:34,nan,MISS Teague Free Throw 1 of 2,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196093,21600343,4,1:34,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+196094,21600343,4,1:34,nan,Teague Free Throw 2 of 2 (10 PTS),100 - 111,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196095,21600343,4,1:17,MISS Matthews 24' 3PT Fadeaway Jumper,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196096,21600343,4,1:15,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196097,21600343,4,0:51,MISS Powell  3PT Jump Shot,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196098,21600343,4,0:50,nan,Miles REBOUND (Off:0 Def:4),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196099,21600343,4,0:50,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+196100,21600343,4,0:46,nan,MISS George 25' 3PT Step Back Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196101,21600343,4,0:44,Matthews REBOUND (Off:0 Def:4),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196102,21600343,4,0:23,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196103,21600343,4,0:22,nan,Stuckey REBOUND (Off:0 Def:5),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196104,21600343,4,0:17,nan,Stuckey 25' 3PT Pullup Jump Shot (9 PTS),103 - 111,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+196105,21600343,4,0:00,nan,nan,103 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

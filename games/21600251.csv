@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+184383,21600251,4,12:00,nan,nan,96 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+184384,21600251,4,11:53,nan,Dekker Traveling Turnover (P2.T9),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+184385,21600251,4,11:33,Davis  Driving Dunk (7 PTS) (Layman 1 AST),nan,96 - 95,202334,Ed Davis,POR,1627774,Jake Layman,POR,0,nan,nan,Made Shot ,nan
+184386,21600251,4,11:16,nan,Nene 2' Finger Roll Layup (8 PTS) (Gordon 3 AST),98 - 95,2403,Nene,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+184387,21600251,4,10:54,MISS Turner 9' Pullup Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184388,21600251,4,10:54,nan,Nene REBOUND (Off:0 Def:3),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184389,21600251,4,10:42,nan,Gordon 25' 3PT Pullup Jump Shot (23 PTS),101 - 95,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+184390,21600251,4,10:19,Crabbe Offensive Charge Foul (P2.T1) (B.Barnaky),nan,nan,203459,Allen Crabbe,POR,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Offensive Charge
+184391,21600251,4,10:19,Crabbe Foul Turnover (P2.T13),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+184392,21600251,4,10:11,nan,Gordon 26' 3PT Pullup Jump Shot (26 PTS),104 - 95,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+184393,21600251,4,9:44,MISS Crabbe 5' Driving Floating Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184394,21600251,4,9:43,nan,Nene REBOUND (Off:0 Def:4),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184395,21600251,4,9:30,nan,MISS Brewer 2' Driving Finger Roll Layup,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184396,21600251,4,9:28,Crabbe REBOUND (Off:0 Def:5),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184397,21600251,4,9:19,MISS Turner  3PT Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184398,21600251,4,9:18,nan,Brewer REBOUND (Off:0 Def:4),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184399,21600251,4,9:10,nan,MISS Beverley 24' 3PT Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184400,21600251,4,9:10,Turner REBOUND (Off:0 Def:6),nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184401,21600251,4,9:03,nan,Nene P.FOUL (P4.T1) (J.Capers),nan,2403,Nene,HOU,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+184402,21600251,4,9:03,SUB: McCollum FOR Turner,nan,nan,202323,Evan Turner,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+184403,21600251,4,9:03,SUB: Harkless FOR Layman,nan,nan,1627774,Jake Layman,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+184404,21600251,4,8:54,MISS Lillard 29' 3PT Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184405,21600251,4,8:54,nan,Gordon REBOUND (Off:1 Def:4),nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184406,21600251,4,8:50,nan,MISS Brewer  Running Dunk,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184407,21600251,4,8:49,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184408,21600251,4,8:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+184409,21600251,4,8:49,nan,SUB: Capela FOR Nene,nan,2403,Nene,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+184410,21600251,4,8:49,nan,SUB: Harden FOR Beverley,nan,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+184411,21600251,4,8:49,SUB: Plumlee FOR Davis,nan,nan,202334,Ed Davis,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+184412,21600251,4,8:29,nan,Gordon P.FOUL (P1.T2) (J.Capers),nan,201569,Eric Gordon,HOU,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+184413,21600251,4,8:24,Lillard 27' 3PT Jump Shot (19 PTS) (McCollum 4 AST),nan,104 - 98,203081,Damian Lillard,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+184414,21600251,4,8:11,McCollum STEAL (2 STL),Harden Bad Pass Turnover (P4.T10),nan,201935,James Harden,HOU,203468,CJ McCollum,POR,0,nan,nan,Turnover ,Bad Pass
+184415,21600251,4,8:05,Plumlee 1' Reverse Layup (10 PTS) (McCollum 5 AST),nan,104 - 100,203486,Mason Plumlee,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+184416,21600251,4,7:49,nan,MISS Dekker 24' 3PT Jump Shot,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184417,21600251,4,7:48,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184418,21600251,4,7:39,MISS Lillard 25' 3PT Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184419,21600251,4,7:39,nan,Capela REBOUND (Off:1 Def:5),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184420,21600251,4,7:29,nan,SUB: Anderson FOR Dekker,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+184421,21600251,4,7:29,nan,SUB: Ariza FOR Brewer,nan,201147,Corey Brewer,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+184422,21600251,4,7:14,nan,Capela  Dunk (15 PTS) (Gordon 4 AST),106 - 100,203991,Clint Capela,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+184423,21600251,4,6:53,MISS Harkless 2' Layup,Capela BLOCK (2 BLK),nan,203090,Maurice Harkless,POR,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+184424,21600251,4,6:52,nan,Ariza REBOUND (Off:0 Def:1),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184425,21600251,4,6:49,McCollum S.FOUL (P3.T2) (J.Capers),nan,nan,203468,CJ McCollum,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+184426,21600251,4,6:49,nan,Harden Free Throw 1 of 2 (29 PTS),107 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184427,21600251,4,6:49,nan,Harden Free Throw 2 of 2 (30 PTS),108 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184428,21600251,4,6:32,MISS Lillard 4' Driving Floating Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184429,21600251,4,6:31,nan,Anderson REBOUND (Off:1 Def:4),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184430,21600251,4,6:17,nan,MISS Harden 24' 3PT Pullup Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184431,21600251,4,6:17,Lillard REBOUND (Off:1 Def:3),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184432,21600251,4,6:09,Plumlee Bad Pass Turnover (P3.T14),Ariza STEAL (2 STL),nan,203486,Mason Plumlee,POR,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+184433,21600251,4,6:00,nan,Ariza 24' 3PT Jump Shot (13 PTS) (Anderson 3 AST),111 - 100,2772,Trevor Ariza,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Made Shot ,nan
+184434,21600251,4,6:00,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184435,21600251,4,5:45,MISS McCollum 25' 3PT Step Back Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184436,21600251,4,5:45,nan,Anderson REBOUND (Off:1 Def:5),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184437,21600251,4,5:38,Crabbe STEAL (1 STL),Harden Lost Ball Turnover (P5.T11),nan,201935,James Harden,HOU,203459,Allen Crabbe,POR,0,nan,nan,Turnover ,Lost Ball
+184438,21600251,4,5:38,nan,Harden P.FOUL (P3.T3) (S.Anderson),nan,201935,James Harden,HOU,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Personal
+184439,21600251,4,5:29,nan,Ariza S.FOUL (P3.T4) (B.Barnaky),nan,2772,Trevor Ariza,HOU,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+184440,21600251,4,5:29,Lillard Free Throw 1 of 2 (20 PTS),nan,111 - 101,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184441,21600251,4,5:29,nan,SUB: Beverley FOR Gordon,nan,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+184442,21600251,4,5:29,Lillard Free Throw 2 of 2 (21 PTS),nan,111 - 102,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184443,21600251,4,5:14,Plumlee P.FOUL (P3.T3) (B.Barnaky),nan,nan,203486,Mason Plumlee,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+184444,21600251,4,4:59,nan,Harden 25' 3PT Jump Shot (33 PTS) (Ariza 3 AST),114 - 102,201935,James Harden,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+184445,21600251,4,4:48,Lillard 3' Driving Finger Roll Layup (23 PTS),nan,114 - 104,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+184446,21600251,4,4:37,nan,Harden 1' Running Finger Roll Layup (35 PTS),116 - 104,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+184447,21600251,4,4:19,MISS McCollum 25' 3PT Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184448,21600251,4,4:19,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184449,21600251,4,4:08,nan,Capela 2' Driving Finger Roll Layup (17 PTS) (Harden 9 AST),118 - 104,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+184450,21600251,4,4:08,TRAIL BLAZERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184451,21600251,4,3:52,Harkless 25' 3PT Jump Shot (18 PTS) (McCollum 6 AST),nan,118 - 107,203090,Maurice Harkless,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+184452,21600251,4,3:44,Plumlee BLOCK (1 BLK),MISS Capela 2' Layup,nan,203991,Clint Capela,HOU,0,nan,nan,203486,Mason Plumlee,POR,Missed Shot ,nan
+184453,21600251,4,3:43,nan,Capela REBOUND (Off:2 Def:5),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184454,21600251,4,3:35,nan,Capela  Alley Oop Dunk (19 PTS) (Harden 10 AST),120 - 107,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+184455,21600251,4,3:14,Lillard 21' Jump Shot (25 PTS) (McCollum 7 AST),nan,120 - 109,203081,Damian Lillard,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+184456,21600251,4,3:02,Harkless L.B.FOUL (P3.T4) (B.Barnaky),nan,nan,203090,Maurice Harkless,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Loose Ball
+184457,21600251,4,3:02,nan,SUB: Gordon FOR Anderson,nan,201583,Ryan Anderson,HOU,201569,Eric Gordon,HOU,0,nan,nan,Substitution ,nan
+184458,21600251,4,2:59,Harkless P.FOUL (P4.PN) (B.Barnaky),nan,nan,203090,Maurice Harkless,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+184459,21600251,4,2:51,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184460,21600251,4,2:50,Lillard REBOUND (Off:1 Def:4),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184461,21600251,4,2:41,MISS Harkless  3PT Jump Shot,nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184462,21600251,4,2:38,nan,Ariza REBOUND (Off:0 Def:2),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184463,21600251,4,2:38,Lillard P.FOUL (P2.PN) (J.Capers),nan,nan,203081,Damian Lillard,POR,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Personal
+184464,21600251,4,2:38,nan,Ariza Free Throw 1 of 2 (14 PTS),121 - 109,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184465,21600251,4,2:38,nan,Ariza Free Throw 2 of 2 (15 PTS),122 - 109,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184466,21600251,4,2:25,nan,Capela FLAGRANT.FOUL.TYPE1 (P3.PN) (S.Anderson),nan,203991,Clint Capela,HOU,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Flagrant Type 1
+184467,21600251,4,2:25,nan,nan,nan,481,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+184468,21600251,4,2:25,MISS Plumlee Free Throw Flagrant 1 of 2,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+184469,21600251,4,2:25,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184470,21600251,4,2:25,Plumlee Free Throw Flagrant 2 of 2 (11 PTS),nan,122 - 110,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+184471,21600251,4,2:18,nan,Beverley S.FOUL (P4.PN) (S.Anderson),nan,201976,Patrick Beverley,HOU,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+184472,21600251,4,2:18,Lillard Free Throw 1 of 3 (26 PTS),nan,122 - 111,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+184473,21600251,4,2:18,MISS Lillard Free Throw 2 of 3,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+184474,21600251,4,2:18,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184475,21600251,4,2:18,Lillard Free Throw 3 of 3 (27 PTS),nan,122 - 112,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+184476,21600251,4,2:01,McCollum S.FOUL (P4.PN) (S.Anderson),nan,nan,203468,CJ McCollum,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+184477,21600251,4,2:01,nan,MISS Harden Free Throw 1 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184478,21600251,4,2:01,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184479,21600251,4,2:01,nan,Harden Free Throw 2 of 2 (36 PTS),123 - 112,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184480,21600251,4,1:52,MISS Lillard 2' Driving Reverse Layup,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184481,21600251,4,1:51,nan,Capela REBOUND (Off:2 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184482,21600251,4,1:29,nan,MISS Harden 5' Turnaround Hook Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184483,21600251,4,1:28,nan,Capela REBOUND (Off:3 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184484,21600251,4,1:28,Plumlee P.FOUL (P4.PN) (S.Anderson),nan,nan,203486,Mason Plumlee,POR,203991,Clint Capela,HOU,0,nan,nan,Foul ,Personal
+184485,21600251,4,1:28,nan,Capela Free Throw 1 of 2 (20 PTS),124 - 112,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184486,21600251,4,1:28,nan,Capela Free Throw 2 of 2 (21 PTS),125 - 112,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184487,21600251,4,1:22,nan,Beverley S.FOUL (P5.PN) (B.Barnaky),nan,201976,Patrick Beverley,HOU,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+184488,21600251,4,1:22,McCollum Free Throw 1 of 2 (27 PTS),nan,125 - 113,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184489,21600251,4,1:22,SUB: Layman FOR Plumlee,nan,nan,203486,Mason Plumlee,POR,1627774,Jake Layman,POR,0,nan,nan,Substitution ,nan
+184490,21600251,4,1:22,McCollum Free Throw 2 of 2 (28 PTS),nan,125 - 114,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184491,21600251,4,1:18,Harkless P.FOUL (P5.PN) (J.Capers),nan,nan,203090,Maurice Harkless,POR,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+184492,21600251,4,1:18,nan,Harden Free Throw 1 of 2 (37 PTS),126 - 114,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184493,21600251,4,1:18,nan,Harden Free Throw 2 of 2 (38 PTS),127 - 114,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184494,21600251,4,1:09,Lillard Out of Bounds - Bad Pass Turnover Turnover (P7.T15),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+184495,21600251,4,0:48,nan,MISS Harden 25' 3PT Pullup Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184496,21600251,4,0:48,McCollum REBOUND (Off:0 Def:3),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184497,21600251,4,0:42,MISS Lillard 26' 3PT Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184498,21600251,4,0:42,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184499,21600251,4,0:42,SUB: Napier FOR McCollum,nan,nan,203468,CJ McCollum,POR,203894,Shabazz Napier,POR,0,nan,nan,Substitution ,nan
+184500,21600251,4,0:42,SUB: Leonard FOR Lillard,nan,nan,203081,Damian Lillard,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+184501,21600251,4,0:23,Leonard Violation:Kicked Ball (J.Capers),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+184502,21600251,4,0:17,nan,Ariza  3PT Jump Shot (18 PTS) (Beverley 4 AST),130 - 114,2772,Trevor Ariza,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+184503,21600251,4,0:00,nan,nan,130 - 114,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+68961,21500554,4,12:00,nan,nan,75 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+68962,21500554,4,11:42,nan,MISS Ross 8' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+68963,21500554,4,11:40,Thompson REBOUND (Off:0 Def:2),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68964,21500554,4,11:30,Landry 1' Reverse Layup (2 PTS) (Noel 1 AST),nan,75 - 71,201171,Carl Landry,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+68965,21500554,4,11:08,nan,Lowry 2' Driving Layup (17 PTS),77 - 71,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+68966,21500554,4,10:45,MISS Thompson 6' Jump Shot,Biyombo BLOCK (2 BLK),nan,203138,Hollis Thompson,PHI,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+68967,21500554,4,10:43,nan,Joseph REBOUND (Off:0 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68968,21500554,4,10:32,nan,MISS Lowry 27' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+68969,21500554,4,10:30,Landry REBOUND (Off:0 Def:1),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68970,21500554,4,10:21,Landry 17' Jump Shot (4 PTS) (McConnell 5 AST),nan,77 - 73,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+68971,21500554,4,10:12,McConnell STEAL (2 STL),Lowry Bad Pass Turnover (P3.T13),nan,200768,Kyle Lowry,TOR,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+68972,21500554,4,10:07,nan,Lowry S.FOUL (P3.T1) (J.VanDuyne),nan,200768,Kyle Lowry,TOR,203960,JaKarr Sampson,PHI,0,nan,nan,Foul ,Shooting
+68973,21500554,4,10:07,MISS Sampson Free Throw 1 of 2,nan,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+68974,21500554,4,10:07,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68975,21500554,4,10:07,MISS Sampson Free Throw 2 of 2,nan,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+68976,21500554,4,10:03,nan,Joseph REBOUND (Off:0 Def:5),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68977,21500554,4,9:50,nan,Lowry 12' Running Jump Shot (19 PTS),79 - 73,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+68978,21500554,4,9:50,Landry S.FOUL (P1.T1) (J.VanDuyne),nan,nan,201171,Carl Landry,PHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+68979,21500554,4,9:50,nan,MISS Lowry Free Throw 1 of 1,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+68980,21500554,4,9:48,Noel REBOUND (Off:0 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68981,21500554,4,9:36,MISS McConnell 16' Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+68982,21500554,4,9:35,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68983,21500554,4,9:35,Landry L.B.FOUL (P2.T2) (J.VanDuyne),nan,nan,201171,Carl Landry,PHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Loose Ball
+68984,21500554,4,9:35,SUB: Stauskas FOR Sampson,nan,nan,203960,JaKarr Sampson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+68985,21500554,4,9:17,Noel S.FOUL (P2.T3) (T.Brown),nan,nan,203457,Nerlens Noel,PHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+68986,21500554,4,9:17,nan,Lowry Free Throw 1 of 2 (20 PTS),80 - 73,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+68987,21500554,4,9:17,nan,Lowry Free Throw 2 of 2 (21 PTS),81 - 73,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+68988,21500554,4,9:17,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+68989,21500554,4,9:05,Noel OFF.Foul (P3) (J.VanDuyne),nan,nan,203457,Nerlens Noel,PHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Offensive
+68990,21500554,4,9:05,Noel Foul Turnover (P2.T12),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+68991,21500554,4,8:47,nan,Patterson 26' 3PT Jump Shot (6 PTS) (Lowry 3 AST),84 - 73,202335,Patrick Patterson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+68992,21500554,4,8:28,MISS Noel 2' Layup,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+68993,21500554,4,8:26,Noel REBOUND (Off:1 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68994,21500554,4,8:26,SUB: Okafor FOR Landry,nan,nan,201171,Carl Landry,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+68995,21500554,4,8:26,SUB: Smith FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+68996,21500554,4,8:13,Smith 15' Step Back Jump Shot (26 PTS),nan,84 - 75,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+68997,21500554,4,7:46,nan,MISS Lowry 7' Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+68998,21500554,4,7:46,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+68999,21500554,4,7:46,Thompson L.B.FOUL (P3.T4) (J.VanDuyne),nan,nan,203138,Hollis Thompson,PHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Loose Ball
+69000,21500554,4,7:36,nan,MISS Patterson 16' Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69001,21500554,4,7:34,Stauskas REBOUND (Off:1 Def:4),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69002,21500554,4,7:14,MISS Thompson 26' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69003,21500554,4,7:12,nan,Biyombo REBOUND (Off:1 Def:3),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69004,21500554,4,6:55,nan,MISS Joseph 27' 3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69005,21500554,4,6:55,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69006,21500554,4,6:55,Thompson L.B.FOUL (P4.PN) (J.VanDuyne),nan,nan,203138,Hollis Thompson,PHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Loose Ball
+69007,21500554,4,6:55,nan,Patterson Free Throw 1 of 2 (7 PTS),85 - 75,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69008,21500554,4,6:55,nan,SUB: Valanciunas FOR Biyombo,nan,202687,Bismack Biyombo,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+69009,21500554,4,6:55,nan,Patterson Free Throw 2 of 2 (8 PTS),86 - 75,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69010,21500554,4,6:55,nan,SUB: DeRozan FOR Joseph,nan,202709,Cory Joseph,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+69011,21500554,4,6:40,Okafor 4' Jump Shot (19 PTS) (Stauskas 2 AST),nan,86 - 77,1626143,Jahlil Okafor,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+69012,21500554,4,6:21,nan,Lowry 6' Turnaround Hook Shot (23 PTS),88 - 77,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+69013,21500554,4,6:06,Stauskas Lost Ball Turnover (P3.T13),Lowry STEAL (2 STL),nan,203917,Nik Stauskas,PHI,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Lost Ball
+69014,21500554,4,6:04,Stauskas P.FOUL (P2.PN) (T.Brown),nan,nan,203917,Nik Stauskas,PHI,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal
+69015,21500554,4,6:04,nan,MISS Ross Free Throw 1 of 2,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69016,21500554,4,6:04,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+69017,21500554,4,6:04,SUB: Grant FOR Thompson,nan,nan,203138,Hollis Thompson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+69018,21500554,4,6:04,nan,Ross Free Throw 2 of 2 (16 PTS),89 - 77,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69019,21500554,4,5:56,nan,Ross P.FOUL (P2.T2) (J.VanDuyne),nan,203082,Terrence Ross,TOR,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+69020,21500554,4,5:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+69021,21500554,4,5:46,nan,Valanciunas P.FOUL (P2.T3) (Z.Zarba),nan,202685,Jonas Valanciunas,TOR,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+69022,21500554,4,5:35,Smith 20' Jump Shot (28 PTS) (Grant 3 AST),nan,89 - 79,202397,Ish Smith,PHI,203924,Jerami Grant,PHI,0,nan,nan,Made Shot ,nan
+69023,21500554,4,5:16,nan,Lowry 14' Floating Jump Shot (25 PTS),91 - 79,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+69024,21500554,4,4:55,Stauskas  3PT Jump Shot (3 PTS) (Noel 2 AST),nan,91 - 82,203917,Nik Stauskas,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+69025,21500554,4,4:24,nan,Valanciunas 4' Alley Oop Layup (11 PTS) (Lowry 4 AST),93 - 82,202685,Jonas Valanciunas,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+69026,21500554,4,4:23,76ERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+69027,21500554,4,4:23,nan,SUB: Joseph FOR Ross,nan,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+69028,21500554,4,4:23,SUB: Thompson FOR Grant,nan,nan,203924,Jerami Grant,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+69029,21500554,4,4:11,MISS Okafor 1' Layup,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69030,21500554,4,4:10,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69031,21500554,4,3:49,nan,Patterson 27' 3PT Jump Shot (11 PTS) (Joseph 4 AST),96 - 82,202335,Patrick Patterson,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+69032,21500554,4,3:36,76ERS Timeout: Short (Full 5 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+69033,21500554,4,3:21,MISS Smith 17' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69034,21500554,4,3:19,nan,Lowry REBOUND (Off:2 Def:4),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69035,21500554,4,3:11,nan,MISS Patterson 26' 3PT Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69036,21500554,4,3:08,nan,Valanciunas REBOUND (Off:3 Def:5),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69037,21500554,4,3:08,Okafor P.FOUL (P2.PN) (Z.Zarba),nan,nan,1626143,Jahlil Okafor,PHI,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+69038,21500554,4,3:08,nan,Valanciunas Free Throw 1 of 2 (12 PTS),97 - 82,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69039,21500554,4,3:08,nan,MISS Valanciunas Free Throw 2 of 2,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69040,21500554,4,3:07,Noel REBOUND (Off:1 Def:7),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69041,21500554,4,3:01,MISS Smith 4' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69042,21500554,4,3:00,nan,Valanciunas REBOUND (Off:3 Def:6),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69043,21500554,4,2:52,nan,Valanciunas  Dunk (14 PTS) (Lowry 5 AST),99 - 82,202685,Jonas Valanciunas,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+69044,21500554,4,2:27,Thompson 26' 3PT Jump Shot (8 PTS) (Smith 4 AST),nan,99 - 85,203138,Hollis Thompson,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+69045,21500554,4,2:09,Okafor Personal Block Foul (P3.PN) (T.Brown),nan,nan,1626143,Jahlil Okafor,PHI,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal Block
+69046,21500554,4,2:09,nan,Joseph Free Throw 1 of 2 (6 PTS),100 - 85,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69047,21500554,4,2:09,SUB: McConnell FOR Smith,nan,nan,202397,Ish Smith,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+69048,21500554,4,2:09,SUB: Covington FOR Noel,nan,nan,203457,Nerlens Noel,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+69049,21500554,4,2:09,nan,Joseph Free Throw 2 of 2 (7 PTS),101 - 85,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69050,21500554,4,2:01,MISS Stauskas 28' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69051,21500554,4,1:59,nan,Patterson REBOUND (Off:0 Def:1),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69052,21500554,4,1:52,Stauskas S.FOUL (P3.PN) (J.VanDuyne),nan,nan,203917,Nik Stauskas,PHI,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+69053,21500554,4,1:52,nan,Valanciunas Free Throw 1 of 2 (15 PTS),102 - 85,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69054,21500554,4,1:52,SUB: Landry FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,201171,Carl Landry,PHI,0,nan,nan,Substitution ,nan
+69055,21500554,4,1:52,nan,SUB: Powell FOR Lowry,nan,200768,Kyle Lowry,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+69056,21500554,4,1:52,SUB: Sampson FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+69057,21500554,4,1:52,nan,MISS Valanciunas Free Throw 2 of 2,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69058,21500554,4,1:51,Landry REBOUND (Off:0 Def:2),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69059,21500554,4,1:43,Landry 18' Jump Shot (6 PTS) (McConnell 6 AST),nan,102 - 87,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+69060,21500554,4,1:28,nan,Joseph 2' Driving Layup (9 PTS),104 - 87,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+69061,21500554,4,1:16,Covington 27' 3PT Jump Shot (6 PTS) (McConnell 7 AST),nan,104 - 90,203496,Robert Covington,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+69062,21500554,4,1:04,nan,MISS DeRozan 18' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69063,21500554,4,1:04,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69064,21500554,4,1:04,nan,Valanciunas L.B.FOUL (P3.T4) (Z.Zarba),nan,202685,Jonas Valanciunas,TOR,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Loose Ball
+69065,21500554,4,1:04,nan,SUB: Wright FOR DeRozan,nan,201942,DeMar DeRozan,TOR,1626153,Delon Wright,TOR,0,nan,nan,Substitution ,nan
+69066,21500554,4,0:47,MISS Covington 8' Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69067,21500554,4,0:46,nan,Patterson REBOUND (Off:0 Def:2),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69068,21500554,4,0:38,nan,Powell 2' Layup (2 PTS),106 - 90,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+69069,21500554,4,0:30,MISS McConnell 11' Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69070,21500554,4,0:28,Landry REBOUND (Off:1 Def:2),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69071,21500554,4,0:28,Landry 2' Layup (8 PTS),nan,106 - 92,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+69072,21500554,4,0:14,nan,Valanciunas  Alley Oop Dunk (17 PTS) (Wright 1 AST),108 - 92,202685,Jonas Valanciunas,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+69073,21500554,4,0:06,Landry 26' 3PT Jump Shot (11 PTS) (McConnell 8 AST),nan,108 - 95,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+69074,21500554,4,0:00,nan,nan,108 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

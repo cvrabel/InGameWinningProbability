@@ -1,0 +1,148 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+45769,21500363,4,12:00,nan,nan,58 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+45770,21500363,4,11:39,MISS Felton 25' 3PT Jump Shot,nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45771,21500363,4,11:38,nan,Warren REBOUND (Off:0 Def:1),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45772,21500363,4,11:26,nan,MISS Teletovic 25' 3PT Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45773,21500363,4,11:25,Felton REBOUND (Off:0 Def:3),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45774,21500363,4,11:12,Harris  3PT Jump Shot (10 PTS) (Felton 3 AST),nan,58 - 80,2734,Devin Harris,DAL,101109,Raymond Felton,DAL,0,nan,nan,Made Shot ,nan
+45775,21500363,4,10:55,Harris STEAL (6 STL),Weems Bad Pass Turnover (P1.T15),nan,201603,Sonny Weems,PHX,2734,Devin Harris,DAL,0,nan,nan,Turnover ,Bad Pass
+45776,21500363,4,10:47,nan,Weems P.FOUL (P1.T1) (M.Boland),nan,201603,Sonny Weems,PHX,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+45777,21500363,4,10:47,SUB: Matthews FOR Parsons,nan,nan,202718,Chandler Parsons,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+45778,21500363,4,10:47,nan,SUB: Goodwin FOR Price,nan,101179,Ronnie Price,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Substitution ,nan
+45779,21500363,4,10:47,nan,SUB: Leuer FOR Teletovic,nan,203141,Mirza Teletovic,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+45780,21500363,4,10:33,MISS Matthews 24' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45781,21500363,4,10:32,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45782,21500363,4,10:26,Powell P.FOUL (P2.T1) (M.Boland),nan,nan,203939,Dwight Powell,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+45783,21500363,4,10:15,nan,Goodwin  Driving Layup (2 PTS) (Weems 1 AST),60 - 80,203462,Archie Goodwin,PHX,201603,Sonny Weems,PHX,0,nan,nan,Made Shot ,nan
+45784,21500363,4,10:08,nan,Weems S.FOUL (P2.T2) (D.Stafford),nan,201603,Sonny Weems,PHX,200826,J.J. Barea,DAL,0,nan,nan,Foul ,Shooting
+45785,21500363,4,10:08,Barea Free Throw 1 of 2 (1 PTS),nan,60 - 81,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45786,21500363,4,10:08,MISS Barea Free Throw 2 of 2,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45787,21500363,4,10:07,nan,Goodwin REBOUND (Off:0 Def:1),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45788,21500363,4,10:03,nan,MISS Weems  Running Layup,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45789,21500363,4,10:01,Powell REBOUND (Off:0 Def:5),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45790,21500363,4,9:38,Matthews 21' Step Back Jump Shot (13 PTS),nan,60 - 83,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+45791,21500363,4,9:30,Powell Shooting Block Foul (P3.T2) (M.Boland),nan,nan,203939,Dwight Powell,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting Block
+45792,21500363,4,9:30,nan,Bledsoe Free Throw 1 of 2 (15 PTS),61 - 83,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45793,21500363,4,9:30,nan,Bledsoe Free Throw 2 of 2 (16 PTS),62 - 83,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45794,21500363,4,9:11,MISS Felton 9' Driving Floating Jump Shot,nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45795,21500363,4,9:10,nan,Goodwin REBOUND (Off:0 Def:2),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45796,21500363,4,9:08,Felton STEAL (1 STL),Goodwin Lost Ball Turnover (P1.T16),nan,203462,Archie Goodwin,PHX,101109,Raymond Felton,DAL,0,nan,nan,Turnover ,Lost Ball
+45797,21500363,4,9:04,MISS Matthews  3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45798,21500363,4,9:02,nan,Bledsoe REBOUND (Off:0 Def:4),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45799,21500363,4,8:57,nan,Bledsoe 24' 3PT Jump Shot (19 PTS),65 - 83,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+45800,21500363,4,8:38,MISS Matthews 7' Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45801,21500363,4,8:37,nan,Leuer REBOUND (Off:2 Def:4),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45802,21500363,4,8:32,nan,Goodwin  Running Alley Oop Dunk Shot (4 PTS) (Bledsoe 4 AST),67 - 83,203462,Archie Goodwin,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+45803,21500363,4,8:32,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45804,21500363,4,8:32,SUB: Parsons FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,202718,Chandler Parsons,DAL,0,nan,nan,Substitution ,nan
+45805,21500363,4,8:32,SUB: Nowitzki FOR Powell,nan,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+45806,21500363,4,8:19,nan,Goodwin P.FOUL (P1.T3) (M.Boland),nan,203462,Archie Goodwin,PHX,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+45807,21500363,4,8:05,MISS Nowitzki 16' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45808,21500363,4,8:04,nan,Leuer REBOUND (Off:2 Def:5),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45809,21500363,4,7:56,nan,Leuer 25' 3PT Jump Shot (13 PTS) (Bledsoe 5 AST),70 - 83,202720,Jon Leuer,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+45810,21500363,4,7:42,MISS Barea 3' Driving Layup,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45811,21500363,4,7:40,nan,Leuer REBOUND (Off:2 Def:6),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45812,21500363,4,7:31,nan,Weems  3PT Jump Shot (3 PTS) (Bledsoe 6 AST),73 - 83,201603,Sonny Weems,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+45813,21500363,4,7:29,MAVERICKS Timeout: Short (Full 4 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45814,21500363,4,7:29,SUB: D. Williams FOR Barea,nan,nan,200826,J.J. Barea,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+45815,21500363,4,7:09,Parsons 24' 3PT Jump Shot (13 PTS) (Felton 4 AST),nan,73 - 86,202718,Chandler Parsons,DAL,101109,Raymond Felton,DAL,0,nan,nan,Made Shot ,nan
+45816,21500363,4,7:09,nan,Weems S.FOUL (P3.T4) (D.Stafford),nan,201603,Sonny Weems,PHX,202718,Chandler Parsons,DAL,0,nan,nan,Foul ,Shooting
+45817,21500363,4,7:09,Parsons Free Throw 1 of 1 (14 PTS),nan,73 - 87,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45818,21500363,4,7:05,Felton S.FOUL (P1.T3) (D.Stafford),nan,nan,101109,Raymond Felton,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+45819,21500363,4,7:05,nan,Bledsoe Free Throw 1 of 2 (20 PTS),74 - 87,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45820,21500363,4,7:05,nan,Bledsoe Free Throw 2 of 2 (21 PTS),75 - 87,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45821,21500363,4,6:48,Parsons 25' 3PT Jump Shot (17 PTS) (Harris 2 AST),nan,75 - 90,202718,Chandler Parsons,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+45822,21500363,4,6:35,Nowitzki S.FOUL (P3.T4) (D.Stafford),nan,nan,1717,Dirk Nowitzki,DAL,201603,Sonny Weems,PHX,0,nan,nan,Foul ,Shooting
+45823,21500363,4,6:35,nan,MISS Weems Free Throw 1 of 2,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45824,21500363,4,6:35,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45825,21500363,4,6:35,nan,Weems Free Throw 2 of 2 (4 PTS),76 - 90,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45826,21500363,4,6:17,Parsons Bad Pass Turnover (P1.T13),Goodwin STEAL (1 STL),nan,202718,Chandler Parsons,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Turnover ,Bad Pass
+45827,21500363,4,6:02,nan,Weems 25' 3PT Jump Shot (7 PTS) (Leuer 3 AST),79 - 90,201603,Sonny Weems,PHX,202720,Jon Leuer,PHX,0,nan,nan,Made Shot ,nan
+45828,21500363,4,5:38,nan,Leuer S.FOUL (P2.PN) (M.Boland),nan,202720,Jon Leuer,PHX,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+45829,21500363,4,5:38,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+45830,21500363,4,5:38,Nowitzki Free Throw 1 of 2 (9 PTS),nan,79 - 91,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45831,21500363,4,5:38,Nowitzki Free Throw 2 of 2 (10 PTS),nan,79 - 92,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45832,21500363,4,5:15,nan,Goodwin 1' Running Reverse Layup (6 PTS) (Bledsoe 7 AST),81 - 92,203462,Archie Goodwin,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+45833,21500363,4,5:15,Felton S.FOUL (P2.PN) (J.Tiven),nan,nan,101109,Raymond Felton,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+45834,21500363,4,5:15,nan,MISS Goodwin Free Throw 1 of 1,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45835,21500363,4,5:14,Nowitzki REBOUND (Off:0 Def:6),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45836,21500363,4,4:56,MISS Parsons 6' Jump Shot,Warren BLOCK (1 BLK),nan,202718,Chandler Parsons,DAL,0,nan,nan,203933,TJ Warren,PHX,Missed Shot ,nan
+45837,21500363,4,4:54,nan,Leuer REBOUND (Off:2 Def:7),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45838,21500363,4,4:50,nan,MISS Warren 6' Driving Bank Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45839,21500363,4,4:49,Felton REBOUND (Off:0 Def:4),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45840,21500363,4,4:39,Harris 2' Cutting Layup Shot (12 PTS) (Nowitzki 3 AST),nan,81 - 94,2734,Devin Harris,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+45841,21500363,4,4:19,Harris P.FOUL (P2.PN) (D.Stafford),nan,nan,2734,Devin Harris,DAL,201603,Sonny Weems,PHX,0,nan,nan,Foul ,Personal
+45842,21500363,4,4:19,nan,Weems Free Throw 1 of 2 (8 PTS),82 - 94,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45843,21500363,4,4:19,nan,Weems Free Throw 2 of 2 (9 PTS),83 - 94,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45844,21500363,4,4:02,Nowitzki Lost Ball Turnover (P2.T14),Leuer STEAL (1 STL),nan,1717,Dirk Nowitzki,DAL,202720,Jon Leuer,PHX,0,nan,nan,Turnover ,Lost Ball
+45845,21500363,4,3:54,nan,Warren 13' Pullup Jump Shot (5 PTS),85 - 94,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+45846,21500363,4,3:37,Nowitzki 2' Driving Reverse Layup (12 PTS) (D. Williams 3 AST),nan,85 - 96,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+45847,21500363,4,3:37,nan,Warren S.FOUL (P2.PN) (D.Stafford),nan,203933,TJ Warren,PHX,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+45848,21500363,4,3:37,SUB: Matthews FOR Parsons,nan,nan,202718,Chandler Parsons,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+45849,21500363,4,3:37,MISS Nowitzki Free Throw 1 of 1,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45850,21500363,4,3:36,nan,Goodwin REBOUND (Off:0 Def:3),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45851,21500363,4,3:29,nan,MISS Bledsoe 24' 3PT Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45852,21500363,4,3:28,nan,Warren REBOUND (Off:1 Def:1),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45853,21500363,4,3:26,Matthews S.FOUL (P1.PN) (J.Tiven),nan,nan,202083,Wesley Matthews,DAL,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+45854,21500363,4,3:26,nan,Warren Free Throw 1 of 2 (6 PTS),86 - 96,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45855,21500363,4,3:26,nan,Warren Free Throw 2 of 2 (7 PTS),87 - 96,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45856,21500363,4,3:09,Felton Bad Pass Turnover (P2.T15),Bledsoe STEAL (3 STL),nan,101109,Raymond Felton,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Turnover ,Bad Pass
+45857,21500363,4,3:05,Matthews Shooting Block Foul (P2.PN) (M.Boland),nan,nan,202083,Wesley Matthews,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting Block
+45858,21500363,4,3:05,nan,MISS Goodwin Free Throw 1 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45859,21500363,4,3:05,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45860,21500363,4,3:05,nan,MISS Goodwin Free Throw 2 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45861,21500363,4,3:04,Harris REBOUND (Off:0 Def:1),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45862,21500363,4,2:39,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45863,21500363,4,2:38,Nowitzki REBOUND (Off:1 Def:6),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45864,21500363,4,2:36,MISS Nowitzki 3' Putback Layup,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45865,21500363,4,2:35,nan,Leuer REBOUND (Off:2 Def:8),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45866,21500363,4,2:30,nan,Warren 2' Running Layup (9 PTS) (Goodwin 1 AST),89 - 96,203933,TJ Warren,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+45867,21500363,4,2:30,Matthews S.FOUL (P3.PN) (J.Tiven),nan,nan,202083,Wesley Matthews,DAL,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+45868,21500363,4,2:30,nan,Suns Timeout: Regular (Reg.4 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45869,21500363,4,2:30,nan,Warren Free Throw 1 of 1 (10 PTS),90 - 96,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45870,21500363,4,2:04,D. Williams Bad Pass Turnover (P5.T16),Warren STEAL (1 STL),nan,101114,Deron Williams,DAL,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Bad Pass
+45871,21500363,4,2:00,Felton STEAL (2 STL),Weems Bad Pass Turnover (P2.T17),nan,201603,Sonny Weems,PHX,101109,Raymond Felton,DAL,0,nan,nan,Turnover ,Bad Pass
+45872,21500363,4,1:55,nan,Bledsoe S.FOUL (P3.PN) (J.Tiven),nan,202339,Eric Bledsoe,PHX,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+45873,21500363,4,1:55,nan,nan,nan,486,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+45874,21500363,4,1:55,Nowitzki Free Throw 1 of 2 (13 PTS),nan,90 - 97,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45875,21500363,4,1:55,Nowitzki Free Throw 2 of 2 (14 PTS),nan,90 - 98,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45876,21500363,4,1:46,nan,MISS Bledsoe 25' 3PT Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45877,21500363,4,1:45,Matthews REBOUND (Off:0 Def:5),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45878,21500363,4,1:29,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45879,21500363,4,1:28,nan,Goodwin REBOUND (Off:0 Def:4),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45880,21500363,4,1:21,Harris S.FOUL (P3.PN) (D.Stafford),nan,nan,2734,Devin Harris,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+45881,21500363,4,1:21,nan,nan,nan,498,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+45882,21500363,4,1:21,nan,Bledsoe Free Throw 1 of 3 (22 PTS),91 - 98,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+45883,21500363,4,1:21,nan,MISS Bledsoe Free Throw 2 of 3,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+45884,21500363,4,1:21,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45885,21500363,4,1:21,nan,Bledsoe Free Throw 3 of 3 (23 PTS),92 - 98,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+45886,21500363,4,1:01,D. Williams 25' 3PT Jump Shot (18 PTS) (Nowitzki 4 AST),nan,92 - 101,101114,Deron Williams,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+45887,21500363,4,0:51,Nowitzki S.FOUL (P4.PN) (M.Boland),nan,nan,1717,Dirk Nowitzki,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+45888,21500363,4,0:51,nan,MISS Goodwin Free Throw 1 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45889,21500363,4,0:51,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45890,21500363,4,0:51,nan,MISS Goodwin Free Throw 2 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45891,21500363,4,0:50,D. Williams REBOUND (Off:0 Def:4),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45892,21500363,4,0:32,MISS D. Williams 5' Driving Bank Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45893,21500363,4,0:31,nan,Bledsoe REBOUND (Off:0 Def:5),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45894,21500363,4,0:18,nan,MISS Bledsoe 5' Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45895,21500363,4,0:17,nan,Leuer REBOUND (Off:3 Def:8),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45896,21500363,4,0:17,nan,MISS Leuer 2' Tip Layup Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45897,21500363,4,0:16,nan,Leuer REBOUND (Off:4 Def:8),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45898,21500363,4,0:16,Felton S.FOUL (P3.PN) (M.Boland),nan,nan,101109,Raymond Felton,DAL,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+45899,21500363,4,0:16,nan,Leuer Free Throw 1 of 2 (14 PTS),93 - 101,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45900,21500363,4,0:16,nan,Leuer Free Throw 2 of 2 (15 PTS),94 - 101,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45901,21500363,4,0:13,nan,Leuer Personal Take Foul (P3.PN) (D.Stafford),nan,202720,Jon Leuer,PHX,101109,Raymond Felton,DAL,0,nan,nan,Foul ,Personal Take
+45902,21500363,4,0:13,Felton Free Throw 1 of 2 (16 PTS),nan,94 - 102,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45903,21500363,4,0:13,SUB: Powell FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+45904,21500363,4,0:13,SUB: Barea FOR D. Williams,nan,nan,101114,Deron Williams,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+45905,21500363,4,0:13,Felton Free Throw 2 of 2 (17 PTS),nan,94 - 103,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45906,21500363,4,0:13,nan,Suns Timeout: Short (Reg.4 Short 2),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45907,21500363,4,0:10,nan,MISS Bledsoe 25' 3PT Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45908,21500363,4,0:10,Powell REBOUND (Off:0 Def:6),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45909,21500363,4,0:07,nan,Leuer P.FOUL (P4.PN) (M.Boland),nan,202720,Jon Leuer,PHX,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+45910,21500363,4,0:07,Powell Free Throw 1 of 2 (8 PTS),nan,94 - 104,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45911,21500363,4,0:07,MISS Powell Free Throw 2 of 2,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45912,21500363,4,0:06,nan,Leuer REBOUND (Off:4 Def:9),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45913,21500363,4,0:01,nan,MISS Goodwin 24' 3PT Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45914,21500363,4,0:00,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45915,21500363,4,0:00,nan,nan,94 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

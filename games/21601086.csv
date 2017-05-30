@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+286694,21601086,4,12:00,nan,nan,74 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+286695,21601086,4,11:40,Jump Ball Turner vs. Dunn: Tip to McCollum,nan,nan,202323,Evan Turner,POR,1627739,Kris Dunn,MIN,203468,CJ McCollum,POR,Jump Ball ,nan
+286696,21601086,4,11:34,McCollum 1' Driving Layup (30 PTS),nan,74 - 96,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+286697,21601086,4,11:12,nan,Dunn 25' 3PT Step Back Jump Shot (11 PTS),77 - 96,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286698,21601086,4,10:50,Leonard 25' 3PT Jump Shot (3 PTS) (Turner 2 AST),nan,77 - 99,203086,Meyers Leonard,POR,202323,Evan Turner,POR,0,nan,nan,Made Shot ,nan
+286699,21601086,4,10:43,Leonard P.FOUL (P3.T1) (J.Capers),nan,nan,203086,Meyers Leonard,POR,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+286700,21601086,4,10:33,Leonard S.FOUL (P4.T2) (K.Scott),nan,nan,203086,Meyers Leonard,POR,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+286701,21601086,4,10:33,nan,Towns Free Throw 1 of 2 (15 PTS),78 - 99,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+286702,21601086,4,10:33,nan,Towns Free Throw 2 of 2 (16 PTS),79 - 99,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+286703,21601086,4,10:17,MISS Turner 13' Pullup Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286704,21601086,4,10:16,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286705,21601086,4,10:08,nan,MISS Towns 26' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286706,21601086,4,10:07,Aminu REBOUND (Off:0 Def:5),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286707,21601086,4,9:57,Aminu Lost Ball Turnover (P1.T9),Jones STEAL (1 STL),nan,202329,Al-Farouq Aminu,POR,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Lost Ball
+286708,21601086,4,9:53,nan,Dunn 1' Running Layup (13 PTS) (Jones 2 AST),81 - 99,1627739,Kris Dunn,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+286709,21601086,4,9:52,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+286710,21601086,4,9:36,Crabbe Bad Pass Turnover (P1.T10),Dunn STEAL (1 STL),nan,203459,Allen Crabbe,POR,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Bad Pass
+286711,21601086,4,9:31,nan,MISS Muhammad 2' Layup,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286712,21601086,4,9:30,McCollum REBOUND (Off:1 Def:2),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286713,21601086,4,9:26,Crabbe 17' Pullup Jump Shot (10 PTS) (McCollum 4 AST),nan,81 - 101,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+286714,21601086,4,9:03,Crabbe BLOCK (2 BLK),MISS Jones 11' Pullup Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,203459,Allen Crabbe,POR,Missed Shot ,nan
+286715,21601086,4,9:00,Crabbe REBOUND (Off:0 Def:3),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286716,21601086,4,8:47,nan,Dunn S.FOUL (P4.T1) (B.Nansel),nan,1627739,Kris Dunn,MIN,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+286717,21601086,4,8:47,McCollum Free Throw 1 of 2 (31 PTS),nan,81 - 102,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+286718,21601086,4,8:47,McCollum Free Throw 2 of 2 (32 PTS),nan,81 - 103,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+286719,21601086,4,8:41,nan,Towns Out of Bounds Lost Ball Turnover (P2.T7),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+286720,21601086,4,8:28,nan,Dunn Violation:Kicked Ball (J.Capers),nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+286721,21601086,4,8:18,McCollum Lost Ball Turnover (P4.T11),Dunn STEAL (2 STL),nan,203468,CJ McCollum,POR,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+286722,21601086,4,8:03,nan,MISS Casspi 28' 3PT Jump Shot,nan,201956,Omri Casspi,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286723,21601086,4,8:03,McCollum REBOUND (Off:1 Def:3),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286724,21601086,4,7:48,Turner 2' Driving Layup (8 PTS) (Leonard 2 AST),nan,81 - 105,202323,Evan Turner,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+286725,21601086,4,7:48,nan,Timberwolves Timeout: Regular (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+286726,21601086,4,7:48,nan,SUB: Dieng FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+286727,21601086,4,7:48,nan,SUB: Payne FOR Casspi,nan,201956,Omri Casspi,MIN,203940,Adreian Payne,MIN,0,nan,nan,Substitution ,nan
+286728,21601086,4,7:28,nan,MISS Jones 17' Pullup Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286729,21601086,4,7:26,Turner REBOUND (Off:0 Def:2),nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286730,21601086,4,7:13,nan,Payne S.FOUL (P1.T2) (J.Capers),nan,203940,Adreian Payne,MIN,202329,Al-Farouq Aminu,POR,0,nan,nan,Foul ,Shooting
+286731,21601086,4,7:13,MISS Aminu Free Throw 1 of 2,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+286732,21601086,4,7:13,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+286733,21601086,4,7:13,SUB: Napier FOR McCollum,nan,nan,203468,CJ McCollum,POR,203894,Shabazz Napier,POR,0,nan,nan,Substitution ,nan
+286734,21601086,4,7:13,MISS Aminu Free Throw 2 of 2,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+286735,21601086,4,7:12,nan,Dieng REBOUND (Off:1 Def:5),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286736,21601086,4,6:58,nan,Muhammad 14' Driving Floating Jump Shot (4 PTS) (Jones 3 AST),83 - 105,203498,Shabazz Muhammad,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+286737,21601086,4,6:35,Leonard Bad Pass Turnover (P1.T12),Payne STEAL (1 STL),nan,203086,Meyers Leonard,POR,203940,Adreian Payne,MIN,0,nan,nan,Turnover ,Bad Pass
+286738,21601086,4,6:21,nan,Muhammad 16' Pullup Jump Shot (6 PTS),85 - 105,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286739,21601086,4,5:59,Napier Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+286740,21601086,4,5:41,Turner S.FOUL (P2.T3) (B.Nansel),nan,nan,202323,Evan Turner,POR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+286741,21601086,4,5:41,nan,Muhammad Free Throw 1 of 2 (7 PTS),86 - 105,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+286742,21601086,4,5:41,nan,Muhammad Free Throw 2 of 2 (8 PTS),87 - 105,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+286743,21601086,4,5:24,MISS Aminu 18' Pullup Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286744,21601086,4,5:23,nan,Dieng REBOUND (Off:1 Def:6),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286745,21601086,4,5:07,nan,MISS Payne 8' Turnaround Hook Shot,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286746,21601086,4,5:04,nan,Jones REBOUND (Off:1 Def:0),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286747,21601086,4,4:57,nan,MISS Muhammad 26' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286748,21601086,4,4:57,Aminu REBOUND (Off:0 Def:6),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286749,21601086,4,4:34,MISS Napier 3' Driving Layup,Jones BLOCK (1 BLK),nan,203894,Shabazz Napier,POR,0,nan,nan,1626145,Tyus Jones,MIN,Missed Shot ,nan
+286750,21601086,4,4:34,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286751,21601086,4,4:34,nan,SUB: Aldrich FOR Dieng,nan,203476,Gorgui Dieng,MIN,202332,Cole Aldrich,MIN,0,nan,nan,Substitution ,nan
+286752,21601086,4,4:33,TRAIL BLAZERS Turnover: Shot Clock (T#14),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+286753,21601086,4,4:21,nan,Muhammad 12' Turnaround Jump Shot (10 PTS),89 - 105,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286754,21601086,4,4:21,Turner S.FOUL (P3.T4) (B.Nansel),nan,nan,202323,Evan Turner,POR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+286755,21601086,4,4:21,nan,Muhammad Free Throw 1 of 1 (11 PTS),90 - 105,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+286756,21601086,4,3:59,MISS Napier 25' 3PT Jump Shot,nan,nan,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286757,21601086,4,3:58,nan,Muhammad REBOUND (Off:0 Def:1),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286758,21601086,4,3:49,nan,Muhammad Out of Bounds - Bad Pass Turnover Turnover (P1.T8),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+286759,21601086,4,3:33,nan,Payne P.FOUL (P2.T3) (B.Nansel),nan,203940,Adreian Payne,MIN,203086,Meyers Leonard,POR,0,nan,nan,Foul ,Personal
+286760,21601086,4,3:33,SUB: Vonleh FOR Aminu,nan,nan,202329,Al-Farouq Aminu,POR,203943,Noah Vonleh,POR,0,nan,nan,Substitution ,nan
+286761,21601086,4,3:23,Napier 18' Pullup Jump Shot (4 PTS),nan,90 - 107,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+286762,21601086,4,3:04,nan,MISS Dunn 16' Step Back Jump Shot,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286763,21601086,4,3:02,Napier REBOUND (Off:0 Def:1),nan,nan,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286764,21601086,4,2:54,nan,Payne S.FOUL (P3.T4) (K.Scott),nan,203940,Adreian Payne,MIN,203894,Shabazz Napier,POR,0,nan,nan,Foul ,Shooting
+286765,21601086,4,2:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+286766,21601086,4,2:54,SUB: Connaughton FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+286767,21601086,4,2:54,SUB: Layman FOR Turner,nan,nan,202323,Evan Turner,POR,1627774,Jake Layman,POR,0,nan,nan,Substitution ,nan
+286768,21601086,4,2:54,Napier Free Throw 1 of 2 (5 PTS),nan,90 - 108,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+286769,21601086,4,2:54,Napier Free Throw 2 of 2 (6 PTS),nan,90 - 109,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+286770,21601086,4,2:40,nan,Dunn 9' Driving Floating Jump Shot (15 PTS),92 - 109,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286771,21601086,4,2:22,Connaughton Step Out of Bounds Turnover (P1.T15),nan,nan,1626192,Pat Connaughton,POR,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+286772,21601086,4,2:07,nan,Dunn 20' Pullup Jump Shot (17 PTS),94 - 109,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286773,21601086,4,1:47,MISS Napier 21' Pullup Jump Shot,nan,nan,203894,Shabazz Napier,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286774,21601086,4,1:45,nan,Muhammad REBOUND (Off:0 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286775,21601086,4,1:37,nan,Aldrich 2' Reverse Layup (2 PTS) (Jones 4 AST),96 - 109,202332,Cole Aldrich,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+286776,21601086,4,1:12,MISS Leonard 28' 3PT Pullup Jump Shot,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286777,21601086,4,1:12,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286778,21601086,4,0:58,nan,MISS Dunn 2' Driving Layup,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286779,21601086,4,0:57,Vonleh REBOUND (Off:0 Def:3),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286780,21601086,4,0:49,Connaughton  3PT Jump Shot (3 PTS) (Napier 1 AST),nan,96 - 112,1626192,Pat Connaughton,POR,203894,Shabazz Napier,POR,0,nan,nan,Made Shot ,nan
+286781,21601086,4,0:37,nan,Payne 16' Pullup Jump Shot (2 PTS),98 - 112,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+286782,21601086,4,0:14,MISS Leonard 26' 3PT Jump Shot,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+286783,21601086,4,0:13,nan,Payne REBOUND (Off:0 Def:1),nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+286784,21601086,4,0:11,nan,Muhammad  Running Dunk (13 PTS) (Payne 1 AST),100 - 112,203498,Shabazz Muhammad,MIN,203940,Adreian Payne,MIN,0,nan,nan,Made Shot ,nan
+286785,21601086,4,0:00,nan,nan,100 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

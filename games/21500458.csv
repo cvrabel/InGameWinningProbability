@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+57211,21500458,4,12:00,nan,nan,81 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+57212,21500458,4,11:48,Lin P.FOUL (P2.T1) (E.Lewis),nan,nan,202391,Jeremy Lin,CHA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Personal
+57213,21500458,4,11:43,nan,MISS Randle 20' Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57214,21500458,4,11:42,Lin REBOUND (Off:0 Def:3),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57215,21500458,4,11:31,Walker Lost Ball Turnover (P2.T7),Russell STEAL (3 STL),nan,202689,Kemba Walker,CHA,1626156,D'Angelo Russell,LAL,0,nan,nan,Turnover ,Lost Ball
+57216,21500458,4,11:22,Walker STEAL (3 STL),Russell Bad Pass Turnover (P3.T10),nan,1626156,D'Angelo Russell,LAL,202689,Kemba Walker,CHA,0,nan,nan,Turnover ,Bad Pass
+57217,21500458,4,11:16,Walker 1' Running Layup (22 PTS),nan,81 - 87,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+57218,21500458,4,10:57,nan,MISS Williams 3' Layup,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57219,21500458,4,10:55,Lamb REBOUND (Off:0 Def:2),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57220,21500458,4,10:44,MISS Jefferson 7' Hook Shot,nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57221,21500458,4,10:42,Kaminsky REBOUND (Off:1 Def:1),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57222,21500458,4,10:37,MISS Walker 25' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57223,21500458,4,10:36,nan,Randle REBOUND (Off:0 Def:4),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57224,21500458,4,10:17,Kaminsky BLOCK (1 BLK),MISS Randle 6' Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,1626163,Frank Kaminsky,CHA,Missed Shot ,nan
+57225,21500458,4,10:17,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57226,21500458,4,10:14,nan,Randle 25' 3PT Jump Shot (9 PTS) (Russell 3 AST),84 - 87,203944,Julius Randle,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+57227,21500458,4,9:44,MISS Kaminsky 10' Running Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57228,21500458,4,9:42,nan,Bass REBOUND (Off:0 Def:3),nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57229,21500458,4,9:35,nan,Randle 1' Layup (11 PTS) (Russell 4 AST),86 - 87,203944,Julius Randle,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+57230,21500458,4,9:15,Walker 15' Step Back Jump Shot (24 PTS) (Lin 3 AST),nan,86 - 89,202689,Kemba Walker,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+57231,21500458,4,8:56,nan,MISS Williams 25' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57232,21500458,4,8:55,Kaminsky REBOUND (Off:1 Def:2),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57233,21500458,4,8:46,MISS Walker 21' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57234,21500458,4,8:44,nan,Randle REBOUND (Off:0 Def:5),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57235,21500458,4,8:37,nan,MISS Randle 2' Layup,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57236,21500458,4,8:36,Jefferson REBOUND (Off:0 Def:3),nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57237,21500458,4,8:30,Walker 2' Running Layup (26 PTS),nan,86 - 91,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+57238,21500458,4,8:17,nan,Young Traveling Turnover (P2.T11),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+57239,21500458,4,8:17,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+57240,21500458,4,8:17,nan,nan,nan,384,Calbert Cheaney,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+57241,21500458,4,8:05,MISS Walker 20' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57242,21500458,4,8:05,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57243,21500458,4,7:46,nan,MISS Russell 25' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57244,21500458,4,7:45,Jefferson REBOUND (Off:0 Def:4),nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57245,21500458,4,7:29,Jefferson OFF.Foul (P1) (E.Lewis),nan,nan,2744,Al Jefferson,CHA,201156,Nick Young,LAL,0,nan,nan,Foul ,Offensive
+57246,21500458,4,7:29,Jefferson Foul Turnover (P2.T8),nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+57247,21500458,4,7:29,SUB: Batum FOR Lamb,nan,nan,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+57248,21500458,4,7:18,Kaminsky S.FOUL (P2.T2) (D.Richardson),nan,nan,1626163,Frank Kaminsky,CHA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+57249,21500458,4,7:18,nan,Williams Free Throw 1 of 2 (8 PTS),87 - 91,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57250,21500458,4,7:18,nan,SUB: Bryant FOR Young,nan,201156,Nick Young,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+57251,21500458,4,7:18,nan,Williams Free Throw 2 of 2 (9 PTS),88 - 91,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57252,21500458,4,6:58,MISS Lin 25' 3PT Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57253,21500458,4,6:57,nan,Randle REBOUND (Off:0 Def:6),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57254,21500458,4,6:42,Kaminsky BLOCK (2 BLK),MISS Randle 3' Layup,nan,203944,Julius Randle,LAL,0,nan,nan,1626163,Frank Kaminsky,CHA,Missed Shot ,nan
+57255,21500458,4,6:40,Lin REBOUND (Off:0 Def:4),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57256,21500458,4,6:31,Jefferson 6' Hook Shot (3 PTS) (Lin 4 AST),nan,88 - 93,2744,Al Jefferson,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+57257,21500458,4,6:21,nan,Williams 10' Pullup Jump Shot (11 PTS),90 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57258,21500458,4,6:08,Batum Bad Pass Turnover (P2.T9),Bass STEAL (2 STL),nan,201587,Nicolas Batum,CHA,101138,Brandon Bass,LAL,0,nan,nan,Turnover ,Bad Pass
+57259,21500458,4,6:02,nan,MISS Russell 26' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57260,21500458,4,5:59,Kaminsky REBOUND (Off:1 Def:3),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57261,21500458,4,5:53,Walker 1' Driving Layup (28 PTS),nan,90 - 95,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+57262,21500458,4,5:53,nan,Williams S.FOUL (P2.T1) (E.Lewis),nan,101150,Lou Williams,LAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Shooting
+57263,21500458,4,5:53,HORNETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57264,21500458,4,5:53,nan,SUB: Hibbert FOR Bass,nan,101138,Brandon Bass,LAL,201579,Roy Hibbert,LAL,0,nan,nan,Substitution ,nan
+57265,21500458,4,5:53,nan,SUB: Nance Jr. FOR Randle,nan,203944,Julius Randle,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Substitution ,nan
+57266,21500458,4,5:53,SUB: Zeller FOR Jefferson,nan,nan,2744,Al Jefferson,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+57267,21500458,4,5:53,Walker Free Throw 1 of 1 (29 PTS),nan,90 - 96,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57268,21500458,4,5:40,nan,MISS Hibbert 18' Jump Shot,nan,201579,Roy Hibbert,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57269,21500458,4,5:39,Batum REBOUND (Off:1 Def:3),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57270,21500458,4,5:19,MISS Batum 15' Fadeaway Jumper,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57271,21500458,4,5:18,nan,Williams REBOUND (Off:0 Def:3),nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57272,21500458,4,5:12,nan,Russell 1' Running Layup (5 PTS),92 - 96,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57273,21500458,4,5:12,nan,Lakers Violation: Delay of game Violation,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+57274,21500458,4,4:56,Lin Step Out of Bounds Turnover (P3.T10),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+57275,21500458,4,4:56,nan,SUB: Clarkson FOR Russell,nan,1626156,D'Angelo Russell,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Substitution ,nan
+57276,21500458,4,4:56,SUB: Williams FOR Kaminsky,nan,nan,1626163,Frank Kaminsky,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+57277,21500458,4,4:45,nan,MISS Williams 26' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57278,21500458,4,4:43,Williams REBOUND (Off:2 Def:7),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57279,21500458,4,4:30,Walker 18' Pullup Jump Shot (31 PTS),nan,92 - 98,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+57280,21500458,4,4:08,nan,MISS Bryant 1' Cutting Layup Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57281,21500458,4,4:07,Zeller REBOUND (Off:1 Def:7),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57282,21500458,4,4:03,Batum  Running Dunk (14 PTS) (Zeller 2 AST),nan,92 - 100,201587,Nicolas Batum,CHA,203469,Cody Zeller,CHA,0,nan,nan,Made Shot ,nan
+57283,21500458,4,4:03,nan,Lakers Timeout: Regular (Reg.4 Short 0),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57284,21500458,4,3:50,nan,MISS Bryant 17' Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57285,21500458,4,3:49,Lin REBOUND (Off:0 Def:5),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57286,21500458,4,3:38,MISS Lin 16' Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57287,21500458,4,3:37,nan,Bryant REBOUND (Off:0 Def:2),nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57288,21500458,4,3:26,nan,MISS Bryant 7' Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57289,21500458,4,3:26,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57290,21500458,4,3:12,MISS Lin 18' Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57291,21500458,4,3:11,nan,Bryant REBOUND (Off:0 Def:3),nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57292,21500458,4,3:00,nan,MISS Nance Jr. 19' Jump Shot,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57293,21500458,4,2:58,Williams REBOUND (Off:2 Def:8),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57294,21500458,4,2:53,MISS Walker 2' Running Layup,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57295,21500458,4,2:52,nan,Hibbert REBOUND (Off:1 Def:7),nan,201579,Roy Hibbert,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57296,21500458,4,2:33,nan,MISS Bryant 26' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57297,21500458,4,2:33,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57298,21500458,4,2:33,nan,Nance Jr. L.B.FOUL (P3.T2) (D.Richardson),nan,1626204,Larry Nance Jr.,LAL,101107,Marvin Williams,CHA,0,nan,nan,Foul ,Loose Ball
+57299,21500458,4,2:23,MISS Batum 18' Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57300,21500458,4,2:22,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57301,21500458,4,2:08,Batum STEAL (1 STL),Bryant Lost Ball Turnover (P3.T12),nan,977,Kobe Bryant,LAL,201587,Nicolas Batum,CHA,0,nan,nan,Turnover ,Lost Ball
+57302,21500458,4,1:57,nan,Clarkson S.FOUL (P3.T3) (D.Richardson),nan,203903,Jordan Clarkson,LAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Shooting
+57303,21500458,4,1:57,Walker Free Throw 1 of 2 (32 PTS),nan,92 - 101,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57304,21500458,4,1:57,Walker Free Throw 2 of 2 (33 PTS),nan,92 - 102,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57305,21500458,4,1:46,nan,MISS Clarkson 20' Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57306,21500458,4,1:43,nan,Williams REBOUND (Off:1 Def:3),nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57307,21500458,4,1:38,nan,Bryant 28' 3PT Jump Shot (20 PTS) (Williams 6 AST),95 - 102,977,Kobe Bryant,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+57308,21500458,4,1:21,Walker 26' 3PT Jump Shot (36 PTS) (Williams 3 AST),nan,95 - 105,202689,Kemba Walker,CHA,101107,Marvin Williams,CHA,0,nan,nan,Made Shot ,nan
+57309,21500458,4,1:21,nan,Lakers Timeout: Regular (Reg.5 Short 0),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57310,21500458,4,1:16,nan,MISS Bryant 27' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57311,21500458,4,1:14,nan,Clarkson REBOUND (Off:2 Def:4),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57312,21500458,4,1:12,nan,MISS Clarkson 25' 3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57313,21500458,4,1:10,nan,Bryant REBOUND (Off:1 Def:3),nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57314,21500458,4,1:07,nan,MISS Bryant 25' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57315,21500458,4,1:07,Batum REBOUND (Off:1 Def:4),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57316,21500458,4,1:07,nan,Bryant P.FOUL (P2.PN) (E.Lewis),nan,977,Kobe Bryant,LAL,201587,Nicolas Batum,CHA,0,nan,nan,Foul ,Personal
+57317,21500458,4,1:07,Batum Free Throw 1 of 2 (15 PTS),nan,95 - 106,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57318,21500458,4,1:07,nan,SUB: Young FOR Bryant,nan,977,Kobe Bryant,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+57319,21500458,4,1:07,MISS Batum Free Throw 2 of 2,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57320,21500458,4,1:05,nan,Nance Jr. REBOUND (Off:1 Def:6),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57321,21500458,4,0:56,nan,Young 24' 3PT Jump Shot (11 PTS) (Williams 7 AST),98 - 106,201156,Nick Young,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+57322,21500458,4,0:52,nan,Clarkson Personal Take Foul (P4.PN) (E.Lewis),nan,203903,Jordan Clarkson,LAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal Take
+57323,21500458,4,0:52,Walker Free Throw 1 of 2 (37 PTS),nan,98 - 107,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57324,21500458,4,0:52,Walker Free Throw 2 of 2 (38 PTS),nan,98 - 108,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57325,21500458,4,0:44,nan,MISS Williams 2' Driving Layup,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57326,21500458,4,0:43,Williams REBOUND (Off:2 Def:9),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57327,21500458,4,0:25,MISS Walker 27' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57328,21500458,4,0:24,Lin REBOUND (Off:1 Def:5),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57329,21500458,4,0:00,HORNETS Turnover: Shot Clock (T#11),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+57330,21500458,4,0:00,nan,nan,98 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

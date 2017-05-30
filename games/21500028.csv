@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+3651,21500028,4,12:00,nan,nan,64 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+3652,21500028,4,11:45,nan,Hollis-Jefferson OFF.Foul (P1) (B.Kennedy),nan,1626178,Rondae Hollis-Jefferson,BKN,201988,Patty Mills,SAS,0,nan,nan,Foul ,Offensive
+3653,21500028,4,11:45,nan,Hollis-Jefferson Foul Turnover (P3.T11),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+3654,21500028,4,11:34,Diaw Bad Pass Turnover (P2.T14),Jack STEAL (1 STL),nan,2564,Boris Diaw,SAS,101127,Jarrett Jack,BKN,0,nan,nan,Turnover ,Bad Pass
+3655,21500028,4,11:29,nan,MISS Jack 18' Pullup Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3656,21500028,4,11:28,Mills REBOUND (Off:0 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3657,21500028,4,11:18,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3658,21500028,4,11:17,Mills REBOUND (Off:1 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3659,21500028,4,11:11,MISS Leonard 25' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3660,21500028,4,11:10,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3661,21500028,4,11:00,Leonard S.FOUL (P3.T1) (D.Richardson),nan,nan,202695,Kawhi Leonard,SAS,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+3662,21500028,4,11:00,nan,Lopez Free Throw 1 of 2 (14 PTS),65 - 76,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3663,21500028,4,11:00,nan,Lopez Free Throw 2 of 2 (15 PTS),66 - 76,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3664,21500028,4,10:45,MISS Diaw 5' Jump Shot,Lopez BLOCK (1 BLK),nan,2564,Boris Diaw,SAS,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+3665,21500028,4,10:44,nan,Lopez REBOUND (Off:0 Def:3),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3666,21500028,4,10:35,nan,MISS Jack 8' Running Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3667,21500028,4,10:34,Diaw REBOUND (Off:0 Def:3),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3668,21500028,4,10:20,Mills 26' 3PT Jump Shot (11 PTS) (Diaw 3 AST),nan,66 - 79,201988,Patty Mills,SAS,2564,Boris Diaw,SAS,0,nan,nan,Made Shot ,nan
+3669,21500028,4,9:59,nan,MISS Johnson 16' Step Back Jump Shot,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3670,21500028,4,9:58,Duncan REBOUND (Off:0 Def:7),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3671,21500028,4,9:53,nan,Johnson S.FOUL (P4.T1) (D.Richardson),nan,2207,Joe Johnson,BKN,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+3672,21500028,4,9:53,Leonard Free Throw 1 of 2 (15 PTS),nan,66 - 80,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3673,21500028,4,9:53,nan,SUB: Young FOR Bargnani,nan,200745,Andrea Bargnani,BKN,201152,Thaddeus Young,BKN,0,nan,nan,Substitution ,nan
+3674,21500028,4,9:53,Leonard Free Throw 2 of 2 (16 PTS),nan,66 - 81,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3675,21500028,4,9:33,Leonard STEAL (2 STL),Jack Bad Pass Turnover (P2.T12),nan,101127,Jarrett Jack,BKN,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+3676,21500028,4,9:26,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3677,21500028,4,9:24,nan,Jack REBOUND (Off:0 Def:5),nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3678,21500028,4,9:15,nan,Johnson 12' Floating Jump Shot (2 PTS) (Jack 6 AST),68 - 81,2207,Joe Johnson,BKN,101127,Jarrett Jack,BKN,0,nan,nan,Made Shot ,nan
+3679,21500028,4,8:54,MISS Diaw 12' Turnaround Jump Shot,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3680,21500028,4,8:53,nan,Jack REBOUND (Off:0 Def:6),nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3681,21500028,4,8:47,nan,MISS Johnson 26' 3PT Jump Shot,nan,2207,Joe Johnson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3682,21500028,4,8:46,Mills REBOUND (Off:1 Def:2),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3683,21500028,4,8:34,MISS Leonard 17' Fadeaway Jumper,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3684,21500028,4,8:33,nan,Young REBOUND (Off:1 Def:5),nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3685,21500028,4,8:24,Diaw Shooting Block Foul (P2.T2) (D.Richardson),nan,nan,2564,Boris Diaw,SAS,201152,Thaddeus Young,BKN,0,nan,nan,Foul ,Shooting Block
+3686,21500028,4,8:24,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+3687,21500028,4,8:24,SUB: Aldridge FOR Diaw,nan,nan,2564,Boris Diaw,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+3688,21500028,4,8:24,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+3689,21500028,4,8:24,SUB: Ginobili FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+3690,21500028,4,8:24,nan,SUB: Brown FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,203900,Markel Brown,BKN,0,nan,nan,Substitution ,nan
+3691,21500028,4,8:24,nan,MISS Young Free Throw 1 of 2,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3692,21500028,4,8:24,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+3693,21500028,4,8:24,Ginobili Violation:Lane (J.Goble),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Violation ,Lane
+3694,21500028,4,8:24,nan,MISS Young Free Throw 2 of 2,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3695,21500028,4,8:23,Aldridge REBOUND (Off:5 Def:5),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3696,21500028,4,8:09,Duncan 4' Jump Bank Shot (8 PTS) (Ginobili 3 AST),nan,68 - 83,1495,Tim Duncan,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+3697,21500028,4,8:09,nan,Johnson S.FOUL (P5.T2) (B.Kennedy),nan,2207,Joe Johnson,BKN,1495,Tim Duncan,SAS,0,nan,nan,Foul ,Shooting
+3698,21500028,4,8:09,Duncan Free Throw 1 of 1 (9 PTS),nan,68 - 84,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+3699,21500028,4,7:56,nan,Lopez 13' Jump Shot (17 PTS) (Jack 7 AST),70 - 84,201572,Brook Lopez,BKN,101127,Jarrett Jack,BKN,0,nan,nan,Made Shot ,nan
+3700,21500028,4,7:41,nan,Lopez S.FOUL (P3.T3) (D.Richardson),nan,201572,Brook Lopez,BKN,1495,Tim Duncan,SAS,0,nan,nan,Foul ,Shooting
+3701,21500028,4,7:41,Duncan Free Throw 1 of 2 (10 PTS),nan,70 - 85,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3702,21500028,4,7:41,Duncan Free Throw 2 of 2 (11 PTS),nan,70 - 86,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3703,21500028,4,7:27,nan,MISS Brown 25' 3PT Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3704,21500028,4,7:26,Aldridge REBOUND (Off:5 Def:6),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3705,21500028,4,7:12,nan,Brown P.FOUL (P1.T4) (B.Kennedy),nan,203900,Markel Brown,BKN,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal
+3706,21500028,4,7:02,nan,Brown P.FOUL (P2.PN) (J.Goble),nan,203900,Markel Brown,BKN,1495,Tim Duncan,SAS,0,nan,nan,Foul ,Personal
+3707,21500028,4,7:02,Duncan Free Throw 1 of 2 (12 PTS),nan,70 - 87,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3708,21500028,4,7:02,Duncan Free Throw 2 of 2 (13 PTS),nan,70 - 88,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3709,21500028,4,6:47,Ginobili BLOCK (1 BLK),MISS Johnson 4' Jump Shot,nan,2207,Joe Johnson,BKN,0,nan,nan,1938,Manu Ginobili,SAS,Missed Shot ,nan
+3710,21500028,4,6:45,Green REBOUND (Off:2 Def:2),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3711,21500028,4,6:25,Ginobili 1' Cutting Finger Roll Layup Shot (10 PTS) (Green 2 AST),nan,70 - 90,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+3712,21500028,4,6:11,nan,MISS Jack 17' Jump Shot,nan,101127,Jarrett Jack,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3713,21500028,4,6:11,Duncan REBOUND (Off:0 Def:8),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3714,21500028,4,5:52,Duncan 4' Jump Bank Shot (15 PTS) (Ginobili 4 AST),nan,70 - 92,1495,Tim Duncan,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+3715,21500028,4,5:50,nan,Nets Timeout: Regular (Reg.5 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+3716,21500028,4,5:50,SUB: McCallum FOR Duncan,nan,nan,1495,Tim Duncan,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+3717,21500028,4,5:50,SUB: West FOR Green,nan,nan,201980,Danny Green,SAS,2561,David West,SAS,0,nan,nan,Substitution ,nan
+3718,21500028,4,5:50,SUB: Anderson FOR Parker,nan,nan,2225,Tony Parker,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+3719,21500028,4,5:50,nan,SUB: Larkin FOR Johnson,nan,2207,Joe Johnson,BKN,203499,Shane Larkin,BKN,0,nan,nan,Substitution ,nan
+3720,21500028,4,5:50,nan,SUB: Ellington FOR Lopez,nan,201572,Brook Lopez,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+3721,21500028,4,5:50,nan,SUB: Robinson FOR Jack,nan,101127,Jarrett Jack,BKN,203080,Thomas Robinson,BKN,0,nan,nan,Substitution ,nan
+3722,21500028,4,5:38,McCallum Shooting Block Foul (P1.T3) (B.Kennedy),nan,nan,203492,Ray McCallum,SAS,203499,Shane Larkin,BKN,0,nan,nan,Foul ,Shooting Block
+3723,21500028,4,5:38,nan,MISS Larkin Free Throw 1 of 2,nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3724,21500028,4,5:38,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+3725,21500028,4,5:38,nan,Larkin Free Throw 2 of 2 (7 PTS),71 - 92,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3726,21500028,4,5:19,MISS Anderson 9' Running Jump Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3727,21500028,4,5:18,nan,Robinson REBOUND (Off:0 Def:4),nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3728,21500028,4,5:10,nan,MISS Ellington 22' Jump Shot,nan,201961,Wayne Ellington,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3729,21500028,4,5:09,Ginobili REBOUND (Off:0 Def:5),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3730,21500028,4,5:03,Ginobili 1' Running Layup (12 PTS),nan,71 - 94,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+3731,21500028,4,4:46,McCallum STEAL (1 STL),Larkin Bad Pass Turnover (P1.T13),nan,203499,Shane Larkin,BKN,203492,Ray McCallum,SAS,0,nan,nan,Turnover ,Bad Pass
+3732,21500028,4,4:37,MISS Aldridge 3' Jump Shot,Robinson BLOCK (2 BLK),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,203080,Thomas Robinson,BKN,Missed Shot ,nan
+3733,21500028,4,4:37,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3734,21500028,4,4:37,nan,SUB: Sloan FOR Larkin,nan,203499,Shane Larkin,BKN,202388,Donald Sloan,BKN,0,nan,nan,Substitution ,nan
+3735,21500028,4,4:37,SUB: Butler FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+3736,21500028,4,4:37,SUB: Marjanovic FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+3737,21500028,4,4:28,Marjanovic Lost Ball Turnover (P1.T15),Ellington STEAL (2 STL),nan,1626246,Boban Marjanovic,SAS,201961,Wayne Ellington,BKN,0,nan,nan,Turnover ,Lost Ball
+3738,21500028,4,4:04,nan,MISS Brown 26' 3PT Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3739,21500028,4,4:02,nan,Young REBOUND (Off:2 Def:5),nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3740,21500028,4,4:00,nan,MISS Young 2' Reverse Layup,nan,201152,Thaddeus Young,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3741,21500028,4,3:58,Marjanovic REBOUND (Off:0 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3742,21500028,4,3:58,nan,Robinson P.FOUL (P1.PN) (D.Richardson),nan,203080,Thomas Robinson,BKN,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Personal
+3743,21500028,4,3:58,SPURS Timeout: Regular (Full 4 Short 1),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+3744,21500028,4,3:58,nan,SUB: Hollis-Jefferson FOR Young,nan,201152,Thaddeus Young,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+3745,21500028,4,3:58,Marjanovic Free Throw 1 of 2 (1 PTS),nan,71 - 95,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3746,21500028,4,3:58,Marjanovic Free Throw 2 of 2 (2 PTS),nan,71 - 96,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3747,21500028,4,3:48,nan,MISS Brown 18' Pullup Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3748,21500028,4,3:48,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3749,21500028,4,3:48,West L.B.FOUL (P2.T4) (D.Richardson),nan,nan,2561,David West,SAS,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Loose Ball
+3750,21500028,4,3:31,nan,MISS Robinson 15' Jump Shot,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3751,21500028,4,3:30,West REBOUND (Off:0 Def:1),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3752,21500028,4,3:15,Marjanovic 10' Jump Shot (4 PTS),nan,71 - 98,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+3753,21500028,4,2:57,nan,Hollis-Jefferson 13' Jump Shot (10 PTS) (Brown 1 AST),73 - 98,1626178,Rondae Hollis-Jefferson,BKN,203900,Markel Brown,BKN,0,nan,nan,Made Shot ,nan
+3754,21500028,4,2:32,MISS West 7' Jump Shot,Hollis-Jefferson BLOCK (2 BLK),nan,2561,David West,SAS,0,nan,nan,1626178,Rondae Hollis-Jefferson,BKN,Missed Shot ,nan
+3755,21500028,4,2:30,Marjanovic REBOUND (Off:1 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3756,21500028,4,2:30,MISS Marjanovic 1' Layup,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3757,21500028,4,2:29,Marjanovic REBOUND (Off:2 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3758,21500028,4,2:29,Marjanovic 1' Tip Layup Shot (6 PTS),nan,73 - 100,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+3759,21500028,4,2:21,nan,Nets Timeout: Short (Reg.5 Short 2),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+3760,21500028,4,2:21,nan,SUB: Karasev FOR Ellington,nan,201961,Wayne Ellington,BKN,203508,Sergey Karasev,BKN,0,nan,nan,Substitution ,nan
+3761,21500028,4,2:15,Anderson Personal Block Foul (P3.PN) (J.Goble),nan,nan,203937,Kyle Anderson,SAS,203508,Sergey Karasev,BKN,0,nan,nan,Foul ,Personal Block
+3762,21500028,4,2:15,nan,Karasev Free Throw 1 of 2 (1 PTS),74 - 100,203508,Sergey Karasev,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+3763,21500028,4,2:15,nan,Karasev Free Throw 2 of 2 (2 PTS),75 - 100,203508,Sergey Karasev,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+3764,21500028,4,1:58,West Bad Pass Turnover (P2.T16),Sloan STEAL (1 STL),nan,2561,David West,SAS,202388,Donald Sloan,BKN,0,nan,nan,Turnover ,Bad Pass
+3765,21500028,4,1:51,nan,MISS Hollis-Jefferson 2' Driving Layup,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3766,21500028,4,1:50,West REBOUND (Off:0 Def:2),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3767,21500028,4,1:38,MISS Marjanovic 4' Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3768,21500028,4,1:36,Marjanovic REBOUND (Off:3 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3769,21500028,4,1:32,Marjanovic Bad Pass Turnover (P2.T17),Brown STEAL (1 STL),nan,1626246,Boban Marjanovic,SAS,203900,Markel Brown,BKN,0,nan,nan,Turnover ,Bad Pass
+3770,21500028,4,1:26,nan,MISS Sloan 8' Running Jump Shot,nan,202388,Donald Sloan,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3771,21500028,4,1:24,West REBOUND (Off:0 Def:3),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3772,21500028,4,1:12,McCallum Bad Pass Turnover (P1.T18),nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+3773,21500028,4,0:59,nan,MISS Brown 24' 3PT Jump Shot,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3774,21500028,4,0:58,Marjanovic REBOUND (Off:3 Def:2),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3775,21500028,4,0:38,MISS Marjanovic 19' Jump Bank Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+3776,21500028,4,0:37,nan,Hollis-Jefferson REBOUND (Off:0 Def:4),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+3777,21500028,4,0:24,Anderson STEAL (1 STL),Sloan Lost Ball Turnover (P1.T14),nan,202388,Donald Sloan,BKN,203937,Kyle Anderson,SAS,0,nan,nan,Turnover ,Lost Ball
+3778,21500028,4,0:19,nan,Hollis-Jefferson Violation:Defensive Goaltending (J.Goble),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+3779,21500028,4,0:19,McCallum 1' Layup (2 PTS) (Marjanovic 1 AST),nan,75 - 102,203492,Ray McCallum,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Made Shot ,nan
+3780,21500028,4,0:19,nan,Nets Timeout: Regular (Reg.6 Short 2),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+3781,21500028,4,0:05,McCallum STEAL (2 STL),Karasev Bad Pass Turnover (P1.T15),nan,203508,Sergey Karasev,BKN,203492,Ray McCallum,SAS,0,nan,nan,Turnover ,Bad Pass
+3782,21500028,4,0:00,nan,nan,75 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,135 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+235876,21600671,4,12:00,nan,nan,86 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+235877,21600671,4,11:47,Galloway 26' 3PT Jump Shot (7 PTS) (Evans 3 AST),nan,86 - 97,204038,Langston Galloway,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+235878,21600671,4,11:29,nan,Liggins Offensive Charge Foul (P1.T1) (L.Holtkamp),nan,202732,DeAndre Liggins,CLE,204038,Langston Galloway,NOP,0,nan,nan,Foul ,Offensive Charge
+235879,21600671,4,11:29,nan,Liggins Foul Turnover (P1.T8),nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+235880,21600671,4,11:19,nan,Jefferson P.FOUL (P3.T2) (L.Richardson),nan,2210,Richard Jefferson,CLE,202700,Donatas Motiejunas,NOP,0,nan,nan,Foul ,Personal
+235881,21600671,4,11:06,MISS Galloway 28' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235882,21600671,4,11:05,nan,James REBOUND (Off:2 Def:6),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235883,21600671,4,10:57,nan,MISS Thompson 1' Layup,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235884,21600671,4,10:56,Evans REBOUND (Off:0 Def:2),nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235885,21600671,4,10:49,Motiejunas 26' 3PT Jump Shot (12 PTS) (Evans 4 AST),nan,86 - 100,202700,Donatas Motiejunas,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+235886,21600671,4,10:23,nan,MISS Jefferson 27' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235887,21600671,4,10:21,Moore REBOUND (Off:1 Def:3),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235888,21600671,4,10:09,Evans 25' 3PT Jump Shot (9 PTS) (Galloway 2 AST),nan,86 - 103,201936,Tyreke Evans,NOP,204038,Langston Galloway,NOP,0,nan,nan,Made Shot ,nan
+235889,21600671,4,10:08,nan,Cavaliers Timeout: Regular (Reg.4 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235890,21600671,4,10:08,nan,SUB: Irving FOR Liggins,nan,202732,DeAndre Liggins,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+235891,21600671,4,9:58,nan,Jefferson 24' 3PT Jump Shot (3 PTS) (James 9 AST),89 - 103,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+235892,21600671,4,9:32,MISS Moore 11' Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235893,21600671,4,9:29,nan,Korver REBOUND (Off:0 Def:3),nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235894,21600671,4,9:25,nan,Jefferson  Dunk (5 PTS) (James 10 AST),91 - 103,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+235895,21600671,4,9:24,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235896,21600671,4,9:24,SUB: Cunningham FOR Hield,nan,nan,1627741,Buddy Hield,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+235897,21600671,4,9:20,SUB: Holiday FOR Evans,nan,nan,201936,Tyreke Evans,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+235898,21600671,4,9:10,MISS Galloway 25' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235899,21600671,4,9:07,nan,Thompson REBOUND (Off:1 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235900,21600671,4,8:44,nan,James 27' 3PT Jump Shot (21 PTS),94 - 103,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+235901,21600671,4,8:34,Motiejunas 1' Cutting Layup Shot (14 PTS) (Holiday 9 AST),nan,94 - 105,202700,Donatas Motiejunas,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+235902,21600671,4,8:13,Holiday STEAL (2 STL),James Bad Pass Turnover (P4.T9),nan,2544,LeBron James,CLE,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+235903,21600671,4,8:09,Motiejunas Bad Pass Turnover (P2.T7),Irving STEAL (1 STL),nan,202700,Donatas Motiejunas,NOP,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+235904,21600671,4,8:07,nan,Irving  Driving Layup (35 PTS),96 - 105,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+235905,21600671,4,7:55,MISS Holiday 27' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235906,21600671,4,7:51,nan,James REBOUND (Off:2 Def:7),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235907,21600671,4,7:45,nan,MISS James 1' Layup,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235908,21600671,4,7:44,Motiejunas REBOUND (Off:1 Def:3),nan,nan,202700,Donatas Motiejunas,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235909,21600671,4,7:39,Galloway 26' 3PT Jump Shot (10 PTS) (Cunningham 2 AST),nan,96 - 108,204038,Langston Galloway,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Made Shot ,nan
+235910,21600671,4,7:23,nan,MISS Thompson 1' Layup,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235911,21600671,4,7:22,nan,Thompson REBOUND (Off:2 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235912,21600671,4,7:20,Motiejunas BLOCK (1 BLK),MISS Thompson 3' Layup,nan,202684,Tristan Thompson,CLE,0,nan,nan,202700,Donatas Motiejunas,NOP,Missed Shot ,nan
+235913,21600671,4,7:19,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235914,21600671,4,7:19,nan,SUB: Love FOR Thompson,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+235915,21600671,4,7:04,MISS Cunningham  3PT Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235916,21600671,4,7:03,nan,Korver REBOUND (Off:0 Def:4),nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235917,21600671,4,6:59,Holiday S.FOUL (P3.T1) (S.Foster),nan,nan,201950,Jrue Holiday,NOP,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+235918,21600671,4,6:59,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235919,21600671,4,6:59,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235920,21600671,4,6:59,SUB: Jones FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,NOP,203093,Terrence Jones,NOP,0,nan,nan,Substitution ,nan
+235921,21600671,4,6:59,nan,James Free Throw 2 of 2 (22 PTS),97 - 108,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235922,21600671,4,6:43,MISS Moore 4' Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235923,21600671,4,6:41,nan,James REBOUND (Off:2 Def:8),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235924,21600671,4,6:32,nan,Korver 24' 3PT Jump Shot (5 PTS) (Love 5 AST),100 - 108,2594,Kyle Korver,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+235925,21600671,4,6:18,Cunningham 24' 3PT Jump Shot (11 PTS) (Holiday 10 AST),nan,100 - 111,201967,Dante Cunningham,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+235926,21600671,4,5:53,nan,Irving 13' Floating Jump Shot (37 PTS) (James 11 AST),102 - 111,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+235927,21600671,4,5:39,Holiday 15' Step Back Jump Shot (31 PTS),nan,102 - 113,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+235928,21600671,4,5:23,Cunningham S.FOUL (P3.T2) (L.Holtkamp),nan,nan,201967,Dante Cunningham,NOP,201567,Kevin Love,CLE,0,nan,nan,Foul ,Shooting
+235929,21600671,4,5:23,nan,Love Free Throw 1 of 2 (19 PTS),103 - 113,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235930,21600671,4,5:23,nan,MISS Love Free Throw 2 of 2,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235931,21600671,4,5:21,Cunningham REBOUND (Off:1 Def:5),nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235932,21600671,4,5:11,MISS Galloway 28' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235933,21600671,4,5:07,nan,Irving REBOUND (Off:0 Def:2),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235934,21600671,4,5:00,nan,Cavaliers Timeout: Regular (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235935,21600671,4,5:00,SUB: S. Hill FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+235936,21600671,4,4:57,Holiday STEAL (3 STL),Love Bad Pass Turnover (P3.T10),nan,201567,Kevin Love,CLE,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+235937,21600671,4,4:53,Jones 1' Layup (32 PTS) (S. Hill 4 AST),nan,103 - 115,203093,Terrence Jones,NOP,203524,Solomon Hill,NOP,0,nan,nan,Made Shot ,nan
+235938,21600671,4,4:42,nan,Irving 27' 3PT Jump Shot (40 PTS),106 - 115,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+235939,21600671,4,4:18,MISS Cunningham  3PT Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235940,21600671,4,4:15,nan,Love REBOUND (Off:6 Def:8),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235941,21600671,4,4:09,nan,Irving 26' 3PT Jump Shot (43 PTS) (James 12 AST),109 - 115,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+235942,21600671,4,3:51,nan,Irving S.FOUL (P3.T3) (L.Holtkamp),nan,202681,Kyrie Irving,CLE,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Shooting
+235943,21600671,4,3:51,Holiday Free Throw 1 of 2 (32 PTS),nan,109 - 116,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235944,21600671,4,3:51,Holiday Free Throw 2 of 2 (33 PTS),nan,109 - 117,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235945,21600671,4,3:37,Jones BLOCK (2 BLK),MISS Irving 4' Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+235946,21600671,4,3:36,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235947,21600671,4,3:35,Holiday S.FOUL (P4.T3) (L.Holtkamp),nan,nan,201950,Jrue Holiday,NOP,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+235948,21600671,4,3:35,nan,MISS Jefferson Free Throw 1 of 2,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235949,21600671,4,3:35,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235950,21600671,4,3:35,nan,MISS Jefferson Free Throw 2 of 2,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235951,21600671,4,3:33,Jones REBOUND (Off:3 Def:7),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235952,21600671,4,3:20,MISS Cunningham  3PT Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235953,21600671,4,3:17,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235954,21600671,4,3:17,nan,Irving L.B.FOUL (P4.T4) (S.Foster),nan,202681,Kyrie Irving,CLE,204038,Langston Galloway,NOP,0,nan,nan,Foul ,Loose Ball
+235955,21600671,4,3:15,MISS Holiday 4' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235956,21600671,4,3:14,nan,Love REBOUND (Off:6 Def:9),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235957,21600671,4,3:01,Jones BLOCK (3 BLK),MISS James 4' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+235958,21600671,4,3:00,Galloway REBOUND (Off:1 Def:4),nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235959,21600671,4,2:45,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235960,21600671,4,2:39,Holiday Lost Ball Turnover (P3.T8),Irving STEAL (2 STL),nan,201950,Jrue Holiday,NOP,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Lost Ball
+235961,21600671,4,2:35,Cunningham BLOCK (1 BLK),MISS Irving 2' Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,201967,Dante Cunningham,NOP,Missed Shot ,nan
+235962,21600671,4,2:34,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235963,21600671,4,2:34,SUB: Moore FOR Galloway,nan,nan,204038,Langston Galloway,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+235964,21600671,4,2:33,nan,James 1' Layup (24 PTS) (Irving 3 AST),111 - 117,2544,LeBron James,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+235965,21600671,4,2:09,MISS Holiday 6' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235966,21600671,4,2:08,nan,Jefferson REBOUND (Off:0 Def:2),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235967,21600671,4,1:58,Holiday S.FOUL (P5.T4) (L.Richardson),nan,nan,201950,Jrue Holiday,NOP,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+235968,21600671,4,1:58,nan,Irving Free Throw 1 of 3 (44 PTS),112 - 117,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+235969,21600671,4,1:58,nan,Irving Free Throw 2 of 3 (45 PTS),113 - 117,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+235970,21600671,4,1:58,SUB: Galloway FOR S. Hill,nan,nan,203524,Solomon Hill,NOP,204038,Langston Galloway,NOP,0,nan,nan,Substitution ,nan
+235971,21600671,4,1:58,nan,Irving Free Throw 3 of 3 (46 PTS),114 - 117,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+235972,21600671,4,1:39,Jones 2' Layup (34 PTS),nan,114 - 119,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+235973,21600671,4,1:39,nan,Cavaliers Timeout: Short (Reg.5 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+235974,21600671,4,1:32,nan,James 2' Layup (26 PTS) (Love 6 AST),116 - 119,2544,LeBron James,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+235975,21600671,4,1:11,nan,James S.FOUL (P2.PN) (L.Holtkamp),nan,2544,LeBron James,CLE,203093,Terrence Jones,NOP,0,nan,nan,Foul ,Shooting
+235976,21600671,4,1:11,MISS Jones Free Throw 1 of 2,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235977,21600671,4,1:11,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+235978,21600671,4,1:11,SUB: S. Hill FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+235979,21600671,4,1:11,Jones Free Throw 2 of 2 (35 PTS),nan,116 - 120,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235980,21600671,4,0:57,nan,MISS Irving 26' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235981,21600671,4,0:57,S. Hill REBOUND (Off:0 Def:2),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235982,21600671,4,0:57,nan,nan,nan,204038,Langston Galloway,NOP,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Double Personal
+235983,21600671,4,0:57,Jump Ball Jones vs. James: Tip to Galloway,nan,nan,203093,Terrence Jones,NOP,2544,LeBron James,CLE,204038,Langston Galloway,NOP,Jump Ball ,nan
+235984,21600671,4,0:57,nan,James Double Personal Turnover (P5.T11),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Double Personal Turnover
+235985,21600671,4,0:48,PELICANS Timeout: Short (Full 5 Short 1),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+235986,21600671,4,0:48,nan,SUB: Shumpert FOR Korver,nan,2594,Kyle Korver,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+235987,21600671,4,0:38,MISS Holiday 18' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+235988,21600671,4,0:35,nan,Love REBOUND (Off:6 Def:10),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+235989,21600671,4,0:28,Galloway STEAL (1 STL),James Lost Ball Turnover (P6.T12),nan,2544,LeBron James,CLE,204038,Langston Galloway,NOP,0,nan,nan,Turnover ,Lost Ball
+235990,21600671,4,0:28,nan,Jefferson Personal Take Foul (P5.PN) (S.Foster),nan,2210,Richard Jefferson,CLE,204038,Langston Galloway,NOP,0,nan,nan,Foul ,Personal Take
+235991,21600671,4,0:28,Galloway Free Throw 1 of 2 (11 PTS),nan,116 - 121,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+235992,21600671,4,0:28,Galloway Free Throw 2 of 2 (12 PTS),nan,116 - 122,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+235993,21600671,4,0:28,nan,Cavaliers Timeout: Regular (Reg.6 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+235994,21600671,4,0:28,nan,SUB: Korver FOR Shumpert,nan,202697,Iman Shumpert,CLE,2594,Kyle Korver,CLE,0,nan,nan,Substitution ,nan
+235995,21600671,4,0:28,SUB: Cunningham FOR Galloway,nan,nan,204038,Langston Galloway,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+235996,21600671,4,0:21,nan,Irving 26' 3PT Step Back Jump Shot (49 PTS),119 - 122,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+235997,21600671,4,0:11,nan,Jefferson Personal Take Foul (P6.PN) (L.Richardson),nan,2210,Richard Jefferson,CLE,203524,Solomon Hill,NOP,0,nan,nan,Foul ,Personal Take
+235998,21600671,4,0:11,nan,SUB: Shumpert FOR Jefferson,nan,2210,Richard Jefferson,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+235999,21600671,4,0:11,MISS S. Hill Free Throw 1 of 2,nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236000,21600671,4,0:11,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+236001,21600671,4,0:11,S. Hill Free Throw 2 of 2 (1 PTS),nan,119 - 123,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236002,21600671,4,0:07,nan,MISS Irving 28' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236003,21600671,4,0:05,Jones REBOUND (Off:3 Def:8),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236004,21600671,4,0:04,nan,Shumpert Personal Take Foul (P1.PN) (L.Richardson),nan,202697,Iman Shumpert,CLE,203093,Terrence Jones,NOP,0,nan,nan,Foul ,Personal Take
+236005,21600671,4,0:04,MISS Jones Free Throw 1 of 2,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236006,21600671,4,0:04,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+236007,21600671,4,0:04,Jones Free Throw 2 of 2 (36 PTS),nan,119 - 124,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236008,21600671,4,0:01,nan,Love 27' 3PT Jump Shot (22 PTS) (Irving 4 AST),122 - 124,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+236009,21600671,4,0:00,nan,nan,122 - 124,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

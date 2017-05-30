@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+234483,21600659,4,12:00,nan,nan,72 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+234484,21600659,4,11:47,MISS G. Hill 16' Pullup Jump Shot,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234485,21600659,4,11:46,nan,Jefferson REBOUND (Off:0 Def:4),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234486,21600659,4,11:31,nan,MISS George 17' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234487,21600659,4,11:31,Lyles REBOUND (Off:0 Def:2),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234488,21600659,4,11:14,Gobert 1' Layup (14 PTS) (G. Hill 3 AST),nan,72 - 87,203497,Rudy Gobert,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+234489,21600659,4,11:14,nan,George S.FOUL (P4.T1) (E.Malloy),nan,202331,Paul George,IND,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+234490,21600659,4,11:14,Gobert Free Throw 1 of 1 (15 PTS),nan,72 - 88,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+234491,21600659,4,11:00,nan,MISS Miles 24' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234492,21600659,4,11:00,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234493,21600659,4,10:53,nan,Miles P.FOUL (P3.T2) (B.Adams),nan,101139,CJ Miles,IND,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Personal
+234494,21600659,4,10:46,G. Hill 11' Turnaround Jump Shot (27 PTS),nan,72 - 90,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+234495,21600659,4,10:37,nan,Teague 11' Driving Floating Jump Shot (9 PTS),74 - 90,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234496,21600659,4,10:20,Lyles Bad Pass Turnover (P2.T11),Jefferson STEAL (1 STL),nan,1626168,Trey Lyles,UTA,2744,Al Jefferson,IND,0,nan,nan,Turnover ,Bad Pass
+234497,21600659,4,10:12,nan,Ellis 19' Jump Shot (11 PTS),76 - 90,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234498,21600659,4,9:47,MISS Lyles 24' 3PT Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234499,21600659,4,9:47,nan,George REBOUND (Off:0 Def:3),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234500,21600659,4,9:37,nan,MISS Ellis 21' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234501,21600659,4,9:36,Ingles REBOUND (Off:0 Def:4),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234502,21600659,4,9:17,MISS Lyles 4' Floating Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234503,21600659,4,9:17,nan,George REBOUND (Off:0 Def:4),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234504,21600659,4,9:13,Johnson P.FOUL (P1.T1) (B.Adams),nan,nan,2207,Joe Johnson,UTA,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+234505,21600659,4,9:13,SUB: Hayward FOR Johnson,nan,nan,2207,Joe Johnson,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+234506,21600659,4,9:13,SUB: Burks FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,202692,Alec Burks,UTA,0,nan,nan,Substitution ,nan
+234507,21600659,4,9:13,nan,SUB: Young FOR Miles,nan,101139,CJ Miles,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+234508,21600659,4,9:01,nan,MISS George 16' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234509,21600659,4,9:00,Gobert REBOUND (Off:3 Def:4),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234510,21600659,4,8:56,nan,George P.FOUL (P5.T3) (E.Malloy),nan,202331,Paul George,IND,201588,George Hill,UTA,0,nan,nan,Foul ,Personal
+234511,21600659,4,8:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234512,21600659,4,8:56,nan,nan,nan,1778,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+234513,21600659,4,8:56,Hayward Free Throw Technical (20 PTS),nan,76 - 91,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+234514,21600659,4,8:44,MISS Hayward 2' Layup,Jefferson BLOCK (1 BLK),nan,202330,Gordon Hayward,UTA,0,nan,nan,2744,Al Jefferson,IND,Missed Shot ,nan
+234515,21600659,4,8:44,nan,Young REBOUND (Off:2 Def:5),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234516,21600659,4,8:38,nan,Teague 2' Running Layup (11 PTS),78 - 91,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234517,21600659,4,8:20,nan,Jefferson S.FOUL (P3.T4) (M.Kogut),nan,2744,Al Jefferson,IND,201588,George Hill,UTA,0,nan,nan,Foul ,Shooting
+234518,21600659,4,8:20,MISS G. Hill Free Throw 1 of 2,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234519,21600659,4,8:20,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+234520,21600659,4,8:20,G. Hill Free Throw 2 of 2 (28 PTS),nan,78 - 92,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234521,21600659,4,7:55,nan,Ellis 3' Driving Finger Roll Layup (13 PTS),80 - 92,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234522,21600659,4,7:35,G. Hill 5' Driving Floating Bank Jump Shot (30 PTS),nan,80 - 94,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+234523,21600659,4,7:25,SUB: Johnson FOR Ingles,nan,nan,204060,Joe Ingles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+234524,21600659,4,7:10,nan,George  3PT Jump Shot (19 PTS),83 - 94,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234525,21600659,4,6:51,Jump Ball Hayward vs. Teague: Tip to Gobert,nan,nan,202330,Gordon Hayward,UTA,201952,Jeff Teague,IND,203497,Rudy Gobert,UTA,Jump Ball ,nan
+234526,21600659,4,6:43,MISS Johnson 22' Fadeaway Jumper,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234527,21600659,4,6:42,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234528,21600659,4,6:41,nan,George P.FOUL (P6.PN) (B.Adams),nan,202331,Paul George,IND,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+234529,21600659,4,6:41,nan,George T.FOUL (P6.PN) (B.Adams),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Foul ,Technical
+234530,21600659,4,6:41,nan,George Ejection:Other,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Ejection ,nan
+234531,21600659,4,6:41,nan,SUB: Miles FOR George,nan,202331,Paul George,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+234532,21600659,4,6:41,Hayward Free Throw Technical (21 PTS),nan,83 - 95,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+234533,21600659,4,6:41,SUB: Ingles FOR G. Hill,nan,nan,201588,George Hill,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+234534,21600659,4,6:41,Hayward Free Throw 1 of 2 (22 PTS),nan,83 - 96,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234535,21600659,4,6:41,Hayward Free Throw 2 of 2 (23 PTS),nan,83 - 97,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234536,21600659,4,6:38,Ingles P.FOUL (P1.T2) (M.Kogut),nan,nan,204060,Joe Ingles,UTA,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+234537,21600659,4,6:26,Johnson STEAL (1 STL),Young Lost Ball Turnover (P2.T14),nan,201152,Thaddeus Young,IND,2207,Joe Johnson,UTA,0,nan,nan,Turnover ,Lost Ball
+234538,21600659,4,6:17,MISS Hayward 7' Jump Shot,Miles BLOCK (1 BLK),nan,202330,Gordon Hayward,UTA,0,nan,nan,101139,CJ Miles,IND,Missed Shot ,nan
+234539,21600659,4,6:16,nan,Young REBOUND (Off:2 Def:6),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234540,21600659,4,6:12,nan,MISS Young  Running Dunk,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234541,21600659,4,6:10,Johnson REBOUND (Off:0 Def:2),nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234542,21600659,4,6:04,Gobert  Running Dunk (17 PTS) (Burks 1 AST),nan,83 - 99,203497,Rudy Gobert,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+234543,21600659,4,6:04,nan,Pacers Timeout: Regular (Reg.4 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234544,21600659,4,6:04,nan,nan,nan,418,Scott Brooks,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+234545,21600659,4,6:04,nan,SUB: Turner FOR Jefferson,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+234546,21600659,4,5:49,nan,Miles 24' 3PT Jump Shot (6 PTS) (Teague 6 AST),86 - 99,101139,CJ Miles,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+234547,21600659,4,5:30,nan,Ellis S.FOUL (P3.PN) (M.Kogut),nan,101145,Monta Ellis,IND,202692,Alec Burks,UTA,0,nan,nan,Foul ,Shooting
+234548,21600659,4,5:30,Burks Free Throw 1 of 2 (12 PTS),nan,86 - 100,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234549,21600659,4,5:30,Burks Free Throw 2 of 2 (13 PTS),nan,86 - 101,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234550,21600659,4,5:16,nan,Turner 5' Turnaround Hook Shot (11 PTS) (Young 3 AST),88 - 101,1626167,Myles Turner,IND,201152,Thaddeus Young,IND,0,nan,nan,Made Shot ,nan
+234551,21600659,4,5:00,Burks Bad Pass Turnover (P1.T12),Ellis STEAL (2 STL),nan,202692,Alec Burks,UTA,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Bad Pass
+234552,21600659,4,4:56,Burks STEAL (1 STL),Young Lost Ball Turnover (P3.T15),nan,201152,Thaddeus Young,IND,202692,Alec Burks,UTA,0,nan,nan,Turnover ,Lost Ball
+234553,21600659,4,4:44,MISS Ingles 24' 3PT Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234554,21600659,4,4:43,nan,Turner REBOUND (Off:1 Def:6),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234555,21600659,4,4:30,nan,Turner 3' Alley Oop Layup (13 PTS) (Teague 7 AST),90 - 101,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+234556,21600659,4,4:30,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234557,21600659,4,4:30,SUB: G. Hill FOR Burks,nan,nan,202692,Alec Burks,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+234558,21600659,4,4:30,SUB: Diaw FOR Johnson,nan,nan,2207,Joe Johnson,UTA,2564,Boris Diaw,UTA,0,nan,nan,Substitution ,nan
+234559,21600659,4,4:16,Hayward 24' 3PT Jump Shot (26 PTS) (Diaw 4 AST),nan,90 - 104,202330,Gordon Hayward,UTA,2564,Boris Diaw,UTA,0,nan,nan,Made Shot ,nan
+234560,21600659,4,4:05,G. Hill S.FOUL (P4.T3) (B.Adams),nan,nan,201588,George Hill,UTA,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+234561,21600659,4,4:05,nan,Teague Free Throw 1 of 3 (12 PTS),91 - 104,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+234562,21600659,4,4:05,nan,Teague Free Throw 2 of 3 (13 PTS),92 - 104,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+234563,21600659,4,4:05,nan,MISS Teague Free Throw 3 of 3,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+234564,21600659,4,4:04,Gobert REBOUND (Off:3 Def:5),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234565,21600659,4,3:47,Gobert Lost Ball Turnover (P1.T13),Teague STEAL (3 STL),nan,203497,Rudy Gobert,UTA,201952,Jeff Teague,IND,0,nan,nan,Turnover ,Lost Ball
+234566,21600659,4,3:41,Gobert P.FOUL (P1.T4) (M.Kogut),nan,nan,203497,Rudy Gobert,UTA,1626167,Myles Turner,IND,0,nan,nan,Foul ,Personal
+234567,21600659,4,3:24,nan,Ellis 16' Pullup Jump Shot (15 PTS),94 - 104,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234568,21600659,4,3:07,Gobert Lost Ball Turnover (P2.T14),Turner STEAL (1 STL),nan,203497,Rudy Gobert,UTA,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Lost Ball
+234569,21600659,4,3:03,nan,Young Traveling Turnover (P4.T16),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Turnover ,Traveling
+234570,21600659,4,2:48,Gobert  Cutting Dunk Shot (19 PTS) (G. Hill 4 AST),nan,94 - 106,203497,Rudy Gobert,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+234571,21600659,4,2:27,nan,MISS Teague 11' Turnaround Fadeaway Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234572,21600659,4,2:26,G. Hill REBOUND (Off:1 Def:5),nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234573,21600659,4,2:10,MISS Hayward 16' Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234574,21600659,4,2:10,Gobert REBOUND (Off:4 Def:5),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234575,21600659,4,2:10,nan,Young P.FOUL (P2.PN) (E.Malloy),nan,201152,Thaddeus Young,IND,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal
+234576,21600659,4,2:10,nan,nan,nan,1778,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+234577,21600659,4,2:10,nan,nan,nan,1778,nan,nan,0,nan,nan,0,nan,nan,Ejection ,nan
+234578,21600659,4,2:10,Hayward Free Throw Technical (27 PTS),nan,94 - 107,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+234579,21600659,4,2:10,MISS Gobert Free Throw 1 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234580,21600659,4,2:10,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+234581,21600659,4,2:10,MISS Gobert Free Throw 2 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234582,21600659,4,2:09,nan,Young REBOUND (Off:2 Def:7),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234583,21600659,4,1:53,nan,MISS Miles 23' Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234584,21600659,4,1:52,Gobert REBOUND (Off:4 Def:6),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234585,21600659,4,1:31,MISS Ingles 24' 3PT Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234586,21600659,4,1:30,nan,Teague REBOUND (Off:0 Def:3),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234587,21600659,4,1:28,Ingles P.FOUL (P2.PN) (M.Kogut),nan,nan,204060,Joe Ingles,UTA,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+234588,21600659,4,1:28,nan,Teague Free Throw 1 of 2 (14 PTS),95 - 107,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234589,21600659,4,1:28,nan,Teague Free Throw 2 of 2 (15 PTS),96 - 107,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234590,21600659,4,1:14,nan,Ellis Violation:Kicked Ball (.),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+234591,21600659,4,1:05,Diaw 2' Reverse Layup (6 PTS) (G. Hill 5 AST),nan,96 - 109,2564,Boris Diaw,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+234592,21600659,4,1:00,nan,Young OFF.Foul (P3) (B.Adams),nan,201152,Thaddeus Young,IND,2564,Boris Diaw,UTA,0,nan,nan,Foul ,Offensive
+234593,21600659,4,1:00,nan,Young Foul Turnover (P5.T17),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+234594,21600659,4,0:42,MISS G. Hill 3' Driving Floating Jump Shot,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234595,21600659,4,0:41,Gobert REBOUND (Off:5 Def:6),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234596,21600659,4,0:41,MISS Gobert  Putback Dunk,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234597,21600659,4,0:41,nan,Teague REBOUND (Off:0 Def:4),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234598,21600659,4,0:39,Ingles S.FOUL (P3.PN) (E.Malloy),nan,nan,204060,Joe Ingles,UTA,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+234599,21600659,4,0:39,nan,nan,nan,508,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+234600,21600659,4,0:39,nan,SUB: Niang FOR Young,nan,201152,Thaddeus Young,IND,1627777,Georges Niang,IND,0,nan,nan,Substitution ,nan
+234601,21600659,4,0:39,nan,SUB: Seraphin FOR Turner,nan,1626167,Myles Turner,IND,202338,Kevin Seraphin,IND,0,nan,nan,Substitution ,nan
+234602,21600659,4,0:39,nan,SUB: Robinson III FOR Ellis,nan,101145,Monta Ellis,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+234603,21600659,4,0:39,nan,SUB: Allen FOR Miles,nan,101139,CJ Miles,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+234604,21600659,4,0:39,SUB: Neto FOR Hayward,nan,nan,202330,Gordon Hayward,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+234605,21600659,4,0:39,SUB: Burks FOR Gobert,nan,nan,203497,Rudy Gobert,UTA,202692,Alec Burks,UTA,0,nan,nan,Substitution ,nan
+234606,21600659,4,0:39,SUB: Withey FOR Ingles,nan,nan,204060,Joe Ingles,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+234607,21600659,4,0:39,nan,Teague Free Throw 1 of 3 (16 PTS),97 - 109,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+234608,21600659,4,0:39,nan,Teague Free Throw 2 of 3 (17 PTS),98 - 109,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+234609,21600659,4,0:39,nan,MISS Teague Free Throw 3 of 3,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+234610,21600659,4,0:37,Withey REBOUND (Off:0 Def:1),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234611,21600659,4,0:16,MISS Diaw 3' Layup,nan,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234612,21600659,4,0:16,nan,Seraphin REBOUND (Off:0 Def:1),nan,202338,Kevin Seraphin,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234613,21600659,4,0:08,nan,Teague 2' Driving Layup (19 PTS),100 - 109,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+234614,21600659,4,0:00,nan,nan,100 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

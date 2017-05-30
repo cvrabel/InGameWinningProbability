@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+175376,21600179,4,12:00,nan,nan,86 - 57,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+175377,21600179,4,11:49,MISS Zeller 3' Jump Shot,Durant BLOCK (1 BLK),nan,203092,Tyler Zeller,BOS,0,nan,nan,201142,Kevin Durant,GSW,Missed Shot ,nan
+175378,21600179,4,11:48,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175379,21600179,4,11:47,nan,West S.FOUL (P2.T1) (Z.Zarba),nan,2561,David West,GSW,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Shooting
+175380,21600179,4,11:47,MISS Bradley Free Throw 1 of 2,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+175381,21600179,4,11:47,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+175382,21600179,4,11:47,Bradley Free Throw 2 of 2 (7 PTS),nan,86 - 58,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+175383,21600179,4,11:33,nan,MISS West 14' Turnaround Jump Shot,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175384,21600179,4,11:33,Young REBOUND (Off:0 Def:1),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175385,21600179,4,11:17,MISS Brown 13' Pullup Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175386,21600179,4,11:16,nan,West REBOUND (Off:0 Def:2),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175387,21600179,4,11:10,nan,Durant 2' Cutting Layup Shot (21 PTS) (Thompson 3 AST),88 - 58,201142,Kevin Durant,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+175388,21600179,4,10:52,Young 3' Driving Finger Roll Layup (2 PTS) (Rozier 4 AST),nan,88 - 60,203923,James Young,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+175389,21600179,4,10:38,nan,MISS Thompson 19' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175390,21600179,4,10:37,Rozier REBOUND (Off:0 Def:4),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175391,21600179,4,10:29,Brown  3PT Jump Shot (4 PTS) (Young 1 AST),nan,88 - 63,1627759,Jaylen Brown,BOS,203923,James Young,BOS,0,nan,nan,Made Shot ,nan
+175392,21600179,4,10:09,nan,Thompson 17' Jump Shot (28 PTS) (Durant 7 AST),90 - 63,202691,Klay Thompson,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+175393,21600179,4,9:57,MISS Young 26' 3PT Jump Shot,nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175394,21600179,4,9:56,nan,Thompson REBOUND (Off:1 Def:2),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175395,21600179,4,9:46,Rozier S.FOUL (P1.T1) (L.Holtkamp),nan,nan,1626179,Terry Rozier,BOS,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+175396,21600179,4,9:46,nan,MISS Livingston Free Throw 1 of 2,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+175397,21600179,4,9:46,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+175398,21600179,4,9:46,nan,Livingston Free Throw 2 of 2 (3 PTS),91 - 63,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+175399,21600179,4,9:36,Bradley 26' 3PT Jump Shot (10 PTS) (Zeller 2 AST),nan,91 - 66,202340,Avery Bradley,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+175400,21600179,4,9:24,nan,MISS Thompson 20' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175401,21600179,4,9:22,Bradley REBOUND (Off:1 Def:6),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175402,21600179,4,9:14,Bradley 25' 3PT Jump Bank Shot (13 PTS),nan,91 - 69,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175403,21600179,4,8:55,nan,Durant 16' Jump Shot (23 PTS) (Livingston 2 AST),93 - 69,201142,Kevin Durant,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+175404,21600179,4,8:38,Bradley 9' Driving Floating Jump Shot (15 PTS),nan,93 - 71,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175405,21600179,4,8:27,nan,MISS Iguodala 2' Layup,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175406,21600179,4,8:26,nan,Iguodala REBOUND (Off:1 Def:5),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175407,21600179,4,8:25,nan,Iguodala 2' Putback Layup (8 PTS),95 - 71,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+175408,21600179,4,8:25,Zeller S.FOUL (P1.T2) (L.Holtkamp),nan,nan,203092,Tyler Zeller,BOS,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Shooting
+175409,21600179,4,8:25,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+175410,21600179,4,8:25,nan,MISS Iguodala Free Throw 1 of 1,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+175411,21600179,4,8:25,Brown REBOUND (Off:0 Def:1),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175412,21600179,4,8:10,Brown 13' Turnaround Jump Shot (6 PTS) (Rozier 5 AST),nan,95 - 73,1627759,Jaylen Brown,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+175413,21600179,4,7:57,nan,MISS Thompson 15' Fadeaway Jumper,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175414,21600179,4,7:56,Rozier REBOUND (Off:0 Def:5),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175415,21600179,4,7:36,Bradley 7' Driving Floating Bank Jump Shot (17 PTS),nan,95 - 75,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175416,21600179,4,7:20,Bradley BLOCK (1 BLK),MISS Thompson 10' Driving Floating Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,202340,Avery Bradley,BOS,Missed Shot ,nan
+175417,21600179,4,7:18,Rozier REBOUND (Off:0 Def:6),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175418,21600179,4,7:14,MISS Bradley 26' 3PT Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175419,21600179,4,7:13,nan,Thompson REBOUND (Off:1 Def:3),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175420,21600179,4,7:09,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+175421,21600179,4,7:09,nan,SUB: McCaw FOR Durant,nan,201142,Kevin Durant,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+175422,21600179,4,7:09,nan,SUB: Green FOR Thompson,nan,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+175423,21600179,4,7:09,nan,SUB: Curry FOR Iguodala,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+175424,21600179,4,6:55,nan,MISS Curry 20' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175425,21600179,4,6:54,Young REBOUND (Off:0 Def:2),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175426,21600179,4,6:30,MISS Zeller 18' Turnaround Jump Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175427,21600179,4,6:29,nan,Green REBOUND (Off:1 Def:5),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175428,21600179,4,6:18,nan,MISS Curry 24' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175429,21600179,4,6:17,Zeller REBOUND (Off:2 Def:3),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175430,21600179,4,5:57,Rozier 25' 3PT Jump Shot (9 PTS),nan,95 - 78,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175431,21600179,4,5:34,nan,MISS West 21' Jump Shot,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175432,21600179,4,5:33,Bradley REBOUND (Off:1 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175433,21600179,4,5:23,MISS Bradley 1' Driving Layup,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175434,21600179,4,5:23,nan,Curry REBOUND (Off:0 Def:2),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175435,21600179,4,5:19,nan,McCaw  Running Dunk (2 PTS) (Curry 8 AST),97 - 78,1627775,Patrick McCaw,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+175436,21600179,4,5:16,CELTICS Timeout: Regular (Full 5 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+175437,21600179,4,5:16,SUB: Thomas FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+175438,21600179,4,5:16,nan,SUB: Pachulia FOR West,nan,2561,David West,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+175439,21600179,4,5:05,Brown  3PT Jump Shot (9 PTS) (Thomas 4 AST),nan,97 - 81,1627759,Jaylen Brown,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+175440,21600179,4,4:43,nan,MISS Green 26' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175441,21600179,4,4:42,Bradley REBOUND (Off:1 Def:8),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175442,21600179,4,4:34,MISS Thomas 1' Layup,Green BLOCK (2 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+175443,21600179,4,4:33,nan,McCaw REBOUND (Off:0 Def:1),nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175444,21600179,4,4:30,nan,MISS Curry 1' Running Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175445,21600179,4,4:29,Bradley REBOUND (Off:1 Def:9),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175446,21600179,4,4:22,MISS Brown 26' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175447,21600179,4,4:22,Zeller REBOUND (Off:3 Def:3),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175448,21600179,4,4:22,nan,Curry P.FOUL (P4.T2) (Z.Zarba),nan,201939,Stephen Curry,GSW,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Personal
+175449,21600179,4,4:12,nan,Livingston P.FOUL (P2.T3) (D.Collins),nan,2733,Shaun Livingston,GSW,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Personal
+175450,21600179,4,4:00,Zeller Bad Pass Turnover (P2.T13),Green STEAL (1 STL),nan,203092,Tyler Zeller,BOS,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+175451,21600179,4,3:59,Brown P.FOUL (P2.T3) (Z.Zarba),nan,nan,1627759,Jaylen Brown,BOS,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+175452,21600179,4,3:44,nan,MISS McCaw 25' 3PT Jump Shot,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175453,21600179,4,3:42,Zeller REBOUND (Off:3 Def:4),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175454,21600179,4,3:34,nan,Livingston P.FOUL (P3.T4) (L.Holtkamp),nan,2733,Shaun Livingston,GSW,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+175455,21600179,4,3:34,SUB: Rozier FOR Bradley,nan,nan,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+175456,21600179,4,3:27,MISS Zeller 8' Turnaround Hook Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175457,21600179,4,3:26,nan,Green REBOUND (Off:1 Def:6),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175458,21600179,4,3:11,nan,Pachulia OFF.Foul (P1) (D.Collins),nan,2585,Zaza Pachulia,GSW,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Offensive
+175459,21600179,4,3:11,nan,Pachulia Foul Turnover (P1.T10),nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+175460,21600179,4,2:57,MISS Young 25' 3PT Jump Shot,nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175461,21600179,4,2:56,Rozier REBOUND (Off:1 Def:6),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175462,21600179,4,2:54,Rozier 2' Driving Reverse Layup (11 PTS),nan,97 - 83,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175463,21600179,4,2:39,Brown S.FOUL (P3.T4) (L.Holtkamp),nan,nan,1627759,Jaylen Brown,BOS,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+175464,21600179,4,2:39,nan,Green Free Throw 1 of 2 (10 PTS),98 - 83,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+175465,21600179,4,2:39,nan,SUB: Clark FOR Livingston,nan,2733,Shaun Livingston,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+175466,21600179,4,2:39,nan,Green Free Throw 2 of 2 (11 PTS),99 - 83,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+175467,21600179,4,2:22,nan,Clark S.FOUL (P1.PN) (D.Collins),nan,203546,Ian Clark,GSW,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+175468,21600179,4,2:22,Thomas Free Throw 1 of 2 (17 PTS),nan,99 - 84,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+175469,21600179,4,2:22,Thomas Free Throw 2 of 2 (18 PTS),nan,99 - 85,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+175470,21600179,4,2:09,nan,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T11),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+175471,21600179,4,1:49,Brown 11' Jump Shot (11 PTS),nan,99 - 87,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+175472,21600179,4,1:29,nan,MISS Green 2' Driving Layup,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175473,21600179,4,1:28,Young REBOUND (Off:0 Def:3),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175474,21600179,4,1:26,nan,McCaw S.FOUL (P2.PN) (Z.Zarba),nan,1627775,Patrick McCaw,GSW,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Shooting
+175475,21600179,4,1:26,MISS Zeller Free Throw 1 of 2,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+175476,21600179,4,1:26,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+175477,21600179,4,1:26,Zeller Free Throw 2 of 2 (5 PTS),nan,99 - 88,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+175478,21600179,4,1:13,nan,Curry 24' 3PT Fadeaway Jumper (14 PTS),102 - 88,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+175479,21600179,4,1:03,MISS Brown 27' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175480,21600179,4,1:02,nan,Green REBOUND (Off:1 Def:7),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175481,21600179,4,0:48,nan,Curry 2' Driving Finger Roll Layup (16 PTS),104 - 88,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+175482,21600179,4,0:35,MISS Thomas 25' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175483,21600179,4,0:32,nan,Curry REBOUND (Off:0 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175484,21600179,4,0:12,nan,MISS Curry 30' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+175485,21600179,4,0:12,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+175486,21600179,4,0:12,SUB: Jackson FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1627743,Demetrius Jackson,BOS,0,nan,nan,Substitution ,nan
+175487,21600179,4,0:00,nan,nan,104 - 88,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

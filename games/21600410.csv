@@ -1,0 +1,136 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+204167,21600410,4,12:00,nan,nan,77 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+204168,21600410,4,11:44,Johnson S.FOUL (P2.T1) (C.Washington),nan,nan,201949,James Johnson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+204169,21600410,4,11:44,nan,Thomas Free Throw 1 of 2 (14 PTS),78 - 71,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204170,21600410,4,11:44,nan,Thomas Free Throw 2 of 2 (15 PTS),79 - 71,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204171,21600410,4,11:29,nan,Jerebko S.FOUL (P3.T1) (C.Kirkland),nan,201973,Jonas Jerebko,BOS,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Shooting
+204172,21600410,4,11:29,MISS Whiteside Free Throw 1 of 2,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204173,21600410,4,11:29,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+204174,21600410,4,11:29,MISS Whiteside Free Throw 2 of 2,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204175,21600410,4,11:28,nan,Thomas REBOUND (Off:1 Def:1),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204176,21600410,4,11:08,nan,MISS Smart 16' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204177,21600410,4,11:07,nan,Jerebko REBOUND (Off:2 Def:1),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204178,21600410,4,10:56,nan,Thomas 25' 3PT Jump Shot (18 PTS) (Smart 2 AST),82 - 71,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+204179,21600410,4,10:37,nan,Jerebko Shooting Block Foul (P4.T2) (C.Kirkland),nan,201973,Jonas Jerebko,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Shooting Block
+204180,21600410,4,10:37,Winslow Free Throw 1 of 2 (5 PTS),nan,82 - 72,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204181,21600410,4,10:37,MISS Winslow Free Throw 2 of 2,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204182,21600410,4,10:36,nan,Zeller REBOUND (Off:0 Def:1),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204183,21600410,4,10:21,Richardson P.FOUL (P1.T2) (C.Washington),nan,nan,1626196,Josh Richardson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+204184,21600410,4,10:21,SUB: McGruder FOR Johnson,nan,nan,204020,Tyler Johnson,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Substitution ,nan
+204185,21600410,4,10:14,nan,MISS Zeller 25' 3PT Jump Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204186,21600410,4,10:13,Whiteside REBOUND (Off:2 Def:13),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204187,21600410,4,10:02,MISS Richardson 24' 3PT Jump Shot,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204188,21600410,4,10:01,nan,Smart REBOUND (Off:1 Def:4),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204189,21600410,4,9:48,nan,Rozier 1' Reverse Layup (4 PTS),84 - 72,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204190,21600410,4,9:29,Johnson  3PT Jump Shot (5 PTS) (McGruder 3 AST),nan,84 - 75,201949,James Johnson,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Made Shot ,nan
+204191,21600410,4,9:10,nan,Thomas 25' 3PT Jump Shot (21 PTS),87 - 75,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204192,21600410,4,8:49,MISS Johnson 13' Jump Shot,nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204193,21600410,4,8:48,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204194,21600410,4,8:35,nan,MISS Zeller 7' Turnaround Hook Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204195,21600410,4,8:34,Whiteside REBOUND (Off:2 Def:14),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204196,21600410,4,8:32,Johnson Out of Bounds - Bad Pass Turnover Turnover (P5.T21),nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+204197,21600410,4,8:32,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+204198,21600410,4,8:32,nan,nan,nan,413,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+204199,21600410,4,8:32,SUB: Dragic FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+204200,21600410,4,8:32,nan,SUB: Horford FOR Zeller,nan,203092,Tyler Zeller,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+204201,21600410,4,8:12,nan,Jerebko 2' Cutting Layup Shot (4 PTS) (Horford 8 AST),89 - 75,201973,Jonas Jerebko,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+204202,21600410,4,7:51,Dragic 24' 3PT Jump Shot (24 PTS) (Winslow 3 AST),nan,89 - 78,201609,Goran Dragic,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Made Shot ,nan
+204203,21600410,4,7:31,nan,Horford  Driving Dunk (8 PTS),91 - 78,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204204,21600410,4,7:17,Dragic 25' 3PT Jump Shot (27 PTS),nan,91 - 81,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+204205,21600410,4,7:05,Johnson STEAL (1 STL),Horford Bad Pass Turnover (P1.T10),nan,201143,Al Horford,BOS,201949,James Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+204206,21600410,4,6:53,Johnson 7' Driving Hook Shot (7 PTS),nan,91 - 83,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+204207,21600410,4,6:37,nan,MISS Thomas 25' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204208,21600410,4,6:36,nan,Horford REBOUND (Off:2 Def:3),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204209,21600410,4,6:33,nan,Horford 1' Layup (10 PTS),93 - 83,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204210,21600410,4,6:17,nan,Jerebko S.FOUL (P5.T3) (T.Brothers),nan,201973,Jonas Jerebko,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Shooting
+204211,21600410,4,6:17,Winslow Free Throw 1 of 2 (6 PTS),nan,93 - 84,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204212,21600410,4,6:17,nan,SUB: Bradley FOR Jerebko,nan,201973,Jonas Jerebko,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+204213,21600410,4,6:17,SUB: Johnson FOR Richardson,nan,nan,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+204214,21600410,4,6:17,nan,SUB: Crowder FOR Thomas,nan,202738,Isaiah Thomas,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+204215,21600410,4,6:17,MISS Winslow Free Throw 2 of 2,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204216,21600410,4,6:16,nan,Horford REBOUND (Off:2 Def:4),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204217,21600410,4,5:56,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+204218,21600410,4,5:54,nan,Horford 1' Cutting Layup Shot (12 PTS) (Smart 3 AST),95 - 84,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+204219,21600410,4,5:34,MISS Winslow 7' Hook Shot,Horford BLOCK (1 BLK),nan,1626159,Justise Winslow,MIA,0,nan,nan,201143,Al Horford,BOS,Missed Shot ,nan
+204220,21600410,4,5:29,Johnson REBOUND (Off:2 Def:3),nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204221,21600410,4,5:27,MISS Dragic 20' Jump Shot,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204222,21600410,4,5:26,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204223,21600410,4,5:26,Winslow P.FOUL (P2.T3) (C.Washington),nan,nan,1626159,Justise Winslow,MIA,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+204224,21600410,4,5:00,nan,MISS Horford 16' Fadeaway Jumper,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204225,21600410,4,4:59,Winslow REBOUND (Off:1 Def:3),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204226,21600410,4,4:56,Winslow Lost Ball Turnover (P4.T22),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Turnover ,Lost Ball
+204227,21600410,4,4:55,Winslow L.B.FOUL (P3.T4) (C.Washington),nan,nan,1626159,Justise Winslow,MIA,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Loose Ball
+204228,21600410,4,4:55,SUB: Whiteside FOR McGruder,nan,nan,203585,Rodney McGruder,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+204229,21600410,4,4:55,SUB: Richardson FOR Johnson,nan,nan,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Substitution ,nan
+204230,21600410,4,4:41,nan,MISS Horford 24' 3PT Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204231,21600410,4,4:39,Richardson REBOUND (Off:0 Def:2),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204232,21600410,4,4:18,MISS Whiteside 16' Turnaround Fadeaway Shot,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204233,21600410,4,4:17,nan,Crowder REBOUND (Off:1 Def:3),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204234,21600410,4,3:58,nan,MISS Bradley 9' Floating Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204235,21600410,4,3:57,Whiteside REBOUND (Off:2 Def:15),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204236,21600410,4,3:51,nan,Bradley Personal Block Foul (P3.T4) (C.Washington),nan,202340,Avery Bradley,BOS,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal Block
+204237,21600410,4,3:51,nan,SUB: Thomas FOR Rozier,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+204238,21600410,4,3:41,MISS Richardson 26' 3PT Jump Shot,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204239,21600410,4,3:40,nan,Horford REBOUND (Off:2 Def:5),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204240,21600410,4,3:31,nan,Thomas 1' Running Layup (23 PTS),97 - 84,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204241,21600410,4,3:16,nan,Horford P.FOUL (P1.PN) (C.Washington),nan,201143,Al Horford,BOS,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+204242,21600410,4,3:16,MISS Dragic Free Throw 1 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204243,21600410,4,3:16,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+204244,21600410,4,3:16,Dragic Free Throw 2 of 2 (28 PTS),nan,97 - 85,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204245,21600410,4,3:04,Winslow BLOCK (1 BLK),MISS Smart 3' Layup,nan,203935,Marcus Smart,BOS,0,nan,nan,1626159,Justise Winslow,MIA,Missed Shot ,nan
+204246,21600410,4,3:03,nan,Crowder REBOUND (Off:2 Def:3),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204247,21600410,4,3:02,nan,Thomas FLAGRANT.FOUL.TYPE2 (P1.PN) (C.Washington),nan,202738,Isaiah Thomas,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Flagrant Type 2
+204248,21600410,4,3:02,nan,Thomas Foul Turnover (P2.T11),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+204249,21600410,4,3:02,nan,nan,nan,490,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+204250,21600410,4,3:02,nan,Thomas Ejection:Other,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Ejection ,nan
+204251,21600410,4,3:02,nan,SUB: Jerebko FOR Thomas,nan,202738,Isaiah Thomas,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+204252,21600410,4,3:02,MISS Winslow Free Throw Flagrant 1 of 2,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+204253,21600410,4,3:02,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+204254,21600410,4,3:02,MISS Winslow Free Throw Flagrant 2 of 2,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+204255,21600410,4,3:02,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204256,21600410,4,2:50,Johnson 1' Driving Finger Roll Layup (4 PTS),nan,97 - 87,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+204257,21600410,4,2:38,Winslow STEAL (3 STL),Bradley Lost Ball Turnover (P2.T12),nan,202340,Avery Bradley,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Turnover ,Lost Ball
+204258,21600410,4,2:34,Richardson 2' Running Layup (6 PTS) (Winslow 4 AST),nan,97 - 89,1626196,Josh Richardson,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Made Shot ,nan
+204259,21600410,4,2:13,nan,MISS Bradley 8' Driving Floating Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204260,21600410,4,2:12,Richardson REBOUND (Off:0 Def:3),nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204261,21600410,4,2:04,Dragic 25' 3PT Jump Shot (31 PTS) (Johnson 3 AST),nan,97 - 92,201609,Goran Dragic,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+204262,21600410,4,1:59,nan,Celtics Timeout: Regular (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+204263,21600410,4,1:59,nan,SUB: Rozier FOR Jerebko,nan,201973,Jonas Jerebko,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+204264,21600410,4,1:50,nan,MISS Horford 25' 3PT Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204265,21600410,4,1:49,Johnson REBOUND (Off:2 Def:4),nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204266,21600410,4,1:48,nan,Crowder P.FOUL (P1.PN) (T.Brothers),nan,203109,Jae Crowder,BOS,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+204267,21600410,4,1:48,Johnson Free Throw 1 of 2 (5 PTS),nan,97 - 93,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204268,21600410,4,1:48,MISS Johnson Free Throw 2 of 2,nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204269,21600410,4,1:47,nan,Crowder REBOUND (Off:2 Def:4),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204270,21600410,4,1:29,nan,Horford 2' Reverse Layup (14 PTS),99 - 93,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+204271,21600410,4,1:29,Johnson S.FOUL (P3.PN) (C.Washington),nan,nan,204020,Tyler Johnson,MIA,201143,Al Horford,BOS,0,nan,nan,Foul ,Shooting
+204272,21600410,4,1:29,nan,Horford Free Throw 1 of 1 (15 PTS),100 - 93,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+204273,21600410,4,1:16,MISS Richardson 24' 3PT Jump Shot,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204274,21600410,4,1:15,nan,Bradley REBOUND (Off:1 Def:4),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204275,21600410,4,1:02,nan,Horford 16' Jump Shot (17 PTS) (Smart 4 AST),102 - 93,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+204276,21600410,4,1:02,HEAT Timeout: Regular (Full 5 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+204277,21600410,4,0:52,Winslow Lost Ball Turnover (P5.T23),Smart STEAL (2 STL),nan,1626159,Justise Winslow,MIA,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Lost Ball
+204278,21600410,4,0:34,Winslow STEAL (4 STL),Smart Bad Pass Turnover (P3.T13),nan,203935,Marcus Smart,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Turnover ,Bad Pass
+204279,21600410,4,0:32,nan,Smart S.FOUL (P1.PN) (T.Brothers),nan,203935,Marcus Smart,BOS,1626159,Justise Winslow,MIA,0,nan,nan,Foul ,Shooting
+204280,21600410,4,0:32,nan,nan,nan,534,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+204281,21600410,4,0:32,nan,nan,102 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+204282,21600410,4,0:32,Winslow T.FOUL (P3.PN) (T.Brothers),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Foul ,Technical
+204283,21600410,4,0:32,nan,MISS Crowder Free Throw Technical,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+204284,21600410,4,0:32,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+204285,21600410,4,0:32,Winslow Free Throw 1 of 2 (7 PTS),nan,102 - 94,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204286,21600410,4,0:32,Winslow Free Throw 2 of 2 (8 PTS),nan,102 - 95,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204287,21600410,4,0:30,Winslow P.FOUL (P4.PN) (C.Washington),nan,nan,1626159,Justise Winslow,MIA,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+204288,21600410,4,0:30,nan,Smart Free Throw 1 of 2 (6 PTS),104 - 95,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204289,21600410,4,0:30,nan,Smart Free Throw 2 of 2 (6 PTS),104 - 95,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204290,21600410,4,0:30,HEAT Timeout: Short (Full 5 Short 2),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+204291,21600410,4,0:30,SUB: Johnson FOR Johnson,nan,nan,204020,Tyler Johnson,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+204292,21600410,4,0:30,SUB: Johnson FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+204293,21600410,4,0:24,MISS Richardson 25' 3PT Jump Shot,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204294,21600410,4,0:23,nan,Rozier REBOUND (Off:0 Def:1),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204295,21600410,4,0:22,Winslow P.FOUL (P5.PN) (T.Brothers),nan,nan,1626159,Justise Winslow,MIA,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Personal
+204296,21600410,4,0:22,nan,MISS Rozier Free Throw 1 of 2,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+204297,21600410,4,0:22,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+204298,21600410,4,0:22,nan,Rozier Free Throw 2 of 2 (5 PTS),105 - 95,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+204299,21600410,4,0:13,MISS Dragic 25' 3PT Jump Shot,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+204300,21600410,4,0:12,nan,Smart REBOUND (Off:1 Def:5),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+204301,21600410,4,0:00,nan,nan,105 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

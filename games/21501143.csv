@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+142567,21501143,4,12:00,nan,nan,75 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+142568,21501143,4,11:45,nan,Frazier 2' Driving Layup (12 PTS),77 - 66,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142569,21501143,4,11:28,Brown 25' 3PT Jump Shot (12 PTS) (Karasev 6 AST),nan,77 - 69,203900,Markel Brown,BKN,203508,Sergey Karasev,BKN,0,nan,nan,Made Shot ,nan
+142570,21501143,4,11:11,nan,MISS Hamilton 24' 3PT Jump Shot,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142571,21501143,4,11:10,nan,Hamilton REBOUND (Off:2 Def:5),nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142572,21501143,4,11:08,nan,Hamilton 2' Layup (4 PTS),79 - 69,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142573,21501143,4,10:50,MISS Karasev 15' Jump Shot,Ennis BLOCK (1 BLK),nan,203508,Sergey Karasev,BKN,0,nan,nan,203516,James Ennis III,NOP,Missed Shot ,nan
+142574,21501143,4,10:49,nan,Ennis REBOUND (Off:0 Def:3),nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142575,21501143,4,10:46,nan,Ennis 3' Running Layup (14 PTS),81 - 69,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142576,21501143,4,10:21,MISS Brown 17' Jump Shot,nan,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142577,21501143,4,10:20,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142578,21501143,4,10:04,nan,Hamilton 5' Jump Shot (6 PTS),83 - 69,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142579,21501143,4,9:52,nan,Frazier P.FOUL (P3.T1) (M.Lindsay),nan,204025,Tim Frazier,NOP,203900,Markel Brown,BKN,0,nan,nan,Foul ,Personal
+142580,21501143,4,9:45,MISS Brown 25' 3PT Jump Shot,nan,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142581,21501143,4,9:44,nan,Hamilton REBOUND (Off:2 Def:6),nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142582,21501143,4,9:34,nan,Perkins 2' Cutting Layup Shot (7 PTS) (Ennis 2 AST),85 - 69,2570,Kendrick Perkins,NOP,203516,James Ennis III,NOP,0,nan,nan,Made Shot ,nan
+142583,21501143,4,9:34,NETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142584,21501143,4,9:34,SUB: Sims FOR Reed,nan,nan,203186,Willie Reed,BKN,203156,Henry Sims,BKN,0,nan,nan,Substitution ,nan
+142585,21501143,4,9:34,SUB: Robinson FOR Karasev,nan,nan,203508,Sergey Karasev,BKN,203080,Thomas Robinson,BKN,0,nan,nan,Substitution ,nan
+142586,21501143,4,9:34,SUB: Larkin FOR McCullough,nan,nan,1626191,Chris McCullough,BKN,203499,Shane Larkin,BKN,0,nan,nan,Substitution ,nan
+142587,21501143,4,9:14,MISS Kilpatrick 9' Jump Shot,Perkins BLOCK (1 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,2570,Kendrick Perkins,NOP,Missed Shot ,nan
+142588,21501143,4,9:13,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142589,21501143,4,9:10,MISS Sims 13' Jump Shot,nan,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142590,21501143,4,9:09,nan,Frazier REBOUND (Off:0 Def:2),nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142591,21501143,4,9:03,Larkin STEAL (2 STL),Perkins Bad Pass Turnover (P1.T12),nan,2570,Kendrick Perkins,NOP,203499,Shane Larkin,BKN,0,nan,nan,Turnover ,Bad Pass
+142592,21501143,4,8:58,Kilpatrick 2' Cutting Layup Shot (10 PTS) (Larkin 4 AST),nan,85 - 71,203930,Sean Kilpatrick,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142593,21501143,4,8:39,nan,Babbitt 24' 3PT Jump Shot (21 PTS) (Frazier 11 AST),88 - 71,202337,Luke Babbitt,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+142594,21501143,4,8:23,Robinson 3' Layup (8 PTS) (Larkin 5 AST),nan,88 - 73,203080,Thomas Robinson,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142595,21501143,4,8:23,nan,Babbitt S.FOUL (P4.T2) (D.Crawford),nan,202337,Luke Babbitt,NOP,203080,Thomas Robinson,BKN,0,nan,nan,Foul ,Shooting
+142596,21501143,4,8:23,SUB: Ellington FOR Brown,nan,nan,203900,Markel Brown,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Substitution ,nan
+142597,21501143,4,8:23,MISS Robinson Free Throw 1 of 1,nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+142598,21501143,4,8:22,nan,Perkins REBOUND (Off:0 Def:1),nan,2570,Kendrick Perkins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142599,21501143,4,8:09,nan,Frazier 3' Driving Finger Roll Layup (14 PTS),90 - 73,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142600,21501143,4,7:55,Sims 10' Jump Shot (8 PTS) (Larkin 6 AST),nan,90 - 75,203156,Henry Sims,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142601,21501143,4,7:33,nan,MISS Ennis 24' 3PT Jump Shot,nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142602,21501143,4,7:32,Robinson REBOUND (Off:5 Def:7),nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142603,21501143,4,7:11,MISS Larkin 26' 3PT Jump Shot,nan,nan,203499,Shane Larkin,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142604,21501143,4,7:10,Robinson REBOUND (Off:6 Def:7),nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142605,21501143,4,7:09,Robinson 3' Tip Layup Shot (10 PTS),nan,90 - 77,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+142606,21501143,4,7:01,nan,Frazier 25' 3PT Pullup Jump Shot (17 PTS),93 - 77,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142607,21501143,4,6:41,MISS Sims 14' Hook Shot,nan,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142608,21501143,4,6:40,Robinson REBOUND (Off:7 Def:7),nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142609,21501143,4,6:33,Kilpatrick 3' Driving Reverse Layup (12 PTS) (Ellington 3 AST),nan,93 - 79,203930,Sean Kilpatrick,BKN,201961,Wayne Ellington,BKN,0,nan,nan,Made Shot ,nan
+142610,21501143,4,6:16,nan,MISS Hamilton 24' 3PT Jump Shot,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142611,21501143,4,6:15,Sims REBOUND (Off:2 Def:4),nan,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142612,21501143,4,6:03,nan,Babbitt S.FOUL (P5.T3) (D.Crawford),nan,202337,Luke Babbitt,NOP,203080,Thomas Robinson,BKN,0,nan,nan,Foul ,Shooting
+142613,21501143,4,6:03,MISS Robinson Free Throw 1 of 2,nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142614,21501143,4,6:03,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+142615,21501143,4,6:03,nan,SUB: Ajinca FOR Perkins,nan,2570,Kendrick Perkins,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+142616,21501143,4,6:03,nan,SUB: Cunningham FOR Babbitt,nan,202337,Luke Babbitt,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+142617,21501143,4,6:03,Robinson Free Throw 2 of 2 (11 PTS),nan,93 - 80,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142618,21501143,4,5:49,nan,Ajinca 3 Second Violation Turnover (P2.T13),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+142619,21501143,4,5:49,nan,nan,nan,432,Pete Chilcutt,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+142620,21501143,4,5:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+142621,21501143,4,5:40,Kilpatrick Poss Lost Ball Turnover (P3.T17),Ajinca STEAL (1 STL),nan,203930,Sean Kilpatrick,BKN,201582,Alexis Ajinca,NOP,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+142622,21501143,4,5:34,nan,Hamilton 2' Running Layup (8 PTS),95 - 80,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142623,21501143,4,5:10,MISS Kilpatrick 7' Jump Bank Shot,Ajinca BLOCK (2 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+142624,21501143,4,5:09,Kilpatrick REBOUND (Off:1 Def:1),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142625,21501143,4,5:06,MISS Larkin 2' Layup,Ajinca BLOCK (3 BLK),nan,203499,Shane Larkin,BKN,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+142626,21501143,4,5:05,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142627,21501143,4,5:05,NETS Turnover: Shot Clock (T#18),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+142628,21501143,4,4:53,Kilpatrick P.FOUL (P3.T1) (D.Crawford),nan,nan,203930,Sean Kilpatrick,BKN,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Personal
+142629,21501143,4,4:53,SUB: Brown FOR Kilpatrick,nan,nan,203930,Sean Kilpatrick,BKN,203900,Markel Brown,BKN,0,nan,nan,Substitution ,nan
+142630,21501143,4,4:48,nan,Frazier 7' Jump Shot (19 PTS),97 - 80,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142631,21501143,4,4:32,Sims 15' Jump Shot (10 PTS) (Larkin 7 AST),nan,97 - 82,203156,Henry Sims,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142632,21501143,4,4:10,nan,MISS Cunningham 18' Jump Shot,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142633,21501143,4,4:09,Brown REBOUND (Off:0 Def:1),nan,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142634,21501143,4,3:57,MISS Sims 16' Jump Shot,nan,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142635,21501143,4,3:56,nan,Hamilton REBOUND (Off:2 Def:7),nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142636,21501143,4,3:39,nan,MISS Frazier 3' Driving Layup,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142637,21501143,4,3:38,nan,Ajinca REBOUND (Off:1 Def:5),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142638,21501143,4,3:37,nan,Ajinca  Putback Dunk (14 PTS),99 - 82,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+142639,21501143,4,3:25,Sims 1' Layup (12 PTS) (Larkin 8 AST),nan,99 - 84,203156,Henry Sims,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142640,21501143,4,3:09,nan,MISS Ennis  3PT Jump Shot,nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142641,21501143,4,3:08,Sims REBOUND (Off:2 Def:5),nan,nan,203156,Henry Sims,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142642,21501143,4,3:05,Brown Offensive Goaltending Turnover (P4.T19),nan,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+142643,21501143,4,2:48,nan,Ajinca  Alley Oop Dunk (16 PTS) (Frazier 12 AST),101 - 84,201582,Alexis Ajinca,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+142644,21501143,4,2:47,NETS Timeout: Regular (Full 6 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142645,21501143,4,2:42,nan,Frazier Violation:Kicked Ball (J.Orr),nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+142646,21501143,4,2:33,MISS Brown  3PT Jump Shot,nan,nan,203900,Markel Brown,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142647,21501143,4,2:32,nan,Hamilton REBOUND (Off:2 Def:8),nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142648,21501143,4,2:18,nan,MISS Cunningham 10' Jump Shot,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142649,21501143,4,2:17,Robinson REBOUND (Off:7 Def:8),nan,nan,203080,Thomas Robinson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142650,21501143,4,2:05,Ellington Bad Pass Turnover (P2.T20),Frazier STEAL (3 STL),nan,201961,Wayne Ellington,BKN,204025,Tim Frazier,NOP,0,nan,nan,Turnover ,Bad Pass
+142651,21501143,4,2:01,nan,Hamilton 2' Cutting Layup Shot (10 PTS) (Frazier 13 AST),103 - 84,202706,Jordan Hamilton,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+142652,21501143,4,2:01,Brown S.FOUL (P5.T2) (M.Lindsay),nan,nan,203900,Markel Brown,BKN,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Shooting
+142653,21501143,4,2:01,SUB: Karasev FOR Robinson,nan,nan,203080,Thomas Robinson,BKN,203508,Sergey Karasev,BKN,0,nan,nan,Substitution ,nan
+142654,21501143,4,2:01,SUB: Kilpatrick FOR Sims,nan,nan,203156,Henry Sims,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+142655,21501143,4,2:01,SUB: Reed FOR Ellington,nan,nan,201961,Wayne Ellington,BKN,203186,Willie Reed,BKN,0,nan,nan,Substitution ,nan
+142656,21501143,4,2:01,SUB: McCullough FOR Larkin,nan,nan,203499,Shane Larkin,BKN,1626191,Chris McCullough,BKN,0,nan,nan,Substitution ,nan
+142657,21501143,4,2:01,nan,MISS Hamilton Free Throw 1 of 1,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+142658,21501143,4,2:00,Kilpatrick REBOUND (Off:1 Def:2),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142659,21501143,4,1:46,Kilpatrick Out of Bounds Lost Ball Turnover (P4.T21),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+142660,21501143,4,1:46,nan,SUB: Babbitt FOR Cunningham,nan,201967,Dante Cunningham,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Substitution ,nan
+142661,21501143,4,1:30,Brown S.FOUL (P6.T3) (M.Lindsay),nan,nan,203900,Markel Brown,BKN,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Shooting
+142662,21501143,4,1:30,SUB: Larkin FOR Brown,nan,nan,203900,Markel Brown,BKN,203499,Shane Larkin,BKN,0,nan,nan,Substitution ,nan
+142663,21501143,4,1:30,nan,MISS Hamilton Free Throw 1 of 2,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142664,21501143,4,1:30,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+142665,21501143,4,1:30,nan,Hamilton Free Throw 2 of 2 (11 PTS),104 - 84,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142666,21501143,4,1:15,nan,Ennis P.FOUL (P3.T4) (D.Crawford),nan,203516,James Ennis III,NOP,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Personal
+142667,21501143,4,1:15,SUB: Sims FOR Reed,nan,nan,203186,Willie Reed,BKN,203156,Henry Sims,BKN,0,nan,nan,Substitution ,nan
+142668,21501143,4,1:07,MISS McCullough 17' Jump Shot,nan,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142669,21501143,4,1:06,nan,Hamilton REBOUND (Off:2 Def:9),nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142670,21501143,4,0:48,nan,Hamilton 2' Driving Finger Roll Layup (13 PTS) (Babbitt 4 AST),106 - 84,202706,Jordan Hamilton,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Made Shot ,nan
+142671,21501143,4,0:26,MISS McCullough 1' Layup,Ajinca BLOCK (4 BLK),nan,1626191,Chris McCullough,BKN,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+142672,21501143,4,0:25,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142673,21501143,4,0:18,nan,MISS Frazier 24' 3PT Jump Shot,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142674,21501143,4,0:18,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142675,21501143,4,0:13,Kilpatrick 24' 3PT Jump Shot (15 PTS) (Larkin 9 AST),nan,106 - 87,203930,Sean Kilpatrick,BKN,203499,Shane Larkin,BKN,0,nan,nan,Made Shot ,nan
+142676,21501143,4,0:00,nan,nan,106 - 87,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

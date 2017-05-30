@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+191589,21600308,4,12:00,nan,nan,86 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+191590,21600308,4,11:38,MISS Wade 12' Fadeaway Jumper,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191591,21600308,4,11:37,nan,Leonard REBOUND (Off:0 Def:2),nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191592,21600308,4,11:26,Wade S.FOUL (P2.T1) (M.Ervin),nan,nan,2548,Dwyane Wade,CHI,202329,Al-Farouq Aminu,POR,0,nan,nan,Foul ,Shooting
+191593,21600308,4,11:26,nan,MISS Aminu Free Throw 1 of 2,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191594,21600308,4,11:26,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+191595,21600308,4,11:26,nan,Aminu Free Throw 2 of 2 (3 PTS),87 - 87,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191596,21600308,4,11:22,Gibson OFF.Foul (P2) (M.Ervin),nan,nan,201959,Taj Gibson,CHI,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Offensive
+191597,21600308,4,11:22,Gibson Foul Turnover (P2.T14),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+191598,21600308,4,11:04,nan,MISS Leonard 25' 3PT Jump Shot,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191599,21600308,4,11:03,Mirotic REBOUND (Off:0 Def:4),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191600,21600308,4,10:55,nan,Leonard S.FOUL (P6.T1) (L.Richardson),nan,203086,Meyers Leonard,POR,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+191601,21600308,4,10:55,nan,SUB: Davis FOR Leonard,nan,203086,Meyers Leonard,POR,202334,Ed Davis,POR,0,nan,nan,Substitution ,nan
+191602,21600308,4,10:55,Wade Free Throw 1 of 2 (28 PTS),nan,87 - 88,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191603,21600308,4,10:55,Wade Free Throw 2 of 2 (29 PTS),nan,87 - 89,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191604,21600308,4,10:39,Canaan STEAL (2 STL),McCollum Bad Pass Turnover (P2.T9),nan,203468,CJ McCollum,POR,203477,Isaiah Canaan,CHI,0,nan,nan,Turnover ,Bad Pass
+191605,21600308,4,10:27,MISS Wade 11' Fadeaway Jumper,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191606,21600308,4,10:26,nan,Aminu REBOUND (Off:0 Def:3),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191607,21600308,4,10:25,Mirotic P.FOUL (P2.T2) (M.Callahan),nan,nan,202703,Nikola Mirotic,CHI,202329,Al-Farouq Aminu,POR,0,nan,nan,Foul ,Personal
+191608,21600308,4,10:14,nan,McCollum 25' 3PT Jump Shot (24 PTS) (Aminu 2 AST),90 - 89,203468,CJ McCollum,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Made Shot ,nan
+191609,21600308,4,9:53,MISS Canaan 25' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191610,21600308,4,9:52,nan,Crabbe REBOUND (Off:2 Def:3),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191611,21600308,4,9:43,nan,MISS Crabbe 19' Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191612,21600308,4,9:42,Mirotic REBOUND (Off:0 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191613,21600308,4,9:33,Mirotic 25' 3PT Jump Shot (14 PTS) (Canaan 2 AST),nan,90 - 92,202703,Nikola Mirotic,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Made Shot ,nan
+191614,21600308,4,9:08,nan,Turner 18' Jump Shot (4 PTS),92 - 92,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191615,21600308,4,8:43,MISS Canaan 2' Driving Layup,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191616,21600308,4,8:42,Canaan REBOUND (Off:1 Def:1),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191617,21600308,4,8:34,nan,Turner S.FOUL (P1.T2) (M.Ervin),nan,202323,Evan Turner,POR,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+191618,21600308,4,8:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191619,21600308,4,8:34,nan,SUB: Harkless FOR Aminu,nan,202329,Al-Farouq Aminu,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+191620,21600308,4,8:34,MISS Wade Free Throw 1 of 2,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191621,21600308,4,8:34,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+191622,21600308,4,8:34,Wade Free Throw 2 of 2 (30 PTS),nan,92 - 93,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191623,21600308,4,8:19,nan,Davis 2' Driving Layup (5 PTS) (McCollum 5 AST),94 - 93,202334,Ed Davis,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+191624,21600308,4,7:58,MISS Wade 18' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191625,21600308,4,7:57,Canaan REBOUND (Off:2 Def:1),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191626,21600308,4,7:48,MISS Valentine 25' 3PT Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191627,21600308,4,7:46,nan,Davis REBOUND (Off:2 Def:4),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191628,21600308,4,7:39,nan,Turner 17' Jump Shot (6 PTS),96 - 93,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191629,21600308,4,7:15,MISS Valentine 24' 3PT Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191630,21600308,4,7:15,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191631,21600308,4,7:15,nan,SUB: Lillard FOR McCollum,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+191632,21600308,4,7:15,SUB: Butler FOR Valentine,nan,nan,1627756,Denzel Valentine,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+191633,21600308,4,7:00,nan,Turner 12' Pullup Jump Shot (8 PTS),98 - 93,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191634,21600308,4,6:59,BULLS Timeout: Regular (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191635,21600308,4,6:59,SUB: Lopez FOR Gibson,nan,nan,201959,Taj Gibson,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+191636,21600308,4,6:59,SUB: Grant FOR Wade,nan,nan,2548,Dwyane Wade,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+191637,21600308,4,6:46,MISS Butler 9' Pullup Jump Shot,Davis BLOCK (1 BLK),nan,202710,Jimmy Butler,CHI,0,nan,nan,202334,Ed Davis,POR,Missed Shot ,nan
+191638,21600308,4,6:46,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191639,21600308,4,6:27,nan,Turner 6' Jump Shot (10 PTS),100 - 93,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191640,21600308,4,6:05,Butler Lost Ball Turnover (P2.T15),Lillard STEAL (2 STL),nan,202710,Jimmy Butler,CHI,203081,Damian Lillard,POR,0,nan,nan,Turnover ,Lost Ball
+191641,21600308,4,5:55,nan,Lillard 27' 3PT Jump Shot (22 PTS),103 - 93,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191642,21600308,4,5:55,BULLS Timeout: Short (Full 4 Short 2),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+191643,21600308,4,5:42,MISS Canaan 3' Driving Layup,Lillard BLOCK (3 BLK),nan,203477,Isaiah Canaan,CHI,0,nan,nan,203081,Damian Lillard,POR,Missed Shot ,nan
+191644,21600308,4,5:42,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191645,21600308,4,5:19,Mirotic BLOCK (2 BLK),MISS Harkless 2' Driving Layup,nan,203090,Maurice Harkless,POR,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+191646,21600308,4,5:17,Grant REBOUND (Off:0 Def:3),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191647,21600308,4,5:11,Canaan 3' Running Layup (10 PTS),nan,103 - 95,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+191648,21600308,4,4:47,nan,MISS Crabbe 6' Floating Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191649,21600308,4,4:46,Lopez REBOUND (Off:7 Def:5),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191650,21600308,4,4:30,nan,Crabbe P.FOUL (P2.T3) (M.Callahan),nan,203459,Allen Crabbe,POR,203477,Isaiah Canaan,CHI,0,nan,nan,Foul ,Personal
+191651,21600308,4,4:30,SUB: Wade FOR Grant,nan,nan,1626170,Jerian Grant,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Substitution ,nan
+191652,21600308,4,4:18,MISS Wade 5' Floating Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191653,21600308,4,4:16,nan,Davis REBOUND (Off:2 Def:5),nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191654,21600308,4,4:07,nan,MISS Lillard 24' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191655,21600308,4,4:07,nan,Harkless REBOUND (Off:4 Def:3),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191656,21600308,4,4:07,Canaan S.FOUL (P2.T3) (M.Callahan),nan,nan,203477,Isaiah Canaan,CHI,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Shooting
+191657,21600308,4,4:07,nan,Harkless Free Throw 1 of 2 (11 PTS),104 - 95,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191658,21600308,4,4:07,nan,MISS Harkless Free Throw 2 of 2,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191659,21600308,4,4:05,Butler REBOUND (Off:2 Def:5),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191660,21600308,4,3:47,MISS Canaan 8' Fadeaway Jumper,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191661,21600308,4,3:46,nan,Lillard REBOUND (Off:0 Def:2),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191662,21600308,4,3:32,nan,MISS Harkless  3PT Jump Shot,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191663,21600308,4,3:30,Lopez REBOUND (Off:7 Def:6),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191664,21600308,4,3:23,nan,Davis S.FOUL (P5.T4) (M.Callahan),nan,202334,Ed Davis,POR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+191665,21600308,4,3:23,Butler Free Throw 1 of 2 (20 PTS),nan,104 - 96,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191666,21600308,4,3:23,Butler Free Throw 2 of 2 (21 PTS),nan,104 - 97,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191667,21600308,4,3:10,nan,Lillard 17' Jump Shot (24 PTS) (Turner 4 AST),106 - 97,203081,Damian Lillard,POR,202323,Evan Turner,POR,0,nan,nan,Made Shot ,nan
+191668,21600308,4,2:51,Wade 11' Driving Floating Jump Shot (32 PTS),nan,106 - 99,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+191669,21600308,4,2:50,nan,Trail Blazers Timeout: Regular (Reg.4 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191670,21600308,4,2:31,nan,MISS Crabbe 24' Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191671,21600308,4,2:30,Wade REBOUND (Off:2 Def:2),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191672,21600308,4,2:24,nan,Turner S.FOUL (P2.PN) (L.Richardson),nan,202323,Evan Turner,POR,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+191673,21600308,4,2:24,Wade Free Throw 1 of 2 (33 PTS),nan,106 - 100,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191674,21600308,4,2:24,Wade Free Throw 2 of 2 (34 PTS),nan,106 - 101,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191675,21600308,4,2:08,nan,Lillard 11' Floating Jump Shot (26 PTS),108 - 101,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+191676,21600308,4,1:56,nan,Crabbe P.FOUL (P3.PN) (L.Richardson),nan,203459,Allen Crabbe,POR,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+191677,21600308,4,1:56,Butler Free Throw 1 of 2 (22 PTS),nan,108 - 102,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191678,21600308,4,1:56,Butler Free Throw 2 of 2 (23 PTS),nan,108 - 103,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191679,21600308,4,1:37,Wade BLOCK (2 BLK),MISS Lillard 3' Driving Layup,nan,203081,Damian Lillard,POR,0,nan,nan,2548,Dwyane Wade,CHI,Missed Shot ,nan
+191680,21600308,4,1:35,Mirotic REBOUND (Off:0 Def:6),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191681,21600308,4,1:14,MISS Butler 25' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191682,21600308,4,1:11,nan,Lillard REBOUND (Off:0 Def:3),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191683,21600308,4,1:11,nan,Trail Blazers Timeout: Regular (Reg.5 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191684,21600308,4,1:01,nan,MISS Crabbe 25' 3PT Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191685,21600308,4,1:00,Mirotic REBOUND (Off:0 Def:7),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191686,21600308,4,0:45,MISS Mirotic 21' Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191687,21600308,4,0:43,nan,Harkless REBOUND (Off:4 Def:4),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191688,21600308,4,0:38,Wade Personal Take Foul (P3.T4) (L.Richardson),nan,nan,2548,Dwyane Wade,CHI,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal Take
+191689,21600308,4,0:38,nan,SUB: McCollum FOR Davis,nan,202334,Ed Davis,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+191690,21600308,4,0:26,nan,MISS Lillard 26' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191691,21600308,4,0:26,Lopez REBOUND (Off:7 Def:7),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191692,21600308,4,0:26,BULLS Timeout: Regular (Full 5 Short 2),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191693,21600308,4,0:23,nan,nan,nan,565,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+191694,21600308,4,0:19,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191695,21600308,4,0:19,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191696,21600308,4,0:19,nan,Harkless L.B.FOUL (P4.PN) (M.Ervin),nan,203090,Maurice Harkless,POR,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Loose Ball
+191697,21600308,4,0:19,Mirotic Free Throw 1 of 2 (15 PTS),nan,108 - 104,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191698,21600308,4,0:19,SUB: Gibson FOR Lopez,nan,nan,201577,Robin Lopez,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+191699,21600308,4,0:19,Mirotic Free Throw 2 of 2 (16 PTS),nan,108 - 105,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191700,21600308,4,0:18,Canaan P.FOUL (P3.PN) (L.Richardson),nan,nan,203477,Isaiah Canaan,CHI,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+191701,21600308,4,0:18,nan,Lillard Free Throw 1 of 2 (27 PTS),109 - 105,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191702,21600308,4,0:18,SUB: Lopez FOR Canaan,nan,nan,203477,Isaiah Canaan,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+191703,21600308,4,0:18,nan,Lillard Free Throw 2 of 2 (28 PTS),110 - 105,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191704,21600308,4,0:18,BULLS Timeout: Short (Full 5 Short 3),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+191705,21600308,4,0:18,SUB: Canaan FOR Gibson,nan,nan,201959,Taj Gibson,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+191706,21600308,4,0:18,nan,SUB: Davis FOR McCollum,nan,203468,CJ McCollum,POR,202334,Ed Davis,POR,0,nan,nan,Substitution ,nan
+191707,21600308,4,0:12,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191708,21600308,4,0:11,Canaan REBOUND (Off:3 Def:1),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191709,21600308,4,0:07,MISS Canaan 24' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191710,21600308,4,0:06,nan,Harkless REBOUND (Off:4 Def:5),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191711,21600308,4,0:05,Mirotic STEAL (2 STL),Harkless Lost Ball Turnover (P2.T10),nan,203090,Maurice Harkless,POR,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Lost Ball
+191712,21600308,4,0:05,Mirotic 1' Layup (18 PTS),nan,110 - 107,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+191713,21600308,4,0:04,Mirotic Personal Take Foul (P3.PN) (L.Richardson),nan,nan,202703,Nikola Mirotic,CHI,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal Take
+191714,21600308,4,0:04,nan,Lillard Free Throw 1 of 2 (29 PTS),111 - 107,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191715,21600308,4,0:04,nan,Lillard Free Throw 2 of 2 (30 PTS),112 - 107,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191716,21600308,4,0:00,Butler 27' 3PT Jump Shot (26 PTS),nan,112 - 110,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+191717,21600308,4,0:00,nan,nan,nan,595,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+191718,21600308,4,0:00,nan,nan,112 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

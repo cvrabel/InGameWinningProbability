@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+58599,21500469,4,12:00,nan,nan,72 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+58600,21500469,4,11:46,nan,Johnson 10' Jump Shot (2 PTS) (Baynes 1 AST),74 - 79,1626169,Stanley Johnson,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+58601,21500469,4,11:27,nan,Johnson S.FOUL (P2.T1) (J.Orr),nan,1626169,Stanley Johnson,DET,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+58602,21500469,4,11:27,Williams Free Throw 1 of 2 (3 PTS),nan,74 - 80,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58603,21500469,4,11:27,MISS Williams Free Throw 2 of 2,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58604,21500469,4,11:26,nan,Johnson REBOUND (Off:0 Def:1),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58605,21500469,4,11:03,nan,MISS Jennings 19' Jump Shot,nan,201943,Brandon Jennings,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58606,21500469,4,11:02,nan,Tolliver REBOUND (Off:1 Def:1),nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58607,21500469,4,10:57,nan,MISS Johnson 26' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58608,21500469,4,10:57,Galloway REBOUND (Off:0 Def:4),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58609,21500469,4,10:44,MISS O'Quinn 1' Layup,Tolliver BLOCK (1 BLK),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,201229,Anthony Tolliver,DET,Missed Shot ,nan
+58610,21500469,4,10:43,nan,Caldwell-Pope REBOUND (Off:1 Def:4),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58611,21500469,4,10:39,nan,Johnson 1' Layup (4 PTS) (Jennings 3 AST),76 - 80,1626169,Stanley Johnson,DET,201943,Brandon Jennings,DET,0,nan,nan,Made Shot ,nan
+58612,21500469,4,10:23,Galloway Bad Pass Turnover (P1.T10),Caldwell-Pope STEAL (1 STL),nan,204038,Langston Galloway,NYK,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Bad Pass
+58613,21500469,4,10:17,nan,MISS Caldwell-Pope  3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58614,21500469,4,10:16,Afflalo REBOUND (Off:0 Def:6),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58615,21500469,4,10:01,Galloway 2' Layup (2 PTS) (O'Quinn 1 AST),nan,76 - 82,204038,Langston Galloway,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+58616,21500469,4,9:45,O'Quinn STEAL (1 STL),Tolliver Bad Pass Turnover (P1.T7),nan,201229,Anthony Tolliver,DET,203124,Kyle O'Quinn,NYK,0,nan,nan,Turnover ,Bad Pass
+58617,21500469,4,9:38,O'Quinn 1' Layup (12 PTS) (Galloway 2 AST),nan,76 - 84,203124,Kyle O'Quinn,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+58618,21500469,4,9:09,nan,Caldwell-Pope  3PT Jump Shot (8 PTS) (Jennings 4 AST),79 - 84,203484,Kentavious Caldwell-Pope,DET,201943,Brandon Jennings,DET,0,nan,nan,Made Shot ,nan
+58619,21500469,4,8:47,MISS Williams 24' 3PT Jump Shot,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58620,21500469,4,8:46,nan,Baynes REBOUND (Off:0 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58621,21500469,4,8:40,nan,MISS Johnson 26' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58622,21500469,4,8:39,Williams REBOUND (Off:0 Def:3),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58623,21500469,4,8:34,nan,Baynes S.FOUL (P1.T2) (R.Garretson),nan,203382,Aron Baynes,DET,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+58624,21500469,4,8:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+58625,21500469,4,8:34,SUB: Anthony FOR Afflalo,nan,nan,201167,Arron Afflalo,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+58626,21500469,4,8:34,nan,SUB: Jackson FOR Jennings,nan,201943,Brandon Jennings,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+58627,21500469,4,8:34,MISS Williams Free Throw 1 of 2,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58628,21500469,4,8:34,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58629,21500469,4,8:34,Williams Free Throw 2 of 2 (4 PTS),nan,79 - 85,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58630,21500469,4,8:20,Thomas STEAL (1 STL),Jackson Bad Pass Turnover (P2.T8),nan,202704,Reggie Jackson,DET,202498,Lance Thomas,NYK,0,nan,nan,Turnover ,Bad Pass
+58631,21500469,4,8:14,Thomas  Layup (7 PTS),nan,79 - 87,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+58632,21500469,4,7:54,Thomas S.FOUL (P2.T1) (R.Garretson),nan,nan,202498,Lance Thomas,NYK,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+58633,21500469,4,7:54,nan,MISS Caldwell-Pope Free Throw 1 of 2,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58634,21500469,4,7:54,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58635,21500469,4,7:54,nan,SUB: Marc Morris FOR Johnson,nan,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+58636,21500469,4,7:54,nan,SUB: Drummond FOR Baynes,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+58637,21500469,4,7:54,SUB: Lopez FOR O'Quinn,nan,nan,203124,Kyle O'Quinn,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+58638,21500469,4,7:54,nan,Caldwell-Pope Free Throw 2 of 2 (9 PTS),80 - 87,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58639,21500469,4,7:28,Williams  Driving Dunk (6 PTS) (Anthony 5 AST),nan,80 - 89,202682,Derrick Williams,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+58640,21500469,4,7:16,nan,MISS Jackson 15' Pullup Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58641,21500469,4,7:16,nan,Jackson REBOUND (Off:1 Def:3),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58642,21500469,4,7:08,nan,Tolliver  3PT Jump Shot (8 PTS) (Marc Morris 2 AST),83 - 89,201229,Anthony Tolliver,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+58643,21500469,4,6:46,Anthony 17' Jump Shot (20 PTS),nan,83 - 91,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+58644,21500469,4,6:32,nan,MISS Tolliver 25' 3PT Jump Shot,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58645,21500469,4,6:31,Lopez REBOUND (Off:3 Def:4),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58646,21500469,4,6:22,Williams  Reverse Dunk (8 PTS) (Galloway 3 AST),nan,83 - 93,202682,Derrick Williams,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+58647,21500469,4,6:22,nan,Pistons Timeout: Regular (Reg.4 Short 1),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58648,21500469,4,6:22,nan,SUB: Ilyasova FOR Tolliver,nan,201229,Anthony Tolliver,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+58649,21500469,4,6:08,Anthony P.FOUL (P2.T2) (J.Orr),nan,nan,2546,Carmelo Anthony,NYK,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+58650,21500469,4,5:52,nan,Jackson 13' Fadeaway Jumper (15 PTS),85 - 93,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+58651,21500469,4,5:25,MISS Anthony 10' Turnaround Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58652,21500469,4,5:25,nan,Jackson REBOUND (Off:1 Def:4),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58653,21500469,4,5:20,Lopez S.FOUL (P4.T3) (N.Buchert),nan,nan,201577,Robin Lopez,NYK,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+58654,21500469,4,5:20,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58655,21500469,4,5:20,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58656,21500469,4,5:20,SUB: Calderon FOR Galloway,nan,nan,204038,Langston Galloway,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+58657,21500469,4,5:20,nan,MISS Drummond Free Throw 2 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58658,21500469,4,5:19,Anthony REBOUND (Off:1 Def:4),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58659,21500469,4,4:58,Anthony 13' Jump Shot (22 PTS),nan,85 - 95,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+58660,21500469,4,4:48,nan,MISS Jackson 14' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58661,21500469,4,4:45,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58662,21500469,4,4:45,Calderon Violation:Kicked Ball (N.Buchert),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+58663,21500469,4,4:30,nan,MISS Marc Morris 14' Fadeaway Jumper,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58664,21500469,4,4:29,Anthony REBOUND (Off:1 Def:5),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58665,21500469,4,4:16,Williams 1' Layup (10 PTS) (Lopez 1 AST),nan,85 - 97,202682,Derrick Williams,NYK,201577,Robin Lopez,NYK,0,nan,nan,Made Shot ,nan
+58666,21500469,4,4:16,nan,Caldwell-Pope S.FOUL (P1.T3) (N.Buchert),nan,203484,Kentavious Caldwell-Pope,DET,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+58667,21500469,4,4:16,Williams Free Throw 1 of 1 (11 PTS),nan,85 - 98,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+58668,21500469,4,3:54,nan,MISS Jackson 24' 3PT Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58669,21500469,4,3:54,nan,Ilyasova REBOUND (Off:4 Def:0),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58670,21500469,4,3:52,Anthony S.FOUL (P3.T4) (N.Buchert),nan,nan,2546,Carmelo Anthony,NYK,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+58671,21500469,4,3:52,nan,Jackson Free Throw 1 of 2 (16 PTS),86 - 98,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58672,21500469,4,3:52,nan,Jackson Free Throw 2 of 2 (17 PTS),87 - 98,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58673,21500469,4,3:38,nan,Drummond S.FOUL (P2.T4) (J.Orr),nan,203083,Andre Drummond,DET,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+58674,21500469,4,3:38,Williams Free Throw 1 of 2 (12 PTS),nan,87 - 99,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58675,21500469,4,3:38,Williams Free Throw 2 of 2 (13 PTS),nan,87 - 100,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58676,21500469,4,3:24,nan,MISS Marc Morris 10' Jump Bank Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58677,21500469,4,3:22,nan,Caldwell-Pope REBOUND (Off:2 Def:4),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58678,21500469,4,3:15,nan,Jackson OFF.Foul (P2) (J.Orr),nan,202704,Reggie Jackson,DET,201577,Robin Lopez,NYK,0,nan,nan,Foul ,Offensive
+58679,21500469,4,3:15,nan,Jackson Foul Turnover (P3.T9),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+58680,21500469,4,3:15,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58681,21500469,4,3:15,nan,nan,nan,416,Willie Burton,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+58682,21500469,4,2:51,Anthony 16' Jump Shot (24 PTS) (Thomas 2 AST),nan,87 - 102,2546,Carmelo Anthony,NYK,202498,Lance Thomas,NYK,0,nan,nan,Made Shot ,nan
+58683,21500469,4,2:36,nan,Drummond OFF.Foul (P3) (R.Garretson),nan,203083,Andre Drummond,DET,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Offensive
+58684,21500469,4,2:36,nan,Drummond Foul Turnover (P2.T10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+58685,21500469,4,2:36,nan,SUB: Hilliard FOR Marc Morris,nan,202694,Marcus Morris,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+58686,21500469,4,2:36,nan,SUB: Jennings FOR Drummond,nan,203083,Andre Drummond,DET,201943,Brandon Jennings,DET,0,nan,nan,Substitution ,nan
+58687,21500469,4,2:36,nan,SUB: Baynes FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+58688,21500469,4,2:36,nan,SUB: Johnson FOR Jackson,nan,202704,Reggie Jackson,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+58689,21500469,4,2:26,nan,Baynes S.FOUL (P2.PN) (R.Garretson),nan,203382,Aron Baynes,DET,201577,Robin Lopez,NYK,0,nan,nan,Foul ,Shooting
+58690,21500469,4,2:26,Lopez Free Throw 1 of 2 (11 PTS),nan,87 - 103,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58691,21500469,4,2:26,MISS Lopez Free Throw 2 of 2,nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58692,21500469,4,2:25,nan,Ilyasova REBOUND (Off:4 Def:1),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58693,21500469,4,2:06,nan,MISS Ilyasova 25' 3PT Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58694,21500469,4,2:05,Williams REBOUND (Off:0 Def:4),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58695,21500469,4,1:42,Williams 21' Jump Shot (15 PTS) (Lopez 2 AST),nan,87 - 105,202682,Derrick Williams,NYK,201577,Robin Lopez,NYK,0,nan,nan,Made Shot ,nan
+58696,21500469,4,1:28,nan,Hilliard 19' Jump Shot (2 PTS),89 - 105,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+58697,21500469,4,1:07,MISS Anthony 24' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58698,21500469,4,1:06,nan,Ilyasova REBOUND (Off:4 Def:2),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58699,21500469,4,0:58,nan,Jennings  3PT Jump Shot (3 PTS),92 - 105,201943,Brandon Jennings,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+58700,21500469,4,0:36,Williams  3PT Jump Shot (18 PTS) (Anthony 6 AST),nan,92 - 108,202682,Derrick Williams,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+58701,21500469,4,0:28,Lopez S.FOUL (P5.PN) (J.Orr),nan,nan,201577,Robin Lopez,NYK,201943,Brandon Jennings,DET,0,nan,nan,Foul ,Shooting
+58702,21500469,4,0:28,nan,Jennings Free Throw 1 of 2 (4 PTS),93 - 108,201943,Brandon Jennings,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58703,21500469,4,0:28,SUB: Galloway FOR Anthony,nan,nan,2546,Carmelo Anthony,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+58704,21500469,4,0:28,SUB: Early FOR Lopez,nan,nan,201577,Robin Lopez,NYK,203921,Cleanthony Early,NYK,0,nan,nan,Substitution ,nan
+58705,21500469,4,0:28,SUB: Grant FOR Calderon,nan,nan,101181,Jose Calderon,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Substitution ,nan
+58706,21500469,4,0:28,SUB: O'Quinn FOR Thomas,nan,nan,202498,Lance Thomas,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+58707,21500469,4,0:28,nan,Jennings Free Throw 2 of 2 (5 PTS),94 - 108,201943,Brandon Jennings,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58708,21500469,4,0:03,MISS O'Quinn 12' Jump Shot,nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58709,21500469,4,0:03,nan,Johnson REBOUND (Off:0 Def:2),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58710,21500469,4,0:00,nan,Jennings 2' Layup (7 PTS) (Johnson 3 AST),96 - 108,201943,Brandon Jennings,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+58711,21500469,4,0:00,nan,nan,nan,491,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+58712,21500469,4,0:00,nan,nan,96 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

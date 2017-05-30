@@ -1,0 +1,143 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+209045,21600449,4,12:00,nan,nan,68 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+209046,21600449,4,11:36,MISS Evans 25' 3PT Jump Shot,nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209047,21600449,4,11:36,nan,Johnson REBOUND (Off:0 Def:4),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209048,21600449,4,11:23,nan,MISS Johnson 2' Fadeaway Jumper,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209049,21600449,4,11:22,Ajinca REBOUND (Off:1 Def:2),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209050,21600449,4,11:22,nan,Johnson S.FOUL (P3.T1) (S.Foster),nan,204020,Tyler Johnson,MIA,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Shooting
+209051,21600449,4,11:22,Evans Free Throw 1 of 2 (6 PTS),nan,68 - 65,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209052,21600449,4,11:22,Evans Free Throw 2 of 2 (7 PTS),nan,68 - 66,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209053,21600449,4,11:01,nan,MISS Johnson 3' Layup,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209054,21600449,4,11:01,Moore REBOUND (Off:0 Def:2),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209055,21600449,4,10:52,S. Hill 28' 3PT Jump Shot (3 PTS) (Evans 5 AST),nan,68 - 69,203524,Solomon Hill,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+209056,21600449,4,10:23,nan,Heat Turnover: Shot Clock (T#11),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+209057,21600449,4,10:10,MISS Moore 26' 3PT Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209058,21600449,4,10:09,nan,Johnson REBOUND (Off:0 Def:5),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209059,21600449,4,9:56,Jump Ball Moore vs. Johnson: Tip to Richardson,nan,nan,202734,E'Twaun Moore,NOP,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,Jump Ball ,nan
+209060,21600449,4,9:46,S. Hill STEAL (1 STL),Reed Lost Ball Turnover (P1.T12),nan,203186,Willie Reed,MIA,203524,Solomon Hill,NOP,0,nan,nan,Turnover ,Lost Ball
+209061,21600449,4,9:32,MISS Evans 19' Jump Shot,nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209062,21600449,4,9:31,nan,Reed REBOUND (Off:1 Def:5),nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209063,21600449,4,9:17,nan,Johnson 26' 3PT Jump Shot (9 PTS) (Johnson 1 AST),71 - 69,201949,James Johnson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+209064,21600449,4,9:01,MISS Moore 2' Layup,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209065,21600449,4,8:58,Ajinca REBOUND (Off:2 Def:2),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209066,21600449,4,8:54,MISS Ajinca 1' Layup,nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209067,21600449,4,8:52,nan,Johnson REBOUND (Off:0 Def:6),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209068,21600449,4,8:52,Galloway P.FOUL (P3.T1) (K.Scott),nan,nan,204038,Langston Galloway,NOP,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Personal
+209069,21600449,4,8:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+209070,21600449,4,8:52,SUB: Davis FOR Ajinca,nan,nan,201582,Alexis Ajinca,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+209071,21600449,4,8:52,nan,Richardson Free Throw 1 of 2 (6 PTS),72 - 69,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209072,21600449,4,8:52,nan,Richardson Free Throw 2 of 2 (7 PTS),73 - 69,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209073,21600449,4,8:43,nan,Richardson P.FOUL (P4.T2) (S.Foster),nan,1626196,Josh Richardson,MIA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+209074,21600449,4,8:30,MISS Evans 3' Jump Shot,nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209075,21600449,4,8:29,nan,Johnson REBOUND (Off:0 Def:7),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209076,21600449,4,8:13,nan,MISS Richardson 4' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209077,21600449,4,8:13,Evans REBOUND (Off:0 Def:5),nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209078,21600449,4,8:09,S. Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+209079,21600449,4,8:09,SUB: Holiday FOR Evans,nan,nan,201936,Tyreke Evans,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+209080,21600449,4,7:54,nan,Johnson 11' Fadeaway Jumper (7 PTS),75 - 69,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+209081,21600449,4,7:34,MISS Moore 20' Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209082,21600449,4,7:34,nan,Reed REBOUND (Off:1 Def:6),nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209083,21600449,4,7:17,nan,Johnson 14' Jump Shot (11 PTS),77 - 69,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+209084,21600449,4,7:03,MISS Holiday 26' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209085,21600449,4,7:03,nan,Reed REBOUND (Off:1 Def:7),nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209086,21600449,4,6:41,nan,MISS Richardson 26' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209087,21600449,4,6:40,Davis REBOUND (Off:3 Def:12),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209088,21600449,4,6:25,MISS Holiday 3' Layup,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209089,21600449,4,6:25,Davis REBOUND (Off:4 Def:12),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209090,21600449,4,6:21,nan,Reed P.FOUL (P3.T3) (K.Scott),nan,203186,Willie Reed,MIA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+209091,21600449,4,6:21,nan,SUB: Winslow FOR Johnson,nan,201949,James Johnson,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Substitution ,nan
+209092,21600449,4,6:21,nan,SUB: Whiteside FOR Babbitt,nan,202337,Luke Babbitt,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+209093,21600449,4,6:21,nan,SUB: Dragic FOR Reed,nan,203186,Willie Reed,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+209094,21600449,4,6:21,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209095,21600449,4,6:14,Galloway 16' Jump Shot (5 PTS) (Davis 1 AST),nan,77 - 71,204038,Langston Galloway,NOP,203076,Anthony Davis,NOP,0,nan,nan,Made Shot ,nan
+209096,21600449,4,5:52,nan,MISS Winslow 20' Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209097,21600449,4,5:51,Davis REBOUND (Off:4 Def:13),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209098,21600449,4,5:44,MISS S. Hill 3' Jump Shot,nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209099,21600449,4,5:44,nan,Whiteside REBOUND (Off:4 Def:10),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209100,21600449,4,5:32,nan,Dragic Traveling Turnover (P4.T13),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+209101,21600449,4,5:32,nan,SUB: Johnson FOR Richardson,nan,1626196,Josh Richardson,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+209102,21600449,4,5:20,S. Hill OFF.Foul (P2) (K.Scott),nan,nan,203524,Solomon Hill,NOP,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Offensive
+209103,21600449,4,5:20,S. Hill Foul Turnover (P2.T10),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+209104,21600449,4,5:08,nan,Heat Turnover: 3 Second Violation (T#14),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+209105,21600449,4,4:41,Moore 26' 3PT Jump Shot (5 PTS),nan,77 - 74,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+209106,21600449,4,4:38,nan,Johnson Offensive Charge Foul (P1.T4) (K.Scott),nan,201949,James Johnson,MIA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Offensive Charge
+209107,21600449,4,4:38,nan,Johnson Offensive Foul Turnover (P1.T15),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Offensive Foul Turnover
+209108,21600449,4,4:38,SUB: Cunningham FOR S. Hill,nan,nan,203524,Solomon Hill,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+209109,21600449,4,4:28,MISS Holiday 6' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209110,21600449,4,4:27,Davis REBOUND (Off:5 Def:13),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209111,21600449,4,4:27,Davis 2' Layup (26 PTS),nan,77 - 76,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+209112,21600449,4,4:27,nan,Heat Timeout: Regular (Reg.4 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209113,21600449,4,4:04,Moore BLOCK (1 BLK),MISS Winslow 6' Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,202734,E'Twaun Moore,NOP,Missed Shot ,nan
+209114,21600449,4,4:02,Moore REBOUND (Off:0 Def:3),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209115,21600449,4,3:49,Galloway 26' 3PT Jump Shot (8 PTS) (Holiday 4 AST),nan,77 - 79,204038,Langston Galloway,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+209116,21600449,4,3:31,Holiday STEAL (1 STL),Whiteside Lost Ball Turnover (P1.T16),nan,202355,Hassan Whiteside,MIA,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Lost Ball
+209117,21600449,4,3:28,nan,Johnson S.FOUL (P4.PN) (C.Blair),nan,204020,Tyler Johnson,MIA,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Shooting
+209118,21600449,4,3:28,Holiday Free Throw 1 of 2 (16 PTS),nan,77 - 80,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209119,21600449,4,3:28,Holiday Free Throw 2 of 2 (17 PTS),nan,77 - 81,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209120,21600449,4,3:13,nan,MISS Johnson 4' Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209121,21600449,4,3:11,nan,Whiteside REBOUND (Off:5 Def:10),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209122,21600449,4,3:08,nan,Whiteside 3' Hook Shot (8 PTS),79 - 81,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+209123,21600449,4,2:52,MISS Davis 25' 3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209124,21600449,4,2:51,nan,Johnson REBOUND (Off:0 Def:8),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209125,21600449,4,2:33,nan,MISS Whiteside 8' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209126,21600449,4,2:32,nan,Johnson REBOUND (Off:1 Def:8),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209127,21600449,4,2:27,nan,MISS Johnson 3' Tip Layup Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209128,21600449,4,2:24,Holiday REBOUND (Off:0 Def:2),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209129,21600449,4,2:19,MISS Cunningham 3' Layup,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209130,21600449,4,2:16,nan,Dragic REBOUND (Off:0 Def:4),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209131,21600449,4,2:08,nan,Johnson 18' Jump Shot (9 PTS) (Dragic 5 AST),81 - 81,204020,Tyler Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+209132,21600449,4,1:59,Davis 18' Jump Shot (28 PTS) (Holiday 5 AST),nan,81 - 83,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+209133,21600449,4,1:38,nan,MISS Winslow 6' Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209134,21600449,4,1:38,Davis REBOUND (Off:5 Def:14),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209135,21600449,4,1:33,Holiday 2' Layup (19 PTS),nan,81 - 85,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+209136,21600449,4,1:33,nan,Heat Timeout: Regular (Reg.5 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209137,21600449,4,1:33,nan,SUB: Richardson FOR Johnson,nan,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Substitution ,nan
+209138,21600449,4,1:25,Davis BLOCK (4 BLK),MISS Dragic 4' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+209139,21600449,4,1:21,nan,Whiteside REBOUND (Off:6 Def:10),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209140,21600449,4,1:17,nan,Whiteside 3' Layup (10 PTS),83 - 85,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+209141,21600449,4,1:13,Galloway 25' 3PT Jump Shot (11 PTS) (Holiday 6 AST),nan,83 - 88,204038,Langston Galloway,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+209142,21600449,4,1:07,nan,Dragic 22' Jump Shot (23 PTS) (Richardson 2 AST),85 - 88,201609,Goran Dragic,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+209143,21600449,4,1:07,nan,nan,nan,510,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+209144,21600449,4,1:00,Holiday 3' Layup (21 PTS),nan,85 - 90,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+209145,21600449,4,0:48,nan,MISS Johnson 12' Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209146,21600449,4,0:48,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209147,21600449,4,0:48,nan,Whiteside P.FOUL (P3.PN) (S.Foster),nan,202355,Hassan Whiteside,MIA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+209148,21600449,4,0:48,MISS Davis Free Throw 1 of 2,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209149,21600449,4,0:48,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209150,21600449,4,0:48,MISS Davis Free Throw 2 of 2,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209151,21600449,4,0:48,nan,Winslow REBOUND (Off:0 Def:7),nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209152,21600449,4,0:48,nan,Heat Timeout: Short (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+209153,21600449,4,0:46,Galloway P.FOUL (P4.T2) (C.Blair),nan,nan,204038,Langston Galloway,NOP,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+209154,21600449,4,0:42,nan,Johnson 3' Layup (11 PTS) (Richardson 3 AST),87 - 90,204020,Tyler Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+209155,21600449,4,0:24,MISS Holiday 2' Layup,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209156,21600449,4,0:23,Davis REBOUND (Off:6 Def:14),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209157,21600449,4,0:20,MISS Davis 1' Tip Layup Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209158,21600449,4,0:17,Davis REBOUND (Off:7 Def:14),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209159,21600449,4,0:17,MISS Davis 1' Layup,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209160,21600449,4,0:16,nan,Whiteside REBOUND (Off:6 Def:11),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209161,21600449,4,0:16,nan,MISS Johnson 4' Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209162,21600449,4,0:16,nan,Whiteside REBOUND (Off:7 Def:11),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209163,21600449,4,0:16,Cunningham P.FOUL (P4.PN) (K.Scott),nan,nan,201967,Dante Cunningham,NOP,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal
+209164,21600449,4,0:16,nan,MISS Whiteside Free Throw 1 of 2,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209165,21600449,4,0:16,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209166,21600449,4,0:16,SUB: Ajinca FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+209167,21600449,4,0:16,nan,MISS Whiteside Free Throw 2 of 2,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209168,21600449,4,0:14,Davis REBOUND (Off:7 Def:15),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209169,21600449,4,0:14,PELICANS Timeout: Regular (Full 6 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209170,21600449,4,0:14,SUB: Moore FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+209171,21600449,4,0:14,SUB: Hield FOR Ajinca,nan,nan,201582,Alexis Ajinca,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+209172,21600449,4,0:14,nan,SUB: Johnson FOR Whiteside,nan,202355,Hassan Whiteside,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+209173,21600449,4,0:14,PELICANS Timeout: Short (Full 6 Short 1),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+209174,21600449,4,0:09,nan,Johnson P.FOUL (P2.PN) (K.Scott),nan,201949,James Johnson,MIA,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Personal
+209175,21600449,4,0:09,MISS Holiday Free Throw 1 of 2,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209176,21600449,4,0:09,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209177,21600449,4,0:09,nan,SUB: Whiteside FOR Dragic,nan,201609,Goran Dragic,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+209178,21600449,4,0:09,Holiday Free Throw 2 of 2 (22 PTS),nan,87 - 91,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209179,21600449,4,0:09,nan,Heat Timeout: Short (Reg.5 Short 2),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+209180,21600449,4,0:09,nan,SUB: Dragic FOR Whiteside,nan,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+209181,21600449,4,0:09,SUB: S. Hill FOR Hield,nan,nan,1627741,Buddy Hield,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+209182,21600449,4,0:09,SUB: Cunningham FOR Galloway,nan,nan,204038,Langston Galloway,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+209183,21600449,4,0:04,nan,MISS Richardson 2' Layup,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209184,21600449,4,0:03,nan,Johnson REBOUND (Off:2 Def:8),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209185,21600449,4,0:00,Holiday STEAL (2 STL),Johnson Bad Pass Turnover (P2.T17),nan,201949,James Johnson,MIA,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+209186,21600449,4,0:00,nan,nan,87 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

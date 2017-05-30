@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+199393,21600371,4,12:00,nan,nan,95 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+199394,21600371,4,11:40,MISS Moore 26' 3PT Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199395,21600371,4,11:39,nan,Livingston REBOUND (Off:0 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199396,21600371,4,11:22,nan,MISS Durant 9' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199397,21600371,4,11:21,Jones REBOUND (Off:1 Def:7),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199398,21600371,4,11:13,MISS Frazier 2' Layup,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199399,21600371,4,11:13,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199400,21600371,4,10:55,nan,MISS Thompson 1' Layup,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199401,21600371,4,10:55,Jones REBOUND (Off:1 Def:8),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199402,21600371,4,10:45,Galloway 1' Driving Layup (20 PTS) (Frazier 5 AST),nan,95 - 96,204038,Langston Galloway,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+199403,21600371,4,10:29,nan,MISS West 7' Hook Shot,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199404,21600371,4,10:27,Jones REBOUND (Off:1 Def:9),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199405,21600371,4,10:21,MISS Galloway 27' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199406,21600371,4,10:21,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199407,21600371,4,10:06,Frazier STEAL (1 STL),Durant Lost Ball Turnover (P3.T9),nan,201142,Kevin Durant,GSW,204025,Tim Frazier,NOP,0,nan,nan,Turnover ,Lost Ball
+199408,21600371,4,9:59,Jones 1' Cutting Layup Shot (6 PTS) (Frazier 6 AST),nan,95 - 98,203093,Terrence Jones,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+199409,21600371,4,9:36,nan,MISS Thompson 27' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199410,21600371,4,9:34,S. Hill REBOUND (Off:1 Def:4),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199411,21600371,4,9:24,Jones  Layup (8 PTS) (S. Hill 1 AST),nan,95 - 100,203093,Terrence Jones,NOP,203524,Solomon Hill,NOP,0,nan,nan,Made Shot ,nan
+199412,21600371,4,9:24,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+199413,21600371,4,9:05,Jones BLOCK (2 BLK),MISS West 3' Layup,nan,2561,David West,GSW,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+199414,21600371,4,9:03,nan,Iguodala REBOUND (Off:1 Def:4),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199415,21600371,4,9:02,nan,Livingston  Dunk (4 PTS) (Iguodala 2 AST),97 - 100,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+199416,21600371,4,8:46,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199417,21600371,4,8:45,nan,West REBOUND (Off:0 Def:2),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199418,21600371,4,8:41,nan,Durant  Driving Dunk (27 PTS),99 - 100,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+199419,21600371,4,8:19,MISS Jones 26' 3PT Jump Shot,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199420,21600371,4,8:18,nan,Iguodala REBOUND (Off:1 Def:5),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199421,21600371,4,8:00,nan,Iguodala 26' 3PT Jump Shot (6 PTS) (West 2 AST),102 - 100,2738,Andre Iguodala,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+199422,21600371,4,7:36,Frazier 26' 3PT Step Back Jump Shot (13 PTS) (Moore 5 AST),nan,102 - 103,204025,Tim Frazier,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Made Shot ,nan
+199423,21600371,4,7:25,Jones STEAL (1 STL),West Bad Pass Turnover (P1.T10),nan,2561,David West,GSW,203093,Terrence Jones,NOP,0,nan,nan,Turnover ,Bad Pass
+199424,21600371,4,7:14,Moore 6' Jump Shot (6 PTS) (Frazier 7 AST),nan,102 - 105,202734,E'Twaun Moore,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+199425,21600371,4,6:49,nan,MISS Durant 30' 3PT Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199426,21600371,4,6:48,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199427,21600371,4,6:48,SUB: Davis FOR Jones,nan,nan,203093,Terrence Jones,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+199428,21600371,4,6:48,SUB: Holiday FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+199429,21600371,4,6:48,nan,SUB: Green FOR Durant,nan,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+199430,21600371,4,6:28,MISS Davis 13' Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199431,21600371,4,6:28,nan,West REBOUND (Off:0 Def:3),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199432,21600371,4,6:20,nan,Thompson 2' Cutting Layup Shot (17 PTS) (West 3 AST),104 - 105,202691,Klay Thompson,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+199433,21600371,4,5:59,MISS S. Hill 26' 3PT Jump Shot,nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199434,21600371,4,5:57,nan,Green REBOUND (Off:0 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199435,21600371,4,5:47,S. Hill P.FOUL (P3.T1) (Z.Zarba),nan,nan,203524,Solomon Hill,NOP,2561,David West,GSW,0,nan,nan,Foul ,Personal
+199436,21600371,4,5:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+199437,21600371,4,5:47,SUB: Jones FOR S. Hill,nan,nan,203524,Solomon Hill,NOP,203093,Terrence Jones,NOP,0,nan,nan,Substitution ,nan
+199438,21600371,4,5:47,nan,SUB: Curry FOR Thompson,nan,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+199439,21600371,4,5:47,nan,SUB: Clark FOR West,nan,2561,David West,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+199440,21600371,4,5:47,SUB: Moore FOR Jones,nan,nan,203093,Terrence Jones,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+199441,21600371,4,5:35,nan,MISS Curry 1' Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199442,21600371,4,5:34,Davis REBOUND (Off:0 Def:7),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199443,21600371,4,5:13,MISS Holiday 25' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199444,21600371,4,5:12,nan,Iguodala REBOUND (Off:1 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199445,21600371,4,5:03,nan,Green 27' 3PT Jump Shot (10 PTS) (Iguodala 3 AST),107 - 105,203110,Draymond Green,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+199446,21600371,4,4:46,Davis 13' Fadeaway Jumper (27 PTS) (Frazier 8 AST),nan,107 - 107,203076,Anthony Davis,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+199447,21600371,4,4:33,nan,MISS Curry 26' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199448,21600371,4,4:31,Galloway REBOUND (Off:1 Def:3),nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199449,21600371,4,4:20,MISS Frazier 4' Driving Layup,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199450,21600371,4,4:19,nan,Green REBOUND (Off:0 Def:9),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199451,21600371,4,4:14,Holiday BLOCK (1 BLK),MISS Clark 2' Layup,nan,203546,Ian Clark,GSW,0,nan,nan,201950,Jrue Holiday,NOP,Missed Shot ,nan
+199452,21600371,4,4:11,Galloway REBOUND (Off:1 Def:4),nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199453,21600371,4,4:11,nan,Livingston S.FOUL (P1.T1) (B.Barnaky),nan,2733,Shaun Livingston,GSW,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+199454,21600371,4,4:11,Davis Free Throw 1 of 2 (28 PTS),nan,107 - 108,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+199455,21600371,4,4:11,MISS Davis Free Throw 2 of 2,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+199456,21600371,4,4:09,nan,Green REBOUND (Off:0 Def:10),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199457,21600371,4,3:54,Galloway STEAL (2 STL),Green Bad Pass Turnover (P2.T11),nan,203110,Draymond Green,GSW,204038,Langston Galloway,NOP,0,nan,nan,Turnover ,Bad Pass
+199458,21600371,4,3:47,Galloway Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+199459,21600371,4,3:47,nan,SUB: Thompson FOR Clark,nan,203546,Ian Clark,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+199460,21600371,4,3:47,nan,SUB: Durant FOR Livingston,nan,2733,Shaun Livingston,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+199461,21600371,4,3:30,Davis BLOCK (5 BLK),MISS Green 6' Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+199462,21600371,4,3:28,Galloway REBOUND (Off:1 Def:5),nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199463,21600371,4,3:20,Davis Lost Ball Turnover (P5.T15),Green STEAL (3 STL),nan,203076,Anthony Davis,NOP,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+199464,21600371,4,3:14,nan,Curry 20' Jump Shot (28 PTS) (Thompson 3 AST),109 - 108,201939,Stephen Curry,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+199465,21600371,4,3:00,MISS Davis 13' Jump Shot,Thompson BLOCK (2 BLK),nan,203076,Anthony Davis,NOP,0,nan,nan,202691,Klay Thompson,GSW,Missed Shot ,nan
+199466,21600371,4,2:58,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199467,21600371,4,2:58,PELICANS Timeout: Regular (Full 5 Short 1),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+199468,21600371,4,2:58,nan,nan,nan,482,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+199469,21600371,4,2:58,SUB: S. Hill FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+199470,21600371,4,2:58,Jump Ball Davis vs. Thompson: Tip to Holiday,nan,nan,203076,Anthony Davis,NOP,202691,Klay Thompson,GSW,201950,Jrue Holiday,NOP,Jump Ball ,nan
+199471,21600371,4,2:51,Davis STEAL (2 STL),Thompson Poss Lost Ball Turnover (P2.T12),nan,202691,Klay Thompson,GSW,203076,Anthony Davis,NOP,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+199472,21600371,4,2:51,Holiday Bad Pass Turnover (P3.T16),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+199473,21600371,4,2:32,nan,MISS Thompson 26' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199474,21600371,4,2:30,Holiday REBOUND (Off:2 Def:5),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199475,21600371,4,2:14,MISS Holiday 26' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199476,21600371,4,2:13,nan,Curry REBOUND (Off:2 Def:2),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199477,21600371,4,2:08,S. Hill P.FOUL (P4.T2) (B.Barnaky),nan,nan,203524,Solomon Hill,NOP,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+199478,21600371,4,1:53,nan,Curry 3' Layup (30 PTS) (Green 10 AST),111 - 108,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+199479,21600371,4,1:43,MISS Holiday 2' Layup,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199480,21600371,4,1:43,nan,Green REBOUND (Off:0 Def:11),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199481,21600371,4,1:36,nan,MISS Thompson 24' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199482,21600371,4,1:33,nan,Iguodala REBOUND (Off:2 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199483,21600371,4,1:29,nan,MISS Thompson  3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199484,21600371,4,1:28,Davis REBOUND (Off:0 Def:8),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199485,21600371,4,1:28,nan,Iguodala L.B.FOUL (P2.T2) (Z.Zarba),nan,2738,Andre Iguodala,GSW,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Loose Ball
+199486,21600371,4,1:21,MISS Frazier 27' 3PT Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199487,21600371,4,1:20,nan,Green REBOUND (Off:0 Def:12),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199488,21600371,4,1:05,nan,MISS Durant 14' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199489,21600371,4,1:03,nan,Green REBOUND (Off:1 Def:12),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199490,21600371,4,0:47,nan,MISS Curry 21' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199491,21600371,4,0:46,S. Hill REBOUND (Off:1 Def:5),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199492,21600371,4,0:45,PELICANS Timeout: Regular (Full 6 Short 1),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+199493,21600371,4,0:45,SUB: Moore FOR S. Hill,nan,nan,203524,Solomon Hill,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+199494,21600371,4,0:34,MISS Davis 2' Layup,Durant BLOCK (2 BLK),nan,203076,Anthony Davis,NOP,0,nan,nan,201142,Kevin Durant,GSW,Missed Shot ,nan
+199495,21600371,4,0:32,nan,Green REBOUND (Off:1 Def:13),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199496,21600371,4,0:16,nan,MISS Durant 19' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199497,21600371,4,0:15,Moore REBOUND (Off:0 Def:1),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199498,21600371,4,0:14,PELICANS Timeout: Short (Full 6 Short 2),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+199499,21600371,4,0:13,nan,Thompson Personal Block Foul (P2.PN) (Z.Zarba),nan,202691,Klay Thompson,GSW,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Personal Block
+199500,21600371,4,0:13,Holiday Free Throw 1 of 2 (10 PTS),nan,111 - 109,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+199501,21600371,4,0:13,SUB: S. Hill FOR Frazier,nan,nan,204025,Tim Frazier,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+199502,21600371,4,0:13,MISS Holiday Free Throw 2 of 2,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+199503,21600371,4,0:10,Moore REBOUND (Off:1 Def:1),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199504,21600371,4,0:02,Davis Lost Ball Turnover (P6.T17),Green STEAL (4 STL),nan,203076,Anthony Davis,NOP,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+199505,21600371,4,0:02,Galloway P.FOUL (P1.T3) (B.Barnaky),nan,nan,204038,Langston Galloway,NOP,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+199506,21600371,4,0:02,Davis T.FOUL (P2.T3) (Z.Zarba),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Foul ,Technical
+199507,21600371,4,0:02,nan,MISS Curry Free Throw Technical,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+199508,21600371,4,0:02,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+199509,21600371,4,0:02,nan,Warriors Timeout: Regular (Reg.5 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+199510,21600371,4,0:02,nan,Warriors Timeout: Short (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+199511,21600371,4,0:02,SUB: Ajinca FOR S. Hill,nan,nan,203524,Solomon Hill,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+199512,21600371,4,0:01,Galloway Personal Take Foul (P2.PN) (B.Barnaky),nan,nan,204038,Langston Galloway,NOP,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal Take
+199513,21600371,4,0:01,nan,Green Free Throw 1 of 2 (11 PTS),112 - 109,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+199514,21600371,4,0:01,SUB: Williams FOR Ajinca,nan,nan,201582,Alexis Ajinca,NOP,202130,Reggie Williams,NOP,0,nan,nan,Substitution ,nan
+199515,21600371,4,0:01,nan,Green Free Throw 2 of 2 (12 PTS),113 - 109,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+199516,21600371,4,0:00,MISS Galloway 34' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+199517,21600371,4,0:00,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+199518,21600371,4,0:00,nan,nan,113 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

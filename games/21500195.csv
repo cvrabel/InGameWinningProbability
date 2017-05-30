@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+24576,21500195,4,12:00,nan,nan,61 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+24577,21500195,4,11:49,West OFF.Foul (P4) (J.Williams),nan,nan,2561,David West,SAS,1713,Vince Carter,MEM,0,nan,nan,Foul ,Offensive
+24578,21500195,4,11:49,West Foul Turnover (P3.T13),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+24579,21500195,4,11:34,nan,Green 8' Running Jump Shot (6 PTS) (Green 1 AST),63 - 74,203210,JaMychal Green,MEM,201145,Jeff Green,MEM,0,nan,nan,Made Shot ,nan
+24580,21500195,4,11:26,nan,Green P.FOUL (P4.T1) (B.Spooner),nan,203210,JaMychal Green,MEM,2561,David West,SAS,0,nan,nan,Foul ,Personal
+24581,21500195,4,11:15,MISS Ginobili 2' Driving Layup,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24582,21500195,4,11:14,nan,Chalmers REBOUND (Off:0 Def:2),nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24583,21500195,4,10:58,nan,Green 19' Jump Shot (8 PTS) (Chalmers 4 AST),65 - 74,203210,JaMychal Green,MEM,201596,Mario Chalmers,MEM,0,nan,nan,Made Shot ,nan
+24584,21500195,4,10:47,MISS Anderson 6' Running Jump Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24585,21500195,4,10:47,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24586,21500195,4,10:47,nan,Chalmers L.B.FOUL (P3.T2) (J.Williams),nan,201596,Mario Chalmers,MEM,2561,David West,SAS,0,nan,nan,Foul ,Loose Ball
+24587,21500195,4,10:34,Mills Bad Pass Turnover (P1.T14),Carter STEAL (1 STL),nan,201988,Patty Mills,SAS,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Bad Pass
+24588,21500195,4,10:16,nan,MISS Green 14' Jump Shot,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24589,21500195,4,10:15,Ginobili REBOUND (Off:1 Def:3),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24590,21500195,4,10:10,nan,Green P.FOUL (P5.T3) (J.Williams),nan,203210,JaMychal Green,MEM,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal
+24591,21500195,4,10:10,nan,SUB: Gasol FOR Green,nan,203210,JaMychal Green,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+24592,21500195,4,9:54,Green Lost Ball Turnover (P3.T15),Chalmers STEAL (1 STL),nan,201980,Danny Green,SAS,201596,Mario Chalmers,MEM,0,nan,nan,Turnover ,Lost Ball
+24593,21500195,4,9:45,nan,Carter OFF.Foul (P1) (J.Williams),nan,1713,Vince Carter,MEM,201988,Patty Mills,SAS,0,nan,nan,Foul ,Offensive
+24594,21500195,4,9:45,nan,Carter Foul Turnover (P3.T16),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+24595,21500195,4,9:45,SUB: Duncan FOR West,nan,nan,2561,David West,SAS,1495,Tim Duncan,SAS,0,nan,nan,Substitution ,nan
+24596,21500195,4,9:24,Duncan 5' Jump Bank Shot (4 PTS) (Green 2 AST),nan,65 - 76,1495,Tim Duncan,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+24597,21500195,4,9:12,nan,MISS Lee 1' Cutting Layup Shot,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24598,21500195,4,9:11,Anderson REBOUND (Off:0 Def:4),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24599,21500195,4,9:04,nan,Chalmers S.FOUL (P4.T4) (T.Maddox),nan,201596,Mario Chalmers,MEM,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Shooting
+24600,21500195,4,9:04,Anderson Free Throw 1 of 2 (3 PTS),nan,65 - 77,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+24601,21500195,4,9:04,Anderson Free Throw 2 of 2 (4 PTS),nan,65 - 78,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+24602,21500195,4,8:40,Duncan BLOCK (2 BLK),MISS Chalmers 1' Driving Layup,nan,201596,Mario Chalmers,MEM,0,nan,nan,1495,Tim Duncan,SAS,Missed Shot ,nan
+24603,21500195,4,8:40,nan,Gasol REBOUND (Off:1 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24604,21500195,4,8:40,nan,Grizzlies Turnover: Shot Clock (T#17),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+24605,21500195,4,8:40,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+24606,21500195,4,8:40,nan,SUB: Barnes FOR Green,nan,201145,Jeff Green,MEM,2440,Matt Barnes,MEM,0,nan,nan,Substitution ,nan
+24607,21500195,4,8:40,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+24608,21500195,4,8:23,Green Out of Bounds Lost Ball Turnover (P4.T16),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+24609,21500195,4,8:05,nan,MISS Lee  Dunk,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24610,21500195,4,8:04,Mills REBOUND (Off:1 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24611,21500195,4,7:39,Anderson 14' Pullup Jump Shot (6 PTS),nan,65 - 80,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+24612,21500195,4,7:16,nan,MISS Gasol 9' Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24613,21500195,4,7:15,nan,Gasol REBOUND (Off:2 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24614,21500195,4,7:11,Leonard P.FOUL (P1.T1) (T.Maddox),nan,nan,202695,Kawhi Leonard,SAS,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Personal
+24615,21500195,4,7:11,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+24616,21500195,4,7:11,nan,SUB: Conley FOR Chalmers,nan,201596,Mario Chalmers,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+24617,21500195,4,7:00,nan,MISS Carter 24' 3PT Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24618,21500195,4,6:59,Anderson REBOUND (Off:0 Def:5),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24619,21500195,4,6:44,Duncan 3 Second Violation Turnover (P3.T17),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+24620,21500195,4,6:23,nan,Barnes 2' Layup (8 PTS) (Gasol 6 AST),67 - 80,2440,Matt Barnes,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+24621,21500195,4,5:54,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24622,21500195,4,5:53,nan,Conley REBOUND (Off:0 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24623,21500195,4,5:44,nan,MISS Conley 2' Layup,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24624,21500195,4,5:43,Green REBOUND (Off:0 Def:3),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24625,21500195,4,5:37,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24626,21500195,4,5:36,Leonard REBOUND (Off:2 Def:4),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24627,21500195,4,5:17,MISS Leonard 24' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24628,21500195,4,5:16,nan,Carter REBOUND (Off:0 Def:3),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24629,21500195,4,4:59,nan,Barnes 6' Jump Bank Shot (10 PTS),69 - 80,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+24630,21500195,4,4:38,Duncan  Layup (6 PTS) (Anderson 2 AST),nan,69 - 82,1495,Tim Duncan,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+24631,21500195,4,4:38,nan,Grizzlies Timeout: Regular (Reg.5 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+24632,21500195,4,4:27,Green S.FOUL (P4.T2) (B.Spooner),nan,nan,201980,Danny Green,SAS,201584,Courtney Lee,MEM,0,nan,nan,Foul ,Shooting
+24633,21500195,4,4:27,nan,Lee Free Throw 1 of 2 (11 PTS),70 - 82,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+24634,21500195,4,4:27,nan,Lee Free Throw 2 of 2 (12 PTS),71 - 82,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+24635,21500195,4,4:04,MISS Parker 12' Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24636,21500195,4,4:03,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24637,21500195,4,4:03,SPURS Turnover: Shot Clock (T#18),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+24638,21500195,4,3:52,nan,Carter 18' Pullup Jump Shot (7 PTS),73 - 82,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+24639,21500195,4,3:27,Anderson 18' Pullup Jump Shot (8 PTS) (Duncan 4 AST),nan,73 - 84,203937,Kyle Anderson,SAS,1495,Tim Duncan,SAS,0,nan,nan,Made Shot ,nan
+24640,21500195,4,3:02,Parker P.FOUL (P1.T3) (J.Williams),nan,nan,2225,Tony Parker,SAS,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+24641,21500195,4,3:02,SUB: Ginobili FOR Green,nan,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+24642,21500195,4,2:54,nan,Conley 2' Driving Layup (14 PTS),75 - 84,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+24643,21500195,4,2:28,MISS Anderson 1' Driving Layup,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24644,21500195,4,2:28,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24645,21500195,4,2:28,Duncan P.FOUL (P5.T4) (J.Williams),nan,nan,1495,Tim Duncan,SAS,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+24646,21500195,4,2:28,SPURS Timeout: Regular (Full 4 Short 2),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+24647,21500195,4,2:12,nan,MISS Carter 18' Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24648,21500195,4,2:11,Duncan REBOUND (Off:2 Def:8),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24649,21500195,4,1:47,MISS Ginobili 2' Layup,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24650,21500195,4,1:46,nan,Carter REBOUND (Off:0 Def:4),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24651,21500195,4,1:43,Anderson S.FOUL (P1.PN) (T.Maddox),nan,nan,203937,Kyle Anderson,SAS,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+24652,21500195,4,1:43,nan,Conley Free Throw 1 of 2 (15 PTS),76 - 84,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+24653,21500195,4,1:43,nan,SUB: Green FOR Carter,nan,1713,Vince Carter,MEM,201145,Jeff Green,MEM,0,nan,nan,Substitution ,nan
+24654,21500195,4,1:43,SUB: Green FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+24655,21500195,4,1:43,nan,Conley Free Throw 2 of 2 (16 PTS),77 - 84,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+24656,21500195,4,1:24,Duncan 12' Floating Jump Shot (8 PTS) (Parker 2 AST),nan,77 - 86,1495,Tim Duncan,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+24657,21500195,4,1:13,nan,Lee 25' 3PT Jump Shot (15 PTS) (Conley 5 AST),80 - 86,201584,Courtney Lee,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+24658,21500195,4,0:54,Duncan 8' Floating Jump Shot (10 PTS) (Parker 3 AST),nan,80 - 88,1495,Tim Duncan,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+24659,21500195,4,0:39,nan,MISS Green 4' Running Jump Shot,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24660,21500195,4,0:39,nan,Gasol REBOUND (Off:3 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24661,21500195,4,0:39,nan,Gasol 2' Putback Layup (8 PTS),82 - 88,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+24662,21500195,4,0:16,Leonard 24' 3PT Jump Shot (18 PTS),nan,82 - 91,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+24663,21500195,4,0:11,nan,MISS Barnes 28' 3PT Jump Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+24664,21500195,4,0:10,Leonard REBOUND (Off:2 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24665,21500195,4,0:08,nan,Barnes P.FOUL (P4.PN) (J.Williams),nan,2440,Matt Barnes,MEM,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+24666,21500195,4,0:08,MISS Leonard Free Throw 1 of 2,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+24667,21500195,4,0:08,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+24668,21500195,4,0:08,SUB: Anderson FOR Duncan,nan,nan,1495,Tim Duncan,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+24669,21500195,4,0:08,SUB: McCallum FOR Green,nan,nan,201980,Danny Green,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+24670,21500195,4,0:08,SUB: Bonner FOR Parker,nan,nan,2225,Tony Parker,SAS,2588,Matt Bonner,SAS,0,nan,nan,Substitution ,nan
+24671,21500195,4,0:08,SUB: Butler FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+24672,21500195,4,0:08,Leonard Free Throw 2 of 2 (19 PTS),nan,82 - 92,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+24673,21500195,4,0:03,Butler BLOCK (1 BLK),MISS Lee 3' Layup,nan,201584,Courtney Lee,MEM,0,nan,nan,2446,Rasual Butler,SAS,Missed Shot ,nan
+24674,21500195,4,0:01,Anderson REBOUND (Off:0 Def:6),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+24675,21500195,4,0:00,nan,nan,82 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

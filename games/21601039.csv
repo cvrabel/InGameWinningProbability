@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+281015,21601039,4,12:00,nan,nan,84 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+281016,21601039,4,11:47,nan,Towns 2' Layup (26 PTS) (Jones 3 AST),86 - 88,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+281017,21601039,4,11:34,nan,Dunn P.FOUL (P2.T1) (J.Williams),nan,1627739,Kris Dunn,MIN,202348,Jordan Crawford,NOP,0,nan,nan,Foul ,Personal
+281018,21601039,4,11:23,MISS Moore 5' Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281019,21601039,4,11:21,nan,Jones REBOUND (Off:0 Def:1),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281020,21601039,4,11:15,nan,MISS Jones 4' Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281021,21601039,4,11:13,Crawford REBOUND (Off:0 Def:2),nan,nan,202348,Jordan Crawford,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281022,21601039,4,11:05,Crawford 28' 3PT Jump Shot (14 PTS) (Frazier 7 AST),nan,86 - 91,202348,Jordan Crawford,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+281023,21601039,4,10:46,nan,MISS Towns 25' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281024,21601039,4,10:45,Cousins REBOUND (Off:0 Def:7),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281025,21601039,4,10:38,Crawford 25' 3PT Jump Shot (17 PTS) (Frazier 8 AST),nan,86 - 94,202348,Jordan Crawford,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+281026,21601039,4,10:36,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+281027,21601039,4,10:27,nan,Towns 20' Jump Shot (28 PTS) (Jones 4 AST),88 - 94,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+281028,21601039,4,10:07,Crawford 13' Turnaround Fadeaway (19 PTS),nan,88 - 96,202348,Jordan Crawford,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281029,21601039,4,9:46,nan,MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281030,21601039,4,9:45,Cousins REBOUND (Off:0 Def:8),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281031,21601039,4,9:42,Moore Lost Ball Turnover (P1.T14),Muhammad STEAL (1 STL),nan,202734,E'Twaun Moore,NOP,203498,Shabazz Muhammad,MIN,0,nan,nan,Turnover ,Lost Ball
+281032,21601039,4,9:39,nan,MISS Towns 6' Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281033,21601039,4,9:38,Moore REBOUND (Off:0 Def:1),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281034,21601039,4,9:33,MISS Crawford 27' 3PT Jump Shot,nan,nan,202348,Jordan Crawford,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281035,21601039,4,9:31,nan,Towns REBOUND (Off:1 Def:4),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281036,21601039,4,9:30,Cunningham STEAL (1 STL),Towns Lost Ball Turnover (P1.T11),nan,1626157,Karl-Anthony Towns,MIN,201967,Dante Cunningham,NOP,0,nan,nan,Turnover ,Lost Ball
+281037,21601039,4,9:29,MISS Cunningham 1' Layup,Dunn BLOCK (2 BLK),nan,201967,Dante Cunningham,NOP,0,nan,nan,1627739,Kris Dunn,MIN,Missed Shot ,nan
+281038,21601039,4,9:28,Cunningham REBOUND (Off:1 Def:2),nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281039,21601039,4,9:26,Cunningham Bad Pass Turnover (P1.T15),Jones STEAL (1 STL),nan,201967,Dante Cunningham,NOP,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Bad Pass
+281040,21601039,4,9:23,nan,MISS Muhammad 3' Driving Layup,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281041,21601039,4,9:22,nan,Jones REBOUND (Off:1 Def:1),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281042,21601039,4,9:22,nan,Muhammad Traveling Turnover (P1.T12),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+281043,21601039,4,9:01,Cousins 2' Driving Layup (15 PTS),nan,88 - 98,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281044,21601039,4,8:54,nan,Rush 26' 3PT Jump Shot (6 PTS) (Jones 5 AST),91 - 98,201575,Brandon Rush,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+281045,21601039,4,8:32,Cousins Lost Ball Turnover (P4.T16),Dunn STEAL (1 STL),nan,202326,DeMarcus Cousins,NOP,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+281046,21601039,4,8:29,nan,Muhammad 1' Layup (16 PTS),93 - 98,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281047,21601039,4,8:29,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+281048,21601039,4,8:29,SUB: Holiday FOR Frazier,nan,nan,204025,Tim Frazier,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+281049,21601039,4,8:29,SUB: Davis FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+281050,21601039,4,8:27,nan,SUB: Dieng FOR Rush,nan,201575,Brandon Rush,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+281051,21601039,4,8:16,Davis 2' Driving Layup (22 PTS) (Holiday 6 AST),nan,93 - 100,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+281052,21601039,4,8:02,nan,MISS Muhammad 7' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281053,21601039,4,8:01,Cousins REBOUND (Off:0 Def:9),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281054,21601039,4,7:49,MISS Cousins 26' 3PT Jump Shot,nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281055,21601039,4,7:48,nan,Jones REBOUND (Off:1 Def:2),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281056,21601039,4,7:37,nan,Muhammad 3' Layup (18 PTS),95 - 100,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281057,21601039,4,7:20,MISS Davis 25' 3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281058,21601039,4,7:19,nan,Muhammad REBOUND (Off:2 Def:1),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281059,21601039,4,7:07,nan,Dunn 10' Floating Jump Shot (2 PTS),97 - 100,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281060,21601039,4,6:54,Holiday 6' Floating Jump Shot (19 PTS),nan,97 - 102,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281061,21601039,4,6:32,nan,Towns  Cutting Dunk Shot (30 PTS) (Jones 6 AST),99 - 102,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+281062,21601039,4,6:12,Holiday 16' Turnaround Jump Shot (21 PTS),nan,99 - 104,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281063,21601039,4,6:09,nan,Timberwolves Timeout: Short (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+281064,21601039,4,6:09,SUB: S. Hill FOR Crawford,nan,nan,202348,Jordan Crawford,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+281065,21601039,4,6:09,nan,SUB: Rubio FOR Dunn,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+281066,21601039,4,6:09,nan,SUB: Wiggins FOR Jones,nan,1626145,Tyus Jones,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+281067,21601039,4,5:59,nan,Dieng Offensive Goaltending Turnover (P3.T13),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+281068,21601039,4,5:50,MISS Holiday 25' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281069,21601039,4,5:49,Cousins REBOUND (Off:1 Def:9),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281070,21601039,4,5:46,MISS Cousins 2' Layup,nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281071,21601039,4,5:46,nan,Muhammad REBOUND (Off:2 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281072,21601039,4,5:22,nan,MISS Towns 19' Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281073,21601039,4,5:21,Cousins REBOUND (Off:1 Def:10),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281074,21601039,4,5:14,S. Hill 26' 3PT Jump Shot (13 PTS) (Holiday 7 AST),nan,99 - 107,203524,Solomon Hill,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+281075,21601039,4,4:55,nan,MISS Towns  3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281076,21601039,4,4:53,S. Hill REBOUND (Off:0 Def:3),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281077,21601039,4,4:41,MISS Cousins 26' 3PT Jump Shot,nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281078,21601039,4,4:40,nan,Muhammad REBOUND (Off:2 Def:3),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281079,21601039,4,4:32,Holiday STEAL (1 STL),Towns Lost Ball Turnover (P2.T14),nan,1626157,Karl-Anthony Towns,MIN,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Lost Ball
+281080,21601039,4,4:22,nan,Rubio P.FOUL (P3.T2) (J.Goble),nan,201937,Ricky Rubio,MIN,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+281081,21601039,4,4:22,SUB: Cunningham FOR Cousins,nan,nan,202326,DeMarcus Cousins,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+281082,21601039,4,4:14,MISS Holiday 22' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281083,21601039,4,4:14,Davis REBOUND (Off:4 Def:6),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281084,21601039,4,4:13,nan,Dieng Violation:Defensive Goaltending (J.Goble),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+281085,21601039,4,4:13,Davis 2' Layup (24 PTS),nan,99 - 109,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281086,21601039,4,3:57,nan,Towns Out of Bounds Lost Ball Turnover (P3.T15),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+281087,21601039,4,3:57,nan,SUB: Rush FOR Dieng,nan,203476,Gorgui Dieng,MIN,201575,Brandon Rush,MIN,0,nan,nan,Substitution ,nan
+281088,21601039,4,3:38,Moore 24' 3PT Jump Shot (10 PTS) (Davis 2 AST),nan,99 - 112,202734,E'Twaun Moore,NOP,203076,Anthony Davis,NOP,0,nan,nan,Made Shot ,nan
+281089,21601039,4,3:18,nan,MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281090,21601039,4,3:18,Davis REBOUND (Off:4 Def:7),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281091,21601039,4,3:14,Moore 2' Layup (12 PTS) (Davis 3 AST),nan,99 - 114,202734,E'Twaun Moore,NOP,203076,Anthony Davis,NOP,0,nan,nan,Made Shot ,nan
+281092,21601039,4,3:12,nan,Timberwolves Timeout: Regular (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+281093,21601039,4,3:01,nan,MISS Muhammad  3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281094,21601039,4,3:00,nan,Towns REBOUND (Off:2 Def:4),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281095,21601039,4,2:57,nan,Towns  Dunk (32 PTS),101 - 114,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281096,21601039,4,2:42,Davis 8' Step Back Jump Shot (26 PTS),nan,101 - 116,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281097,21601039,4,2:27,Cunningham Shooting Block Foul (P2.T1) (J.Goble),nan,nan,201967,Dante Cunningham,NOP,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting Block
+281098,21601039,4,2:27,nan,MISS Towns Free Throw 1 of 2,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+281099,21601039,4,2:27,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+281100,21601039,4,2:27,nan,Towns Free Throw 2 of 2 (33 PTS),102 - 116,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+281101,21601039,4,2:07,MISS Moore 3' Layup,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281102,21601039,4,2:06,Moore REBOUND (Off:1 Def:1),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281103,21601039,4,1:54,Davis 13' Fadeaway Jumper (28 PTS),nan,102 - 118,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281104,21601039,4,1:43,nan,MISS Wiggins 28' 3PT Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281105,21601039,4,1:42,S. Hill REBOUND (Off:0 Def:4),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281106,21601039,4,1:31,MISS Holiday 8' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281107,21601039,4,1:30,Moore REBOUND (Off:2 Def:1),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281108,21601039,4,1:29,Moore 3' Putback Layup (14 PTS),nan,102 - 120,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+281109,21601039,4,1:29,nan,Timberwolves Timeout: Regular (Reg.6 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+281110,21601039,4,1:29,nan,SUB: Dieng FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+281111,21601039,4,1:29,SUB: Diallo FOR Davis,nan,nan,203076,Anthony Davis,NOP,1627767,Cheick Diallo,NOP,0,nan,nan,Substitution ,nan
+281112,21601039,4,1:29,SUB: Crawford FOR Holiday,nan,nan,201950,Jrue Holiday,NOP,202348,Jordan Crawford,NOP,0,nan,nan,Substitution ,nan
+281113,21601039,4,1:29,SUB: Motiejunas FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,202700,Donatas Motiejunas,NOP,0,nan,nan,Substitution ,nan
+281114,21601039,4,1:29,SUB: Cook FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,1626188,Quinn Cook,NOP,0,nan,nan,Substitution ,nan
+281115,21601039,4,1:24,nan,Wiggins 6' Floating Jump Shot (22 PTS),104 - 120,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281116,21601039,4,1:24,Motiejunas S.FOUL (P1.T2) (J.Goble),nan,nan,202700,Donatas Motiejunas,NOP,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+281117,21601039,4,1:24,nan,SUB: Dunn FOR Rubio,nan,201937,Ricky Rubio,MIN,1627739,Kris Dunn,MIN,0,nan,nan,Substitution ,nan
+281118,21601039,4,1:24,nan,Wiggins Free Throw 1 of 1 (23 PTS),105 - 120,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+281119,21601039,4,1:16,Crawford 26' 3PT Jump Shot (22 PTS) (Cook 1 AST),nan,105 - 123,202348,Jordan Crawford,NOP,1626188,Quinn Cook,NOP,0,nan,nan,Made Shot ,nan
+281120,21601039,4,1:01,nan,Wiggins  Driving Dunk (25 PTS) (Dunn 1 AST),107 - 123,203952,Andrew Wiggins,MIN,1627739,Kris Dunn,MIN,0,nan,nan,Made Shot ,nan
+281121,21601039,4,0:47,MISS Diallo 13' Jump Shot,nan,nan,1627767,Cheick Diallo,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281122,21601039,4,0:46,nan,Dieng REBOUND (Off:2 Def:7),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281123,21601039,4,0:35,nan,Muhammad 3' Layup (20 PTS),109 - 123,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+281124,21601039,4,0:35,Crawford S.FOUL (P2.PN) (J.Williams),nan,nan,202348,Jordan Crawford,NOP,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+281125,21601039,4,0:35,nan,SUB: Jones FOR Wiggins,nan,203952,Andrew Wiggins,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Substitution ,nan
+281126,21601039,4,0:35,nan,MISS Muhammad Free Throw 1 of 1,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+281127,21601039,4,0:34,Diallo REBOUND (Off:0 Def:1),nan,nan,1627767,Cheick Diallo,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281128,21601039,4,0:16,MISS Cook 27' 3PT Jump Shot,nan,nan,1626188,Quinn Cook,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281129,21601039,4,0:15,nan,Muhammad REBOUND (Off:2 Def:4),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281130,21601039,4,0:08,nan,MISS Dunn 25' 3PT Jump Shot,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+281131,21601039,4,0:07,S. Hill REBOUND (Off:0 Def:5),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+281132,21601039,4,0:00,nan,nan,109 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

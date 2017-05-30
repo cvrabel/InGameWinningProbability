@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+194030,21600327,4,12:00,nan,nan,92 - 65,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+194031,21600327,4,11:49,nan,Frye P.FOUL (P1.T1) (L.Richardson),nan,101112,Channing Frye,CLE,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+194032,21600327,4,11:41,nan,Frye Violation:Kicked Ball (M.Callahan),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+194033,21600327,4,11:30,MISS Jennings 12' Jump Shot,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194034,21600327,4,11:29,nan,Thompson REBOUND (Off:6 Def:13),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194035,21600327,4,11:10,Vujacic P.FOUL (P4.T1) (J.Tiven),nan,nan,2756,Sasha Vujacic,NYK,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+194036,21600327,4,11:01,nan,Irving 15' Fadeaway Jumper (25 PTS),94 - 65,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194037,21600327,4,10:53,Jennings 1' Driving Layup (15 PTS),nan,94 - 67,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+194038,21600327,4,10:53,nan,Frye S.FOUL (P2.T2) (L.Richardson),nan,101112,Channing Frye,CLE,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Shooting
+194039,21600327,4,10:53,Jennings Free Throw 1 of 1 (16 PTS),nan,94 - 68,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+194040,21600327,4,10:42,nan,Irving 1' Driving Layup (27 PTS),96 - 68,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194041,21600327,4,10:42,Porzingis S.FOUL (P5.T2) (J.Tiven),nan,nan,204001,Kristaps Porzingis,NYK,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+194042,21600327,4,10:42,nan,Irving Free Throw 1 of 1 (28 PTS),97 - 68,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+194043,21600327,4,10:16,MISS Holiday 8' Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194044,21600327,4,10:15,nan,Shumpert REBOUND (Off:0 Def:4),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194045,21600327,4,10:10,Holiday S.FOUL (P1.T3) (M.Callahan),nan,nan,203200,Justin Holiday,NYK,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+194046,21600327,4,10:10,nan,Thompson Free Throw 1 of 2 (2 PTS),98 - 68,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+194047,21600327,4,10:10,SUB: Ndour FOR Anthony,nan,nan,2546,Carmelo Anthony,NYK,1626254,Maurice Ndour,NYK,0,nan,nan,Substitution ,nan
+194048,21600327,4,10:10,SUB: Hernangomez FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Substitution ,nan
+194049,21600327,4,10:10,SUB: Kuzminskas FOR Jennings,nan,nan,201943,Brandon Jennings,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Substitution ,nan
+194050,21600327,4,10:10,SUB: Baker FOR Vujacic,nan,nan,2756,Sasha Vujacic,NYK,1627758,Ron Baker,NYK,0,nan,nan,Substitution ,nan
+194051,21600327,4,10:10,SUB: O'Quinn FOR Holiday,nan,nan,203200,Justin Holiday,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+194052,21600327,4,10:10,nan,SUB: Felder FOR Irving,nan,202681,Kyrie Irving,CLE,1627770,Kay Felder,CLE,0,nan,nan,Substitution ,nan
+194053,21600327,4,10:10,nan,Thompson Free Throw 2 of 2 (3 PTS),99 - 68,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+194054,21600327,4,9:51,Baker 15' Step Back Jump Shot (2 PTS) (Kuzminskas 1 AST),nan,99 - 70,1627758,Ron Baker,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Made Shot ,nan
+194055,21600327,4,9:38,nan,MISS Felder 14' Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194056,21600327,4,9:37,O'Quinn REBOUND (Off:1 Def:3),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194057,21600327,4,9:33,O'Quinn Bad Pass Turnover (P1.T13),Shumpert STEAL (1 STL),nan,203124,Kyle O'Quinn,NYK,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+194058,21600327,4,9:30,Ndour STEAL (1 STL),Shumpert Bad Pass Turnover (P2.T10),nan,202697,Iman Shumpert,CLE,1626254,Maurice Ndour,NYK,0,nan,nan,Turnover ,Bad Pass
+194059,21600327,4,9:23,MISS Hernangomez 15' Jump Shot,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194060,21600327,4,9:22,nan,Jefferson REBOUND (Off:0 Def:3),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194061,21600327,4,9:03,nan,MISS Felder 1' Driving Layup,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194062,21600327,4,9:02,Baker REBOUND (Off:0 Def:1),nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194063,21600327,4,9:01,nan,Thompson P.FOUL (P2.T3) (J.Tiven),nan,202684,Tristan Thompson,CLE,1627758,Ron Baker,NYK,0,nan,nan,Foul ,Personal
+194064,21600327,4,8:47,nan,Shumpert P.FOUL (P2.T4) (J.Tiven),nan,202697,Iman Shumpert,CLE,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Foul ,Personal
+194065,21600327,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+194066,21600327,4,8:37,Hernangomez 25' 3PT Jump Shot (3 PTS) (Baker 1 AST),nan,99 - 73,1626195,Willy Hernangomez,NYK,1627758,Ron Baker,NYK,0,nan,nan,Made Shot ,nan
+194067,21600327,4,8:17,nan,Shumpert  3PT Jump Shot (8 PTS) (Felder 1 AST),102 - 73,202697,Iman Shumpert,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+194068,21600327,4,8:03,MISS Baker 26' 3PT Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194069,21600327,4,8:02,nan,Thompson REBOUND (Off:6 Def:14),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194070,21600327,4,7:54,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+194071,21600327,4,7:54,nan,SUB: Andersen FOR Thompson,nan,202684,Tristan Thompson,CLE,2365,Chris Andersen,CLE,0,nan,nan,Substitution ,nan
+194072,21600327,4,7:54,nan,SUB: Dunleavy FOR Jefferson,nan,2210,Richard Jefferson,CLE,2399,Mike Dunleavy,CLE,0,nan,nan,Substitution ,nan
+194073,21600327,4,7:54,nan,SUB: Jones FOR Frye,nan,101112,Channing Frye,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+194074,21600327,4,7:46,nan,MISS Dunleavy 25' 3PT Jump Shot,nan,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194075,21600327,4,7:44,O'Quinn REBOUND (Off:1 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194076,21600327,4,7:31,nan,Felder S.FOUL (P1.PN) (M.Callahan),nan,1627770,Kay Felder,CLE,1627758,Ron Baker,NYK,0,nan,nan,Foul ,Shooting
+194077,21600327,4,7:31,Baker Free Throw 1 of 2 (3 PTS),nan,102 - 74,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+194078,21600327,4,7:31,MISS Baker Free Throw 2 of 2,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+194079,21600327,4,7:30,nan,Shumpert REBOUND (Off:0 Def:5),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194080,21600327,4,7:08,nan,Andersen 2' Driving Reverse Layup (2 PTS) (Felder 2 AST),104 - 74,2365,Chris Andersen,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+194081,21600327,4,6:51,MISS Hernangomez 1' Layup,Andersen BLOCK (1 BLK),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,2365,Chris Andersen,CLE,Missed Shot ,nan
+194082,21600327,4,6:50,nan,Shumpert REBOUND (Off:0 Def:6),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194083,21600327,4,6:43,nan,Jones 24' 3PT Jump Shot (3 PTS) (Dunleavy 1 AST),107 - 74,2592,James Jones,CLE,2399,Mike Dunleavy,CLE,0,nan,nan,Made Shot ,nan
+194084,21600327,4,6:29,Kuzminskas Lost Ball Turnover (P2.T14),Shumpert STEAL (2 STL),nan,1627851,Mindaugas Kuzminskas,NYK,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Lost Ball
+194085,21600327,4,6:22,nan,MISS Felder  3PT Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194086,21600327,4,6:21,Ndour REBOUND (Off:0 Def:1),nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194087,21600327,4,6:09,MISS Baker 6' Running Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194088,21600327,4,6:08,O'Quinn REBOUND (Off:2 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194089,21600327,4,6:03,Kuzminskas 25' 3PT Jump Shot (3 PTS) (O'Quinn 2 AST),nan,107 - 77,1627851,Mindaugas Kuzminskas,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+194090,21600327,4,5:47,nan,Felder 18' Jump Shot (2 PTS),109 - 77,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194091,21600327,4,5:34,O'Quinn 1' Layup (6 PTS) (Ndour 1 AST),nan,109 - 79,203124,Kyle O'Quinn,NYK,1626254,Maurice Ndour,NYK,0,nan,nan,Made Shot ,nan
+194092,21600327,4,5:10,nan,Dunleavy 25' 3PT Jump Shot (3 PTS),112 - 79,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194093,21600327,4,4:55,MISS Baker 27' 3PT Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194094,21600327,4,4:54,Hernangomez REBOUND (Off:1 Def:1),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194095,21600327,4,4:52,nan,Dunleavy S.FOUL (P1.PN) (L.Richardson),nan,2399,Mike Dunleavy,CLE,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Shooting
+194096,21600327,4,4:52,Hernangomez Free Throw 1 of 2 (4 PTS),nan,112 - 80,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+194097,21600327,4,4:52,Hernangomez Free Throw 2 of 2 (5 PTS),nan,112 - 81,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+194098,21600327,4,4:43,nan,Shumpert 25' 3PT Jump Shot (11 PTS) (Felder 3 AST),115 - 81,202697,Iman Shumpert,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+194099,21600327,4,4:28,MISS Baker 26' 3PT Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194100,21600327,4,4:25,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194101,21600327,4,4:12,Baker 25' 3PT Jump Shot (6 PTS) (O'Quinn 3 AST),nan,115 - 84,1627758,Ron Baker,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+194102,21600327,4,4:00,nan,Felder Palming Turnover (P1.T11),nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Turnover ,Palming Turnover
+194103,21600327,4,3:46,nan,Shumpert S.FOUL (P3.PN) (M.Callahan),nan,202697,Iman Shumpert,CLE,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Foul ,Shooting
+194104,21600327,4,3:46,Kuzminskas Free Throw 1 of 2 (4 PTS),nan,115 - 85,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+194105,21600327,4,3:46,Kuzminskas Free Throw 2 of 2 (5 PTS),nan,115 - 86,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+194106,21600327,4,3:31,nan,Shumpert OFF.Foul (P4) (L.Richardson),nan,202697,Iman Shumpert,CLE,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Foul ,Offensive
+194107,21600327,4,3:31,nan,Shumpert Foul Turnover (P3.T12),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+194108,21600327,4,3:11,MISS Kuzminskas 10' Jump Shot,nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194109,21600327,4,3:10,Hernangomez REBOUND (Off:2 Def:1),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194110,21600327,4,3:10,MISS Hernangomez 2' Tip Layup Shot,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194111,21600327,4,3:09,Hernangomez REBOUND (Off:3 Def:1),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194112,21600327,4,3:09,Hernangomez 2' Putback Layup (7 PTS),nan,115 - 88,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+194113,21600327,4,2:53,nan,MISS Dunleavy 25' 3PT Jump Shot,nan,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194114,21600327,4,2:52,Hernangomez REBOUND (Off:3 Def:2),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194115,21600327,4,2:45,MISS Ndour 17' Jump Shot,nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194116,21600327,4,2:44,O'Quinn REBOUND (Off:3 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194117,21600327,4,2:43,O'Quinn 2' Putback Layup (8 PTS),nan,115 - 90,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+194118,21600327,4,2:31,Ndour Violation:Kicked Ball (L.Richardson),nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+194119,21600327,4,2:31,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+194120,21600327,4,2:20,nan,MISS Felder 13' Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194121,21600327,4,2:19,Hernangomez REBOUND (Off:3 Def:3),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194122,21600327,4,2:02,Kuzminskas Bad Pass Turnover (P3.T15),Jones STEAL (1 STL),nan,1627851,Mindaugas Kuzminskas,NYK,2592,James Jones,CLE,0,nan,nan,Turnover ,Bad Pass
+194123,21600327,4,1:48,nan,Shumpert 25' 3PT Jump Shot (14 PTS),118 - 90,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194124,21600327,4,1:34,MISS Ndour 15' Jump Shot,nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194125,21600327,4,1:33,Hernangomez REBOUND (Off:4 Def:3),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194126,21600327,4,1:32,nan,Jones S.FOUL (P1.PN) (M.Callahan),nan,2592,James Jones,CLE,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Shooting
+194127,21600327,4,1:32,Hernangomez Free Throw 1 of 2 (8 PTS),nan,118 - 91,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+194128,21600327,4,1:32,Hernangomez Free Throw 2 of 2 (9 PTS),nan,118 - 92,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+194129,21600327,4,1:13,nan,Felder 1' Driving Layup (4 PTS),120 - 92,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194130,21600327,4,1:05,MISS Baker 2' Driving Layup,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194131,21600327,4,1:04,nan,Andersen REBOUND (Off:0 Def:1),nan,2365,Chris Andersen,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+194132,21600327,4,0:56,nan,Jones  3PT Jump Shot (6 PTS) (Shumpert 1 AST),123 - 92,2592,James Jones,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+194133,21600327,4,0:45,O'Quinn 17' Jump Shot (10 PTS),nan,123 - 94,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+194134,21600327,4,0:24,nan,Jones  3PT Jump Shot (9 PTS),126 - 94,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+194135,21600327,4,0:11,Baker Bad Pass Turnover (P1.T16),Andersen STEAL (1 STL),nan,1627758,Ron Baker,NYK,2365,Chris Andersen,CLE,0,nan,nan,Turnover ,Bad Pass
+194136,21600327,4,0:00,nan,nan,126 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

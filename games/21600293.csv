@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+189766,21600293,4,12:00,nan,nan,70 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+189767,21600293,4,11:39,MISS Ross  3PT Jump Shot,nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189768,21600293,4,11:39,Nogueira REBOUND (Off:2 Def:3),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189769,21600293,4,11:36,Nogueira  Putback Dunk (4 PTS),nan,70 - 88,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189770,21600293,4,11:10,nan,MISS Sefolosha 8' Turnaround Jump Shot,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189771,21600293,4,11:10,nan,Howard REBOUND (Off:6 Def:10),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189772,21600293,4,11:08,nan,Howard  Tip Dunk Shot (10 PTS),72 - 88,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+189773,21600293,4,10:58,Nogueira 2' Cutting Layup Shot (6 PTS) (Ross 1 AST),nan,72 - 90,203512,Lucas Nogueira,TOR,203082,Terrence Ross,TOR,0,nan,nan,Made Shot ,nan
+189774,21600293,4,10:58,nan,Bazemore S.FOUL (P2.T1) (A.Smith),nan,203145,Kent Bazemore,ATL,203512,Lucas Nogueira,TOR,0,nan,nan,Foul ,Shooting
+189775,21600293,4,10:58,Nogueira Free Throw 1 of 1 (7 PTS),nan,72 - 91,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+189776,21600293,4,10:45,nan,MISS Sefolosha 25' 3PT Jump Shot,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189777,21600293,4,10:44,nan,Howard REBOUND (Off:7 Def:10),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189778,21600293,4,10:42,Joseph P.FOUL (P3.T1) (T.Washington),nan,nan,202709,Cory Joseph,TOR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Personal
+189779,21600293,4,10:35,Lowry S.FOUL (P4.T2) (T.Washington),nan,nan,200768,Kyle Lowry,TOR,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Shooting
+189780,21600293,4,10:35,nan,MISS Delaney Free Throw 1 of 2,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189781,21600293,4,10:35,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+189782,21600293,4,10:35,nan,Delaney Free Throw 2 of 2 (1 PTS),73 - 91,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189783,21600293,4,10:16,Lowry 25' 3PT Jump Shot (14 PTS) (Ross 2 AST),nan,73 - 94,200768,Kyle Lowry,TOR,203082,Terrence Ross,TOR,0,nan,nan,Made Shot ,nan
+189784,21600293,4,10:03,Joseph STEAL (1 STL),Bazemore Bad Pass Turnover (P2.T12),nan,203145,Kent Bazemore,ATL,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Bad Pass
+189785,21600293,4,9:56,Nogueira  Alley Oop Dunk (9 PTS) (Lowry 7 AST),nan,73 - 96,203512,Lucas Nogueira,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+189786,21600293,4,9:56,nan,Hawks Timeout: Regular (Reg.4 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189787,21600293,4,9:32,nan,MISS Bazemore 15' Driving Floating Bank Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189788,21600293,4,9:31,Lowry REBOUND (Off:1 Def:7),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189789,21600293,4,9:23,Nogueira  Dunk (11 PTS) (Lowry 8 AST),nan,73 - 98,203512,Lucas Nogueira,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+189790,21600293,4,9:12,Nogueira STEAL (2 STL),Bazemore Bad Pass Turnover (P3.T13),nan,203145,Kent Bazemore,ATL,203512,Lucas Nogueira,TOR,0,nan,nan,Turnover ,Bad Pass
+189791,21600293,4,9:02,nan,Bazemore P.FOUL (P3.T2) (A.Smith),nan,203145,Kent Bazemore,ATL,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+189792,21600293,4,9:02,nan,SUB: Prince FOR Bazemore,nan,203145,Kent Bazemore,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+189793,21600293,4,9:02,nan,SUB: Muscala FOR Howard,nan,2730,Dwight Howard,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+189794,21600293,4,9:02,nan,SUB: Humphries FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+189795,21600293,4,8:49,Patterson 14' Step Back Jump Shot (14 PTS),nan,73 - 100,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189796,21600293,4,8:35,Nogueira BLOCK (2 BLK),MISS Humphries 3' Cutting Layup Shot,nan,2743,Kris Humphries,ATL,0,nan,nan,203512,Lucas Nogueira,TOR,Missed Shot ,nan
+189797,21600293,4,8:34,Ross REBOUND (Off:0 Def:1),nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189798,21600293,4,8:21,nan,Hardaway Jr. Personal Block Foul (P1.T3) (T.Washington),nan,203501,Tim Hardaway Jr.,ATL,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal Block
+189799,21600293,4,8:20,Patterson OFF.Foul (P3) (N.Buchert),nan,nan,202335,Patrick Patterson,TOR,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Offensive
+189800,21600293,4,8:20,Patterson Foul Turnover (P1.T12),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+189801,21600293,4,8:07,nan,MISS Prince 16' Floating Jump Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189802,21600293,4,8:06,nan,Delaney REBOUND (Off:1 Def:0),nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189803,21600293,4,8:01,nan,Delaney 18' Pullup Jump Shot (3 PTS) (Prince 1 AST),75 - 100,1627098,Malcolm Delaney,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Made Shot ,nan
+189804,21600293,4,7:47,MISS Joseph 3' Driving Layup,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189805,21600293,4,7:46,Nogueira REBOUND (Off:3 Def:3),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189806,21600293,4,7:42,Patterson  3PT Jump Shot (17 PTS) (Nogueira 1 AST),nan,75 - 103,202335,Patrick Patterson,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Made Shot ,nan
+189807,21600293,4,7:31,nan,MISS Hardaway Jr. 28' 3PT Jump Shot,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189808,21600293,4,7:30,Patterson REBOUND (Off:0 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189809,21600293,4,7:13,Lowry 25' 3PT Jump Shot (17 PTS) (Patterson 2 AST),nan,75 - 106,200768,Kyle Lowry,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+189810,21600293,4,6:51,nan,Hardaway Jr.  Driving Dunk (10 PTS) (Muscala 2 AST),77 - 106,203501,Tim Hardaway Jr.,ATL,203488,Mike Muscala,ATL,0,nan,nan,Made Shot ,nan
+189811,21600293,4,6:50,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189812,21600293,4,6:50,SUB: Siakam FOR Lowry,nan,nan,200768,Kyle Lowry,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+189813,21600293,4,6:50,SUB: Powell FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+189814,21600293,4,6:50,nan,SUB: Scott FOR Muscala,nan,203488,Mike Muscala,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+189815,21600293,4,6:50,nan,SUB: Bembry FOR Delaney,nan,1627098,Malcolm Delaney,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Substitution ,nan
+189816,21600293,4,6:34,Ross 7' Driving Floating Jump Shot (10 PTS) (Joseph 5 AST),nan,77 - 108,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+189817,21600293,4,6:08,Nogueira BLOCK (3 BLK),MISS Bembry 4' Driving Floating Jump Shot,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,203512,Lucas Nogueira,TOR,Missed Shot ,nan
+189818,21600293,4,6:08,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189819,21600293,4,6:08,nan,Hawks Turnover: Shot Clock (T#14),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+189820,21600293,4,5:57,Ross 25' 3PT Pullup Jump Shot (13 PTS),nan,77 - 111,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189821,21600293,4,5:43,nan,Hardaway Jr.  Cutting Dunk Shot (12 PTS) (Scott 2 AST),79 - 111,203501,Tim Hardaway Jr.,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+189822,21600293,4,5:24,MISS Joseph 5' Turnaround Hook Shot,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189823,21600293,4,5:22,Joseph REBOUND (Off:1 Def:4),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189824,21600293,4,5:13,Joseph 19' Pullup Jump Shot (10 PTS),nan,79 - 113,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189825,21600293,4,5:00,nan,MISS Humphries 25' 3PT Step Back Jump Shot,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189826,21600293,4,5:00,Nogueira REBOUND (Off:3 Def:4),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189827,21600293,4,4:53,Powell 1' Running Layup (2 PTS) (Joseph 6 AST),nan,79 - 115,1626181,Norman Powell,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+189828,21600293,4,4:36,nan,MISS Hardaway Jr. 25' 3PT Jump Shot,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189829,21600293,4,4:35,Nogueira REBOUND (Off:3 Def:5),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189830,21600293,4,4:25,Ross 19' Pullup Jump Shot (15 PTS),nan,79 - 117,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189831,21600293,4,4:10,nan,Bembry Out of Bounds Lost Ball Turnover (P1.T15),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+189832,21600293,4,4:10,SUB: Poeltl FOR Nogueira,nan,nan,203512,Lucas Nogueira,TOR,1627751,Jakob Poeltl,TOR,0,nan,nan,Substitution ,nan
+189833,21600293,4,4:10,SUB: VanVleet FOR Joseph,nan,nan,202709,Cory Joseph,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Substitution ,nan
+189834,21600293,4,4:10,SUB: Caboclo FOR Ross,nan,nan,203082,Terrence Ross,TOR,203998,Bruno Caboclo,TOR,0,nan,nan,Substitution ,nan
+189835,21600293,4,4:10,nan,SUB: Kelly FOR Humphries,nan,2743,Kris Humphries,ATL,203527,Ryan Kelly,ATL,0,nan,nan,Substitution ,nan
+189836,21600293,4,3:52,MISS Siakam  3PT Jump Shot,nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189837,21600293,4,3:51,nan,Scott REBOUND (Off:0 Def:4),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189838,21600293,4,3:35,Poeltl BLOCK (1 BLK),MISS Scott 6' Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,1627751,Jakob Poeltl,TOR,Missed Shot ,nan
+189839,21600293,4,3:34,Powell REBOUND (Off:0 Def:1),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189840,21600293,4,3:22,VanVleet 2' Driving Reverse Layup (2 PTS) (Caboclo 1 AST),nan,79 - 119,1627832,Fred VanVleet,TOR,203998,Bruno Caboclo,TOR,0,nan,nan,Made Shot ,nan
+189841,21600293,4,3:09,nan,MISS Prince 24' 3PT Jump Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189842,21600293,4,3:08,Caboclo REBOUND (Off:0 Def:1),nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189843,21600293,4,2:58,Caboclo Offensive Charge Foul (P1.T3) (N.Buchert),nan,nan,203998,Bruno Caboclo,TOR,203527,Ryan Kelly,ATL,0,nan,nan,Foul ,Offensive Charge
+189844,21600293,4,2:58,Caboclo Foul Turnover (P1.T13),nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+189845,21600293,4,2:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+189846,21600293,4,2:44,Powell STEAL (1 STL),Hardaway Jr. Lost Ball Turnover (P2.T16),nan,203501,Tim Hardaway Jr.,ATL,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Lost Ball
+189847,21600293,4,2:22,Siakam Bad Pass Turnover (P1.T14),Hardaway Jr. STEAL (1 STL),nan,1627783,Pascal Siakam,TOR,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Turnover ,Bad Pass
+189848,21600293,4,2:15,Siakam BLOCK (1 BLK),MISS Bembry 3' Layup,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,1627783,Pascal Siakam,TOR,Missed Shot ,nan
+189849,21600293,4,2:15,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189850,21600293,4,2:10,Siakam STEAL (1 STL),Prince Lost Ball Turnover (P1.T17),nan,1627752,Taurean Prince,ATL,1627783,Pascal Siakam,TOR,0,nan,nan,Turnover ,Lost Ball
+189851,21600293,4,2:05,Siakam  Running Dunk (14 PTS) (VanVleet 1 AST),nan,79 - 121,1627783,Pascal Siakam,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Made Shot ,nan
+189852,21600293,4,1:53,nan,Hardaway Jr. 25' 3PT Jump Shot (15 PTS) (Scott 3 AST),82 - 121,203501,Tim Hardaway Jr.,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+189853,21600293,4,1:41,Powell 21' Step Back Jump Shot (4 PTS),nan,82 - 123,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+189854,21600293,4,1:29,Powell STEAL (2 STL),Prince Bad Pass Turnover (P2.T18),nan,1627752,Taurean Prince,ATL,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Bad Pass
+189855,21600293,4,1:26,Powell Lost Ball Turnover (P1.T15),Kelly STEAL (1 STL),nan,1626181,Norman Powell,TOR,203527,Ryan Kelly,ATL,0,nan,nan,Turnover ,Lost Ball
+189856,21600293,4,1:22,nan,Prince 2' Driving Layup (2 PTS) (Kelly 1 AST),84 - 123,1627752,Taurean Prince,ATL,203527,Ryan Kelly,ATL,0,nan,nan,Made Shot ,nan
+189857,21600293,4,1:11,MISS Powell 5' Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189858,21600293,4,1:10,Poeltl REBOUND (Off:1 Def:0),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189859,21600293,4,1:06,MISS Poeltl 4' Turnaround Jump Shot,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189860,21600293,4,1:06,Caboclo REBOUND (Off:1 Def:1),nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189861,21600293,4,1:02,VanVleet  3PT Jump Shot (5 PTS) (Caboclo 2 AST),nan,84 - 126,1627832,Fred VanVleet,TOR,203998,Bruno Caboclo,TOR,0,nan,nan,Made Shot ,nan
+189862,21600293,4,0:55,Poeltl STEAL (1 STL),Bembry Bad Pass Turnover (P2.T19),nan,1627761,DeAndre' Bembry,ATL,1627751,Jakob Poeltl,TOR,0,nan,nan,Turnover ,Bad Pass
+189863,21600293,4,0:51,Poeltl  Running Dunk (2 PTS) (VanVleet 2 AST),nan,84 - 128,1627751,Jakob Poeltl,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Made Shot ,nan
+189864,21600293,4,0:51,nan,Hardaway Jr. S.FOUL (P2.T4) (T.Washington),nan,203501,Tim Hardaway Jr.,ATL,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Shooting
+189865,21600293,4,0:51,MISS Poeltl Free Throw 1 of 1,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+189866,21600293,4,0:48,nan,Hardaway Jr. REBOUND (Off:0 Def:1),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189867,21600293,4,0:38,Siakam BLOCK (2 BLK),MISS Prince 3' Driving Hook Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,1627783,Pascal Siakam,TOR,Missed Shot ,nan
+189868,21600293,4,0:37,Caboclo REBOUND (Off:1 Def:2),nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189869,21600293,4,0:29,MISS Caboclo 17' Turnaround Jump Shot,nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189870,21600293,4,0:29,nan,Kelly REBOUND (Off:0 Def:1),nan,203527,Ryan Kelly,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189871,21600293,4,0:14,nan,MISS Scott 16' Pullup Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189872,21600293,4,0:13,VanVleet REBOUND (Off:0 Def:1),nan,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189873,21600293,4,0:00,nan,nan,84 - 128,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

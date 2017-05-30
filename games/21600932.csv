@@ -1,0 +1,124 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+268337,21600932,4,12:00,nan,nan,71 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+268338,21600932,4,11:47,Nowitzki S.FOUL (P4.T1) (S.Foster),nan,nan,1717,Dirk Nowitzki,DAL,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+268339,21600932,4,11:47,nan,MISS Kanter Free Throw 1 of 2,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268340,21600932,4,11:47,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+268341,21600932,4,11:47,nan,MISS Kanter Free Throw 2 of 2,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268342,21600932,4,11:46,Finney-Smith REBOUND (Off:0 Def:3),nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268343,21600932,4,11:32,Nowitzki 20' Jump Shot (16 PTS) (Harris 6 AST),nan,71 - 90,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+268344,21600932,4,11:16,nan,Kanter Out of Bounds Lost Ball Turnover (P3.T11),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+268345,21600932,4,11:06,MISS Harris 2' Driving Layup,nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268346,21600932,4,11:05,nan,Grant REBOUND (Off:0 Def:1),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268347,21600932,4,10:55,nan,Gibson 4' Turnaround Hook Shot (3 PTS),73 - 90,201959,Taj Gibson,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+268348,21600932,4,10:55,Finney-Smith S.FOUL (P1.T2) (M.Kogut),nan,nan,1627827,Dorian Finney-Smith,DAL,201959,Taj Gibson,OKC,0,nan,nan,Foul ,Shooting
+268349,21600932,4,10:55,nan,Thunder Timeout: Regular (Reg.4 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+268350,21600932,4,10:55,nan,Gibson Free Throw 1 of 1 (4 PTS),74 - 90,201959,Taj Gibson,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+268351,21600932,4,10:41,Nowitzki 20' Jump Shot (18 PTS) (Finney-Smith 2 AST),nan,74 - 92,1717,Dirk Nowitzki,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+268352,21600932,4,10:25,Barnes P.FOUL (P1.T3) (S.Foster),nan,nan,203084,Harrison Barnes,DAL,201959,Taj Gibson,OKC,0,nan,nan,Foul ,Personal
+268353,21600932,4,10:20,nan,MISS Cole 25' 3PT Jump Shot,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268354,21600932,4,10:20,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268355,21600932,4,10:20,nan,Kanter L.B.FOUL (P2.T1) (D.Guthrie),nan,202683,Enes Kanter,OKC,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Loose Ball
+268356,21600932,4,10:20,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+268357,21600932,4,10:03,MISS Nowitzki 25' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268358,21600932,4,10:02,nan,Grant REBOUND (Off:0 Def:2),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268359,21600932,4,9:54,nan,Gibson 5' Driving Floating Jump Shot (6 PTS) (Grant 1 AST),76 - 92,201959,Taj Gibson,OKC,203924,Jerami Grant,OKC,0,nan,nan,Made Shot ,nan
+268360,21600932,4,9:32,MISS Nowitzki 19' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268361,21600932,4,9:31,Barnes REBOUND (Off:3 Def:1),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268362,21600932,4,9:22,MISS Nowitzki 18' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268363,21600932,4,9:21,nan,McDermott REBOUND (Off:0 Def:4),nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268364,21600932,4,9:11,nan,MISS Cole 21' Pullup Jump Shot,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268365,21600932,4,9:11,Nowitzki REBOUND (Off:0 Def:13),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268366,21600932,4,9:11,MAVERICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+268367,21600932,4,9:11,SUB: Curry FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+268368,21600932,4,9:11,SUB: Mejri FOR Harris,nan,nan,2734,Devin Harris,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Substitution ,nan
+268369,21600932,4,8:54,MISS Barnes 17' Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268370,21600932,4,8:54,nan,Gibson REBOUND (Off:0 Def:2),nan,201959,Taj Gibson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268371,21600932,4,8:33,nan,MISS Grant 19' Pullup Jump Shot,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268372,21600932,4,8:31,Barnes REBOUND (Off:3 Def:2),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268373,21600932,4,8:13,Finney-Smith 24' 3PT Jump Shot (5 PTS) (Barnes 3 AST),nan,76 - 95,1627827,Dorian Finney-Smith,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+268374,21600932,4,7:55,Finney-Smith STEAL (1 STL),Gibson Bad Pass Turnover (P1.T12),nan,201959,Taj Gibson,OKC,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Turnover ,Bad Pass
+268375,21600932,4,7:35,nan,Adams S.FOUL (P2.T2) (M.Kogut),nan,203500,Steven Adams,OKC,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+268376,21600932,4,7:35,Barnes Free Throw 1 of 2 (16 PTS),nan,76 - 96,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268377,21600932,4,7:35,Barnes Free Throw 2 of 2 (17 PTS),nan,76 - 97,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268378,21600932,4,7:21,nan,MISS Gibson 2' Driving Layup,nan,201959,Taj Gibson,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268379,21600932,4,7:20,nan,Adams REBOUND (Off:3 Def:1),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268380,21600932,4,7:20,nan,Adams  Putback Dunk (15 PTS),78 - 97,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+268381,21600932,4,6:58,MISS Ferrell 21' Step Back Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268382,21600932,4,6:57,nan,Adams REBOUND (Off:3 Def:2),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268383,21600932,4,6:50,Finney-Smith P.FOUL (P2.T4) (S.Foster),nan,nan,1627827,Dorian Finney-Smith,DAL,203500,Steven Adams,OKC,0,nan,nan,Foul ,Personal
+268384,21600932,4,6:50,SUB: Matthews FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+268385,21600932,4,6:50,nan,SUB: Westbrook FOR Grant,nan,203924,Jerami Grant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+268386,21600932,4,6:45,nan,Adams Out of Bounds - Bad Pass Turnover Turnover (P4.T13),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+268387,21600932,4,6:33,MISS Curry  3PT Jump Shot,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268388,21600932,4,6:32,nan,Cole REBOUND (Off:0 Def:2),nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268389,21600932,4,6:24,nan,MISS Cole 25' 3PT Pullup Jump Shot,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268390,21600932,4,6:22,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268391,21600932,4,6:22,nan,SUB: Grant FOR Cole,nan,202708,Norris Cole,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+268392,21600932,4,6:08,MISS Barnes  3PT Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268393,21600932,4,6:07,nan,Westbrook REBOUND (Off:0 Def:5),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268394,21600932,4,5:57,nan,Adams 1' Driving Layup (17 PTS) (McDermott 2 AST),80 - 97,203500,Steven Adams,OKC,203926,Doug McDermott,OKC,0,nan,nan,Made Shot ,nan
+268395,21600932,4,5:38,MISS Barnes 2' Driving Layup,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268396,21600932,4,5:37,nan,Westbrook REBOUND (Off:0 Def:6),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268397,21600932,4,5:31,Mejri S.FOUL (P1.PN) (D.Guthrie),nan,nan,1626257,Salah Mejri,DAL,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Shooting
+268398,21600932,4,5:31,nan,Grant Free Throw 1 of 2 (3 PTS),81 - 97,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268399,21600932,4,5:31,SUB: Noel FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,203457,Nerlens Noel,DAL,0,nan,nan,Substitution ,nan
+268400,21600932,4,5:31,nan,SUB: Sabonis FOR Gibson,nan,201959,Taj Gibson,OKC,1627734,Domantas Sabonis,OKC,0,nan,nan,Substitution ,nan
+268401,21600932,4,5:31,SUB: Nowitzki FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+268402,21600932,4,5:31,SUB: Harris FOR Ferrell,nan,nan,1627812,Yogi Ferrell,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+268403,21600932,4,5:31,nan,Grant Free Throw 2 of 2 (4 PTS),82 - 97,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268404,21600932,4,5:17,Harris  3PT Jump Shot (7 PTS) (Nowitzki 3 AST),nan,82 - 100,2734,Devin Harris,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+268405,21600932,4,5:02,nan,MISS Westbrook 25' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268406,21600932,4,5:01,Harris REBOUND (Off:0 Def:1),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268407,21600932,4,4:39,Noel Lost Ball Turnover (P2.T6),Adams STEAL (1 STL),nan,203457,Nerlens Noel,DAL,203500,Steven Adams,OKC,0,nan,nan,Turnover ,Lost Ball
+268408,21600932,4,4:39,Jump Ball Noel vs. Adams: Tip to Westbrook,nan,nan,203457,Nerlens Noel,DAL,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,Jump Ball ,nan
+268409,21600932,4,4:28,Harris STEAL (1 STL),Grant Lost Ball Turnover (P1.T14),nan,203924,Jerami Grant,OKC,2734,Devin Harris,DAL,0,nan,nan,Turnover ,Lost Ball
+268410,21600932,4,4:07,MISS Curry 3' Driving Finger Roll Layup,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268411,21600932,4,4:06,nan,Grant REBOUND (Off:0 Def:3),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268412,21600932,4,3:59,nan,MISS McDermott 25' 3PT Jump Shot,nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268413,21600932,4,3:58,Harris REBOUND (Off:0 Def:2),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268414,21600932,4,3:40,Noel 8' Jump Shot (13 PTS) (Harris 7 AST),nan,82 - 102,203457,Nerlens Noel,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+268415,21600932,4,3:23,nan,MISS Westbrook 25' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268416,21600932,4,3:22,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268417,21600932,4,3:22,nan,Sabonis L.B.FOUL (P2.T3) (D.Guthrie),nan,1627734,Domantas Sabonis,OKC,203457,Nerlens Noel,DAL,0,nan,nan,Foul ,Loose Ball
+268418,21600932,4,3:22,nan,SUB: Cole FOR Westbrook,nan,201566,Russell Westbrook,OKC,202708,Norris Cole,OKC,0,nan,nan,Substitution ,nan
+268419,21600932,4,3:07,MISS Nowitzki 22' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268420,21600932,4,3:06,nan,Grant REBOUND (Off:0 Def:4),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268421,21600932,4,2:57,nan,Adams  Dunk (19 PTS) (Cole 2 AST),84 - 102,203500,Steven Adams,OKC,202708,Norris Cole,OKC,0,nan,nan,Made Shot ,nan
+268422,21600932,4,2:57,MAVERICKS Timeout: Short (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+268423,21600932,4,2:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+268424,21600932,4,2:57,SUB: Cook FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,1626188,Quinn Cook,DAL,0,nan,nan,Substitution ,nan
+268425,21600932,4,2:57,SUB: Brussino FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+268426,21600932,4,2:57,SUB: Finney-Smith FOR Harris,nan,nan,2734,Devin Harris,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+268427,21600932,4,2:55,nan,SUB: Singler FOR Adams,nan,203500,Steven Adams,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+268428,21600932,4,2:35,MISS Brussino 24' 3PT Jump Shot,nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268429,21600932,4,2:35,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268430,21600932,4,2:35,Noel L.B.FOUL (P5.PN) (M.Kogut),nan,nan,203457,Nerlens Noel,DAL,1627734,Domantas Sabonis,OKC,0,nan,nan,Foul ,Loose Ball
+268431,21600932,4,2:35,nan,Sabonis Free Throw 1 of 2 (3 PTS),85 - 102,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268432,21600932,4,2:35,SUB: Powell FOR Noel,nan,nan,203457,Nerlens Noel,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+268433,21600932,4,2:35,SUB: Bentil FOR Curry,nan,nan,203552,Seth Curry,DAL,1627791,Ben Bentil,DAL,0,nan,nan,Substitution ,nan
+268434,21600932,4,2:35,nan,MISS Sabonis Free Throw 2 of 2,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268435,21600932,4,2:34,Powell REBOUND (Off:0 Def:1),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268436,21600932,4,2:22,nan,Sabonis P.FOUL (P3.T4) (D.Guthrie),nan,1627734,Domantas Sabonis,OKC,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+268437,21600932,4,2:17,nan,Cole S.FOUL (P2.PN) (S.Foster),nan,202708,Norris Cole,OKC,1626188,Quinn Cook,DAL,0,nan,nan,Foul ,Shooting
+268438,21600932,4,2:17,MISS Cook Free Throw 1 of 2,nan,nan,1626188,Quinn Cook,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268439,21600932,4,2:17,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+268440,21600932,4,2:17,MISS Cook Free Throw 2 of 2,nan,nan,1626188,Quinn Cook,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268441,21600932,4,2:16,nan,Sabonis REBOUND (Off:0 Def:6),nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268442,21600932,4,2:02,nan,McDermott 2' Driving Layup (6 PTS),87 - 102,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+268443,21600932,4,1:47,MISS Cook 20' Floating Jump Shot,nan,nan,1626188,Quinn Cook,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268444,21600932,4,1:45,nan,Sabonis REBOUND (Off:0 Def:7),nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268445,21600932,4,1:41,nan,Singler OFF.Foul (P1) (M.Kogut),nan,202713,Kyle Singler,OKC,1627852,Nicolas Brussino,DAL,0,nan,nan,Foul ,Offensive
+268446,21600932,4,1:41,nan,Singler Foul Turnover (P1.T15),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+268447,21600932,4,1:32,Bentil Traveling Turnover (P1.T7),nan,nan,1627791,Ben Bentil,DAL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+268448,21600932,4,1:21,nan,MISS McDermott 14' Pullup Jump Shot,nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268449,21600932,4,1:20,Bentil REBOUND (Off:0 Def:1),nan,nan,1627791,Ben Bentil,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268450,21600932,4,1:13,MISS Powell 24' 3PT Jump Shot,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268451,21600932,4,1:11,nan,Cole REBOUND (Off:0 Def:3),nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268452,21600932,4,1:07,nan,Cole  Running Layup (4 PTS),89 - 102,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+268453,21600932,4,0:52,Brussino Out of Bounds - Bad Pass Turnover Turnover (P1.T8),nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+268454,21600932,4,0:37,nan,MISS Sabonis 2' Driving Hook Shot,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268455,21600932,4,0:36,Bentil REBOUND (Off:0 Def:2),nan,nan,1627791,Ben Bentil,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268456,21600932,4,0:17,Cook 5' Driving Floating Bank Jump Shot (4 PTS),nan,89 - 104,1626188,Quinn Cook,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+268457,21600932,4,0:08,nan,MISS Cole 25' 3PT Jump Shot,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268458,21600932,4,0:06,Finney-Smith REBOUND (Off:0 Def:4),nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268459,21600932,4,0:00,nan,nan,89 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

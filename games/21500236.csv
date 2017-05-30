@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+29627,21500236,4,12:00,nan,nan,103 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+29628,21500236,4,11:40,nan,MISS Clark 3' Floating Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29629,21500236,4,11:38,nan,Ezeli REBOUND (Off:4 Def:2),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29630,21500236,4,11:24,nan,Barbosa 26' 3PT Jump Shot (11 PTS) (Livingston 2 AST),106 - 81,2571,Leandro Barbosa,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+29631,21500236,4,11:02,nan,Clark S.FOUL (P1.T1) (J.Orr),nan,203546,Ian Clark,GSW,203141,Mirza Teletovic,PHX,0,nan,nan,Foul ,Shooting
+29632,21500236,4,11:02,Teletovic Free Throw 1 of 2 (9 PTS),nan,106 - 82,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29633,21500236,4,11:02,Teletovic Free Throw 2 of 2 (10 PTS),nan,106 - 83,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29634,21500236,4,10:51,Teletovic STEAL (1 STL),Barbosa Bad Pass Turnover (P2.T19),nan,2571,Leandro Barbosa,GSW,203141,Mirza Teletovic,PHX,0,nan,nan,Turnover ,Bad Pass
+29635,21500236,4,10:47,Goodwin 1' Running Layup (2 PTS),nan,106 - 85,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29636,21500236,4,10:39,nan,Barbosa 2' Driving Layup (13 PTS) (Clark 1 AST),108 - 85,2571,Leandro Barbosa,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+29637,21500236,4,10:22,MISS Teletovic 2' Layup,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29638,21500236,4,10:20,nan,Ezeli REBOUND (Off:4 Def:3),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29639,21500236,4,10:13,nan,Barbosa 25' 3PT Jump Shot (16 PTS) (Livingston 3 AST),111 - 85,2571,Leandro Barbosa,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+29640,21500236,4,9:59,Knight 24' 3PT Jump Shot (17 PTS),nan,111 - 88,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29641,21500236,4,9:34,nan,MISS Livingston 19' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29642,21500236,4,9:32,Warren REBOUND (Off:2 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29643,21500236,4,9:25,MISS Teletovic 26' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29644,21500236,4,9:23,nan,Clark REBOUND (Off:0 Def:1),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29645,21500236,4,9:15,nan,Clark Out of Bounds - Bad Pass Turnover Turnover (P1.T20),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+29646,21500236,4,9:15,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29647,21500236,4,9:15,SUB: Bledsoe FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+29648,21500236,4,9:15,nan,SUB: Green FOR Ezeli,nan,203105,Festus Ezeli,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+29649,21500236,4,9:15,nan,SUB: Thompson FOR Rush,nan,201575,Brandon Rush,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+29650,21500236,4,9:05,Warren  3PT Jump Shot (22 PTS) (Knight 5 AST),nan,111 - 91,203933,TJ Warren,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+29651,21500236,4,8:51,nan,MISS Thompson 24' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29652,21500236,4,8:49,Goodwin REBOUND (Off:0 Def:1),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29653,21500236,4,8:45,Goodwin 4' Running Jump Shot (4 PTS),nan,111 - 93,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29654,21500236,4,8:30,nan,MISS Clark 6' Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29655,21500236,4,8:28,Weems REBOUND (Off:0 Def:1),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29656,21500236,4,8:23,MISS Knight 5' Running Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29657,21500236,4,8:22,nan,Green REBOUND (Off:1 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29658,21500236,4,8:15,Goodwin S.FOUL (P1.T1) (M.Smith),nan,nan,203462,Archie Goodwin,PHX,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+29659,21500236,4,8:15,nan,Green Free Throw 1 of 2 (7 PTS),112 - 93,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29660,21500236,4,8:15,nan,Green Free Throw 2 of 2 (8 PTS),113 - 93,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29661,21500236,4,7:59,MISS Weems 12' Turnaround Jump Shot,Green BLOCK (2 BLK),nan,201603,Sonny Weems,PHX,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+29662,21500236,4,7:57,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29663,21500236,4,7:48,MISS Warren 25' 3PT Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29664,21500236,4,7:46,nan,Clark REBOUND (Off:0 Def:2),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29665,21500236,4,7:33,nan,Barbosa Out of Bounds - Bad Pass Turnover Turnover (P3.T21),nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+29666,21500236,4,7:24,nan,Green S.FOUL (P1.T2) (M.Smith),nan,203110,Draymond Green,GSW,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+29667,21500236,4,7:24,Knight Free Throw 1 of 2 (18 PTS),nan,113 - 94,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29668,21500236,4,7:24,Knight Free Throw 2 of 2 (19 PTS),nan,113 - 95,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29669,21500236,4,7:16,Weems S.FOUL (P1.T2) (M.Smith),nan,nan,201603,Sonny Weems,PHX,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+29670,21500236,4,7:16,nan,Green Free Throw 1 of 2 (9 PTS),114 - 95,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29671,21500236,4,7:16,nan,Green Free Throw 2 of 2 (10 PTS),115 - 95,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29672,21500236,4,7:07,Warren 9' Floating Jump Shot (24 PTS),nan,115 - 97,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29673,21500236,4,6:55,Knight STEAL (1 STL),Green Bad Pass Turnover (P4.T22),nan,203110,Draymond Green,GSW,202688,Brandon Knight,PHX,0,nan,nan,Turnover ,Bad Pass
+29674,21500236,4,6:55,nan,Green L.B.FOUL (P2.T3) (J.Orr),nan,203110,Draymond Green,GSW,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Loose Ball
+29675,21500236,4,6:34,MISS Goodwin 6' Jump Shot,Thompson BLOCK (1 BLK),nan,203462,Archie Goodwin,PHX,0,nan,nan,202691,Klay Thompson,GSW,Missed Shot ,nan
+29676,21500236,4,6:33,nan,Barbosa REBOUND (Off:0 Def:3),nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29677,21500236,4,6:20,nan,Green 2' Layup (12 PTS),117 - 97,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+29678,21500236,4,6:06,Knight 1' Driving Layup (21 PTS),nan,117 - 99,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29679,21500236,4,5:50,nan,Barbosa 1' Driving Layup (18 PTS) (Green 9 AST),119 - 99,2571,Leandro Barbosa,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+29680,21500236,4,5:38,MISS Goodwin 20' Pullup Jump Shot,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29681,21500236,4,5:36,nan,Livingston REBOUND (Off:0 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29682,21500236,4,5:17,Goodwin S.FOUL (P2.T3) (J.Orr),nan,nan,203462,Archie Goodwin,PHX,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+29683,21500236,4,5:17,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+29684,21500236,4,5:17,SUB: Booker FOR Weems,nan,nan,201603,Sonny Weems,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+29685,21500236,4,5:17,nan,Livingston Free Throw 1 of 2 (3 PTS),120 - 99,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29686,21500236,4,5:17,nan,Livingston Free Throw 2 of 2 (4 PTS),121 - 99,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29687,21500236,4,5:09,Booker Bad Pass Turnover (P1.T14),Clark STEAL (1 STL),nan,1626164,Devin Booker,PHX,203546,Ian Clark,GSW,0,nan,nan,Turnover ,Bad Pass
+29688,21500236,4,5:05,nan,Clark 1' Running Layup (5 PTS),123 - 99,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+29689,21500236,4,4:51,Warren 17' Jump Shot (26 PTS) (Bledsoe 7 AST),nan,123 - 101,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+29690,21500236,4,4:22,nan,Barbosa  3PT Jump Shot (21 PTS) (Green 10 AST),126 - 101,2571,Leandro Barbosa,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+29691,21500236,4,4:14,nan,Green S.FOUL (P3.T4) (J.Orr),nan,203110,Draymond Green,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+29692,21500236,4,4:14,Goodwin Free Throw 1 of 2 (5 PTS),nan,126 - 102,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29693,21500236,4,4:14,nan,SUB: Thompson FOR Green,nan,203110,Draymond Green,GSW,201574,Jason Thompson,GSW,0,nan,nan,Substitution ,nan
+29694,21500236,4,4:14,nan,SUB: Rush FOR Livingston,nan,2733,Shaun Livingston,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+29695,21500236,4,4:14,SUB: Len FOR Bledsoe,nan,nan,202339,Eric Bledsoe,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+29696,21500236,4,4:14,SUB: Weems FOR Knight,nan,nan,202688,Brandon Knight,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+29697,21500236,4,4:14,MISS Goodwin Free Throw 2 of 2,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29698,21500236,4,4:12,nan,Thompson REBOUND (Off:0 Def:2),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29699,21500236,4,3:55,Warren STEAL (2 STL),Thompson Bad Pass Turnover (P2.T23),nan,202691,Klay Thompson,GSW,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Bad Pass
+29700,21500236,4,3:53,Warren  Running Dunk (28 PTS),nan,126 - 104,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29701,21500236,4,3:49,nan,Warriors Timeout: Regular (Reg.5 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29702,21500236,4,3:49,nan,SUB: Green FOR Thompson,nan,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+29703,21500236,4,3:33,nan,Clark 10' Floating Jump Shot (7 PTS),128 - 104,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+29704,21500236,4,3:13,nan,Thompson S.FOUL (P1.PN) (B.Spooner),nan,201574,Jason Thompson,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+29705,21500236,4,3:13,Goodwin Free Throw 1 of 2 (6 PTS),nan,128 - 105,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29706,21500236,4,3:13,Goodwin Free Throw 2 of 2 (7 PTS),nan,128 - 106,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29707,21500236,4,2:57,nan,MISS Clark 2' Layup,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29708,21500236,4,2:55,nan,Green REBOUND (Off:2 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29709,21500236,4,2:55,nan,Green 1' Tip Layup Shot (14 PTS),130 - 106,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+29710,21500236,4,2:50,nan,Green Personal Take Foul (P4.PN) (B.Spooner),nan,203110,Draymond Green,GSW,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal Take
+29711,21500236,4,2:50,Booker Free Throw 1 of 2 (3 PTS),nan,130 - 107,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29712,21500236,4,2:50,nan,SUB: Ezeli FOR Green,nan,203110,Draymond Green,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Substitution ,nan
+29713,21500236,4,2:50,MISS Booker Free Throw 2 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29714,21500236,4,2:49,nan,Ezeli REBOUND (Off:4 Def:4),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29715,21500236,4,2:36,Goodwin STEAL (1 STL),Clark Bad Pass Turnover (P2.T24),nan,203546,Ian Clark,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Turnover ,Bad Pass
+29716,21500236,4,2:33,nan,Ezeli S.FOUL (P2.PN) (J.Orr),nan,203105,Festus Ezeli,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+29717,21500236,4,2:33,Goodwin Free Throw 1 of 2 (8 PTS),nan,130 - 108,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29718,21500236,4,2:33,MISS Goodwin Free Throw 2 of 2,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29719,21500236,4,2:32,nan,Thompson REBOUND (Off:0 Def:1),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29720,21500236,4,2:24,Warren P.FOUL (P2.T4) (M.Smith),nan,nan,203933,TJ Warren,PHX,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Personal
+29721,21500236,4,2:20,nan,Rush 26' 3PT Jump Shot (4 PTS) (Thompson 1 AST),133 - 108,201575,Brandon Rush,GSW,201574,Jason Thompson,GSW,0,nan,nan,Made Shot ,nan
+29722,21500236,4,2:04,Booker 3' Layup (5 PTS) (Weems 1 AST),nan,133 - 110,1626164,Devin Booker,PHX,201603,Sonny Weems,PHX,0,nan,nan,Made Shot ,nan
+29723,21500236,4,2:04,nan,Clark S.FOUL (P2.PN) (M.Smith),nan,203546,Ian Clark,GSW,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+29724,21500236,4,2:04,Booker Free Throw 1 of 1 (6 PTS),nan,133 - 111,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+29725,21500236,4,1:52,nan,MISS Rush 18' Step Back Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29726,21500236,4,1:49,Weems REBOUND (Off:0 Def:2),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29727,21500236,4,1:45,MISS Booker 7' Jump Shot,Ezeli BLOCK (3 BLK),nan,1626164,Devin Booker,PHX,0,nan,nan,203105,Festus Ezeli,GSW,Missed Shot ,nan
+29728,21500236,4,1:43,nan,Ezeli REBOUND (Off:4 Def:5),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29729,21500236,4,1:38,nan,MISS Rush 24' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29730,21500236,4,1:36,Goodwin REBOUND (Off:0 Def:2),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29731,21500236,4,1:33,Goodwin 3' Layup (10 PTS),nan,133 - 113,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+29732,21500236,4,1:33,nan,Clark S.FOUL (P3.PN) (B.Spooner),nan,203546,Ian Clark,GSW,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+29733,21500236,4,1:33,Goodwin Free Throw 1 of 1 (11 PTS),nan,133 - 114,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+29734,21500236,4,1:20,nan,MISS Rush  Cutting Dunk Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29735,21500236,4,1:17,Len REBOUND (Off:1 Def:2),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29736,21500236,4,1:10,MISS Warren 17' Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29737,21500236,4,1:08,nan,Thompson REBOUND (Off:0 Def:2),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29738,21500236,4,0:57,nan,MISS Clark 25' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29739,21500236,4,0:55,Warren REBOUND (Off:2 Def:4),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29740,21500236,4,0:44,nan,Ezeli S.FOUL (P3.PN) (J.Orr),nan,203105,Festus Ezeli,GSW,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+29741,21500236,4,0:44,Len Free Throw 1 of 2 (1 PTS),nan,133 - 115,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29742,21500236,4,0:44,Len Free Throw 2 of 2 (2 PTS),nan,133 - 116,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29743,21500236,4,0:33,nan,Ezeli 18' Jump Shot (6 PTS) (Clark 2 AST),135 - 116,203105,Festus Ezeli,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+29744,21500236,4,0:20,MISS Warren 2' Layup,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29745,21500236,4,0:17,Len REBOUND (Off:2 Def:2),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29746,21500236,4,0:17,MISS Len 2' Tip Layup Shot,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29747,21500236,4,0:14,nan,Rush REBOUND (Off:1 Def:2),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29748,21500236,4,0:00,nan,nan,135 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

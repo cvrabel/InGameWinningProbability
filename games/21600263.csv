@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+186003,21600263,4,12:00,nan,nan,63 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+186004,21600263,4,11:35,MISS Moore 22' Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186005,21600263,4,11:33,nan,Clarkson REBOUND (Off:0 Def:3),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186006,21600263,4,11:20,nan,Ingram 2' Cutting Finger Roll Layup Shot (6 PTS) (Williams 4 AST),65 - 89,1627742,Brandon Ingram,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+186007,21600263,4,11:20,Davis S.FOUL (P3.T1) (J.Phillips),nan,nan,203076,Anthony Davis,NOP,1627742,Brandon Ingram,LAL,0,nan,nan,Foul ,Shooting
+186008,21600263,4,11:20,nan,MISS Ingram Free Throw 1 of 1,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+186009,21600263,4,11:19,Brown REBOUND (Off:1 Def:3),nan,nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186010,21600263,4,11:04,Davis 20' Jump Shot (37 PTS) (Moore 5 AST),nan,65 - 91,203076,Anthony Davis,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Made Shot ,nan
+186011,21600263,4,10:50,nan,Williams 26' 3PT Jump Shot (12 PTS) (Ingram 3 AST),68 - 91,101150,Lou Williams,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Made Shot ,nan
+186012,21600263,4,10:37,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186013,21600263,4,10:36,nan,Nance Jr. REBOUND (Off:0 Def:4),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186014,21600263,4,10:29,Brown P.FOUL (P4.T2) (K.Fitzgerald),nan,nan,1626148,Anthony Brown,NOP,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Personal
+186015,21600263,4,10:21,nan,Black  Dunk (6 PTS) (Nance Jr. 3 AST),70 - 91,204028,Tarik Black,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Made Shot ,nan
+186016,21600263,4,10:02,MISS Jones 2' Layup,Ingram BLOCK (1 BLK),nan,203093,Terrence Jones,NOP,0,nan,nan,1627742,Brandon Ingram,LAL,Missed Shot ,nan
+186017,21600263,4,10:00,nan,Black REBOUND (Off:1 Def:3),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186018,21600263,4,9:56,nan,Nance Jr.  Dunk (6 PTS) (Ingram 4 AST),72 - 91,1626204,Larry Nance Jr.,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Made Shot ,nan
+186019,21600263,4,9:36,Brown 18' Pullup Jump Shot (4 PTS) (Galloway 2 AST),nan,72 - 93,1626148,Anthony Brown,NOP,204038,Langston Galloway,NOP,0,nan,nan,Made Shot ,nan
+186020,21600263,4,9:19,nan,MISS Nance Jr. 16' Jump Shot,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186021,21600263,4,9:18,Jones REBOUND (Off:1 Def:4),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186022,21600263,4,9:10,Moore Bad Pass Turnover (P1.T6),Nance Jr. STEAL (1 STL),nan,202734,E'Twaun Moore,NOP,1626204,Larry Nance Jr.,LAL,0,nan,nan,Turnover ,Bad Pass
+186023,21600263,4,9:07,nan,Nance Jr.  Dunk (8 PTS),74 - 93,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+186024,21600263,4,8:49,MISS Davis  3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186025,21600263,4,8:49,nan,Ingram REBOUND (Off:0 Def:1),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186026,21600263,4,8:40,nan,MISS Williams 27' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186027,21600263,4,8:39,Moore REBOUND (Off:0 Def:2),nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186028,21600263,4,8:34,nan,Clarkson P.FOUL (P1.T1) (K.Fitzgerald),nan,203903,Jordan Clarkson,LAL,203093,Terrence Jones,NOP,0,nan,nan,Foul ,Personal
+186029,21600263,4,8:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+186030,21600263,4,8:34,SUB: Frazier FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,204025,Tim Frazier,NOP,0,nan,nan,Substitution ,nan
+186031,21600263,4,8:34,SUB: Holiday FOR Galloway,nan,nan,204038,Langston Galloway,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+186032,21600263,4,8:17,MISS Jones 25' 3PT Jump Shot,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186033,21600263,4,8:16,nan,Ingram REBOUND (Off:0 Def:2),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186034,21600263,4,8:13,nan,Williams 3' Floating Jump Shot (14 PTS),76 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+186035,21600263,4,7:45,PELICANS Turnover: Shot Clock (T#7),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+186036,21600263,4,7:33,nan,MISS Clarkson 6' Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186037,21600263,4,7:32,Jones REBOUND (Off:1 Def:5),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186038,21600263,4,7:18,Holiday  3PT Jump Shot (20 PTS) (Davis 3 AST),nan,76 - 96,201950,Jrue Holiday,NOP,203076,Anthony Davis,NOP,0,nan,nan,Made Shot ,nan
+186039,21600263,4,7:07,nan,MISS Williams 11' Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186040,21600263,4,7:06,Davis REBOUND (Off:4 Def:10),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186041,21600263,4,6:56,MISS Davis 26' 3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186042,21600263,4,6:56,nan,Williams REBOUND (Off:1 Def:2),nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186043,21600263,4,6:43,Brown STEAL (2 STL),Clarkson Bad Pass Turnover (P2.T11),nan,203903,Jordan Clarkson,LAL,1626148,Anthony Brown,NOP,0,nan,nan,Turnover ,Bad Pass
+186044,21600263,4,6:26,MISS Jones 3' Jump Shot,Nance Jr. BLOCK (1 BLK),nan,203093,Terrence Jones,NOP,0,nan,nan,1626204,Larry Nance Jr.,LAL,Missed Shot ,nan
+186045,21600263,4,6:26,Davis REBOUND (Off:5 Def:10),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186046,21600263,4,6:26,nan,Nance Jr. S.FOUL (P3.T2) (J.Phillips),nan,1626204,Larry Nance Jr.,LAL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+186047,21600263,4,6:26,Davis Free Throw 1 of 2 (38 PTS),nan,76 - 97,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186048,21600263,4,6:26,Davis Free Throw 2 of 2 (39 PTS),nan,76 - 98,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186049,21600263,4,6:14,Jones S.FOUL (P1.T3) (J.Phillips),nan,nan,203093,Terrence Jones,NOP,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+186050,21600263,4,6:14,nan,Williams Free Throw 1 of 2 (15 PTS),77 - 98,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186051,21600263,4,6:14,nan,Williams Free Throw 2 of 2 (16 PTS),78 - 98,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186052,21600263,4,6:00,MISS Jones 26' 3PT Jump Shot,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186053,21600263,4,5:58,nan,Ingram REBOUND (Off:0 Def:3),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186054,21600263,4,5:54,nan,MISS Clarkson  3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186055,21600263,4,5:53,nan,Nance Jr. REBOUND (Off:1 Def:4),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186056,21600263,4,5:47,nan,MISS Williams 26' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186057,21600263,4,5:46,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186058,21600263,4,5:46,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+186059,21600263,4,5:46,nan,SUB: World Peace FOR Clarkson,nan,203903,Jordan Clarkson,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+186060,21600263,4,5:46,nan,SUB: Robinson FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,203080,Thomas Robinson,LAL,0,nan,nan,Substitution ,nan
+186061,21600263,4,5:46,nan,SUB: Huertas FOR Williams,nan,101150,Lou Williams,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Substitution ,nan
+186062,21600263,4,5:31,Holiday 2' Layup (22 PTS) (Brown 2 AST),nan,78 - 100,201950,Jrue Holiday,NOP,1626148,Anthony Brown,NOP,0,nan,nan,Made Shot ,nan
+186063,21600263,4,5:08,nan,MISS Black 2' Layup,nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186064,21600263,4,5:07,Jones REBOUND (Off:1 Def:6),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186065,21600263,4,4:46,Holiday Bad Pass Turnover (P2.T8),World Peace STEAL (1 STL),nan,201950,Jrue Holiday,NOP,1897,Metta World Peace,LAL,0,nan,nan,Turnover ,Bad Pass
+186066,21600263,4,4:38,Davis STEAL (4 STL),World Peace Lost Ball Turnover (P1.T12),nan,1897,Metta World Peace,LAL,203076,Anthony Davis,NOP,0,nan,nan,Turnover ,Lost Ball
+186067,21600263,4,4:18,nan,World Peace P.FOUL (P1.T3) (K.Fitzgerald),nan,1897,Metta World Peace,LAL,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal
+186068,21600263,4,4:06,MISS Davis 19' Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186069,21600263,4,4:05,nan,Robinson REBOUND (Off:0 Def:1),nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186070,21600263,4,3:53,nan,Ingram 26' 3PT Jump Shot (9 PTS) (Black 1 AST),81 - 100,1627742,Brandon Ingram,LAL,204028,Tarik Black,LAL,0,nan,nan,Made Shot ,nan
+186071,21600263,4,3:26,MISS Frazier 16' Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186072,21600263,4,3:25,nan,World Peace REBOUND (Off:0 Def:2),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186073,21600263,4,3:06,nan,MISS World Peace 25' 3PT Jump Shot,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186074,21600263,4,3:05,Jones REBOUND (Off:1 Def:7),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186075,21600263,4,2:44,MISS Davis 2' Layup,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186076,21600263,4,2:44,nan,Huertas REBOUND (Off:0 Def:1),nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186077,21600263,4,2:38,Jones S.FOUL (P2.T4) (K.Fitzgerald),nan,nan,203093,Terrence Jones,NOP,1626273,Marcelo Huertas,LAL,0,nan,nan,Foul ,Shooting
+186078,21600263,4,2:38,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+186079,21600263,4,2:38,nan,MISS Huertas Free Throw 1 of 2,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186080,21600263,4,2:38,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+186081,21600263,4,2:38,nan,MISS Huertas Free Throw 2 of 2,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186082,21600263,4,2:35,nan,Black REBOUND (Off:2 Def:3),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186083,21600263,4,2:28,nan,MISS Ingram 19' Jump Shot,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186084,21600263,4,2:27,nan,Robinson REBOUND (Off:1 Def:1),nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186085,21600263,4,2:26,nan,MISS Robinson  Putback Dunk,nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186086,21600263,4,2:20,Brown REBOUND (Off:1 Def:4),nan,nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186087,21600263,4,2:03,MISS Holiday 26' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186088,21600263,4,2:01,Davis REBOUND (Off:6 Def:10),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186089,21600263,4,1:40,nan,Huertas S.FOUL (P2.T4) (J.Phillips),nan,1626273,Marcelo Huertas,LAL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+186090,21600263,4,1:40,Davis Free Throw 1 of 2 (40 PTS),nan,81 - 101,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186091,21600263,4,1:40,SUB: Galloway FOR Holiday,nan,nan,201950,Jrue Holiday,NOP,204038,Langston Galloway,NOP,0,nan,nan,Substitution ,nan
+186092,21600263,4,1:40,Davis Free Throw 2 of 2 (41 PTS),nan,81 - 102,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186093,21600263,4,1:28,Davis Personal Take Foul (P4.PN) (J.Phillips),nan,nan,203076,Anthony Davis,NOP,204028,Tarik Black,LAL,0,nan,nan,Foul ,Personal Take
+186094,21600263,4,1:28,nan,MISS Black Free Throw 1 of 2,nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186095,21600263,4,1:28,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+186096,21600263,4,1:28,SUB: S. Hill FOR Davis,nan,nan,203076,Anthony Davis,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+186097,21600263,4,1:28,SUB: Diallo FOR Jones,nan,nan,203093,Terrence Jones,NOP,1627767,Cheick Diallo,NOP,0,nan,nan,Substitution ,nan
+186098,21600263,4,1:28,SUB: Hield FOR Frazier,nan,nan,204025,Tim Frazier,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+186099,21600263,4,1:28,nan,Black Free Throw 2 of 2 (7 PTS),82 - 102,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186100,21600263,4,1:14,Brown Lost Ball Turnover (P1.T9),World Peace STEAL (2 STL),nan,1626148,Anthony Brown,NOP,1897,Metta World Peace,LAL,0,nan,nan,Turnover ,Lost Ball
+186101,21600263,4,1:10,nan,World Peace 2' Layup (2 PTS),84 - 102,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+186102,21600263,4,0:54,MISS Brown 16' Jump Shot,nan,nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186103,21600263,4,0:54,nan,World Peace REBOUND (Off:0 Def:3),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186104,21600263,4,0:47,S. Hill S.FOUL (P1.PN) (B.Nansel),nan,nan,203524,Solomon Hill,NOP,203080,Thomas Robinson,LAL,0,nan,nan,Foul ,Shooting
+186105,21600263,4,0:47,nan,Robinson Free Throw 1 of 2 (5 PTS),85 - 102,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+186106,21600263,4,0:47,nan,Robinson Free Throw 2 of 2 (6 PTS),86 - 102,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+186107,21600263,4,0:47,MISS Hield 26' 3PT Jump Shot,nan,nan,1627741,Buddy Hield,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+186108,21600263,4,0:30,Brown REBOUND (Off:2 Def:4),nan,nan,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+186109,21600263,4,0:12,Brown 27' 3PT Jump Shot (7 PTS),nan,86 - 105,1626148,Anthony Brown,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+186110,21600263,4,0:02,nan,Black 2' Layup (9 PTS) (Ingram 5 AST),88 - 105,204028,Tarik Black,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Made Shot ,nan
+186111,21600263,4,0:00,nan,nan,88 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

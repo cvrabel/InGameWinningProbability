@@ -1,0 +1,211 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+45220,21500359,4,12:00,nan,nan,73 - 63,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+45221,21500359,4,11:36,MISS Blake 27' 3PT Jump Shot,Rivers BLOCK (1 BLK),nan,2581,Steve Blake,DET,0,nan,nan,203085,Austin Rivers,LAC,Missed Shot ,nan
+45222,21500359,4,11:36,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45223,21500359,4,11:36,PISTONS Turnover: Shot Clock (T#17),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+45224,21500359,4,11:18,nan,MISS Smith 6' Jump Shot,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45225,21500359,4,11:17,Tolliver REBOUND (Off:0 Def:5),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45226,21500359,4,11:12,Baynes 6' Hook Shot (6 PTS) (Tolliver 1 AST),nan,73 - 65,203382,Aron Baynes,DET,201229,Anthony Tolliver,DET,0,nan,nan,Made Shot ,nan
+45227,21500359,4,10:59,nan,Crawford 19' Jump Shot (9 PTS) (Smith 2 AST),75 - 65,2037,Jamal Crawford,LAC,2746,Josh Smith,LAC,0,nan,nan,Made Shot ,nan
+45228,21500359,4,10:40,Caldwell-Pope 26' 3PT Jump Shot (13 PTS) (Baynes 2 AST),nan,75 - 68,203484,Kentavious Caldwell-Pope,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+45229,21500359,4,10:22,nan,MISS Rivers 6' Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45230,21500359,4,10:21,Baynes REBOUND (Off:2 Def:1),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45231,21500359,4,10:11,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45232,21500359,4,10:10,nan,Pierce REBOUND (Off:0 Def:1),nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45233,21500359,4,9:56,nan,MISS Smith 1' Layup,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45234,21500359,4,9:55,Blake REBOUND (Off:0 Def:2),nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45235,21500359,4,9:43,nan,Smith P.FOUL (P2.T1) (K.Fitzgerald),nan,2746,Josh Smith,LAC,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+45236,21500359,4,9:32,MISS Johnson 6' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45237,21500359,4,9:32,Baynes REBOUND (Off:3 Def:1),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45238,21500359,4,9:28,Baynes 1' Tip Layup Shot (8 PTS),nan,75 - 70,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+45239,21500359,4,9:12,nan,MISS Rivers 24' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45240,21500359,4,9:12,Caldwell-Pope REBOUND (Off:0 Def:2),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45241,21500359,4,9:02,Caldwell-Pope 13' Jump Shot (15 PTS),nan,75 - 72,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+45242,21500359,4,9:02,nan,Clippers Timeout: Regular (Reg.4 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45243,21500359,4,9:02,nan,SUB: Griffin FOR Smith,nan,2746,Josh Smith,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+45244,21500359,4,8:41,nan,MISS Pierce 12' Jump Shot,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45245,21500359,4,8:41,Johnson REBOUND (Off:0 Def:4),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45246,21500359,4,8:27,MISS Caldwell-Pope 1' Driving Layup,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45247,21500359,4,8:27,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45248,21500359,4,8:15,Baynes  Dunk (10 PTS) (Caldwell-Pope 2 AST),nan,75 - 74,203382,Aron Baynes,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Made Shot ,nan
+45249,21500359,4,7:53,nan,MISS Griffin 15' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45250,21500359,4,7:52,Tolliver REBOUND (Off:0 Def:6),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45251,21500359,4,7:45,MISS Caldwell-Pope 14' Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45252,21500359,4,7:44,Baynes REBOUND (Off:4 Def:1),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45253,21500359,4,7:42,MISS Tolliver 26' 3PT Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45254,21500359,4,7:42,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45255,21500359,4,7:42,Baynes P.FOUL (P2.T1) (K.Fitzgerald),nan,nan,203382,Aron Baynes,DET,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+45256,21500359,4,7:42,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45257,21500359,4,7:42,nan,SUB: Jordan FOR Pierce,nan,1718,Paul Pierce,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+45258,21500359,4,7:42,SUB: Jackson FOR Blake,nan,nan,2581,Steve Blake,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+45259,21500359,4,7:28,nan,MISS Crawford 15' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45260,21500359,4,7:27,Caldwell-Pope REBOUND (Off:0 Def:3),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45261,21500359,4,7:22,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45262,21500359,4,7:21,nan,Paul REBOUND (Off:0 Def:4),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45263,21500359,4,7:08,nan,MISS Paul 15' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45264,21500359,4,7:07,Baynes REBOUND (Off:4 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45265,21500359,4,6:42,Jackson 26' 3PT Jump Shot (22 PTS),nan,75 - 77,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+45266,21500359,4,6:24,nan,Griffin 21' Jump Shot (25 PTS) (Paul 11 AST),77 - 77,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+45267,21500359,4,6:15,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+45268,21500359,4,6:15,SUB: Marc Morris FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+45269,21500359,4,6:15,nan,SUB: Redick FOR W. Johnson,nan,202325,Wesley Johnson,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+45270,21500359,4,6:13,nan,Paul S.FOUL (P3.T2) (K.Fitzgerald),nan,101108,Chris Paul,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+45271,21500359,4,6:13,Jackson Free Throw 1 of 2 (23 PTS),nan,77 - 78,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45272,21500359,4,6:13,Jackson Free Throw 2 of 2 (24 PTS),nan,77 - 79,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45273,21500359,4,5:53,nan,MISS Griffin 19' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45274,21500359,4,5:53,Drummond REBOUND (Off:2 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45275,21500359,4,5:43,Drummond 1' Alley Oop Layup (12 PTS) (Jackson 5 AST),nan,77 - 81,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+45276,21500359,4,5:24,nan,MISS Paul 6' Jump Bank Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45277,21500359,4,5:24,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45278,21500359,4,5:24,Marc Morris L.B.FOUL (P2.T2) (M.Ervin),nan,nan,202694,Marcus Morris,DET,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Loose Ball
+45279,21500359,4,5:24,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+45280,21500359,4,5:10,nan,Griffin  Driving Reverse Dunk Shot (27 PTS),79 - 81,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+45281,21500359,4,4:51,Drummond OFF.Foul (P2) (K.Fitzgerald),nan,nan,203083,Andre Drummond,DET,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Offensive
+45282,21500359,4,4:51,Drummond Foul Turnover (P5.T18),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+45283,21500359,4,4:35,nan,MISS Redick 28' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45284,21500359,4,4:35,Jackson REBOUND (Off:3 Def:5),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45285,21500359,4,4:24,MISS Drummond 6' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45286,21500359,4,4:22,nan,Jordan REBOUND (Off:4 Def:8),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45287,21500359,4,4:15,Drummond STEAL (1 STL),Paul Lost Ball Turnover (P2.T8),nan,101108,Chris Paul,LAC,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Lost Ball
+45288,21500359,4,4:08,MISS Marc Morris 3' Jump Shot,Jordan BLOCK (2 BLK),nan,202694,Marcus Morris,DET,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+45289,21500359,4,4:03,Drummond REBOUND (Off:3 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45290,21500359,4,4:01,Drummond  Layup (14 PTS),nan,79 - 83,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+45291,21500359,4,3:51,nan,Griffin  Layup (29 PTS) (Redick 2 AST),81 - 83,201933,Blake Griffin,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+45292,21500359,4,3:42,MISS Drummond 5' Jump Shot,Jordan BLOCK (3 BLK),nan,203083,Andre Drummond,DET,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+45293,21500359,4,3:42,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45294,21500359,4,3:42,nan,SUB: W. Johnson FOR Crawford,nan,2037,Jamal Crawford,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+45295,21500359,4,3:28,nan,Paul S.FOUL (P4.T3) (P.Fraher),nan,101108,Chris Paul,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+45296,21500359,4,3:28,Jackson Free Throw 1 of 2 (25 PTS),nan,81 - 84,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45297,21500359,4,3:28,MISS Jackson Free Throw 2 of 2,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45298,21500359,4,3:27,nan,Griffin REBOUND (Off:0 Def:3),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45299,21500359,4,3:11,Drummond STEAL (2 STL),Griffin Lost Ball Turnover (P2.T9),nan,201933,Blake Griffin,LAC,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Lost Ball
+45300,21500359,4,3:00,Caldwell-Pope 25' 3PT Jump Shot (18 PTS) (Marc Morris 2 AST),nan,81 - 87,203484,Kentavious Caldwell-Pope,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+45301,21500359,4,2:59,nan,Clippers Timeout: Regular (Reg.5 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45302,21500359,4,2:52,Jackson P.FOUL (P2.T3) (M.Ervin),nan,nan,202704,Reggie Jackson,DET,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+45303,21500359,4,2:46,Jackson P.FOUL (P3.T4) (K.Fitzgerald),nan,nan,202704,Reggie Jackson,DET,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+45304,21500359,4,2:30,nan,MISS Paul 29' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45305,21500359,4,2:29,Drummond REBOUND (Off:3 Def:9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45306,21500359,4,2:10,PISTONS Timeout: Short (Full 3 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45307,21500359,4,2:03,MISS Jackson 11' Running Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45308,21500359,4,2:01,nan,Griffin REBOUND (Off:0 Def:4),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45309,21500359,4,1:51,nan,MISS W. Johnson  3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45310,21500359,4,1:51,nan,Paul REBOUND (Off:1 Def:4),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45311,21500359,4,1:43,nan,Redick 24' 3PT Jump Shot (18 PTS) (Paul 12 AST),84 - 87,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+45312,21500359,4,1:33,Drummond  Alley Oop Dunk (16 PTS) (Jackson 6 AST),nan,84 - 89,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+45313,21500359,4,1:25,nan,Jordan  Dunk (6 PTS) (Redick 3 AST),86 - 89,201599,DeAndre Jordan,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+45314,21500359,4,1:25,Tolliver S.FOUL (P2.PN) (M.Ervin),nan,nan,201229,Anthony Tolliver,DET,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+45315,21500359,4,1:25,nan,Jordan Free Throw 1 of 1 (7 PTS),87 - 89,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45316,21500359,4,1:12,nan,Paul S.FOUL (P5.T4) (K.Fitzgerald),nan,101108,Chris Paul,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+45317,21500359,4,1:12,Jackson Free Throw 1 of 2 (26 PTS),nan,87 - 90,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45318,21500359,4,1:12,Jackson Free Throw 2 of 2 (27 PTS),nan,87 - 91,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45319,21500359,4,0:51,nan,Paul 16' Jump Shot (13 PTS),89 - 91,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+45320,21500359,4,0:33,nan,W. Johnson P.FOUL (P3.PN) (M.Ervin),nan,202325,Wesley Johnson,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+45321,21500359,4,0:33,Jackson Free Throw 1 of 2 (28 PTS),nan,89 - 92,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45322,21500359,4,0:33,Jackson Free Throw 2 of 2 (29 PTS),nan,89 - 93,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45323,21500359,4,0:33,nan,Clippers Timeout: Regular (Reg.6 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45324,21500359,4,0:33,nan,SUB: Crawford FOR W. Johnson,nan,202325,Wesley Johnson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45325,21500359,4,0:25,Marc Morris S.FOUL (P3.PN) (P.Fraher),nan,nan,202694,Marcus Morris,DET,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+45326,21500359,4,0:25,nan,Crawford Free Throw 1 of 2 (10 PTS),90 - 93,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45327,21500359,4,0:25,nan,SUB: Rivers FOR Paul,nan,101108,Chris Paul,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45328,21500359,4,0:25,nan,Crawford Free Throw 2 of 2 (11 PTS),91 - 93,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45329,21500359,4,0:25,nan,Redick L.B.FOUL (P2.PN) (M.Ervin),nan,200755,JJ Redick,LAC,203083,Andre Drummond,DET,0,nan,nan,Foul ,Loose Ball
+45330,21500359,4,0:25,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45331,21500359,4,0:25,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45332,21500359,4,0:25,nan,SUB: W. Johnson FOR Jordan,nan,201599,DeAndre Jordan,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+45333,21500359,4,0:25,Drummond Free Throw 2 of 2 (17 PTS),nan,91 - 94,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45334,21500359,4,0:25,nan,Clippers Timeout: Short (Reg.6 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45335,21500359,4,0:25,nan,SUB: Jordan FOR W. Johnson,nan,202325,Wesley Johnson,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+45336,21500359,4,0:25,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45337,21500359,4,0:19,nan,Redick  3PT Jump Shot (21 PTS) (Griffin 5 AST),94 - 94,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+45338,21500359,4,0:19,PISTONS Timeout: Regular (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45339,21500359,4,0:19,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45340,21500359,4,0:19,nan,SUB: W. Johnson FOR Paul,nan,101108,Chris Paul,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+45341,21500359,4,0:19,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+45342,21500359,4,0:01,MISS Jackson 20' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45343,21500359,4,0:00,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45344,21500359,4,0:00,nan,nan,94 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+45345,21500359,5,5:00,nan,nan,94 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+45346,21500359,5,5:00,Jump Ball Drummond vs. Jordan: Tip to Paul,nan,nan,203083,Andre Drummond,DET,201599,DeAndre Jordan,LAC,101108,Chris Paul,LAC,Jump Ball ,nan
+45347,21500359,5,4:38,nan,MISS Paul 10' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45348,21500359,5,4:37,nan,Jordan REBOUND (Off:5 Def:8),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45349,21500359,5,4:36,nan,MISS Jordan 1' Tip Layup Shot,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45350,21500359,5,4:35,nan,W. Johnson REBOUND (Off:1 Def:3),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45351,21500359,5,4:34,Caldwell-Pope P.FOUL (P4.T1) (M.Ervin),nan,nan,203484,Kentavious Caldwell-Pope,DET,202325,Wesley Johnson,LAC,0,nan,nan,Foul ,Personal
+45352,21500359,5,4:20,nan,MISS Redick 20' Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45353,21500359,5,4:20,Drummond REBOUND (Off:3 Def:10),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45354,21500359,5,4:11,Drummond  Alley Oop Layup (19 PTS) (Jackson 7 AST),nan,94 - 96,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+45355,21500359,5,3:45,nan,MISS Griffin 5' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45356,21500359,5,3:45,Drummond REBOUND (Off:3 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45357,21500359,5,3:39,MISS Tolliver 25' 3PT Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45358,21500359,5,3:38,nan,Redick REBOUND (Off:0 Def:2),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45359,21500359,5,3:20,nan,Griffin  Layup (31 PTS),96 - 96,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+45360,21500359,5,3:08,Jackson Bad Pass Turnover (P4.T19),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+45361,21500359,5,2:51,nan,MISS Griffin 20' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45362,21500359,5,2:51,nan,Jordan REBOUND (Off:6 Def:8),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45363,21500359,5,2:37,nan,MISS Paul 17' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45364,21500359,5,2:36,Jackson REBOUND (Off:3 Def:6),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45365,21500359,5,2:25,nan,Jordan S.FOUL (P3.T1) (K.Fitzgerald),nan,201599,DeAndre Jordan,LAC,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+45366,21500359,5,2:25,Drummond Free Throw 1 of 2 (20 PTS),nan,96 - 97,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45367,21500359,5,2:25,nan,SUB: Crawford FOR W. Johnson,nan,202325,Wesley Johnson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45368,21500359,5,2:25,MISS Drummond Free Throw 2 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45369,21500359,5,2:22,nan,Griffin REBOUND (Off:0 Def:5),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45370,21500359,5,2:12,nan,Redick 28' 3PT Jump Shot (24 PTS) (Griffin 6 AST),99 - 97,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+45371,21500359,5,1:54,Jackson 14' Floating Jump Shot (31 PTS),nan,99 - 99,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+45372,21500359,5,1:40,Drummond S.FOUL (P3.T2) (K.Fitzgerald),nan,nan,203083,Andre Drummond,DET,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+45373,21500359,5,1:40,nan,MISS Griffin Free Throw 1 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45374,21500359,5,1:40,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45375,21500359,5,1:40,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45376,21500359,5,1:40,nan,SUB: Mbah a Moute FOR Paul,nan,101108,Chris Paul,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+45377,21500359,5,1:40,nan,Griffin Free Throw 2 of 2 (32 PTS),100 - 99,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45378,21500359,5,1:27,nan,Rivers S.FOUL (P1.T2) (M.Ervin),nan,203085,Austin Rivers,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+45379,21500359,5,1:27,Jackson Free Throw 1 of 2 (32 PTS),nan,100 - 100,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45380,21500359,5,1:27,Jackson Free Throw 2 of 2 (33 PTS),nan,100 - 101,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45381,21500359,5,1:27,nan,Clippers Timeout: Regular (Reg.7 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45382,21500359,5,1:27,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45383,21500359,5,1:27,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45384,21500359,5,1:21,Drummond STEAL (3 STL),Paul Bad Pass Turnover (P3.T10),nan,101108,Chris Paul,LAC,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+45385,21500359,5,1:21,PISTONS Timeout: Regular (Full 5 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45386,21500359,5,1:21,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+45387,21500359,5,1:21,nan,SUB: Mbah a Moute FOR Paul,nan,101108,Chris Paul,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+45388,21500359,5,1:21,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45389,21500359,5,0:54,MISS Jackson 7' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45390,21500359,5,0:54,nan,Redick REBOUND (Off:0 Def:3),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45391,21500359,5,0:54,nan,Clippers Timeout: Short (Reg.7 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45392,21500359,5,0:54,nan,SUB: Paul FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45393,21500359,5,0:54,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45394,21500359,5,0:54,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+45395,21500359,5,0:38,Caldwell-Pope P.FOUL (P5.PN) (P.Fraher),nan,nan,203484,Kentavious Caldwell-Pope,DET,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+45396,21500359,5,0:38,nan,Griffin Free Throw 1 of 2 (33 PTS),101 - 101,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45397,21500359,5,0:38,nan,SUB: Rivers FOR Paul,nan,101108,Chris Paul,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45398,21500359,5,0:38,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+45399,21500359,5,0:38,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+45400,21500359,5,0:38,nan,Griffin Free Throw 2 of 2 (34 PTS),102 - 101,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45401,21500359,5,0:38,PISTONS Timeout: Short (Full 5 Short 2),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45402,21500359,5,0:30,nan,Jordan S.FOUL (P4.PN) (P.Fraher),nan,201599,DeAndre Jordan,LAC,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+45403,21500359,5,0:30,MISS Caldwell-Pope Free Throw 1 of 2,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45404,21500359,5,0:30,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+45405,21500359,5,0:30,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+45406,21500359,5,0:30,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45407,21500359,5,0:30,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45408,21500359,5,0:30,Caldwell-Pope Free Throw 2 of 2 (19 PTS),nan,102 - 102,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45409,21500359,5,0:30,nan,Clippers Timeout: Short (Reg.7 Short 3),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45410,21500359,5,0:12,nan,Crawford 25' 3PT Jump Shot (14 PTS) (Griffin 7 AST),105 - 102,2037,Jamal Crawford,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+45411,21500359,5,0:12,PISTONS Timeout: Short (Full 5 Short 3),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+45412,21500359,5,0:12,nan,SUB: Mbah a Moute FOR Paul,nan,101108,Chris Paul,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+45413,21500359,5,0:12,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+45414,21500359,5,0:12,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+45415,21500359,5,0:09,nan,Rivers P.FOUL (P2.PN) (P.Fraher),nan,203085,Austin Rivers,LAC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+45416,21500359,5,0:09,Jackson Free Throw 1 of 2 (34 PTS),nan,105 - 103,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45417,21500359,5,0:09,nan,SUB: W. Johnson FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+45418,21500359,5,0:09,nan,SUB: Paul FOR Jordan,nan,201599,DeAndre Jordan,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+45419,21500359,5,0:09,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+45420,21500359,5,0:09,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+45421,21500359,5,0:09,MISS Jackson Free Throw 2 of 2,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45422,21500359,5,0:09,Drummond REBOUND (Off:4 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45423,21500359,5,0:08,MISS Drummond  Layup,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45424,21500359,5,0:07,Jackson REBOUND (Off:4 Def:6),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45425,21500359,5,0:06,MISS Jackson 3' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45426,21500359,5,0:05,Jackson REBOUND (Off:5 Def:6),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45427,21500359,5,0:03,MISS Jackson 15' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45428,21500359,5,0:00,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45429,21500359,5,0:00,nan,nan,105 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+215605,21600504,4,12:00,nan,nan,92 - 99,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+215606,21600504,4,11:39,nan,MISS Rose 12' Pullup Jump Shot,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215607,21600504,4,11:38,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215608,21600504,4,11:36,nan,MISS Rose 11' Jump Shot,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215609,21600504,4,11:36,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215610,21600504,4,11:36,nan,Ndour L.B.FOUL (P2.T1) (S.Wright),nan,1626254,Maurice Ndour,NYK,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Loose Ball
+215611,21600504,4,11:26,MISS Gordon 25' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215612,21600504,4,11:24,nan,Rose REBOUND (Off:2 Def:3),nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215613,21600504,4,11:15,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215614,21600504,4,11:14,Anderson REBOUND (Off:1 Def:3),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215615,21600504,4,11:02,MISS Ennis 12' Jump Shot,nan,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215616,21600504,4,11:02,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215617,21600504,4,11:02,nan,SUB: Jennings FOR Kuzminskas,nan,1627851,Mindaugas Kuzminskas,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Substitution ,nan
+215618,21600504,4,10:49,nan,MISS Holiday 24' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215619,21600504,4,10:47,nan,Holiday REBOUND (Off:1 Def:2),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215620,21600504,4,10:45,nan,Holiday  Driving Dunk (12 PTS),94 - 99,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215621,21600504,4,10:25,MISS Gordon 12' Floating Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215622,21600504,4,10:23,nan,Hernangomez REBOUND (Off:3 Def:6),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215623,21600504,4,10:14,nan,Hernangomez 16' Jump Shot (3 PTS) (Jennings 5 AST),96 - 99,1626195,Willy Hernangomez,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+215624,21600504,4,10:14,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+215625,21600504,4,10:14,SUB: Harden FOR Ennis,nan,nan,203898,Tyler Ennis,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+215626,21600504,4,9:59,nan,Holiday S.FOUL (P2.T2) (C.Blair),nan,203200,Justin Holiday,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+215627,21600504,4,9:59,nan,nan,nan,454,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+215628,21600504,4,9:59,Harden Free Throw 1 of 3 (41 PTS),nan,96 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+215629,21600504,4,9:59,Harden Free Throw 2 of 3 (42 PTS),nan,96 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+215630,21600504,4,9:59,Harden Free Throw 3 of 3 (43 PTS),nan,96 - 102,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+215631,21600504,4,9:49,nan,Ndour  Alley Oop Layup (4 PTS) (Jennings 6 AST),98 - 102,1626254,Maurice Ndour,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+215632,21600504,4,9:30,nan,Ndour S.FOUL (P3.T3) (J.Goble),nan,1626254,Maurice Ndour,NYK,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Shooting
+215633,21600504,4,9:30,MISS Anderson Free Throw 1 of 2,nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215634,21600504,4,9:30,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+215635,21600504,4,9:30,nan,SUB: Thomas FOR Ndour,nan,1626254,Maurice Ndour,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+215636,21600504,4,9:30,Anderson Free Throw 2 of 2 (18 PTS),nan,98 - 103,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215637,21600504,4,9:20,nan,Rose 1' Driving Reverse Layup (20 PTS),100 - 103,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215638,21600504,4,9:10,Gordon 25' 3PT Jump Shot (15 PTS) (Harden 14 AST),nan,100 - 106,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+215639,21600504,4,8:58,Harrell S.FOUL (P3.T1) (J.Goble),nan,nan,1626149,Montrezl Harrell,HOU,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Shooting
+215640,21600504,4,8:58,nan,Thomas Free Throw 1 of 2 (8 PTS),101 - 106,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215641,21600504,4,8:58,SUB: Ariza FOR Harrell,nan,nan,1626149,Montrezl Harrell,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+215642,21600504,4,8:58,nan,Thomas Free Throw 2 of 2 (9 PTS),102 - 106,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215643,21600504,4,8:49,MISS Gordon 26' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215644,21600504,4,8:48,nan,Hernangomez REBOUND (Off:3 Def:7),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215645,21600504,4,8:34,Brewer Shooting Block Foul (P5.T2) (C.Blair),nan,nan,201147,Corey Brewer,HOU,201565,Derrick Rose,NYK,0,nan,nan,Foul ,Shooting Block
+215646,21600504,4,8:34,nan,Rose Free Throw 1 of 2 (21 PTS),103 - 106,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215647,21600504,4,8:34,nan,MISS Rose Free Throw 2 of 2,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215648,21600504,4,8:33,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215649,21600504,4,8:10,MISS Ariza 26' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215650,21600504,4,8:10,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215651,21600504,4,8:10,nan,Holiday L.B.FOUL (P3.T4) (S.Wright),nan,203200,Justin Holiday,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Loose Ball
+215652,21600504,4,7:58,Harden 1' Driving Layup (45 PTS),nan,103 - 108,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+215653,21600504,4,7:48,nan,Hernangomez FLAGRANT.FOUL.TYPE1 (P1.PN) (C.Blair),nan,1626195,Willy Hernangomez,NYK,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Flagrant Type 1
+215654,21600504,4,7:48,nan,Hernangomez Offensive Foul Turnover (P1.T7),nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Turnover ,Offensive Foul Turnover
+215655,21600504,4,7:48,nan,nan,nan,499,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+215656,21600504,4,7:48,Anderson Free Throw Flagrant 1 of 2 (19 PTS),nan,103 - 109,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+215657,21600504,4,7:48,Anderson Free Throw Flagrant 2 of 2 (20 PTS),nan,103 - 110,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+215658,21600504,4,7:35,MISS Harden  Driving Dunk,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215659,21600504,4,7:34,nan,Jennings REBOUND (Off:1 Def:3),nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215660,21600504,4,7:25,nan,MISS Jennings 24' 3PT Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215661,21600504,4,7:24,Anderson REBOUND (Off:1 Def:4),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215662,21600504,4,7:12,MISS Harden 26' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215663,21600504,4,7:10,nan,Holiday REBOUND (Off:1 Def:3),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215664,21600504,4,6:56,Anderson S.FOUL (P2.T3) (J.Goble),nan,nan,201583,Ryan Anderson,HOU,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Shooting
+215665,21600504,4,6:56,nan,Jennings Free Throw 1 of 2 (27 PTS),104 - 110,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215666,21600504,4,6:56,nan,SUB: Noah FOR Hernangomez,nan,1626195,Willy Hernangomez,NYK,201149,Joakim Noah,NYK,0,nan,nan,Substitution ,nan
+215667,21600504,4,6:56,nan,Jennings Free Throw 2 of 2 (28 PTS),105 - 110,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215668,21600504,4,6:47,Harden Lost Ball Turnover (P8.T13),Noah STEAL (1 STL),nan,201935,James Harden,HOU,201149,Joakim Noah,NYK,0,nan,nan,Turnover ,Lost Ball
+215669,21600504,4,6:38,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215670,21600504,4,6:37,Harden REBOUND (Off:3 Def:11),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215671,21600504,4,6:18,MISS Gordon 5' Fadeaway Jumper,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215672,21600504,4,6:17,nan,Noah REBOUND (Off:2 Def:11),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215673,21600504,4,6:04,nan,MISS Rose 2' Driving Layup,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215674,21600504,4,6:03,Ariza REBOUND (Off:0 Def:6),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215675,21600504,4,5:48,MISS Ariza 24' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215676,21600504,4,5:47,nan,Thomas REBOUND (Off:0 Def:1),nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215677,21600504,4,5:40,nan,Jennings  Driving Layup (30 PTS),107 - 110,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215678,21600504,4,5:38,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+215679,21600504,4,5:38,SUB: Harrell FOR Brewer,nan,nan,201147,Corey Brewer,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+215680,21600504,4,5:32,nan,Noah Personal Block Foul (P2.PN) (C.Blair),nan,201149,Joakim Noah,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Personal Block
+215681,21600504,4,5:32,Harden Free Throw 1 of 2 (46 PTS),nan,107 - 111,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215682,21600504,4,5:32,Harden Free Throw 2 of 2 (47 PTS),nan,107 - 112,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215683,21600504,4,5:13,nan,MISS Rose 1' Layup,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215684,21600504,4,5:12,Harden REBOUND (Off:3 Def:12),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215685,21600504,4,5:04,MISS Harden 25' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215686,21600504,4,5:03,nan,Noah REBOUND (Off:2 Def:12),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215687,21600504,4,4:54,nan,MISS Jennings 7' Floating Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215688,21600504,4,4:51,nan,Noah REBOUND (Off:3 Def:12),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215689,21600504,4,4:51,nan,Noah 2' Tip Layup Shot (9 PTS),109 - 112,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215690,21600504,4,4:39,Harrell 1' Cutting Layup Shot (11 PTS) (Gordon 2 AST),nan,109 - 114,1626149,Montrezl Harrell,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+215691,21600504,4,4:19,nan,MISS Rose 6' Floating Jump Shot,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215692,21600504,4,4:17,nan,Noah REBOUND (Off:4 Def:12),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215693,21600504,4,4:17,nan,Noah 1' Tip Layup Shot (11 PTS),111 - 114,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215694,21600504,4,4:01,nan,Holiday S.FOUL (P4.PN) (C.Blair),nan,203200,Justin Holiday,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+215695,21600504,4,4:01,Harden Free Throw 1 of 3 (48 PTS),nan,111 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+215696,21600504,4,4:01,Harden Free Throw 2 of 3 (49 PTS),nan,111 - 116,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+215697,21600504,4,4:01,Harden Free Throw 3 of 3 (50 PTS),nan,111 - 117,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+215698,21600504,4,3:46,nan,MISS Jennings 2' Driving Layup,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215699,21600504,4,3:45,Harrell REBOUND (Off:0 Def:2),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215700,21600504,4,3:37,Anderson 23' Jump Shot (22 PTS) (Harden 15 AST),nan,111 - 119,201583,Ryan Anderson,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+215701,21600504,4,3:37,nan,Knicks Timeout: Regular (Reg.4 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+215702,21600504,4,3:32,Gordon P.FOUL (P2.T4) (J.Goble),nan,nan,201569,Eric Gordon,HOU,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+215703,21600504,4,3:21,nan,MISS Thomas 24' 3PT Jump Shot,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215704,21600504,4,3:20,Ariza REBOUND (Off:0 Def:7),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215705,21600504,4,3:07,MISS Harden 25' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215706,21600504,4,3:05,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215707,21600504,4,2:52,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215708,21600504,4,2:51,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215709,21600504,4,2:26,Ariza 5' Floating Jump Shot (14 PTS) (Harden 16 AST),nan,111 - 121,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+215710,21600504,4,2:11,Harrell S.FOUL (P4.PN) (C.Blair),nan,nan,1626149,Montrezl Harrell,HOU,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Shooting
+215711,21600504,4,2:11,nan,Thomas Free Throw 1 of 2 (10 PTS),112 - 121,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+215712,21600504,4,2:11,nan,Thomas Free Throw 2 of 2 (11 PTS),113 - 121,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+215713,21600504,4,1:58,MISS Gordon 26' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215714,21600504,4,1:57,nan,Holiday REBOUND (Off:1 Def:4),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215715,21600504,4,1:52,nan,MISS Jennings 26' 3PT Pullup Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215716,21600504,4,1:50,Harrell REBOUND (Off:0 Def:3),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215717,21600504,4,1:40,Anderson 28' 3PT Jump Shot (25 PTS) (Harden 17 AST),nan,113 - 124,201583,Ryan Anderson,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+215718,21600504,4,1:40,nan,Knicks Timeout: Regular (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+215719,21600504,4,1:33,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215720,21600504,4,1:32,Harrell REBOUND (Off:0 Def:4),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215721,21600504,4,1:16,Harden 26' 3PT Jump Shot (53 PTS) (Anderson 1 AST),nan,113 - 127,201935,James Harden,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Made Shot ,nan
+215722,21600504,4,1:07,nan,Noah 6' Turnaround Hook Shot (13 PTS),115 - 127,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215723,21600504,4,0:53,MISS Harden 26' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215724,21600504,4,0:52,Anderson REBOUND (Off:2 Def:4),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215725,21600504,4,0:49,MISS Ariza  3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215726,21600504,4,0:48,nan,Jennings REBOUND (Off:1 Def:4),nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215727,21600504,4,0:40,nan,Holiday 25' 3PT Jump Shot (15 PTS) (Jennings 7 AST),118 - 127,203200,Justin Holiday,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+215728,21600504,4,0:34,Harrell 1' Running Layup (13 PTS) (Ariza 4 AST),nan,118 - 129,1626149,Montrezl Harrell,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+215729,21600504,4,0:25,nan,Noah 1' Layup (15 PTS),120 - 129,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215730,21600504,4,0:25,Anderson Shooting Block Foul (P3.PN) (S.Wright),nan,nan,201583,Ryan Anderson,HOU,201149,Joakim Noah,NYK,0,nan,nan,Foul ,Shooting Block
+215731,21600504,4,0:25,nan,MISS Noah Free Throw 1 of 1,nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+215732,21600504,4,0:25,Harden REBOUND (Off:3 Def:13),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215733,21600504,4,0:08,MISS Gordon  3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+215734,21600504,4,0:07,nan,Holiday REBOUND (Off:1 Def:5),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+215735,21600504,4,0:01,nan,Jennings  Driving Layup (32 PTS),122 - 129,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+215736,21600504,4,0:00,nan,nan,122 - 129,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

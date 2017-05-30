@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+127680,21501021,4,12:00,nan,nan,85 - 68,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+127681,21501021,4,11:38,nan,Waiters  3PT Jump Shot (5 PTS) (Durant 6 AST),88 - 68,203079,Dion Waiters,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+127682,21501021,4,11:16,MISS Thompson 24' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127683,21501021,4,11:14,Noel REBOUND (Off:4 Def:4),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127684,21501021,4,11:06,Noel 1' Layup (12 PTS) (Thompson 3 AST),nan,88 - 70,203457,Nerlens Noel,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+127685,21501021,4,10:45,Noel STEAL (1 STL),Kanter Lost Ball Turnover (P4.T15),nan,202683,Enes Kanter,OKC,203457,Nerlens Noel,PHI,0,nan,nan,Turnover ,Lost Ball
+127686,21501021,4,10:39,MISS Thompson 25' 3PT Pullup Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127687,21501021,4,10:37,nan,Durant REBOUND (Off:1 Def:11),nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127688,21501021,4,10:29,nan,MISS Waiters 26' 3PT Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127689,21501021,4,10:27,nan,Singler REBOUND (Off:3 Def:0),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127690,21501021,4,10:24,McConnell P.FOUL (P2.T1) (Z.Zarba),nan,nan,204456,T.J. McConnell,PHI,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Personal
+127691,21501021,4,10:11,nan,Foye 25' 3PT Step Back Jump Shot (9 PTS),91 - 70,200751,Randy Foye,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127692,21501021,4,9:49,Thompson 14' Floating Jump Shot (16 PTS) (Canaan 1 AST),nan,91 - 72,203138,Hollis Thompson,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+127693,21501021,4,9:36,nan,Durant 17' Step Back Jump Shot (24 PTS),93 - 72,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127694,21501021,4,9:24,MISS Noel 4' Jump Shot,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127695,21501021,4,9:22,nan,Singler REBOUND (Off:3 Def:1),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127696,21501021,4,9:17,nan,Kanter 1' Running Layup (13 PTS) (Foye 4 AST),95 - 72,202683,Enes Kanter,OKC,200751,Randy Foye,OKC,0,nan,nan,Made Shot ,nan
+127697,21501021,4,9:17,76ERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+127698,21501021,4,9:08,MISS Thompson 23' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127699,21501021,4,9:07,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127700,21501021,4,9:07,nan,Durant L.B.FOUL (P3.T1) (B.Adams),nan,201142,Kevin Durant,OKC,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Loose Ball
+127701,21501021,4,8:59,MISS Thompson 26' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127702,21501021,4,8:57,nan,Singler REBOUND (Off:3 Def:2),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127703,21501021,4,8:45,Stauskas STEAL (3 STL),Durant Bad Pass Turnover (P5.T16),nan,201142,Kevin Durant,OKC,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Bad Pass
+127704,21501021,4,8:40,Canaan 26' 3PT Running Pull-Up Jump Shot (7 PTS) (Stauskas 1 AST),nan,95 - 75,203477,Isaiah Canaan,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+127705,21501021,4,8:20,nan,MISS Waiters 20' Step Back Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127706,21501021,4,8:16,Stauskas REBOUND (Off:1 Def:3),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127707,21501021,4,8:08,Stauskas 26' 3PT Jump Shot (18 PTS) (Canaan 2 AST),nan,95 - 78,203917,Nik Stauskas,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+127708,21501021,4,8:08,nan,Thunder Timeout: Regular (Reg.4 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+127709,21501021,4,8:08,nan,SUB: Westbrook FOR Durant,nan,201142,Kevin Durant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+127710,21501021,4,8:08,SUB: Smith FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+127711,21501021,4,8:08,SUB: Grant FOR Thompson,nan,nan,203138,Hollis Thompson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+127712,21501021,4,7:55,nan,Kanter OFF.Foul (P3) (B.Adams),nan,202683,Enes Kanter,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Offensive
+127713,21501021,4,7:55,nan,Kanter Foul Turnover (P5.T17),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+127714,21501021,4,7:37,nan,Singler Violation:Kicked Ball (K.Lane),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+127715,21501021,4,7:26,nan,Foye P.FOUL (P4.T2) (K.Lane),nan,200751,Randy Foye,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Personal
+127716,21501021,4,7:17,nan,Singler S.FOUL (P2.T3) (B.Adams),nan,202713,Kyle Singler,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+127717,21501021,4,7:17,MISS Grant Free Throw 1 of 2,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+127718,21501021,4,7:17,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+127719,21501021,4,7:17,nan,SUB: Roberson FOR Singler,nan,202713,Kyle Singler,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+127720,21501021,4,7:17,MISS Grant Free Throw 2 of 2,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+127721,21501021,4,7:15,nan,Westbrook REBOUND (Off:3 Def:11),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127722,21501021,4,7:05,nan,Waiters 1' Driving Reverse Layup (7 PTS) (Westbrook 9 AST),97 - 78,203079,Dion Waiters,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+127723,21501021,4,6:47,Grant 3 Second Violation Turnover (P1.T6),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+127724,21501021,4,6:38,nan,Kanter OFF.Foul (P4) (Z.Zarba),nan,202683,Enes Kanter,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Offensive
+127725,21501021,4,6:38,nan,Kanter Foul Turnover (P6.T18),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+127726,21501021,4,6:24,Canaan 27' 3PT Jump Shot (10 PTS) (Smith 6 AST),nan,97 - 81,203477,Isaiah Canaan,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+127727,21501021,4,6:06,nan,MISS Foye  3PT Jump Shot,nan,200751,Randy Foye,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127728,21501021,4,6:06,nan,Kanter REBOUND (Off:2 Def:5),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127729,21501021,4,6:06,nan,Kanter  Putback Dunk (15 PTS),99 - 81,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127730,21501021,4,6:06,Canaan S.FOUL (P1.T2) (K.Lane),nan,nan,203477,Isaiah Canaan,PHI,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+127731,21501021,4,6:06,nan,Kanter Free Throw 1 of 1 (16 PTS),100 - 81,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+127732,21501021,4,6:06,nan,SUB: Durant FOR Waiters,nan,203079,Dion Waiters,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+127733,21501021,4,5:43,MISS Grant  Reverse Dunk,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127734,21501021,4,5:38,Grant REBOUND (Off:2 Def:2),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127735,21501021,4,5:37,Grant  Dunk (12 PTS) (Stauskas 2 AST),nan,100 - 83,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+127736,21501021,4,5:24,Canaan STEAL (2 STL),Westbrook Bad Pass Turnover (P5.T19),nan,201566,Russell Westbrook,OKC,203477,Isaiah Canaan,PHI,0,nan,nan,Turnover ,Bad Pass
+127737,21501021,4,5:21,MISS Stauskas 1' Layup,Westbrook BLOCK (1 BLK),nan,203917,Nik Stauskas,PHI,0,nan,nan,201566,Russell Westbrook,OKC,Missed Shot ,nan
+127738,21501021,4,5:18,Smith REBOUND (Off:1 Def:3),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127739,21501021,4,5:14,Stauskas  3PT Jump Shot (21 PTS) (Smith 7 AST),nan,100 - 86,203917,Nik Stauskas,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+127740,21501021,4,4:59,Canaan STEAL (3 STL),Roberson Bad Pass Turnover (P1.T20),nan,203460,Andre Roberson,OKC,203477,Isaiah Canaan,PHI,0,nan,nan,Turnover ,Bad Pass
+127741,21501021,4,4:44,Smith Bad Pass Turnover (P1.T7),Roberson STEAL (1 STL),nan,202397,Ish Smith,PHI,203460,Andre Roberson,OKC,0,nan,nan,Turnover ,Bad Pass
+127742,21501021,4,4:44,nan,Thunder Timeout: Regular (Reg.5 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+127743,21501021,4,4:44,nan,SUB: Waiters FOR Roberson,nan,203460,Andre Roberson,OKC,203079,Dion Waiters,OKC,0,nan,nan,Substitution ,nan
+127744,21501021,4,4:32,nan,MISS Durant  Dunk,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127745,21501021,4,4:31,Grant REBOUND (Off:2 Def:3),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127746,21501021,4,4:26,MISS Stauskas 26' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127747,21501021,4,4:24,nan,Westbrook REBOUND (Off:3 Def:12),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127748,21501021,4,4:18,nan,MISS Kanter 1' Alley Oop Layup,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127749,21501021,4,4:16,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127750,21501021,4,4:16,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+127751,21501021,4,4:15,nan,Durant 2' Layup (26 PTS) (Westbrook 10 AST),102 - 86,201142,Kevin Durant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+127752,21501021,4,3:59,MISS Stauskas 2' Layup,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127753,21501021,4,3:57,Noel REBOUND (Off:5 Def:4),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127754,21501021,4,3:56,MISS Noel 1' Layup,Westbrook BLOCK (2 BLK),nan,203457,Nerlens Noel,PHI,0,nan,nan,201566,Russell Westbrook,OKC,Missed Shot ,nan
+127755,21501021,4,3:55,nan,Adams REBOUND (Off:4 Def:7),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127756,21501021,4,3:50,nan,Westbrook 25' 3PT Jump Shot (20 PTS) (Foye 5 AST),105 - 86,201566,Russell Westbrook,OKC,200751,Randy Foye,OKC,0,nan,nan,Made Shot ,nan
+127757,21501021,4,3:49,76ERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+127758,21501021,4,3:40,Grant OFF.Foul (P2) (B.Adams),nan,nan,203924,Jerami Grant,PHI,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Offensive
+127759,21501021,4,3:40,Grant Foul Turnover (P2.T8),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+127760,21501021,4,3:25,nan,MISS Durant 16' Jump Shot,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127761,21501021,4,3:23,Grant REBOUND (Off:2 Def:4),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127762,21501021,4,3:13,MISS Canaan 26' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127763,21501021,4,3:11,nan,Durant REBOUND (Off:1 Def:12),nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127764,21501021,4,2:57,nan,Waiters 20' Jump Shot (9 PTS),107 - 86,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127765,21501021,4,2:43,nan,Durant S.FOUL (P4.T4) (K.Lane),nan,201142,Kevin Durant,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+127766,21501021,4,2:43,Grant Free Throw 1 of 2 (13 PTS),nan,107 - 87,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+127767,21501021,4,2:43,nan,SUB: Payne FOR Durant,nan,201142,Kevin Durant,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+127768,21501021,4,2:43,nan,SUB: Roberson FOR Westbrook,nan,201566,Russell Westbrook,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+127769,21501021,4,2:43,SUB: McConnell FOR Noel,nan,nan,203457,Nerlens Noel,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+127770,21501021,4,2:43,SUB: Weems FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,201603,Sonny Weems,PHI,0,nan,nan,Substitution ,nan
+127771,21501021,4,2:43,SUB: Landry FOR Smith,nan,nan,202397,Ish Smith,PHI,201171,Carl Landry,PHI,0,nan,nan,Substitution ,nan
+127772,21501021,4,2:43,nan,SUB: McGary FOR Foye,nan,200751,Randy Foye,OKC,203956,Mitch McGary,OKC,0,nan,nan,Substitution ,nan
+127773,21501021,4,2:43,Grant Free Throw 2 of 2 (14 PTS),nan,107 - 88,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+127774,21501021,4,2:31,nan,MISS Waiters 20' Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127775,21501021,4,2:29,Weems REBOUND (Off:0 Def:1),nan,nan,201603,Sonny Weems,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127776,21501021,4,2:07,McConnell 15' Step Back Jump Shot (6 PTS),nan,107 - 90,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+127777,21501021,4,1:54,nan,Payne 17' Pullup Jump Shot (2 PTS),109 - 90,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127778,21501021,4,1:54,76ERS Timeout: Regular (Full 6 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+127779,21501021,4,1:54,nan,SUB: Collison FOR Adams,nan,203500,Steven Adams,OKC,2555,Nick Collison,OKC,0,nan,nan,Substitution ,nan
+127780,21501021,4,1:44,nan,McGary S.FOUL (P1.PN) (Z.Zarba),nan,203956,Mitch McGary,OKC,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+127781,21501021,4,1:44,Grant Free Throw 1 of 2 (15 PTS),nan,109 - 91,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+127782,21501021,4,1:44,MISS Grant Free Throw 2 of 2,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+127783,21501021,4,1:43,nan,McGary REBOUND (Off:0 Def:1),nan,203956,Mitch McGary,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127784,21501021,4,1:27,nan,MISS Waiters 20' Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127785,21501021,4,1:26,Weems REBOUND (Off:0 Def:2),nan,nan,201603,Sonny Weems,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127786,21501021,4,1:12,Landry  Dunk (4 PTS) (Stauskas 3 AST),nan,109 - 93,201171,Carl Landry,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+127787,21501021,4,0:50,nan,MISS Payne 25' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+127788,21501021,4,0:48,Grant REBOUND (Off:2 Def:5),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+127789,21501021,4,0:33,McConnell 14' Turnaround Jump Shot (8 PTS) (Grant 2 AST),nan,109 - 95,204456,T.J. McConnell,PHI,203924,Jerami Grant,PHI,0,nan,nan,Made Shot ,nan
+127790,21501021,4,0:11,nan,McGary 17' Turnaround Jump Shot (4 PTS),111 - 95,203956,Mitch McGary,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+127791,21501021,4,0:02,Stauskas 2' Finger Roll Layup (23 PTS),nan,111 - 97,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+127792,21501021,4,0:00,nan,nan,111 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+31976,21500255,4,12:00,nan,nan,81 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+31977,21500255,4,11:41,Bosh 2' Driving Layup (13 PTS),nan,81 - 77,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+31978,21500255,4,11:25,Bosh BLOCK (1 BLK),MISS Lee  Dunk,nan,101135,David Lee,BOS,0,nan,nan,2547,Chris Bosh,MIA,Missed Shot ,nan
+31979,21500255,4,11:24,Winslow REBOUND (Off:1 Def:3),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31980,21500255,4,11:10,MISS Bosh 17' Jump Shot,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31981,21500255,4,11:09,McRoberts REBOUND (Off:1 Def:1),nan,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31982,21500255,4,11:00,McRoberts Lost Ball Turnover (P1.T15),Olynyk STEAL (1 STL),nan,201177,Josh McRoberts,MIA,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Lost Ball
+31983,21500255,4,10:47,Johnson STEAL (1 STL),Rozier Bad Pass Turnover (P1.T13),nan,1626179,Terry Rozier,BOS,204020,Tyler Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+31984,21500255,4,10:37,Bosh 25' 3PT Jump Shot (16 PTS) (Johnson 1 AST),nan,81 - 80,2547,Chris Bosh,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+31985,21500255,4,10:08,nan,Bradley 27' 3PT Jump Shot (23 PTS) (Olynyk 2 AST),84 - 80,202340,Avery Bradley,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+31986,21500255,4,9:55,Bosh 2' Driving Layup (18 PTS) (Johnson 2 AST),nan,84 - 82,2547,Chris Bosh,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+31987,21500255,4,9:55,nan,Lee S.FOUL (P3.T1) (J.Capers),nan,101135,David Lee,BOS,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Shooting
+31988,21500255,4,9:55,nan,SUB: Crowder FOR Lee,nan,101135,David Lee,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+31989,21500255,4,9:55,nan,SUB: Johnson FOR Olynyk,nan,203482,Kelly Olynyk,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+31990,21500255,4,9:55,nan,SUB: Sullinger FOR Rozier,nan,1626179,Terry Rozier,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Substitution ,nan
+31991,21500255,4,9:55,Bosh Free Throw 1 of 1 (19 PTS),nan,84 - 83,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31992,21500255,4,9:40,nan,Bradley 22' Jump Shot (25 PTS) (Sullinger 2 AST),86 - 83,202340,Avery Bradley,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+31993,21500255,4,9:23,Winslow Offensive Charge Foul (P1.T1) (S.Anderson),nan,nan,1626159,Justise Winslow,MIA,203096,Jared Sullinger,BOS,0,nan,nan,Foul ,Offensive Charge
+31994,21500255,4,9:23,Winslow Foul Turnover (P4.T16),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Turnover ,Foul
+31995,21500255,4,9:03,nan,Crowder 24' 3PT Jump Shot (11 PTS) (Sullinger 3 AST),89 - 83,203109,Jae Crowder,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+31996,21500255,4,8:42,MISS Bosh 17' Fadeaway Jumper,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31997,21500255,4,8:41,nan,Turner REBOUND (Off:0 Def:2),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31998,21500255,4,8:29,McRoberts BLOCK (1 BLK),MISS Crowder 3' Driving Layup,nan,203109,Jae Crowder,BOS,0,nan,nan,201177,Josh McRoberts,MIA,Missed Shot ,nan
+31999,21500255,4,8:28,Bosh REBOUND (Off:0 Def:7),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32000,21500255,4,8:20,MISS Green 25' 3PT Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32001,21500255,4,8:18,nan,Sullinger REBOUND (Off:2 Def:3),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32002,21500255,4,8:06,nan,Bradley Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+32003,21500255,4,8:06,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+32004,21500255,4,8:06,SUB: Whiteside FOR McRoberts,nan,nan,201177,Josh McRoberts,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+32005,21500255,4,7:50,Bosh Lost Ball Turnover (P2.T17),Bradley STEAL (2 STL),nan,2547,Chris Bosh,MIA,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+32006,21500255,4,7:42,nan,Johnson 6' Hook Shot (13 PTS) (Turner 3 AST),91 - 83,101161,Amir Johnson,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+32007,21500255,4,7:24,MISS Bosh 6' Jump Shot,Johnson BLOCK (1 BLK),nan,2547,Chris Bosh,MIA,0,nan,nan,101161,Amir Johnson,BOS,Missed Shot ,nan
+32008,21500255,4,7:23,nan,Turner REBOUND (Off:0 Def:3),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32009,21500255,4,7:03,nan,MISS Sullinger 12' Jump Shot,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32010,21500255,4,7:02,Bosh REBOUND (Off:0 Def:8),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32011,21500255,4,6:55,nan,Turner P.FOUL (P1.T2) (S.Anderson),nan,202323,Evan Turner,BOS,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+32012,21500255,4,6:55,SUB: Wade FOR Bosh,nan,nan,2547,Chris Bosh,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Substitution ,nan
+32013,21500255,4,6:55,nan,SUB: Thomas FOR Bradley,nan,202340,Avery Bradley,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+32014,21500255,4,6:44,MISS Wade 20' Jump Shot,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32015,21500255,4,6:43,nan,Crowder REBOUND (Off:2 Def:3),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32016,21500255,4,6:25,nan,MISS Johnson 8' Floating Jump Shot,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32017,21500255,4,6:24,nan,Johnson REBOUND (Off:3 Def:5),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32018,21500255,4,6:07,nan,Sullinger 24' 3PT Jump Shot (15 PTS) (Thomas 9 AST),94 - 83,203096,Jared Sullinger,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+32019,21500255,4,6:06,HEAT Timeout: Regular (Full 4 Short 0),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32020,21500255,4,6:06,SUB: Dragic FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+32021,21500255,4,6:06,SUB: Bosh FOR Johnson,nan,nan,204020,Tyler Johnson,MIA,2547,Chris Bosh,MIA,0,nan,nan,Substitution ,nan
+32022,21500255,4,5:54,Wade 1' Driving Layup (24 PTS),nan,94 - 85,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32023,21500255,4,5:34,nan,MISS Crowder 24' 3PT Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32024,21500255,4,5:33,Dragic REBOUND (Off:1 Def:3),nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32025,21500255,4,5:26,Wade 6' Jump Bank Shot (26 PTS),nan,94 - 87,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32026,21500255,4,5:09,nan,MISS Sullinger 8' Jump Shot,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32027,21500255,4,5:08,Green REBOUND (Off:0 Def:3),nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32028,21500255,4,5:00,Wade 7' Jump Shot (28 PTS),nan,94 - 89,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32029,21500255,4,4:50,nan,MISS Thomas 2' Driving Finger Roll Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32030,21500255,4,4:49,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32031,21500255,4,4:49,Wade L.B.FOUL (P2.T2) (J.Capers),nan,nan,2548,Dwyane Wade,MIA,203096,Jared Sullinger,BOS,0,nan,nan,Foul ,Loose Ball
+32032,21500255,4,4:49,nan,SUB: Bradley FOR Turner,nan,202323,Evan Turner,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+32033,21500255,4,4:40,nan,Sullinger 2' Reverse Layup (17 PTS) (Bradley 3 AST),96 - 89,203096,Jared Sullinger,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+32034,21500255,4,4:20,nan,Johnson P.FOUL (P3.T3) (S.Anderson),nan,101161,Amir Johnson,BOS,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Personal
+32035,21500255,4,4:10,Wade Lost Ball Turnover (P5.T18),Bradley STEAL (3 STL),nan,2548,Dwyane Wade,MIA,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+32036,21500255,4,4:10,Bosh P.FOUL (P2.T3) (J.Capers),nan,nan,2547,Chris Bosh,MIA,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Personal
+32037,21500255,4,3:50,nan,MISS Thomas 25' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32038,21500255,4,3:49,Bosh REBOUND (Off:0 Def:9),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32039,21500255,4,3:38,Wade Bad Pass Turnover (P6.T19),Thomas STEAL (1 STL),nan,2548,Dwyane Wade,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Turnover ,Bad Pass
+32040,21500255,4,3:31,nan,MISS Crowder 15' Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32041,21500255,4,3:30,Winslow REBOUND (Off:1 Def:4),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32042,21500255,4,3:24,Wade 2' Alley Oop Layup (30 PTS) (Dragic 3 AST),nan,96 - 91,2548,Dwyane Wade,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+32043,21500255,4,3:24,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32044,21500255,4,3:04,nan,Bradley Out of Bounds Lost Ball Turnover (P2.T15),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+32045,21500255,4,2:55,MISS Green 24' 3PT Step Back Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32046,21500255,4,2:54,nan,Sullinger REBOUND (Off:2 Def:4),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32047,21500255,4,2:40,Wade STEAL (5 STL),Johnson Bad Pass Turnover (P3.T16),nan,101161,Amir Johnson,BOS,2548,Dwyane Wade,MIA,0,nan,nan,Turnover ,Bad Pass
+32048,21500255,4,2:30,MISS Wade 24' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32049,21500255,4,2:29,nan,Johnson REBOUND (Off:3 Def:6),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32050,21500255,4,2:14,nan,MISS Thomas 1' Driving Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32051,21500255,4,2:13,Bosh REBOUND (Off:0 Def:10),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32052,21500255,4,2:07,MISS Green 24' 3PT Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32053,21500255,4,2:06,Winslow REBOUND (Off:2 Def:4),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32054,21500255,4,2:05,MISS Winslow 1' Tip Layup Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32055,21500255,4,2:04,Wade REBOUND (Off:3 Def:1),nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32056,21500255,4,2:02,Bosh 1' Layup (21 PTS) (Wade 4 AST),nan,96 - 93,2547,Chris Bosh,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+32057,21500255,4,1:52,nan,Celtics Timeout: Short (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32058,21500255,4,1:52,nan,SUB: Turner FOR Johnson,nan,101161,Amir Johnson,BOS,202323,Evan Turner,BOS,0,nan,nan,Substitution ,nan
+32059,21500255,4,1:47,Green S.FOUL (P2.T4) (J.Capers),nan,nan,101123,Gerald Green,MIA,203109,Jae Crowder,BOS,0,nan,nan,Foul ,Shooting
+32060,21500255,4,1:47,nan,Crowder Free Throw 1 of 2 (12 PTS),97 - 93,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32061,21500255,4,1:47,nan,SUB: Jerebko FOR Thomas,nan,202738,Isaiah Thomas,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+32062,21500255,4,1:47,nan,SUB: Johnson FOR Sullinger,nan,203096,Jared Sullinger,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+32063,21500255,4,1:47,nan,Crowder Free Throw 2 of 2 (13 PTS),98 - 93,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32064,21500255,4,1:33,MISS Wade 2' Driving Reverse Layup,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32065,21500255,4,1:32,nan,Turner REBOUND (Off:0 Def:4),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32066,21500255,4,1:17,nan,Celtics Timeout: Short (Reg.4 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32067,21500255,4,1:09,nan,MISS Bradley 25' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32068,21500255,4,1:08,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32069,21500255,4,1:08,nan,Johnson L.B.FOUL (P4.T4) (S.Anderson),nan,101161,Amir Johnson,BOS,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Loose Ball
+32070,21500255,4,1:00,MISS Wade 8' Jump Shot,Bradley BLOCK (1 BLK),nan,2548,Dwyane Wade,MIA,0,nan,nan,202340,Avery Bradley,BOS,Missed Shot ,nan
+32071,21500255,4,0:59,nan,Turner REBOUND (Off:0 Def:5),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32072,21500255,4,0:58,Wade P.FOUL (P3.PN) (S.Anderson),nan,nan,2548,Dwyane Wade,MIA,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+32073,21500255,4,0:58,nan,Turner Free Throw 1 of 2 (9 PTS),99 - 93,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32074,21500255,4,0:58,nan,MISS Turner Free Throw 2 of 2,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32075,21500255,4,0:57,nan,Turner REBOUND (Off:1 Def:5),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32076,21500255,4,0:38,nan,Turner 1' Driving Layup (11 PTS),101 - 93,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+32077,21500255,4,0:38,HEAT Timeout: Regular (Full 5 Short 0),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32078,21500255,4,0:34,MISS Bosh 25' 3PT Jump Shot,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32079,21500255,4,0:33,nan,Johnson REBOUND (Off:3 Def:7),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32080,21500255,4,0:32,Dragic P.FOUL (P2.PN) (J.Williams),nan,nan,201609,Goran Dragic,MIA,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+32081,21500255,4,0:32,nan,Turner Free Throw 1 of 2 (12 PTS),102 - 93,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32082,21500255,4,0:32,nan,Turner Free Throw 2 of 2 (13 PTS),103 - 93,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32083,21500255,4,0:32,HEAT Timeout: Short (Full 5 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32084,21500255,4,0:29,nan,Crowder S.FOUL (P5.PN) (S.Anderson),nan,203109,Jae Crowder,BOS,101123,Gerald Green,MIA,0,nan,nan,Foul ,Shooting
+32085,21500255,4,0:29,Green Free Throw 1 of 2 (8 PTS),nan,103 - 94,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32086,21500255,4,0:29,nan,SUB: Sullinger FOR Jerebko,nan,201973,Jonas Jerebko,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Substitution ,nan
+32087,21500255,4,0:29,nan,SUB: Thomas FOR Johnson,nan,101161,Amir Johnson,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+32088,21500255,4,0:29,Green Free Throw 2 of 2 (9 PTS),nan,103 - 95,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32089,21500255,4,0:27,Winslow P.FOUL (P2.PN) (J.Williams),nan,nan,1626159,Justise Winslow,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+32090,21500255,4,0:27,nan,Thomas Free Throw 1 of 2 (15 PTS),104 - 95,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32091,21500255,4,0:27,nan,SUB: Johnson FOR Sullinger,nan,203096,Jared Sullinger,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+32092,21500255,4,0:27,nan,Thomas Free Throw 2 of 2 (16 PTS),105 - 95,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32093,21500255,4,0:16,MISS Dragic 26' 3PT Jump Shot,Johnson BLOCK (2 BLK),nan,201609,Goran Dragic,MIA,0,nan,nan,101161,Amir Johnson,BOS,Missed Shot ,nan
+32094,21500255,4,0:15,nan,Thomas REBOUND (Off:0 Def:1),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32095,21500255,4,0:00,nan,nan,105 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

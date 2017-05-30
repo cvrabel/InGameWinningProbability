@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+92582,21500742,4,12:00,nan,nan,79 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+92583,21500742,4,11:45,MISS Green  3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92584,21500742,4,11:44,nan,Anderson REBOUND (Off:1 Def:5),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92585,21500742,4,11:29,nan,Holiday 16' Pullup Jump Shot (18 PTS),81 - 83,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+92586,21500742,4,11:19,Mills 25' 3PT Jump Shot (8 PTS),nan,81 - 86,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+92587,21500742,4,11:01,Ginobili STEAL (1 STL),Ajinca Lost Ball Turnover (P1.T15),nan,201582,Alexis Ajinca,NOP,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Lost Ball
+92588,21500742,4,10:41,MISS Ginobili 2' Driving Finger Roll Layup,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92589,21500742,4,10:40,nan,Anderson REBOUND (Off:1 Def:6),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92590,21500742,4,10:37,nan,Holiday Double Dribble Turnover (P3.T16),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+92591,21500742,4,10:33,nan,Anderson Personal Block Foul (P1.T1) (Z.Zarba),nan,201583,Ryan Anderson,NOP,201988,Patty Mills,SAS,0,nan,nan,Foul ,Personal Block
+92592,21500742,4,10:23,nan,Ajinca P.FOUL (P2.T2) (J.Orr),nan,201582,Alexis Ajinca,NOP,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal
+92593,21500742,4,10:15,MISS West  Dunk,nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92594,21500742,4,10:13,nan,Anderson REBOUND (Off:1 Def:7),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92595,21500742,4,10:02,nan,Douglas 24' 3PT Jump Shot (3 PTS) (Cunningham 1 AST),84 - 86,201962,Toney Douglas,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Made Shot ,nan
+92596,21500742,4,9:41,Ginobili Bad Pass Turnover (P4.T13),Holiday STEAL (2 STL),nan,1938,Manu Ginobili,SAS,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+92597,21500742,4,9:35,nan,MISS Douglas 26' 3PT Jump Shot,nan,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92598,21500742,4,9:34,Anderson REBOUND (Off:1 Def:1),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92599,21500742,4,9:19,West 5' Jump Bank Shot (14 PTS) (Ginobili 4 AST),nan,84 - 88,2561,David West,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+92600,21500742,4,9:08,Green P.FOUL (P2.T1) (Z.Zarba),nan,nan,201980,Danny Green,SAS,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Personal
+92601,21500742,4,9:08,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+92602,21500742,4,9:01,West BLOCK (2 BLK),MISS Holiday 7' Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,2561,David West,SAS,Missed Shot ,nan
+92603,21500742,4,8:59,Leonard REBOUND (Off:0 Def:4),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92604,21500742,4,8:51,Leonard 15' Jump Shot (20 PTS),nan,84 - 90,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+92605,21500742,4,8:38,nan,Ajinca 18' Jump Shot (4 PTS) (Douglas 1 AST),86 - 90,201582,Alexis Ajinca,NOP,201962,Toney Douglas,NOP,0,nan,nan,Made Shot ,nan
+92606,21500742,4,8:21,MISS Green 24' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92607,21500742,4,8:20,nan,Ajinca REBOUND (Off:0 Def:1),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92608,21500742,4,8:08,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+92609,21500742,4,8:08,SUB: Aldridge FOR West,nan,nan,2561,David West,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+92610,21500742,4,8:08,SUB: Parker FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+92611,21500742,4,8:08,nan,SUB: Davis FOR Ajinca,nan,201582,Alexis Ajinca,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+92612,21500742,4,7:58,nan,MISS Holiday 18' Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92613,21500742,4,7:57,nan,Anderson REBOUND (Off:2 Def:7),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92614,21500742,4,7:47,nan,MISS Davis 24' 3PT Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92615,21500742,4,7:47,Parker REBOUND (Off:0 Def:2),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92616,21500742,4,7:39,MISS Leonard 25' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92617,21500742,4,7:38,nan,Douglas REBOUND (Off:1 Def:1),nan,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92618,21500742,4,7:18,nan,MISS Cunningham 25' 3PT Jump Shot,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92619,21500742,4,7:17,Mills REBOUND (Off:0 Def:2),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92620,21500742,4,7:00,Aldridge 18' Jump Shot (26 PTS) (Leonard 1 AST),nan,86 - 92,200746,LaMarcus Aldridge,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+92621,21500742,4,6:39,nan,Anderson 18' Step Back Jump Shot (8 PTS),88 - 92,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+92622,21500742,4,6:23,MISS Aldridge 15' Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92623,21500742,4,6:22,nan,Holiday REBOUND (Off:0 Def:1),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92624,21500742,4,6:07,nan,MISS Holiday 4' Floating Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92625,21500742,4,6:06,nan,Davis REBOUND (Off:2 Def:7),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92626,21500742,4,6:06,Aldridge BLOCK (3 BLK),MISS Davis 2' Layup,nan,203076,Anthony Davis,NOP,0,nan,nan,200746,LaMarcus Aldridge,SAS,Missed Shot ,nan
+92627,21500742,4,6:05,nan,Holiday REBOUND (Off:1 Def:1),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92628,21500742,4,6:02,nan,MISS Holiday 2' Finger Roll Layup,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92629,21500742,4,6:00,Green REBOUND (Off:0 Def:6),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92630,21500742,4,5:50,Leonard 3' Driving Finger Roll Layup (22 PTS) (Parker 7 AST),nan,88 - 94,202695,Kawhi Leonard,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+92631,21500742,4,5:27,nan,MISS Holiday 4' Driving Layup,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92632,21500742,4,5:26,Green REBOUND (Off:0 Def:7),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92633,21500742,4,5:18,nan,Cunningham S.FOUL (P1.T3) (T.Brown),nan,201967,Dante Cunningham,NOP,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+92634,21500742,4,5:18,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+92635,21500742,4,5:18,nan,SUB: Cole FOR Anderson,nan,201583,Ryan Anderson,NOP,202708,Norris Cole,NOP,0,nan,nan,Substitution ,nan
+92636,21500742,4,5:18,Aldridge Free Throw 1 of 2 (27 PTS),nan,88 - 95,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92637,21500742,4,5:18,Aldridge Free Throw 2 of 2 (28 PTS),nan,88 - 96,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92638,21500742,4,5:08,Aldridge S.FOUL (P3.T2) (T.Brown),nan,nan,200746,LaMarcus Aldridge,SAS,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+92639,21500742,4,5:08,nan,Davis Free Throw 1 of 2 (26 PTS),89 - 96,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92640,21500742,4,5:08,nan,MISS Davis Free Throw 2 of 2,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92641,21500742,4,5:07,Leonard REBOUND (Off:0 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92642,21500742,4,4:51,MISS Leonard 4' Driving Layup,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92643,21500742,4,4:49,Aldridge REBOUND (Off:2 Def:3),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92644,21500742,4,4:49,Aldridge 1' Putback Layup (30 PTS),nan,89 - 98,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+92645,21500742,4,4:37,nan,MISS Cole 26' 3PT Jump Shot,nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92646,21500742,4,4:36,Aldridge REBOUND (Off:2 Def:4),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92647,21500742,4,4:24,Leonard 7' Turnaround Jump Shot (24 PTS),nan,89 - 100,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+92648,21500742,4,3:57,nan,Cunningham 3' Driving Layup (4 PTS) (Cole 9 AST),91 - 100,201967,Dante Cunningham,NOP,202708,Norris Cole,NOP,0,nan,nan,Made Shot ,nan
+92649,21500742,4,3:42,nan,Douglas S.FOUL (P3.T4) (T.Brown),nan,201962,Toney Douglas,NOP,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+92650,21500742,4,3:42,Aldridge Free Throw 1 of 2 (31 PTS),nan,91 - 101,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92651,21500742,4,3:42,SUB: Ginobili FOR Mills,nan,nan,201988,Patty Mills,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+92652,21500742,4,3:42,Aldridge Free Throw 2 of 2 (32 PTS),nan,91 - 102,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92653,21500742,4,3:30,Green STEAL (1 STL),Davis Lost Ball Turnover (P4.T17),nan,203076,Anthony Davis,NOP,201980,Danny Green,SAS,0,nan,nan,Turnover ,Lost Ball
+92654,21500742,4,3:18,nan,Cunningham S.FOUL (P2.PN) (Z.Zarba),nan,201967,Dante Cunningham,NOP,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+92655,21500742,4,3:18,Aldridge Free Throw 1 of 2 (33 PTS),nan,91 - 103,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92656,21500742,4,3:18,nan,SUB: Anderson FOR Cunningham,nan,201967,Dante Cunningham,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Substitution ,nan
+92657,21500742,4,3:18,Aldridge Free Throw 2 of 2 (34 PTS),nan,91 - 104,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92658,21500742,4,3:02,nan,Anderson 13' Step Back Jump Shot (10 PTS) (Holiday 5 AST),93 - 104,201583,Ryan Anderson,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+92659,21500742,4,2:46,MISS Green 26' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92660,21500742,4,2:45,nan,Anderson REBOUND (Off:2 Def:8),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92661,21500742,4,2:26,nan,Anderson OFF.Foul (P2) (T.Brown),nan,201583,Ryan Anderson,NOP,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Offensive
+92662,21500742,4,2:26,nan,Anderson Foul Turnover (P1.T18),nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+92663,21500742,4,2:26,nan,Pelicans Timeout: Regular (Reg.4 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+92664,21500742,4,2:26,SUB: Mills FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+92665,21500742,4,2:10,nan,Davis S.FOUL (P1.PN) (J.Orr),nan,203076,Anthony Davis,NOP,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+92666,21500742,4,2:10,Aldridge Free Throw 1 of 2 (35 PTS),nan,93 - 105,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92667,21500742,4,2:10,Aldridge Free Throw 2 of 2 (36 PTS),nan,93 - 106,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92668,21500742,4,1:48,nan,MISS Davis 9' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92669,21500742,4,1:47,Mills REBOUND (Off:0 Def:3),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92670,21500742,4,1:31,Parker Bad Pass Turnover (P3.T14),Douglas STEAL (3 STL),nan,2225,Tony Parker,SAS,201962,Toney Douglas,NOP,0,nan,nan,Turnover ,Bad Pass
+92671,21500742,4,1:24,nan,MISS Holiday 25' 3PT Pullup Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92672,21500742,4,1:22,nan,Holiday REBOUND (Off:2 Def:1),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92673,21500742,4,1:21,nan,MISS Holiday 26' 3PT Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92674,21500742,4,1:21,nan,Davis REBOUND (Off:3 Def:7),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92675,21500742,4,1:19,nan,Davis  Tip Dunk Shot (28 PTS),95 - 106,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+92676,21500742,4,1:04,MISS Aldridge 16' Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92677,21500742,4,1:03,nan,Holiday REBOUND (Off:2 Def:2),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92678,21500742,4,0:54,Green S.FOUL (P3.T3) (J.Orr),nan,nan,201980,Danny Green,SAS,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Shooting
+92679,21500742,4,0:54,nan,Holiday Free Throw 1 of 2 (19 PTS),96 - 106,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+92680,21500742,4,0:54,nan,Holiday Free Throw 2 of 2 (20 PTS),97 - 106,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+92681,21500742,4,0:35,Leonard 7' Floating Jump Shot (26 PTS) (Parker 8 AST),nan,97 - 108,202695,Kawhi Leonard,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+92682,21500742,4,0:35,nan,Pelicans Timeout: Regular (Reg.5 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+92683,21500742,4,0:35,SUB: Anderson FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+92684,21500742,4,0:35,SUB: McCallum FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+92685,21500742,4,0:35,SUB: Simmons FOR Parker,nan,nan,2225,Tony Parker,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+92686,21500742,4,0:35,SUB: Butler FOR Green,nan,nan,201980,Danny Green,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+92687,21500742,4,0:33,Butler STEAL (1 STL),Cole Bad Pass Turnover (P2.T19),nan,202708,Norris Cole,NOP,2446,Rasual Butler,SAS,0,nan,nan,Turnover ,Bad Pass
+92688,21500742,4,0:10,Butler 2' Driving Layup (2 PTS) (Simmons 1 AST),nan,97 - 110,2446,Rasual Butler,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+92689,21500742,4,0:04,nan,MISS Holiday 26' 3PT Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+92690,21500742,4,0:03,Butler REBOUND (Off:0 Def:1),nan,nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+92691,21500742,4,0:00,nan,nan,97 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

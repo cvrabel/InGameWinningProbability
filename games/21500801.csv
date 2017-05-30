@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+100242,21500801,4,12:00,nan,nan,70 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+100243,21500801,4,11:44,Monroe S.FOUL (P3.T1) (E.Roe),nan,nan,202328,Greg Monroe,MIL,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+100244,21500801,4,11:44,nan,Nene Free Throw 1 of 2 (9 PTS),71 - 69,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100245,21500801,4,11:44,nan,Nene Free Throw 2 of 2 (10 PTS),72 - 69,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100246,21500801,4,11:27,MISS Bayless 24' 3PT Jump Shot,nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100247,21500801,4,11:26,Antetokounmpo REBOUND (Off:4 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100248,21500801,4,11:26,nan,Temple P.FOUL (P1.T1) (E.Roe),nan,202066,Garrett Temple,WAS,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+100249,21500801,4,11:20,Monroe Offensive Charge Foul (P4.T2) (B.Kennedy),nan,nan,202328,Greg Monroe,MIL,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Offensive Charge
+100250,21500801,4,11:20,Monroe Foul Turnover (P1.T16),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+100251,21500801,4,10:59,nan,MISS Wall 17' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100252,21500801,4,10:58,Bayless REBOUND (Off:1 Def:6),nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100253,21500801,4,10:45,Vaughn 24' 3PT Jump Shot (8 PTS) (Middleton 5 AST),nan,72 - 72,1626173,Rashad Vaughn,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+100254,21500801,4,10:28,Middleton P.FOUL (P1.T3) (E.Roe),nan,nan,203114,Khris Middleton,MIL,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Foul ,Personal
+100255,21500801,4,10:15,nan,Wall 29' 3PT Jump Shot (10 PTS) (Porter Jr. 2 AST),75 - 72,202322,John Wall,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+100256,21500801,4,9:58,MISS Middleton  Layup,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100257,21500801,4,9:57,Monroe REBOUND (Off:2 Def:3),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100258,21500801,4,9:57,MISS Monroe 1' Tip Layup Shot,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100259,21500801,4,9:55,Monroe REBOUND (Off:3 Def:3),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100260,21500801,4,9:55,MISS Monroe 2' Tip Layup Shot,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100261,21500801,4,9:54,Middleton REBOUND (Off:2 Def:1),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100262,21500801,4,9:54,Middleton 2' Layup (15 PTS),nan,75 - 74,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+100263,21500801,4,9:54,nan,Nene S.FOUL (P3.T2) (B.Kennedy),nan,2403,Nene,WAS,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+100264,21500801,4,9:54,Middleton Free Throw 1 of 1 (16 PTS),nan,75 - 75,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+100265,21500801,4,9:42,nan,MISS Oubre Jr.  Dunk,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100266,21500801,4,9:40,Bayless REBOUND (Off:1 Def:7),nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100267,21500801,4,9:33,Middleton 1' Driving Layup (18 PTS),nan,75 - 77,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+100268,21500801,4,9:33,nan,Wizards Timeout: Regular (Reg.4 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+100269,21500801,4,9:33,nan,SUB: Beal FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+100270,21500801,4,9:17,nan,Beal Out of Bounds - Bad Pass Turnover Turnover (P2.T12),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+100271,21500801,4,8:52,MISS Vaughn 28' 3PT Jump Shot,Wall BLOCK (2 BLK),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,202322,John Wall,WAS,Missed Shot ,nan
+100272,21500801,4,8:52,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100273,21500801,4,8:52,BUCKS Turnover: Shot Clock (T#17),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+100274,21500801,4,8:38,nan,MISS Temple 24' 3PT Jump Shot,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100275,21500801,4,8:37,Antetokounmpo REBOUND (Off:4 Def:7),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100276,21500801,4,8:23,MISS Middleton 17' Jump Shot,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100277,21500801,4,8:22,nan,Beal REBOUND (Off:0 Def:3),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100278,21500801,4,8:17,Vaughn S.FOUL (P1.T4) (S.Wright),nan,nan,1626173,Rashad Vaughn,MIL,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Shooting
+100279,21500801,4,8:17,nan,MISS Temple Free Throw 1 of 2,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100280,21500801,4,8:17,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+100281,21500801,4,8:17,nan,Temple Free Throw 2 of 2 (3 PTS),76 - 77,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100282,21500801,4,7:54,MISS Vaughn 24' 3PT Jump Shot,nan,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100283,21500801,4,7:53,nan,Wall REBOUND (Off:0 Def:4),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100284,21500801,4,7:48,nan,MISS Beal 24' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100285,21500801,4,7:47,Middleton REBOUND (Off:2 Def:2),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100286,21500801,4,7:43,nan,Nene S.FOUL (P4.T3) (S.Wright),nan,2403,Nene,WAS,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+100287,21500801,4,7:43,Middleton Free Throw 1 of 2 (19 PTS),nan,76 - 78,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100288,21500801,4,7:43,SUB: Parker FOR Antetokounmpo,nan,nan,203507,Giannis Antetokounmpo,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+100289,21500801,4,7:43,nan,SUB: Dudley FOR Porter Jr.,nan,203490,Otto Porter Jr.,WAS,201162,Jared Dudley,WAS,0,nan,nan,Substitution ,nan
+100290,21500801,4,7:43,nan,SUB: Sessions FOR Temple,nan,202066,Garrett Temple,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Substitution ,nan
+100291,21500801,4,7:43,Middleton Free Throw 2 of 2 (20 PTS),nan,76 - 79,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100292,21500801,4,7:32,nan,Wall 28' 3PT Jump Shot (13 PTS) (Beal 4 AST),79 - 79,202322,John Wall,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+100293,21500801,4,7:11,MISS Bayless 26' 3PT Jump Shot,nan,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100294,21500801,4,7:10,nan,Dudley REBOUND (Off:1 Def:5),nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100295,21500801,4,6:58,nan,MISS Nene 8' Fadeaway Jumper,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100296,21500801,4,6:57,Monroe REBOUND (Off:3 Def:4),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100297,21500801,4,6:43,Bayless  Driving Layup (7 PTS) (Parker 4 AST),nan,79 - 81,201573,Jerryd Bayless,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+100298,21500801,4,6:27,Middleton STEAL (5 STL),Wall Bad Pass Turnover (P6.T13),nan,202322,John Wall,WAS,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+100299,21500801,4,6:21,Middleton Lost Ball Turnover (P2.T18),Sessions STEAL (2 STL),nan,203114,Khris Middleton,MIL,201196,Ramon Sessions,WAS,0,nan,nan,Turnover ,Lost Ball
+100300,21500801,4,6:15,nan,Nene  Dunk (12 PTS) (Sessions 2 AST),81 - 81,2403,Nene,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+100301,21500801,4,5:56,nan,Dudley P.FOUL (P3.T4) (S.Wright),nan,201162,Jared Dudley,WAS,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Personal
+100302,21500801,4,5:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+100303,21500801,4,5:56,SUB: Mayo FOR Bayless,nan,nan,201573,Jerryd Bayless,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Substitution ,nan
+100304,21500801,4,5:56,SUB: Antetokounmpo FOR Vaughn,nan,nan,1626173,Rashad Vaughn,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+100305,21500801,4,5:43,Middleton 26' 3PT Jump Shot (23 PTS) (Antetokounmpo 3 AST),nan,81 - 84,203114,Khris Middleton,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+100306,21500801,4,5:24,nan,Nene 2' Cutting Layup Shot (14 PTS) (Beal 5 AST),83 - 84,2403,Nene,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+100307,21500801,4,5:11,Antetokounmpo 1' Cutting Layup Shot (14 PTS) (Middleton 6 AST),nan,83 - 86,203507,Giannis Antetokounmpo,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+100308,21500801,4,5:03,nan,MISS Dudley 2' Driving Layup,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100309,21500801,4,5:01,Monroe REBOUND (Off:3 Def:5),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100310,21500801,4,4:41,MISS Mayo 8' Jump Shot,nan,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100311,21500801,4,4:40,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100312,21500801,4,4:31,nan,MISS Wall 28' 3PT Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100313,21500801,4,4:29,Mayo REBOUND (Off:0 Def:1),nan,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100314,21500801,4,4:16,Antetokounmpo 5' Floating Jump Shot (16 PTS) (Middleton 7 AST),nan,83 - 88,203507,Giannis Antetokounmpo,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+100315,21500801,4,4:16,nan,Dudley S.FOUL (P4.PN) (S.Wright),nan,201162,Jared Dudley,WAS,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+100316,21500801,4,4:16,nan,SUB: Porter Jr. FOR Sessions,nan,201196,Ramon Sessions,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+100317,21500801,4,4:16,Antetokounmpo Free Throw 1 of 1 (17 PTS),nan,83 - 89,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+100318,21500801,4,3:59,nan,Beal 2' Driving Layup (14 PTS) (Nene 2 AST),85 - 89,203078,Bradley Beal,WAS,2403,Nene,WAS,0,nan,nan,Made Shot ,nan
+100319,21500801,4,3:45,nan,Nene P.FOUL (P5.PN) (E.Roe),nan,2403,Nene,WAS,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Personal
+100320,21500801,4,3:45,MISS Monroe Free Throw 1 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100321,21500801,4,3:45,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+100322,21500801,4,3:45,nan,SUB: Gortat FOR Nene,nan,2403,Nene,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+100323,21500801,4,3:45,MISS Monroe Free Throw 2 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100324,21500801,4,3:44,nan,Gortat REBOUND (Off:2 Def:7),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100325,21500801,4,3:27,nan,MISS Beal 9' Floating Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100326,21500801,4,3:26,Middleton REBOUND (Off:2 Def:3),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100327,21500801,4,3:09,MISS Antetokounmpo 19' Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100328,21500801,4,3:08,nan,Dudley REBOUND (Off:1 Def:6),nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100329,21500801,4,3:02,nan,Beal 1' Running Layup (16 PTS),87 - 89,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+100330,21500801,4,2:45,Mayo 7' Floating Jump Shot (2 PTS),nan,87 - 91,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+100331,21500801,4,2:39,Mayo STEAL (1 STL),Wall Lost Ball Turnover (P7.T14),nan,202322,John Wall,WAS,201564,O.J. Mayo,MIL,0,nan,nan,Turnover ,Lost Ball
+100332,21500801,4,2:32,Parker 10' Jump Shot (17 PTS) (Middleton 8 AST),nan,87 - 93,203953,Jabari Parker,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+100333,21500801,4,2:29,nan,Wizards Timeout: Short (Reg.4 Short 2),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+100334,21500801,4,2:29,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+100335,21500801,4,2:06,nan,MISS Beal 20' Step Back Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100336,21500801,4,2:04,Middleton REBOUND (Off:2 Def:4),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100337,21500801,4,1:42,MISS Monroe 5' Jump Shot,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100338,21500801,4,1:40,Parker REBOUND (Off:3 Def:6),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100339,21500801,4,1:40,MISS Parker  Dunk,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100340,21500801,4,1:38,nan,Porter Jr. REBOUND (Off:2 Def:2),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100341,21500801,4,1:36,Middleton S.FOUL (P2.PN) (E.Roe),nan,nan,203114,Khris Middleton,MIL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+100342,21500801,4,1:36,Monroe T.FOUL (P4.PN) (S.Wright),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Foul ,Technical
+100343,21500801,4,1:36,nan,Beal Free Throw Technical (17 PTS),88 - 93,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+100344,21500801,4,1:36,nan,Wall Free Throw 1 of 2 (14 PTS),89 - 93,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100345,21500801,4,1:36,nan,Wall Free Throw 2 of 2 (15 PTS),90 - 93,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100346,21500801,4,1:29,Mayo Lost Ball Turnover (P3.T19),Wall STEAL (2 STL),nan,201564,O.J. Mayo,MIL,202322,John Wall,WAS,0,nan,nan,Turnover ,Lost Ball
+100347,21500801,4,1:15,nan,MISS Wall 25' 3PT Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100348,21500801,4,1:13,Antetokounmpo REBOUND (Off:4 Def:8),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100349,21500801,4,0:54,Middleton 8' Jump Shot (25 PTS),nan,90 - 95,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+100350,21500801,4,0:43,nan,MISS Porter Jr. 1' Reverse Layup,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100351,21500801,4,0:42,nan,Gortat REBOUND (Off:3 Def:7),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100352,21500801,4,0:42,nan,MISS Gortat 2' Tip Layup Shot,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100353,21500801,4,0:41,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100354,21500801,4,0:33,nan,MISS Wall 26' 3PT Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100355,21500801,4,0:32,Monroe REBOUND (Off:3 Def:6),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100356,21500801,4,0:14,Monroe 1' Layup (12 PTS) (Middleton 9 AST),nan,90 - 97,202328,Greg Monroe,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+100357,21500801,4,0:14,nan,Wizards Timeout: Regular (Reg.5 Short 2),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+100358,21500801,4,0:09,nan,Beal 1' Driving Layup (19 PTS),92 - 97,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+100359,21500801,4,0:08,nan,Dudley Personal Take Foul (P5.PN) (B.Kennedy),nan,201162,Jared Dudley,WAS,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal Take
+100360,21500801,4,0:08,Middleton Free Throw 1 of 2 (26 PTS),nan,92 - 98,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+100361,21500801,4,0:08,Middleton Free Throw 2 of 2 (27 PTS),nan,92 - 99,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+100362,21500801,4,0:08,nan,Wizards Timeout: Short (Reg.5 Short 3),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+100363,21500801,4,0:03,nan,MISS Beal 30' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+100364,21500801,4,0:02,Antetokounmpo REBOUND (Off:4 Def:9),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+100365,21500801,4,0:00,nan,nan,92 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

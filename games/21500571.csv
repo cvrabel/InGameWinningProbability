@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+71142,21500571,4,12:00,nan,nan,81 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+71143,21500571,4,11:41,nan,MISS Smart 3' Layup,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71144,21500571,4,11:40,Porzingis REBOUND (Off:1 Def:5),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71145,21500571,4,11:35,MISS Grant 2' Driving Layup,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71146,21500571,4,11:34,nan,Sullinger REBOUND (Off:0 Def:3),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71147,21500571,4,11:26,nan,Jerebko 25' 3PT Jump Shot (6 PTS) (Smart 4 AST),84 - 85,201973,Jonas Jerebko,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+71148,21500571,4,10:59,MISS Porzingis 26' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71149,21500571,4,10:58,nan,Smart REBOUND (Off:0 Def:6),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71150,21500571,4,10:55,nan,MISS Smart  Layup,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71151,21500571,4,10:53,nan,Sullinger REBOUND (Off:1 Def:3),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71152,21500571,4,10:52,Porzingis BLOCK (1 BLK),MISS Sullinger 2' Layup,nan,203096,Jared Sullinger,BOS,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+71153,21500571,4,10:51,nan,Jerebko REBOUND (Off:2 Def:2),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71154,21500571,4,10:50,Porzingis BLOCK (2 BLK),MISS Jerebko 1' Layup,nan,201973,Jonas Jerebko,BOS,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+71155,21500571,4,10:44,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71156,21500571,4,10:44,nan,Smart L.B.FOUL (P4.T1) (D.Jones),nan,203935,Marcus Smart,BOS,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Loose Ball
+71157,21500571,4,10:30,nan,Turner P.FOUL (P2.T2) (S.Anderson),nan,202323,Evan Turner,BOS,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Personal
+71158,21500571,4,10:19,Afflalo 1' Driving Layup (16 PTS) (Porzingis 2 AST),nan,84 - 87,201167,Arron Afflalo,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+71159,21500571,4,10:07,nan,Smart 1' Driving Layup (6 PTS),86 - 87,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+71160,21500571,4,10:00,nan,Smart S.FOUL (P5.T3) (D.Jones),nan,203935,Marcus Smart,BOS,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Shooting
+71161,21500571,4,10:00,Grant Free Throw 1 of 2 (7 PTS),nan,86 - 88,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71162,21500571,4,10:00,MISS Grant Free Throw 2 of 2,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71163,21500571,4,9:59,nan,Sullinger REBOUND (Off:1 Def:4),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71164,21500571,4,9:45,nan,Sullinger 21' Jump Shot (4 PTS) (Jerebko 1 AST),88 - 88,203096,Jared Sullinger,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+71165,21500571,4,9:25,Grant 26' 3PT Jump Shot (10 PTS) (Thomas 2 AST),nan,88 - 91,1626170,Jerian Grant,NYK,202498,Lance Thomas,NYK,0,nan,nan,Made Shot ,nan
+71166,21500571,4,9:09,nan,Sullinger 2' Layup (6 PTS) (Jerebko 2 AST),90 - 91,203096,Jared Sullinger,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+71167,21500571,4,8:51,Porzingis 10' Jump Shot (24 PTS),nan,90 - 93,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+71168,21500571,4,8:26,Porzingis S.FOUL (P5.T1) (S.Anderson),nan,nan,204001,Kristaps Porzingis,NYK,203096,Jared Sullinger,BOS,0,nan,nan,Foul ,Shooting
+71169,21500571,4,8:26,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+71170,21500571,4,8:26,nan,SUB: Crowder FOR Smart,nan,203935,Marcus Smart,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+71171,21500571,4,8:26,SUB: Williams FOR Thomas,nan,nan,202498,Lance Thomas,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+71172,21500571,4,8:26,SUB: Lopez FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+71173,21500571,4,8:26,nan,MISS Sullinger Free Throw 1 of 2,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71174,21500571,4,8:26,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71175,21500571,4,8:26,nan,Sullinger Free Throw 2 of 2 (7 PTS),91 - 93,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71176,21500571,4,8:08,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71177,21500571,4,8:07,nan,Sullinger REBOUND (Off:1 Def:5),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71178,21500571,4,7:54,nan,Sullinger 1' Dunk (9 PTS) (Turner 2 AST),93 - 93,203096,Jared Sullinger,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+71179,21500571,4,7:34,MISS Afflalo  3PT Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71180,21500571,4,7:33,nan,Sullinger REBOUND (Off:1 Def:6),nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71181,21500571,4,7:14,nan,Turner 5' Jump Shot (7 PTS),95 - 93,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+71182,21500571,4,7:01,Lopez 6' Jump Shot (13 PTS) (Grant 3 AST),nan,95 - 95,201577,Robin Lopez,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71183,21500571,4,6:37,nan,MISS Turner 4' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71184,21500571,4,6:35,Williams REBOUND (Off:1 Def:7),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71185,21500571,4,6:29,Williams Lost Ball Turnover (P2.T11),Turner STEAL (1 STL),nan,202682,Derrick Williams,NYK,202323,Evan Turner,BOS,0,nan,nan,Turnover ,Lost Ball
+71186,21500571,4,6:23,nan,Bradley 1' Layup (8 PTS) (Turner 3 AST),97 - 95,202340,Avery Bradley,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+71187,21500571,4,6:03,nan,Crowder S.FOUL (P1.T4) (R.Mott),nan,203109,Jae Crowder,BOS,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Shooting
+71188,21500571,4,6:03,Afflalo Free Throw 1 of 2 (17 PTS),nan,97 - 96,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71189,21500571,4,6:03,SUB: Calderon FOR Galloway,nan,nan,204038,Langston Galloway,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+71190,21500571,4,6:03,nan,SUB: Thomas FOR Turner,nan,202323,Evan Turner,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+71191,21500571,4,6:03,Afflalo Free Throw 2 of 2 (18 PTS),nan,97 - 97,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71192,21500571,4,5:52,nan,Sullinger 20' Jump Shot (11 PTS) (Jerebko 3 AST),99 - 97,203096,Jared Sullinger,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+71193,21500571,4,5:28,Afflalo 9' Fadeaway Jumper (20 PTS),nan,99 - 99,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+71194,21500571,4,5:12,nan,Sullinger 1' Layup (13 PTS) (Thomas 7 AST),101 - 99,203096,Jared Sullinger,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+71195,21500571,4,5:12,Lopez S.FOUL (P4.T2) (D.Jones),nan,nan,201577,Robin Lopez,NYK,203096,Jared Sullinger,BOS,0,nan,nan,Foul ,Shooting
+71196,21500571,4,5:12,KNICKS Timeout: Regular (Full 4 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+71197,21500571,4,5:12,nan,Sullinger Free Throw 1 of 1 (14 PTS),102 - 99,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+71198,21500571,4,4:50,Afflalo 8' Turnaround Jump Shot (22 PTS) (Calderon 5 AST),nan,102 - 101,201167,Arron Afflalo,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+71199,21500571,4,4:28,nan,MISS Thomas 26' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71200,21500571,4,4:27,Williams REBOUND (Off:1 Def:8),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71201,21500571,4,4:19,Williams 2' Layup (10 PTS) (Grant 4 AST),nan,102 - 103,202682,Derrick Williams,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71202,21500571,4,4:19,nan,Sullinger S.FOUL (P1.PN) (D.Jones),nan,203096,Jared Sullinger,BOS,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+71203,21500571,4,4:19,Williams Free Throw 1 of 1 (11 PTS),nan,102 - 104,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+71204,21500571,4,4:05,nan,MISS Sullinger 22' Jump Shot,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71205,21500571,4,4:00,nan,SUB: Turner FOR Jerebko,nan,201973,Jonas Jerebko,BOS,202323,Evan Turner,BOS,0,nan,nan,Substitution ,nan
+71206,21500571,4,4:00,nan,SUB: Johnson FOR Sullinger,nan,203096,Jared Sullinger,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+71207,21500571,4,4:00,SUB: Porzingis FOR Lopez,nan,nan,201577,Robin Lopez,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+71208,21500571,4,4:00,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71209,21500571,4,3:46,Jump Ball Porzingis vs. Thomas: Tip to Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,202738,Isaiah Thomas,BOS,204001,Kristaps Porzingis,NYK,Jump Ball ,nan
+71210,21500571,4,3:38,Porzingis 12' Jump Shot (26 PTS),nan,102 - 106,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+71211,21500571,4,3:29,nan,Celtics Timeout: Regular (Reg.4 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+71212,21500571,4,3:20,nan,Crowder 25' 3PT Jump Shot (19 PTS) (Turner 4 AST),105 - 106,203109,Jae Crowder,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+71213,21500571,4,2:53,MISS Porzingis 28' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71214,21500571,4,2:53,nan,Thomas REBOUND (Off:0 Def:3),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71215,21500571,4,2:44,Porzingis S.FOUL (P6.T3) (R.Mott),nan,nan,204001,Kristaps Porzingis,NYK,203109,Jae Crowder,BOS,0,nan,nan,Foul ,Shooting
+71216,21500571,4,2:44,SUB: Lopez FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+71217,21500571,4,2:44,nan,Crowder Free Throw 1 of 3 (20 PTS),106 - 106,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+71218,21500571,4,2:44,nan,MISS Crowder Free Throw 2 of 3,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+71219,21500571,4,2:44,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+71220,21500571,4,2:44,nan,Crowder Free Throw 3 of 3 (21 PTS),107 - 106,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+71221,21500571,4,2:21,Lopez 5' Hook Shot (15 PTS) (Grant 5 AST),nan,107 - 108,201577,Robin Lopez,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71222,21500571,4,1:57,nan,MISS Turner 26' 3PT Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71223,21500571,4,1:56,Grant REBOUND (Off:0 Def:1),nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71224,21500571,4,1:53,Williams  Dunk (13 PTS) (Grant 6 AST),nan,107 - 110,202682,Derrick Williams,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71225,21500571,4,1:42,nan,Johnson 5' Hook Shot (11 PTS) (Thomas 8 AST),109 - 110,101161,Amir Johnson,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+71226,21500571,4,1:21,Afflalo 7' Turnaround Jump Shot (24 PTS) (Grant 7 AST),nan,109 - 112,201167,Arron Afflalo,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71227,21500571,4,1:21,nan,Celtics Timeout: Short (Reg.4 Short 3),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+71228,21500571,4,1:21,nan,SUB: Smart FOR Turner,nan,202323,Evan Turner,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+71229,21500571,4,1:17,nan,Bradley 1' Layup (10 PTS) (Crowder 1 AST),111 - 112,202340,Avery Bradley,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+71230,21500571,4,0:57,Grant 6' Jump Bank Shot (12 PTS),nan,111 - 114,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+71231,21500571,4,0:50,nan,Thomas 19' Jump Shot (33 PTS),113 - 114,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+71232,21500571,4,0:43,KNICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+71233,21500571,4,0:31,nan,Johnson P.FOUL (P4.PN) (S.Anderson),nan,101161,Amir Johnson,BOS,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Personal
+71234,21500571,4,0:31,Grant Free Throw 1 of 2 (13 PTS),nan,113 - 115,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71235,21500571,4,0:31,nan,SUB: Sullinger FOR Johnson,nan,101161,Amir Johnson,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Substitution ,nan
+71236,21500571,4,0:31,SUB: Thomas FOR Calderon,nan,nan,101181,Jose Calderon,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+71237,21500571,4,0:31,Grant Free Throw 2 of 2 (14 PTS),nan,113 - 116,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71238,21500571,4,0:22,Lopez BLOCK (1 BLK),MISS Thomas 3' Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,201577,Robin Lopez,NYK,Missed Shot ,nan
+71239,21500571,4,0:20,Williams REBOUND (Off:1 Def:9),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71240,21500571,4,0:17,nan,Sullinger Personal Take Foul (P2.PN) (R.Mott),nan,203096,Jared Sullinger,BOS,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Personal Take
+71241,21500571,4,0:17,Grant Free Throw 1 of 2 (15 PTS),nan,113 - 117,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71242,21500571,4,0:17,nan,SUB: Jerebko FOR Smart,nan,203935,Marcus Smart,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+71243,21500571,4,0:17,Grant Free Throw 2 of 2 (16 PTS),nan,113 - 118,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71244,21500571,4,0:11,Thomas S.FOUL (P2.T4) (R.Mott),nan,nan,202498,Lance Thomas,NYK,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+71245,21500571,4,0:11,nan,Thomas Free Throw 1 of 2 (34 PTS),114 - 118,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+71246,21500571,4,0:11,nan,SUB: Turner FOR Sullinger,nan,203096,Jared Sullinger,BOS,202323,Evan Turner,BOS,0,nan,nan,Substitution ,nan
+71247,21500571,4,0:11,nan,SUB: Smart FOR Jerebko,nan,201973,Jonas Jerebko,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+71248,21500571,4,0:11,SUB: Calderon FOR Thomas,nan,nan,202498,Lance Thomas,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+71249,21500571,4,0:11,nan,MISS Thomas Free Throw 2 of 2,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+71250,21500571,4,0:10,Lopez REBOUND (Off:2 Def:3),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71251,21500571,4,0:02,Williams  Running Dunk (15 PTS) (Grant 8 AST),nan,114 - 120,202682,Derrick Williams,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+71252,21500571,4,0:00,nan,MISS Turner 26' 3PT Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+71253,21500571,4,0:00,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+71254,21500571,4,0:00,nan,nan,114 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

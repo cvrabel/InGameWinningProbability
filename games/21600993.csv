@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+275612,21600993,4,12:00,nan,nan,74 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+275613,21600993,4,11:35,MISS Harrison 9' Driving Floating Jump Shot,nan,nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275614,21600993,4,11:35,nan,Teletovic REBOUND (Off:0 Def:2),nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275615,21600993,4,11:08,nan,MISS Middleton 22' Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275616,21600993,4,11:08,Randolph REBOUND (Off:0 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275617,21600993,4,10:51,Randolph 21' Jump Shot (7 PTS) (Conley 6 AST),nan,74 - 87,2216,Zach Randolph,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+275618,21600993,4,10:37,Harrison P.FOUL (P4.T1) (D.Richardson),nan,nan,1626150,Andrew Harrison,MEM,1627763,Malcolm Brogdon,MIL,0,nan,nan,Foul ,Personal
+275619,21600993,4,10:28,nan,Brogdon 1' Driving Layup (8 PTS),76 - 87,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+275620,21600993,4,10:09,Randolph 20' Jump Shot (9 PTS) (Conley 7 AST),nan,76 - 89,2216,Zach Randolph,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+275621,21600993,4,9:52,Jump Ball Harrison vs. Henson: Tip to Middleton,nan,nan,1626150,Andrew Harrison,MEM,203089,John Henson,MIL,203114,Khris Middleton,MIL,Jump Ball ,nan
+275622,21600993,4,9:45,nan,Middleton 26' 3PT Jump Shot (11 PTS) (Brogdon 8 AST),79 - 89,203114,Khris Middleton,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+275623,21600993,4,9:27,Harrison 1' Driving Layup (8 PTS),nan,79 - 91,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+275624,21600993,4,9:27,nan,Henson S.FOUL (P2.T1) (L.Richardson),nan,203089,John Henson,MIL,1626150,Andrew Harrison,MEM,0,nan,nan,Foul ,Shooting
+275625,21600993,4,9:27,SUB: Carter FOR Ennis III,nan,nan,203516,James Ennis III,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+275626,21600993,4,9:27,Harrison Free Throw 1 of 1 (9 PTS),nan,79 - 92,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+275627,21600993,4,9:11,nan,Teletovic 26' 3PT Jump Shot (3 PTS) (Terry 1 AST),82 - 92,203141,Mirza Teletovic,MIL,1891,Jason Terry,MIL,0,nan,nan,Made Shot ,nan
+275628,21600993,4,8:51,MISS Randolph 8' Pullup Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275629,21600993,4,8:49,nan,Middleton REBOUND (Off:1 Def:2),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275630,21600993,4,8:38,nan,MISS Brogdon 9' Floating Jump Shot,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275631,21600993,4,8:38,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275632,21600993,4,8:38,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+275633,21600993,4,8:38,SUB: Allen FOR Harrison,nan,nan,1626150,Andrew Harrison,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+275634,21600993,4,8:38,SUB: Gasol FOR Wright,nan,nan,201148,Brandan Wright,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+275635,21600993,4,8:31,nan,MISS Henson 5' Hook Shot,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275636,21600993,4,8:29,Gasol REBOUND (Off:1 Def:6),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275637,21600993,4,8:17,nan,Teletovic P.FOUL (P2.T2) (J.Goble),nan,203141,Mirza Teletovic,MIL,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Personal
+275638,21600993,4,8:01,Conley 7' Driving Floating Bank Jump Shot (17 PTS),nan,82 - 94,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+275639,21600993,4,7:39,nan,Brogdon 25' 3PT Jump Shot (11 PTS) (Middleton 3 AST),85 - 94,1627763,Malcolm Brogdon,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+275640,21600993,4,7:18,Gasol OFF.Foul (P2) (L.Richardson),nan,nan,201188,Marc Gasol,MEM,203089,John Henson,MIL,0,nan,nan,Foul ,Offensive
+275641,21600993,4,7:18,Gasol Foul Turnover (P1.T12),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+275642,21600993,4,6:55,nan,MISS Brogdon 1' Cutting Layup Shot,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275643,21600993,4,6:54,nan,Brogdon REBOUND (Off:2 Def:0),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275644,21600993,4,6:53,nan,Brogdon 2' Reverse Layup (13 PTS),87 - 94,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+275645,21600993,4,6:53,nan,Bucks Violation: Delay of game Violation,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+275646,21600993,4,6:53,nan,Bucks Delay,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Foul ,Delay Technical
+275647,21600993,4,6:53,Conley Free Throw Technical (18 PTS),nan,87 - 95,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+275648,21600993,4,6:31,MISS Gasol 10' Turnaround Fadeaway Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275649,21600993,4,6:30,Randolph REBOUND (Off:1 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275650,21600993,4,6:30,MISS Randolph 1' Tip Layup Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275651,21600993,4,6:29,Randolph REBOUND (Off:2 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275652,21600993,4,6:29,MISS Randolph 1' Tip Layup Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275653,21600993,4,6:28,Allen REBOUND (Off:1 Def:2),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275654,21600993,4,6:08,Randolph 7' Turnaround Hook Shot (11 PTS) (Conley 8 AST),nan,87 - 97,2216,Zach Randolph,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+275655,21600993,4,5:50,nan,MISS Middleton  3PT Step Back Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275656,21600993,4,5:49,Carter REBOUND (Off:1 Def:4),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275657,21600993,4,5:29,Randolph 7' Hook Shot (13 PTS) (Conley 9 AST),nan,87 - 99,2216,Zach Randolph,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+275658,21600993,4,5:29,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+275659,21600993,4,5:29,nan,SUB: Antetokounmpo FOR Terry,nan,1891,Jason Terry,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+275660,21600993,4,5:29,nan,SUB: Monroe FOR Henson,nan,203089,John Henson,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+275661,21600993,4,5:14,nan,Brogdon Out of Bounds - Bad Pass Turnover Turnover (P3.T13),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+275662,21600993,4,5:05,nan,Teletovic P.FOUL (P3.T3) (L.Richardson),nan,203141,Mirza Teletovic,MIL,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal
+275663,21600993,4,4:57,Conley 5' Driving Floating Bank Jump Shot (20 PTS) (Gasol 7 AST),nan,87 - 101,201144,Mike Conley,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+275664,21600993,4,4:47,Carter P.FOUL (P5.T2) (L.Richardson),nan,nan,1713,Vince Carter,MEM,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+275665,21600993,4,4:35,Randolph S.FOUL (P1.T3) (D.Richardson),nan,nan,2216,Zach Randolph,MEM,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+275666,21600993,4,4:35,nan,Monroe Free Throw 1 of 2 (10 PTS),88 - 101,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+275667,21600993,4,4:35,nan,Monroe Free Throw 2 of 2 (11 PTS),89 - 101,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+275668,21600993,4,4:21,Allen 25' 3PT Jump Shot (13 PTS) (Conley 10 AST),nan,89 - 104,2754,Tony Allen,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+275669,21600993,4,4:08,Allen S.FOUL (P2.T4) (D.Richardson),nan,nan,2754,Tony Allen,MEM,1627763,Malcolm Brogdon,MIL,0,nan,nan,Foul ,Shooting
+275670,21600993,4,4:08,nan,Brogdon Free Throw 1 of 2 (14 PTS),90 - 104,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+275671,21600993,4,4:08,nan,SUB: Snell FOR Teletovic,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+275672,21600993,4,4:08,nan,Brogdon Free Throw 2 of 2 (15 PTS),91 - 104,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+275673,21600993,4,3:57,nan,Antetokounmpo S.FOUL (P3.T4) (J.Goble),nan,203507,Giannis Antetokounmpo,MIL,1713,Vince Carter,MEM,0,nan,nan,Foul ,Shooting
+275674,21600993,4,3:57,Carter Free Throw 1 of 2 (23 PTS),nan,91 - 105,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+275675,21600993,4,3:57,SUB: Green FOR Randolph,nan,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+275676,21600993,4,3:57,Carter Free Throw 2 of 2 (24 PTS),nan,91 - 106,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+275677,21600993,4,3:45,Carter STEAL (3 STL),Antetokounmpo Bad Pass Turnover (P2.T14),nan,203507,Giannis Antetokounmpo,MIL,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Bad Pass
+275678,21600993,4,3:30,MISS Conley 26' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275679,21600993,4,3:29,nan,Antetokounmpo REBOUND (Off:0 Def:5),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275680,21600993,4,3:14,nan,MISS Monroe 6' Turnaround Hook Shot,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275681,21600993,4,3:11,Allen REBOUND (Off:1 Def:3),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275682,21600993,4,2:47,Allen 2' Driving Layup (15 PTS),nan,91 - 108,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+275683,21600993,4,2:31,nan,MISS Monroe 1' Layup,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275684,21600993,4,2:31,nan,Monroe REBOUND (Off:1 Def:4),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275685,21600993,4,2:30,nan,Monroe 1' Putback Layup (13 PTS),93 - 108,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+275686,21600993,4,2:19,GRIZZLIES Timeout: Regular (Full 4 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+275687,21600993,4,2:19,nan,nan,nan,448,Bo Outlaw,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+275688,21600993,4,2:19,SUB: Randolph FOR Green,nan,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+275689,21600993,4,2:19,nan,SUB: Hawes FOR Middleton,nan,203114,Khris Middleton,MIL,201150,Spencer Hawes,MIL,0,nan,nan,Substitution ,nan
+275690,21600993,4,2:19,nan,SUB: Vaughn FOR Antetokounmpo,nan,203507,Giannis Antetokounmpo,MIL,1626173,Rashad Vaughn,MIL,0,nan,nan,Substitution ,nan
+275691,21600993,4,2:19,nan,SUB: Jones FOR Snell,nan,203503,Tony Snell,MIL,203093,Terrence Jones,MIL,0,nan,nan,Substitution ,nan
+275692,21600993,4,2:19,nan,SUB: Maker FOR Monroe,nan,202328,Greg Monroe,MIL,1627748,Thon Maker,MIL,0,nan,nan,Substitution ,nan
+275693,21600993,4,2:02,MISS Randolph 1' Layup,Jones BLOCK (1 BLK),nan,2216,Zach Randolph,MEM,0,nan,nan,203093,Terrence Jones,MIL,Missed Shot ,nan
+275694,21600993,4,2:01,Randolph REBOUND (Off:3 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275695,21600993,4,2:01,nan,Maker S.FOUL (P3.PN) (D.Richardson),nan,1627748,Thon Maker,MIL,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Shooting
+275696,21600993,4,2:01,Randolph Free Throw 1 of 2 (14 PTS),nan,93 - 109,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+275697,21600993,4,2:01,SUB: Harrison FOR Allen,nan,nan,2754,Tony Allen,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Substitution ,nan
+275698,21600993,4,2:01,MISS Randolph Free Throw 2 of 2,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+275699,21600993,4,2:00,nan,Maker REBOUND (Off:0 Def:1),nan,1627748,Thon Maker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275700,21600993,4,1:37,nan,Bucks Turnover: Shot Clock (T#15),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+275701,21600993,4,1:37,SUB: Douglas FOR Conley,nan,nan,201144,Mike Conley,MEM,201962,Toney Douglas,MEM,0,nan,nan,Substitution ,nan
+275702,21600993,4,1:37,SUB: Davis FOR Gasol,nan,nan,201188,Marc Gasol,MEM,1627738,Deyonta Davis,MEM,0,nan,nan,Substitution ,nan
+275703,21600993,4,1:37,SUB: Ennis III FOR Carter,nan,nan,1713,Vince Carter,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+275704,21600993,4,1:37,SUB: Daniels FOR Randolph,nan,nan,2216,Zach Randolph,MEM,203584,Troy Daniels,MEM,0,nan,nan,Substitution ,nan
+275705,21600993,4,1:25,MISS Daniels 25' 3PT Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275706,21600993,4,1:25,nan,Jones REBOUND (Off:0 Def:1),nan,203093,Terrence Jones,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275707,21600993,4,1:10,nan,MISS Jones 6' Turnaround Jump Shot,nan,203093,Terrence Jones,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275708,21600993,4,1:09,Ennis III REBOUND (Off:0 Def:1),nan,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275709,21600993,4,0:58,Davis 1' Alley Oop Layup (2 PTS) (Harrison 5 AST),nan,93 - 111,1627738,Deyonta Davis,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Made Shot ,nan
+275710,21600993,4,0:45,nan,Hawes Out of Bounds - Bad Pass Turnover Turnover (P1.T16),nan,201150,Spencer Hawes,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+275711,21600993,4,0:24,MISS Daniels 29' 3PT Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+275712,21600993,4,0:23,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+275713,21600993,4,0:12,Ennis III STEAL (1 STL),Vaughn Lost Ball Turnover (P1.T17),nan,1626173,Rashad Vaughn,MIL,203516,James Ennis III,MEM,0,nan,nan,Turnover ,Lost Ball
+275714,21600993,4,0:08,nan,Brogdon S.FOUL (P4.PN) (J.Goble),nan,1627763,Malcolm Brogdon,MIL,201962,Toney Douglas,MEM,0,nan,nan,Foul ,Shooting
+275715,21600993,4,0:08,Douglas Free Throw 1 of 2 (1 PTS),nan,93 - 112,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+275716,21600993,4,0:08,Douglas Free Throw 2 of 2 (2 PTS),nan,93 - 113,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+275717,21600993,4,0:00,nan,nan,93 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

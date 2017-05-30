@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+270934,21600955,4,12:00,nan,nan,68 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+270935,21600955,4,11:46,nan,MISS Rivers 9' Floating Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270936,21600955,4,11:44,nan,Bass REBOUND (Off:1 Def:0),nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270937,21600955,4,11:44,nan,MISS Bass 2' Layup,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270938,21600955,4,11:43,nan,Bass REBOUND (Off:2 Def:0),nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270939,21600955,4,11:43,Bjelica BLOCK (1 BLK),MISS Bass 1' Tip Layup Shot,nan,101138,Brandon Bass,LAC,0,nan,nan,202357,Nemanja Bjelica,MIN,Missed Shot ,nan
+270940,21600955,4,11:41,Bjelica REBOUND (Off:2 Def:3),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270941,21600955,4,11:25,Towns 2' Cutting Layup Shot (22 PTS) (Jones 2 AST),nan,68 - 84,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+270942,21600955,4,11:23,nan,Clippers Timeout: Short (Reg.3 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+270943,21600955,4,11:11,nan,Crawford 4' Driving Finger Roll Layup (5 PTS),70 - 84,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+270944,21600955,4,10:52,MISS Stephenson 17' Jump Shot,nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270945,21600955,4,10:51,nan,Speights REBOUND (Off:0 Def:7),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270946,21600955,4,10:29,nan,Speights 16' Jump Shot (12 PTS),72 - 84,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+270947,21600955,4,10:12,Towns 2' Driving Layup (24 PTS),nan,72 - 86,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+270948,21600955,4,10:01,Bjelica P.FOUL (P2.T1) (T.Brown),nan,nan,202357,Nemanja Bjelica,MIN,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Personal
+270949,21600955,4,9:52,nan,Crawford 6' Floating Jump Shot (7 PTS),74 - 86,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+270950,21600955,4,9:42,nan,Felton P.FOUL (P2.T1) (B.Nansel),nan,101109,Raymond Felton,LAC,1626145,Tyus Jones,MIN,0,nan,nan,Foul ,Personal
+270951,21600955,4,9:34,nan,Bass P.FOUL (P1.T2) (B.Nansel),nan,101138,Brandon Bass,LAC,202362,Lance Stephenson,MIN,0,nan,nan,Foul ,Personal
+270952,21600955,4,9:22,Dunn 26' 3PT Jump Shot (8 PTS) (Jones 3 AST),nan,74 - 89,1627739,Kris Dunn,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+270953,21600955,4,9:13,Dunn P.FOUL (P5.T2) (M.McCutchen),nan,nan,1627739,Kris Dunn,MIN,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+270954,21600955,4,9:13,nan,SUB: Jordan FOR Speights,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+270955,21600955,4,9:13,SUB: Dieng FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+270956,21600955,4,9:04,nan,MISS Crawford 24' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270957,21600955,4,9:03,Stephenson REBOUND (Off:0 Def:3),nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270958,21600955,4,8:58,Stephenson Lost Ball Turnover (P1.T11),Crawford STEAL (3 STL),nan,202362,Lance Stephenson,MIN,2037,Jamal Crawford,LAC,0,nan,nan,Turnover ,Lost Ball
+270959,21600955,4,8:51,nan,MISS Crawford 12' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270960,21600955,4,8:50,Dieng REBOUND (Off:3 Def:5),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270961,21600955,4,8:50,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+270962,21600955,4,8:50,Jump Ball Dieng vs. Bass: Tip to Rivers,nan,nan,203476,Gorgui Dieng,MIN,101138,Brandon Bass,LAC,203085,Austin Rivers,LAC,Jump Ball ,nan
+270963,21600955,4,8:50,Dieng Lost Ball Turnover (P1.T12),Bass STEAL (1 STL),nan,203476,Gorgui Dieng,MIN,101138,Brandon Bass,LAC,0,nan,nan,Turnover ,Lost Ball
+270964,21600955,4,8:35,nan,Rivers Out of Bounds Lost Ball Turnover (P1.T13),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+270965,21600955,4,8:15,Stephenson Bad Pass Turnover (P2.T13),Felton STEAL (2 STL),nan,202362,Lance Stephenson,MIN,101109,Raymond Felton,LAC,0,nan,nan,Turnover ,Bad Pass
+270966,21600955,4,8:07,Dieng BLOCK (1 BLK),MISS Bass 3' Layup,nan,101138,Brandon Bass,LAC,0,nan,nan,203476,Gorgui Dieng,MIN,Missed Shot ,nan
+270967,21600955,4,8:05,nan,Bass REBOUND (Off:3 Def:0),nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270968,21600955,4,8:05,Dieng BLOCK (2 BLK),MISS Bass 2' Layup,nan,101138,Brandon Bass,LAC,0,nan,nan,203476,Gorgui Dieng,MIN,Missed Shot ,nan
+270969,21600955,4,8:04,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270970,21600955,4,8:04,nan,SUB: Paul FOR Felton,nan,101109,Raymond Felton,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+270971,21600955,4,8:04,SUB: Rubio FOR Dunn,nan,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+270972,21600955,4,8:04,SUB: Wiggins FOR Stephenson,nan,nan,202362,Lance Stephenson,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+270973,21600955,4,8:04,nan,SUB: Redick FOR Crawford,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+270974,21600955,4,8:00,Rubio P.FOUL (P5.T3) (M.McCutchen),nan,nan,201937,Ricky Rubio,MIN,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+270975,21600955,4,8:00,nan,SUB: Griffin FOR Bass,nan,101138,Brandon Bass,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+270976,21600955,4,7:45,nan,Redick 22' Jump Shot (12 PTS) (Paul 10 AST),76 - 89,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+270977,21600955,4,7:26,nan,Jordan P.FOUL (P3.T3) (M.McCutchen),nan,201599,DeAndre Jordan,LAC,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+270978,21600955,4,7:18,MISS Wiggins 15' Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270979,21600955,4,7:17,nan,Griffin REBOUND (Off:0 Def:4),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270980,21600955,4,7:09,Dieng Violation:Kicked Ball (M.McCutchen),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+270981,21600955,4,6:53,nan,Griffin 24' 3PT Jump Shot (16 PTS) (Redick 1 AST),79 - 89,201933,Blake Griffin,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+270982,21600955,4,6:32,Towns 26' 3PT Jump Shot (27 PTS) (Rubio 10 AST),nan,79 - 92,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+270983,21600955,4,6:16,nan,Griffin Out of Bounds - Bad Pass Turnover Turnover (P5.T14),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+270984,21600955,4,6:02,Rubio 21' Jump Shot (14 PTS),nan,79 - 94,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+270985,21600955,4,5:38,nan,MISS Rivers 13' Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270986,21600955,4,5:37,Towns REBOUND (Off:4 Def:10),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270987,21600955,4,5:20,nan,Jordan P.FOUL (P4.T4) (B.Nansel),nan,201599,DeAndre Jordan,LAC,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Personal
+270988,21600955,4,5:20,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+270989,21600955,4,5:20,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+270990,21600955,4,5:09,Towns 20' Jump Shot (29 PTS),nan,79 - 96,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+270991,21600955,4,4:48,nan,MISS Griffin 25' 3PT Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270992,21600955,4,4:47,nan,Jordan REBOUND (Off:5 Def:6),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+270993,21600955,4,4:46,nan,Jordan 1' Layup (20 PTS),81 - 96,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+270994,21600955,4,4:27,Rubio Lost Ball Turnover (P2.T14),Redick STEAL (2 STL),nan,201937,Ricky Rubio,MIN,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Lost Ball
+270995,21600955,4,4:19,nan,Redick 3' Layup (14 PTS),83 - 96,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+270996,21600955,4,4:06,nan,Clippers T.Foul (Def. 3 Sec Griffin ) (M.McCutchen),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+270997,21600955,4,4:06,Rubio Free Throw Technical (15 PTS),nan,83 - 97,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+270998,21600955,4,3:55,MISS Rubio 24' 3PT Jump Shot,nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+270999,21600955,4,3:54,nan,Jordan REBOUND (Off:5 Def:7),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271000,21600955,4,3:48,nan,Clippers Violation: Delay of game Violation,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+271001,21600955,4,3:48,Jump Ball Dieng vs. Griffin: Tip to,nan,nan,203476,Gorgui Dieng,MIN,201933,Blake Griffin,LAC,1610612750,nan,nan,Jump Ball ,nan
+271002,21600955,4,3:48,Dieng STEAL (4 STL),Griffin Lost Ball Turnover (P6.T15),nan,201933,Blake Griffin,LAC,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Lost Ball
+271003,21600955,4,3:48,nan,Griffin L.B.FOUL (P4.PN) (B.Nansel),nan,201933,Blake Griffin,LAC,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Loose Ball
+271004,21600955,4,3:48,Dieng Free Throw 1 of 2 (7 PTS),nan,83 - 98,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+271005,21600955,4,3:48,MISS Dieng Free Throw 2 of 2,nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+271006,21600955,4,3:48,nan,Jordan REBOUND (Off:5 Def:8),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271007,21600955,4,3:27,nan,MISS Paul 26' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+271008,21600955,4,3:26,Jones REBOUND (Off:0 Def:2),nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271009,21600955,4,3:06,Jones 7' Floating Jump Shot (4 PTS) (Towns 2 AST),nan,83 - 100,1626145,Tyus Jones,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+271010,21600955,4,2:49,nan,Paul 8' Jump Shot (7 PTS),85 - 100,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+271011,21600955,4,2:25,Jones 25' 3PT Jump Shot (7 PTS) (Rubio 11 AST),nan,85 - 103,1626145,Tyus Jones,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+271012,21600955,4,2:24,nan,Clippers Timeout: Regular (Reg.4 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+271013,21600955,4,2:24,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+271014,21600955,4,2:24,nan,SUB: Felton FOR Paul,nan,101108,Chris Paul,LAC,101109,Raymond Felton,LAC,0,nan,nan,Substitution ,nan
+271015,21600955,4,2:24,nan,SUB: Bass FOR Jordan,nan,201599,DeAndre Jordan,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+271016,21600955,4,2:24,nan,SUB: W. Johnson FOR Griffin,nan,201933,Blake Griffin,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+271017,21600955,4,2:05,nan,MISS Felton 20' Jump Shot,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+271018,21600955,4,2:04,Dieng REBOUND (Off:3 Def:6),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271019,21600955,4,1:49,Wiggins  Dunk (20 PTS) (Rubio 12 AST),nan,85 - 105,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+271020,21600955,4,1:49,nan,Clippers Timeout: Regular (Reg.5 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+271021,21600955,4,1:49,SUB: Bjelica FOR Towns,nan,nan,1626157,Karl-Anthony Towns,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+271022,21600955,4,1:49,SUB: Muhammad FOR Wiggins,nan,nan,203952,Andrew Wiggins,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Substitution ,nan
+271023,21600955,4,1:49,SUB: Dunn FOR Rubio,nan,nan,201937,Ricky Rubio,MIN,1627739,Kris Dunn,MIN,0,nan,nan,Substitution ,nan
+271024,21600955,4,1:33,nan,Rivers 2' Driving Layup (6 PTS),87 - 105,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+271025,21600955,4,1:33,Bjelica S.FOUL (P3.T4) (M.McCutchen),nan,nan,202357,Nemanja Bjelica,MIN,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+271026,21600955,4,1:33,nan,Rivers Free Throw 1 of 1 (7 PTS),88 - 105,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+271027,21600955,4,1:15,MISS Dunn 21' Jump Shot,nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+271028,21600955,4,1:14,nan,W. Johnson REBOUND (Off:0 Def:1),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271029,21600955,4,1:08,nan,Crawford Out of Bounds Lost Ball Turnover (P3.T16),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+271030,21600955,4,0:49,MISS Muhammad 13' Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+271031,21600955,4,0:47,nan,Bass REBOUND (Off:3 Def:1),nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+271032,21600955,4,0:36,nan,Rivers 26' 3PT Jump Shot (10 PTS),91 - 105,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+271033,21600955,4,0:20,Muhammad 7' Jump Shot (17 PTS),nan,91 - 107,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+271034,21600955,4,0:12,nan,Clippers Turnover: 8 Second Violation (T#17),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,8 Second Violation
+271035,21600955,4,0:00,nan,nan,91 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+67391,21500540,4,12:00,nan,nan,73 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+67392,21500540,4,11:39,MISS Neal 12' Jump Shot,nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67393,21500540,4,11:38,nan,Ross REBOUND (Off:0 Def:2),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67394,21500540,4,11:21,Nene STEAL (1 STL),Joseph Bad Pass Turnover (P2.T18),nan,202709,Cory Joseph,TOR,2403,Nene,WAS,0,nan,nan,Turnover ,Bad Pass
+67395,21500540,4,11:17,MISS Sessions 1' Layup,Biyombo BLOCK (2 BLK),nan,201196,Ramon Sessions,WAS,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+67396,21500540,4,11:11,nan,Lowry REBOUND (Off:1 Def:7),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67397,21500540,4,11:05,nan,Ross Step Out of Bounds Turnover (P1.T19),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+67398,21500540,4,10:55,MISS Neal 28' 3PT Jump Shot,nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67399,21500540,4,10:53,nan,Biyombo REBOUND (Off:0 Def:4),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67400,21500540,4,10:45,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67401,21500540,4,10:44,Sessions REBOUND (Off:0 Def:1),nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67402,21500540,4,10:25,nan,Joseph S.FOUL (P3.T1) (T.Brothers),nan,202709,Cory Joseph,TOR,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Foul ,Shooting
+67403,21500540,4,10:25,Oubre Jr. Free Throw 1 of 2 (4 PTS),nan,73 - 62,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67404,21500540,4,10:25,MISS Oubre Jr. Free Throw 2 of 2,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67405,21500540,4,10:25,nan,Biyombo REBOUND (Off:0 Def:5),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67406,21500540,4,10:10,Neal STEAL (1 STL),Joseph Lost Ball Turnover (P3.T20),nan,202709,Cory Joseph,TOR,202390,Gary Neal,WAS,0,nan,nan,Turnover ,Lost Ball
+67407,21500540,4,10:04,MISS Neal 1' Layup,Biyombo BLOCK (3 BLK),nan,202390,Gary Neal,WAS,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+67408,21500540,4,10:02,Oubre Jr. REBOUND (Off:1 Def:0),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67409,21500540,4,10:02,Oubre Jr. Out of Bounds Lost Ball Turnover (P1.T18),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+67410,21500540,4,9:53,nan,Patterson Traveling Turnover (P1.T21),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+67411,21500540,4,9:37,MISS Nene 5' Jump Shot,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67412,21500540,4,9:36,nan,Biyombo REBOUND (Off:0 Def:6),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67413,21500540,4,9:28,Oubre Jr. S.FOUL (P2.T1) (K.Fitzgerald),nan,nan,1626162,Kelly Oubre Jr.,WAS,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+67414,21500540,4,9:28,nan,Lowry Free Throw 1 of 2 (12 PTS),74 - 62,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67415,21500540,4,9:28,nan,Lowry Free Throw 2 of 2 (13 PTS),75 - 62,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67416,21500540,4,9:10,Neal 18' Jump Shot (2 PTS),nan,75 - 64,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+67417,21500540,4,8:49,Neal STEAL (2 STL),Biyombo Lost Ball Turnover (P1.T22),nan,202687,Bismack Biyombo,TOR,202390,Gary Neal,WAS,0,nan,nan,Turnover ,Lost Ball
+67418,21500540,4,8:47,nan,Patterson Personal Take Foul (P2.T2) (K.Cutler),nan,202335,Patrick Patterson,TOR,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Personal Take
+67419,21500540,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+67420,21500540,4,8:47,SUB: Gortat FOR Gooden,nan,nan,2400,Drew Gooden,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+67421,21500540,4,8:47,SUB: Porter Jr. FOR Nene,nan,nan,2403,Nene,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+67422,21500540,4,8:47,nan,SUB: DeRozan FOR Ross,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+67423,21500540,4,8:25,MISS Oubre Jr. 28' 3PT Jump Shot,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67424,21500540,4,8:24,Neal REBOUND (Off:1 Def:2),nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67425,21500540,4,8:15,Gortat 1' Cutting Finger Roll Layup Shot (10 PTS) (Porter Jr. 3 AST),nan,75 - 66,101162,Marcin Gortat,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+67426,21500540,4,8:02,WIZARDS T.Foul (Def. 3 Sec Gortat ) (K.Cutler),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+67427,21500540,4,8:02,nan,MISS DeRozan Free Throw Technical,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+67428,21500540,4,8:02,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+67429,21500540,4,7:56,Neal P.FOUL (P1.T2) (K.Cutler),nan,nan,202390,Gary Neal,WAS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+67430,21500540,4,7:42,nan,Lowry 26' 3PT Jump Shot (16 PTS),78 - 66,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67431,21500540,4,7:29,MISS Neal 27' 3PT Jump Shot,nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67432,21500540,4,7:28,Sessions REBOUND (Off:1 Def:1),nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67433,21500540,4,7:17,SUB: Wall FOR Neal,nan,nan,202390,Gary Neal,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+67434,21500540,4,7:15,MISS Sessions 1' Layup,Joseph BLOCK (1 BLK),nan,201196,Ramon Sessions,WAS,0,nan,nan,202709,Cory Joseph,TOR,Missed Shot ,nan
+67435,21500540,4,7:13,nan,Lowry REBOUND (Off:1 Def:8),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67436,21500540,4,6:58,nan,DeRozan 17' Turnaround Fadeaway (27 PTS),80 - 66,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67437,21500540,4,6:45,Sessions 26' 3PT Jump Shot (6 PTS) (Wall 4 AST),nan,80 - 69,201196,Ramon Sessions,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+67438,21500540,4,6:22,nan,Lowry 22' Step Back Jump Shot (18 PTS),82 - 69,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67439,21500540,4,6:07,nan,Biyombo S.FOUL (P3.T3) (T.Brothers),nan,202687,Bismack Biyombo,TOR,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Shooting
+67440,21500540,4,6:07,Sessions Free Throw 1 of 2 (7 PTS),nan,82 - 70,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67441,21500540,4,6:07,SUB: Temple FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+67442,21500540,4,6:07,nan,SUB: Valanciunas FOR Biyombo,nan,202687,Bismack Biyombo,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+67443,21500540,4,6:07,Sessions Free Throw 2 of 2 (8 PTS),nan,82 - 71,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67444,21500540,4,5:41,nan,Lowry  3PT Jump Shot (21 PTS),85 - 71,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67445,21500540,4,5:21,Sessions 16' Floating Jump Shot (10 PTS),nan,85 - 73,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+67446,21500540,4,4:57,nan,DeRozan 19' Pullup Jump Shot (29 PTS),87 - 73,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67447,21500540,4,4:46,nan,Lowry S.FOUL (P2.T4) (K.Fitzgerald),nan,200768,Kyle Lowry,TOR,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Shooting
+67448,21500540,4,4:46,WIZARDS Timeout: Regular (Full 4 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67449,21500540,4,4:46,Gortat Free Throw 1 of 2 (11 PTS),nan,87 - 74,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67450,21500540,4,4:46,Gortat Free Throw 2 of 2 (12 PTS),nan,87 - 75,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67451,21500540,4,4:28,Temple P.FOUL (P3.T3) (T.Brothers),nan,nan,202066,Garrett Temple,WAS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+67452,21500540,4,4:13,nan,MISS Joseph 29' 3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67453,21500540,4,4:12,Sessions REBOUND (Off:1 Def:2),nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67454,21500540,4,4:05,Sessions 15' Floating Jump Shot (12 PTS),nan,87 - 77,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+67455,21500540,4,3:47,Temple S.FOUL (P4.T4) (K.Cutler),nan,nan,202066,Garrett Temple,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+67456,21500540,4,3:47,nan,DeRozan Free Throw 1 of 2 (30 PTS),88 - 77,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67457,21500540,4,3:47,nan,DeRozan Free Throw 2 of 2 (31 PTS),89 - 77,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67458,21500540,4,3:32,Wall Out of Bounds - Bad Pass Turnover Turnover (P7.T19),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+67459,21500540,4,3:10,Gortat BLOCK (3 BLK),MISS Lowry 2' Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,101162,Marcin Gortat,WAS,Missed Shot ,nan
+67460,21500540,4,3:08,Sessions REBOUND (Off:1 Def:3),nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67461,21500540,4,3:05,Porter Jr.  Driving Layup (15 PTS) (Temple 2 AST),nan,89 - 79,203490,Otto Porter Jr.,WAS,202066,Garrett Temple,WAS,0,nan,nan,Made Shot ,nan
+67462,21500540,4,3:05,nan,Patterson FLAGRANT.FOUL.TYPE1 (P3.PN) (K.Cutler),nan,202335,Patrick Patterson,TOR,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Flagrant Type 1
+67463,21500540,4,3:05,nan,nan,nan,503,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+67464,21500540,4,3:05,Porter Jr. Free Throw Flagrant 1 of 1 (16 PTS),nan,89 - 80,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 1
+67465,21500540,4,2:50,Wall 27' 3PT Jump Shot (18 PTS) (Temple 3 AST),nan,89 - 83,202322,John Wall,WAS,202066,Garrett Temple,WAS,0,nan,nan,Made Shot ,nan
+67466,21500540,4,2:26,nan,Joseph 1' Driving Finger Roll Layup (6 PTS),91 - 83,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67467,21500540,4,2:13,Sessions 1' Driving Layup (14 PTS),nan,91 - 85,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+67468,21500540,4,1:50,nan,DeRozan 17' Fadeaway Jumper (33 PTS),93 - 85,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+67469,21500540,4,1:43,MISS Wall 5' Jump Shot,Lowry BLOCK (1 BLK),nan,202322,John Wall,WAS,0,nan,nan,200768,Kyle Lowry,TOR,Missed Shot ,nan
+67470,21500540,4,1:41,nan,Joseph REBOUND (Off:0 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67471,21500540,4,1:27,nan,Valanciunas OFF.Foul (P4) (K.Fitzgerald),nan,202685,Jonas Valanciunas,TOR,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Offensive
+67472,21500540,4,1:27,nan,Valanciunas Foul Turnover (P6.T23),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+67473,21500540,4,1:27,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67474,21500540,4,1:27,nan,SUB: Biyombo FOR Valanciunas,nan,202685,Jonas Valanciunas,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+67475,21500540,4,1:24,MISS Wall 3' Jump Shot,Biyombo BLOCK (4 BLK),nan,202322,John Wall,WAS,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+67476,21500540,4,1:23,nan,Lowry REBOUND (Off:1 Def:9),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67477,21500540,4,1:01,Temple S.FOUL (P5.PN) (T.Brothers),nan,nan,202066,Garrett Temple,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+67478,21500540,4,1:01,nan,DeRozan Free Throw 1 of 2 (34 PTS),94 - 85,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67479,21500540,4,1:01,nan,DeRozan Free Throw 2 of 2 (35 PTS),95 - 85,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67480,21500540,4,1:01,WIZARDS Timeout: Short (Full 4 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+67481,21500540,4,1:01,SUB: Neal FOR Temple,nan,nan,202066,Garrett Temple,WAS,202390,Gary Neal,WAS,0,nan,nan,Substitution ,nan
+67482,21500540,4,0:52,MISS Neal 25' 3PT Jump Shot,nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67483,21500540,4,0:50,nan,DeRozan REBOUND (Off:1 Def:6),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67484,21500540,4,0:25,nan,MISS Lowry 12' Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67485,21500540,4,0:23,Gortat REBOUND (Off:2 Def:8),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67486,21500540,4,0:16,Wall 28' 3PT Pullup Jump Shot (21 PTS),nan,95 - 88,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+67487,21500540,4,0:14,Sessions Personal Take Foul (P2.PN) (T.Brothers),nan,nan,201196,Ramon Sessions,WAS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal Take
+67488,21500540,4,0:14,nan,Joseph Free Throw 1 of 2 (7 PTS),96 - 88,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+67489,21500540,4,0:14,nan,Joseph Free Throw 2 of 2 (8 PTS),97 - 88,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+67490,21500540,4,0:14,WIZARDS Timeout: Regular (Full 5 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+67491,21500540,4,0:14,nan,nan,nan,541,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+67492,21500540,4,0:09,MISS Wall 28' 3PT Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+67493,21500540,4,0:08,nan,DeRozan REBOUND (Off:1 Def:7),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+67494,21500540,4,0:00,nan,nan,97 - 88,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

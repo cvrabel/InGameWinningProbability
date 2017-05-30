@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+114565,21500914,4,12:00,nan,nan,84 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+114566,21500914,4,11:49,McConnell P.FOUL (P2.T1) (M.Ayotte),nan,nan,204456,T.J. McConnell,PHI,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+114567,21500914,4,11:37,nan,MISS Deng 10' Jump Shot,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114568,21500914,4,11:35,Canaan REBOUND (Off:0 Def:3),nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114569,21500914,4,11:29,nan,Richardson S.FOUL (P3.T1) (J.Capers),nan,1626196,Josh Richardson,MIA,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Shooting
+114570,21500914,4,11:29,Canaan Free Throw 1 of 2 (1 PTS),nan,84 - 78,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114571,21500914,4,11:29,Canaan Free Throw 2 of 2 (2 PTS),nan,84 - 79,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114572,21500914,4,11:17,McConnell STEAL (3 STL),Dragic Bad Pass Turnover (P3.T15),nan,201609,Goran Dragic,MIA,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+114573,21500914,4,11:11,MISS Canaan 25' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114574,21500914,4,11:08,nan,Whiteside REBOUND (Off:3 Def:10),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114575,21500914,4,10:55,nan,Green 15' Pullup Jump Shot (2 PTS) (Dragic 6 AST),86 - 79,101123,Gerald Green,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114576,21500914,4,10:42,Thompson 3' Driving Layup (12 PTS),nan,86 - 81,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+114577,21500914,4,10:31,nan,MISS Dragic 3' Layup,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114578,21500914,4,10:30,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114579,21500914,4,10:28,nan,Green 13' Jump Shot (4 PTS) (Richardson 2 AST),88 - 81,101123,Gerald Green,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+114580,21500914,4,10:10,MISS Thompson 9' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114581,21500914,4,10:08,nan,Whiteside REBOUND (Off:3 Def:11),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114582,21500914,4,10:00,nan,Whiteside 3' Layup (13 PTS) (Dragic 7 AST),90 - 81,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114583,21500914,4,9:50,Brand 15' Pullup Jump Shot (8 PTS) (McConnell 3 AST),nan,90 - 83,1882,Elton Brand,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+114584,21500914,4,9:25,nan,MISS Richardson 15' Turnaround Fadeaway Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114585,21500914,4,9:25,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114586,21500914,4,9:25,Thompson L.B.FOUL (P5.T2) (H.Workman),nan,nan,203138,Hollis Thompson,PHI,2736,Luol Deng,MIA,0,nan,nan,Foul ,Loose Ball
+114587,21500914,4,9:25,SUB: Covington FOR Thompson,nan,nan,203138,Hollis Thompson,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+114588,21500914,4,9:13,nan,Dragic 11' Pullup Jump Shot (11 PTS) (Richardson 3 AST),92 - 83,201609,Goran Dragic,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+114589,21500914,4,8:55,nan,Dragic P.FOUL (P2.T2) (H.Workman),nan,201609,Goran Dragic,MIA,1882,Elton Brand,PHI,0,nan,nan,Foul ,Personal
+114590,21500914,4,8:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+114591,21500914,4,8:43,MISS McConnell 14' Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114592,21500914,4,8:41,nan,Dragic REBOUND (Off:0 Def:4),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114593,21500914,4,8:28,nan,Green 16' Turnaround Jump Shot (6 PTS) (Dragic 8 AST),94 - 83,101123,Gerald Green,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114594,21500914,4,8:10,McConnell Bad Pass Turnover (P1.T8),Dragic STEAL (1 STL),nan,204456,T.J. McConnell,PHI,201609,Goran Dragic,MIA,0,nan,nan,Turnover ,Bad Pass
+114595,21500914,4,8:02,nan,Richardson Out of Bounds - Bad Pass Turnover Turnover (P1.T16),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+114596,21500914,4,8:02,SUB: Grant FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+114597,21500914,4,7:52,nan,Whiteside S.FOUL (P2.T3) (J.Capers),nan,202355,Hassan Whiteside,MIA,202397,Ish Smith,PHI,0,nan,nan,Foul ,Shooting
+114598,21500914,4,7:52,MISS Smith Free Throw 1 of 2,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114599,21500914,4,7:52,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+114600,21500914,4,7:52,SUB: Holmes FOR Brand,nan,nan,1882,Elton Brand,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+114601,21500914,4,7:52,Smith Free Throw 2 of 2 (22 PTS),nan,94 - 84,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114602,21500914,4,7:41,nan,MISS Green 17' Step Back Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114603,21500914,4,7:39,nan,Richardson REBOUND (Off:1 Def:3),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114604,21500914,4,7:34,Canaan P.FOUL (P1.T3) (J.Capers),nan,nan,203477,Isaiah Canaan,PHI,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+114605,21500914,4,7:26,nan,MISS Whiteside 10' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114606,21500914,4,7:25,Smith REBOUND (Off:0 Def:6),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114607,21500914,4,7:14,MISS Smith 3' Layup,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114608,21500914,4,7:11,Grant REBOUND (Off:4 Def:2),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114609,21500914,4,7:06,MISS Covington 24' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114610,21500914,4,7:04,nan,Richardson REBOUND (Off:1 Def:4),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114611,21500914,4,6:50,Grant S.FOUL (P4.T4) (H.Workman),nan,nan,203924,Jerami Grant,PHI,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+114612,21500914,4,6:50,nan,Dragic Free Throw 1 of 2 (12 PTS),95 - 84,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114613,21500914,4,6:50,nan,Dragic Free Throw 2 of 2 (13 PTS),96 - 84,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114614,21500914,4,6:34,Canaan 17' Step Back Jump Shot (4 PTS),nan,96 - 86,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+114615,21500914,4,6:14,nan,Green 25' 3PT Jump Shot (9 PTS) (Dragic 9 AST),99 - 86,101123,Gerald Green,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114616,21500914,4,6:14,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+114617,21500914,4,5:54,MISS Covington 26' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114618,21500914,4,5:52,nan,Dragic REBOUND (Off:0 Def:5),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114619,21500914,4,5:49,nan,MISS Green 3' Running Layup,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114620,21500914,4,5:45,Grant REBOUND (Off:4 Def:3),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114621,21500914,4,5:39,MISS Canaan 7' Driving Bank Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114622,21500914,4,5:37,nan,Green REBOUND (Off:0 Def:1),nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114623,21500914,4,5:28,Holmes P.FOUL (P4.PN) (M.Ayotte),nan,nan,1626158,Richaun Holmes,PHI,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal
+114624,21500914,4,5:28,nan,Whiteside Free Throw 1 of 2 (14 PTS),100 - 86,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114625,21500914,4,5:28,SUB: Thompson FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+114626,21500914,4,5:28,nan,Whiteside Free Throw 2 of 2 (15 PTS),101 - 86,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114627,21500914,4,5:14,Smith 18' Step Back Jump Shot (24 PTS),nan,101 - 88,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+114628,21500914,4,4:55,nan,MISS Green 26' 3PT Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114629,21500914,4,4:53,Holmes REBOUND (Off:6 Def:2),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114630,21500914,4,4:45,MISS Thompson 21' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114631,21500914,4,4:43,nan,Whiteside REBOUND (Off:3 Def:12),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114632,21500914,4,4:38,nan,Green 25' 3PT Jump Shot (12 PTS) (Dragic 10 AST),104 - 88,101123,Gerald Green,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114633,21500914,4,4:28,Holmes  Cutting Dunk Shot (10 PTS) (Thompson 1 AST),nan,104 - 90,1626158,Richaun Holmes,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+114634,21500914,4,4:11,nan,MISS Green 26' 3PT Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114635,21500914,4,4:09,Smith REBOUND (Off:0 Def:7),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114636,21500914,4,4:02,MISS Smith 2' Layup,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114637,21500914,4,4:01,nan,Whiteside REBOUND (Off:3 Def:13),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114638,21500914,4,3:57,nan,Dragic 2' Running Layup (15 PTS) (Whiteside 2 AST),106 - 90,201609,Goran Dragic,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Made Shot ,nan
+114639,21500914,4,3:56,76ERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+114640,21500914,4,3:43,MISS Thompson 20' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114641,21500914,4,3:41,nan,Whiteside REBOUND (Off:3 Def:14),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114642,21500914,4,3:32,nan,Whiteside  Alley Oop Dunk (17 PTS) (Dragic 11 AST),108 - 90,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+114643,21500914,4,3:17,Covington 2' Driving Layup (22 PTS) (Thompson 2 AST),nan,108 - 92,203496,Robert Covington,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+114644,21500914,4,2:59,nan,MISS Green 7' Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114645,21500914,4,2:57,nan,Whiteside REBOUND (Off:4 Def:14),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114646,21500914,4,2:57,Covington S.FOUL (P3.PN) (M.Ayotte),nan,nan,203496,Robert Covington,PHI,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Shooting
+114647,21500914,4,2:57,nan,Whiteside Free Throw 1 of 2 (18 PTS),109 - 92,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114648,21500914,4,2:57,nan,Whiteside Free Throw 2 of 2 (19 PTS),110 - 92,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114649,21500914,4,2:46,MISS Covington 26' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114650,21500914,4,2:44,Thompson REBOUND (Off:1 Def:4),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114651,21500914,4,2:42,Thompson 1' Putback Layup (14 PTS),nan,110 - 94,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+114652,21500914,4,2:25,Thompson STEAL (2 STL),Dragic Lost Ball Turnover (P4.T17),nan,201609,Goran Dragic,MIA,203138,Hollis Thompson,PHI,0,nan,nan,Turnover ,Lost Ball
+114653,21500914,4,2:21,Smith  Running Dunk (26 PTS) (Covington 2 AST),nan,110 - 96,202397,Ish Smith,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+114654,21500914,4,2:02,nan,MISS Green 19' Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114655,21500914,4,2:01,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114656,21500914,4,2:01,nan,SUB: Winslow FOR Dragic,nan,201609,Goran Dragic,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Substitution ,nan
+114657,21500914,4,1:47,nan,MISS Deng 27' 3PT Jump Shot,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114658,21500914,4,1:45,Thompson REBOUND (Off:1 Def:5),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114659,21500914,4,1:38,MISS Thompson  3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114660,21500914,4,1:36,nan,Whiteside REBOUND (Off:4 Def:15),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114661,21500914,4,1:17,nan,MISS Green 26' 3PT Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114662,21500914,4,1:17,nan,Deng REBOUND (Off:3 Def:6),nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114663,21500914,4,1:17,nan,Deng 2' Tip Layup Shot (13 PTS),112 - 96,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+114664,21500914,4,1:17,76ERS Timeout: Regular (Full 6 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+114665,21500914,4,1:17,nan,SUB: Haslem FOR Deng,nan,2736,Luol Deng,MIA,2617,Udonis Haslem,MIA,0,nan,nan,Substitution ,nan
+114666,21500914,4,1:11,Covington 25' 3PT Jump Shot (25 PTS) (Holmes 2 AST),nan,112 - 99,203496,Robert Covington,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Made Shot ,nan
+114667,21500914,4,0:50,nan,MISS Haslem  3PT Jump Shot,nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114668,21500914,4,0:47,Smith REBOUND (Off:0 Def:8),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114669,21500914,4,0:41,MISS Thompson 27' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114670,21500914,4,0:39,Covington REBOUND (Off:2 Def:3),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114671,21500914,4,0:33,Holmes 26' 3PT Jump Bank Shot (13 PTS) (Covington 3 AST),nan,112 - 102,1626158,Richaun Holmes,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+114672,21500914,4,0:16,nan,MISS Green 22' Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114673,21500914,4,0:13,nan,Haslem REBOUND (Off:1 Def:0),nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114674,21500914,4,0:00,nan,nan,112 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

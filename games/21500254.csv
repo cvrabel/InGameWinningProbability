@@ -1,0 +1,145 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+31832,21500254,4,12:00,nan,nan,73 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+31833,21500254,4,11:46,Jackson Lost Ball Turnover (P2.T9),Thornton STEAL (1 STL),nan,202704,Reggie Jackson,DET,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Lost Ball
+31834,21500254,4,11:45,Johnson S.FOUL (P2.T1) (M.Davis),nan,nan,1626169,Stanley Johnson,DET,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+31835,21500254,4,11:45,nan,Brewer Free Throw 1 of 2 (8 PTS),74 - 84,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31836,21500254,4,11:45,nan,Brewer Free Throw 2 of 2 (9 PTS),75 - 84,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31837,21500254,4,11:31,MISS Johnson 27' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31838,21500254,4,11:30,nan,Brewer REBOUND (Off:0 Def:1),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31839,21500254,4,11:22,nan,MISS Thornton 26' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31840,21500254,4,11:21,nan,Brewer REBOUND (Off:1 Def:1),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31841,21500254,4,11:16,nan,Lawson 26' 3PT Jump Shot (11 PTS) (Harden 5 AST),78 - 84,201951,Ty Lawson,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+31842,21500254,4,10:46,MISS Marc Morris 28' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31843,21500254,4,10:46,nan,Brewer REBOUND (Off:1 Def:2),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31844,21500254,4,10:45,Johnson S.FOUL (P3.T2) (J.Tiven),nan,nan,1626169,Stanley Johnson,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31845,21500254,4,10:45,nan,Harden Free Throw 1 of 2 (14 PTS),79 - 84,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31846,21500254,4,10:45,nan,Harden Free Throw 2 of 2 (15 PTS),80 - 84,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31847,21500254,4,10:33,MISS Marc Morris 27' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31848,21500254,4,10:33,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31849,21500254,4,10:33,nan,Thornton IN.FOUL (P1.T1) (J.Tiven),nan,201977,Marcus Thornton,HOU,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Inbound
+31850,21500254,4,10:33,MISS Johnson Free Throw 1 of 2,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31851,21500254,4,10:33,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31852,21500254,4,10:33,Johnson Free Throw 2 of 2 (14 PTS),nan,80 - 85,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31853,21500254,4,10:20,Johnson STEAL (1 STL),Lawson Bad Pass Turnover (P1.T14),nan,201951,Ty Lawson,HOU,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+31854,21500254,4,10:11,MISS Caldwell-Pope 27' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31855,21500254,4,10:11,Drummond REBOUND (Off:3 Def:6),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31856,21500254,4,10:07,Drummond  Tip Layup Shot (18 PTS),nan,80 - 87,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31857,21500254,4,9:39,nan,MISS Harden 15' Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31858,21500254,4,9:39,Johnson REBOUND (Off:2 Def:8),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31859,21500254,4,9:39,Jackson 14' Jump Shot (19 PTS),nan,80 - 89,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31860,21500254,4,9:39,nan,Rockets Timeout: Regular (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31861,21500254,4,9:39,nan,SUB: Ariza FOR Lawson,nan,201951,Ty Lawson,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+31862,21500254,4,9:39,nan,SUB: Beverley FOR Brewer,nan,201147,Corey Brewer,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+31863,21500254,4,9:18,Drummond BLOCK (2 BLK),MISS Beverley 1' Layup,nan,201976,Patrick Beverley,HOU,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+31864,21500254,4,9:16,nan,Thornton REBOUND (Off:2 Def:3),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31865,21500254,4,9:09,nan,MISS Beverley 25' 3PT Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31866,21500254,4,9:09,Marc Morris REBOUND (Off:1 Def:3),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31867,21500254,4,8:57,MISS Jackson 2' Layup,Beverley BLOCK (2 BLK),nan,202704,Reggie Jackson,DET,0,nan,nan,201976,Patrick Beverley,HOU,Missed Shot ,nan
+31868,21500254,4,8:57,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31869,21500254,4,8:51,MISS Jackson 5' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31870,21500254,4,8:51,nan,Ariza REBOUND (Off:0 Def:4),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31871,21500254,4,8:39,Caldwell-Pope STEAL (2 STL),Thornton Lost Ball Turnover (P1.T15),nan,201977,Marcus Thornton,HOU,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Lost Ball
+31872,21500254,4,8:19,Caldwell-Pope Bad Pass Turnover (P1.T10),Thornton STEAL (2 STL),nan,203484,Kentavious Caldwell-Pope,DET,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Bad Pass
+31873,21500254,4,8:09,nan,Harden 28' 3PT Jump Shot (18 PTS) (Thornton 1 AST),83 - 89,201935,James Harden,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+31874,21500254,4,7:45,Drummond 1' Layup (20 PTS) (Jackson 7 AST),nan,83 - 91,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+31875,21500254,4,7:23,Marc Morris S.FOUL (P1.T3) (M.Davis),nan,nan,202694,Marcus Morris,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31876,21500254,4,7:23,nan,MISS Harden Free Throw 1 of 3,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+31877,21500254,4,7:23,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31878,21500254,4,7:23,nan,Harden Free Throw 2 of 3 (19 PTS),84 - 91,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+31879,21500254,4,7:23,nan,SUB: Capela FOR Howard,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+31880,21500254,4,7:23,nan,Harden Free Throw 3 of 3 (20 PTS),85 - 91,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+31881,21500254,4,7:07,Jackson 2' Driving Reverse Layup (21 PTS),nan,85 - 93,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31882,21500254,4,6:47,nan,MISS Capela 6' Jump Shot,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31883,21500254,4,6:47,Drummond REBOUND (Off:3 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31884,21500254,4,6:32,nan,Harden S.FOUL (P3.T2) (M.Davis),nan,201935,James Harden,HOU,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+31885,21500254,4,6:32,MISS Jackson Free Throw 1 of 2,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31886,21500254,4,6:32,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31887,21500254,4,6:32,nan,SUB: Brewer FOR Harden,nan,201935,James Harden,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+31888,21500254,4,6:32,Jackson Free Throw 2 of 2 (22 PTS),nan,85 - 94,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31889,21500254,4,6:11,Drummond BLOCK (3 BLK),MISS Beverley 5' Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+31890,21500254,4,6:11,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31891,21500254,4,6:05,nan,MISS Thornton 26' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31892,21500254,4,6:05,Drummond REBOUND (Off:3 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31893,21500254,4,5:52,MISS Caldwell-Pope 26' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31894,21500254,4,5:51,Drummond REBOUND (Off:4 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31895,21500254,4,5:48,Drummond 1' Tip Layup Shot (22 PTS),nan,85 - 96,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31896,21500254,4,5:41,Drummond S.FOUL (P3.T4) (M.Davis),nan,nan,203083,Andre Drummond,DET,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Shooting
+31897,21500254,4,5:41,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+31898,21500254,4,5:41,nan,SUB: Howard FOR Capela,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+31899,21500254,4,5:41,nan,SUB: Harden FOR Brewer,nan,201147,Corey Brewer,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+31900,21500254,4,5:41,nan,Thornton Free Throw 1 of 2 (8 PTS),86 - 96,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31901,21500254,4,5:41,nan,Thornton Free Throw 2 of 2 (9 PTS),87 - 96,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31902,21500254,4,5:33,nan,Beverley S.FOUL (P4.T3) (J.Tiven),nan,201976,Patrick Beverley,HOU,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+31903,21500254,4,5:33,Jackson Free Throw 1 of 2 (23 PTS),nan,87 - 97,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31904,21500254,4,5:33,Jackson Free Throw 2 of 2 (24 PTS),nan,87 - 98,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31905,21500254,4,5:19,nan,Thornton  3PT Jump Shot (12 PTS) (Harden 6 AST),90 - 98,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+31906,21500254,4,4:57,Johnson  3PT Jump Shot (17 PTS) (Marc Morris 5 AST),nan,90 - 101,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+31907,21500254,4,4:35,nan,Thornton Out of Bounds Lost Ball Turnover (P2.T16),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+31908,21500254,4,4:23,Drummond 1' Layup (24 PTS) (Jackson 8 AST),nan,90 - 103,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+31909,21500254,4,4:23,nan,Howard S.FOUL (P5.T4) (K.Lane),nan,2730,Dwight Howard,HOU,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+31910,21500254,4,4:23,MISS Drummond Free Throw 1 of 1,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31911,21500254,4,4:22,nan,Harden REBOUND (Off:1 Def:8),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31912,21500254,4,4:09,nan,MISS Harden 5' Floating Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31913,21500254,4,4:09,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31914,21500254,4,4:07,nan,Beverley Personal Take Foul (P5.PN) (J.Tiven),nan,201976,Patrick Beverley,HOU,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal Take
+31915,21500254,4,4:07,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31916,21500254,4,4:07,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31917,21500254,4,4:07,MISS Drummond Free Throw 2 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31918,21500254,4,4:07,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31919,21500254,4,4:04,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+31920,21500254,4,3:57,nan,Thornton S.FOUL (P2.PN) (J.Tiven),nan,201977,Marcus Thornton,HOU,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+31921,21500254,4,3:57,MISS Jackson Free Throw 1 of 2,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31922,21500254,4,3:57,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31923,21500254,4,3:57,Jackson Free Throw 2 of 2 (25 PTS),nan,90 - 104,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31924,21500254,4,3:43,nan,Thornton 26' 3PT Jump Shot (15 PTS) (Harden 7 AST),93 - 104,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+31925,21500254,4,3:19,MISS Marc Morris 24' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31926,21500254,4,3:18,Baynes REBOUND (Off:3 Def:1),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31927,21500254,4,3:15,Baynes 1' Tip Layup Shot (10 PTS),nan,93 - 106,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31928,21500254,4,2:56,nan,Harden 27' 3PT Jump Shot (23 PTS),96 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31929,21500254,4,2:56,Johnson S.FOUL (P4.PN) (K.Lane),nan,nan,1626169,Stanley Johnson,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31930,21500254,4,2:56,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31931,21500254,4,2:56,nan,Harden Free Throw 1 of 1 (24 PTS),97 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31932,21500254,4,2:33,Caldwell-Pope Lost Ball Turnover (P2.T11),Harden STEAL (2 STL),nan,203484,Kentavious Caldwell-Pope,DET,201935,James Harden,HOU,0,nan,nan,Turnover ,Lost Ball
+31933,21500254,4,2:28,Caldwell-Pope S.FOUL (P1.PN) (J.Tiven),nan,nan,203484,Kentavious Caldwell-Pope,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31934,21500254,4,2:28,nan,Harden Free Throw 1 of 2 (25 PTS),98 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31935,21500254,4,2:28,nan,Harden Free Throw 2 of 2 (26 PTS),99 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31936,21500254,4,2:10,nan,Howard Violation:Defensive Goaltending (M.Davis),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+31937,21500254,4,2:10,Jackson 1' Layup (27 PTS),nan,99 - 108,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+31938,21500254,4,1:56,Johnson S.FOUL (P5.PN) (M.Davis),nan,nan,1626169,Stanley Johnson,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31939,21500254,4,1:56,nan,Harden Free Throw 1 of 2 (27 PTS),100 - 108,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31940,21500254,4,1:56,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+31941,21500254,4,1:56,nan,MISS Harden Free Throw 2 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31942,21500254,4,1:55,Drummond REBOUND (Off:4 Def:9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31943,21500254,4,1:31,Jackson 18' Jump Shot (29 PTS) (Marc Morris 6 AST),nan,100 - 110,202704,Reggie Jackson,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+31944,21500254,4,1:21,Caldwell-Pope S.FOUL (P2.PN) (M.Davis),nan,nan,203484,Kentavious Caldwell-Pope,DET,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31945,21500254,4,1:21,nan,Harden Free Throw 1 of 2 (28 PTS),101 - 110,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31946,21500254,4,1:21,nan,Harden Free Throw 2 of 2 (29 PTS),102 - 110,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31947,21500254,4,1:09,nan,Ariza P.FOUL (P3.PN) (M.Davis),nan,2772,Trevor Ariza,HOU,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Personal
+31948,21500254,4,1:09,Johnson Free Throw 1 of 2 (18 PTS),nan,102 - 111,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31949,21500254,4,1:09,Johnson Free Throw 2 of 2 (19 PTS),nan,102 - 112,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31950,21500254,4,0:59,nan,Thornton 24' 3PT Jump Shot (18 PTS) (Beverley 3 AST),105 - 112,201977,Marcus Thornton,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+31951,21500254,4,0:55,PISTONS Timeout: Short (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+31952,21500254,4,0:55,nan,SUB: Brewer FOR Howard,nan,2730,Dwight Howard,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+31953,21500254,4,0:55,PISTONS Timeout: Short (Full 4 Short 2),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+31954,21500254,4,0:55,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+31955,21500254,4,0:53,nan,Harden P.FOUL (P4.PN) (K.Lane),nan,201935,James Harden,HOU,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+31956,21500254,4,0:53,Baynes Free Throw 1 of 2 (11 PTS),nan,105 - 113,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31957,21500254,4,0:53,MISS Baynes Free Throw 2 of 2,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31958,21500254,4,0:51,Caldwell-Pope REBOUND (Off:2 Def:2),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31959,21500254,4,0:47,nan,Beverley P.FOUL (P6.PN) (J.Tiven),nan,201976,Patrick Beverley,HOU,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+31960,21500254,4,0:47,nan,SUB: McDaniels FOR Beverley,nan,201976,Patrick Beverley,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+31961,21500254,4,0:47,Marc Morris Free Throw 1 of 2 (12 PTS),nan,105 - 114,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31962,21500254,4,0:47,SUB: Blake FOR Baynes,nan,nan,203382,Aron Baynes,DET,2581,Steve Blake,DET,0,nan,nan,Substitution ,nan
+31963,21500254,4,0:47,MISS Marc Morris Free Throw 2 of 2,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31964,21500254,4,0:46,nan,Thornton REBOUND (Off:2 Def:4),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31965,21500254,4,0:36,nan,MISS Thornton 1' Layup,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31966,21500254,4,0:36,Jackson REBOUND (Off:0 Def:5),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31967,21500254,4,0:33,nan,McDaniels P.FOUL (P1.PN) (K.Lane),nan,203909,KJ McDaniels,HOU,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+31968,21500254,4,0:33,Jackson Free Throw 1 of 2 (30 PTS),nan,105 - 115,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31969,21500254,4,0:33,nan,SUB: Harrell FOR Harden,nan,201935,James Harden,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+31970,21500254,4,0:33,SUB: Drummond FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+31971,21500254,4,0:33,Jackson Free Throw 2 of 2 (31 PTS),nan,105 - 116,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31972,21500254,4,0:26,nan,MISS Thornton 26' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31973,21500254,4,0:26,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31974,21500254,4,0:02,PISTONS Turnover: Shot Clock (T#12),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+31975,21500254,4,0:00,nan,nan,105 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

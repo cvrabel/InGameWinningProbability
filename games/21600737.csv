@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+244163,21600737,4,12:00,nan,nan,87 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+244164,21600737,4,11:40,nan,MISS Conley 25' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244165,21600737,4,11:38,nan,Allen REBOUND (Off:1 Def:1),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244166,21600737,4,11:29,nan,MISS Allen 2' Driving Layup,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244167,21600737,4,11:28,nan,Carter REBOUND (Off:1 Def:4),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244168,21600737,4,11:28,nan,MISS Carter 2' Tip Layup Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244169,21600737,4,11:25,Hernangomez REBOUND (Off:0 Def:2),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244170,21600737,4,11:08,MISS Murray 12' Turnaround Fadeaway Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244171,21600737,4,11:05,nan,Ennis III REBOUND (Off:0 Def:5),nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244172,21600737,4,11:03,Murray STEAL (1 STL),Ennis III Bad Pass Turnover (P1.T4),nan,203516,James Ennis III,MEM,1627750,Jamal Murray,DEN,0,nan,nan,Turnover ,Bad Pass
+244173,21600737,4,10:58,Hernangomez  Cutting Dunk Shot (2 PTS) (Murray 2 AST),nan,87 - 71,1627823,Juan Hernangomez,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+244174,21600737,4,10:58,nan,Carter S.FOUL (P3.T1) (S.Corbin),nan,1713,Vince Carter,MEM,1627823,Juan Hernangomez,DEN,0,nan,nan,Foul ,Shooting
+244175,21600737,4,10:58,Hernangomez Free Throw 1 of 1 (3 PTS),nan,87 - 72,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+244176,21600737,4,10:43,Murray STEAL (2 STL),Randolph Bad Pass Turnover (P3.T5),nan,2216,Zach Randolph,MEM,1627750,Jamal Murray,DEN,0,nan,nan,Turnover ,Bad Pass
+244177,21600737,4,10:40,Mudiay Bad Pass Turnover (P1.T13),Conley STEAL (1 STL),nan,1626144,Emmanuel Mudiay,DEN,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Bad Pass
+244178,21600737,4,10:34,nan,Ennis III 24' 3PT Jump Shot (8 PTS) (Conley 5 AST),90 - 72,203516,James Ennis III,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+244179,21600737,4,10:18,Faried  Alley Oop Dunk (10 PTS) (Mudiay 6 AST),nan,90 - 74,202702,Kenneth Faried,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+244180,21600737,4,10:18,nan,Randolph S.FOUL (P2.T2) (J.Orr),nan,2216,Zach Randolph,MEM,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+244181,21600737,4,10:18,Faried Free Throw 1 of 1 (11 PTS),nan,90 - 75,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+244182,21600737,4,10:03,Chandler S.FOUL (P2.T1) (M.Lindsay),nan,nan,201163,Wilson Chandler,DEN,203516,James Ennis III,MEM,0,nan,nan,Foul ,Shooting
+244183,21600737,4,10:03,nan,Ennis III Free Throw 1 of 2 (9 PTS),91 - 75,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244184,21600737,4,10:03,nan,Ennis III Free Throw 2 of 2 (10 PTS),92 - 75,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244185,21600737,4,9:48,MISS Murray 13' Jump Shot,Ennis III BLOCK (1 BLK),nan,1627750,Jamal Murray,DEN,0,nan,nan,203516,James Ennis III,MEM,Missed Shot ,nan
+244186,21600737,4,9:47,Hernangomez REBOUND (Off:1 Def:2),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244187,21600737,4,9:45,MISS Hernangomez 3' Layup,Carter BLOCK (1 BLK),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,1713,Vince Carter,MEM,Missed Shot ,nan
+244188,21600737,4,9:41,nan,Conley REBOUND (Off:1 Def:2),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244189,21600737,4,9:33,Faried Personal Block Foul (P3.T2) (S.Corbin),nan,nan,202702,Kenneth Faried,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal Block
+244190,21600737,4,9:24,nan,MISS Conley 18' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244191,21600737,4,9:24,nan,Allen REBOUND (Off:2 Def:1),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244192,21600737,4,9:24,nan,Allen 1' Tip Layup Shot (4 PTS),94 - 75,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244193,21600737,4,9:24,NUGGETS Timeout: Regular (Full 6 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244194,21600737,4,9:17,Hernangomez 26' 3PT Jump Shot (6 PTS) (Mudiay 7 AST),nan,94 - 78,1627823,Juan Hernangomez,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+244195,21600737,4,9:03,Faried S.FOUL (P4.T3) (M.Lindsay),nan,nan,202702,Kenneth Faried,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Shooting
+244196,21600737,4,9:03,nan,MISS Carter Free Throw 1 of 2,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244197,21600737,4,9:03,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+244198,21600737,4,9:03,nan,Carter Free Throw 2 of 2 (12 PTS),95 - 78,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244199,21600737,4,8:49,Mudiay Bad Pass Turnover (P2.T14),Allen STEAL (2 STL),nan,1626144,Emmanuel Mudiay,DEN,2754,Tony Allen,MEM,0,nan,nan,Turnover ,Bad Pass
+244200,21600737,4,8:45,Murray BLOCK (1 BLK),MISS Allen 2' Layup,nan,2754,Tony Allen,MEM,0,nan,nan,1627750,Jamal Murray,DEN,Missed Shot ,nan
+244201,21600737,4,8:45,nan,Ennis III REBOUND (Off:1 Def:5),nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244202,21600737,4,8:45,nan,Ennis III 2' Putback Layup (12 PTS),97 - 78,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244203,21600737,4,8:45,Mudiay S.FOUL (P2.T4) (J.Orr),nan,nan,1626144,Emmanuel Mudiay,DEN,203516,James Ennis III,MEM,0,nan,nan,Foul ,Shooting
+244204,21600737,4,8:45,nan,Ennis III Free Throw 1 of 1 (13 PTS),98 - 78,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+244205,21600737,4,8:29,Mudiay 2' Driving Layup (10 PTS),nan,98 - 80,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+244206,21600737,4,8:15,Faried P.FOUL (P5.PN) (S.Corbin),nan,nan,202702,Kenneth Faried,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+244207,21600737,4,8:15,nan,Carter Free Throw 1 of 2 (13 PTS),99 - 80,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244208,21600737,4,8:15,SUB: Miller FOR Chandler,nan,nan,201163,Wilson Chandler,DEN,2034,Mike Miller,DEN,0,nan,nan,Substitution ,nan
+244209,21600737,4,8:15,nan,Carter Free Throw 2 of 2 (14 PTS),100 - 80,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244210,21600737,4,8:09,Hernangomez Traveling Turnover (P1.T15),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+244211,21600737,4,7:48,nan,MISS Conley 25' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244212,21600737,4,7:47,Miller REBOUND (Off:0 Def:1),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244213,21600737,4,7:33,Mudiay 2' Driving Reverse Layup (12 PTS),nan,100 - 82,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+244214,21600737,4,7:20,Faried STEAL (1 STL),Randolph Lost Ball Turnover (P4.T6),nan,2216,Zach Randolph,MEM,202702,Kenneth Faried,DEN,0,nan,nan,Turnover ,Lost Ball
+244215,21600737,4,7:17,nan,Ennis III S.FOUL (P2.T3) (M.Lindsay),nan,203516,James Ennis III,MEM,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+244216,21600737,4,7:17,Mudiay Free Throw 1 of 2 (13 PTS),nan,100 - 83,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244217,21600737,4,7:17,nan,SUB: Green FOR Ennis III,nan,203516,James Ennis III,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+244218,21600737,4,7:17,SUB: O'Bryant III FOR Faried,nan,nan,202702,Kenneth Faried,DEN,203948,Johnny O'Bryant III,DEN,0,nan,nan,Substitution ,nan
+244219,21600737,4,7:17,Mudiay Free Throw 2 of 2 (14 PTS),nan,100 - 84,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244220,21600737,4,7:03,nan,Randolph 2' Cutting Layup Shot (12 PTS) (Carter 5 AST),102 - 84,2216,Zach Randolph,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+244221,21600737,4,6:53,MISS O'Bryant III 22' Jump Shot,nan,nan,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244222,21600737,4,6:52,nan,Green REBOUND (Off:3 Def:3),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244223,21600737,4,6:35,nan,Conley 3' Driving Layup (18 PTS) (Carter 6 AST),104 - 84,201144,Mike Conley,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+244224,21600737,4,6:21,MISS Miller 25' 3PT Jump Shot,nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244225,21600737,4,6:20,Mudiay REBOUND (Off:2 Def:4),nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244226,21600737,4,6:20,nan,Conley P.FOUL (P1.T4) (S.Corbin),nan,201144,Mike Conley,MEM,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Personal
+244227,21600737,4,6:20,SUB: Beasley FOR Mudiay,nan,nan,1626144,Emmanuel Mudiay,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Substitution ,nan
+244228,21600737,4,6:20,nan,SUB: Daniels FOR Carter,nan,1713,Vince Carter,MEM,203584,Troy Daniels,MEM,0,nan,nan,Substitution ,nan
+244229,21600737,4,6:14,MISS Murray 16' Fadeaway Jumper,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244230,21600737,4,6:11,nan,Randolph REBOUND (Off:1 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244231,21600737,4,6:04,nan,MISS Daniels 27' 3PT Jump Shot,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244232,21600737,4,6:02,Murray REBOUND (Off:1 Def:2),nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244233,21600737,4,5:52,MISS O'Bryant III 16' Step Back Jump Shot,nan,nan,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244234,21600737,4,5:50,nan,Conley REBOUND (Off:1 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244235,21600737,4,5:34,nan,Randolph 8' Fadeaway Jumper (14 PTS),106 - 84,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244236,21600737,4,5:18,MISS Murray 26' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244237,21600737,4,5:17,nan,Green REBOUND (Off:3 Def:4),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244238,21600737,4,5:13,nan,Grizzlies Timeout: Regular (Reg.4 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244239,21600737,4,5:13,nan,SUB: Douglas FOR Green,nan,203210,JaMychal Green,MEM,201962,Toney Douglas,MEM,0,nan,nan,Substitution ,nan
+244240,21600737,4,5:13,nan,SUB: Davis FOR Allen,nan,2754,Tony Allen,MEM,1627738,Deyonta Davis,MEM,0,nan,nan,Substitution ,nan
+244241,21600737,4,5:13,nan,SUB: Wright FOR Conley,nan,201144,Mike Conley,MEM,201148,Brandan Wright,MEM,0,nan,nan,Substitution ,nan
+244242,21600737,4,5:13,nan,SUB: Harrison FOR Randolph,nan,2216,Zach Randolph,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Substitution ,nan
+244243,21600737,4,4:58,nan,Daniels 25' 3PT Jump Shot (3 PTS) (Douglas 1 AST),109 - 84,203584,Troy Daniels,MEM,201962,Toney Douglas,MEM,0,nan,nan,Made Shot ,nan
+244244,21600737,4,4:41,Beasley 25' 3PT Jump Shot (3 PTS) (Hernangomez 1 AST),nan,109 - 87,1627736,Malik Beasley,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Made Shot ,nan
+244245,21600737,4,4:25,Murray STEAL (3 STL),Douglas Bad Pass Turnover (P1.T7),nan,201962,Toney Douglas,MEM,1627750,Jamal Murray,DEN,0,nan,nan,Turnover ,Bad Pass
+244246,21600737,4,4:20,MISS Murray 1' Running Layup,Davis BLOCK (1 BLK),nan,1627750,Jamal Murray,DEN,0,nan,nan,1627738,Deyonta Davis,MEM,Missed Shot ,nan
+244247,21600737,4,4:19,nan,Wright REBOUND (Off:0 Def:1),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244248,21600737,4,4:07,Beasley STEAL (1 STL),Daniels Bad Pass Turnover (P1.T8),nan,203584,Troy Daniels,MEM,1627736,Malik Beasley,DEN,0,nan,nan,Turnover ,Bad Pass
+244249,21600737,4,4:01,Beasley 2' Running Finger Roll Layup (5 PTS),nan,109 - 89,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+244250,21600737,4,3:40,nan,MISS Harrison 1' Driving Layup,nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244251,21600737,4,3:39,Murray REBOUND (Off:1 Def:3),nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244252,21600737,4,3:36,nan,Douglas P.FOUL (P1.PN) (J.Orr),nan,201962,Toney Douglas,MEM,1627736,Malik Beasley,DEN,0,nan,nan,Foul ,Personal
+244253,21600737,4,3:36,Beasley Free Throw 1 of 2 (6 PTS),nan,109 - 90,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244254,21600737,4,3:36,Beasley Free Throw 2 of 2 (7 PTS),nan,109 - 91,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244255,21600737,4,3:22,nan,MISS Douglas 25' 3PT Jump Shot,nan,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244256,21600737,4,3:22,nan,Wright REBOUND (Off:1 Def:1),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244257,21600737,4,3:06,nan,MISS Davis 19' Jump Shot,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244258,21600737,4,3:04,O'Bryant III REBOUND (Off:0 Def:1),nan,nan,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244259,21600737,4,2:58,Hernangomez 3' Running Jump Shot (8 PTS) (Beasley 1 AST),nan,109 - 93,1627823,Juan Hernangomez,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Made Shot ,nan
+244260,21600737,4,2:39,nan,Daniels 30' 3PT Jump Shot (6 PTS),112 - 93,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244261,21600737,4,2:30,Miller Bad Pass Turnover (P1.T16),Douglas STEAL (1 STL),nan,2034,Mike Miller,DEN,201962,Toney Douglas,MEM,0,nan,nan,Turnover ,Bad Pass
+244262,21600737,4,2:25,nan,Wright  Alley Oop Dunk (2 PTS) (Harrison 6 AST),114 - 93,201148,Brandan Wright,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Made Shot ,nan
+244263,21600737,4,2:05,MISS O'Bryant III 4' Turnaround Hook Shot,nan,nan,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244264,21600737,4,2:03,nan,Davis REBOUND (Off:0 Def:1),nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244265,21600737,4,1:53,nan,Harrison 24' 3PT Jump Shot (8 PTS),117 - 93,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244266,21600737,4,1:38,Beasley Out of Bounds Lost Ball Turnover (P1.T17),nan,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+244267,21600737,4,1:38,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+244268,21600737,4,1:20,Hernangomez S.FOUL (P1.PN) (M.Lindsay),nan,nan,1627823,Juan Hernangomez,DEN,1627738,Deyonta Davis,MEM,0,nan,nan,Foul ,Shooting
+244269,21600737,4,1:20,nan,MISS Davis Free Throw 1 of 2,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244270,21600737,4,1:20,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+244271,21600737,4,1:20,nan,MISS Davis Free Throw 2 of 2,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244272,21600737,4,1:18,Miller REBOUND (Off:0 Def:2),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244273,21600737,4,1:03,Murray 24' 3PT Jump Shot (8 PTS) (O'Bryant III 1 AST),nan,117 - 96,1627750,Jamal Murray,DEN,203948,Johnny O'Bryant III,DEN,0,nan,nan,Made Shot ,nan
+244274,21600737,4,1:03,nan,Douglas S.FOUL (P2.PN) (J.Orr),nan,201962,Toney Douglas,MEM,1627750,Jamal Murray,DEN,0,nan,nan,Foul ,Shooting
+244275,21600737,4,1:03,Murray Free Throw 1 of 1 (9 PTS),nan,117 - 97,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+244276,21600737,4,0:42,nan,Douglas 23' Pullup Jump Shot (2 PTS),119 - 97,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+244277,21600737,4,0:34,nan,Davis S.FOUL (P1.PN) (S.Corbin),nan,1627738,Deyonta Davis,MEM,203948,Johnny O'Bryant III,DEN,0,nan,nan,Foul ,Shooting
+244278,21600737,4,0:34,O'Bryant III Free Throw 1 of 2 (1 PTS),nan,119 - 98,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244279,21600737,4,0:34,O'Bryant III Free Throw 2 of 2 (2 PTS),nan,119 - 99,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244280,21600737,4,0:07,nan,MISS Wright 25' 3PT Jump Shot,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244281,21600737,4,0:04,nan,Davis REBOUND (Off:1 Def:1),nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244282,21600737,4,0:03,nan,MISS Davis 2' Putback Layup,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244283,21600737,4,0:00,Hernangomez REBOUND (Off:1 Def:3),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244284,21600737,4,0:00,MISS O'Bryant III 26' 3PT Jump Shot,nan,nan,203948,Johnny O'Bryant III,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244285,21600737,4,0:00,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244286,21600737,4,0:00,nan,nan,119 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

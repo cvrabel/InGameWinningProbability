@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+83264,21500667,4,12:00,nan,nan,73 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+83265,21500667,4,11:45,James S.FOUL (P1.T1) (G.Zielinski),nan,nan,2544,LeBron James,CLE,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Shooting
+83266,21500667,4,11:45,nan,Dieng Free Throw 1 of 2 (7 PTS),74 - 83,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83267,21500667,4,11:45,nan,Dieng Free Throw 2 of 2 (8 PTS),75 - 83,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83268,21500667,4,11:23,James 22' Jump Shot (21 PTS),nan,75 - 85,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+83269,21500667,4,11:13,nan,MISS Bjelica 6' Driving Bank Shot,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83270,21500667,4,11:12,Love REBOUND (Off:1 Def:4),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83271,21500667,4,11:01,Irving 8' Floating Jump Shot (13 PTS),nan,75 - 87,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+83272,21500667,4,10:44,nan,MISS LaVine 26' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83273,21500667,4,10:44,Shumpert REBOUND (Off:0 Def:2),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83274,21500667,4,10:25,Shumpert  3PT Jump Shot (9 PTS) (Irving 4 AST),nan,75 - 90,202697,Iman Shumpert,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+83275,21500667,4,10:25,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83276,21500667,4,10:12,Shumpert P.FOUL (P3.T2) (G.Zielinski),nan,nan,202697,Iman Shumpert,CLE,2419,Tayshaun Prince,MIN,0,nan,nan,Foul ,Personal
+83277,21500667,4,10:08,Love S.FOUL (P2.T3) (E.Roe),nan,nan,201567,Kevin Love,CLE,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Shooting
+83278,21500667,4,10:08,nan,Dieng Free Throw 1 of 2 (9 PTS),76 - 90,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83279,21500667,4,10:08,nan,SUB: Wiggins FOR Prince,nan,2419,Tayshaun Prince,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+83280,21500667,4,10:08,nan,Dieng Free Throw 2 of 2 (10 PTS),77 - 90,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83281,21500667,4,9:55,Love Lost Ball Turnover (P1.T12),Wiggins STEAL (2 STL),nan,201567,Kevin Love,CLE,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Lost Ball
+83282,21500667,4,9:50,nan,Dieng  Cutting Layup Shot (12 PTS) (Bjelica 1 AST),79 - 90,203476,Gorgui Dieng,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+83283,21500667,4,9:50,Mozgov S.FOUL (P2.T4) (G.Zielinski),nan,nan,202389,Timofey Mozgov,CLE,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Shooting
+83284,21500667,4,9:50,nan,Dieng Free Throw 1 of 1 (13 PTS),80 - 90,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+83285,21500667,4,9:40,nan,Bjelica P.FOUL (P2.T1) (G.Zielinski),nan,202357,Nemanja Bjelica,MIN,201567,Kevin Love,CLE,0,nan,nan,Foul ,Personal
+83286,21500667,4,9:33,Love 18' Jump Shot (11 PTS),nan,80 - 92,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+83287,21500667,4,9:11,nan,MISS Muhammad 26' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83288,21500667,4,9:11,Shumpert REBOUND (Off:0 Def:3),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83289,21500667,4,9:04,MISS Irving 2' Running Reverse Layup,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83290,21500667,4,9:03,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83291,21500667,4,8:46,nan,Bjelica 27' 3PT Jump Shot (5 PTS) (LaVine 4 AST),83 - 92,202357,Nemanja Bjelica,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+83292,21500667,4,8:29,Mozgov Traveling Turnover (P1.T13),nan,nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Turnover ,Traveling
+83293,21500667,4,8:29,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+83294,21500667,4,8:17,nan,Towns  Dunk (19 PTS) (LaVine 5 AST),85 - 92,1626157,Karl-Anthony Towns,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+83295,21500667,4,8:16,CAVALIERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83296,21500667,4,8:16,SUB: Thompson FOR Mozgov,nan,nan,202389,Timofey Mozgov,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+83297,21500667,4,8:07,Irving Out of Bounds - Bad Pass Turnover Turnover (P4.T14),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+83298,21500667,4,7:49,nan,MISS Towns 4' Jump Bank Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83299,21500667,4,7:49,Thompson REBOUND (Off:6 Def:5),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83300,21500667,4,7:42,nan,Bjelica P.FOUL (P3.T2) (G.Zielinski),nan,202357,Nemanja Bjelica,MIN,201567,Kevin Love,CLE,0,nan,nan,Foul ,Personal
+83301,21500667,4,7:27,James Lost Ball Turnover (P5.T15),Muhammad STEAL (1 STL),nan,2544,LeBron James,CLE,203498,Shabazz Muhammad,MIN,0,nan,nan,Turnover ,Lost Ball
+83302,21500667,4,7:21,nan,LaVine 1' Running Layup (14 PTS) (Muhammad 3 AST),87 - 92,203897,Zach LaVine,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Made Shot ,nan
+83303,21500667,4,6:54,Irving 20' Jump Shot (15 PTS),nan,87 - 94,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+83304,21500667,4,6:37,nan,MISS Wiggins 24' 3PT Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83305,21500667,4,6:37,Love REBOUND (Off:1 Def:5),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83306,21500667,4,6:27,MISS Shumpert 24' 3PT Jump Shot,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83307,21500667,4,6:27,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83308,21500667,4,6:27,Thompson L.B.FOUL (P1.PN) (E.Roe),nan,nan,202684,Tristan Thompson,CLE,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Loose Ball
+83309,21500667,4,6:27,nan,Towns Free Throw 1 of 2 (20 PTS),88 - 94,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83310,21500667,4,6:27,SUB: Smith FOR Shumpert,nan,nan,202697,Iman Shumpert,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+83311,21500667,4,6:27,nan,SUB: Rubio FOR Muhammad,nan,203498,Shabazz Muhammad,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+83312,21500667,4,6:27,SUB: Dellavedova FOR Irving,nan,nan,202681,Kyrie Irving,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+83313,21500667,4,6:27,nan,Towns Free Throw 2 of 2 (21 PTS),89 - 94,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83314,21500667,4,6:13,MISS James 17' Fadeaway Jumper,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83315,21500667,4,6:12,nan,LaVine REBOUND (Off:0 Def:4),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83316,21500667,4,6:06,nan,LaVine 1' Running Layup (16 PTS),91 - 94,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+83317,21500667,4,5:54,nan,Wiggins P.FOUL (P3.T3) (G.Zielinski),nan,203952,Andrew Wiggins,MIN,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Personal
+83318,21500667,4,5:36,MISS Smith 21' Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83319,21500667,4,5:36,nan,Rubio REBOUND (Off:0 Def:4),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83320,21500667,4,5:28,nan,MISS LaVine 26' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83321,21500667,4,5:28,James REBOUND (Off:0 Def:3),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83322,21500667,4,5:15,Thompson 2' Reverse Layup (12 PTS) (James 8 AST),nan,91 - 96,202684,Tristan Thompson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+83323,21500667,4,5:15,nan,Bjelica S.FOUL (P4.T4) (E.Roe),nan,202357,Nemanja Bjelica,MIN,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+83324,21500667,4,5:15,nan,SUB: Dieng FOR Bjelica,nan,202357,Nemanja Bjelica,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+83325,21500667,4,5:15,Thompson Free Throw 1 of 1 (13 PTS),nan,91 - 97,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+83326,21500667,4,4:55,Love STEAL (2 STL),Rubio Bad Pass Turnover (P1.T10),nan,201937,Ricky Rubio,MIN,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Bad Pass
+83327,21500667,4,4:47,MISS Love 24' 3PT Jump Shot,nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83328,21500667,4,4:46,Dellavedova REBOUND (Off:1 Def:2),nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83329,21500667,4,4:32,nan,Dieng S.FOUL (P3.PN) (J.Goble),nan,203476,Gorgui Dieng,MIN,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+83330,21500667,4,4:32,MISS Thompson Free Throw 1 of 2,nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83331,21500667,4,4:32,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+83332,21500667,4,4:32,MISS Thompson Free Throw 2 of 2,nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83333,21500667,4,4:31,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83334,21500667,4,4:26,Thompson  Dunk (15 PTS) (Love 2 AST),nan,91 - 99,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+83335,21500667,4,4:26,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83336,21500667,4,4:13,Smith STEAL (3 STL),LaVine Bad Pass Turnover (P1.T11),nan,203897,Zach LaVine,MIN,2747,JR Smith,CLE,0,nan,nan,Turnover ,Bad Pass
+83337,21500667,4,4:06,MISS James 1' Driving Layup,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83338,21500667,4,4:03,Thompson REBOUND (Off:7 Def:5),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83339,21500667,4,4:02,Thompson  Putback Dunk (17 PTS),nan,91 - 101,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+83340,21500667,4,3:47,nan,MISS Wiggins 4' Jump Bank Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83341,21500667,4,3:47,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83342,21500667,4,3:47,nan,SUB: Muhammad FOR Dieng,nan,203476,Gorgui Dieng,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Substitution ,nan
+83343,21500667,4,3:30,Dellavedova 25' 3PT Jump Shot (16 PTS) (James 9 AST),nan,91 - 104,203521,Matthew Dellavedova,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+83344,21500667,4,3:09,nan,Towns 20' Jump Shot (23 PTS) (LaVine 6 AST),93 - 104,1626157,Karl-Anthony Towns,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+83345,21500667,4,2:51,MISS Smith 18' Step Back Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83346,21500667,4,2:51,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83347,21500667,4,2:51,nan,Towns L.B.FOUL (P3.PN) (G.Zielinski),nan,1626157,Karl-Anthony Towns,MIN,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Loose Ball
+83348,21500667,4,2:51,Thompson Free Throw 1 of 2 (18 PTS),nan,93 - 105,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83349,21500667,4,2:51,MISS Thompson Free Throw 2 of 2,nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83350,21500667,4,2:50,nan,Towns REBOUND (Off:3 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83351,21500667,4,2:36,nan,Wiggins 5' Jump Shot (18 PTS) (Rubio 8 AST),95 - 105,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+83352,21500667,4,2:31,nan,Rubio P.FOUL (P2.PN) (E.Roe),nan,201937,Ricky Rubio,MIN,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Personal
+83353,21500667,4,2:31,Thompson Free Throw 1 of 2 (19 PTS),nan,95 - 106,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83354,21500667,4,2:31,SUB: Irving FOR Love,nan,nan,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+83355,21500667,4,2:31,MISS Thompson Free Throw 2 of 2,nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83356,21500667,4,2:30,nan,Muhammad REBOUND (Off:1 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83357,21500667,4,2:20,nan,Towns 1' Layup (25 PTS) (Rubio 9 AST),97 - 106,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+83358,21500667,4,2:20,James S.FOUL (P2.PN) (E.Roe),nan,nan,2544,LeBron James,CLE,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+83359,21500667,4,2:20,SUB: Love FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+83360,21500667,4,2:20,nan,Towns Free Throw 1 of 1 (26 PTS),98 - 106,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+83361,21500667,4,2:06,MISS Smith 24' 3PT Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83362,21500667,4,2:06,nan,Rubio REBOUND (Off:0 Def:5),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83363,21500667,4,1:57,nan,MISS LaVine 26' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83364,21500667,4,1:56,nan,Towns REBOUND (Off:4 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83365,21500667,4,1:51,nan,Muhammad 6' Turnaround Jump Shot (10 PTS) (Towns 4 AST),100 - 106,203498,Shabazz Muhammad,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+83366,21500667,4,1:36,MISS Dellavedova  3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83367,21500667,4,1:35,nan,Towns REBOUND (Off:4 Def:7),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83368,21500667,4,1:29,nan,MISS Muhammad 21' Running Pull-Up Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83369,21500667,4,1:28,James REBOUND (Off:0 Def:4),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83370,21500667,4,1:08,MISS Love 24' 3PT Jump Shot,nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83371,21500667,4,1:08,nan,Rubio REBOUND (Off:0 Def:6),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83372,21500667,4,1:00,nan,Wiggins 15' Turnaround Fadeaway (20 PTS) (Rubio 10 AST),102 - 106,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+83373,21500667,4,0:42,nan,Wiggins P.FOUL (P4.PN) (G.Zielinski),nan,203952,Andrew Wiggins,MIN,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+83374,21500667,4,0:42,Irving Free Throw 1 of 2 (16 PTS),nan,102 - 107,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83375,21500667,4,0:42,SUB: Thompson FOR Love,nan,nan,201567,Kevin Love,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+83376,21500667,4,0:42,Irving Free Throw 2 of 2 (17 PTS),nan,102 - 108,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83377,21500667,4,0:42,nan,Timberwolves Timeout: Short (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+83378,21500667,4,0:36,Thompson S.FOUL (P2.PN) (E.Roe),nan,nan,202684,Tristan Thompson,CLE,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting
+83379,21500667,4,0:36,nan,LaVine Free Throw 1 of 2 (17 PTS),103 - 108,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83380,21500667,4,0:36,SUB: Love FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+83381,21500667,4,0:36,nan,LaVine Free Throw 2 of 2 (18 PTS),104 - 108,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83382,21500667,4,0:19,James 2' Cutting Layup Shot (23 PTS) (Dellavedova 7 AST),nan,104 - 110,2544,LeBron James,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+83383,21500667,4,0:16,nan,LaVine 1' Driving Layup (20 PTS),106 - 110,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+83384,21500667,4,0:16,Love S.FOUL (P3.PN) (G.Zielinski),nan,nan,201567,Kevin Love,CLE,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting
+83385,21500667,4,0:16,nan,LaVine Free Throw 1 of 1 (21 PTS),107 - 110,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+83386,21500667,4,0:16,CAVALIERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+83387,21500667,4,0:16,nan,Wiggins P.FOUL (P5.PN) (J.Goble),nan,203952,Andrew Wiggins,MIN,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+83388,21500667,4,0:16,James Free Throw 1 of 2 (24 PTS),nan,107 - 111,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83389,21500667,4,0:16,SUB: Thompson FOR Love,nan,nan,201567,Kevin Love,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+83390,21500667,4,0:16,SUB: Shumpert FOR Irving,nan,nan,202681,Kyrie Irving,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+83391,21500667,4,0:16,James Free Throw 2 of 2 (25 PTS),nan,107 - 112,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83392,21500667,4,0:07,nan,MISS LaVine 24' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83393,21500667,4,0:07,nan,Rubio REBOUND (Off:1 Def:6),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83394,21500667,4,0:03,nan,MISS Muhammad 25' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+83395,21500667,4,0:02,Dellavedova REBOUND (Off:1 Def:3),nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+83396,21500667,4,0:01,nan,LaVine P.FOUL (P3.PN) (E.Roe),nan,203897,Zach LaVine,MIN,203521,Matthew Dellavedova,CLE,0,nan,nan,Foul ,Personal
+83397,21500667,4,0:01,Dellavedova Free Throw 1 of 2 (17 PTS),nan,107 - 113,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+83398,21500667,4,0:01,Dellavedova Free Throw 2 of 2 (18 PTS),nan,107 - 114,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+83399,21500667,4,0:00,nan,nan,107 - 114,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

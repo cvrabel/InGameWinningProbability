@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+231145,21600633,4,12:00,nan,nan,68 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+231146,21600633,4,11:45,MISS Harris 15' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231147,21600633,4,11:45,nan,Delaney REBOUND (Off:0 Def:3),nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231148,21600633,4,11:29,Smith S.FOUL (P3.T1) (J.Orr),nan,nan,202397,Ish Smith,DET,2743,Kris Humphries,ATL,0,nan,nan,Foul ,Shooting
+231149,21600633,4,11:29,nan,Humphries Free Throw 1 of 2 (5 PTS),69 - 94,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231150,21600633,4,11:29,nan,Humphries Free Throw 2 of 2 (6 PTS),70 - 94,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231151,21600633,4,11:20,nan,Neal P.FOUL (P1.T1) (S.Foster),nan,202390,Gary Neal,ATL,1626199,Darrun Hilliard,DET,0,nan,nan,Foul ,Personal
+231152,21600633,4,11:14,nan,Bembry S.FOUL (P1.T2) (T.Brothers),nan,1627761,DeAndre' Bembry,ATL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+231153,21600633,4,11:14,MISS Baynes Free Throw 1 of 2,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231154,21600633,4,11:14,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+231155,21600633,4,11:14,Baynes Free Throw 2 of 2 (7 PTS),nan,70 - 95,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231156,21600633,4,11:00,Smith P.FOUL (P4.T2) (S.Foster),nan,nan,202397,Ish Smith,DET,2743,Kris Humphries,ATL,0,nan,nan,Foul ,Personal
+231157,21600633,4,10:53,nan,MISS Delaney 19' Jump Shot,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231158,21600633,4,10:53,Hilliard REBOUND (Off:0 Def:2),nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231159,21600633,4,10:42,Johnson Bad Pass Turnover (P2.T9),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+231160,21600633,4,10:42,nan,SUB: Prince FOR Delaney,nan,1627098,Malcolm Delaney,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+231161,21600633,4,10:42,nan,SUB: Dunleavy FOR Scott,nan,203118,Mike Scott,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+231162,21600633,4,10:29,nan,MISS Neal 17' Jump Shot,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231163,21600633,4,10:28,Baynes REBOUND (Off:1 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231164,21600633,4,10:14,MISS Johnson 19' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231165,21600633,4,10:14,nan,Dunleavy REBOUND (Off:0 Def:2),nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231166,21600633,4,10:00,nan,Prince 14' Pullup Jump Shot (2 PTS) (Humphries 1 AST),72 - 95,1627752,Taurean Prince,ATL,2743,Kris Humphries,ATL,0,nan,nan,Made Shot ,nan
+231167,21600633,4,9:42,nan,Humphries S.FOUL (P3.T3) (T.Brothers),nan,2743,Kris Humphries,ATL,1626199,Darrun Hilliard,DET,0,nan,nan,Foul ,Shooting
+231168,21600633,4,9:42,Hilliard Free Throw 1 of 2 (1 PTS),nan,72 - 96,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231169,21600633,4,9:42,Hilliard Free Throw 2 of 2 (2 PTS),nan,72 - 97,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231170,21600633,4,9:29,nan,MISS Bembry 16' Jump Shot,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231171,21600633,4,9:29,Smith REBOUND (Off:0 Def:3),nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231172,21600633,4,9:20,nan,Prince P.FOUL (P2.T4) (J.Orr),nan,1627752,Taurean Prince,ATL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+231173,21600633,4,9:09,Hilliard Bad Pass Turnover (P1.T10),nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+231174,21600633,4,9:05,nan,SUB: Scott FOR Humphries,nan,2743,Kris Humphries,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+231175,21600633,4,8:58,Smith S.FOUL (P5.T3) (T.Brothers),nan,nan,202397,Ish Smith,DET,202390,Gary Neal,ATL,0,nan,nan,Foul ,Shooting
+231176,21600633,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+231177,21600633,4,8:58,SUB: Jackson FOR Smith,nan,nan,202397,Ish Smith,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+231178,21600633,4,8:58,nan,Neal Free Throw 1 of 2 (3 PTS),73 - 97,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231179,21600633,4,8:58,nan,Neal Free Throw 2 of 2 (4 PTS),74 - 97,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231180,21600633,4,8:41,Harris 24' 3PT Jump Shot (19 PTS) (Baynes 1 AST),nan,74 - 100,202699,Tobias Harris,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+231181,21600633,4,8:31,nan,MISS Dunleavy 25' 3PT Jump Shot,nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231182,21600633,4,8:31,Hilliard REBOUND (Off:0 Def:3),nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231183,21600633,4,8:14,MISS Harris 17' Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231184,21600633,4,8:13,nan,Prince REBOUND (Off:0 Def:2),nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231185,21600633,4,8:12,Johnson STEAL (2 STL),Prince Lost Ball Turnover (P1.T12),nan,1627752,Taurean Prince,ATL,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Lost Ball
+231186,21600633,4,7:53,MISS Harris 26' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231187,21600633,4,7:53,nan,Scott REBOUND (Off:0 Def:1),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231188,21600633,4,7:45,nan,Bembry 1' Layup (2 PTS) (Dunleavy 2 AST),76 - 100,1627761,DeAndre' Bembry,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Made Shot ,nan
+231189,21600633,4,7:45,Baynes S.FOUL (P2.T4) (J.Orr),nan,nan,203382,Aron Baynes,DET,1627761,DeAndre' Bembry,ATL,0,nan,nan,Foul ,Shooting
+231190,21600633,4,7:45,nan,MISS Bembry Free Throw 1 of 1,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+231191,21600633,4,7:43,Hilliard REBOUND (Off:0 Def:4),nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231192,21600633,4,7:22,MISS Hilliard 24' 3PT Jump Shot,nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231193,21600633,4,7:21,nan,Bembry REBOUND (Off:0 Def:1),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231194,21600633,4,7:14,nan,Dunleavy 1' Layup (2 PTS) (Bembry 1 AST),78 - 100,2399,Mike Dunleavy,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Made Shot ,nan
+231195,21600633,4,7:04,Jackson OFF.Foul (P2) (S.Foster),nan,nan,202704,Reggie Jackson,DET,1627761,DeAndre' Bembry,ATL,0,nan,nan,Foul ,Offensive
+231196,21600633,4,7:04,Jackson Foul Turnover (P2.T11),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+231197,21600633,4,7:04,SUB: Bullock FOR Hilliard,nan,nan,1626199,Darrun Hilliard,DET,203493,Reggie Bullock,DET,0,nan,nan,Substitution ,nan
+231198,21600633,4,7:04,nan,SUB: Humphries FOR Neal,nan,202390,Gary Neal,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+231199,21600633,4,6:51,nan,Prince 4' Jump Shot (4 PTS) (Bembry 2 AST),80 - 100,1627752,Taurean Prince,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Made Shot ,nan
+231200,21600633,4,6:47,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+231201,21600633,4,6:37,Jackson Bad Pass Turnover (P3.T12),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+231202,21600633,4,6:28,Baynes S.FOUL (P3.PN) (T.Brothers),nan,nan,203382,Aron Baynes,DET,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Shooting
+231203,21600633,4,6:28,nan,Prince Free Throw 1 of 2 (5 PTS),81 - 100,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231204,21600633,4,6:28,SUB: Marc Morris FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+231205,21600633,4,6:28,nan,Prince Free Throw 2 of 2 (6 PTS),82 - 100,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231206,21600633,4,6:13,nan,Dunleavy S.FOUL (P2.PN) (T.Brothers),nan,2399,Mike Dunleavy,ATL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+231207,21600633,4,6:13,MISS Baynes Free Throw 1 of 2,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231208,21600633,4,6:13,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+231209,21600633,4,6:13,Baynes Free Throw 2 of 2 (8 PTS),nan,82 - 101,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231210,21600633,4,5:58,nan,MISS Prince 24' 3PT Jump Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231211,21600633,4,5:58,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231212,21600633,4,5:58,nan,Humphries L.B.FOUL (P4.PN) (S.Foster),nan,2743,Kris Humphries,ATL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Loose Ball
+231213,21600633,4,5:58,Baynes Free Throw 1 of 2 (9 PTS),nan,82 - 102,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231214,21600633,4,5:58,nan,SUB: Neal FOR Scott,nan,203118,Mike Scott,ATL,202390,Gary Neal,ATL,0,nan,nan,Substitution ,nan
+231215,21600633,4,5:58,Baynes Free Throw 2 of 2 (10 PTS),nan,82 - 103,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231216,21600633,4,5:41,nan,MISS Neal 17' Jump Shot,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231217,21600633,4,5:40,Marc Morris REBOUND (Off:1 Def:9),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231218,21600633,4,5:32,MISS Jackson 2' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231219,21600633,4,5:31,Baynes REBOUND (Off:2 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231220,21600633,4,5:29,Baynes 1' Tip Layup Shot (12 PTS),nan,82 - 105,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+231221,21600633,4,5:18,nan,Humphries  Layup (8 PTS) (Prince 1 AST),84 - 105,2743,Kris Humphries,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Made Shot ,nan
+231222,21600633,4,5:05,MISS Harris 27' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231223,21600633,4,5:05,nan,Bembry REBOUND (Off:0 Def:2),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231224,21600633,4,4:56,nan,MISS Prince 1' Alley Oop Layup,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231225,21600633,4,4:54,Harris REBOUND (Off:0 Def:5),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231226,21600633,4,4:40,Bullock 24' 3PT Jump Shot (15 PTS) (Baynes 2 AST),nan,84 - 108,203493,Reggie Bullock,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+231227,21600633,4,4:22,nan,Humphries 18' Jump Shot (10 PTS) (Bembry 3 AST),86 - 108,2743,Kris Humphries,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Made Shot ,nan
+231228,21600633,4,4:06,Jackson  Driving Layup (24 PTS),nan,86 - 110,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+231229,21600633,4,4:01,Harris S.FOUL (P5.PN) (T.Brothers),nan,nan,202699,Tobias Harris,DET,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Shooting
+231230,21600633,4,4:01,nan,Prince Free Throw 1 of 2 (7 PTS),87 - 110,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231231,21600633,4,4:01,nan,SUB: Scott FOR Humphries,nan,2743,Kris Humphries,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+231232,21600633,4,4:01,SUB: Johnson FOR Harris,nan,nan,202699,Tobias Harris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+231233,21600633,4,4:01,nan,Prince Free Throw 2 of 2 (8 PTS),88 - 110,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231234,21600633,4,3:40,MISS Marc Morris 27' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231235,21600633,4,3:39,nan,Neal REBOUND (Off:0 Def:1),nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231236,21600633,4,3:32,nan,MISS Neal 20' Jump Shot,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231237,21600633,4,3:32,nan,Bembry REBOUND (Off:1 Def:2),nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231238,21600633,4,3:32,Baynes S.FOUL (P4.PN) (S.Foster),nan,nan,203382,Aron Baynes,DET,1627761,DeAndre' Bembry,ATL,0,nan,nan,Foul ,Shooting
+231239,21600633,4,3:32,nan,Bembry Free Throw 1 of 2 (3 PTS),89 - 110,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231240,21600633,4,3:32,nan,Bembry Free Throw 2 of 2 (4 PTS),90 - 110,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231241,21600633,4,3:12,Jackson 17' Step Back Jump Shot (26 PTS),nan,90 - 112,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+231242,21600633,4,3:04,nan,MISS Scott 25' 3PT Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231243,21600633,4,3:03,nan,Dunleavy REBOUND (Off:1 Def:2),nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231244,21600633,4,3:02,nan,MISS Dunleavy 2' Layup,nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231245,21600633,4,3:00,nan,Dunleavy REBOUND (Off:2 Def:2),nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231246,21600633,4,2:59,Johnson STEAL (3 STL),Dunleavy Lost Ball Turnover (P1.T13),nan,2399,Mike Dunleavy,ATL,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Lost Ball
+231247,21600633,4,2:39,Johnson Bad Pass Turnover (P3.T13),Dunleavy STEAL (1 STL),nan,1626169,Stanley Johnson,DET,2399,Mike Dunleavy,ATL,0,nan,nan,Turnover ,Bad Pass
+231248,21600633,4,2:28,nan,MISS Prince 14' Jump Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231249,21600633,4,2:28,Jackson REBOUND (Off:2 Def:3),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231250,21600633,4,2:22,PISTONS Timeout: Short (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+231251,21600633,4,2:22,nan,Hawks Timeout: Regular (Reg.4 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+231252,21600633,4,2:22,SUB: Hilliard FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+231253,21600633,4,2:22,SUB: Marjanovic FOR Bullock,nan,nan,203493,Reggie Bullock,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+231254,21600633,4,2:22,SUB: Ellenson FOR Jackson,nan,nan,202704,Reggie Jackson,DET,1627740,Henry Ellenson,DET,0,nan,nan,Substitution ,nan
+231255,21600633,4,2:22,SUB: Smith FOR Baynes,nan,nan,203382,Aron Baynes,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+231256,21600633,4,2:22,nan,SUB: Humphries FOR Dunleavy,nan,2399,Mike Dunleavy,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+231257,21600633,4,2:05,Smith 18' Jump Shot (6 PTS),nan,90 - 114,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+231258,21600633,4,1:55,nan,Humphries 27' 3PT Jump Shot (13 PTS) (Neal 1 AST),93 - 114,2743,Kris Humphries,ATL,202390,Gary Neal,ATL,0,nan,nan,Made Shot ,nan
+231259,21600633,4,1:39,MISS Hilliard 5' Jump Shot,nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231260,21600633,4,1:39,nan,Humphries REBOUND (Off:1 Def:1),nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231261,21600633,4,1:33,Ellenson P.FOUL (P1.PN) (T.Brothers),nan,nan,1627740,Henry Ellenson,DET,1627761,DeAndre' Bembry,ATL,0,nan,nan,Foul ,Personal
+231262,21600633,4,1:33,nan,MISS Bembry Free Throw 1 of 2,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231263,21600633,4,1:33,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+231264,21600633,4,1:33,nan,MISS Bembry Free Throw 2 of 2,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231265,21600633,4,1:32,Marjanovic REBOUND (Off:0 Def:1),nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231266,21600633,4,1:15,Marjanovic 10' Hook Shot (2 PTS) (Ellenson 1 AST),nan,93 - 116,1626246,Boban Marjanovic,DET,1627740,Henry Ellenson,DET,0,nan,nan,Made Shot ,nan
+231267,21600633,4,1:06,nan,MISS Scott 24' 3PT Jump Shot,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231268,21600633,4,1:05,Johnson REBOUND (Off:2 Def:2),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231269,21600633,4,0:51,MISS Marjanovic 13' Jump Shot,nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231270,21600633,4,0:50,nan,Scott REBOUND (Off:0 Def:2),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231271,21600633,4,0:43,nan,MISS Neal 26' 3PT Jump Shot,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+231272,21600633,4,0:43,Marjanovic REBOUND (Off:0 Def:2),nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+231273,21600633,4,0:32,Ellenson  Driving Layup (2 PTS) (Johnson 3 AST),nan,93 - 118,1627740,Henry Ellenson,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+231274,21600633,4,0:20,Marjanovic S.FOUL (P1.PN) (J.Orr),nan,nan,1626246,Boban Marjanovic,DET,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Shooting
+231275,21600633,4,0:20,nan,Prince Free Throw 1 of 2 (9 PTS),94 - 118,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+231276,21600633,4,0:20,nan,Prince Free Throw 2 of 2 (10 PTS),95 - 118,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+231277,21600633,4,0:00,nan,nan,95 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

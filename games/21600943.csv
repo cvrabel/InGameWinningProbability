@@ -1,0 +1,106 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+269523,21600943,4,12:00,nan,nan,73 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+269524,21600943,4,11:45,Arthur STEAL (2 STL),Hield Bad Pass Turnover (P3.T14),nan,1627741,Buddy Hield,SAC,201589,Darrell Arthur,DEN,0,nan,nan,Turnover ,Bad Pass
+269525,21600943,4,11:40,Murray Bad Pass Turnover (P2.T14),Evans STEAL (1 STL),nan,1627750,Jamal Murray,DEN,201936,Tyreke Evans,SAC,0,nan,nan,Turnover ,Bad Pass
+269526,21600943,4,11:38,nan,Evans  Layup (10 PTS),75 - 90,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+269527,21600943,4,11:22,Murray 2' Layup (2 PTS) (Harris 3 AST),nan,75 - 92,1627750,Jamal Murray,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+269528,21600943,4,10:56,nan,MISS Tolliver  3PT Jump Shot,nan,201229,Anthony Tolliver,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269529,21600943,4,10:56,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269530,21600943,4,10:43,nan,Lawson 21' Jump Shot (11 PTS),77 - 92,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+269531,21600943,4,10:24,Barton 26' 3PT Jump Shot (6 PTS) (Arthur 2 AST),nan,77 - 95,203115,Will Barton,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+269532,21600943,4,10:10,nan,MISS Evans 1' Layup,nan,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269533,21600943,4,10:09,Arthur REBOUND (Off:0 Def:3),nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269534,21600943,4,10:03,Barton 1' Reverse Layup (8 PTS),nan,77 - 97,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+269535,21600943,4,9:58,Murray S.FOUL (P2.T1) (E.Lewis),nan,nan,1627750,Jamal Murray,DEN,201951,Ty Lawson,SAC,0,nan,nan,Foul ,Shooting
+269536,21600943,4,9:58,nan,MISS Lawson Free Throw 1 of 2,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+269537,21600943,4,9:58,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+269538,21600943,4,9:58,nan,SUB: Labissiere FOR Tolliver,nan,201229,Anthony Tolliver,SAC,1627746,Skal Labissiere,SAC,0,nan,nan,Substitution ,nan
+269539,21600943,4,9:58,nan,Lawson Free Throw 2 of 2 (12 PTS),78 - 97,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+269540,21600943,4,9:41,Murray 14' Jump Shot (4 PTS) (Arthur 3 AST),nan,78 - 99,1627750,Jamal Murray,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+269541,21600943,4,9:29,nan,MISS Hield 17' Jump Shot,nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269542,21600943,4,9:27,nan,Cauley-Stein REBOUND (Off:2 Def:2),nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269543,21600943,4,9:24,nan,MISS Cauley-Stein 2' Layup,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269544,21600943,4,9:24,nan,Labissiere REBOUND (Off:1 Def:1),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269545,21600943,4,9:21,nan,MISS Labissiere 2' Layup,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269546,21600943,4,9:20,nan,Evans REBOUND (Off:1 Def:4),nan,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269547,21600943,4,9:17,nan,MISS Evans 24' 3PT Jump Shot,nan,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269548,21600943,4,9:16,nan,Labissiere REBOUND (Off:2 Def:1),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269549,21600943,4,9:13,nan,Hield 24' 3PT Jump Shot (12 PTS) (Cauley-Stein 1 AST),81 - 99,1627741,Buddy Hield,SAC,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Made Shot ,nan
+269550,21600943,4,9:13,NUGGETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+269551,21600943,4,9:13,SUB: Chandler FOR Gallinari,nan,nan,201568,Danilo Gallinari,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+269552,21600943,4,8:57,MISS Barton 24' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269553,21600943,4,8:56,nan,Cauley-Stein REBOUND (Off:2 Def:3),nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269554,21600943,4,8:37,nan,Hield Traveling Turnover (P4.T15),nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+269555,21600943,4,8:20,MISS Chandler  3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269556,21600943,4,8:19,nan,Cauley-Stein REBOUND (Off:2 Def:4),nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269557,21600943,4,8:09,nan,MISS Evans 20' Jump Shot,nan,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269558,21600943,4,8:08,Arthur REBOUND (Off:0 Def:4),nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269559,21600943,4,7:57,MISS Arthur 20' Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269560,21600943,4,7:56,nan,Evans REBOUND (Off:1 Def:5),nan,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269561,21600943,4,7:38,nan,Evans 3' Finger Roll Layup (12 PTS),83 - 99,201936,Tyreke Evans,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+269562,21600943,4,7:23,MISS Arthur 25' 3PT Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269563,21600943,4,7:22,nan,Labissiere REBOUND (Off:2 Def:2),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269564,21600943,4,6:59,nan,MISS Labissiere 17' Jump Shot,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269565,21600943,4,6:58,Harris REBOUND (Off:0 Def:3),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269566,21600943,4,6:52,MISS Barton 25' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269567,21600943,4,6:51,Chandler REBOUND (Off:2 Def:5),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269568,21600943,4,6:50,nan,Labissiere P.FOUL (P2.T1) (S.Wright),nan,1627746,Skal Labissiere,SAC,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal
+269569,21600943,4,6:50,SUB: Plumlee FOR Arthur,nan,nan,201589,Darrell Arthur,DEN,203486,Mason Plumlee,DEN,0,nan,nan,Substitution ,nan
+269570,21600943,4,6:44,nan,Cauley-Stein P.FOUL (P5.T2) (D.Richardson),nan,1626161,Willie Cauley-Stein,SAC,203486,Mason Plumlee,DEN,0,nan,nan,Foul ,Personal
+269571,21600943,4,6:32,MISS Plumlee 9' Hook Shot,nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269572,21600943,4,6:30,nan,Labissiere REBOUND (Off:2 Def:3),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269573,21600943,4,6:28,Harris STEAL (3 STL),Labissiere Bad Pass Turnover (P2.T16),nan,1627746,Skal Labissiere,SAC,203914,Gary Harris,DEN,0,nan,nan,Turnover ,Bad Pass
+269574,21600943,4,6:27,Harris Offensive Goaltending Turnover (P2.T15),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+269575,21600943,4,6:08,nan,MISS Cauley-Stein 4' Hook Shot,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269576,21600943,4,6:06,Plumlee REBOUND (Off:2 Def:8),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269577,21600943,4,6:01,Murray Bad Pass Turnover (P3.T16),Lawson STEAL (3 STL),nan,1627750,Jamal Murray,DEN,201951,Ty Lawson,SAC,0,nan,nan,Turnover ,Bad Pass
+269578,21600943,4,5:52,nan,MISS Labissiere  Hook Shot,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269579,21600943,4,5:52,Chandler REBOUND (Off:2 Def:6),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269580,21600943,4,5:31,Harris 28' 3PT Jump Shot (15 PTS) (Murray 3 AST),nan,83 - 102,203914,Gary Harris,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+269581,21600943,4,5:23,nan,Kings Timeout: Regular (Reg.4 Short 2),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+269582,21600943,4,5:23,nan,SUB: Galloway FOR Evans,nan,201936,Tyreke Evans,SAC,204038,Langston Galloway,SAC,0,nan,nan,Substitution ,nan
+269583,21600943,4,5:10,nan,Labissiere 14' Fadeaway Jumper (6 PTS),85 - 102,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+269584,21600943,4,4:50,MISS Murray 24' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269585,21600943,4,4:49,nan,Hield REBOUND (Off:0 Def:2),nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269586,21600943,4,4:40,nan,MISS Cauley-Stein 2' Layup,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269587,21600943,4,4:39,Plumlee REBOUND (Off:2 Def:9),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269588,21600943,4,4:29,MISS Chandler 25' 3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269589,21600943,4,4:28,nan,Hield REBOUND (Off:0 Def:3),nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269590,21600943,4,4:24,Barton S.FOUL (P4.T2) (D.Richardson),nan,nan,203115,Will Barton,DEN,1627741,Buddy Hield,SAC,0,nan,nan,Foul ,Shooting
+269591,21600943,4,4:24,nan,Hield Free Throw 1 of 2 (13 PTS),86 - 102,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+269592,21600943,4,4:24,nan,Hield Free Throw 2 of 2 (14 PTS),87 - 102,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+269593,21600943,4,4:11,Chandler Traveling Turnover (P4.T17),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+269594,21600943,4,4:02,nan,Cauley-Stein  Dunk (10 PTS) (Lawson 5 AST),89 - 102,1626161,Willie Cauley-Stein,SAC,201951,Ty Lawson,SAC,0,nan,nan,Made Shot ,nan
+269595,21600943,4,4:02,NUGGETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+269596,21600943,4,4:02,SUB: Nelson FOR Murray,nan,nan,1627750,Jamal Murray,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+269597,21600943,4,3:38,MISS Barton 24' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269598,21600943,4,3:38,nan,Galloway REBOUND (Off:0 Def:1),nan,204038,Langston Galloway,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269599,21600943,4,3:26,Nelson Shooting Block Foul (P3.T3) (S.Wright),nan,nan,2749,Jameer Nelson,DEN,201951,Ty Lawson,SAC,0,nan,nan,Foul ,Shooting Block
+269600,21600943,4,3:26,nan,Lawson Free Throw 1 of 2 (13 PTS),90 - 102,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+269601,21600943,4,3:26,nan,MISS Lawson Free Throw 2 of 2,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+269602,21600943,4,3:25,Chandler REBOUND (Off:2 Def:7),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269603,21600943,4,3:06,nan,Cauley-Stein S.FOUL (P6.T3) (S.Wright),nan,1626161,Willie Cauley-Stein,SAC,203115,Will Barton,DEN,0,nan,nan,Foul ,Shooting
+269604,21600943,4,3:06,nan,SUB: Koufos FOR Cauley-Stein,nan,1626161,Willie Cauley-Stein,SAC,201585,Kosta Koufos,SAC,0,nan,nan,Substitution ,nan
+269605,21600943,4,3:06,Barton Free Throw 1 of 2 (9 PTS),nan,90 - 103,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+269606,21600943,4,3:06,MISS Barton Free Throw 2 of 2,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+269607,21600943,4,3:04,nan,Koufos REBOUND (Off:3 Def:6),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269608,21600943,4,2:48,nan,Koufos 6' Hook Shot (14 PTS) (Lawson 6 AST),92 - 103,201585,Kosta Koufos,SAC,201951,Ty Lawson,SAC,0,nan,nan,Made Shot ,nan
+269609,21600943,4,2:31,Plumlee 6' Jump Bank Shot (10 PTS) (Nelson 5 AST),nan,92 - 105,203486,Mason Plumlee,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+269610,21600943,4,2:15,Chandler S.FOUL (P3.T4) (S.Wright),nan,nan,201163,Wilson Chandler,DEN,1627746,Skal Labissiere,SAC,0,nan,nan,Foul ,Shooting
+269611,21600943,4,2:15,nan,Labissiere Free Throw 1 of 2 (7 PTS),93 - 105,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+269612,21600943,4,2:15,nan,Labissiere Free Throw 2 of 2 (8 PTS),94 - 105,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+269613,21600943,4,1:52,MISS Chandler 27' 3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269614,21600943,4,1:50,Barton REBOUND (Off:1 Def:1),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269615,21600943,4,1:33,Chandler Bad Pass Turnover (P5.T18),Lawson STEAL (4 STL),nan,201163,Wilson Chandler,DEN,201951,Ty Lawson,SAC,0,nan,nan,Turnover ,Bad Pass
+269616,21600943,4,1:27,nan,MISS Koufos 2' Hook Shot,nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269617,21600943,4,1:26,nan,Labissiere REBOUND (Off:3 Def:3),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269618,21600943,4,1:25,nan,Labissiere  Putback Dunk (10 PTS),96 - 105,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+269619,21600943,4,1:04,MISS Chandler 21' Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269620,21600943,4,1:01,nan,Labissiere REBOUND (Off:3 Def:4),nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269621,21600943,4,0:48,nan,MISS Hield 2' Layup,nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269622,21600943,4,0:47,Chandler REBOUND (Off:2 Def:8),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269623,21600943,4,0:32,Chandler 26' 3PT Jump Shot (36 PTS) (Nelson 6 AST),nan,96 - 108,201163,Wilson Chandler,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+269624,21600943,4,0:24,nan,MISS Galloway 17' Turnaround Jump Shot,nan,204038,Langston Galloway,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+269625,21600943,4,0:23,Chandler REBOUND (Off:2 Def:9),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+269626,21600943,4,0:00,NUGGETS Turnover: Shot Clock (T#19),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+269627,21600943,4,0:00,nan,nan,96 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

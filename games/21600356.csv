@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+197508,21600356,4,12:00,nan,nan,80 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+197509,21600356,4,11:46,Jackson 18' Jump Shot (10 PTS),nan,80 - 66,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+197510,21600356,4,11:37,nan,Ilyasova Bad Pass Turnover (P2.T12),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+197511,21600356,4,11:21,MISS Jackson 1' Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197512,21600356,4,11:20,Baynes REBOUND (Off:2 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197513,21600356,4,11:17,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197514,21600356,4,11:16,nan,Ilyasova REBOUND (Off:1 Def:6),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197515,21600356,4,11:06,nan,MISS Okafor 9' Floating Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197516,21600356,4,11:05,Leuer REBOUND (Off:1 Def:1),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197517,21600356,4,10:47,MISS Jackson 28' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197518,21600356,4,10:47,nan,Okafor REBOUND (Off:0 Def:7),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197519,21600356,4,10:32,Harris STEAL (2 STL),Ilyasova Lost Ball Turnover (P3.T13),nan,101141,Ersan Ilyasova,PHI,202699,Tobias Harris,DET,0,nan,nan,Turnover ,Lost Ball
+197520,21600356,4,10:11,MISS Baynes 1' Reverse Layup,Thompson BLOCK (1 BLK),nan,203382,Aron Baynes,DET,0,nan,nan,203138,Hollis Thompson,PHI,Missed Shot ,nan
+197521,21600356,4,10:11,nan,Covington REBOUND (Off:0 Def:3),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197522,21600356,4,10:00,nan,MISS Okafor 7' Hook Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197523,21600356,4,9:59,Harris REBOUND (Off:0 Def:4),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197524,21600356,4,9:52,MISS Smith 24' 3PT Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197525,21600356,4,9:52,nan,Stauskas REBOUND (Off:0 Def:2),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197526,21600356,4,9:33,nan,Ilyasova 20' Jump Shot (9 PTS) (Covington 1 AST),82 - 66,101141,Ersan Ilyasova,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+197527,21600356,4,9:18,MISS Jackson 9' Pullup Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197528,21600356,4,9:16,nan,Ilyasova REBOUND (Off:1 Def:7),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197529,21600356,4,9:14,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+197530,21600356,4,9:14,SUB: Drummond FOR Leuer,nan,nan,202720,Jon Leuer,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+197531,21600356,4,9:14,SUB: Marc Morris FOR Baynes,nan,nan,203382,Aron Baynes,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+197532,21600356,4,9:14,nan,SUB: Henderson FOR Thompson,nan,203138,Hollis Thompson,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Substitution ,nan
+197533,21600356,4,8:59,nan,Ilyasova 27' 3PT Jump Shot (12 PTS) (Henderson 5 AST),85 - 66,101141,Ersan Ilyasova,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Made Shot ,nan
+197534,21600356,4,8:39,Smith OFF.Foul (P2) (D.Crawford),nan,nan,202397,Ish Smith,DET,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Offensive
+197535,21600356,4,8:39,Smith Foul Turnover (P4.T12),nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+197536,21600356,4,8:28,Jackson STEAL (1 STL),Okafor Lost Ball Turnover (P4.T14),nan,1626143,Jahlil Okafor,PHI,202704,Reggie Jackson,DET,0,nan,nan,Turnover ,Lost Ball
+197537,21600356,4,8:19,nan,Okafor S.FOUL (P4.T1) (M.Lindsay),nan,1626143,Jahlil Okafor,PHI,202699,Tobias Harris,DET,0,nan,nan,Foul ,Shooting
+197538,21600356,4,8:19,Harris Free Throw 1 of 2 (7 PTS),nan,85 - 67,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+197539,21600356,4,8:19,SUB: Johnson FOR Smith,nan,nan,202397,Ish Smith,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+197540,21600356,4,8:19,Harris Free Throw 2 of 2 (8 PTS),nan,85 - 68,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+197541,21600356,4,8:08,Drummond STEAL (4 STL),Stauskas Lost Ball Turnover (P2.T15),nan,203917,Nik Stauskas,PHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Lost Ball
+197542,21600356,4,7:55,MISS Jackson 17' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197543,21600356,4,7:55,Drummond REBOUND (Off:4 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197544,21600356,4,7:52,MISS Drummond  Tip Layup Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197545,21600356,4,7:51,nan,Covington REBOUND (Off:0 Def:4),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197546,21600356,4,7:45,nan,Covington 1' Driving Layup (14 PTS),87 - 68,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+197547,21600356,4,7:23,Harris Lost Ball Turnover (P2.T13),Ilyasova STEAL (1 STL),nan,202699,Tobias Harris,DET,101141,Ersan Ilyasova,PHI,0,nan,nan,Turnover ,Lost Ball
+197548,21600356,4,7:16,Jackson P.FOUL (P3.T1) (T.Maddox),nan,nan,202704,Reggie Jackson,DET,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Personal
+197549,21600356,4,7:16,nan,SUB: McConnell FOR Stauskas,nan,203917,Nik Stauskas,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+197550,21600356,4,7:16,nan,SUB: Holmes FOR Okafor,nan,1626143,Jahlil Okafor,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+197551,21600356,4,6:56,Jackson STEAL (2 STL),McConnell Bad Pass Turnover (P2.T16),nan,204456,T.J. McConnell,PHI,202704,Reggie Jackson,DET,0,nan,nan,Turnover ,Bad Pass
+197552,21600356,4,6:50,MISS Drummond 4' Running Finger Roll Layup,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197553,21600356,4,6:49,nan,Covington REBOUND (Off:0 Def:5),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197554,21600356,4,6:28,Marc Morris BLOCK (1 BLK),MISS Ilyasova 15' Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,202694,Marcus Morris,DET,Missed Shot ,nan
+197555,21600356,4,6:27,Harris REBOUND (Off:0 Def:5),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197556,21600356,4,6:27,Marc Morris 1' Layup (24 PTS) (Harris 2 AST),nan,87 - 70,202694,Marcus Morris,DET,202699,Tobias Harris,DET,0,nan,nan,Made Shot ,nan
+197557,21600356,4,6:27,nan,Covington S.FOUL (P4.T2) (T.Maddox),nan,203496,Robert Covington,PHI,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+197558,21600356,4,6:27,Marc Morris Free Throw 1 of 1 (25 PTS),nan,87 - 71,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+197559,21600356,4,6:13,nan,MISS Ilyasova 14' Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197560,21600356,4,6:12,Jackson REBOUND (Off:0 Def:1),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197561,21600356,4,6:01,Johnson  3PT Jump Shot (6 PTS) (Jackson 3 AST),nan,87 - 74,1626169,Stanley Johnson,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+197562,21600356,4,5:52,Johnson P.FOUL (P3.T2) (M.Lindsay),nan,nan,1626169,Stanley Johnson,DET,203496,Robert Covington,PHI,0,nan,nan,Foul ,Personal
+197563,21600356,4,5:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+197564,21600356,4,5:52,nan,SUB: Saric FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+197565,21600356,4,5:41,Johnson BLOCK (1 BLK),MISS Holmes 5' Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,1626169,Stanley Johnson,DET,Missed Shot ,nan
+197566,21600356,4,5:39,Drummond REBOUND (Off:4 Def:9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197567,21600356,4,5:27,MISS Jackson 28' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197568,21600356,4,5:26,nan,McConnell REBOUND (Off:1 Def:8),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197569,21600356,4,5:08,nan,MISS Holmes 8' Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197570,21600356,4,5:07,Harris REBOUND (Off:0 Def:6),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197571,21600356,4,4:47,Drummond 9' Hook Shot (14 PTS) (Marc Morris 1 AST),nan,87 - 76,203083,Andre Drummond,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+197572,21600356,4,4:32,Drummond STEAL (5 STL),Covington Lost Ball Turnover (P3.T17),nan,203496,Robert Covington,PHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Lost Ball
+197573,21600356,4,4:23,Marc Morris 26' 3PT Jump Shot (28 PTS) (Johnson 4 AST),nan,87 - 79,202694,Marcus Morris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+197574,21600356,4,4:18,nan,76ers Timeout: Short (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+197575,21600356,4,4:18,nan,SUB: Stauskas FOR Henderson,nan,201945,Gerald Henderson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+197576,21600356,4,4:18,nan,SUB: Okafor FOR Holmes,nan,1626158,Richaun Holmes,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+197577,21600356,4,4:10,nan,SUB: Ilyasova FOR Saric,nan,203967,Dario Saric,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+197578,21600356,4,4:10,Jump Ball Drummond vs. Okafor: Tip to Jackson,nan,nan,203083,Andre Drummond,DET,1626143,Jahlil Okafor,PHI,202704,Reggie Jackson,DET,Jump Ball ,nan
+197579,21600356,4,4:10,nan,Okafor Lost Ball Turnover (P5.T18),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Turnover ,Lost Ball
+197580,21600356,4,3:47,MISS Drummond 7' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197581,21600356,4,3:47,nan,McConnell REBOUND (Off:1 Def:9),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197582,21600356,4,3:47,Johnson P.FOUL (P4.T3) (T.Maddox),nan,nan,1626169,Stanley Johnson,DET,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+197583,21600356,4,3:34,Drummond STEAL (6 STL),Ilyasova Bad Pass Turnover (P4.T19),nan,101141,Ersan Ilyasova,PHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+197584,21600356,4,3:21,Jackson Lost Ball Turnover (P1.T14),Okafor STEAL (1 STL),nan,202704,Reggie Jackson,DET,1626143,Jahlil Okafor,PHI,0,nan,nan,Turnover ,Lost Ball
+197585,21600356,4,3:18,Johnson S.FOUL (P5.T4) (T.Maddox),nan,nan,1626169,Stanley Johnson,DET,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Shooting
+197586,21600356,4,3:18,Marc Morris T.FOUL (P1.T4) (D.Crawford),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Foul ,Technical
+197587,21600356,4,3:18,nan,Ilyasova Free Throw Technical (13 PTS),88 - 79,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+197588,21600356,4,3:18,nan,Stauskas Free Throw 1 of 2 (9 PTS),89 - 79,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+197589,21600356,4,3:18,nan,Stauskas Free Throw 2 of 2 (10 PTS),90 - 79,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+197590,21600356,4,2:57,MISS Johnson 10' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197591,21600356,4,2:56,nan,Okafor REBOUND (Off:0 Def:8),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197592,21600356,4,2:33,nan,Ilyasova 21' Jump Shot (15 PTS) (Covington 2 AST),92 - 79,101141,Ersan Ilyasova,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+197593,21600356,4,2:33,PISTONS Timeout: Regular (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+197594,21600356,4,2:17,Harris Lost Ball Turnover (P3.T15),Ilyasova STEAL (2 STL),nan,202699,Tobias Harris,DET,101141,Ersan Ilyasova,PHI,0,nan,nan,Turnover ,Lost Ball
+197595,21600356,4,2:02,nan,McConnell 1' Driving Layup (12 PTS),94 - 79,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+197596,21600356,4,1:49,MISS Harris 24' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197597,21600356,4,1:49,nan,Covington REBOUND (Off:0 Def:6),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197598,21600356,4,1:29,Drummond S.FOUL (P3.PN) (D.Crawford),nan,nan,203083,Andre Drummond,DET,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+197599,21600356,4,1:29,nan,Covington Free Throw 1 of 2 (15 PTS),95 - 79,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+197600,21600356,4,1:29,SUB: Smith FOR Jackson,nan,nan,202704,Reggie Jackson,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+197601,21600356,4,1:29,SUB: Hilliard FOR Harris,nan,nan,202699,Tobias Harris,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+197602,21600356,4,1:29,nan,Covington Free Throw 2 of 2 (16 PTS),96 - 79,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+197603,21600356,4,1:18,MISS Marc Morris 26' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197604,21600356,4,1:18,nan,Covington REBOUND (Off:0 Def:7),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197605,21600356,4,0:50,nan,MISS McConnell 14' Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197606,21600356,4,0:50,nan,Okafor REBOUND (Off:1 Def:8),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197607,21600356,4,0:26,Johnson STEAL (5 STL),McConnell Bad Pass Turnover (P3.T20),nan,204456,T.J. McConnell,PHI,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+197608,21600356,4,0:21,MISS Johnson 5' Jump Shot,Covington BLOCK (1 BLK),nan,1626169,Stanley Johnson,DET,0,nan,nan,203496,Robert Covington,PHI,Missed Shot ,nan
+197609,21600356,4,0:21,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197610,21600356,4,0:15,MISS Drummond 7' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197611,21600356,4,0:15,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197612,21600356,4,0:07,MISS Hilliard 26' 3PT Jump Shot,nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197613,21600356,4,0:07,Drummond REBOUND (Off:5 Def:9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197614,21600356,4,0:02,MISS Johnson 26' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+197615,21600356,4,0:02,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+197616,21600356,4,0:02,Drummond P.FOUL (P4.PN) (D.Crawford),nan,nan,203083,Andre Drummond,DET,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+197617,21600356,4,0:02,nan,MISS Okafor Free Throw 1 of 2,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+197618,21600356,4,0:02,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+197619,21600356,4,0:02,nan,Okafor Free Throw 2 of 2 (14 PTS),97 - 79,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+197620,21600356,4,0:00,nan,nan,97 - 79,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

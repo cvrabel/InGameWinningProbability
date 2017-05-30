@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+19927,21500158,4,12:00,nan,nan,66 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+19928,21500158,4,11:48,Wall Out of Bounds - Bad Pass Turnover Turnover (P4.T9),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+19929,21500158,4,11:29,Nene P.FOUL (P2.T1) (B.Taylor),nan,nan,2403,Nene,WAS,202349,Greivis Vasquez,MIL,0,nan,nan,Foul ,Personal
+19930,21500158,4,11:24,Nene S.FOUL (P3.T2) (K.Mauer),nan,nan,2403,Nene,WAS,203089,John Henson,MIL,0,nan,nan,Foul ,Shooting
+19931,21500158,4,11:24,nan,Henson Free Throw 1 of 2 (8 PTS),67 - 85,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19932,21500158,4,11:24,nan,MISS Henson Free Throw 2 of 2,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19933,21500158,4,11:22,Dudley REBOUND (Off:1 Def:6),nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19934,21500158,4,11:09,Neal 3' Driving Bank Shot (4 PTS) (Wall 9 AST),nan,67 - 87,202390,Gary Neal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+19935,21500158,4,10:48,Neal STEAL (1 STL),Antetokounmpo Bad Pass Turnover (P3.T15),nan,203507,Giannis Antetokounmpo,MIL,202390,Gary Neal,WAS,0,nan,nan,Turnover ,Bad Pass
+19936,21500158,4,10:31,nan,Henson S.FOUL (P3.T1) (L.Richardson),nan,203089,John Henson,MIL,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+19937,21500158,4,10:31,MISS Nene Free Throw 1 of 2,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19938,21500158,4,10:31,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19939,21500158,4,10:31,Nene Free Throw 2 of 2 (5 PTS),nan,67 - 88,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19940,21500158,4,10:08,nan,MISS Middleton 26' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19941,21500158,4,10:07,Wall REBOUND (Off:0 Def:6),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19942,21500158,4,9:59,MISS Nene 27' 3PT Jump Shot,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19943,21500158,4,9:58,nan,Antetokounmpo REBOUND (Off:1 Def:3),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19944,21500158,4,9:47,nan,Vasquez 30' 3PT Jump Shot (12 PTS) (Antetokounmpo 7 AST),70 - 88,202349,Greivis Vasquez,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+19945,21500158,4,9:31,MISS Dudley 20' Jump Shot,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19946,21500158,4,9:30,nan,Antetokounmpo REBOUND (Off:1 Def:4),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19947,21500158,4,9:13,nan,MISS Middleton 27' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19948,21500158,4,9:12,Nene REBOUND (Off:1 Def:3),nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19949,21500158,4,9:02,Wall Bad Pass Turnover (P5.T10),Antetokounmpo STEAL (1 STL),nan,202322,John Wall,WAS,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+19950,21500158,4,9:00,Sessions Personal Take Foul (P2.T3) (B.Taylor),nan,nan,201196,Ramon Sessions,WAS,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal Take
+19951,21500158,4,8:53,Nene S.FOUL (P4.T4) (B.Taylor),nan,nan,2403,Nene,WAS,203089,John Henson,MIL,0,nan,nan,Foul ,Shooting
+19952,21500158,4,8:53,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+19953,21500158,4,8:53,SUB: Porter Jr. FOR Sessions,nan,nan,201196,Ramon Sessions,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+19954,21500158,4,8:53,nan,SUB: Bayless FOR O'Bryant III,nan,203948,Johnny O'Bryant III,MIL,201573,Jerryd Bayless,MIL,0,nan,nan,Substitution ,nan
+19955,21500158,4,8:53,nan,Henson Free Throw 1 of 2 (9 PTS),71 - 88,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19956,21500158,4,8:53,nan,Henson Free Throw 2 of 2 (10 PTS),72 - 88,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19957,21500158,4,8:29,Nene 16' Step Back Jump Shot (7 PTS),nan,72 - 90,2403,Nene,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19958,21500158,4,8:11,Porter Jr. P.FOUL (P4.PN) (L.Richardson),nan,nan,203490,Otto Porter Jr.,WAS,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+19959,21500158,4,8:11,nan,MISS Antetokounmpo Free Throw 1 of 2,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19960,21500158,4,8:11,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19961,21500158,4,8:11,nan,MISS Antetokounmpo Free Throw 2 of 2,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19962,21500158,4,8:10,Nene REBOUND (Off:1 Def:4),nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19963,21500158,4,7:56,nan,Henson S.FOUL (P4.T2) (L.Richardson),nan,203089,John Henson,MIL,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+19964,21500158,4,7:56,MISS Nene Free Throw 1 of 2,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19965,21500158,4,7:56,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19966,21500158,4,7:56,Nene Free Throw 2 of 2 (8 PTS),nan,72 - 91,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19967,21500158,4,7:37,nan,Antetokounmpo 19' Pullup Jump Shot (9 PTS) (Bayless 3 AST),74 - 91,203507,Giannis Antetokounmpo,MIL,201573,Jerryd Bayless,MIL,0,nan,nan,Made Shot ,nan
+19968,21500158,4,7:16,nan,Antetokounmpo S.FOUL (P4.T3) (L.Richardson),nan,203507,Giannis Antetokounmpo,MIL,201162,Jared Dudley,WAS,0,nan,nan,Foul ,Shooting
+19969,21500158,4,7:16,Dudley Free Throw 1 of 2 (9 PTS),nan,74 - 92,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19970,21500158,4,7:16,Dudley Free Throw 2 of 2 (10 PTS),nan,74 - 93,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19971,21500158,4,7:06,Neal STEAL (2 STL),Bayless Lost Ball Turnover (P2.T16),nan,201573,Jerryd Bayless,MIL,202390,Gary Neal,WAS,0,nan,nan,Turnover ,Lost Ball
+19972,21500158,4,6:48,Neal 27' 3PT Jump Shot (7 PTS) (Nene 2 AST),nan,74 - 96,202390,Gary Neal,WAS,2403,Nene,WAS,0,nan,nan,Made Shot ,nan
+19973,21500158,4,6:30,Porter Jr. STEAL (3 STL),Antetokounmpo Bad Pass Turnover (P4.T17),nan,203507,Giannis Antetokounmpo,MIL,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Bad Pass
+19974,21500158,4,6:24,Porter Jr. 2' Running Finger Roll Layup (19 PTS),nan,74 - 98,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19975,21500158,4,6:23,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19976,21500158,4,6:23,nan,SUB: Copeland FOR Middleton,nan,203114,Khris Middleton,MIL,203142,Chris Copeland,MIL,0,nan,nan,Substitution ,nan
+19977,21500158,4,6:23,nan,SUB: Vaughn FOR Antetokounmpo,nan,203507,Giannis Antetokounmpo,MIL,1626173,Rashad Vaughn,MIL,0,nan,nan,Substitution ,nan
+19978,21500158,4,6:23,nan,SUB: Ennis FOR Bayless,nan,201573,Jerryd Bayless,MIL,203898,Tyler Ennis,MIL,0,nan,nan,Substitution ,nan
+19979,21500158,4,6:23,nan,SUB: Plumlee FOR Vasquez,nan,202349,Greivis Vasquez,MIL,203101,Miles Plumlee,MIL,0,nan,nan,Substitution ,nan
+19980,21500158,4,6:23,nan,SUB: O'Bryant III FOR Henson,nan,203089,John Henson,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Substitution ,nan
+19981,21500158,4,6:02,nan,MISS Vaughn 27' 3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19982,21500158,4,6:01,Nene REBOUND (Off:1 Def:5),nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19983,21500158,4,5:38,Dudley 24' 3PT Jump Shot (13 PTS) (Porter Jr. 4 AST),nan,74 - 101,201162,Jared Dudley,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+19984,21500158,4,5:11,nan,MISS Copeland 16' Jump Shot,nan,203142,Chris Copeland,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19985,21500158,4,5:10,Porter Jr. REBOUND (Off:1 Def:1),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19986,21500158,4,4:55,Wall 27' 3PT Step Back Jump Shot (19 PTS),nan,74 - 104,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19987,21500158,4,4:34,Neal P.FOUL (P1.PN) (L.Richardson),nan,nan,202390,Gary Neal,WAS,203898,Tyler Ennis,MIL,0,nan,nan,Foul ,Personal
+19988,21500158,4,4:34,nan,MISS Ennis Free Throw 1 of 2,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19989,21500158,4,4:34,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19990,21500158,4,4:34,SUB: Oubre Jr. FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+19991,21500158,4,4:34,SUB: Blair FOR Wall,nan,nan,202322,John Wall,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Substitution ,nan
+19992,21500158,4,4:34,SUB: Gooden FOR Nene,nan,nan,2403,Nene,WAS,2400,Drew Gooden,WAS,0,nan,nan,Substitution ,nan
+19993,21500158,4,4:34,SUB: Sessions FOR Dudley,nan,nan,201162,Jared Dudley,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Substitution ,nan
+19994,21500158,4,4:34,nan,Ennis Free Throw 2 of 2 (1 PTS),75 - 104,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19995,21500158,4,4:18,Neal 25' 3PT Jump Shot (10 PTS) (Blair 1 AST),nan,75 - 107,202390,Gary Neal,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Made Shot ,nan
+19996,21500158,4,4:00,nan,MISS Vaughn 17' Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19997,21500158,4,3:59,Oubre Jr. REBOUND (Off:0 Def:1),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19998,21500158,4,3:50,MISS Oubre Jr. 4' Jump Shot,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19999,21500158,4,3:49,nan,O'Bryant III REBOUND (Off:0 Def:4),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20000,21500158,4,3:35,Oubre Jr. S.FOUL (P1.PN) (B.Taylor),nan,nan,1626162,Kelly Oubre Jr.,WAS,1626173,Rashad Vaughn,MIL,0,nan,nan,Foul ,Shooting
+20001,21500158,4,3:35,nan,Vaughn Free Throw 1 of 2 (1 PTS),76 - 107,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20002,21500158,4,3:35,nan,Vaughn Free Throw 2 of 2 (2 PTS),77 - 107,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20003,21500158,4,3:10,MISS Blair 22' Jump Shot,nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20004,21500158,4,3:09,nan,Ennis REBOUND (Off:0 Def:1),nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20005,21500158,4,2:56,nan,MISS Plumlee 15' Jump Shot,nan,203101,Miles Plumlee,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20006,21500158,4,2:54,Oubre Jr. REBOUND (Off:0 Def:2),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20007,21500158,4,2:43,nan,Copeland S.FOUL (P1.T4) (B.Taylor),nan,203142,Chris Copeland,MIL,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Foul ,Shooting
+20008,21500158,4,2:43,WIZARDS Timeout: Regular (Full 4 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20009,21500158,4,2:43,Oubre Jr. Free Throw 1 of 2 (1 PTS),nan,77 - 108,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20010,21500158,4,2:43,Oubre Jr. Free Throw 2 of 2 (2 PTS),nan,77 - 109,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20011,21500158,4,2:35,Sessions P.FOUL (P3.PN) (K.Mauer),nan,nan,201196,Ramon Sessions,WAS,203898,Tyler Ennis,MIL,0,nan,nan,Foul ,Personal
+20012,21500158,4,2:35,nan,Ennis Free Throw 1 of 2 (2 PTS),78 - 109,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20013,21500158,4,2:35,nan,Ennis Free Throw 2 of 2 (3 PTS),79 - 109,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20014,21500158,4,2:16,Oubre Jr. 26' 3PT Jump Shot (5 PTS) (Blair 2 AST),nan,79 - 112,1626162,Kelly Oubre Jr.,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Made Shot ,nan
+20015,21500158,4,1:59,nan,Vaughn OFF.Foul (P1) (L.Richardson),nan,1626173,Rashad Vaughn,MIL,201971,DeJuan Blair,WAS,0,nan,nan,Foul ,Offensive
+20016,21500158,4,1:59,nan,Vaughn Foul Turnover (P1.T18),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+20017,21500158,4,1:46,Oubre Jr. Lost Ball Turnover (P1.T11),Copeland STEAL (1 STL),nan,1626162,Kelly Oubre Jr.,WAS,203142,Chris Copeland,MIL,0,nan,nan,Turnover ,Lost Ball
+20018,21500158,4,1:37,nan,MISS Ennis 4' Jump Shot,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20019,21500158,4,1:36,Oubre Jr. REBOUND (Off:0 Def:3),nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20020,21500158,4,1:34,nan,Copeland S.FOUL (P2.PN) (K.Mauer),nan,203142,Chris Copeland,MIL,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Foul ,Shooting
+20021,21500158,4,1:34,MISS Oubre Jr. Free Throw 1 of 2,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20022,21500158,4,1:34,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+20023,21500158,4,1:34,MISS Oubre Jr. Free Throw 2 of 2,nan,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20024,21500158,4,1:32,nan,O'Bryant III REBOUND (Off:0 Def:5),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20025,21500158,4,1:19,nan,Copeland 5' Jump Shot (2 PTS),81 - 112,203142,Chris Copeland,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+20026,21500158,4,1:15,nan,Vaughn S.FOUL (P2.PN) (L.Richardson),nan,1626173,Rashad Vaughn,MIL,201971,DeJuan Blair,WAS,0,nan,nan,Foul ,Shooting
+20027,21500158,4,1:15,Blair Free Throw 1 of 2 (1 PTS),nan,81 - 113,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20028,21500158,4,1:15,MISS Blair Free Throw 2 of 2,nan,nan,201971,DeJuan Blair,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20029,21500158,4,1:13,nan,Ennis REBOUND (Off:0 Def:2),nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20030,21500158,4,1:02,Sessions STEAL (1 STL),Ennis Bad Pass Turnover (P1.T19),nan,203898,Tyler Ennis,MIL,201196,Ramon Sessions,WAS,0,nan,nan,Turnover ,Bad Pass
+20031,21500158,4,0:58,Oubre Jr. 3' Layup (7 PTS) (Blair 3 AST),nan,81 - 115,1626162,Kelly Oubre Jr.,WAS,201971,DeJuan Blair,WAS,0,nan,nan,Made Shot ,nan
+20032,21500158,4,0:45,nan,Vaughn  3PT Jump Shot (5 PTS) (Ennis 1 AST),84 - 115,1626173,Rashad Vaughn,MIL,203898,Tyler Ennis,MIL,0,nan,nan,Made Shot ,nan
+20033,21500158,4,0:31,Gooden Traveling Turnover (P1.T12),nan,nan,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+20034,21500158,4,0:19,nan,Plumlee 1' Alley Oop Dunk (2 PTS) (Ennis 2 AST),86 - 115,203101,Miles Plumlee,MIL,203898,Tyler Ennis,MIL,0,nan,nan,Made Shot ,nan
+20035,21500158,4,0:00,nan,nan,86 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

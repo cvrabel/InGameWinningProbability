@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+255251,21600826,4,12:00,nan,nan,83 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+255252,21600826,4,11:46,nan,MISS Johnson 7' Hook Shot,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255253,21600826,4,11:45,Mejri REBOUND (Off:3 Def:7),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255254,21600826,4,11:33,MISS Harris 25' 3PT Jump Shot,nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255255,21600826,4,11:32,nan,Johnson REBOUND (Off:2 Def:5),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255256,21600826,4,11:22,Nowitzki STEAL (2 STL),Rozier Bad Pass Turnover (P1.T9),nan,1626179,Terry Rozier,BOS,1717,Dirk Nowitzki,DAL,0,nan,nan,Turnover ,Bad Pass
+255257,21600826,4,11:15,MISS Harris 2' Running Reverse Layup,nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255258,21600826,4,11:14,nan,Jerebko REBOUND (Off:0 Def:4),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255259,21600826,4,11:10,Mejri STEAL (1 STL),Smart Bad Pass Turnover (P2.T10),nan,203935,Marcus Smart,BOS,1626257,Salah Mejri,DAL,0,nan,nan,Turnover ,Bad Pass
+255260,21600826,4,11:09,nan,Jerebko Personal Take Foul (P2.T1) (J.VanDuyne),nan,201973,Jonas Jerebko,BOS,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal Take
+255261,21600826,4,11:09,nan,SUB: Olynyk FOR Johnson,nan,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+255262,21600826,4,10:56,MISS Nowitzki 19' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255263,21600826,4,10:55,nan,Smart REBOUND (Off:0 Def:2),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255264,21600826,4,10:53,Mejri P.FOUL (P1.T1) (B.Forte),nan,nan,1626257,Salah Mejri,DAL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+255265,21600826,4,10:53,SUB: Powell FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+255266,21600826,4,10:53,SUB: Ferrell FOR Curry,nan,nan,203552,Seth Curry,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Substitution ,nan
+255267,21600826,4,10:53,nan,SUB: Thomas FOR Rozier,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+255268,21600826,4,10:43,Finney-Smith P.FOUL (P1.T2) (J.VanDuyne),nan,nan,1627827,Dorian Finney-Smith,DAL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+255269,21600826,4,10:28,nan,MISS Thomas 27' 3PT Pullup Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255270,21600826,4,10:26,Ferrell REBOUND (Off:0 Def:2),nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255271,21600826,4,10:14,nan,Thomas P.FOUL (P2.T2) (B.Forte),nan,202738,Isaiah Thomas,BOS,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+255272,21600826,4,10:04,MISS Ferrell 25' 3PT Pullup Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255273,21600826,4,10:03,nan,Smart REBOUND (Off:0 Def:3),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255274,21600826,4,10:00,nan,Thomas  Running Layup (24 PTS) (Smart 2 AST),85 - 82,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+255275,21600826,4,9:41,Nowitzki 11' Turnaround Fadeaway (13 PTS) (Ferrell 2 AST),nan,85 - 84,1717,Dirk Nowitzki,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+255276,21600826,4,9:25,nan,Jerebko 25' 3PT Jump Shot (3 PTS) (Thomas 4 AST),88 - 84,201973,Jonas Jerebko,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+255277,21600826,4,9:15,nan,Jerebko P.FOUL (P3.T3) (R.Mott),nan,201973,Jonas Jerebko,BOS,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+255278,21600826,4,9:02,Harris 24' 3PT Jump Shot (9 PTS) (Nowitzki 3 AST),nan,88 - 87,2734,Devin Harris,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+255279,21600826,4,8:50,nan,Olynyk 1' Driving Layup (8 PTS),90 - 87,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+255280,21600826,4,8:32,Nowitzki Bad Pass Turnover (P1.T12),Young STEAL (1 STL),nan,1717,Dirk Nowitzki,DAL,203923,James Young,BOS,0,nan,nan,Turnover ,Bad Pass
+255281,21600826,4,8:24,nan,MISS Thomas 10' Driving Floating Bank Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255282,21600826,4,8:23,Powell REBOUND (Off:1 Def:1),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255283,21600826,4,8:10,MISS Nowitzki 16' Fadeaway Jumper,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255284,21600826,4,8:09,nan,Young REBOUND (Off:0 Def:1),nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255285,21600826,4,7:57,Powell P.FOUL (P1.T3) (R.Mott),nan,nan,203939,Dwight Powell,DAL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+255286,21600826,4,7:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+255287,21600826,4,7:57,nan,nan,nan,434,Tony Dumas,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+255288,21600826,4,7:57,SUB: Barnes FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+255289,21600826,4,7:57,SUB: Matthews FOR Harris,nan,nan,2734,Devin Harris,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+255290,21600826,4,7:57,SUB: Curry FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+255291,21600826,4,7:48,nan,MISS Thomas 6' Driving Floating Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255292,21600826,4,7:48,nan,Olynyk REBOUND (Off:2 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255293,21600826,4,7:48,Ferrell L.B.FOUL (P4.T4) (R.Mott),nan,nan,1627812,Yogi Ferrell,DAL,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Loose Ball
+255294,21600826,4,7:48,nan,SUB: Horford FOR Jerebko,nan,201973,Jonas Jerebko,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+255295,21600826,4,7:39,nan,MISS Olynyk 4' Driving Hook Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255296,21600826,4,7:38,nan,Young REBOUND (Off:1 Def:1),nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255297,21600826,4,7:38,nan,MISS Young  Putback Dunk,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255298,21600826,4,7:37,nan,Young REBOUND (Off:2 Def:1),nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255299,21600826,4,7:25,nan,MISS Smart 27' 3PT Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255300,21600826,4,7:24,Powell REBOUND (Off:1 Def:2),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255301,21600826,4,6:59,MISS Ferrell 17' Pullup Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255302,21600826,4,6:58,nan,Thomas REBOUND (Off:0 Def:1),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255303,21600826,4,6:53,nan,Olynyk 2' Layup (10 PTS) (Thomas 5 AST),92 - 87,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+255304,21600826,4,6:36,MISS Barnes 25' 3PT Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255305,21600826,4,6:35,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255306,21600826,4,6:22,nan,MISS Horford 25' 3PT Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255307,21600826,4,6:21,Matthews REBOUND (Off:0 Def:7),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255308,21600826,4,6:14,nan,Young P.FOUL (P1.T4) (J.VanDuyne),nan,203923,James Young,BOS,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+255309,21600826,4,6:04,MISS Curry 26' 3PT Jump Shot,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255310,21600826,4,6:03,nan,Olynyk REBOUND (Off:2 Def:4),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255311,21600826,4,5:54,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255312,21600826,4,5:52,nan,SUB: Crowder FOR Smart,nan,203935,Marcus Smart,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+255313,21600826,4,5:42,nan,Thomas 1' Layup (26 PTS) (Horford 3 AST),94 - 87,202738,Isaiah Thomas,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+255314,21600826,4,5:21,Barnes 19' Jump Shot (19 PTS) (Ferrell 3 AST),nan,94 - 89,203084,Harrison Barnes,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+255315,21600826,4,5:03,nan,Olynyk 24' 3PT Jump Shot (13 PTS) (Thomas 6 AST),97 - 89,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+255316,21600826,4,4:48,MISS Barnes 13' Turnaround Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255317,21600826,4,4:47,nan,Olynyk REBOUND (Off:2 Def:5),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255318,21600826,4,4:32,nan,Thomas 25' 3PT Jump Shot (29 PTS),100 - 89,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+255319,21600826,4,4:31,MAVERICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255320,21600826,4,4:31,SUB: Nowitzki FOR Powell,nan,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+255321,21600826,4,4:14,Nowitzki 8' Pullup Jump Shot (15 PTS) (Ferrell 4 AST),nan,100 - 91,1717,Dirk Nowitzki,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+255322,21600826,4,4:14,nan,Olynyk S.FOUL (P3.PN) (R.Mott),nan,203482,Kelly Olynyk,BOS,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+255323,21600826,4,4:14,Nowitzki Free Throw 1 of 1 (16 PTS),nan,100 - 92,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+255324,21600826,4,4:01,nan,Young 1' Cutting Layup Shot (2 PTS) (Horford 4 AST),102 - 92,203923,James Young,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+255325,21600826,4,3:46,MISS Matthews 4' Driving Floating Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255326,21600826,4,3:44,nan,Crowder REBOUND (Off:0 Def:2),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255327,21600826,4,3:38,nan,Crowder 25' 3PT Running Jump Shot (9 PTS) (Thomas 7 AST),105 - 92,203109,Jae Crowder,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+255328,21600826,4,3:36,MAVERICKS Timeout: Regular (Full 6 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255329,21600826,4,3:26,MISS Barnes 16' Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255330,21600826,4,3:25,nan,Young REBOUND (Off:2 Def:2),nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255331,21600826,4,3:07,nan,Olynyk 1' Cutting Layup Shot (15 PTS) (Thomas 8 AST),107 - 92,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+255332,21600826,4,3:01,nan,Crowder P.FOUL (P5.PN) (B.Forte),nan,203109,Jae Crowder,BOS,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+255333,21600826,4,3:01,Matthews Free Throw 1 of 2 (17 PTS),nan,107 - 93,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255334,21600826,4,3:01,Matthews Free Throw 2 of 2 (18 PTS),nan,107 - 94,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255335,21600826,4,2:51,nan,MISS Thomas 24' 3PT Pullup Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255336,21600826,4,2:50,Barnes REBOUND (Off:0 Def:3),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255337,21600826,4,2:36,MISS Nowitzki 25' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255338,21600826,4,2:36,nan,Crowder REBOUND (Off:0 Def:3),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255339,21600826,4,2:18,Ferrell S.FOUL (P5.PN) (B.Forte),nan,nan,1627812,Yogi Ferrell,DAL,203109,Jae Crowder,BOS,0,nan,nan,Foul ,Shooting
+255340,21600826,4,2:18,nan,Crowder Free Throw 1 of 2 (10 PTS),108 - 94,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255341,21600826,4,2:18,nan,SUB: Smart FOR Thomas,nan,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+255342,21600826,4,2:18,nan,MISS Crowder Free Throw 2 of 2,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255343,21600826,4,2:17,Curry REBOUND (Off:0 Def:5),nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255344,21600826,4,2:04,MISS Barnes 6' Driving Floating Bank Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255345,21600826,4,2:03,nan,Crowder REBOUND (Off:0 Def:4),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255346,21600826,4,1:48,nan,Crowder OFF.Foul (P6) (R.Mott),nan,203109,Jae Crowder,BOS,1627812,Yogi Ferrell,DAL,0,nan,nan,Foul ,Offensive
+255347,21600826,4,1:48,nan,Crowder Foul Turnover (P1.T11),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+255348,21600826,4,1:48,nan,SUB: Rozier FOR Crowder,nan,203109,Jae Crowder,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+255349,21600826,4,1:33,MISS Curry 25' 3PT Jump Shot,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255350,21600826,4,1:33,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255351,21600826,4,1:33,nan,Olynyk L.B.FOUL (P4.PN) (B.Forte),nan,203482,Kelly Olynyk,BOS,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Loose Ball
+255352,21600826,4,1:33,Nowitzki Free Throw 1 of 2 (17 PTS),nan,108 - 95,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255353,21600826,4,1:33,Nowitzki Free Throw 2 of 2 (18 PTS),nan,108 - 96,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255354,21600826,4,1:13,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255355,21600826,4,1:12,Nowitzki REBOUND (Off:0 Def:5),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255356,21600826,4,1:06,MISS Nowitzki 27' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255357,21600826,4,1:06,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255358,21600826,4,1:06,SUB: Finney-Smith FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+255359,21600826,4,1:06,SUB: Powell FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+255360,21600826,4,1:06,SUB: Anderson FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+255361,21600826,4,1:06,nan,SUB: Mickey FOR Horford,nan,201143,Al Horford,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Substitution ,nan
+255362,21600826,4,1:06,SUB: Brussino FOR Curry,nan,nan,203552,Seth Curry,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+255363,21600826,4,0:49,nan,Smart Out of Bounds - Bad Pass Turnover Turnover (P3.T12),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+255364,21600826,4,0:40,MISS Brussino 24' 3PT Jump Shot,nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255365,21600826,4,0:39,nan,Mickey REBOUND (Off:0 Def:1),nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255366,21600826,4,0:18,nan,Young 25' 3PT Jump Shot (5 PTS) (Smart 3 AST),111 - 96,203923,James Young,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+255367,21600826,4,0:11,Anderson 8' Driving Floating Jump Shot (2 PTS) (Ferrell 5 AST),nan,111 - 98,1626147,Justin Anderson,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+255368,21600826,4,0:00,nan,nan,111 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

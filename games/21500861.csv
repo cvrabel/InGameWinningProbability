@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+107864,21500861,4,12:00,nan,nan,77 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+107865,21500861,4,11:43,MISS Stuckey 17' Jump Shot,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107866,21500861,4,11:42,nan,Jefferson REBOUND (Off:0 Def:1),nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107867,21500861,4,11:27,nan,MISS Lamb 13' Fadeaway Jumper,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107868,21500861,4,11:26,Budinger REBOUND (Off:0 Def:2),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107869,21500861,4,11:17,Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+107870,21500861,4,10:59,Hill S.FOUL (P3.T1) (M.Smith),nan,nan,201941,Jordan Hill,IND,2744,Al Jefferson,CHA,0,nan,nan,Foul ,Shooting
+107871,21500861,4,10:59,nan,Jefferson Free Throw 1 of 2 (9 PTS),78 - 70,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107872,21500861,4,10:59,nan,MISS Jefferson Free Throw 2 of 2,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107873,21500861,4,10:58,Budinger REBOUND (Off:0 Def:3),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107874,21500861,4,10:45,Ellis Out of Bounds - Bad Pass Turnover Turnover (P4.T14),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+107875,21500861,4,10:27,nan,MISS Jefferson 7' Hook Shot,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107876,21500861,4,10:27,S. Hill REBOUND (Off:1 Def:1),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107877,21500861,4,10:13,MISS Stuckey 25' 3PT Jump Shot,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107878,21500861,4,10:13,nan,Lin REBOUND (Off:0 Def:3),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107879,21500861,4,10:00,Stuckey STEAL (1 STL),Lin Lost Ball Turnover (P1.T11),nan,202391,Jeremy Lin,CHA,201155,Rodney Stuckey,IND,0,nan,nan,Turnover ,Lost Ball
+107880,21500861,4,10:00,Jump Ball Stuckey vs. Lin: Tip to Ellis,nan,nan,201155,Rodney Stuckey,IND,202391,Jeremy Lin,CHA,101145,Monta Ellis,IND,Jump Ball ,nan
+107881,21500861,4,9:55,nan,Lamb S.FOUL (P3.T1) (R.Garretson),nan,203087,Jeremy Lamb,CHA,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting
+107882,21500861,4,9:55,Ellis Free Throw 1 of 2 (9 PTS),nan,78 - 71,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107883,21500861,4,9:55,SUB: Turner FOR S. Hill,nan,nan,203524,Solomon Hill,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+107884,21500861,4,9:55,Ellis Free Throw 2 of 2 (10 PTS),nan,78 - 72,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107885,21500861,4,9:50,Turner P.FOUL (P4.T2) (M.Smith),nan,nan,1626167,Myles Turner,IND,1626163,Frank Kaminsky,CHA,0,nan,nan,Foul ,Personal
+107886,21500861,4,9:37,nan,MISS Jefferson 12' Floating Jump Shot,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107887,21500861,4,9:37,Stuckey REBOUND (Off:0 Def:4),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107888,21500861,4,9:28,MISS Stuckey 16' Pullup Jump Shot,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107889,21500861,4,9:27,nan,Jefferson REBOUND (Off:0 Def:2),nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107890,21500861,4,9:16,nan,Kaminsky Traveling Turnover (P1.T12),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+107891,21500861,4,9:01,MISS Budinger 19' Jump Shot,nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107892,21500861,4,9:00,nan,Lee REBOUND (Off:0 Def:3),nan,201584,Courtney Lee,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107893,21500861,4,8:49,nan,MISS Lamb 3' Driving Layup,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107894,21500861,4,8:49,Stuckey REBOUND (Off:0 Def:5),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107895,21500861,4,8:41,MISS Hill 19' Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107896,21500861,4,8:40,Budinger REBOUND (Off:1 Def:3),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107897,21500861,4,8:39,nan,Lamb Personal Block Foul (P4.T2) (R.Garretson),nan,203087,Jeremy Lamb,CHA,201978,Chase Budinger,IND,0,nan,nan,Foul ,Personal Block
+107898,21500861,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+107899,21500861,4,8:39,nan,SUB: Batum FOR Lamb,nan,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+107900,21500861,4,8:39,SUB: George FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+107901,21500861,4,8:27,MISS George  3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107902,21500861,4,8:26,nan,Lee REBOUND (Off:0 Def:4),nan,201584,Courtney Lee,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107903,21500861,4,8:06,nan,MISS Lin 21' Jump Shot,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107904,21500861,4,8:05,nan,Jefferson REBOUND (Off:1 Def:2),nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107905,21500861,4,7:54,nan,Lin 22' Jump Shot (7 PTS) (Jefferson 1 AST),80 - 72,202391,Jeremy Lin,CHA,2744,Al Jefferson,CHA,0,nan,nan,Made Shot ,nan
+107906,21500861,4,7:39,nan,Kaminsky P.FOUL (P1.T3) (R.Garretson),nan,1626163,Frank Kaminsky,CHA,1626167,Myles Turner,IND,0,nan,nan,Foul ,Personal
+107907,21500861,4,7:39,SUB: Mahinmi FOR Hill,nan,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+107908,21500861,4,7:39,SUB: G. Hill FOR Budinger,nan,nan,201978,Chase Budinger,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+107909,21500861,4,7:32,G. Hill 12' Driving Floating Jump Shot (5 PTS) (Mahinmi 4 AST),nan,80 - 74,201588,George Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Made Shot ,nan
+107910,21500861,4,7:22,G. Hill P.FOUL (P3.T3) (M.Boland),nan,nan,201588,George Hill,IND,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Personal
+107911,21500861,4,7:14,George STEAL (3 STL),Batum Lost Ball Turnover (P4.T13),nan,201587,Nicolas Batum,CHA,202331,Paul George,IND,0,nan,nan,Turnover ,Lost Ball
+107912,21500861,4,7:08,MISS Turner 3' Cutting Dunk Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107913,21500861,4,7:08,G. Hill REBOUND (Off:1 Def:3),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107914,21500861,4,7:00,G. Hill 26' 3PT Jump Shot (8 PTS) (George 3 AST),nan,80 - 77,201588,George Hill,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+107915,21500861,4,7:00,nan,Hornets Timeout: Regular (Reg.4 Short 0),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+107916,21500861,4,7:00,nan,SUB: Williams FOR Lin,nan,202391,Jeremy Lin,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+107917,21500861,4,7:00,nan,SUB: Walker FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+107918,21500861,4,6:49,nan,MISS Batum 26' 3PT Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107919,21500861,4,6:48,Mahinmi REBOUND (Off:2 Def:6),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107920,21500861,4,6:31,Ellis 9' Jump Shot (12 PTS),nan,80 - 79,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+107921,21500861,4,6:10,nan,MISS Walker 19' Step Back Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107922,21500861,4,6:10,Ellis REBOUND (Off:0 Def:5),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107923,21500861,4,6:03,MISS G. Hill  3PT Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107924,21500861,4,6:02,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107925,21500861,4,6:02,nan,SUB: Zeller FOR Jefferson,nan,2744,Al Jefferson,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+107926,21500861,4,5:43,nan,Zeller 4' Cutting Dunk Shot (11 PTS) (Walker 10 AST),82 - 79,203469,Cody Zeller,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+107927,21500861,4,5:32,Turner 2' Finger Roll Layup (13 PTS) (G. Hill 6 AST),nan,82 - 81,1626167,Myles Turner,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+107928,21500861,4,5:20,G. Hill STEAL (2 STL),Batum Bad Pass Turnover (P5.T14),nan,201587,Nicolas Batum,CHA,201588,George Hill,IND,0,nan,nan,Turnover ,Bad Pass
+107929,21500861,4,5:17,nan,Walker S.FOUL (P5.T4) (R.Garretson),nan,202689,Kemba Walker,CHA,201588,George Hill,IND,0,nan,nan,Foul ,Shooting
+107930,21500861,4,5:17,G. Hill Free Throw 1 of 2 (9 PTS),nan,82 - 82,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107931,21500861,4,5:17,G. Hill Free Throw 2 of 2 (10 PTS),nan,82 - 83,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107932,21500861,4,5:07,nan,Walker 3' Driving Layup (15 PTS),84 - 83,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+107933,21500861,4,4:51,George 13' Pullup Jump Shot (27 PTS),nan,84 - 85,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+107934,21500861,4,4:28,nan,MISS Walker 17' Step Back Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107935,21500861,4,4:27,Ellis REBOUND (Off:0 Def:6),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107936,21500861,4,4:19,MISS Turner 10' Jump Bank Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107937,21500861,4,4:18,nan,Williams REBOUND (Off:2 Def:9),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107938,21500861,4,4:08,nan,MISS Lee 10' Jump Shot,nan,201584,Courtney Lee,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107939,21500861,4,4:07,Turner REBOUND (Off:0 Def:4),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107940,21500861,4,4:00,MISS George 25' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107941,21500861,4,3:59,G. Hill REBOUND (Off:2 Def:3),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107942,21500861,4,3:53,MISS George 24' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107943,21500861,4,3:51,nan,Williams REBOUND (Off:2 Def:10),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107944,21500861,4,3:42,nan,MISS Walker 4' Driving Layup,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107945,21500861,4,3:42,nan,Zeller REBOUND (Off:1 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107946,21500861,4,3:42,George S.FOUL (P5.T4) (M.Boland),nan,nan,202331,Paul George,IND,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Shooting
+107947,21500861,4,3:42,nan,MISS Zeller Free Throw 1 of 2,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107948,21500861,4,3:42,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+107949,21500861,4,3:42,nan,Zeller Free Throw 2 of 2 (12 PTS),85 - 85,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107950,21500861,4,3:28,Turner 3' Alley Oop Layup (15 PTS) (George 4 AST),nan,85 - 87,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+107951,21500861,4,3:02,nan,Walker 26' 3PT Jump Shot (18 PTS),88 - 87,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+107952,21500861,4,3:02,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+107953,21500861,4,2:47,MISS G. Hill 9' Turnaround Jump Shot,Zeller BLOCK (1 BLK),nan,201588,George Hill,IND,0,nan,nan,203469,Cody Zeller,CHA,Missed Shot ,nan
+107954,21500861,4,2:46,nan,Batum REBOUND (Off:0 Def:2),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107955,21500861,4,2:27,nan,MISS Lee  3PT Jump Shot,nan,201584,Courtney Lee,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107956,21500861,4,2:26,Mahinmi REBOUND (Off:2 Def:7),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107957,21500861,4,2:09,Turner Lost Ball Turnover (P3.T15),Batum STEAL (2 STL),nan,1626167,Myles Turner,IND,201587,Nicolas Batum,CHA,0,nan,nan,Turnover ,Lost Ball
+107958,21500861,4,1:56,Mahinmi P.FOUL (P2.PN) (M.Smith),nan,nan,101133,Ian Mahinmi,IND,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+107959,21500861,4,1:56,nan,Walker Free Throw 1 of 2 (19 PTS),89 - 87,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107960,21500861,4,1:56,nan,Walker Free Throw 2 of 2 (20 PTS),90 - 87,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107961,21500861,4,1:49,nan,Batum S.FOUL (P3.PN) (M.Boland),nan,201587,Nicolas Batum,CHA,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Shooting
+107962,21500861,4,1:49,Mahinmi Free Throw 1 of 2 (6 PTS),nan,90 - 88,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+107963,21500861,4,1:49,SUB: S. Hill FOR Turner,nan,nan,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+107964,21500861,4,1:49,MISS Mahinmi Free Throw 2 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+107965,21500861,4,1:48,nan,Williams REBOUND (Off:2 Def:11),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107966,21500861,4,1:36,nan,MISS Walker 5' Driving Finger Roll Layup,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107967,21500861,4,1:36,nan,Zeller REBOUND (Off:2 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107968,21500861,4,1:36,nan,Zeller 2' Tip Layup Shot (14 PTS),92 - 88,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+107969,21500861,4,1:24,George 25' 3PT Jump Shot (30 PTS) (G. Hill 7 AST),nan,92 - 91,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+107970,21500861,4,1:07,nan,Williams 5' Floating Jump Shot (26 PTS) (Batum 7 AST),94 - 91,101107,Marvin Williams,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+107971,21500861,4,0:48,George 4' Jump Shot (32 PTS),nan,94 - 93,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+107972,21500861,4,0:35,nan,MISS Walker 5' Driving Layup,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107973,21500861,4,0:34,G. Hill REBOUND (Off:2 Def:4),nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107974,21500861,4,0:34,Jump Ball G. Hill vs. Zeller: Tip to George,nan,nan,201588,George Hill,IND,203469,Cody Zeller,CHA,202331,Paul George,IND,Jump Ball ,nan
+107975,21500861,4,0:30,nan,nan,nan,510,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+107976,21500861,4,0:30,SUB: Turner FOR S. Hill,nan,nan,203524,Solomon Hill,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+107977,21500861,4,0:16,Ellis 5' Driving Bank Shot (14 PTS),nan,94 - 95,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+107978,21500861,4,0:16,nan,Hornets Timeout: Regular (Reg.5 Short 0),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+107979,21500861,4,0:16,SUB: S. Hill FOR Turner,nan,nan,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+107980,21500861,4,0:10,nan,Hornets Timeout: Short (Reg.5 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+107981,21500861,4,0:02,nan,Walker 3' Driving Layup (22 PTS),96 - 95,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+107982,21500861,4,0:02,PACERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+107983,21500861,4,0:02,SUB: Budinger FOR Mahinmi,nan,nan,101133,Ian Mahinmi,IND,201978,Chase Budinger,IND,0,nan,nan,Substitution ,nan
+107984,21500861,4,0:02,SUB: Turner FOR S. Hill,nan,nan,203524,Solomon Hill,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+107985,21500861,4,0:00,MISS George 18' Pullup Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+107986,21500861,4,0:00,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+107987,21500861,4,0:00,nan,nan,96 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

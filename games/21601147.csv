@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+294000,21601147,4,12:00,nan,nan,76 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+294001,21601147,4,11:53,VanVleet Lost Ball Turnover (P1.T10),Anderson STEAL (2 STL),nan,1627832,Fred VanVleet,TOR,1626147,Justin Anderson,PHI,0,nan,nan,Turnover ,Lost Ball
+294002,21601147,4,11:49,nan,Poythress 1' Driving Layup (8 PTS) (Stauskas 2 AST),78 - 86,1627816,Alex Poythress,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+294003,21601147,4,11:49,VanVleet S.FOUL (P1.T1) (B.Spooner),nan,nan,1627832,Fred VanVleet,TOR,1627816,Alex Poythress,PHI,0,nan,nan,Foul ,Shooting
+294004,21601147,4,11:49,nan,Poythress Free Throw 1 of 1 (9 PTS),79 - 86,1627816,Alex Poythress,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+294005,21601147,4,11:40,nan,Anderson P.FOUL (P1.T1) (N.Buchert),nan,1626147,Justin Anderson,PHI,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Personal
+294006,21601147,4,11:26,MISS Patterson 13' Turnaround Fadeaway Shot,nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294007,21601147,4,11:25,Poeltl REBOUND (Off:1 Def:1),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294008,21601147,4,11:11,VanVleet 3' Layup (2 PTS),nan,79 - 88,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294009,21601147,4,11:05,VanVleet STEAL (1 STL),Stauskas Lost Ball Turnover (P2.T16),nan,203917,Nik Stauskas,PHI,1627832,Fred VanVleet,TOR,0,nan,nan,Turnover ,Lost Ball
+294010,21601147,4,10:57,VanVleet  3PT Jump Shot (5 PTS) (Powell 3 AST),nan,79 - 91,1627832,Fred VanVleet,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+294011,21601147,4,10:57,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+294012,21601147,4,10:34,nan,Stauskas 16' Pullup Jump Shot (14 PTS),81 - 91,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+294013,21601147,4,10:15,MISS Powell 2' Driving Layup,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294014,21601147,4,10:15,nan,Long REBOUND (Off:2 Def:1),nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294015,21601147,4,10:12,Wright Violation:Kicked Ball (B.Spooner),nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+294016,21601147,4,10:02,nan,Long 24' 3PT Jump Shot (9 PTS) (Stauskas 3 AST),84 - 91,1627848,Shawn Long,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+294017,21601147,4,9:39,Poeltl 2' Cutting Layup Shot (6 PTS) (Powell 4 AST),nan,84 - 93,1627751,Jakob Poeltl,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+294018,21601147,4,9:19,nan,MISS Henderson 15' Pullup Jump Shot,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294019,21601147,4,9:19,Poeltl REBOUND (Off:1 Def:2),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294020,21601147,4,9:09,nan,Long S.FOUL (P3.T2) (B.Spooner),nan,1627848,Shawn Long,PHI,1626153,Delon Wright,TOR,0,nan,nan,Foul ,Shooting
+294021,21601147,4,9:09,Wright Free Throw 1 of 2 (3 PTS),nan,84 - 94,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294022,21601147,4,9:09,nan,SUB: Saric FOR Poythress,nan,1627816,Alex Poythress,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+294023,21601147,4,9:09,Wright Free Throw 2 of 2 (4 PTS),nan,84 - 95,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294024,21601147,4,9:01,Poeltl S.FOUL (P3.T2) (N.Buchert),nan,nan,1627751,Jakob Poeltl,TOR,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+294025,21601147,4,9:01,nan,Saric Free Throw 1 of 2 (13 PTS),85 - 95,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294026,21601147,4,9:01,nan,Saric Free Throw 2 of 2 (14 PTS),86 - 95,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294027,21601147,4,8:44,Patterson  3PT Jump Shot (6 PTS) (Wright 4 AST),nan,86 - 98,202335,Patrick Patterson,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+294028,21601147,4,8:15,nan,MISS Stauskas 24' 3PT Jump Bank Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294029,21601147,4,8:15,Patterson REBOUND (Off:0 Def:1),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294030,21601147,4,8:10,nan,Anderson S.FOUL (P2.T3) (N.Buchert),nan,1626147,Justin Anderson,PHI,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+294031,21601147,4,8:10,Powell Free Throw 1 of 2 (4 PTS),nan,86 - 99,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294032,21601147,4,8:10,nan,SUB: McConnell FOR Anderson,nan,1626147,Justin Anderson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+294033,21601147,4,8:10,Powell Free Throw 2 of 2 (5 PTS),nan,86 - 100,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294034,21601147,4,8:01,nan,Saric 1' Running Layup (16 PTS),88 - 100,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+294035,21601147,4,8:01,Wright S.FOUL (P1.T3) (N.Buchert),nan,nan,1626153,Delon Wright,TOR,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+294036,21601147,4,8:01,nan,SUB: Holmes FOR Long,nan,1627848,Shawn Long,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+294037,21601147,4,8:01,nan,MISS Saric Free Throw 1 of 1,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+294038,21601147,4,8:00,Powell REBOUND (Off:0 Def:2),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294039,21601147,4,7:52,Powell  Driving Dunk (7 PTS),nan,88 - 102,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294040,21601147,4,7:42,VanVleet Shooting Block Foul (P2.T4) (M.Kogut),nan,nan,1627832,Fred VanVleet,TOR,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Shooting Block
+294041,21601147,4,7:42,nan,McConnell Free Throw 1 of 2 (3 PTS),89 - 102,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294042,21601147,4,7:42,nan,McConnell Free Throw 2 of 2 (4 PTS),90 - 102,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294043,21601147,4,7:19,MISS Patterson  3PT Jump Shot,nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294044,21601147,4,7:18,Poeltl REBOUND (Off:2 Def:2),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294045,21601147,4,7:15,Poeltl 2' Tip Layup Shot (8 PTS),nan,90 - 104,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294046,21601147,4,7:02,Poeltl BLOCK (1 BLK),MISS Saric 2' Driving Layup,nan,203967,Dario Saric,PHI,0,nan,nan,1627751,Jakob Poeltl,TOR,Missed Shot ,nan
+294047,21601147,4,7:00,nan,Henderson REBOUND (Off:2 Def:2),nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294048,21601147,4,6:58,nan,Henderson 1' Putback Layup (12 PTS),92 - 104,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+294049,21601147,4,6:37,MISS Powell 4' Driving Floating Jump Shot,Holmes BLOCK (1 BLK),nan,1626181,Norman Powell,TOR,0,nan,nan,1626158,Richaun Holmes,PHI,Missed Shot ,nan
+294050,21601147,4,6:36,nan,Stauskas REBOUND (Off:0 Def:1),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294051,21601147,4,6:29,nan,MISS Henderson 25' 3PT Jump Shot,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294052,21601147,4,6:29,VanVleet REBOUND (Off:0 Def:1),nan,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294053,21601147,4,6:28,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+294054,21601147,4,6:28,nan,SUB: Luwawu-Cabarrot FOR Saric,nan,203967,Dario Saric,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+294055,21601147,4,6:28,nan,SUB: Poythress FOR Stauskas,nan,203917,Nik Stauskas,PHI,1627816,Alex Poythress,PHI,0,nan,nan,Substitution ,nan
+294056,21601147,4,6:28,SUB: Joseph FOR Powell,nan,nan,1626181,Norman Powell,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+294057,21601147,4,6:17,nan,Henderson P.FOUL (P2.T4) (M.Kogut),nan,201945,Gerald Henderson,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Personal
+294058,21601147,4,6:08,MISS Wright 16' Jump Shot,nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294059,21601147,4,6:07,nan,Holmes REBOUND (Off:0 Def:6),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294060,21601147,4,5:59,nan,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294061,21601147,4,5:58,Patterson REBOUND (Off:0 Def:2),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294062,21601147,4,5:44,MISS Joseph 2' Layup,Poythress BLOCK (1 BLK),nan,202709,Cory Joseph,TOR,0,nan,nan,1627816,Alex Poythress,PHI,Missed Shot ,nan
+294063,21601147,4,5:43,Poeltl REBOUND (Off:3 Def:2),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294064,21601147,4,5:40,MISS Poeltl 2' Layup,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294065,21601147,4,5:39,nan,Holmes REBOUND (Off:0 Def:7),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294066,21601147,4,5:34,Poeltl STEAL (1 STL),McConnell Bad Pass Turnover (P4.T17),nan,204456,T.J. McConnell,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Turnover ,Bad Pass
+294067,21601147,4,5:17,VanVleet 3' Driving Hook Shot (7 PTS),nan,92 - 106,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294068,21601147,4,5:09,nan,Holmes Offensive Charge Foul (P5.PN) (B.Spooner),nan,1626158,Richaun Holmes,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Offensive Charge
+294069,21601147,4,5:09,nan,Holmes Foul Turnover (P1.T18),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+294070,21601147,4,5:09,nan,SUB: Splitter FOR Holmes,nan,1626158,Richaun Holmes,PHI,201168,Tiago Splitter,PHI,0,nan,nan,Substitution ,nan
+294071,21601147,4,4:47,Wright Poss Lost Ball Turnover (P3.T11),Henderson STEAL (2 STL),nan,1626153,Delon Wright,TOR,201945,Gerald Henderson,PHI,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+294072,21601147,4,4:46,Wright STEAL (4 STL),Henderson Bad Pass Turnover (P2.T19),nan,201945,Gerald Henderson,PHI,1626153,Delon Wright,TOR,0,nan,nan,Turnover ,Bad Pass
+294073,21601147,4,4:41,Poeltl 3' Driving Finger Roll Layup (10 PTS),nan,92 - 108,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294074,21601147,4,4:32,nan,Splitter 2' Layup (2 PTS) (McConnell 11 AST),94 - 108,201168,Tiago Splitter,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+294075,21601147,4,4:08,MISS VanVleet 2' Driving Layup,nan,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294076,21601147,4,4:08,nan,McConnell REBOUND (Off:1 Def:4),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294077,21601147,4,4:03,nan,76ers Timeout: Short (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+294078,21601147,4,4:03,nan,SUB: Stauskas FOR Henderson,nan,201945,Gerald Henderson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+294079,21601147,4,4:03,SUB: Powell FOR Wright,nan,nan,1626153,Delon Wright,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+294080,21601147,4,3:54,Poeltl STEAL (2 STL),McConnell Bad Pass Turnover (P5.T20),nan,204456,T.J. McConnell,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Turnover ,Bad Pass
+294081,21601147,4,3:49,Powell 3' Running Layup (9 PTS),nan,94 - 110,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+294082,21601147,4,3:49,nan,Stauskas S.FOUL (P2.PN) (N.Buchert),nan,203917,Nik Stauskas,PHI,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+294083,21601147,4,3:49,Powell Free Throw 1 of 1 (10 PTS),nan,94 - 111,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+294084,21601147,4,3:30,nan,Splitter 3' Cutting Layup Shot (4 PTS) (Stauskas 4 AST),96 - 111,201168,Tiago Splitter,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+294085,21601147,4,3:15,Joseph Traveling Turnover (P3.T12),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+294086,21601147,4,3:15,SUB: Siakam FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+294087,21601147,4,3:11,Poeltl S.FOUL (P4.PN) (N.Buchert),nan,nan,1627751,Jakob Poeltl,TOR,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Foul ,Shooting
+294088,21601147,4,3:11,nan,Luwawu-Cabarrot Free Throw 1 of 2 (20 PTS),97 - 111,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294089,21601147,4,3:11,nan,SUB: Long FOR Splitter,nan,201168,Tiago Splitter,PHI,1627848,Shawn Long,PHI,0,nan,nan,Substitution ,nan
+294090,21601147,4,3:11,nan,Luwawu-Cabarrot Free Throw 2 of 2 (21 PTS),98 - 111,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294091,21601147,4,2:49,MISS VanVleet 7' Fadeaway Jumper,Long BLOCK (2 BLK),nan,1627832,Fred VanVleet,TOR,0,nan,nan,1627848,Shawn Long,PHI,Missed Shot ,nan
+294092,21601147,4,2:48,nan,McConnell REBOUND (Off:1 Def:5),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294093,21601147,4,2:46,nan,McConnell Out of Bounds - Bad Pass Turnover Turnover (P6.T21),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+294094,21601147,4,2:46,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+294095,21601147,4,2:46,SUB: Wright FOR Joseph,nan,nan,202709,Cory Joseph,TOR,1626153,Delon Wright,TOR,0,nan,nan,Substitution ,nan
+294096,21601147,4,2:23,MISS VanVleet 25' 3PT Jump Shot,nan,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294097,21601147,4,2:21,nan,Long REBOUND (Off:2 Def:2),nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294098,21601147,4,2:08,Poeltl BLOCK (2 BLK),MISS Luwawu-Cabarrot 4' Driving Layup,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,1627751,Jakob Poeltl,TOR,Missed Shot ,nan
+294099,21601147,4,2:06,nan,Long REBOUND (Off:3 Def:2),nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294100,21601147,4,2:04,Siakam S.FOUL (P1.PN) (M.Kogut),nan,nan,1627783,Pascal Siakam,TOR,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Foul ,Shooting
+294101,21601147,4,2:04,nan,Luwawu-Cabarrot Free Throw 1 of 2 (22 PTS),99 - 111,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294102,21601147,4,2:04,nan,SUB: Anderson FOR McConnell,nan,204456,T.J. McConnell,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Substitution ,nan
+294103,21601147,4,2:04,nan,Luwawu-Cabarrot Free Throw 2 of 2 (23 PTS),100 - 111,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294104,21601147,4,1:48,Poeltl OFF.Foul (P5) (B.Spooner),nan,nan,1627751,Jakob Poeltl,TOR,1627816,Alex Poythress,PHI,0,nan,nan,Foul ,Offensive
+294105,21601147,4,1:48,Poeltl Foul Turnover (P1.T13),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+294106,21601147,4,1:48,nan,SUB: Splitter FOR Long,nan,1627848,Shawn Long,PHI,201168,Tiago Splitter,PHI,0,nan,nan,Substitution ,nan
+294107,21601147,4,1:31,nan,Splitter  Dunk (6 PTS) (Stauskas 5 AST),102 - 111,201168,Tiago Splitter,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+294108,21601147,4,1:20,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+294109,21601147,4,1:20,nan,76ers Timeout: Regular (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+294110,21601147,4,1:13,nan,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294111,21601147,4,1:13,nan,Poythress REBOUND (Off:1 Def:2),nan,1627816,Alex Poythress,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294112,21601147,4,1:11,nan,Poythress 2' Putback Layup (11 PTS),104 - 111,1627816,Alex Poythress,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+294113,21601147,4,0:51,Powell Out of Bounds Lost Ball Turnover (P2.T15),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+294114,21601147,4,0:51,nan,MISS Anderson 9' Turnaround Jump Shot,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294115,21601147,4,0:51,nan,Splitter REBOUND (Off:1 Def:0),nan,201168,Tiago Splitter,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294116,21601147,4,0:35,nan,MISS Splitter 1' Tip Layup Shot,nan,201168,Tiago Splitter,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294117,21601147,4,0:33,nan,Splitter REBOUND (Off:2 Def:0),nan,201168,Tiago Splitter,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294118,21601147,4,0:32,Siakam P.FOUL (P2.PN) (N.Buchert),nan,nan,1627783,Pascal Siakam,TOR,1626147,Justin Anderson,PHI,0,nan,nan,Foul ,Personal
+294119,21601147,4,0:32,nan,MISS Anderson Free Throw 1 of 2,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+294120,21601147,4,0:32,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+294121,21601147,4,0:32,nan,Anderson Free Throw 2 of 2 (6 PTS),105 - 111,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+294122,21601147,4,0:13,Poeltl  Cutting Dunk Shot (12 PTS) (Wright 5 AST),nan,105 - 113,1627751,Jakob Poeltl,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+294123,21601147,4,0:13,nan,76ers Timeout: Short (Reg.5 Short 3),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+294124,21601147,4,0:08,nan,MISS Stauskas 25' 3PT Pullup Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+294125,21601147,4,0:08,Wright REBOUND (Off:1 Def:1),nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+294126,21601147,4,0:00,nan,nan,105 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

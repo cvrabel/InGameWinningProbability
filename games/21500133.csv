@@ -1,0 +1,144 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+16716,21500133,4,12:00,nan,nan,70 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+16717,21500133,4,11:39,Barnes STEAL (1 STL),Harkless Bad Pass Turnover (P1.T21),nan,203090,Maurice Harkless,POR,2440,Matt Barnes,MEM,0,nan,nan,Turnover ,Bad Pass
+16718,21500133,4,11:18,MISS Gasol 12' Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16719,21500133,4,11:18,nan,Harkless REBOUND (Off:1 Def:1),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16720,21500133,4,11:07,Chalmers STEAL (4 STL),McCollum Lost Ball Turnover (P8.T22),nan,203468,CJ McCollum,POR,201596,Mario Chalmers,MEM,0,nan,nan,Turnover ,Lost Ball
+16721,21500133,4,10:55,Green Traveling Turnover (P2.T8),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Turnover ,Traveling
+16722,21500133,4,10:55,nan,SUB: Henderson FOR Crabbe,nan,203459,Allen Crabbe,POR,201945,Gerald Henderson,POR,0,nan,nan,Substitution ,nan
+16723,21500133,4,10:55,nan,SUB: Lillard FOR McCollum,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+16724,21500133,4,10:46,Barnes P.FOUL (P2.T1) (S.Foster),nan,nan,2440,Matt Barnes,MEM,202334,Ed Davis,POR,0,nan,nan,Foul ,Personal
+16725,21500133,4,10:34,nan,MISS Lillard 27' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16726,21500133,4,10:33,Green REBOUND (Off:1 Def:1),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16727,21500133,4,10:18,MISS Green 2' Layup,Aminu BLOCK (2 BLK),nan,203210,JaMychal Green,MEM,0,nan,nan,202329,Al-Farouq Aminu,POR,Missed Shot ,nan
+16728,21500133,4,10:17,Green REBOUND (Off:2 Def:2),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16729,21500133,4,10:17,MISS Green 1' Tip Layup Shot,nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16730,21500133,4,10:14,nan,Harkless REBOUND (Off:1 Def:2),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16731,21500133,4,10:07,nan,MISS Aminu  3PT Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16732,21500133,4,10:06,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16733,21500133,4,9:53,Gasol 9' Turnaround Fadeaway (25 PTS),nan,70 - 81,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+16734,21500133,4,9:37,Green S.FOUL (P3.T2) (L.Richardson),nan,nan,203210,JaMychal Green,MEM,202334,Ed Davis,POR,0,nan,nan,Foul ,Shooting
+16735,21500133,4,9:37,nan,Davis Free Throw 1 of 2 (6 PTS),71 - 81,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16736,21500133,4,9:37,nan,Davis Free Throw 2 of 2 (7 PTS),72 - 81,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16737,21500133,4,9:22,MISS Chalmers  3PT Jump Shot,nan,nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16738,21500133,4,9:21,Green REBOUND (Off:2 Def:1),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16739,21500133,4,9:18,MISS Green 1' Layup,Aminu BLOCK (3 BLK),nan,203210,JaMychal Green,MEM,0,nan,nan,202329,Al-Farouq Aminu,POR,Missed Shot ,nan
+16740,21500133,4,9:16,nan,Lillard REBOUND (Off:0 Def:3),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16741,21500133,4,9:12,nan,Harkless 1' Layup (10 PTS),74 - 81,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+16742,21500133,4,9:12,GRIZZLIES Timeout: Regular (Full 4 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16743,21500133,4,9:12,nan,SUB: Plumlee FOR Aminu,nan,202329,Al-Farouq Aminu,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+16744,21500133,4,9:12,nan,SUB: McCollum FOR Davis,nan,202334,Ed Davis,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+16745,21500133,4,9:00,nan,Lillard S.FOUL (P1.T1) (L.Richardson),nan,203081,Damian Lillard,POR,201145,Jeff Green,MEM,0,nan,nan,Foul ,Shooting
+16746,21500133,4,9:00,Green Free Throw 1 of 2 (11 PTS),nan,74 - 82,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16747,21500133,4,9:00,Green Free Throw 2 of 2 (12 PTS),nan,74 - 83,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16748,21500133,4,8:43,Green S.FOUL (P4.T3) (L.Richardson),nan,nan,203210,JaMychal Green,MEM,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+16749,21500133,4,8:43,nan,Plumlee Free Throw 1 of 2 (5 PTS),75 - 83,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16750,21500133,4,8:43,SUB: Allen FOR Green,nan,nan,203210,JaMychal Green,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+16751,21500133,4,8:43,nan,MISS Plumlee Free Throw 2 of 2,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16752,21500133,4,8:42,Green REBOUND (Off:2 Def:2),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16753,21500133,4,8:22,Chalmers 2' Driving Reverse Layup (11 PTS),nan,75 - 85,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+16754,21500133,4,7:56,nan,Henderson 10' Pullup Jump Shot (5 PTS),77 - 85,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+16755,21500133,4,7:28,nan,Harkless S.FOUL (P1.T2) (L.Holtkamp),nan,203090,Maurice Harkless,POR,2754,Tony Allen,MEM,0,nan,nan,Foul ,Shooting
+16756,21500133,4,7:28,MISS Allen Free Throw 1 of 2,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16757,21500133,4,7:28,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16758,21500133,4,7:28,SUB: Conley FOR Chalmers,nan,nan,201596,Mario Chalmers,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+16759,21500133,4,7:28,MISS Allen Free Throw 2 of 2,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16760,21500133,4,7:27,nan,Henderson REBOUND (Off:0 Def:1),nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16761,21500133,4,7:07,nan,MISS Henderson 19' Pullup Jump Shot,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16762,21500133,4,7:05,Gasol REBOUND (Off:1 Def:3),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16763,21500133,4,6:53,nan,Trail Blazers T.Foul (Def. 3 Sec Henderson ) (L.Richardson),nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+16764,21500133,4,6:53,MISS Conley Free Throw Technical,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+16765,21500133,4,6:53,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16766,21500133,4,6:38,MISS Green 12' Jump Bank Shot,nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16767,21500133,4,6:38,nan,Plumlee REBOUND (Off:2 Def:5),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16768,21500133,4,6:28,nan,MISS Lillard 28' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16769,21500133,4,6:27,Barnes REBOUND (Off:0 Def:2),nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16770,21500133,4,6:16,Gasol 19' Jump Shot (27 PTS) (Green 2 AST),nan,77 - 87,201188,Marc Gasol,MEM,201145,Jeff Green,MEM,0,nan,nan,Made Shot ,nan
+16771,21500133,4,6:02,nan,Lillard 3' Cutting Layup Shot (10 PTS) (Plumlee 1 AST),79 - 87,203081,Damian Lillard,POR,203486,Mason Plumlee,POR,0,nan,nan,Made Shot ,nan
+16772,21500133,4,5:50,Conley 3' Driving Layup (11 PTS),nan,79 - 89,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+16773,21500133,4,5:50,nan,Trail Blazers Timeout: Regular (Reg.4 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16774,21500133,4,5:50,nan,SUB: Crabbe FOR Harkless,nan,203090,Maurice Harkless,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+16775,21500133,4,5:50,nan,SUB: Aminu FOR Henderson,nan,201945,Gerald Henderson,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+16776,21500133,4,5:31,nan,MISS Lillard 22' Step Back Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16777,21500133,4,5:29,Allen REBOUND (Off:2 Def:4),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16778,21500133,4,5:13,MISS Conley 25' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16779,21500133,4,5:12,nan,McCollum REBOUND (Off:0 Def:4),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16780,21500133,4,5:05,Barnes P.FOUL (P3.T4) (L.Holtkamp),nan,nan,2440,Matt Barnes,MEM,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Personal
+16781,21500133,4,4:57,nan,McCollum 6' Jump Shot (18 PTS),81 - 89,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+16782,21500133,4,4:39,Barnes 25' 3PT Jump Shot (6 PTS) (Gasol 5 AST),nan,81 - 92,2440,Matt Barnes,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+16783,21500133,4,4:27,nan,MISS Aminu 24' 3PT Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16784,21500133,4,4:26,Barnes REBOUND (Off:0 Def:3),nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16785,21500133,4,4:04,MISS Green 2' Layup,McCollum BLOCK (2 BLK),nan,201145,Jeff Green,MEM,0,nan,nan,203468,CJ McCollum,POR,Missed Shot ,nan
+16786,21500133,4,4:03,nan,McCollum REBOUND (Off:0 Def:5),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16787,21500133,4,4:03,Barnes Personal Take Foul (P4.PN) (S.Foster),nan,nan,2440,Matt Barnes,MEM,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal Take
+16788,21500133,4,4:03,nan,McCollum Free Throw 1 of 2 (19 PTS),82 - 92,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16789,21500133,4,4:03,SUB: Randolph FOR Barnes,nan,nan,2440,Matt Barnes,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+16790,21500133,4,4:03,nan,McCollum Free Throw 2 of 2 (20 PTS),83 - 92,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16791,21500133,4,3:51,nan,Plumlee P.FOUL (P4.T3) (S.Foster),nan,203486,Mason Plumlee,POR,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+16792,21500133,4,3:43,MISS Conley 25' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16793,21500133,4,3:43,Allen REBOUND (Off:3 Def:4),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16794,21500133,4,3:39,Allen Lost Ball Turnover (P1.T9),Plumlee STEAL (1 STL),nan,2754,Tony Allen,MEM,203486,Mason Plumlee,POR,0,nan,nan,Turnover ,Lost Ball
+16795,21500133,4,3:24,Green P.FOUL (P3.PN) (L.Holtkamp),nan,nan,201145,Jeff Green,MEM,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+16796,21500133,4,3:24,nan,MISS Lillard Free Throw 1 of 2,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16797,21500133,4,3:24,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+16798,21500133,4,3:24,nan,Lillard Free Throw 2 of 2 (11 PTS),84 - 92,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16799,21500133,4,3:05,MISS Green 20' Jump Shot,nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16800,21500133,4,3:04,nan,McCollum REBOUND (Off:0 Def:6),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16801,21500133,4,2:56,Allen P.FOUL (P2.PN) (L.Richardson),nan,nan,2754,Tony Allen,MEM,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+16802,21500133,4,2:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16803,21500133,4,2:56,nan,McCollum Free Throw 1 of 2 (21 PTS),85 - 92,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16804,21500133,4,2:56,nan,McCollum Free Throw 2 of 2 (22 PTS),86 - 92,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16805,21500133,4,2:38,Randolph Bad Pass Turnover (P3.T10),Plumlee STEAL (2 STL),nan,2216,Zach Randolph,MEM,203486,Mason Plumlee,POR,0,nan,nan,Turnover ,Bad Pass
+16806,21500133,4,2:32,nan,Crabbe 1' Finger Roll Layup (12 PTS) (Aminu 1 AST),88 - 92,203459,Allen Crabbe,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Made Shot ,nan
+16807,21500133,4,2:14,nan,Lillard S.FOUL (P2.T4) (L.Holtkamp),nan,203081,Damian Lillard,POR,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+16808,21500133,4,2:14,Gasol Free Throw 1 of 2 (28 PTS),nan,88 - 93,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16809,21500133,4,2:14,SUB: Lee FOR Allen,nan,nan,2754,Tony Allen,MEM,201584,Courtney Lee,MEM,0,nan,nan,Substitution ,nan
+16810,21500133,4,2:14,Gasol Free Throw 2 of 2 (29 PTS),nan,88 - 94,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16811,21500133,4,2:05,nan,McCollum 1' Driving Layup (24 PTS),90 - 94,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+16812,21500133,4,1:46,nan,Plumlee Personal Block Foul (P5.PN) (S.Foster),nan,203486,Mason Plumlee,POR,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal Block
+16813,21500133,4,1:46,Gasol Free Throw 1 of 2 (30 PTS),nan,90 - 95,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16814,21500133,4,1:46,SUB: Allen FOR Lee,nan,nan,201584,Courtney Lee,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+16815,21500133,4,1:46,Gasol Free Throw 2 of 2 (31 PTS),nan,90 - 96,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16816,21500133,4,1:32,nan,Aminu 26' 3PT Jump Shot (11 PTS) (Crabbe 1 AST),93 - 96,202329,Al-Farouq Aminu,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+16817,21500133,4,1:15,MISS Gasol 9' Hook Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16818,21500133,4,1:13,nan,Crabbe REBOUND (Off:0 Def:3),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16819,21500133,4,0:56,nan,MISS Aminu 28' 3PT Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16820,21500133,4,0:54,Randolph REBOUND (Off:2 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16821,21500133,4,0:54,nan,Aminu L.B.FOUL (P4.PN) (L.Richardson),nan,202329,Al-Farouq Aminu,POR,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+16822,21500133,4,0:54,MISS Randolph Free Throw 1 of 2,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16823,21500133,4,0:54,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16824,21500133,4,0:54,nan,SUB: Kaman FOR Crabbe,nan,203459,Allen Crabbe,POR,2549,Chris Kaman,POR,0,nan,nan,Substitution ,nan
+16825,21500133,4,0:54,Randolph Free Throw 2 of 2 (13 PTS),nan,93 - 97,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16826,21500133,4,0:54,nan,Trail Blazers Timeout: Regular (Reg.5 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16827,21500133,4,0:54,SUB: Green FOR Randolph,nan,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+16828,21500133,4,0:54,nan,SUB: Crabbe FOR Kaman,nan,2549,Chris Kaman,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+16829,21500133,4,0:53,Allen P.FOUL (P3.PN) (L.Holtkamp),nan,nan,2754,Tony Allen,MEM,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+16830,21500133,4,0:53,nan,McCollum Free Throw 1 of 2 (25 PTS),94 - 97,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16831,21500133,4,0:53,SUB: Lee FOR Allen,nan,nan,2754,Tony Allen,MEM,201584,Courtney Lee,MEM,0,nan,nan,Substitution ,nan
+16832,21500133,4,0:53,SUB: Randolph FOR Green,nan,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+16833,21500133,4,0:53,nan,McCollum Free Throw 2 of 2 (26 PTS),95 - 97,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16834,21500133,4,0:53,GRIZZLIES Timeout: Short (Full 4 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+16835,21500133,4,0:36,MISS Conley 10' Floating Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16836,21500133,4,0:36,nan,Aminu REBOUND (Off:1 Def:7),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16837,21500133,4,0:36,Conley P.FOUL (P2.PN) (L.Richardson),nan,nan,201144,Mike Conley,MEM,202329,Al-Farouq Aminu,POR,0,nan,nan,Foul ,Personal
+16838,21500133,4,0:36,nan,nan,nan,530,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+16839,21500133,4,0:36,nan,Aminu Free Throw 1 of 2 (12 PTS),96 - 97,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+16840,21500133,4,0:36,nan,Aminu Free Throw 2 of 2 (13 PTS),97 - 97,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+16841,21500133,4,0:36,GRIZZLIES Timeout: Short (Full 4 Short 2),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+16842,21500133,4,0:26,Green 10' Jump Bank Shot (14 PTS),nan,97 - 99,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+16843,21500133,4,0:12,nan,Aminu  3PT Jump Shot (16 PTS) (McCollum 2 AST),100 - 99,202329,Al-Farouq Aminu,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+16844,21500133,4,0:12,GRIZZLIES Timeout: Regular (Full 5 Short 2),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+16845,21500133,4,0:02,MISS Lee  3PT Jump Shot,nan,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16846,21500133,4,0:02,Green REBOUND (Off:3 Def:2),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16847,21500133,4,0:02,MISS Green 3' Putback Layup,nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16848,21500133,4,0:01,Randolph REBOUND (Off:3 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16849,21500133,4,0:01,MISS Randolph 2' Putback Layup,Crabbe BLOCK (1 BLK),nan,2216,Zach Randolph,MEM,0,nan,nan,203459,Allen Crabbe,POR,Missed Shot ,nan
+16850,21500133,4,0:00,Randolph REBOUND (Off:4 Def:4),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16851,21500133,4,0:00,Randolph 2' Tip Layup Shot (15 PTS),nan,100 - 101,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+16852,21500133,4,0:00,nan,Trail Blazers Timeout: Short (Reg.5 Short 2),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+16853,21500133,4,0:00,SUB: Barnes FOR Randolph,nan,nan,2216,Zach Randolph,MEM,2440,Matt Barnes,MEM,0,nan,nan,Substitution ,nan
+16854,21500133,4,0:00,SUB: Allen FOR Lee,nan,nan,201584,Courtney Lee,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+16855,21500133,4,0:00,nan,Trail Blazers Timeout: Short (Reg.5 Short 3),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+16856,21500133,4,0:00,nan,MISS Aminu 17' Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+16857,21500133,4,0:00,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+16858,21500133,4,0:00,nan,nan,100 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

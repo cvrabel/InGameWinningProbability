@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+96315,21500771,4,12:00,nan,nan,60 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+96316,21500771,4,11:43,nan,MISS Horford 20' Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96317,21500771,4,11:41,nan,Scott REBOUND (Off:3 Def:4),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96318,21500771,4,11:32,Smith BLOCK (2 BLK),MISS Teague 24' 3PT Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,201160,Jason Smith,ORL,Missed Shot ,nan
+96319,21500771,4,11:30,Hezonja REBOUND (Off:0 Def:1),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96320,21500771,4,11:18,Oladipo 20' Pullup Jump Shot (15 PTS),nan,60 - 73,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96321,21500771,4,11:01,nan,Teague 1' Driving Layup (19 PTS),62 - 73,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96322,21500771,4,10:49,MISS Napier 26' 3PT Jump Shot,nan,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96323,21500771,4,10:48,nan,Scott REBOUND (Off:3 Def:5),nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96324,21500771,4,10:34,nan,Horford 15' Jump Shot (6 PTS) (Bazemore 1 AST),64 - 73,201143,Al Horford,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+96325,21500771,4,10:14,Hezonja Bad Pass Turnover (P3.T13),Korver STEAL (2 STL),nan,1626209,Mario Hezonja,ORL,2594,Kyle Korver,ATL,0,nan,nan,Turnover ,Bad Pass
+96326,21500771,4,10:00,nan,Teague 29' 3PT Jump Shot (22 PTS) (Scott 2 AST),67 - 73,201952,Jeff Teague,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+96327,21500771,4,9:40,MISS Hezonja 25' 3PT Jump Shot,Korver BLOCK (1 BLK),nan,1626209,Mario Hezonja,ORL,0,nan,nan,2594,Kyle Korver,ATL,Missed Shot ,nan
+96328,21500771,4,9:40,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96329,21500771,4,9:40,SUB: Fournier FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+96330,21500771,4,9:40,SUB: Payton FOR Napier,nan,nan,203894,Shabazz Napier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+96331,21500771,4,9:40,nan,SUB: Hardaway Jr. FOR Korver,nan,2594,Kyle Korver,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Substitution ,nan
+96332,21500771,4,9:37,Payton Out of Bounds Lost Ball Turnover (P2.T14),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+96333,21500771,4,9:37,nan,SUB: Korver FOR Bazemore,nan,203145,Kent Bazemore,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+96334,21500771,4,9:27,nan,Teague 1' Driving Layup (24 PTS),69 - 73,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96335,21500771,4,9:01,MISS Payton 26' 3PT Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96336,21500771,4,8:59,Oladipo REBOUND (Off:1 Def:4),nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96337,21500771,4,8:56,Oladipo 18' Jump Shot (17 PTS),nan,69 - 75,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96338,21500771,4,8:42,nan,Horford 24' 3PT Jump Shot (9 PTS) (Korver 2 AST),72 - 75,201143,Al Horford,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+96339,21500771,4,8:16,Frye 25' 3PT Jump Shot (5 PTS) (Payton 8 AST),nan,72 - 78,101112,Channing Frye,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+96340,21500771,4,8:02,nan,Horford 20' Jump Shot (11 PTS) (Teague 4 AST),74 - 78,201143,Al Horford,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+96341,21500771,4,7:44,nan,Horford P.FOUL (P1.T1) (S.Wall),nan,201143,Al Horford,ATL,201160,Jason Smith,ORL,0,nan,nan,Foul ,Personal
+96342,21500771,4,7:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+96343,21500771,4,7:44,nan,SUB: Bazemore FOR Hardaway Jr.,nan,203501,Tim Hardaway Jr.,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+96344,21500771,4,7:44,Smith Free Throw 1 of 2 (5 PTS),nan,74 - 79,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+96345,21500771,4,7:44,Smith Free Throw 2 of 2 (6 PTS),nan,74 - 80,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+96346,21500771,4,7:34,nan,MISS Korver 27' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96347,21500771,4,7:33,nan,Bazemore REBOUND (Off:4 Def:2),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96348,21500771,4,7:29,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96349,21500771,4,7:28,nan,Horford REBOUND (Off:1 Def:3),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96350,21500771,4,7:25,nan,Bazemore 1' Cutting Layup Shot (18 PTS) (Horford 4 AST),76 - 80,203145,Kent Bazemore,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+96351,21500771,4,6:59,MISS Smith  3PT Jump Shot,nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96352,21500771,4,6:58,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96353,21500771,4,6:58,nan,Korver L.B.FOUL (P2.T2) (S.Wall),nan,2594,Kyle Korver,ATL,101112,Channing Frye,ORL,0,nan,nan,Foul ,Loose Ball
+96354,21500771,4,6:58,nan,SUB: Millsap FOR Scott,nan,203118,Mike Scott,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+96355,21500771,4,6:58,SUB: Gordon FOR Frye,nan,nan,101112,Channing Frye,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+96356,21500771,4,6:58,SUB: Vucevic FOR Smith,nan,nan,201160,Jason Smith,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+96357,21500771,4,6:50,Fournier 25' 3PT Jump Shot (21 PTS) (Payton 9 AST),nan,76 - 83,203095,Evan Fournier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+96358,21500771,4,6:36,nan,MISS Teague 4' Floating Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96359,21500771,4,6:33,nan,Millsap REBOUND (Off:3 Def:4),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96360,21500771,4,6:33,nan,Millsap 1' Putback Layup (12 PTS),78 - 83,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96361,21500771,4,6:10,Payton 15' Jump Shot (7 PTS),nan,78 - 85,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96362,21500771,4,5:58,nan,MISS Bazemore 3' Jump Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96363,21500771,4,5:58,nan,Bazemore REBOUND (Off:5 Def:2),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96364,21500771,4,5:58,nan,MISS Bazemore 2' Tip Layup Shot,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96365,21500771,4,5:56,nan,Bazemore REBOUND (Off:6 Def:2),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96366,21500771,4,5:54,nan,Bazemore  Cutting Layup Shot (20 PTS),80 - 85,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96367,21500771,4,5:37,Payton 29' 3PT Jump Shot (10 PTS) (Vucevic 2 AST),nan,80 - 88,203901,Elfrid Payton,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+96368,21500771,4,5:19,nan,Korver 27' 3PT Jump Shot (7 PTS) (Horford 5 AST),83 - 88,2594,Kyle Korver,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+96369,21500771,4,5:03,Gordon  Cutting Dunk Shot (11 PTS) (Payton 10 AST),nan,83 - 90,203932,Aaron Gordon,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+96370,21500771,4,4:58,nan,Hawks Timeout: Regular (Reg.5 Short 0),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+96371,21500771,4,4:58,nan,SUB: Scott FOR Horford,nan,201143,Al Horford,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+96372,21500771,4,4:42,nan,Korver  3PT Jump Shot (10 PTS) (Teague 5 AST),86 - 90,2594,Kyle Korver,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+96373,21500771,4,4:22,MISS Fournier  3PT Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96374,21500771,4,4:20,nan,Millsap REBOUND (Off:3 Def:5),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96375,21500771,4,4:14,nan,MISS Scott 1' Layup,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96376,21500771,4,4:12,Vucevic REBOUND (Off:1 Def:8),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96377,21500771,4,4:07,Oladipo 1' Cutting Layup Shot (19 PTS) (Payton 11 AST),nan,86 - 92,203506,Victor Oladipo,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+96378,21500771,4,3:55,nan,MISS Teague 26' 3PT Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96379,21500771,4,3:53,Payton REBOUND (Off:0 Def:3),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96380,21500771,4,3:41,Payton 13' Jump Shot (12 PTS),nan,86 - 94,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96381,21500771,4,3:27,nan,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P4.T16),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+96382,21500771,4,3:27,nan,SUB: Horford FOR Scott,nan,203118,Mike Scott,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+96383,21500771,4,3:27,MAGIC Timeout: Regular (Full 4 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+96384,21500771,4,3:27,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+96385,21500771,4,3:12,Vucevic Traveling Turnover (P4.T15),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+96386,21500771,4,2:50,nan,Millsap 10' Jump Bank Shot (14 PTS),88 - 94,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+96387,21500771,4,2:34,MISS Vucevic 18' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96388,21500771,4,2:33,nan,Horford REBOUND (Off:1 Def:4),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96389,21500771,4,2:16,nan,Sefolosha 25' 3PT Jump Shot (6 PTS) (Horford 6 AST),91 - 94,200757,Thabo Sefolosha,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+96390,21500771,4,2:02,Payton Step Out of Bounds Turnover (P3.T16),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+96391,21500771,4,2:02,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+96392,21500771,4,1:50,nan,MISS Teague 5' Floating Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96393,21500771,4,1:47,nan,Korver REBOUND (Off:1 Def:5),nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96394,21500771,4,1:34,Jump Ball Oladipo vs. Bazemore: Tip to Millsap,nan,nan,203506,Victor Oladipo,ORL,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,Jump Ball ,nan
+96395,21500771,4,1:31,nan,Hawks Timeout: Short (Reg.5 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+96396,21500771,4,1:22,nan,MISS Horford 1' Layup,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96397,21500771,4,1:20,Payton REBOUND (Off:0 Def:4),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96398,21500771,4,1:02,Vucevic Out of Bounds - Bad Pass Turnover Turnover (P5.T17),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+96399,21500771,4,1:02,nan,nan,nan,504,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+96400,21500771,4,0:48,nan,Bazemore  3PT Jump Shot (23 PTS) (Millsap 2 AST),94 - 94,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+96401,21500771,4,0:35,nan,Millsap P.FOUL (P3.T3) (D.Stafford),nan,200794,Paul Millsap,ATL,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Personal
+96402,21500771,4,0:35,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+96403,21500771,4,0:35,Vucevic OFF.Foul (P2) (S.Wall),nan,nan,202696,Nikola Vucevic,ORL,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Offensive
+96404,21500771,4,0:35,Vucevic Foul Turnover (P6.T18),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+96405,21500771,4,0:35,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+96406,21500771,4,0:24,nan,MISS Millsap 19' Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96407,21500771,4,0:22,nan,Horford REBOUND (Off:2 Def:4),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96408,21500771,4,0:04,nan,MISS Teague 20' Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96409,21500771,4,0:02,nan,Millsap REBOUND (Off:4 Def:5),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96410,21500771,4,0:02,nan,MISS Millsap 5' Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+96411,21500771,4,0:02,Fournier REBOUND (Off:0 Def:5),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+96412,21500771,4,0:02,MAGIC Timeout: Regular (Full 5 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+96413,21500771,4,0:02,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+96414,21500771,4,0:02,SUB: Frye FOR Gordon,nan,nan,203932,Aaron Gordon,ORL,101112,Channing Frye,ORL,0,nan,nan,Substitution ,nan
+96415,21500771,4,0:02,MAGIC Timeout: Short (Full 5 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+96416,21500771,4,0:00,Vucevic 18' Turnaround Fadeaway (22 PTS) (Payton 12 AST),nan,94 - 96,202696,Nikola Vucevic,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+96417,21500771,4,0:00,nan,nan,nan,525,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+96418,21500771,4,0:00,nan,nan,94 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,116 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+158207,21600041,4,12:00,nan,nan,70 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+158208,21600041,4,11:36,Capela STEAL (1 STL),Curry Bad Pass Turnover (P1.T10),nan,203552,Seth Curry,DAL,203991,Clint Capela,HOU,0,nan,nan,Turnover ,Bad Pass
+158209,21600041,4,11:18,nan,Anderson P.FOUL (P2.T1) (K.Mauer),nan,1626147,Justin Anderson,DAL,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal
+158210,21600041,4,11:13,Capela  Alley Oop Dunk (4 PTS) (Ennis 1 AST),nan,70 - 82,203991,Clint Capela,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Made Shot ,nan
+158211,21600041,4,10:53,nan,Mejri OFF.Foul (P3) (D.Richardson),nan,1626257,Salah Mejri,DAL,203991,Clint Capela,HOU,0,nan,nan,Foul ,Offensive
+158212,21600041,4,10:53,nan,Mejri Foul Turnover (P1.T11),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+158213,21600041,4,10:46,MISS Dekker 6' Jump Shot,Mejri BLOCK (2 BLK),nan,1626155,Sam Dekker,HOU,0,nan,nan,1626257,Salah Mejri,DAL,Missed Shot ,nan
+158214,21600041,4,10:46,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158215,21600041,4,10:40,MISS Ennis 20' Jump Shot,nan,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158216,21600041,4,10:39,nan,Anderson REBOUND (Off:1 Def:2),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158217,21600041,4,10:15,nan,Anderson 25' 3PT Jump Shot (8 PTS) (Barea 4 AST),73 - 82,1626147,Justin Anderson,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+158218,21600041,4,10:02,MISS Ennis 26' 3PT Jump Shot,nan,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158219,21600041,4,10:00,nan,Curry REBOUND (Off:0 Def:2),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158220,21600041,4,9:48,nan,MISS Anderson 26' 3PT Jump Shot,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158221,21600041,4,9:47,nan,Barea REBOUND (Off:1 Def:1),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158222,21600041,4,9:39,nan,MISS Powell 6' Jump Bank Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158223,21600041,4,9:38,Capela REBOUND (Off:1 Def:8),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158224,21600041,4,9:27,MISS Gordon 27' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158225,21600041,4,9:26,nan,Curry REBOUND (Off:0 Def:3),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158226,21600041,4,9:07,nan,Barea 25' 3PT Jump Shot (15 PTS) (Curry 2 AST),76 - 82,200826,J.J. Barea,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+158227,21600041,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158228,21600041,4,8:47,SUB: Ariza FOR Brewer,nan,nan,201147,Corey Brewer,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+158229,21600041,4,8:47,SUB: Anderson FOR Dekker,nan,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+158230,21600041,4,8:47,SUB: Harden FOR Ennis,nan,nan,203898,Tyler Ennis,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+158231,21600041,4,8:47,nan,SUB: Matthews FOR Curry,nan,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+158232,21600041,4,8:41,MISS Gordon 8' Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158233,21600041,4,8:38,Anderson REBOUND (Off:4 Def:7),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158234,21600041,4,8:37,Anderson 1' Tip Layup Shot (14 PTS),nan,76 - 84,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+158235,21600041,4,8:17,nan,MISS Matthews 12' Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158236,21600041,4,8:16,nan,Mejri REBOUND (Off:3 Def:1),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158237,21600041,4,8:14,nan,Mejri 2' Layup (6 PTS),78 - 84,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+158238,21600041,4,7:57,MISS Gordon 25' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158239,21600041,4,7:55,nan,Powell REBOUND (Off:0 Def:1),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158240,21600041,4,7:43,nan,MISS Matthews 25' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158241,21600041,4,7:43,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158242,21600041,4,7:27,MISS Anderson 28' 3PT Jump Shot,nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158243,21600041,4,7:26,nan,Powell REBOUND (Off:0 Def:2),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158244,21600041,4,7:07,nan,MISS Powell  3PT Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158245,21600041,4,7:04,nan,Mejri REBOUND (Off:4 Def:1),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158246,21600041,4,6:57,Ariza BLOCK (1 BLK),MISS Powell 6' Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,2772,Trevor Ariza,HOU,Missed Shot ,nan
+158247,21600041,4,6:56,Capela REBOUND (Off:1 Def:9),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158248,21600041,4,6:38,MISS Harden 26' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158249,21600041,4,6:37,nan,Mejri REBOUND (Off:4 Def:2),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158250,21600041,4,6:31,nan,Mavericks Timeout: Regular (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158251,21600041,4,6:31,nan,SUB: Barnes FOR Powell,nan,203939,Dwight Powell,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+158252,21600041,4,6:31,SUB: Nene FOR Capela,nan,nan,203991,Clint Capela,HOU,2403,Nene,HOU,0,nan,nan,Substitution ,nan
+158253,21600041,4,6:18,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158254,21600041,4,6:17,nan,Mejri REBOUND (Off:5 Def:2),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158255,21600041,4,6:14,Nene Shooting Block Foul (P3.T1) (K.Mauer),nan,nan,2403,Nene,HOU,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting Block
+158256,21600041,4,6:14,nan,Matthews Free Throw 1 of 2 (17 PTS),79 - 84,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158257,21600041,4,6:14,nan,SUB: D. Williams FOR Anderson,nan,1626147,Justin Anderson,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+158258,21600041,4,6:14,nan,Matthews Free Throw 2 of 2 (18 PTS),80 - 84,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158259,21600041,4,6:00,Jump Ball Nene vs. Mejri: Tip to Barnes,nan,nan,2403,Nene,HOU,1626257,Salah Mejri,DAL,203084,Harrison Barnes,DAL,Jump Ball ,nan
+158260,21600041,4,6:00,Gordon Bad Pass Turnover (P3.T14),nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+158261,21600041,4,5:39,nan,MISS Barnes 7' Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158262,21600041,4,5:38,Anderson REBOUND (Off:4 Def:8),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158263,21600041,4,5:25,MISS Gordon 9' Floating Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158264,21600041,4,5:24,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158265,21600041,4,5:01,nan,MISS Barea 9' Turnaround Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158266,21600041,4,5:00,Harden REBOUND (Off:1 Def:4),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158267,21600041,4,4:54,Harden 3' Running Layup (23 PTS),nan,80 - 86,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+158268,21600041,4,4:54,nan,Mavericks Timeout: Short (Reg.4 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+158269,21600041,4,4:54,nan,SUB: Bogut FOR Mejri,nan,1626257,Salah Mejri,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Substitution ,nan
+158270,21600041,4,4:44,nan,Bogut Out of Bounds - Bad Pass Turnover Turnover (P2.T12),nan,101106,Andrew Bogut,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+158271,21600041,4,4:31,Ariza Out of Bounds Lost Ball Turnover (P3.T15),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+158272,21600041,4,4:16,nan,MISS Barnes 17' Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158273,21600041,4,4:15,Gordon REBOUND (Off:0 Def:3),nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158274,21600041,4,4:06,Harden 28' 3PT Pullup Jump Shot (26 PTS),nan,80 - 89,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+158275,21600041,4,3:47,nan,Barea 26' 3PT Jump Shot (18 PTS) (Bogut 3 AST),83 - 89,200826,J.J. Barea,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Made Shot ,nan
+158276,21600041,4,3:35,MISS Gordon 24' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158277,21600041,4,3:34,nan,Bogut REBOUND (Off:5 Def:10),nan,101106,Andrew Bogut,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158278,21600041,4,3:26,nan,MISS Matthews 27' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158279,21600041,4,3:23,nan,Matthews REBOUND (Off:1 Def:2),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158280,21600041,4,3:21,nan,Matthews  Reverse Layup (20 PTS),85 - 89,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+158281,21600041,4,3:07,Harden Lost Ball Turnover (P7.T16),Matthews STEAL (2 STL),nan,201935,James Harden,HOU,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Lost Ball
+158282,21600041,4,3:03,nan,Matthews 2' Running Layup (22 PTS) (D. Williams 3 AST),87 - 89,202083,Wesley Matthews,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+158283,21600041,4,3:02,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158284,21600041,4,2:54,Harden Offensive Charge Foul (P4.T2) (K.Mauer),nan,nan,201935,James Harden,HOU,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Offensive Charge
+158285,21600041,4,2:54,Harden Foul Turnover (P8.T17),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+158286,21600041,4,2:33,nan,MISS Matthews 13' Fadeaway Jumper,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158287,21600041,4,2:32,Harden REBOUND (Off:1 Def:5),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158288,21600041,4,2:26,nan,Matthews P.FOUL (P4.T2) (K.Mauer),nan,202083,Wesley Matthews,DAL,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+158289,21600041,4,2:14,Nene 3' Cutting Layup Shot (11 PTS) (Ariza 3 AST),nan,87 - 91,2403,Nene,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+158290,21600041,4,1:48,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158291,21600041,4,1:47,Ariza REBOUND (Off:2 Def:5),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158292,21600041,4,1:23,MISS Harden 19' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158293,21600041,4,1:22,nan,Barea REBOUND (Off:1 Def:2),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158294,21600041,4,1:13,Anderson S.FOUL (P2.T3) (D.Richardson),nan,nan,201583,Ryan Anderson,HOU,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+158295,21600041,4,1:13,nan,Barnes Free Throw 1 of 2 (9 PTS),88 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158296,21600041,4,1:13,nan,Barnes Free Throw 2 of 2 (10 PTS),89 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158297,21600041,4,1:02,nan,Matthews S.FOUL (P5.T3) (D.Richardson),nan,202083,Wesley Matthews,DAL,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+158298,21600041,4,1:02,Harden Free Throw 1 of 2 (27 PTS),nan,89 - 92,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158299,21600041,4,1:02,SUB: McDaniels FOR Anderson,nan,nan,201583,Ryan Anderson,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+158300,21600041,4,1:02,MISS Harden Free Throw 2 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158301,21600041,4,1:02,nan,Matthews REBOUND (Off:1 Def:3),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158302,21600041,4,0:44,nan,MISS Barnes 12' Turnaround Fadeaway Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158303,21600041,4,0:43,Harden REBOUND (Off:1 Def:6),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158304,21600041,4,0:21,MISS Harden 19' Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158305,21600041,4,0:20,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158306,21600041,4,0:20,nan,Mavericks Timeout: Regular (Reg.5 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158307,21600041,4,0:04,nan,Matthews 27' 3PT Jump Shot (25 PTS) (Barea 5 AST),92 - 92,202083,Wesley Matthews,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+158308,21600041,4,0:04,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158309,21600041,4,0:04,SUB: Anderson FOR McDaniels,nan,nan,203909,KJ McDaniels,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+158310,21600041,4,0:04,nan,SUB: Anderson FOR Barea,nan,200826,J.J. Barea,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+158311,21600041,4,0:00,nan,Matthews S.FOUL (P6.PN) (K.Mauer),nan,202083,Wesley Matthews,DAL,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+158312,21600041,4,0:00,nan,SUB: Powell FOR Matthews,nan,202083,Wesley Matthews,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+158313,21600041,4,0:00,MISS Harden Free Throw 1 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158314,21600041,4,0:00,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+158315,21600041,4,0:00,Harden Free Throw 2 of 2 (28 PTS),nan,92 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158316,21600041,4,0:00,nan,Mavericks Timeout: Short (Reg.5 Short 3),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+158317,21600041,4,0:00,SUB: Capela FOR Anderson,nan,nan,201583,Ryan Anderson,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+158318,21600041,4,0:00,nan,SUB: Barea FOR Bogut,nan,101106,Andrew Bogut,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+158319,21600041,4,0:00,nan,SUB: Curry FOR Powell,nan,203939,Dwight Powell,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+158320,21600041,4,0:00,Harden STEAL (1 STL),Curry Bad Pass Turnover (P2.T13),nan,203552,Seth Curry,DAL,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+158321,21600041,4,0:00,nan,nan,92 - 93,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

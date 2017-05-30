@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+165568,21600101,4,12:00,nan,nan,84 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+165569,21600101,4,11:56,Foye Bad Pass Turnover (P1.T16),Jones STEAL (4 STL),nan,200751,Randy Foye,BKN,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Bad Pass
+165570,21600101,4,11:52,nan,Jones 3' Running Layup (9 PTS),86 - 88,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165571,21600101,4,11:35,Whitehead 2' Cutting Layup Shot (4 PTS) (Scola 1 AST),nan,86 - 90,1627785,Isaiah Whitehead,BKN,2449,Luis Scola,BKN,0,nan,nan,Made Shot ,nan
+165572,21600101,4,11:17,nan,MISS Wiggins 12' Turnaround Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165573,21600101,4,11:16,Foye REBOUND (Off:0 Def:1),nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165574,21600101,4,11:06,nan,Aldrich P.FOUL (P3.T1) (N.Buchert),nan,202332,Cole Aldrich,MIN,2449,Luis Scola,BKN,0,nan,nan,Foul ,Personal
+165575,21600101,4,11:06,nan,SUB: Towns FOR Aldrich,nan,202332,Cole Aldrich,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+165576,21600101,4,11:06,nan,SUB: LaVine FOR Wiggins,nan,203952,Andrew Wiggins,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+165577,21600101,4,11:06,nan,SUB: Dieng FOR Bjelica,nan,202357,Nemanja Bjelica,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+165578,21600101,4,10:54,Whitehead Out of Bounds - Bad Pass Turnover Turnover (P1.T17),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+165579,21600101,4,10:41,nan,Jones 24' 3PT Jump Shot (12 PTS),89 - 90,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165580,21600101,4,10:25,MISS Whitehead 2' Layup,Dieng BLOCK (1 BLK),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,203476,Gorgui Dieng,MIN,Missed Shot ,nan
+165581,21600101,4,10:24,Scola REBOUND (Off:2 Def:3),nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165582,21600101,4,10:21,Scola 1' Putback Layup (6 PTS),nan,89 - 92,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165583,21600101,4,10:11,Scola S.FOUL (P1.T1) (N.Buchert),nan,nan,2449,Luis Scola,BKN,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Shooting
+165584,21600101,4,10:11,nan,Dieng Free Throw 1 of 2 (5 PTS),90 - 92,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165585,21600101,4,10:11,nan,Dieng Free Throw 2 of 2 (6 PTS),91 - 92,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165586,21600101,4,10:02,MISS Scola 24' 3PT Jump Shot,nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165587,21600101,4,10:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165588,21600101,4,10:00,SUB: Bogdanovic FOR Foye,nan,nan,200751,Randy Foye,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+165589,21600101,4,9:54,Harris 1' Layup (11 PTS) (Scola 2 AST),nan,91 - 94,203925,Joe Harris,BKN,2449,Luis Scola,BKN,0,nan,nan,Made Shot ,nan
+165590,21600101,4,9:41,nan,MISS Jones 25' 3PT Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165591,21600101,4,9:40,Hamilton REBOUND (Off:0 Def:5),nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165592,21600101,4,9:21,Hamilton 25' 3PT Jump Shot (9 PTS) (Whitehead 7 AST),nan,91 - 97,203120,Justin Hamilton,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+165593,21600101,4,9:01,nan,MISS Muhammad 24' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165594,21600101,4,9:00,Whitehead REBOUND (Off:2 Def:4),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165595,21600101,4,8:56,MISS Harris 25' 3PT Jump Shot,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165596,21600101,4,8:55,Scola REBOUND (Off:3 Def:3),nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165597,21600101,4,8:54,nan,Towns S.FOUL (P5.T2) (B.Spooner),nan,1626157,Karl-Anthony Towns,MIN,2449,Luis Scola,BKN,0,nan,nan,Foul ,Shooting
+165598,21600101,4,8:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+165599,21600101,4,8:54,nan,SUB: Wiggins FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+165600,21600101,4,8:54,MISS Scola Free Throw 1 of 2,nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165601,21600101,4,8:54,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+165602,21600101,4,8:54,Scola Free Throw 2 of 2 (7 PTS),nan,91 - 98,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165603,21600101,4,8:43,Scola S.FOUL (P2.T2) (B.Spooner),nan,nan,2449,Luis Scola,BKN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+165604,21600101,4,8:43,nan,Wiggins Free Throw 1 of 2 (26 PTS),92 - 98,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165605,21600101,4,8:43,nan,Wiggins Free Throw 2 of 2 (27 PTS),93 - 98,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165606,21600101,4,8:34,MISS Harris 26' 3PT Jump Shot,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165607,21600101,4,8:33,nan,Dieng REBOUND (Off:0 Def:2),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165608,21600101,4,8:23,nan,Dieng  Dunk (8 PTS) (LaVine 1 AST),95 - 98,203476,Gorgui Dieng,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+165609,21600101,4,8:07,Scola 1' Layup (9 PTS),nan,95 - 100,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165610,21600101,4,7:45,nan,LaVine 19' Jump Shot (15 PTS),97 - 100,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165611,21600101,4,7:34,Scola OFF.Foul (P3) (N.Buchert),nan,nan,2449,Luis Scola,BKN,1626145,Tyus Jones,MIN,0,nan,nan,Foul ,Offensive
+165612,21600101,4,7:34,Scola Foul Turnover (P1.T18),nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+165613,21600101,4,7:34,SUB: Lopez FOR Scola,nan,nan,2449,Luis Scola,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+165614,21600101,4,7:34,SUB: Kilpatrick FOR Harris,nan,nan,203925,Joe Harris,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+165615,21600101,4,7:16,Whitehead Shooting Block Foul (P1.T3) (S.Twardoski),nan,nan,1627785,Isaiah Whitehead,BKN,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting Block
+165616,21600101,4,7:16,nan,LaVine Free Throw 1 of 2 (16 PTS),98 - 100,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165617,21600101,4,7:16,nan,LaVine Free Throw 2 of 2 (17 PTS),99 - 100,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165618,21600101,4,6:53,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165619,21600101,4,6:52,nan,Muhammad REBOUND (Off:0 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165620,21600101,4,6:41,nan,MISS LaVine 1' Layup,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165621,21600101,4,6:40,Whitehead REBOUND (Off:2 Def:5),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165622,21600101,4,6:37,Whitehead Bad Pass Turnover (P2.T19),Dieng STEAL (1 STL),nan,1627785,Isaiah Whitehead,BKN,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Bad Pass
+165623,21600101,4,6:31,nan,MISS Dieng 5' Floating Jump Shot,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165624,21600101,4,6:30,nan,Muhammad REBOUND (Off:1 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165625,21600101,4,6:29,nan,MISS Muhammad 1' Tip Layup Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165626,21600101,4,6:27,Hamilton REBOUND (Off:0 Def:6),nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165627,21600101,4,6:08,MISS Lopez 25' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165628,21600101,4,6:07,nan,LaVine REBOUND (Off:0 Def:2),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165629,21600101,4,5:54,nan,Wiggins 24' 3PT Jump Shot (30 PTS),102 - 100,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165630,21600101,4,5:45,NETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165631,21600101,4,5:45,SUB: Booker FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+165632,21600101,4,5:45,SUB: Hollis-Jefferson FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+165633,21600101,4,5:39,Lopez 3' Turnaround Jump Shot (22 PTS),nan,102 - 102,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165634,21600101,4,5:23,nan,MISS Wiggins 2' Layup,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165635,21600101,4,5:21,Kilpatrick REBOUND (Off:0 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165636,21600101,4,5:16,Kilpatrick 1' Running Layup (12 PTS),nan,102 - 104,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165637,21600101,4,5:15,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165638,21600101,4,5:15,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+165639,21600101,4,5:04,nan,Wiggins 19' Jump Shot (32 PTS),104 - 104,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165640,21600101,4,4:44,Lopez 2' Layup (24 PTS),nan,104 - 106,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165641,21600101,4,4:29,nan,MISS Towns 24' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165642,21600101,4,4:28,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165643,21600101,4,4:28,Hollis-Jefferson L.B.FOUL (P2.T4) (B.Spooner),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Loose Ball
+165644,21600101,4,4:09,Kilpatrick STEAL (1 STL),Jones Bad Pass Turnover (P3.T14),nan,1626145,Tyus Jones,MIN,203930,Sean Kilpatrick,BKN,0,nan,nan,Turnover ,Bad Pass
+165645,21600101,4,4:00,MISS Kilpatrick 4' Floating Jump Shot,Towns BLOCK (1 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+165646,21600101,4,3:59,nan,Towns REBOUND (Off:4 Def:2),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165647,21600101,4,3:58,Lopez P.FOUL (P2.PN) (B.Spooner),nan,nan,201572,Brook Lopez,BKN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+165648,21600101,4,3:58,nan,Wiggins Free Throw 1 of 2 (33 PTS),105 - 106,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165649,21600101,4,3:58,nan,Wiggins Free Throw 2 of 2 (34 PTS),106 - 106,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165650,21600101,4,3:43,Hollis-Jefferson 8' Jump Bank Shot (13 PTS),nan,106 - 108,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165651,21600101,4,3:32,Hollis-Jefferson P.FOUL (P3.PN) (B.Spooner),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+165652,21600101,4,3:32,nan,MISS Wiggins Free Throw 1 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165653,21600101,4,3:32,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+165654,21600101,4,3:32,nan,MISS Wiggins Free Throw 2 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165655,21600101,4,3:31,Booker REBOUND (Off:0 Def:9),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165656,21600101,4,3:08,Lopez 1' Layup (26 PTS),nan,106 - 110,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165657,21600101,4,2:54,Booker BLOCK (1 BLK),MISS Muhammad 24' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,202344,Trevor Booker,BKN,Missed Shot ,nan
+165658,21600101,4,2:52,nan,Muhammad REBOUND (Off:2 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165659,21600101,4,2:50,nan,Muhammad 1' Driving Layup (7 PTS),108 - 110,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165660,21600101,4,2:39,Kilpatrick Bad Pass Turnover (P6.T20),Jones STEAL (5 STL),nan,203930,Sean Kilpatrick,BKN,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Bad Pass
+165661,21600101,4,2:27,nan,MISS LaVine 1' Driving Layup,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165662,21600101,4,2:26,Hollis-Jefferson REBOUND (Off:0 Def:3),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165663,21600101,4,2:10,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165664,21600101,4,2:09,nan,Towns REBOUND (Off:4 Def:3),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165665,21600101,4,1:47,nan,MISS Muhammad 9' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165666,21600101,4,1:46,nan,Wiggins REBOUND (Off:5 Def:2),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165667,21600101,4,1:45,nan,Timberwolves Turnover: Shot Clock (T#15),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+165668,21600101,4,1:34,nan,Muhammad S.FOUL (P2.T3) (B.Spooner),nan,203498,Shabazz Muhammad,MIN,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+165669,21600101,4,1:34,Kilpatrick Free Throw 1 of 2 (13 PTS),nan,108 - 111,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165670,21600101,4,1:34,Kilpatrick Free Throw 2 of 2 (14 PTS),nan,108 - 112,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165671,21600101,4,1:34,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165672,21600101,4,1:25,nan,MISS LaVine 16' Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165673,21600101,4,1:24,Kilpatrick REBOUND (Off:0 Def:5),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165674,21600101,4,1:01,MISS Booker 1' Reverse Layup,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165675,21600101,4,1:00,nan,Wiggins REBOUND (Off:5 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165676,21600101,4,0:56,nan,Wiggins 19' Pullup Jump Shot (36 PTS),110 - 112,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+165677,21600101,4,0:37,Bogdanovic 25' 3PT Jump Shot (11 PTS) (Lopez 1 AST),nan,110 - 115,202711,Bojan Bogdanovic,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+165678,21600101,4,0:37,nan,Timberwolves Timeout: Short (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+165679,21600101,4,0:37,SUB: Whitehead FOR Lopez,nan,nan,201572,Brook Lopez,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+165680,21600101,4,0:28,nan,MISS LaVine 25' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165681,21600101,4,0:27,Hollis-Jefferson REBOUND (Off:0 Def:4),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165682,21600101,4,0:22,Hollis-Jefferson Bad Pass Turnover (P2.T21),Wiggins STEAL (1 STL),nan,1626178,Rondae Hollis-Jefferson,BKN,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Bad Pass
+165683,21600101,4,0:18,Bogdanovic STEAL (1 STL),Wiggins Bad Pass Turnover (P3.T16),nan,203952,Andrew Wiggins,MIN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Turnover ,Bad Pass
+165684,21600101,4,0:15,nan,Wiggins P.FOUL (P2.PN) (S.Twardoski),nan,203952,Andrew Wiggins,MIN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Personal
+165685,21600101,4,0:15,Whitehead Free Throw 1 of 2 (5 PTS),nan,110 - 116,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165686,21600101,4,0:15,Whitehead Free Throw 2 of 2 (6 PTS),nan,110 - 117,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165687,21600101,4,0:15,nan,Timberwolves Timeout: Short (Reg.5 Short 2),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+165688,21600101,4,0:11,nan,MISS Towns 3' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165689,21600101,4,0:10,Bogdanovic REBOUND (Off:0 Def:1),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165690,21600101,4,0:08,nan,Muhammad P.FOUL (P3.PN) (S.Twardoski),nan,203498,Shabazz Muhammad,MIN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Personal
+165691,21600101,4,0:08,Bogdanovic Free Throw 1 of 2 (12 PTS),nan,110 - 118,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165692,21600101,4,0:08,Bogdanovic Free Throw 2 of 2 (13 PTS),nan,110 - 119,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165693,21600101,4,0:03,nan,Wiggins Out of Bounds Lost Ball Turnover (P4.T17),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+165694,21600101,4,0:00,nan,nan,110 - 119,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

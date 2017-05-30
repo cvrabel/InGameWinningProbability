@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+74818,21500601,4,12:00,nan,nan,68 - 51,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+74819,21500601,4,11:46,MISS Howard 7' Hook Shot,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74820,21500601,4,11:45,nan,Irving REBOUND (Off:0 Def:3),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74821,21500601,4,11:36,Terry STEAL (2 STL),Dellavedova Bad Pass Turnover (P2.T13),nan,203521,Matthew Dellavedova,CLE,1891,Jason Terry,HOU,0,nan,nan,Turnover ,Bad Pass
+74822,21500601,4,11:30,Brewer 3' Running Layup (3 PTS) (Terry 1 AST),nan,68 - 53,201147,Corey Brewer,HOU,1891,Jason Terry,HOU,0,nan,nan,Made Shot ,nan
+74823,21500601,4,11:09,Howard BLOCK (2 BLK),MISS Dellavedova 8' Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,2730,Dwight Howard,HOU,Missed Shot ,nan
+74824,21500601,4,11:08,nan,Dellavedova REBOUND (Off:3 Def:1),nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74825,21500601,4,11:06,nan,Thompson  Dunk (4 PTS) (Dellavedova 3 AST),70 - 53,202684,Tristan Thompson,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+74826,21500601,4,10:54,Beverley Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+74827,21500601,4,10:42,nan,Irving 19' Pullup Jump Shot (14 PTS),72 - 53,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+74828,21500601,4,10:30,Terry 7' Driving Floating Jump Shot (5 PTS),nan,72 - 55,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+74829,21500601,4,10:17,nan,Irving 10' Floating Jump Shot (16 PTS),74 - 55,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+74830,21500601,4,10:04,nan,Irving P.FOUL (P2.T1) (J.Goble),nan,202681,Kyrie Irving,CLE,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Personal
+74831,21500601,4,9:51,MISS Brewer 22' Pullup Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74832,21500601,4,9:50,nan,Irving REBOUND (Off:0 Def:4),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74833,21500601,4,9:48,Harden P.FOUL (P2.T1) (J.Goble),nan,nan,201935,James Harden,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+74834,21500601,4,9:34,Harden S.FOUL (P3.T2) (D.Jones),nan,nan,201935,James Harden,HOU,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+74835,21500601,4,9:34,nan,Thompson Free Throw 1 of 2 (5 PTS),75 - 55,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74836,21500601,4,9:34,nan,Thompson Free Throw 2 of 2 (6 PTS),76 - 55,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74837,21500601,4,9:25,nan,Thompson P.FOUL (P3.T2) (D.Jones),nan,202684,Tristan Thompson,CLE,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal
+74838,21500601,4,9:17,MISS Terry 5' Driving Finger Roll Layup,nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74839,21500601,4,9:16,nan,Dellavedova REBOUND (Off:3 Def:2),nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74840,21500601,4,9:12,Harden P.FOUL (P4.T3) (J.Goble),nan,nan,201935,James Harden,HOU,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Personal
+74841,21500601,4,9:12,ROCKETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+74842,21500601,4,9:12,SUB: Jones FOR Howard,nan,nan,2730,Dwight Howard,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+74843,21500601,4,9:12,SUB: Harrell FOR Brewer,nan,nan,201147,Corey Brewer,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+74844,21500601,4,9:00,nan,MISS Irving 2' Driving Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74845,21500601,4,8:59,Jones REBOUND (Off:2 Def:2),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74846,21500601,4,8:53,Beverley 26' 3PT Jump Shot (10 PTS) (Harden 4 AST),nan,76 - 58,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+74847,21500601,4,8:33,nan,MISS Dellavedova 25' 3PT Pullup Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74848,21500601,4,8:33,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74849,21500601,4,8:21,nan,Thompson S.FOUL (P4.T3) (D.Richardson),nan,202684,Tristan Thompson,CLE,203093,Terrence Jones,HOU,0,nan,nan,Foul ,Shooting
+74850,21500601,4,8:21,MISS Jones Free Throw 1 of 2,nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74851,21500601,4,8:21,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74852,21500601,4,8:21,nan,SUB: James FOR Dellavedova,nan,203521,Matthew Dellavedova,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+74853,21500601,4,8:21,SUB: Ariza FOR Terry,nan,nan,1891,Jason Terry,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+74854,21500601,4,8:21,Jones Free Throw 2 of 2 (1 PTS),nan,76 - 59,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74855,21500601,4,8:06,nan,MISS Jefferson 25' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74856,21500601,4,8:05,Harden REBOUND (Off:0 Def:4),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74857,21500601,4,7:59,Harden 1' Running Layup (11 PTS),nan,76 - 61,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+74858,21500601,4,7:59,nan,Cavaliers Timeout: Regular (Reg.4 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+74859,21500601,4,7:59,nan,SUB: Love FOR Jefferson,nan,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+74860,21500601,4,7:44,Harden P.FOUL (P5.T4) (D.Jones),nan,nan,201935,James Harden,HOU,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Personal
+74861,21500601,4,7:30,nan,MISS Irving 20' Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74862,21500601,4,7:29,Harden REBOUND (Off:0 Def:5),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74863,21500601,4,7:16,MISS Ariza 12' Turnaround Fadeaway Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74864,21500601,4,7:15,nan,Love REBOUND (Off:3 Def:9),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74865,21500601,4,7:01,nan,Irving 9' Driving Floating Jump Shot (18 PTS),78 - 61,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+74866,21500601,4,6:47,MISS Jones 26' 3PT Jump Shot,nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74867,21500601,4,6:46,nan,James REBOUND (Off:2 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74868,21500601,4,6:20,nan,Thompson 7' Turnaround Hook Shot (8 PTS) (James 7 AST),80 - 61,202684,Tristan Thompson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+74869,21500601,4,6:04,Beverley 25' 3PT Jump Shot (13 PTS) (Jones 2 AST),nan,80 - 64,201976,Patrick Beverley,HOU,203093,Terrence Jones,HOU,0,nan,nan,Made Shot ,nan
+74870,21500601,4,5:35,nan,MISS Irving 25' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74871,21500601,4,5:35,nan,Thompson REBOUND (Off:2 Def:1),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74872,21500601,4,5:22,Beverley S.FOUL (P3.PN) (D.Jones),nan,nan,201976,Patrick Beverley,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+74873,21500601,4,5:22,nan,MISS Irving Free Throw 1 of 2,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74874,21500601,4,5:22,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74875,21500601,4,5:22,nan,Irving Free Throw 2 of 2 (19 PTS),81 - 64,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74876,21500601,4,5:10,Harrell 5' Cutting Layup Shot (2 PTS) (Harden 5 AST),nan,81 - 66,1626149,Montrezl Harrell,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+74877,21500601,4,4:58,nan,Irving 1' Driving Layup (21 PTS),83 - 66,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+74878,21500601,4,4:48,nan,Love P.FOUL (P2.T4) (D.Jones),nan,201567,Kevin Love,CLE,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal
+74879,21500601,4,4:38,Jones 3' Cutting Layup Shot (3 PTS) (Harrell 1 AST),nan,83 - 68,203093,Terrence Jones,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Made Shot ,nan
+74880,21500601,4,4:16,nan,James 2' Driving Layup (18 PTS) (Shumpert 3 AST),85 - 68,2544,LeBron James,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+74881,21500601,4,4:05,Harden Bad Pass Turnover (P8.T17),Love STEAL (3 STL),nan,201935,James Harden,HOU,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Bad Pass
+74882,21500601,4,4:03,Jones P.FOUL (P2.PN) (D.Richardson),nan,nan,203093,Terrence Jones,HOU,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+74883,21500601,4,4:03,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74884,21500601,4,4:03,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74885,21500601,4,4:03,SUB: Thornton FOR Harden,nan,nan,201935,James Harden,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+74886,21500601,4,4:03,SUB: McDaniels FOR Jones,nan,nan,203093,Terrence Jones,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+74887,21500601,4,4:03,nan,James Free Throw 2 of 2 (19 PTS),86 - 68,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74888,21500601,4,3:49,MISS Harrell 3' Cutting Layup Shot,nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74889,21500601,4,3:48,nan,Love REBOUND (Off:3 Def:10),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74890,21500601,4,3:38,nan,MISS Irving 3' Driving Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74891,21500601,4,3:37,nan,Thompson REBOUND (Off:3 Def:1),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74892,21500601,4,3:37,nan,Thompson  Dunk (10 PTS),88 - 68,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+74893,21500601,4,3:24,Harrell  Dunk (4 PTS) (Ariza 1 AST),nan,88 - 70,1626149,Montrezl Harrell,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+74894,21500601,4,3:15,Beverley Personal Take Foul (P4.PN) (D.Richardson),nan,nan,201976,Patrick Beverley,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+74895,21500601,4,3:15,nan,Irving Free Throw 1 of 2 (22 PTS),89 - 70,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74896,21500601,4,3:15,SUB: Terry FOR Beverley,nan,nan,201976,Patrick Beverley,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+74897,21500601,4,3:15,SUB: Jones FOR Ariza,nan,nan,2772,Trevor Ariza,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+74898,21500601,4,3:15,nan,SUB: Dellavedova FOR James,nan,2544,LeBron James,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+74899,21500601,4,3:15,nan,Irving Free Throw 2 of 2 (23 PTS),90 - 70,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74900,21500601,4,3:00,Jones Traveling Turnover (P1.T18),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+74901,21500601,4,3:00,nan,SUB: Cunningham FOR Irving,nan,202681,Kyrie Irving,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Substitution ,nan
+74902,21500601,4,2:45,nan,MISS Cunningham  3PT Jump Shot,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74903,21500601,4,2:44,Harrell REBOUND (Off:0 Def:1),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74904,21500601,4,2:32,MISS Jones 25' 3PT Jump Shot,nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74905,21500601,4,2:31,nan,Thompson REBOUND (Off:3 Def:2),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74906,21500601,4,2:19,nan,MISS Love 26' 3PT Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74907,21500601,4,2:18,McDaniels REBOUND (Off:0 Def:1),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74908,21500601,4,2:09,McDaniels 4' Driving Floating Bank Jump Shot (2 PTS),nan,90 - 72,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+74909,21500601,4,2:09,nan,Cavaliers Timeout: Regular (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+74910,21500601,4,2:09,nan,SUB: Kaun FOR Love,nan,201567,Kevin Love,CLE,201619,Sasha Kaun,CLE,0,nan,nan,Substitution ,nan
+74911,21500601,4,2:09,nan,SUB: Jefferson FOR Thompson,nan,202684,Tristan Thompson,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+74912,21500601,4,1:56,McDaniels P.FOUL (P1.PN) (D.Jones),nan,nan,203909,KJ McDaniels,HOU,203521,Matthew Dellavedova,CLE,0,nan,nan,Foul ,Personal
+74913,21500601,4,1:56,nan,MISS Dellavedova Free Throw 1 of 2,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74914,21500601,4,1:56,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74915,21500601,4,1:56,nan,Dellavedova Free Throw 2 of 2 (3 PTS),91 - 72,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74916,21500601,4,1:40,Jones Bad Pass Turnover (P2.T19),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+74917,21500601,4,1:13,Terry BLOCK (1 BLK),MISS Cunningham 3' Jump Shot,nan,203099,Jared Cunningham,CLE,0,nan,nan,1891,Jason Terry,HOU,Missed Shot ,nan
+74918,21500601,4,1:12,Thornton REBOUND (Off:1 Def:2),nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74919,21500601,4,1:11,nan,Dellavedova S.FOUL (P3.PN) (D.Richardson),nan,203521,Matthew Dellavedova,CLE,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Shooting
+74920,21500601,4,1:11,Harrell Free Throw 1 of 2 (5 PTS),nan,91 - 73,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74921,21500601,4,1:11,Harrell Free Throw 2 of 2 (6 PTS),nan,91 - 74,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74922,21500601,4,0:58,nan,Shumpert Bad Pass Turnover (P1.T14),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+74923,21500601,4,0:56,MISS Terry 25' 3PT Jump Shot,nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74924,21500601,4,0:56,McDaniels REBOUND (Off:1 Def:1),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74925,21500601,4,0:56,McDaniels  Dunk (4 PTS),nan,91 - 76,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+74926,21500601,4,0:41,nan,MISS Shumpert 26' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+74927,21500601,4,0:41,nan,Kaun REBOUND (Off:1 Def:0),nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74928,21500601,4,0:41,Jones P.FOUL (P3.PN) (D.Richardson),nan,nan,203093,Terrence Jones,HOU,201619,Sasha Kaun,CLE,0,nan,nan,Foul ,Personal
+74929,21500601,4,0:41,nan,MISS Kaun Free Throw 1 of 2,nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74930,21500601,4,0:41,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74931,21500601,4,0:41,nan,MISS Kaun Free Throw 2 of 2,nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74932,21500601,4,0:41,McDaniels REBOUND (Off:1 Def:2),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+74933,21500601,4,0:25,nan,Jefferson S.FOUL (P2.PN) (D.Richardson),nan,2210,Richard Jefferson,CLE,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Shooting
+74934,21500601,4,0:25,MISS Harrell Free Throw 1 of 2,nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+74935,21500601,4,0:25,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+74936,21500601,4,0:25,Harrell Free Throw 2 of 2 (7 PTS),nan,91 - 77,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+74937,21500601,4,0:01,nan,Cavaliers Turnover: Shot Clock (T#15),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+74938,21500601,4,0:00,nan,nan,91 - 77,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

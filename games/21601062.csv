@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+283818,21601062,4,12:00,nan,nan,70 - 95,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+283819,21601062,4,11:47,Christon  Cutting Layup Shot (2 PTS) (Sabonis 2 AST),nan,70 - 97,203902,Semaj Christon,OKC,1627734,Domantas Sabonis,OKC,0,nan,nan,Made Shot ,nan
+283820,21601062,4,11:21,nan,Anderson 4' Driving Floating Jump Shot (4 PTS),72 - 97,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+283821,21601062,4,11:07,MISS Sabonis 2' Driving Layup,nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283822,21601062,4,11:06,Kanter REBOUND (Off:4 Def:6),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283823,21601062,4,11:06,nan,Long S.FOUL (P4.T1) (K.Fitzgerald),nan,1627848,Shawn Long,PHI,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+283824,21601062,4,11:06,MISS Kanter Free Throw 1 of 2,nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283825,21601062,4,11:06,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+283826,21601062,4,11:06,Kanter Free Throw 2 of 2 (22 PTS),nan,72 - 98,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283827,21601062,4,10:43,nan,MISS Stauskas 3' Layup,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283828,21601062,4,10:43,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283829,21601062,4,10:43,nan,Long L.B.FOUL (P5.T2) (K.Fitzgerald),nan,1627848,Shawn Long,PHI,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Loose Ball
+283830,21601062,4,10:43,nan,SUB: Holmes FOR Long,nan,1627848,Shawn Long,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+283831,21601062,4,10:25,Kanter  Layup (24 PTS),nan,72 - 100,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+283832,21601062,4,10:11,nan,Holmes 17' Jump Shot (9 PTS) (Luwawu-Cabarrot 3 AST),74 - 100,1626158,Richaun Holmes,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Made Shot ,nan
+283833,21601062,4,9:46,Christon Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+283834,21601062,4,9:35,nan,MISS Rodriguez 24' 3PT Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283835,21601062,4,9:34,Sabonis REBOUND (Off:0 Def:5),nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283836,21601062,4,9:23,Oladipo Out of Bounds Lost Ball Turnover (P4.T14),nan,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+283837,21601062,4,9:13,nan,MISS Stauskas 25' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283838,21601062,4,9:13,Kanter REBOUND (Off:4 Def:7),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283839,21601062,4,9:04,Christon 1' Driving Layup (4 PTS),nan,74 - 102,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+283840,21601062,4,9:03,nan,76ers Timeout: Regular (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283841,21601062,4,8:49,nan,MISS Anderson 15' Pullup Jump Shot,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283842,21601062,4,8:48,Christon REBOUND (Off:0 Def:1),nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283843,21601062,4,8:29,MISS Christon 24' 3PT Jump Shot,nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283844,21601062,4,8:29,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283845,21601062,4,8:29,nan,Holmes P.FOUL (P5.T3) (K.Fitzgerald),nan,1626158,Richaun Holmes,PHI,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+283846,21601062,4,8:29,SUB: Collison FOR Kanter,nan,nan,202683,Enes Kanter,OKC,2555,Nick Collison,OKC,0,nan,nan,Substitution ,nan
+283847,21601062,4,8:24,Oladipo 1' Reverse Layup (18 PTS) (Collison 1 AST),nan,74 - 104,203506,Victor Oladipo,OKC,2555,Nick Collison,OKC,0,nan,nan,Made Shot ,nan
+283848,21601062,4,7:58,nan,76ers Turnover: Shot Clock (T#9),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+283849,21601062,4,7:47,MISS Abrines 25' 3PT Jump Shot,nan,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283850,21601062,4,7:45,Sabonis REBOUND (Off:1 Def:5),nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283851,21601062,4,7:45,nan,Anderson S.FOUL (P1.T4) (B.Spooner),nan,1626147,Justin Anderson,PHI,1627734,Domantas Sabonis,OKC,0,nan,nan,Foul ,Shooting
+283852,21601062,4,7:45,Sabonis Free Throw 1 of 2 (3 PTS),nan,74 - 105,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283853,21601062,4,7:45,SUB: McDermott FOR Abrines,nan,nan,203518,Alex Abrines,OKC,203926,Doug McDermott,OKC,0,nan,nan,Substitution ,nan
+283854,21601062,4,7:45,MISS Sabonis Free Throw 2 of 2,nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283855,21601062,4,7:44,nan,Anderson REBOUND (Off:0 Def:1),nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283856,21601062,4,7:31,nan,Rodriguez 2' Driving Layup (4 PTS),76 - 105,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+283857,21601062,4,7:09,Christon 15' Pullup Jump Shot (6 PTS),nan,76 - 107,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+283858,21601062,4,7:00,nan,MISS Anderson 24' 3PT Jump Shot,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283859,21601062,4,6:59,Collison REBOUND (Off:0 Def:1),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283860,21601062,4,6:47,Sabonis Offensive Charge Foul (P3.T1) (K.Fitzgerald),nan,nan,1627734,Domantas Sabonis,OKC,1626147,Justin Anderson,PHI,0,nan,nan,Foul ,Offensive Charge
+283861,21601062,4,6:47,Sabonis Foul Turnover (P2.T15),nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+283862,21601062,4,6:29,Sabonis S.FOUL (P4.T2) (B.Spooner),nan,nan,1627734,Domantas Sabonis,OKC,1626147,Justin Anderson,PHI,0,nan,nan,Foul ,Shooting
+283863,21601062,4,6:29,nan,Anderson Free Throw 1 of 2 (5 PTS),77 - 107,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283864,21601062,4,6:29,nan,Anderson Free Throw 2 of 2 (6 PTS),78 - 107,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283865,21601062,4,6:13,MISS Sabonis 4' Turnaround Hook Shot,nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283866,21601062,4,6:12,nan,Holmes REBOUND (Off:0 Def:2),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283867,21601062,4,6:00,nan,Rodriguez 14' Step Back Jump Shot (6 PTS),80 - 107,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+283868,21601062,4,5:44,Collison 21' Jump Shot (2 PTS) (Oladipo 1 AST),nan,80 - 109,2555,Nick Collison,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+283869,21601062,4,5:28,nan,Holmes  Cutting Dunk Shot (11 PTS) (Anderson 1 AST),82 - 109,1626158,Richaun Holmes,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Made Shot ,nan
+283870,21601062,4,5:14,MISS Oladipo 10' Floating Jump Shot,nan,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283871,21601062,4,5:13,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283872,21601062,4,5:13,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+283873,21601062,4,5:13,SUB: Grant FOR Oladipo,nan,nan,203506,Victor Oladipo,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+283874,21601062,4,5:13,SUB: Abrines FOR Sabonis,nan,nan,1627734,Domantas Sabonis,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+283875,21601062,4,5:13,SUB: Cole FOR Christon,nan,nan,203902,Semaj Christon,OKC,202708,Norris Cole,OKC,0,nan,nan,Substitution ,nan
+283876,21601062,4,5:13,nan,SUB: Long FOR Holmes,nan,1626158,Richaun Holmes,PHI,1627848,Shawn Long,PHI,0,nan,nan,Substitution ,nan
+283877,21601062,4,5:01,Collison 1' Cutting Layup Shot (4 PTS) (Cole 1 AST),nan,82 - 111,2555,Nick Collison,OKC,202708,Norris Cole,OKC,0,nan,nan,Made Shot ,nan
+283878,21601062,4,5:01,nan,Anderson S.FOUL (P2.PN) (B.Spooner),nan,1626147,Justin Anderson,PHI,2555,Nick Collison,OKC,0,nan,nan,Foul ,Shooting
+283879,21601062,4,5:01,Collison Free Throw 1 of 1 (5 PTS),nan,82 - 112,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+283880,21601062,4,4:48,nan,MISS Long 3' Layup,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283881,21601062,4,4:47,nan,Long REBOUND (Off:2 Def:3),nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283882,21601062,4,4:47,Collison S.FOUL (P1.T3) (J.Orr),nan,nan,2555,Nick Collison,OKC,1627848,Shawn Long,PHI,0,nan,nan,Foul ,Shooting
+283883,21601062,4,4:47,nan,MISS Long Free Throw 1 of 2,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283884,21601062,4,4:47,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+283885,21601062,4,4:47,nan,Long Free Throw 2 of 2 (7 PTS),83 - 112,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283886,21601062,4,4:27,MISS McDermott 3' Driving Floating Jump Shot,nan,nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283887,21601062,4,4:27,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:2),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283888,21601062,4,4:17,nan,Long 1' Cutting Layup Shot (9 PTS) (Rodriguez 3 AST),85 - 112,1627848,Shawn Long,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+283889,21601062,4,4:05,Cole 18' Pullup Jump Shot (2 PTS),nan,85 - 114,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+283890,21601062,4,3:49,nan,Stauskas  Driving Reverse Layup (19 PTS),87 - 114,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+283891,21601062,4,3:49,Abrines S.FOUL (P2.T4) (K.Fitzgerald),nan,nan,203518,Alex Abrines,OKC,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Shooting
+283892,21601062,4,3:49,nan,Stauskas Free Throw 1 of 1 (20 PTS),88 - 114,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+283893,21601062,4,3:38,MISS McDermott  3PT Jump Shot,nan,nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283894,21601062,4,3:37,Grant REBOUND (Off:2 Def:0),nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283895,21601062,4,3:17,MISS Cole 15' Jump Shot,nan,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283896,21601062,4,3:16,nan,Long REBOUND (Off:2 Def:4),nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283897,21601062,4,3:10,nan,MISS Stauskas 24' 3PT Running Pull-Up Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283898,21601062,4,3:09,Grant REBOUND (Off:2 Def:1),nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283899,21601062,4,3:03,McDermott 2' Running Layup (9 PTS) (Grant 2 AST),nan,88 - 116,203926,Doug McDermott,OKC,203924,Jerami Grant,OKC,0,nan,nan,Made Shot ,nan
+283900,21601062,4,3:02,nan,76ers Timeout: Regular (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+283901,21601062,4,2:41,nan,MISS Rodriguez 20' Pullup Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283902,21601062,4,2:40,Collison REBOUND (Off:0 Def:2),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283903,21601062,4,2:21,Abrines Bad Pass Turnover (P1.T16),Rodriguez STEAL (1 STL),nan,203518,Alex Abrines,OKC,200771,Sergio Rodriguez,PHI,0,nan,nan,Turnover ,Bad Pass
+283904,21601062,4,2:16,nan,MISS Stauskas 2' Running Layup,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283905,21601062,4,2:15,nan,Anderson REBOUND (Off:1 Def:1),nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283906,21601062,4,2:15,nan,Anderson 2' Tip Layup Shot (8 PTS),90 - 116,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+283907,21601062,4,1:57,MISS Grant  3PT Jump Shot,nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283908,21601062,4,1:56,Collison REBOUND (Off:1 Def:2),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283909,21601062,4,1:56,McDermott 2' Layup (11 PTS) (Collison 2 AST),nan,90 - 118,203926,Doug McDermott,OKC,2555,Nick Collison,OKC,0,nan,nan,Made Shot ,nan
+283910,21601062,4,1:42,nan,MISS Anderson 21' Step Back Jump Shot,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283911,21601062,4,1:41,Collison REBOUND (Off:1 Def:3),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283912,21601062,4,1:34,MISS Cole 16' Jump Shot,nan,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283913,21601062,4,1:34,nan,Anderson REBOUND (Off:1 Def:2),nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283914,21601062,4,1:27,Collison Personal Block Foul (P2.PN) (B.Spooner),nan,nan,2555,Nick Collison,OKC,200771,Sergio Rodriguez,PHI,0,nan,nan,Foul ,Personal Block
+283915,21601062,4,1:18,nan,Luwawu-Cabarrot  3PT Jump Shot (3 PTS) (Rodriguez 4 AST),93 - 118,1627789,Timothe Luwawu-Cabarrot,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+283916,21601062,4,1:08,MISS McDermott 18' Jump Shot,nan,nan,203926,Doug McDermott,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283917,21601062,4,1:07,Collison REBOUND (Off:2 Def:3),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283918,21601062,4,1:07,Collison 1' Putback Layup (7 PTS),nan,93 - 120,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+283919,21601062,4,0:54,nan,MISS Anderson 11' Turnaround Jump Shot,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283920,21601062,4,0:53,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283921,21601062,4,0:53,Collison L.B.FOUL (P3.PN) (K.Fitzgerald),nan,nan,2555,Nick Collison,OKC,1627848,Shawn Long,PHI,0,nan,nan,Foul ,Loose Ball
+283922,21601062,4,0:53,nan,Long Free Throw 1 of 2 (10 PTS),94 - 120,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+283923,21601062,4,0:53,nan,Long Free Throw 2 of 2 (11 PTS),95 - 120,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+283924,21601062,4,0:41,McDermott  Driving Reverse Layup (13 PTS) (Cole 2 AST),nan,95 - 122,203926,Doug McDermott,OKC,202708,Norris Cole,OKC,0,nan,nan,Made Shot ,nan
+283925,21601062,4,0:32,Collison BLOCK (1 BLK),MISS Anderson 1' Driving Reverse Layup,nan,1626147,Justin Anderson,PHI,0,nan,nan,2555,Nick Collison,OKC,Missed Shot ,nan
+283926,21601062,4,0:30,nan,Anderson REBOUND (Off:2 Def:2),nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283927,21601062,4,0:27,nan,Long  Cutting Dunk Shot (13 PTS) (Anderson 2 AST),97 - 122,1627848,Shawn Long,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Made Shot ,nan
+283928,21601062,4,0:15,MISS Cole 16' Jump Shot,nan,nan,202708,Norris Cole,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+283929,21601062,4,0:12,nan,Rodriguez REBOUND (Off:0 Def:1),nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+283930,21601062,4,0:01,Abrines STEAL (1 STL),Anderson Lost Ball Turnover (P1.T10),nan,1626147,Justin Anderson,PHI,203518,Alex Abrines,OKC,0,nan,nan,Turnover ,Lost Ball
+283931,21601062,4,0:00,nan,nan,97 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

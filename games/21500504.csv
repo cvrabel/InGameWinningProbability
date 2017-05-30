@@ -1,0 +1,154 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+63001,21500504,4,12:00,nan,nan,77 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+63002,21500504,4,11:41,MISS Clark 25' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63003,21500504,4,11:38,Speights REBOUND (Off:3 Def:3),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63004,21500504,4,11:28,MISS Iguodala 20' Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63005,21500504,4,11:27,nan,Nelson REBOUND (Off:3 Def:3),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63006,21500504,4,11:15,nan,MISS Miller 4' Jump Shot,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63007,21500504,4,11:15,nan,Foye REBOUND (Off:1 Def:0),nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63008,21500504,4,11:06,nan,Barton 25' 3PT Jump Shot (15 PTS) (Foye 3 AST),80 - 90,203115,Will Barton,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+63009,21500504,4,11:06,nan,Nuggets Violation: Delay of game Violation,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+63010,21500504,4,10:42,MISS Livingston 14' Turnaround Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63011,21500504,4,10:41,nan,Miller REBOUND (Off:2 Def:1),nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63012,21500504,4,10:36,nan,MISS Barton 26' 3PT Pullup Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63013,21500504,4,10:34,Thompson REBOUND (Off:0 Def:3),nan,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63014,21500504,4,10:25,Thompson  Dunk (9 PTS) (Livingston 2 AST),nan,80 - 92,201574,Jason Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+63015,21500504,4,10:04,Thompson P.FOUL (P2.T1) (J.Capers),nan,nan,201574,Jason Thompson,GSW,2034,Mike Miller,DEN,0,nan,nan,Foul ,Personal
+63016,21500504,4,9:58,nan,Arthur 13' Jump Shot (8 PTS) (Nelson 4 AST),82 - 92,201589,Darrell Arthur,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+63017,21500504,4,9:34,MISS Thompson 8' Turnaround Bank Shot,nan,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63018,21500504,4,9:34,nan,Barton REBOUND (Off:1 Def:8),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63019,21500504,4,9:22,nan,Arthur 10' Step Back Jump Shot (10 PTS) (Barton 6 AST),84 - 92,201589,Darrell Arthur,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+63020,21500504,4,9:13,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63021,21500504,4,9:13,SUB: Thompson FOR Clark,nan,nan,203546,Ian Clark,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+63022,21500504,4,9:13,SUB: Green FOR Speights,nan,nan,201578,Marreese Speights,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+63023,21500504,4,9:13,SUB: Bogut FOR Thompson,nan,nan,201574,Jason Thompson,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+63024,21500504,4,8:57,MISS Livingston 7' Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63025,21500504,4,8:56,Green REBOUND (Off:2 Def:10),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63026,21500504,4,8:56,MISS Green 1' Tip Layup Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63027,21500504,4,8:55,Green REBOUND (Off:3 Def:10),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63028,21500504,4,8:55,MISS Green 1' Tip Layup Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63029,21500504,4,8:53,Green REBOUND (Off:4 Def:10),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63030,21500504,4,8:52,nan,Miller P.FOUL (P4.T1) (J.VanDuyne),nan,2034,Mike Miller,DEN,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+63031,21500504,4,8:45,MISS Thompson 17' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63032,21500504,4,8:44,nan,Nelson REBOUND (Off:3 Def:4),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63033,21500504,4,8:35,Green STEAL (4 STL),Barton Bad Pass Turnover (P3.T10),nan,203115,Will Barton,DEN,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+63034,21500504,4,8:22,nan,Arthur Violation:Defensive Goaltending (M.Ayotte),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+63035,21500504,4,8:22,Green 2' Driving Layup (27 PTS) (Livingston 3 AST),nan,84 - 94,203110,Draymond Green,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+63036,21500504,4,7:57,nan,MISS Nelson 24' 3PT Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63037,21500504,4,7:57,Iguodala REBOUND (Off:0 Def:2),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63038,21500504,4,7:43,Thompson 3' Reverse Layup (19 PTS) (Green 9 AST),nan,84 - 96,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63039,21500504,4,7:43,nan,Nuggets Timeout: Regular (Reg.4 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63040,21500504,4,7:43,nan,SUB: Gallinari FOR Miller,nan,2034,Mike Miller,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+63041,21500504,4,7:24,nan,Foye 1' Driving Layup (2 PTS) (Gallinari 2 AST),86 - 96,200751,Randy Foye,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+63042,21500504,4,7:08,MISS Thompson 21' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63043,21500504,4,7:07,nan,Barton REBOUND (Off:1 Def:9),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63044,21500504,4,6:49,Bogut P.FOUL (P5.T2) (J.Capers),nan,nan,101106,Andrew Bogut,GSW,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+63045,21500504,4,6:40,nan,Arthur 6' Turnaround Bank Shot (12 PTS) (Barton 7 AST),88 - 96,201589,Darrell Arthur,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+63046,21500504,4,6:23,MISS Thompson 26' 3PT Pullup Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63047,21500504,4,6:22,nan,Barton REBOUND (Off:1 Def:10),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63048,21500504,4,6:10,nan,Barton 16' Jump Shot (17 PTS),90 - 96,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+63049,21500504,4,5:52,Green Bad Pass Turnover (P3.T11),Foye STEAL (1 STL),nan,203110,Draymond Green,GSW,200751,Randy Foye,DEN,0,nan,nan,Turnover ,Bad Pass
+63050,21500504,4,5:44,Iguodala STEAL (1 STL),Barton Lost Ball Turnover (P4.T11),nan,203115,Will Barton,DEN,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Lost Ball
+63051,21500504,4,5:37,Thompson  Running Layup (21 PTS) (Green 10 AST),nan,90 - 98,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63052,21500504,4,5:21,Thompson STEAL (2 STL),Arthur Bad Pass Turnover (P1.T12),nan,201589,Darrell Arthur,DEN,202691,Klay Thompson,GSW,0,nan,nan,Turnover ,Bad Pass
+63053,21500504,4,5:11,nan,Nelson P.FOUL (P4.T2) (M.Ayotte),nan,2749,Jameer Nelson,DEN,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+63054,21500504,4,5:11,nan,SUB: Harris FOR Nelson,nan,2749,Jameer Nelson,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+63055,21500504,4,5:11,nan,SUB: Faried FOR Arthur,nan,201589,Darrell Arthur,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+63056,21500504,4,5:11,SUB: Clark FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+63057,21500504,4,4:56,WARRIORS Turnover: Shot Clock (T#12),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+63058,21500504,4,4:47,nan,Faried 2' Driving Layup (8 PTS) (Foye 4 AST),92 - 98,202702,Kenneth Faried,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+63059,21500504,4,4:23,MISS Iguodala 16' Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63060,21500504,4,4:19,nan,Faried REBOUND (Off:6 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63061,21500504,4,4:15,nan,MISS Barton 27' 3PT Pullup Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63062,21500504,4,4:14,Green REBOUND (Off:4 Def:11),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63063,21500504,4,4:05,Clark 3' Driving Layup (13 PTS) (Green 11 AST),nan,92 - 100,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63064,21500504,4,4:03,nan,Nuggets Timeout: Short (Reg.4 Short 2),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+63065,21500504,4,4:03,nan,SUB: Nelson FOR Foye,nan,200751,Randy Foye,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+63066,21500504,4,3:47,nan,Harris 25' 3PT Pullup Jump Shot (11 PTS) (Nelson 5 AST),95 - 100,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+63067,21500504,4,3:31,MISS Thompson 24' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63068,21500504,4,3:31,nan,Barton REBOUND (Off:1 Def:11),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63069,21500504,4,3:22,nan,Faried 2' Driving Layup (10 PTS) (Nelson 6 AST),97 - 100,202702,Kenneth Faried,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+63070,21500504,4,3:22,Bogut S.FOUL (P6.T3) (J.Capers),nan,nan,101106,Andrew Bogut,GSW,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+63071,21500504,4,3:22,SUB: Livingston FOR Bogut,nan,nan,101106,Andrew Bogut,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+63072,21500504,4,3:22,nan,Faried Free Throw 1 of 1 (11 PTS),98 - 100,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+63073,21500504,4,3:07,Thompson 6' Driving Bank Shot (23 PTS) (Iguodala 6 AST),nan,98 - 102,202691,Klay Thompson,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+63074,21500504,4,2:42,nan,MISS Barton 7' Running Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63075,21500504,4,2:42,Green REBOUND (Off:4 Def:12),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63076,21500504,4,2:25,MISS Green 26' 3PT Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63077,21500504,4,2:25,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63078,21500504,4,2:25,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+63079,21500504,4,2:05,nan,MISS Nelson 25' 3PT Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63080,21500504,4,2:04,Iguodala REBOUND (Off:0 Def:3),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63081,21500504,4,1:47,MISS Thompson 19' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63082,21500504,4,1:46,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63083,21500504,4,1:28,nan,MISS Gallinari 2' Layup,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63084,21500504,4,1:25,nan,Gallinari REBOUND (Off:3 Def:1),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63085,21500504,4,1:25,nan,MISS Gallinari 1' Layup,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63086,21500504,4,1:23,nan,Nelson REBOUND (Off:4 Def:4),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63087,21500504,4,1:22,nan,MISS Harris 26' 3PT Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63088,21500504,4,1:20,nan,Faried REBOUND (Off:7 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63089,21500504,4,1:15,nan,MISS Barton 16' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63090,21500504,4,1:15,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63091,21500504,4,1:13,Green L.B.FOUL (P2.T4) (J.VanDuyne),nan,nan,203110,Draymond Green,GSW,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Loose Ball
+63092,21500504,4,0:59,Livingston BLOCK (2 BLK),MISS Barton 6' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,2733,Shaun Livingston,GSW,Missed Shot ,nan
+63093,21500504,4,0:58,Green REBOUND (Off:4 Def:13),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63094,21500504,4,0:38,Thompson Lost Ball Turnover (P1.T13),Barton STEAL (2 STL),nan,202691,Klay Thompson,GSW,203115,Will Barton,DEN,0,nan,nan,Turnover ,Lost Ball
+63095,21500504,4,0:34,nan,Barton  Running Dunk (19 PTS) (Faried 4 AST),100 - 102,203115,Will Barton,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Made Shot ,nan
+63096,21500504,4,0:26,WARRIORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63097,21500504,4,0:09,MISS Iguodala 17' Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63098,21500504,4,0:08,nan,Faried REBOUND (Off:7 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63099,21500504,4,0:01,nan,Barton 9' Driving Bank Shot (21 PTS),102 - 102,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+63100,21500504,4,0:00,WARRIORS Timeout: Short (Full 5 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+63101,21500504,4,0:00,nan,nan,102 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+63102,21500504,5,5:00,nan,nan,102 - 102,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+63103,21500504,5,5:00,Jump Ball Green vs. Faried: Tip to Nelson,nan,nan,203110,Draymond Green,GSW,202702,Kenneth Faried,DEN,2749,Jameer Nelson,DEN,Jump Ball ,nan
+63104,21500504,5,4:40,nan,MISS Gallinari 15' Fadeaway Jumper,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63105,21500504,5,4:39,Thompson REBOUND (Off:0 Def:6),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63106,21500504,5,4:29,MISS Thompson  3PT Pullup Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63107,21500504,5,4:29,nan,Gallinari REBOUND (Off:3 Def:2),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63108,21500504,5,4:18,nan,MISS Barton 17' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63109,21500504,5,4:18,nan,Faried REBOUND (Off:8 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63110,21500504,5,4:18,Livingston P.FOUL (P5.T1) (M.Ayotte),nan,nan,2733,Shaun Livingston,GSW,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+63111,21500504,5,4:18,SUB: Speights FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,201578,Marreese Speights,GSW,0,nan,nan,Substitution ,nan
+63112,21500504,5,4:11,Green S.FOUL (P3.T2) (J.VanDuyne),nan,nan,203110,Draymond Green,GSW,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Shooting
+63113,21500504,5,4:11,nan,Gallinari Free Throw 1 of 2 (23 PTS),103 - 102,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63114,21500504,5,4:11,nan,Gallinari Free Throw 2 of 2 (24 PTS),104 - 102,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63115,21500504,5,3:52,nan,Barton P.FOUL (P2.T1) (J.VanDuyne),nan,203115,Will Barton,DEN,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+63116,21500504,5,3:50,MISS Thompson 18' Pullup Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63117,21500504,5,3:49,nan,Barton REBOUND (Off:1 Def:12),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63118,21500504,5,3:28,nan,MISS Gallinari 27' 3PT Pullup Jump Shot,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63119,21500504,5,3:28,Speights REBOUND (Off:3 Def:4),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63120,21500504,5,3:16,Green 2' Driving Layup (29 PTS) (Thompson 3 AST),nan,104 - 104,203110,Draymond Green,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+63121,21500504,5,2:56,nan,MISS Nelson 26' 3PT Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63122,21500504,5,2:56,Thompson REBOUND (Off:0 Def:7),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63123,21500504,5,2:35,Clark 6' Turnaround Jump Shot (15 PTS) (Green 12 AST),nan,104 - 106,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63124,21500504,5,2:21,nan,MISS Barton 10' Floating Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63125,21500504,5,2:20,nan,Faried REBOUND (Off:9 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63126,21500504,5,2:18,nan,Faried 1' Layup (13 PTS),106 - 106,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+63127,21500504,5,2:05,Clark OFF.Foul (P2) (J.Capers),nan,nan,203546,Ian Clark,GSW,203914,Gary Harris,DEN,0,nan,nan,Foul ,Offensive
+63128,21500504,5,2:05,Clark Foul Turnover (P3.T14),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+63129,21500504,5,1:44,Green P.FOUL (P4.T3) (J.Capers),nan,nan,203110,Draymond Green,GSW,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+63130,21500504,5,1:34,nan,MISS Nelson 20' Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63131,21500504,5,1:34,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63132,21500504,5,1:34,nan,Faried L.B.FOUL (P3.T2) (J.Capers),nan,202702,Kenneth Faried,DEN,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Loose Ball
+63133,21500504,5,1:14,MISS Green 25' 3PT Pullup Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63134,21500504,5,1:12,nan,Gallinari REBOUND (Off:3 Def:3),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63135,21500504,5,0:57,nan,Barton OFF.Foul (P3) (M.Ayotte),nan,203115,Will Barton,DEN,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Offensive
+63136,21500504,5,0:57,nan,Barton Foul Turnover (P5.T13),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+63137,21500504,5,0:57,WARRIORS Timeout: Regular (Full 6 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63138,21500504,5,0:47,Speights 17' Jump Shot (8 PTS) (Green 13 AST),nan,106 - 108,201578,Marreese Speights,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63139,21500504,5,0:33,nan,Faried 8' Driving Bank Shot (15 PTS) (Nelson 7 AST),108 - 108,202702,Kenneth Faried,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+63140,21500504,5,0:15,Thompson 2' Driving Finger Roll Layup (25 PTS) (Green 14 AST),nan,108 - 110,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+63141,21500504,5,0:15,nan,SUB: Arthur FOR Faried,nan,202702,Kenneth Faried,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Substitution ,nan
+63142,21500504,5,0:15,SUB: Livingston FOR Clark,nan,nan,203546,Ian Clark,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+63143,21500504,5,0:06,nan,MISS Barton 11' Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63144,21500504,5,0:06,Speights REBOUND (Off:3 Def:5),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63145,21500504,5,0:06,nan,Harris Personal Take Foul (P2.PN) (M.Ayotte),nan,203914,Gary Harris,DEN,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal Take
+63146,21500504,5,0:06,Thompson Free Throw 1 of 2 (26 PTS),nan,108 - 111,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63147,21500504,5,0:06,MISS Thompson Free Throw 2 of 2,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63148,21500504,5,0:06,nan,Arthur REBOUND (Off:3 Def:1),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63149,21500504,5,0:06,nan,Nuggets Timeout: Regular (Reg.5 Short 2),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63150,21500504,5,0:06,SUB: Clark FOR Speights,nan,nan,201578,Marreese Speights,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+63151,21500504,5,0:01,nan,MISS Barton 26' 3PT Pullup Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63152,21500504,5,0:00,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63153,21500504,5,0:00,nan,nan,108 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

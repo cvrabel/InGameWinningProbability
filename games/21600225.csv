@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+181289,21600225,4,12:00,nan,nan,75 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+181290,21600225,4,11:47,Bradley P.FOUL (P1.T1) (M.Davis),nan,nan,202340,Avery Bradley,BOS,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Personal
+181291,21600225,4,11:38,nan,Bertans 26' 3PT Jump Shot (15 PTS) (Ginobili 2 AST),78 - 74,202722,Davis Bertans,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+181292,21600225,4,11:21,Bradley 8' Driving Floating Jump Shot (16 PTS) (Smart 7 AST),nan,78 - 76,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+181293,21600225,4,11:08,Olynyk STEAL (2 STL),Simmons Lost Ball Turnover (P1.T13),nan,203613,Jonathon Simmons,SAS,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Lost Ball
+181294,21600225,4,11:02,Bradley  3PT Jump Shot (19 PTS) (Rozier 1 AST),nan,78 - 79,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+181295,21600225,4,10:51,Rozier S.FOUL (P2.T2) (M.Davis),nan,nan,1626179,Terry Rozier,BOS,201988,Patty Mills,SAS,0,nan,nan,Foul ,Shooting
+181296,21600225,4,10:51,nan,Mills Free Throw 1 of 2 (12 PTS),79 - 79,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+181297,21600225,4,10:51,nan,Mills Free Throw 2 of 2 (13 PTS),80 - 79,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+181298,21600225,4,10:38,Horford  Cutting Dunk Shot (8 PTS) (Smart 8 AST),nan,80 - 81,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+181299,21600225,4,10:24,nan,MISS Mills 18' Pullup Jump Shot,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181300,21600225,4,10:23,Bradley REBOUND (Off:1 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181301,21600225,4,10:11,MISS Smart 11' Fadeaway Jumper,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181302,21600225,4,10:10,nan,Lee REBOUND (Off:6 Def:3),nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181303,21600225,4,9:57,nan,Simmons 12' Jump Shot (4 PTS) (Lee 3 AST),82 - 81,203613,Jonathon Simmons,SAS,101135,David Lee,SAS,0,nan,nan,Made Shot ,nan
+181304,21600225,4,9:41,MISS Rozier 25' 3PT Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181305,21600225,4,9:40,nan,Lee REBOUND (Off:6 Def:4),nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181306,21600225,4,9:31,nan,Mills Out of Bounds - Bad Pass Turnover Turnover (P4.T14),nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+181307,21600225,4,9:31,Smart T.FOUL (P3.T2) (K.Fitzgerald),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Foul ,Technical
+181308,21600225,4,9:31,nan,Mills Free Throw Technical (14 PTS),83 - 81,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+181309,21600225,4,9:31,nan,SUB: Parker FOR Mills,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+181310,21600225,4,9:31,nan,SUB: Green FOR Ginobili,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+181311,21600225,4,9:31,nan,SUB: Aldridge FOR Lee,nan,101135,David Lee,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+181312,21600225,4,9:21,MISS Olynyk 26' 3PT Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181313,21600225,4,9:20,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181314,21600225,4,9:08,Olynyk STEAL (3 STL),Parker Bad Pass Turnover (P2.T15),nan,2225,Tony Parker,SAS,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Bad Pass
+181315,21600225,4,8:51,MISS Bradley 2' Layup,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181316,21600225,4,8:51,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181317,21600225,4,8:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+181318,21600225,4,8:51,nan,SUB: Leonard FOR Simmons,nan,203613,Jonathon Simmons,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+181319,21600225,4,8:50,Jump Ball Bradley vs. Green: Tip to Parker,nan,nan,202340,Avery Bradley,BOS,201980,Danny Green,SAS,2225,Tony Parker,SAS,Jump Ball ,nan
+181320,21600225,4,8:27,nan,MISS Parker 22' Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181321,21600225,4,8:27,nan,Leonard REBOUND (Off:2 Def:5),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181322,21600225,4,8:23,nan,Green 27' 3PT Jump Shot (11 PTS) (Leonard 3 AST),86 - 81,201980,Danny Green,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+181323,21600225,4,8:06,MISS Smart 25' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181324,21600225,4,8:04,nan,Green REBOUND (Off:0 Def:6),nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181325,21600225,4,7:41,nan,MISS Bertans 26' 3PT Fadeaway Jumper,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181326,21600225,4,7:40,Smart REBOUND (Off:3 Def:1),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181327,21600225,4,7:34,Smart 8' Fadeaway Jumper (8 PTS),nan,86 - 83,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181328,21600225,4,7:34,nan,Parker S.FOUL (P1.T1) (K.Fitzgerald),nan,2225,Tony Parker,SAS,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+181329,21600225,4,7:34,Smart Free Throw 1 of 1 (9 PTS),nan,86 - 84,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+181330,21600225,4,7:16,nan,Leonard 25' 3PT Pullup Jump Shot (19 PTS),89 - 84,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181331,21600225,4,6:52,Olynyk 15' Jump Shot (9 PTS) (Bradley 2 AST),nan,89 - 86,203482,Kelly Olynyk,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+181332,21600225,4,6:27,Horford BLOCK (3 BLK),MISS Aldridge 9' Hook Shot,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,201143,Al Horford,BOS,Missed Shot ,nan
+181333,21600225,4,6:26,nan,Aldridge REBOUND (Off:2 Def:1),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181334,21600225,4,6:25,nan,Aldridge 1' Driving Layup (6 PTS),91 - 86,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181335,21600225,4,6:11,Rozier 7' Driving Floating Jump Shot (2 PTS),nan,91 - 88,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181336,21600225,4,6:11,nan,Parker S.FOUL (P2.T2) (J.VanDuyne),nan,2225,Tony Parker,SAS,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Shooting
+181337,21600225,4,6:11,nan,SUB: Lee FOR Bertans,nan,202722,Davis Bertans,SAS,101135,David Lee,SAS,0,nan,nan,Substitution ,nan
+181338,21600225,4,6:11,SUB: Crowder FOR Horford,nan,nan,201143,Al Horford,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+181339,21600225,4,6:11,SUB: Johnson FOR Smart,nan,nan,203935,Marcus Smart,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+181340,21600225,4,6:11,Rozier Free Throw 1 of 1 (3 PTS),nan,91 - 89,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+181341,21600225,4,5:47,nan,MISS Leonard 26' 3PT Jump Shot,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181342,21600225,4,5:45,nan,Lee REBOUND (Off:7 Def:4),nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181343,21600225,4,5:30,Rozier STEAL (2 STL),Lee Lost Ball Turnover (P3.T16),nan,101135,David Lee,SAS,1626179,Terry Rozier,BOS,0,nan,nan,Turnover ,Lost Ball
+181344,21600225,4,5:24,MISS Bradley  3PT Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181345,21600225,4,5:22,nan,Lee REBOUND (Off:7 Def:5),nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181346,21600225,4,5:17,nan,Lee 8' Hook Bank Shot (14 PTS) (Green 2 AST),93 - 89,101135,David Lee,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+181347,21600225,4,5:17,Johnson S.FOUL (P4.T3) (J.VanDuyne),nan,nan,101161,Amir Johnson,BOS,101135,David Lee,SAS,0,nan,nan,Foul ,Shooting
+181348,21600225,4,5:17,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+181349,21600225,4,5:17,SUB: Thomas FOR Johnson,nan,nan,101161,Amir Johnson,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+181350,21600225,4,5:17,SUB: Smart FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+181351,21600225,4,5:17,SUB: Horford FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+181352,21600225,4,5:17,nan,SUB: Mills FOR Parker,nan,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+181353,21600225,4,5:17,nan,Lee Free Throw 1 of 1 (15 PTS),94 - 89,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+181354,21600225,4,5:04,Thomas 1' Driving Finger Roll Layup (19 PTS),nan,94 - 91,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181355,21600225,4,4:42,Crowder P.FOUL (P3.T4) (K.Fitzgerald),nan,nan,203109,Jae Crowder,BOS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal
+181356,21600225,4,4:42,nan,SUB: Ginobili FOR Lee,nan,101135,David Lee,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+181357,21600225,4,4:37,nan,Mills 22' Pullup Jump Shot (16 PTS),96 - 91,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181358,21600225,4,4:21,MISS Thomas 2' Layup,Aldridge BLOCK (2 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,200746,LaMarcus Aldridge,SAS,Missed Shot ,nan
+181359,21600225,4,4:21,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181360,21600225,4,4:19,Crowder  3PT Jump Shot (18 PTS) (Smart 9 AST),nan,96 - 94,203109,Jae Crowder,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+181361,21600225,4,3:58,nan,Aldridge 16' Jump Shot (8 PTS) (Leonard 4 AST),98 - 94,200746,LaMarcus Aldridge,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+181362,21600225,4,3:44,nan,Mills P.FOUL (P2.T3) (M.Davis),nan,201988,Patty Mills,SAS,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+181363,21600225,4,3:37,MISS Thomas  Driving Finger Roll Layup,Leonard BLOCK (2 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,202695,Kawhi Leonard,SAS,Missed Shot ,nan
+181364,21600225,4,3:36,nan,Leonard REBOUND (Off:2 Def:6),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181365,21600225,4,3:26,nan,Leonard 7' Turnaround Fadeaway (21 PTS),100 - 94,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181366,21600225,4,3:07,Horford  Cutting Dunk Shot (10 PTS) (Smart 10 AST),nan,100 - 96,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+181367,21600225,4,2:50,nan,MISS Leonard 25' 3PT Jump Shot,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181368,21600225,4,2:48,nan,Ginobili REBOUND (Off:1 Def:1),nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181369,21600225,4,2:47,nan,Spurs Timeout: Regular (Reg.4 Short 1),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+181370,21600225,4,2:39,nan,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T17),nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+181371,21600225,4,2:22,MISS Smart 8' Floating Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181372,21600225,4,2:21,nan,Leonard REBOUND (Off:2 Def:7),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181373,21600225,4,2:18,Crowder P.FOUL (P4.PN) (K.Fitzgerald),nan,nan,203109,Jae Crowder,BOS,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+181374,21600225,4,2:18,nan,Leonard Free Throw 1 of 2 (22 PTS),101 - 96,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+181375,21600225,4,2:18,nan,Leonard Free Throw 2 of 2 (23 PTS),102 - 96,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+181376,21600225,4,1:56,MISS Horford 7' Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181377,21600225,4,1:55,nan,Green REBOUND (Off:0 Def:7),nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181378,21600225,4,1:39,Horford P.FOUL (P3.PN) (K.Fitzgerald),nan,nan,201143,Al Horford,BOS,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+181379,21600225,4,1:39,nan,Leonard Free Throw 1 of 2 (24 PTS),103 - 96,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+181380,21600225,4,1:39,nan,Leonard Free Throw 2 of 2 (25 PTS),104 - 96,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+181381,21600225,4,1:39,CELTICS Timeout: Short (Full 4 Short 2),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+181382,21600225,4,1:32,Thomas 8' Driving Bank Shot (21 PTS) (Crowder 5 AST),nan,104 - 98,202738,Isaiah Thomas,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+181383,21600225,4,1:11,nan,MISS Leonard 17' Fadeaway Jumper,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181384,21600225,4,1:10,Horford REBOUND (Off:2 Def:8),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181385,21600225,4,1:00,Thomas 24' 3PT Jump Shot (24 PTS) (Bradley 3 AST),nan,104 - 101,202738,Isaiah Thomas,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+181386,21600225,4,0:44,nan,Mills 24' 3PT Jump Shot (19 PTS) (Aldridge 4 AST),107 - 101,201988,Patty Mills,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+181387,21600225,4,0:44,CELTICS Timeout: Short (Full 4 Short 3),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+181388,21600225,4,0:39,Horford  Driving Dunk (12 PTS),nan,107 - 103,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+181389,21600225,4,0:39,nan,Spurs Timeout: Short (Reg.4 Short 2),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+181390,21600225,4,0:18,nan,MISS Ginobili  3PT Jump Shot,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181391,21600225,4,0:18,nan,Aldridge REBOUND (Off:3 Def:1),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181392,21600225,4,0:17,Bradley Personal Take Foul (P2.PN) (J.VanDuyne),nan,nan,202340,Avery Bradley,BOS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal Take
+181393,21600225,4,0:17,nan,Aldridge Free Throw 1 of 2 (9 PTS),108 - 103,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+181394,21600225,4,0:17,nan,Aldridge Free Throw 2 of 2 (10 PTS),109 - 103,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+181395,21600225,4,0:12,MISS Thomas 25' 3PT Jump Shot,Green BLOCK (3 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,201980,Danny Green,SAS,Missed Shot ,nan
+181396,21600225,4,0:12,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181397,21600225,4,0:10,nan,Aldridge P.FOUL (P2.T4) (J.VanDuyne),nan,200746,LaMarcus Aldridge,SAS,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Personal
+181398,21600225,4,0:03,MISS Crowder 26' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+181399,21600225,4,0:03,nan,Leonard REBOUND (Off:2 Def:8),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+181400,21600225,4,0:00,nan,nan,109 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

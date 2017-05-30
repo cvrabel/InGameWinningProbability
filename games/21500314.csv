@@ -1,0 +1,138 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+39610,21500314,4,12:00,nan,nan,111 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+39611,21500314,4,11:46,nan,MISS Rush 1' Driving Layup,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39612,21500314,4,11:46,Budinger REBOUND (Off:2 Def:1),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39613,21500314,4,11:38,Budinger 25' 3PT Jump Shot (5 PTS) (Ellis 4 AST),nan,111 - 86,201978,Chase Budinger,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+39614,21500314,4,11:16,nan,MISS Clark 8' Running Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39615,21500314,4,11:16,Ellis REBOUND (Off:0 Def:1),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39616,21500314,4,11:09,nan,Ezeli S.FOUL (P2.T1) (J.Orr),nan,203105,Festus Ezeli,GSW,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+39617,21500314,4,11:09,Hill Free Throw 1 of 2 (5 PTS),nan,111 - 87,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+39618,21500314,4,11:09,Hill Free Throw 2 of 2 (6 PTS),nan,111 - 88,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+39619,21500314,4,10:48,nan,MISS Ezeli 12' Hook Shot,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39620,21500314,4,10:47,nan,Rush REBOUND (Off:1 Def:0),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39621,21500314,4,10:47,nan,Rush 1' Tip Layup Shot (7 PTS),113 - 88,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+39622,21500314,4,10:27,Budinger 1' Driving Finger Roll Layup (7 PTS),nan,113 - 90,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39623,21500314,4,10:14,nan,MISS Clark 24' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39624,21500314,4,10:12,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39625,21500314,4,10:04,nan,Clark P.FOUL (P3.T2) (J.Orr),nan,203546,Ian Clark,GSW,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal
+39626,21500314,4,9:52,Ellis 21' Jump Shot (5 PTS) (Hill 2 AST),nan,113 - 92,101145,Monta Ellis,IND,201941,Jordan Hill,IND,0,nan,nan,Made Shot ,nan
+39627,21500314,4,9:32,nan,MISS Rush 24' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39628,21500314,4,9:30,nan,Rush REBOUND (Off:2 Def:0),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39629,21500314,4,9:20,Ellis BLOCK (1 BLK),MISS Iguodala 13' Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,101145,Monta Ellis,IND,Missed Shot ,nan
+39630,21500314,4,9:19,S. Hill REBOUND (Off:0 Def:3),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39631,21500314,4,9:13,nan,Rush S.FOUL (P1.T3) (J.Phillips),nan,201575,Brandon Rush,GSW,201978,Chase Budinger,IND,0,nan,nan,Foul ,Shooting
+39632,21500314,4,9:13,Budinger Free Throw 1 of 3 (8 PTS),nan,113 - 93,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+39633,21500314,4,9:13,Budinger Free Throw 2 of 3 (9 PTS),nan,113 - 94,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+39634,21500314,4,9:13,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+39635,21500314,4,9:13,Budinger Free Throw 3 of 3 (10 PTS),nan,113 - 95,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+39636,21500314,4,8:54,nan,MISS Clark 11' Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39637,21500314,4,8:53,nan,Ezeli REBOUND (Off:2 Def:2),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39638,21500314,4,8:53,S. Hill S.FOUL (P2.T1) (J.Orr),nan,nan,203524,Solomon Hill,IND,203105,Festus Ezeli,GSW,0,nan,nan,Foul ,Shooting
+39639,21500314,4,8:53,nan,MISS Ezeli Free Throw 1 of 2,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+39640,21500314,4,8:53,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+39641,21500314,4,8:53,SUB: Miles FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+39642,21500314,4,8:53,nan,MISS Ezeli Free Throw 2 of 2,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+39643,21500314,4,8:53,S. Hill REBOUND (Off:0 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39644,21500314,4,8:34,MISS Ellis 27' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39645,21500314,4,8:33,nan,Ezeli REBOUND (Off:2 Def:3),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39646,21500314,4,8:14,nan,Livingston 15' Pullup Jump Shot (8 PTS),115 - 95,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+39647,21500314,4,8:03,Hill 1' Cutting Layup Shot (8 PTS) (Miles 1 AST),nan,115 - 97,201941,Jordan Hill,IND,101139,CJ Miles,IND,0,nan,nan,Made Shot ,nan
+39648,21500314,4,7:40,nan,Rush 26' 3PT Jump Shot (10 PTS) (Clark 2 AST),118 - 97,201575,Brandon Rush,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+39649,21500314,4,7:22,Miles 26' 3PT Jump Shot (21 PTS) (S. Hill 1 AST),nan,118 - 100,101139,CJ Miles,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+39650,21500314,4,7:11,nan,Rush 26' 3PT Jump Shot (13 PTS) (Iguodala 5 AST),121 - 100,201575,Brandon Rush,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+39651,21500314,4,6:46,Ellis 9' Running Jump Shot (7 PTS),nan,121 - 102,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39652,21500314,4,6:30,nan,Ezeli 3 Second Violation Turnover (P1.T13),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+39653,21500314,4,6:17,MISS Hill 2' Layup,Iguodala BLOCK (1 BLK),nan,201941,Jordan Hill,IND,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+39654,21500314,4,6:17,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39655,21500314,4,6:14,Miles 26' 3PT Step Back Jump Shot (24 PTS) (S. Hill 2 AST),nan,121 - 105,101139,CJ Miles,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+39656,21500314,4,5:53,nan,MISS Rush 25' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39657,21500314,4,5:52,nan,Rush REBOUND (Off:3 Def:0),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39658,21500314,4,5:49,S. Hill BLOCK (1 BLK),MISS Rush 1' Layup,nan,201575,Brandon Rush,GSW,0,nan,nan,203524,Solomon Hill,IND,Missed Shot ,nan
+39659,21500314,4,5:49,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39660,21500314,4,5:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+39661,21500314,4,5:49,SUB: George FOR S. Hill,nan,nan,203524,Solomon Hill,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+39662,21500314,4,5:49,nan,SUB: Thompson FOR Rush,nan,201575,Brandon Rush,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+39663,21500314,4,5:49,nan,SUB: Curry FOR Ezeli,nan,203105,Festus Ezeli,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+39664,21500314,4,5:49,nan,SUB: Green FOR Clark,nan,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+39665,21500314,4,5:36,George 26' 3PT Jump Shot (30 PTS),nan,121 - 108,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39666,21500314,4,5:16,nan,Green 2' Layup (6 PTS) (Curry 10 AST),123 - 108,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+39667,21500314,4,5:06,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39668,21500314,4,5:05,Hill REBOUND (Off:2 Def:1),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39669,21500314,4,5:03,Hill 1' Putback Layup (10 PTS),nan,123 - 110,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39670,21500314,4,4:45,nan,MISS Green 3' Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39671,21500314,4,4:45,Ellis REBOUND (Off:0 Def:2),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39672,21500314,4,4:42,Ellis Bad Pass Turnover (P4.T14),Iguodala STEAL (4 STL),nan,101145,Monta Ellis,IND,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Bad Pass
+39673,21500314,4,4:36,Ellis STEAL (1 STL),Curry Bad Pass Turnover (P4.T14),nan,201939,Stephen Curry,GSW,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Bad Pass
+39674,21500314,4,4:31,MISS George 26' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39675,21500314,4,4:30,nan,Curry REBOUND (Off:0 Def:6),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39676,21500314,4,4:21,nan,MISS Thompson 27' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39677,21500314,4,4:21,George REBOUND (Off:2 Def:5),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39678,21500314,4,4:16,SUB: S. Hill FOR Hill,nan,nan,201941,Jordan Hill,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+39679,21500314,4,4:06,Ellis 2' Driving Finger Roll Layup (9 PTS),nan,123 - 112,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39680,21500314,4,3:49,nan,Curry 19' Step Back Jump Shot (25 PTS),125 - 112,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+39681,21500314,4,3:41,MISS Miles 1' Layup,Green BLOCK (1 BLK),nan,101139,CJ Miles,IND,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+39682,21500314,4,3:38,S. Hill REBOUND (Off:1 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39683,21500314,4,3:38,MISS S. Hill  Layup,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39684,21500314,4,3:36,Budinger REBOUND (Off:3 Def:1),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39685,21500314,4,3:36,MISS Budinger 1' Tip Layup Shot,nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39686,21500314,4,3:35,Miles REBOUND (Off:1 Def:2),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39687,21500314,4,3:26,MISS George 1' Driving Layup,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39688,21500314,4,3:25,George REBOUND (Off:3 Def:5),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39689,21500314,4,3:25,George 1' Tip Layup Shot (32 PTS),nan,125 - 114,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39690,21500314,4,3:07,nan,MISS Curry 27' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39691,21500314,4,3:05,nan,Green REBOUND (Off:1 Def:6),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39692,21500314,4,3:05,nan,Green 1' Tip Layup Shot (8 PTS),127 - 114,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+39693,21500314,4,2:56,Ellis Bad Pass Turnover (P5.T15),Iguodala STEAL (5 STL),nan,101145,Monta Ellis,IND,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Bad Pass
+39694,21500314,4,2:45,nan,MISS Green 1' Layup,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39695,21500314,4,2:45,Budinger REBOUND (Off:3 Def:2),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39696,21500314,4,2:37,PACERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+39697,21500314,4,2:24,S. Hill  Dunk (2 PTS) (Ellis 5 AST),nan,127 - 116,203524,Solomon Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+39698,21500314,4,2:06,nan,MISS Thompson 25' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39699,21500314,4,2:05,Miles REBOUND (Off:1 Def:3),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39700,21500314,4,1:57,MISS Ellis 1' Running Layup,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39701,21500314,4,1:57,nan,Green REBOUND (Off:1 Def:7),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39702,21500314,4,1:43,nan,MISS Curry 5' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39703,21500314,4,1:43,Budinger REBOUND (Off:3 Def:3),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39704,21500314,4,1:37,S. Hill 1' Running Layup (4 PTS),nan,127 - 118,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39705,21500314,4,1:19,nan,MISS Thompson 20' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39706,21500314,4,1:18,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39707,21500314,4,1:18,nan,nan,nan,491,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+39708,21500314,4,1:15,S. Hill STEAL (1 STL),Thompson Bad Pass Turnover (P4.T15),nan,202691,Klay Thompson,GSW,203524,Solomon Hill,IND,0,nan,nan,Turnover ,Bad Pass
+39709,21500314,4,1:00,MISS George 26' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39710,21500314,4,0:58,S. Hill REBOUND (Off:2 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39711,21500314,4,0:58,nan,Green P.FOUL (P4.T4) (J.Orr),nan,203110,Draymond Green,GSW,203524,Solomon Hill,IND,0,nan,nan,Foul ,Personal
+39712,21500314,4,0:54,MISS Budinger 1' Layup,nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39713,21500314,4,0:54,Budinger REBOUND (Off:4 Def:3),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39714,21500314,4,0:54,Budinger  Putback Layup (12 PTS),nan,127 - 120,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39715,21500314,4,0:54,nan,Livingston S.FOUL (P2.PN) (J.Phillips),nan,2733,Shaun Livingston,GSW,201978,Chase Budinger,IND,0,nan,nan,Foul ,Shooting
+39716,21500314,4,0:54,nan,SUB: Rush FOR Thompson,nan,202691,Klay Thompson,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+39717,21500314,4,0:54,MISS Budinger Free Throw 1 of 1,nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+39718,21500314,4,0:52,S. Hill REBOUND (Off:3 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39719,21500314,4,0:47,MISS Miles 29' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39720,21500314,4,0:47,nan,Curry REBOUND (Off:0 Def:7),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39721,21500314,4,0:47,S. Hill P.FOUL (P3.T2) (J.Orr),nan,nan,203524,Solomon Hill,IND,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+39722,21500314,4,0:35,nan,Curry 3' Driving Finger Roll Layup (27 PTS),129 - 120,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+39723,21500314,4,0:27,MISS S. Hill 2' Layup,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39724,21500314,4,0:26,S. Hill REBOUND (Off:4 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39725,21500314,4,0:26,MISS S. Hill 2' Tip Layup Shot,nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39726,21500314,4,0:26,S. Hill REBOUND (Off:5 Def:4),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39727,21500314,4,0:26,S. Hill 1' Putback Layup (6 PTS),nan,129 - 122,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+39728,21500314,4,0:24,Ellis P.FOUL (P2.PN) (M.Ayotte),nan,nan,101145,Monta Ellis,IND,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+39729,21500314,4,0:24,nan,Green T.FOUL (P4.PN) (M.Ayotte),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+39730,21500314,4,0:24,George Free Throw Technical (33 PTS),nan,129 - 123,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+39731,21500314,4,0:24,nan,MISS Curry Free Throw 1 of 2,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+39732,21500314,4,0:24,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+39733,21500314,4,0:24,SUB: Hill FOR Miles,nan,nan,101139,CJ Miles,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+39734,21500314,4,0:24,nan,Curry Free Throw 2 of 2 (28 PTS),130 - 123,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+39735,21500314,4,0:24,PACERS Timeout: Short (Full 4 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+39736,21500314,4,0:24,SUB: Miles FOR Hill,nan,nan,201941,Jordan Hill,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+39737,21500314,4,0:20,Ellis Bad Pass Turnover (P6.T16),Green STEAL (1 STL),nan,101145,Monta Ellis,IND,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+39738,21500314,4,0:17,S. Hill Personal Take Foul (P4.PN) (J.Orr),nan,nan,203524,Solomon Hill,IND,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal Take
+39739,21500314,4,0:17,nan,MISS Curry Free Throw 1 of 2,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+39740,21500314,4,0:17,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+39741,21500314,4,0:17,nan,Curry Free Throw 2 of 2 (29 PTS),131 - 123,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+39742,21500314,4,0:17,PACERS Timeout: Regular (Full 5 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+39743,21500314,4,0:12,MISS George 28' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+39744,21500314,4,0:10,nan,Green REBOUND (Off:1 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+39745,21500314,4,0:06,nan,Warriors Timeout: Short (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+39746,21500314,4,0:00,nan,nan,131 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

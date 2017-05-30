@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+278777,21601020,4,12:00,nan,nan,56 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+278778,21601020,4,11:34,Okafor 1' Layup (8 PTS) (Rodriguez 4 AST),nan,56 - 89,1626143,Jahlil Okafor,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+278779,21601020,4,11:22,nan,MISS Brussino 26' 3PT Jump Shot,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278780,21601020,4,11:19,Rodriguez REBOUND (Off:1 Def:2),nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278781,21601020,4,11:18,nan,Brussino Personal Block Foul (P2.T1) (M.Smith),nan,1627852,Nicolas Brussino,DAL,200771,Sergio Rodriguez,PHI,0,nan,nan,Foul ,Personal Block
+278782,21601020,4,11:02,Rodriguez 28' 3PT Jump Shot (8 PTS) (Stauskas 2 AST),nan,56 - 92,200771,Sergio Rodriguez,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+278783,21601020,4,10:43,nan,MISS Harris 16' Jump Shot,nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278784,21601020,4,10:41,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278785,21601020,4,10:31,nan,MISS Powell 17' Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278786,21601020,4,10:30,Okafor REBOUND (Off:0 Def:2),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278787,21601020,4,10:05,MISS Stauskas 28' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278788,21601020,4,10:04,nan,Mejri REBOUND (Off:0 Def:2),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278789,21601020,4,9:54,Stauskas STEAL (2 STL),Harris Bad Pass Turnover (P1.T13),nan,202412,Manny Harris,DAL,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Bad Pass
+278790,21601020,4,9:50,nan,Mejri Violation:Defensive Goaltending (M.Smith),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+278791,21601020,4,9:50,Anderson 2' Reverse Layup (14 PTS) (Rodriguez 5 AST),nan,56 - 94,1626147,Justin Anderson,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+278792,21601020,4,9:31,nan,MISS Finney-Smith 19' Jump Shot,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278793,21601020,4,9:30,Anderson REBOUND (Off:1 Def:4),nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278794,21601020,4,9:18,Stauskas 26' 3PT Jump Shot (9 PTS) (Anderson 1 AST),nan,56 - 97,203917,Nik Stauskas,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Made Shot ,nan
+278795,21601020,4,9:13,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+278796,21601020,4,9:13,Anderson T.FOUL (P3.T0) (D.Stafford),nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Foul ,Technical
+278797,21601020,4,9:13,nan,Brussino Free Throw Technical (1 PTS),57 - 97,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+278798,21601020,4,9:13,SUB: Long FOR Anderson,nan,nan,1626147,Justin Anderson,PHI,1627848,Shawn Long,PHI,0,nan,nan,Substitution ,nan
+278799,21601020,4,9:13,SUB: Luwawu-Cabarrot FOR Saric,nan,nan,203967,Dario Saric,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+278800,21601020,4,9:01,nan,Harris 1' Driving Reverse Layup (4 PTS) (Powell 1 AST),59 - 97,202412,Manny Harris,DAL,203939,Dwight Powell,DAL,0,nan,nan,Made Shot ,nan
+278801,21601020,4,8:49,Long Lost Ball Turnover (P1.T14),Finney-Smith STEAL (1 STL),nan,1627848,Shawn Long,PHI,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Turnover ,Lost Ball
+278802,21601020,4,8:46,nan,Powell  Running Dunk (5 PTS) (Finney-Smith 1 AST),61 - 97,203939,Dwight Powell,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+278803,21601020,4,8:27,Okafor 10' Turnaround Jump Shot (10 PTS),nan,61 - 99,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+278804,21601020,4,8:12,Luwawu-Cabarrot P.FOUL (P4.T1) (S.Twardoski),nan,nan,1627789,Timothe Luwawu-Cabarrot,PHI,1627852,Nicolas Brussino,DAL,0,nan,nan,Foul ,Personal
+278805,21601020,4,7:59,nan,Powell 14' Step Back Jump Shot (7 PTS) (Brussino 1 AST),63 - 99,203939,Dwight Powell,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Made Shot ,nan
+278806,21601020,4,7:48,nan,Powell P.FOUL (P2.T2) (D.Stafford),nan,203939,Dwight Powell,DAL,1627848,Shawn Long,PHI,0,nan,nan,Foul ,Personal
+278807,21601020,4,7:30,MISS Okafor 20' Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278808,21601020,4,7:29,nan,Brussino REBOUND (Off:0 Def:2),nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278809,21601020,4,7:21,nan,MISS Brussino 15' Jump Shot,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278810,21601020,4,7:20,Okafor REBOUND (Off:0 Def:3),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278811,21601020,4,7:19,Okafor Lost Ball Turnover (P5.T15),Finney-Smith STEAL (2 STL),nan,1626143,Jahlil Okafor,PHI,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Turnover ,Lost Ball
+278812,21601020,4,7:08,Okafor P.FOUL (P3.T2) (M.Smith),nan,nan,1626143,Jahlil Okafor,PHI,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Personal
+278813,21601020,4,7:03,nan,MISS Harris 18' Jump Shot,nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278814,21601020,4,7:02,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278815,21601020,4,6:54,nan,MISS Finney-Smith 25' 3PT Jump Shot,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278816,21601020,4,6:51,Long REBOUND (Off:0 Def:1),nan,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278817,21601020,4,6:35,Okafor OFF.Foul (P4) (D.Stafford),nan,nan,1626143,Jahlil Okafor,PHI,1626257,Salah Mejri,DAL,0,nan,nan,Foul ,Offensive
+278818,21601020,4,6:35,Okafor Foul Turnover (P6.T16),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+278819,21601020,4,6:35,SUB: Anderson FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Substitution ,nan
+278820,21601020,4,6:15,nan,MISS Powell 25' 3PT Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278821,21601020,4,6:14,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278822,21601020,4,6:14,Anderson L.B.FOUL (P4.T3) (D.Stafford),nan,nan,1626147,Justin Anderson,PHI,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Loose Ball
+278823,21601020,4,6:01,Luwawu-Cabarrot S.FOUL (P5.T4) (M.Smith),nan,nan,1627789,Timothe Luwawu-Cabarrot,PHI,1626257,Salah Mejri,DAL,0,nan,nan,Foul ,Shooting
+278824,21601020,4,6:01,nan,MISS Mejri Free Throw 1 of 2,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+278825,21601020,4,6:01,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+278826,21601020,4,6:01,nan,MISS Mejri Free Throw 2 of 2,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+278827,21601020,4,6:00,Rodriguez REBOUND (Off:1 Def:3),nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278828,21601020,4,5:43,MISS Stauskas 26' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278829,21601020,4,5:42,nan,Harris REBOUND (Off:0 Def:3),nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278830,21601020,4,5:33,nan,MISS Mejri 2' Alley Oop Layup,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278831,21601020,4,5:30,Long REBOUND (Off:0 Def:2),nan,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278832,21601020,4,5:27,Luwawu-Cabarrot 1' Layup (9 PTS) (Long 1 AST),nan,63 - 101,1627789,Timothe Luwawu-Cabarrot,PHI,1627848,Shawn Long,PHI,0,nan,nan,Made Shot ,nan
+278833,21601020,4,5:07,nan,Mejri 1' Layup (4 PTS),65 - 101,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+278834,21601020,4,5:06,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+278835,21601020,4,4:46,Rodriguez 3' Turnaround Jump Shot (10 PTS) (Anderson 2 AST),nan,65 - 103,200771,Sergio Rodriguez,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Made Shot ,nan
+278836,21601020,4,4:25,nan,MISS Harris 2' Layup,nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278837,21601020,4,4:23,Anderson REBOUND (Off:1 Def:5),nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278838,21601020,4,4:18,MISS Anderson 24' 3PT Jump Shot,nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278839,21601020,4,4:15,nan,Finney-Smith REBOUND (Off:0 Def:1),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278840,21601020,4,3:55,Stauskas S.FOUL (P1.PN) (M.Smith),nan,nan,203917,Nik Stauskas,PHI,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Shooting
+278841,21601020,4,3:55,nan,MISS Finney-Smith Free Throw 1 of 2,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+278842,21601020,4,3:55,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+278843,21601020,4,3:55,nan,SUB: Ferrell FOR Mejri,nan,1626257,Salah Mejri,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Substitution ,nan
+278844,21601020,4,3:55,nan,Finney-Smith Free Throw 2 of 2 (1 PTS),66 - 103,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+278845,21601020,4,3:41,Rodriguez 2' Driving Layup (12 PTS),nan,66 - 105,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+278846,21601020,4,3:41,nan,Ferrell Shooting Block Foul (P1.T3) (M.Smith),nan,1627812,Yogi Ferrell,DAL,200771,Sergio Rodriguez,PHI,0,nan,nan,Foul ,Shooting Block
+278847,21601020,4,3:41,Rodriguez Free Throw 1 of 1 (13 PTS),nan,66 - 106,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+278848,21601020,4,3:22,Long BLOCK (1 BLK),MISS Finney-Smith 1' Layup,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,1627848,Shawn Long,PHI,Missed Shot ,nan
+278849,21601020,4,3:20,Anderson REBOUND (Off:1 Def:6),nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278850,21601020,4,3:12,Anderson 2' Cutting Finger Roll Layup Shot (16 PTS) (Long 2 AST),nan,66 - 108,1626147,Justin Anderson,PHI,1627848,Shawn Long,PHI,0,nan,nan,Made Shot ,nan
+278851,21601020,4,3:12,nan,Harris S.FOUL (P1.T4) (S.Twardoski),nan,202412,Manny Harris,DAL,1626147,Justin Anderson,PHI,0,nan,nan,Foul ,Shooting
+278852,21601020,4,3:12,Anderson Free Throw 1 of 1 (17 PTS),nan,66 - 109,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+278853,21601020,4,3:01,nan,Powell 2' Layup (9 PTS) (Ferrell 3 AST),68 - 109,203939,Dwight Powell,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+278854,21601020,4,2:47,MISS Stauskas 17' Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278855,21601020,4,2:46,Stauskas REBOUND (Off:2 Def:4),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278856,21601020,4,2:32,MISS Anderson 27' 3PT Step Back Jump Shot,nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278857,21601020,4,2:30,nan,Harris REBOUND (Off:0 Def:4),nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278858,21601020,4,2:24,nan,Powell 11' Pullup Jump Shot (11 PTS) (Harris 1 AST),70 - 109,203939,Dwight Powell,DAL,202412,Manny Harris,DAL,0,nan,nan,Made Shot ,nan
+278859,21601020,4,2:09,MISS Long 25' 3PT Jump Shot,nan,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278860,21601020,4,2:07,nan,Harris REBOUND (Off:0 Def:5),nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278861,21601020,4,2:00,Long BLOCK (2 BLK),MISS Harris 5' Jump Shot,nan,202412,Manny Harris,DAL,0,nan,nan,1627848,Shawn Long,PHI,Missed Shot ,nan
+278862,21601020,4,1:59,nan,Harris REBOUND (Off:1 Def:5),nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278863,21601020,4,1:59,Long BLOCK (3 BLK),MISS Harris 3' Layup,nan,202412,Manny Harris,DAL,0,nan,nan,1627848,Shawn Long,PHI,Missed Shot ,nan
+278864,21601020,4,1:59,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278865,21601020,4,1:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+278866,21601020,4,1:46,nan,MISS Brussino 24' 3PT Jump Shot,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278867,21601020,4,1:45,Stauskas REBOUND (Off:2 Def:5),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278868,21601020,4,1:40,Anderson 1' Running Finger Roll Layup (19 PTS) (Rodriguez 6 AST),nan,70 - 111,1626147,Justin Anderson,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+278869,21601020,4,1:25,nan,MISS Powell  3PT Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278870,21601020,4,1:25,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278871,21601020,4,1:17,Rodriguez S.FOUL (P4.PN) (S.Twardoski),nan,nan,200771,Sergio Rodriguez,PHI,202412,Manny Harris,DAL,0,nan,nan,Foul ,Shooting
+278872,21601020,4,1:17,nan,MISS Harris Free Throw 1 of 2,nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+278873,21601020,4,1:17,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+278874,21601020,4,1:17,nan,Harris Free Throw 2 of 2 (5 PTS),71 - 111,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+278875,21601020,4,1:05,Luwawu-Cabarrot 24' 3PT Jump Shot (12 PTS) (Anderson 3 AST),nan,71 - 114,1627789,Timothe Luwawu-Cabarrot,PHI,1626147,Justin Anderson,PHI,0,nan,nan,Made Shot ,nan
+278876,21601020,4,0:52,nan,Powell 25' 3PT Jump Shot (14 PTS) (Harris 2 AST),74 - 114,203939,Dwight Powell,DAL,202412,Manny Harris,DAL,0,nan,nan,Made Shot ,nan
+278877,21601020,4,0:31,MISS Stauskas 24' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278878,21601020,4,0:29,Long REBOUND (Off:1 Def:2),nan,nan,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278879,21601020,4,0:29,Long 1' Putback Layup (2 PTS),nan,74 - 116,1627848,Shawn Long,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+278880,21601020,4,0:14,nan,MISS Harris 25' 3PT Jump Shot,nan,202412,Manny Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+278881,21601020,4,0:13,Anderson REBOUND (Off:1 Def:7),nan,nan,1626147,Justin Anderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+278882,21601020,4,0:00,nan,nan,74 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

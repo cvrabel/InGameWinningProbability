@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+252167,21600800,4,12:00,nan,nan,100 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+252168,21600800,4,11:40,O'Quinn BLOCK (3 BLK),MISS Nurkic 1' Layup,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+252169,21600800,4,11:38,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252170,21600800,4,11:34,nan,MISS Barton 25' 3PT Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252171,21600800,4,11:33,Ndour REBOUND (Off:1 Def:1),nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252172,21600800,4,11:19,MISS Holiday 25' 3PT Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252173,21600800,4,11:18,nan,Barton REBOUND (Off:4 Def:3),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252174,21600800,4,11:11,nan,Nelson 24' 3PT Jump Shot (13 PTS) (Barton 4 AST),103 - 88,2749,Jameer Nelson,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+252175,21600800,4,10:54,MISS Ndour 1' Driving Layup,Barton BLOCK (1 BLK),nan,1626254,Maurice Ndour,NYK,0,nan,nan,203115,Will Barton,DEN,Missed Shot ,nan
+252176,21600800,4,10:52,nan,Nelson REBOUND (Off:0 Def:4),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252177,21600800,4,10:39,nan,MISS Nelson 25' 3PT Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252178,21600800,4,10:37,O'Quinn REBOUND (Off:1 Def:3),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252179,21600800,4,10:31,MISS Baker 24' 3PT Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252180,21600800,4,10:29,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252181,21600800,4,10:29,SUB: Lee FOR Holiday,nan,nan,203200,Justin Holiday,NYK,201584,Courtney Lee,NYK,0,nan,nan,Substitution ,nan
+252182,21600800,4,10:29,SUB: Porzingis FOR Baker,nan,nan,1627758,Ron Baker,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+252183,21600800,4,10:29,SUB: Anthony FOR Ndour,nan,nan,1626254,Maurice Ndour,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+252184,21600800,4,10:13,nan,Murray 5' Driving Floating Jump Shot (2 PTS),105 - 88,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252185,21600800,4,9:55,O'Quinn 7' Jump Shot (14 PTS) (Jennings 8 AST),nan,105 - 90,203124,Kyle O'Quinn,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252186,21600800,4,9:47,Anthony STEAL (2 STL),Murray Lost Ball Turnover (P3.T14),nan,1627750,Jamal Murray,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Lost Ball
+252187,21600800,4,9:45,nan,Hernangomez P.FOUL (P1.T1) (M.Kogut),nan,1627823,Juan Hernangomez,DEN,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+252188,21600800,4,9:43,nan,Barton P.FOUL (P2.T2) (J.Goble),nan,203115,Will Barton,DEN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal
+252189,21600800,4,9:43,nan,SUB: Chandler FOR Murray,nan,1627750,Jamal Murray,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+252190,21600800,4,9:32,Jennings 24' 3PT Jump Shot (6 PTS) (Porzingis 2 AST),nan,105 - 93,201943,Brandon Jennings,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+252191,21600800,4,9:17,nan,MISS Chandler 4' Jump Shot,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252192,21600800,4,9:16,O'Quinn REBOUND (Off:1 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252193,21600800,4,9:10,nan,Chandler P.FOUL (P2.T3) (M.Kogut),nan,201163,Wilson Chandler,DEN,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+252194,21600800,4,9:06,O'Quinn Bad Pass Turnover (P2.T9),Hernangomez STEAL (1 STL),nan,203124,Kyle O'Quinn,NYK,1627823,Juan Hernangomez,DEN,0,nan,nan,Turnover ,Bad Pass
+252195,21600800,4,9:03,nan,Hernangomez  Dunk (8 PTS),107 - 93,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252196,21600800,4,8:47,MISS Jennings 2' Layup,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252197,21600800,4,8:45,Porzingis REBOUND (Off:1 Def:2),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252198,21600800,4,8:45,MISS Porzingis 2' Tip Layup Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252199,21600800,4,8:43,Porzingis REBOUND (Off:2 Def:2),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252200,21600800,4,8:41,MISS Jennings 24' 3PT Jump Shot,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252201,21600800,4,8:39,O'Quinn REBOUND (Off:2 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252202,21600800,4,8:36,Anthony 12' Jump Shot (14 PTS) (O'Quinn 3 AST),nan,107 - 95,2546,Carmelo Anthony,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+252203,21600800,4,8:19,Lee P.FOUL (P3.T1) (M.Boland),nan,nan,201584,Courtney Lee,NYK,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+252204,21600800,4,8:19,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+252205,21600800,4,8:19,nan,SUB: Jokic FOR Nurkic,nan,203994,Jusuf Nurkic,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+252206,21600800,4,8:13,O'Quinn BLOCK (4 BLK),MISS Jokic 10' Jump Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+252207,21600800,4,8:10,nan,Barton REBOUND (Off:5 Def:3),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252208,21600800,4,8:07,nan,MISS Barton 2' Layup,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252209,21600800,4,8:06,nan,Jokic REBOUND (Off:4 Def:4),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252210,21600800,4,8:06,nan,MISS Jokic 1' Tip Layup Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252211,21600800,4,8:04,nan,Barton REBOUND (Off:6 Def:3),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252212,21600800,4,8:03,nan,Barton 1' Putback Layup (11 PTS),109 - 95,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252213,21600800,4,7:48,O'Quinn 5' Floating Jump Shot (16 PTS) (Anthony 4 AST),nan,109 - 97,203124,Kyle O'Quinn,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+252214,21600800,4,7:25,nan,MISS Hernangomez 10' Jump Shot,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252215,21600800,4,7:24,Lee REBOUND (Off:0 Def:2),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252216,21600800,4,7:02,MISS Porzingis 9' Jump Shot,Barton BLOCK (2 BLK),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,203115,Will Barton,DEN,Missed Shot ,nan
+252217,21600800,4,7:00,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252218,21600800,4,7:00,KNICKS Turnover: Shot Clock (T#10),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+252219,21600800,4,7:00,nan,SUB: Arthur FOR Hernangomez,nan,1627823,Juan Hernangomez,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Substitution ,nan
+252220,21600800,4,6:42,nan,MISS Arthur  3PT Jump Shot,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252221,21600800,4,6:41,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252222,21600800,4,6:41,SUB: Rose FOR O'Quinn,nan,nan,203124,Kyle O'Quinn,NYK,201565,Derrick Rose,NYK,0,nan,nan,Substitution ,nan
+252223,21600800,4,6:33,nan,Jokic 1' Layup (35 PTS) (Arthur 2 AST),111 - 97,203999,Nikola Jokic,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Made Shot ,nan
+252224,21600800,4,6:14,Anthony 25' 3PT Jump Shot (17 PTS),nan,111 - 100,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+252225,21600800,4,6:01,nan,Barton 1' Driving Layup (13 PTS),113 - 100,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252226,21600800,4,5:49,Anthony 25' 3PT Jump Shot (20 PTS) (Jennings 9 AST),nan,113 - 103,2546,Carmelo Anthony,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252227,21600800,4,5:46,nan,Nuggets Timeout: Regular (Reg.4 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+252228,21600800,4,5:46,nan,SUB: Harris FOR Arthur,nan,201589,Darrell Arthur,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+252229,21600800,4,5:32,nan,Jokic 19' Jump Shot (37 PTS) (Nelson 10 AST),115 - 103,203999,Nikola Jokic,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+252230,21600800,4,5:15,Porzingis 2' Driving Layup (17 PTS) (Lee 3 AST),nan,115 - 105,204001,Kristaps Porzingis,NYK,201584,Courtney Lee,NYK,0,nan,nan,Made Shot ,nan
+252231,21600800,4,5:01,nan,Barton 17' Jump Shot (15 PTS),117 - 105,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252232,21600800,4,4:38,Anthony Bad Pass Turnover (P2.T11),Chandler STEAL (2 STL),nan,2546,Carmelo Anthony,NYK,201163,Wilson Chandler,DEN,0,nan,nan,Turnover ,Bad Pass
+252233,21600800,4,4:17,Porzingis BLOCK (1 BLK),MISS Nelson 5' Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+252234,21600800,4,4:14,Lee REBOUND (Off:0 Def:3),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252235,21600800,4,4:10,Rose 1' Driving Reverse Layup (13 PTS) (Jennings 10 AST),nan,117 - 107,201565,Derrick Rose,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252236,21600800,4,3:55,nan,MISS Harris 2' Layup,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252237,21600800,4,3:53,Anthony REBOUND (Off:1 Def:4),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252238,21600800,4,3:45,Lee  3PT Jump Shot (15 PTS) (Jennings 11 AST),nan,117 - 110,201584,Courtney Lee,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252239,21600800,4,3:24,nan,Chandler 2' Driving Reverse Layup (17 PTS),119 - 110,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+252240,21600800,4,3:14,Anthony 25' 3PT Jump Shot (23 PTS) (Jennings 12 AST),nan,119 - 113,2546,Carmelo Anthony,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252241,21600800,4,2:53,nan,Chandler 2' Layup (19 PTS) (Nelson 11 AST),121 - 113,201163,Wilson Chandler,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+252242,21600800,4,2:51,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+252243,21600800,4,2:34,Anthony 8' Jump Shot (25 PTS),nan,121 - 115,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+252244,21600800,4,2:11,nan,Harris 25' 3PT Jump Shot (15 PTS) (Nelson 12 AST),124 - 115,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+252245,21600800,4,2:11,Lee S.FOUL (P4.T2) (M.Boland),nan,nan,201584,Courtney Lee,NYK,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+252246,21600800,4,2:11,nan,Harris Free Throw 1 of 1 (16 PTS),125 - 115,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+252247,21600800,4,2:00,Anthony 24' 3PT Jump Shot (28 PTS) (Jennings 13 AST),nan,125 - 118,2546,Carmelo Anthony,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+252248,21600800,4,1:42,nan,MISS Barton 24' 3PT Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252249,21600800,4,1:40,nan,Harris REBOUND (Off:2 Def:5),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252250,21600800,4,1:22,nan,Nelson 24' 3PT Jump Shot (16 PTS) (Jokic 5 AST),128 - 118,2749,Jameer Nelson,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+252251,21600800,4,1:22,KNICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+252252,21600800,4,1:16,Anthony 24' 3PT Jump Shot (31 PTS) (Lee 4 AST),nan,128 - 121,2546,Carmelo Anthony,NYK,201584,Courtney Lee,NYK,0,nan,nan,Made Shot ,nan
+252253,21600800,4,1:13,Jennings STEAL (1 STL),Nelson Lost Ball Turnover (P2.T15),nan,2749,Jameer Nelson,DEN,201943,Brandon Jennings,NYK,0,nan,nan,Turnover ,Lost Ball
+252254,21600800,4,1:08,MISS Lee 25' 3PT Jump Shot,nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252255,21600800,4,1:06,nan,Barton REBOUND (Off:6 Def:4),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252256,21600800,4,1:06,Lee P.FOUL (P5.T3) (M.Boland),nan,nan,201584,Courtney Lee,NYK,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+252257,21600800,4,0:59,Jennings P.FOUL (P1.PN) (J.Goble),nan,nan,201943,Brandon Jennings,NYK,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Personal
+252258,21600800,4,0:59,nan,Jokic Free Throw 1 of 2 (38 PTS),129 - 121,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+252259,21600800,4,0:59,nan,MISS Jokic Free Throw 2 of 2,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+252260,21600800,4,0:58,Anthony REBOUND (Off:1 Def:5),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252261,21600800,4,0:49,MISS Jennings 3' Driving Layup,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+252262,21600800,4,0:47,nan,Jokic REBOUND (Off:4 Def:5),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+252263,21600800,4,0:36,nan,Jokic 5' Jump Shot (40 PTS) (Harris 2 AST),131 - 121,203999,Nikola Jokic,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+252264,21600800,4,0:20,Anthony 1' Driving Layup (33 PTS),nan,131 - 123,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+252265,21600800,4,0:00,nan,nan,131 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

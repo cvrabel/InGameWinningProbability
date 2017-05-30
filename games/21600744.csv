@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+244995,21600744,4,12:00,nan,nan,73 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+244996,21600744,4,11:44,MISS Leonard 6' Hook Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244997,21600744,4,11:44,nan,Saric REBOUND (Off:2 Def:4),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244998,21600744,4,11:23,Lee S.FOUL (P1.T1) (P.Fraher),nan,nan,101135,David Lee,SAS,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+244999,21600744,4,11:23,nan,Saric Free Throw 1 of 2 (11 PTS),74 - 79,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245000,21600744,4,11:23,nan,Saric Free Throw 2 of 2 (12 PTS),75 - 79,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245001,21600744,4,11:18,Mills Bad Pass Turnover (P1.T14),McConnell STEAL (1 STL),nan,201988,Patty Mills,SAS,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+245002,21600744,4,11:05,Leonard STEAL (2 STL),Ilyasova Bad Pass Turnover (P3.T16),nan,101141,Ersan Ilyasova,PHI,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+245003,21600744,4,10:59,Leonard 1' Running Finger Roll Layup (18 PTS),nan,75 - 81,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+245004,21600744,4,10:39,nan,MISS Okafor 5' Driving Layup,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245005,21600744,4,10:38,Simmons REBOUND (Off:0 Def:2),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245006,21600744,4,10:28,Simmons 6' Hook Shot (7 PTS) (Leonard 4 AST),nan,75 - 83,203613,Jonathon Simmons,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+245007,21600744,4,10:27,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+245008,21600744,4,10:27,SUB: Dedmon FOR Lee,nan,nan,101135,David Lee,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Substitution ,nan
+245009,21600744,4,10:27,SUB: Green FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+245010,21600744,4,10:14,nan,MISS Stauskas 25' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245011,21600744,4,10:13,nan,Saric REBOUND (Off:3 Def:4),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245012,21600744,4,10:08,nan,Saric 3' Putback Layup (14 PTS),77 - 83,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+245013,21600744,4,9:55,Green 7' Floating Jump Shot (12 PTS) (Dedmon 1 AST),nan,77 - 85,201980,Danny Green,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Made Shot ,nan
+245014,21600744,4,9:45,Dedmon P.FOUL (P4.T2) (S.Wright),nan,nan,203473,Dewayne Dedmon,SAS,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+245015,21600744,4,9:36,nan,MISS Stauskas 25' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245016,21600744,4,9:34,nan,Okafor REBOUND (Off:3 Def:5),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245017,21600744,4,9:31,nan,Okafor 2' Putback Layup (9 PTS),79 - 85,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+245018,21600744,4,9:22,nan,Ilyasova S.FOUL (P4.T1) (S.Wright),nan,101141,Ersan Ilyasova,PHI,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+245019,21600744,4,9:22,Simmons Free Throw 1 of 2 (8 PTS),nan,79 - 86,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245020,21600744,4,9:22,Simmons Free Throw 2 of 2 (9 PTS),nan,79 - 87,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245021,21600744,4,9:06,Bertans STEAL (2 STL),Saric Bad Pass Turnover (P4.T17),nan,203967,Dario Saric,PHI,202722,Davis Bertans,SAS,0,nan,nan,Turnover ,Bad Pass
+245022,21600744,4,9:00,MISS Bertans 23' Jump Shot,nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245023,21600744,4,8:58,nan,Okafor REBOUND (Off:3 Def:6),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245024,21600744,4,8:50,Dedmon BLOCK (2 BLK),MISS McConnell 2' Layup,nan,204456,T.J. McConnell,PHI,0,nan,nan,203473,Dewayne Dedmon,SAS,Missed Shot ,nan
+245025,21600744,4,8:50,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245026,21600744,4,8:50,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+245027,21600744,4,8:35,nan,MISS Okafor 7' Turnaround Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245028,21600744,4,8:33,Green REBOUND (Off:1 Def:2),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245029,21600744,4,8:26,nan,Stauskas S.FOUL (P3.T2) (S.Anderson),nan,203917,Nik Stauskas,PHI,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+245030,21600744,4,8:26,Simmons Free Throw 1 of 2 (10 PTS),nan,79 - 88,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245031,21600744,4,8:26,Simmons Free Throw 2 of 2 (11 PTS),nan,79 - 89,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245032,21600744,4,8:13,nan,SUB: Luwawu-Cabarrot FOR Saric,nan,203967,Dario Saric,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+245033,21600744,4,8:01,nan,MISS Stauskas 24' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245034,21600744,4,8:01,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245035,21600744,4,8:01,nan,76ers Turnover: Shot Clock (T#18),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+245036,21600744,4,7:43,Bertans Lost Ball Turnover (P2.T15),McConnell STEAL (2 STL),nan,202722,Davis Bertans,SAS,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Lost Ball
+245037,21600744,4,7:19,nan,MISS Okafor 10' Floating Jump Shot,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245038,21600744,4,7:17,Bertans REBOUND (Off:1 Def:4),nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245039,21600744,4,7:12,Dedmon  Alley Oop Dunk (9 PTS) (Parker 5 AST),nan,79 - 91,203473,Dewayne Dedmon,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+245040,21600744,4,7:12,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+245041,21600744,4,7:12,nan,SUB: Holmes FOR Okafor,nan,1626143,Jahlil Okafor,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+245042,21600744,4,7:12,nan,SUB: Randle FOR Stauskas,nan,203917,Nik Stauskas,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Substitution ,nan
+245043,21600744,4,7:00,nan,Ilyasova 25' 3PT Jump Shot (23 PTS) (Randle 1 AST),82 - 91,101141,Ersan Ilyasova,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Made Shot ,nan
+245044,21600744,4,6:45,MISS Simmons 19' Pullup Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245045,21600744,4,6:43,nan,Randle REBOUND (Off:0 Def:1),nan,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245046,21600744,4,6:25,nan,MISS Holmes 9' Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245047,21600744,4,6:25,Parker REBOUND (Off:0 Def:4),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245048,21600744,4,6:16,MISS Simmons 1' Cutting Finger Roll Layup Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245049,21600744,4,6:15,Bertans REBOUND (Off:2 Def:4),nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245050,21600744,4,6:00,MISS Bertans  3PT Jump Shot,nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245051,21600744,4,5:59,Dedmon REBOUND (Off:2 Def:8),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245052,21600744,4,5:58,nan,McConnell P.FOUL (P2.T3) (S.Wright),nan,204456,T.J. McConnell,PHI,203473,Dewayne Dedmon,SAS,0,nan,nan,Foul ,Personal
+245053,21600744,4,5:58,nan,SUB: Saric FOR Holmes,nan,1626158,Richaun Holmes,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+245054,21600744,4,5:54,Dedmon  Alley Oop Dunk (11 PTS) (Parker 6 AST),nan,82 - 93,203473,Dewayne Dedmon,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+245055,21600744,4,5:35,Green STEAL (2 STL),Saric Bad Pass Turnover (P5.T19),nan,203967,Dario Saric,PHI,201980,Danny Green,SAS,0,nan,nan,Turnover ,Bad Pass
+245056,21600744,4,5:23,MISS Bertans 25' 3PT Jump Shot,nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245057,21600744,4,5:23,nan,Ilyasova REBOUND (Off:2 Def:6),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245058,21600744,4,5:18,Simmons P.FOUL (P2.T3) (S.Anderson),nan,nan,203613,Jonathon Simmons,SAS,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Foul ,Personal
+245059,21600744,4,5:18,SUB: Anderson FOR Bertans,nan,nan,202722,Davis Bertans,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+245060,21600744,4,5:18,SUB: Leonard FOR Simmons,nan,nan,203613,Jonathon Simmons,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+245061,21600744,4,5:11,nan,MISS Saric 24' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245062,21600744,4,5:11,Leonard REBOUND (Off:4 Def:3),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245063,21600744,4,5:04,nan,McConnell S.FOUL (P3.T4) (S.Wright),nan,204456,T.J. McConnell,PHI,203473,Dewayne Dedmon,SAS,0,nan,nan,Foul ,Shooting
+245064,21600744,4,5:04,Dedmon Free Throw 1 of 2 (12 PTS),nan,82 - 94,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245065,21600744,4,5:04,Dedmon Free Throw 2 of 2 (13 PTS),nan,82 - 95,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245066,21600744,4,4:51,nan,MISS Randle 25' 3PT Jump Shot,nan,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245067,21600744,4,4:49,Anderson REBOUND (Off:0 Def:2),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245068,21600744,4,4:44,SUB: Murray FOR Parker,nan,nan,2225,Tony Parker,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Substitution ,nan
+245069,21600744,4,4:40,Murray Bad Pass Turnover (P1.T16),nan,nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+245070,21600744,4,4:29,nan,McConnell Out of Bounds Lost Ball Turnover (P3.T20),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+245071,21600744,4,4:14,Leonard Bad Pass Turnover (P4.T17),Ilyasova STEAL (4 STL),nan,202695,Kawhi Leonard,SAS,101141,Ersan Ilyasova,PHI,0,nan,nan,Turnover ,Bad Pass
+245072,21600744,4,4:06,nan,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245073,21600744,4,4:03,Leonard REBOUND (Off:4 Def:4),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245074,21600744,4,3:54,Anderson 8' Driving Bank Shot (2 PTS) (Leonard 5 AST),nan,82 - 97,203937,Kyle Anderson,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+245075,21600744,4,3:53,nan,76ers Timeout: Short (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+245076,21600744,4,3:53,nan,SUB: Stauskas FOR Randle,nan,1626184,Chasson Randle,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+245077,21600744,4,3:43,nan,MISS Ilyasova 25' 3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245078,21600744,4,3:42,Anderson REBOUND (Off:0 Def:3),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245079,21600744,4,3:33,nan,Ilyasova P.FOUL (P5.PN) (S.Wright),nan,101141,Ersan Ilyasova,PHI,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+245080,21600744,4,3:33,MISS Leonard Free Throw 1 of 2,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245081,21600744,4,3:33,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+245082,21600744,4,3:33,SUB: Anthony FOR Dedmon,nan,nan,203473,Dewayne Dedmon,SAS,201202,Joel Anthony,SAS,0,nan,nan,Substitution ,nan
+245083,21600744,4,3:33,nan,SUB: Rodriguez FOR McConnell,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+245084,21600744,4,3:33,Leonard Free Throw 2 of 2 (19 PTS),nan,82 - 98,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245085,21600744,4,3:18,nan,Saric Offensive Charge Foul (P3.PN) (S.Wright),nan,203967,Dario Saric,PHI,201202,Joel Anthony,SAS,0,nan,nan,Foul ,Offensive Charge
+245086,21600744,4,3:18,nan,Saric Foul Turnover (P6.T21),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+245087,21600744,4,3:18,SUB: Forbes FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,1627854,Bryn Forbes,SAS,0,nan,nan,Substitution ,nan
+245088,21600744,4,3:07,Anderson Bad Pass Turnover (P3.T18),Rodriguez STEAL (2 STL),nan,203937,Kyle Anderson,SAS,200771,Sergio Rodriguez,PHI,0,nan,nan,Turnover ,Bad Pass
+245089,21600744,4,3:01,nan,Ilyasova  Cutting Finger Roll Layup Shot (25 PTS) (Rodriguez 4 AST),84 - 98,101141,Ersan Ilyasova,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+245090,21600744,4,2:44,MISS Forbes 14' Pullup Jump Shot,Stauskas BLOCK (1 BLK),nan,1627854,Bryn Forbes,SAS,0,nan,nan,203917,Nik Stauskas,PHI,Missed Shot ,nan
+245091,21600744,4,2:42,nan,Saric REBOUND (Off:3 Def:5),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245092,21600744,4,2:36,nan,MISS Saric 24' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245093,21600744,4,2:35,Anderson REBOUND (Off:0 Def:4),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245094,21600744,4,2:21,MISS Green 24' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245095,21600744,4,2:20,nan,Ilyasova REBOUND (Off:2 Def:7),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245096,21600744,4,2:09,nan,MISS Rodriguez 19' Step Back Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245097,21600744,4,2:07,Green REBOUND (Off:1 Def:3),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245098,21600744,4,2:00,Murray Offensive Charge Foul (P1.T4) (S.Wright),nan,nan,1627749,Dejounte Murray,SAS,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Offensive Charge
+245099,21600744,4,2:00,Murray Foul Turnover (P2.T19),nan,nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+245100,21600744,4,2:00,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+245101,21600744,4,2:00,SUB: Simmons FOR Green,nan,nan,201980,Danny Green,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+245102,21600744,4,1:59,SUB: Bertans FOR Murray,nan,nan,1627749,Dejounte Murray,SAS,202722,Davis Bertans,SAS,0,nan,nan,Substitution ,nan
+245103,21600744,4,1:50,nan,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245104,21600744,4,1:50,nan,Luwawu-Cabarrot REBOUND (Off:1 Def:0),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245105,21600744,4,1:47,nan,MISS Luwawu-Cabarrot 1' Layup,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245106,21600744,4,1:45,Simmons REBOUND (Off:0 Def:3),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245107,21600744,4,1:36,Anthony  Alley Oop Dunk (4 PTS) (Bertans 3 AST),nan,84 - 100,201202,Joel Anthony,SAS,202722,Davis Bertans,SAS,0,nan,nan,Made Shot ,nan
+245108,21600744,4,1:36,nan,76ers Timeout: Regular (Reg.6 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+245109,21600744,4,1:36,nan,SUB: Randle FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Substitution ,nan
+245110,21600744,4,1:36,nan,SUB: Holmes FOR Saric,nan,203967,Dario Saric,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+245111,21600744,4,1:13,nan,MISS Rodriguez 19' Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245112,21600744,4,1:12,Anderson REBOUND (Off:0 Def:5),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245113,21600744,4,1:05,nan,Rodriguez P.FOUL (P2.PN) (S.Wright),nan,200771,Sergio Rodriguez,PHI,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Personal
+245114,21600744,4,1:05,Anderson Free Throw 1 of 2 (3 PTS),nan,84 - 101,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245115,21600744,4,1:05,Anderson Free Throw 2 of 2 (4 PTS),nan,84 - 102,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245116,21600744,4,0:58,nan,Rodriguez Out of Bounds - Bad Pass Turnover Turnover (P4.T22),nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+245117,21600744,4,0:37,MISS Simmons 25' 3PT Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245118,21600744,4,0:36,nan,Luwawu-Cabarrot REBOUND (Off:1 Def:1),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245119,21600744,4,0:20,nan,Rodriguez 20' Jump Shot (8 PTS),86 - 102,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+245120,21600744,4,0:00,nan,nan,86 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

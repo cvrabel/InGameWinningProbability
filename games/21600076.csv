@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+162626,21600076,4,12:00,nan,nan,79 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+162627,21600076,4,11:41,nan,MISS Turner 6' Jump Bank Shot,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162628,21600076,4,11:40,Mejri REBOUND (Off:0 Def:5),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162629,21600076,4,11:24,Mejri  Cutting Dunk Shot (6 PTS) (Barea 5 AST),nan,79 - 78,1626257,Salah Mejri,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+162630,21600076,4,11:02,nan,McCollum Offensive Charge Foul (P5.T1) (D.Collins),nan,203468,CJ McCollum,POR,200826,J.J. Barea,DAL,0,nan,nan,Foul ,Offensive Charge
+162631,21600076,4,11:02,nan,McCollum Foul Turnover (P1.T13),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+162632,21600076,4,11:02,nan,SUB: Lillard FOR McCollum,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+162633,21600076,4,10:51,MISS Acy 25' 3PT Jump Shot,nan,nan,203112,Quincy Acy,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162634,21600076,4,10:50,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162635,21600076,4,10:36,MISS Barea 5' Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162636,21600076,4,10:35,nan,Lillard REBOUND (Off:0 Def:4),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162637,21600076,4,10:30,nan,MISS Crabbe  3PT Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162638,21600076,4,10:29,Anderson REBOUND (Off:1 Def:1),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162639,21600076,4,10:13,MISS Anderson 11' Turnaround Jump Shot,nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162640,21600076,4,10:13,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162641,21600076,4,10:13,Acy L.B.FOUL (P1.T1) (K.Lane),nan,nan,203112,Quincy Acy,DAL,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Loose Ball
+162642,21600076,4,9:55,nan,Lillard 16' Pullup Jump Shot (29 PTS),81 - 78,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+162643,21600076,4,9:44,MISS Barea 17' Pullup Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162644,21600076,4,9:43,nan,Turner REBOUND (Off:0 Def:6),nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162645,21600076,4,9:43,Mejri P.FOUL (P3.T2) (D.Collins),nan,nan,1626257,Salah Mejri,DAL,202323,Evan Turner,POR,0,nan,nan,Foul ,Personal
+162646,21600076,4,9:28,nan,Lillard 19' Jump Shot (31 PTS) (Crabbe 2 AST),83 - 78,203081,Damian Lillard,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+162647,21600076,4,9:28,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+162648,21600076,4,9:28,SUB: D. Williams FOR Barea,nan,nan,200826,J.J. Barea,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+162649,21600076,4,9:18,Anderson 1' Driving Layup (6 PTS) (D. Williams 5 AST),nan,83 - 80,1626147,Justin Anderson,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+162650,21600076,4,8:56,nan,Turner  3PT Jump Shot (5 PTS) (Harkless 3 AST),86 - 80,202323,Evan Turner,POR,203090,Maurice Harkless,POR,0,nan,nan,Made Shot ,nan
+162651,21600076,4,8:30,MAVERICKS Turnover: Shot Clock (T#9),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+162652,21600076,4,8:18,nan,Lillard 27' 3PT Pullup Jump Shot (34 PTS),89 - 80,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+162653,21600076,4,8:09,MAVERICKS Timeout: Short (Full 4 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+162654,21600076,4,8:09,SUB: Powell FOR Anderson,nan,nan,1626147,Justin Anderson,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+162655,21600076,4,8:09,SUB: Matthews FOR Acy,nan,nan,203112,Quincy Acy,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+162656,21600076,4,8:09,SUB: Barnes FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+162657,21600076,4,8:06,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T10),nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+162658,21600076,4,7:50,nan,MISS Turner  3PT Jump Shot,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162659,21600076,4,7:49,Powell REBOUND (Off:2 Def:4),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162660,21600076,4,7:42,MISS D. Williams 1' Driving Reverse Layup,Plumlee BLOCK (1 BLK),nan,101114,Deron Williams,DAL,0,nan,nan,203486,Mason Plumlee,POR,Missed Shot ,nan
+162661,21600076,4,7:42,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162662,21600076,4,7:38,MISS Barnes 18' Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162663,21600076,4,7:37,Barnes REBOUND (Off:2 Def:7),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162664,21600076,4,7:30,MISS D. Williams 25' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162665,21600076,4,7:28,nan,Turner REBOUND (Off:0 Def:7),nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162666,21600076,4,7:19,Curry S.FOUL (P2.T3) (K.Lane),nan,nan,203552,Seth Curry,DAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+162667,21600076,4,7:19,nan,Lillard Free Throw 1 of 2 (35 PTS),90 - 80,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+162668,21600076,4,7:19,nan,SUB: McCollum FOR Crabbe,nan,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+162669,21600076,4,7:19,nan,SUB: Aminu FOR Harkless,nan,203090,Maurice Harkless,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+162670,21600076,4,7:19,nan,Lillard Free Throw 2 of 2 (36 PTS),91 - 80,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+162671,21600076,4,7:04,Curry 26' 3PT Jump Shot (8 PTS) (D. Williams 6 AST),nan,91 - 83,203552,Seth Curry,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+162672,21600076,4,6:44,nan,MISS Aminu 6' Turnaround Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162673,21600076,4,6:43,Powell REBOUND (Off:2 Def:5),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162674,21600076,4,6:32,Barnes 8' Floating Jump Shot (15 PTS) (Powell 3 AST),nan,91 - 85,203084,Harrison Barnes,DAL,203939,Dwight Powell,DAL,0,nan,nan,Made Shot ,nan
+162675,21600076,4,6:31,nan,Trail Blazers Timeout: Regular (Reg.4 Short 0),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+162676,21600076,4,6:31,nan,nan,nan,453,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+162677,21600076,4,6:09,Powell BLOCK (1 BLK),MISS Turner 8' Jump Shot,nan,202323,Evan Turner,POR,0,nan,nan,203939,Dwight Powell,DAL,Missed Shot ,nan
+162678,21600076,4,6:08,nan,Trail Blazers Rebound,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162679,21600076,4,6:06,nan,MISS Plumlee 18' Jump Shot,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162680,21600076,4,6:05,Curry REBOUND (Off:1 Def:2),nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162681,21600076,4,5:47,MISS Matthews 3' Cutting Layup Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162682,21600076,4,5:46,nan,McCollum REBOUND (Off:1 Def:3),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162683,21600076,4,5:39,nan,Plumlee 1' Running Finger Roll Layup (17 PTS) (McCollum 2 AST),93 - 85,203486,Mason Plumlee,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+162684,21600076,4,5:25,nan,SUB: Crabbe FOR Turner,nan,202323,Evan Turner,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+162685,21600076,4,5:16,Barnes Bad Pass Turnover (P2.T11),Crabbe STEAL (3 STL),nan,203084,Harrison Barnes,DAL,203459,Allen Crabbe,POR,0,nan,nan,Turnover ,Bad Pass
+162686,21600076,4,5:01,nan,MISS Crabbe 24' 3PT Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162687,21600076,4,5:00,D. Williams REBOUND (Off:0 Def:5),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162688,21600076,4,4:53,nan,Plumlee Shooting Block Foul (P2.T2) (S.Wright),nan,203486,Mason Plumlee,POR,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Shooting Block
+162689,21600076,4,4:53,Powell Free Throw 1 of 2 (4 PTS),nan,93 - 86,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+162690,21600076,4,4:53,SUB: Barea FOR Curry,nan,nan,203552,Seth Curry,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+162691,21600076,4,4:53,Powell Free Throw 2 of 2 (5 PTS),nan,93 - 87,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+162692,21600076,4,4:35,nan,McCollum 2' Driving Layup (9 PTS),95 - 87,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+162693,21600076,4,4:33,nan,Trail Blazers Violation: Delay of game Violation,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+162694,21600076,4,4:19,MISS Matthews 17' Step Back Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162695,21600076,4,4:18,nan,Aminu REBOUND (Off:3 Def:6),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162696,21600076,4,4:08,nan,Lillard 16' Driving Floating Jump Shot (38 PTS),97 - 87,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+162697,21600076,4,4:07,MAVERICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+162698,21600076,4,3:49,Powell 19' Jump Shot (7 PTS) (Barea 6 AST),nan,97 - 89,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+162699,21600076,4,3:27,nan,MISS McCollum 10' Jump Shot,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162700,21600076,4,3:26,Barnes REBOUND (Off:2 Def:8),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162701,21600076,4,3:07,Barnes 1' Driving Reverse Layup (17 PTS),nan,97 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+162702,21600076,4,2:46,nan,MISS Aminu  3PT Jump Shot,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162703,21600076,4,2:46,Powell REBOUND (Off:2 Def:6),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162704,21600076,4,2:25,MISS Barea 2' Reverse Layup,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162705,21600076,4,2:23,nan,Aminu REBOUND (Off:3 Def:7),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162706,21600076,4,2:17,nan,Lillard Offensive Charge Foul (P3.T3) (K.Lane),nan,203081,Damian Lillard,POR,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Offensive Charge
+162707,21600076,4,2:17,nan,Lillard Foul Turnover (P1.T14),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+162708,21600076,4,2:17,SUB: Mejri FOR Powell,nan,nan,203939,Dwight Powell,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Substitution ,nan
+162709,21600076,4,2:17,nan,SUB: Harkless FOR Aminu,nan,202329,Al-Farouq Aminu,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+162710,21600076,4,2:02,D. Williams Bad Pass Turnover (P1.T12),Plumlee STEAL (4 STL),nan,101114,Deron Williams,DAL,203486,Mason Plumlee,POR,0,nan,nan,Turnover ,Bad Pass
+162711,21600076,4,1:58,nan,Plumlee  Running Dunk (19 PTS) (Crabbe 3 AST),99 - 91,203486,Mason Plumlee,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+162712,21600076,4,1:58,MAVERICKS Timeout: Regular (Full 6 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+162713,21600076,4,1:58,SUB: Curry FOR Barea,nan,nan,200826,J.J. Barea,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+162714,21600076,4,1:50,D. Williams Bad Pass Turnover (P2.T13),Harkless STEAL (1 STL),nan,101114,Deron Williams,DAL,203090,Maurice Harkless,POR,0,nan,nan,Turnover ,Bad Pass
+162715,21600076,4,1:36,Barnes S.FOUL (P3.T4) (S.Wright),nan,nan,203084,Harrison Barnes,DAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+162716,21600076,4,1:36,nan,Lillard Free Throw 1 of 2 (39 PTS),100 - 91,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+162717,21600076,4,1:36,SUB: Barea FOR D. Williams,nan,nan,101114,Deron Williams,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+162718,21600076,4,1:36,nan,Lillard Free Throw 2 of 2 (40 PTS),101 - 91,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+162719,21600076,4,1:22,Mejri 8' Turnaround Hook Shot (8 PTS),nan,101 - 93,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+162720,21600076,4,1:09,nan,Harkless 1' Alley Oop Layup (9 PTS) (Plumlee 4 AST),103 - 93,203090,Maurice Harkless,POR,203486,Mason Plumlee,POR,0,nan,nan,Made Shot ,nan
+162721,21600076,4,1:02,MISS Barea 24' 3PT Jump Shot,Crabbe BLOCK (1 BLK),nan,200826,J.J. Barea,DAL,0,nan,nan,203459,Allen Crabbe,POR,Missed Shot ,nan
+162722,21600076,4,1:00,nan,McCollum REBOUND (Off:1 Def:4),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162723,21600076,4,0:46,nan,MISS Lillard 28' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+162724,21600076,4,0:45,Mejri REBOUND (Off:0 Def:6),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+162725,21600076,4,0:34,nan,Lillard S.FOUL (P4.T4) (K.Lane),nan,203081,Damian Lillard,POR,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+162726,21600076,4,0:34,nan,nan,nan,553,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+162727,21600076,4,0:34,MISS Matthews Free Throw 1 of 3,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+162728,21600076,4,0:34,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+162729,21600076,4,0:34,Matthews Free Throw 2 of 3 (6 PTS),nan,103 - 94,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+162730,21600076,4,0:34,SUB: Acy FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,203112,Quincy Acy,DAL,0,nan,nan,Substitution ,nan
+162731,21600076,4,0:34,SUB: Finney-Smith FOR Barea,nan,nan,200826,J.J. Barea,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+162732,21600076,4,0:34,SUB: Brussino FOR Curry,nan,nan,203552,Seth Curry,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+162733,21600076,4,0:34,SUB: Hammons FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,1627773,AJ Hammons,DAL,0,nan,nan,Substitution ,nan
+162734,21600076,4,0:34,nan,SUB: Napier FOR Harkless,nan,203090,Maurice Harkless,POR,203894,Shabazz Napier,POR,0,nan,nan,Substitution ,nan
+162735,21600076,4,0:34,nan,SUB: Turner FOR Plumlee,nan,203486,Mason Plumlee,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+162736,21600076,4,0:34,Matthews Free Throw 3 of 3 (7 PTS),nan,103 - 95,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+162737,21600076,4,0:19,Acy P.FOUL (P2.PN) (K.Lane),nan,nan,203112,Quincy Acy,DAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+162738,21600076,4,0:19,nan,Lillard Free Throw 1 of 2 (41 PTS),104 - 95,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+162739,21600076,4,0:19,SUB: Curry FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+162740,21600076,4,0:19,nan,Lillard Free Throw 2 of 2 (42 PTS),105 - 95,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+162741,21600076,4,0:00,nan,nan,105 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

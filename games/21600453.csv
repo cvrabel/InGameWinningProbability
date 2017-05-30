@@ -1,0 +1,124 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+209555,21600453,4,12:00,nan,nan,85 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+209556,21600453,4,11:50,nan,Covington OFF.Foul (P4) (M.Ayotte),nan,203496,Robert Covington,PHI,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Offensive
+209557,21600453,4,11:50,nan,Covington Foul Turnover (P4.T16),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+209558,21600453,4,11:35,Warren 1' Driving Layup (12 PTS),nan,85 - 83,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209559,21600453,4,11:23,nan,Embiid Out of Bounds - Bad Pass Turnover Turnover (P3.T17),nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+209560,21600453,4,11:07,Bledsoe Traveling Turnover (P3.T19),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Turnover ,Traveling
+209561,21600453,4,10:46,Bledsoe BLOCK (3 BLK),MISS Henderson 16' Jump Shot,nan,201945,Gerald Henderson,PHI,0,nan,nan,202339,Eric Bledsoe,PHX,Missed Shot ,nan
+209562,21600453,4,10:43,nan,Rodriguez REBOUND (Off:1 Def:1),nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209563,21600453,4,10:42,nan,MISS Rodriguez 25' 3PT Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209564,21600453,4,10:42,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209565,21600453,4,10:42,nan,76ers Turnover: Shot Clock (T#18),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+209566,21600453,4,10:39,nan,Covington Shooting Block Foul (P5.T1) (H.Workman),nan,203496,Robert Covington,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting Block
+209567,21600453,4,10:39,Bledsoe Free Throw 1 of 2 (9 PTS),nan,85 - 84,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209568,21600453,4,10:39,nan,SUB: Okafor FOR Covington,nan,203496,Robert Covington,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+209569,21600453,4,10:39,nan,SUB: Ilyasova FOR Embiid,nan,203954,Joel Embiid,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+209570,21600453,4,10:39,Bledsoe Free Throw 2 of 2 (10 PTS),nan,85 - 85,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209571,21600453,4,10:28,Chandler P.FOUL (P2.T1) (H.Workman),nan,nan,2199,Tyson Chandler,PHX,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+209572,21600453,4,10:20,nan,Saric 25' 3PT Jump Shot (8 PTS) (Rodriguez 5 AST),88 - 85,203967,Dario Saric,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+209573,21600453,4,10:03,Tucker 24' 3PT Jump Shot (13 PTS) (Warren 2 AST),nan,88 - 88,200782,PJ Tucker,PHX,203933,TJ Warren,PHX,0,nan,nan,Made Shot ,nan
+209574,21600453,4,9:49,nan,Ilyasova Out of Bounds - Bad Pass Turnover Turnover (P5.T19),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+209575,21600453,4,9:40,Bledsoe 1' Driving Layup (12 PTS),nan,88 - 90,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209576,21600453,4,9:39,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209577,21600453,4,9:39,nan,SUB: McConnell FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+209578,21600453,4,9:16,nan,MISS Ilyasova 24' 3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209579,21600453,4,9:14,nan,Saric REBOUND (Off:2 Def:2),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209580,21600453,4,8:54,nan,Okafor  Cutting Dunk Shot (6 PTS) (McConnell 2 AST),90 - 90,1626143,Jahlil Okafor,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+209581,21600453,4,8:32,Bledsoe 15' Fadeaway Jumper (14 PTS),nan,90 - 92,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209582,21600453,4,8:19,nan,MISS Henderson 26' 3PT Jump Shot,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209583,21600453,4,8:17,Chandler REBOUND (Off:2 Def:8),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209584,21600453,4,8:03,nan,Okafor S.FOUL (P4.T2) (H.Workman),nan,1626143,Jahlil Okafor,PHI,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Shooting
+209585,21600453,4,8:03,MISS Chandler Free Throw 1 of 2,nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209586,21600453,4,8:03,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209587,21600453,4,8:03,nan,SUB: Thompson FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+209588,21600453,4,8:03,Chandler Free Throw 2 of 2 (11 PTS),nan,90 - 93,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209589,21600453,4,7:46,nan,Henderson 12' Pullup Jump Shot (11 PTS),92 - 93,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209590,21600453,4,7:32,nan,McConnell P.FOUL (P2.T3) (H.Workman),nan,204456,T.J. McConnell,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+209591,21600453,4,7:24,Bledsoe 25' 3PT Jump Shot (17 PTS),nan,92 - 96,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209592,21600453,4,7:07,nan,MISS Henderson 5' Jump Shot,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209593,21600453,4,7:05,Booker REBOUND (Off:0 Def:5),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209594,21600453,4,6:59,Warren  Layup (14 PTS) (Bledsoe 9 AST),nan,92 - 98,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+209595,21600453,4,6:44,nan,MISS Saric 7' Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209596,21600453,4,6:41,nan,Okafor REBOUND (Off:1 Def:3),nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209597,21600453,4,6:23,nan,Saric Out of Bounds Lost Ball Turnover (P1.T20),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+209598,21600453,4,6:23,SUNS Timeout: Regular (Full 4 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209599,21600453,4,6:23,nan,nan,nan,489,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+209600,21600453,4,6:23,SUNS Timeout: Short (Full 4 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+209601,21600453,4,6:10,Chandler  Cutting Dunk Shot (13 PTS) (Bledsoe 10 AST),nan,92 - 100,2199,Tyson Chandler,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+209602,21600453,4,5:57,Chandler P.FOUL (P3.T2) (H.Workman),nan,nan,2199,Tyson Chandler,PHX,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+209603,21600453,4,5:57,nan,SUB: Covington FOR Henderson,nan,201945,Gerald Henderson,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+209604,21600453,4,5:43,nan,Covington 4' Jump Bank Shot (14 PTS),94 - 100,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209605,21600453,4,5:23,nan,Okafor P.FOUL (P5.T4) (H.Workman),nan,1626143,Jahlil Okafor,PHI,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+209606,21600453,4,5:23,nan,SUB: Embiid FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203954,Joel Embiid,PHI,0,nan,nan,Substitution ,nan
+209607,21600453,4,5:14,Booker 18' Pullup Jump Shot (18 PTS),nan,94 - 102,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209608,21600453,4,5:05,nan,MISS Embiid 25' 3PT Jump Bank Shot,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209609,21600453,4,5:02,Booker REBOUND (Off:0 Def:6),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209610,21600453,4,4:41,Bledsoe 8' Driving Bank Shot (19 PTS),nan,94 - 104,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209611,21600453,4,4:27,nan,MISS McConnell 17' Pullup Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209612,21600453,4,4:26,Tucker REBOUND (Off:0 Def:4),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209613,21600453,4,4:05,Booker 17' Step Back Jump Shot (20 PTS),nan,94 - 106,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209614,21600453,4,4:05,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209615,21600453,4,4:05,nan,SUB: Rodriguez FOR McConnell,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+209616,21600453,4,4:05,nan,SUB: Ilyasova FOR Thompson,nan,203138,Hollis Thompson,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+209617,21600453,4,3:54,nan,Embiid 1' Driving Layup (21 PTS),96 - 106,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209618,21600453,4,3:54,Booker Shooting Block Foul (P3.T3) (B.Kennedy),nan,nan,1626164,Devin Booker,PHX,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting Block
+209619,21600453,4,3:54,nan,Embiid Free Throw 1 of 1 (22 PTS),97 - 106,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+209620,21600453,4,3:39,Warren 24' 3PT Jump Shot (17 PTS) (Bledsoe 11 AST),nan,97 - 109,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+209621,21600453,4,3:28,nan,Rodriguez 25' 3PT Pullup Jump Shot (12 PTS),100 - 109,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209622,21600453,4,3:08,Booker 27' 3PT Jump Shot (23 PTS),nan,100 - 112,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209623,21600453,4,2:55,nan,Rodriguez 19' Jump Shot (14 PTS),102 - 112,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209624,21600453,4,2:31,MISS Booker 22' Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209625,21600453,4,2:30,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209626,21600453,4,2:30,nan,Embiid L.B.FOUL (P3.PN) (M.Ayotte),nan,203954,Joel Embiid,PHI,203933,TJ Warren,PHX,0,nan,nan,Foul ,Loose Ball
+209627,21600453,4,2:30,Warren Free Throw 1 of 2 (18 PTS),nan,102 - 113,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209628,21600453,4,2:30,Warren Free Throw 2 of 2 (19 PTS),nan,102 - 114,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209629,21600453,4,2:21,nan,MISS Covington 25' 3PT Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209630,21600453,4,2:19,Chandler REBOUND (Off:2 Def:9),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209631,21600453,4,2:00,nan,Saric S.FOUL (P3.PN) (H.Workman),nan,203967,Dario Saric,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+209632,21600453,4,2:00,Bledsoe Free Throw 1 of 2 (20 PTS),nan,102 - 115,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209633,21600453,4,2:00,Bledsoe Free Throw 2 of 2 (21 PTS),nan,102 - 116,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209634,21600453,4,1:46,nan,Embiid  Alley Oop Dunk (24 PTS) (Rodriguez 6 AST),104 - 116,203954,Joel Embiid,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+209635,21600453,4,1:20,MISS Bledsoe 26' 3PT Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209636,21600453,4,1:18,nan,Embiid REBOUND (Off:0 Def:7),nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209637,21600453,4,1:13,nan,Embiid 1' Driving Layup (26 PTS) (Rodriguez 7 AST),106 - 116,203954,Joel Embiid,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+209638,21600453,4,1:13,Chandler S.FOUL (P4.T4) (H.Workman),nan,nan,2199,Tyson Chandler,PHX,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+209639,21600453,4,1:13,nan,SUB: McConnell FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+209640,21600453,4,1:13,nan,Embiid Free Throw 1 of 1 (27 PTS),107 - 116,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+209641,21600453,4,0:56,MISS Warren 26' 3PT Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+209642,21600453,4,0:55,Chandler REBOUND (Off:3 Def:9),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209643,21600453,4,0:55,Chandler 1' Tip Layup Shot (15 PTS),nan,107 - 118,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+209644,21600453,4,0:55,nan,76ers Timeout: Regular (Reg.6 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209645,21600453,4,0:55,nan,SUB: Rodriguez FOR McConnell,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+209646,21600453,4,0:46,Tucker Violation:Kicked Ball (B.Kennedy),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+209647,21600453,4,0:40,Tucker Violation:Defensive Goaltending (M.Ayotte),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+209648,21600453,4,0:40,nan,Rodriguez 1' Driving Layup (16 PTS),109 - 118,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209649,21600453,4,0:35,nan,Ilyasova P.FOUL (P3.PN) (H.Workman),nan,101141,Ersan Ilyasova,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+209650,21600453,4,0:35,MISS Bledsoe Free Throw 1 of 2,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209651,21600453,4,0:35,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209652,21600453,4,0:35,nan,SUB: Thompson FOR Embiid,nan,203954,Joel Embiid,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+209653,21600453,4,0:35,Bledsoe Free Throw 2 of 2 (22 PTS),nan,109 - 119,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209654,21600453,4,0:28,nan,Rodriguez 26' 3PT Pullup Jump Shot (19 PTS),112 - 119,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209655,21600453,4,0:24,nan,Rodriguez P.FOUL (P2.PN) (H.Workman),nan,200771,Sergio Rodriguez,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+209656,21600453,4,0:24,MISS Bledsoe Free Throw 1 of 2,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209657,21600453,4,0:24,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+209658,21600453,4,0:24,Bledsoe Free Throw 2 of 2 (23 PTS),nan,112 - 120,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209659,21600453,4,0:18,nan,Rodriguez 1' Running Layup (21 PTS),114 - 120,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+209660,21600453,4,0:15,Bledsoe Bad Pass Turnover (P4.T20),Saric STEAL (2 STL),nan,202339,Eric Bledsoe,PHX,203967,Dario Saric,PHI,0,nan,nan,Turnover ,Bad Pass
+209661,21600453,4,0:12,nan,Covington 3' Driving Layup (16 PTS) (Ilyasova 3 AST),116 - 120,203496,Robert Covington,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Made Shot ,nan
+209662,21600453,4,0:12,SUNS Timeout: Regular (Full 5 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+209663,21600453,4,0:12,nan,SUB: McConnell FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+209664,21600453,4,0:12,SUB: Barbosa FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Substitution ,nan
+209665,21600453,4,0:11,nan,Ilyasova Personal Take Foul (P4.PN) (H.Workman),nan,101141,Ersan Ilyasova,PHI,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal Take
+209666,21600453,4,0:11,Bledsoe Free Throw 1 of 2 (24 PTS),nan,116 - 121,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209667,21600453,4,0:11,MISS Bledsoe Free Throw 2 of 2,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209668,21600453,4,0:08,Tucker REBOUND (Off:1 Def:4),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209669,21600453,4,0:08,nan,Covington P.FOUL (P6.PN) (H.Workman),nan,203496,Robert Covington,PHI,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Personal
+209670,21600453,4,0:08,nan,SUB: Rodriguez FOR Covington,nan,203496,Robert Covington,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+209671,21600453,4,0:08,Tucker Free Throw 1 of 2 (14 PTS),nan,116 - 122,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+209672,21600453,4,0:08,Tucker Free Throw 2 of 2 (15 PTS),nan,116 - 123,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+209673,21600453,4,0:08,nan,76ers Timeout: Short (Reg.6 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+209674,21600453,4,0:08,nan,SUB: Henderson FOR McConnell,nan,204456,T.J. McConnell,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Substitution ,nan
+209675,21600453,4,0:06,Tucker BLOCK (1 BLK),MISS Saric 26' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,200782,PJ Tucker,PHX,Missed Shot ,nan
+209676,21600453,4,0:06,Tucker REBOUND (Off:1 Def:5),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+209677,21600453,4,0:00,nan,nan,116 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

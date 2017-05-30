@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+142781,21501145,4,12:00,nan,nan,82 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+142782,21501145,4,11:40,McDaniels  3PT Jump Shot (6 PTS) (Ariza 2 AST),nan,82 - 83,203909,KJ McDaniels,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+142783,21501145,4,11:23,nan,Kanter OFF.Foul (P3) (K.Mauer),nan,202683,Enes Kanter,OKC,202726,Andrew Goudelock,HOU,0,nan,nan,Foul ,Offensive
+142784,21501145,4,11:23,nan,Kanter Foul Turnover (P3.T17),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+142785,21501145,4,11:23,nan,SUB: Morrow FOR Singler,nan,202713,Kyle Singler,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+142786,21501145,4,11:09,Goudelock 9' Floating Jump Shot (2 PTS) (Harden 5 AST),nan,82 - 85,202726,Andrew Goudelock,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+142787,21501145,4,10:56,nan,Durant 15' Pullup Jump Shot (29 PTS),84 - 85,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142788,21501145,4,10:38,Goudelock Bad Pass Turnover (P1.T8),Kanter STEAL (1 STL),nan,202726,Andrew Goudelock,HOU,202683,Enes Kanter,OKC,0,nan,nan,Turnover ,Bad Pass
+142789,21501145,4,10:29,Capela S.FOUL (P4.T1) (E.Roe),nan,nan,203991,Clint Capela,HOU,203079,Dion Waiters,OKC,0,nan,nan,Foul ,Shooting
+142790,21501145,4,10:29,nan,Waiters Free Throw 1 of 2 (1 PTS),85 - 85,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142791,21501145,4,10:29,nan,SUB: Westbrook FOR Foye,nan,200751,Randy Foye,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+142792,21501145,4,10:29,nan,MISS Waiters Free Throw 2 of 2,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142793,21501145,4,10:29,nan,Kanter REBOUND (Off:3 Def:2),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142794,21501145,4,10:29,nan,Kanter 2' Tip Layup Shot (16 PTS),87 - 85,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142795,21501145,4,10:26,nan,nan,nan,2794,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+142796,21501145,4,10:26,nan,Durant Free Throw Technical (30 PTS),88 - 85,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+142797,21501145,4,10:18,nan,Kanter S.FOUL (P4.T1) (B.Forte),nan,202683,Enes Kanter,OKC,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+142798,21501145,4,10:18,Harden Free Throw 1 of 2 (27 PTS),nan,88 - 86,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142799,21501145,4,10:18,Harden Free Throw 2 of 2 (28 PTS),nan,88 - 87,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142800,21501145,4,10:04,nan,Durant 25' 3PT Jump Shot (33 PTS) (Morrow 1 AST),91 - 87,201142,Kevin Durant,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Made Shot ,nan
+142801,21501145,4,9:50,Goudelock Bad Pass Turnover (P2.T9),nan,nan,202726,Andrew Goudelock,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+142802,21501145,4,9:40,Goudelock STEAL (2 STL),Westbrook Bad Pass Turnover (P7.T18),nan,201566,Russell Westbrook,OKC,202726,Andrew Goudelock,HOU,0,nan,nan,Turnover ,Bad Pass
+142803,21501145,4,9:38,Harden Bad Pass Turnover (P5.T10),Westbrook STEAL (2 STL),nan,201935,James Harden,HOU,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+142804,21501145,4,9:32,nan,Westbrook  Driving Dunk (17 PTS),93 - 87,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142805,21501145,4,9:32,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142806,21501145,4,9:32,SUB: Howard FOR Capela,nan,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+142807,21501145,4,9:32,SUB: Beverley FOR Goudelock,nan,nan,202726,Andrew Goudelock,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+142808,21501145,4,9:17,Harden 24' 3PT Jump Shot (31 PTS),nan,93 - 90,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+142809,21501145,4,9:05,nan,MISS Morrow 24' 3PT Jump Shot,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142810,21501145,4,9:04,nan,Kanter REBOUND (Off:4 Def:2),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142811,21501145,4,8:59,nan,MISS Durant 24' 3PT Jump Shot,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142812,21501145,4,8:58,Howard REBOUND (Off:3 Def:5),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142813,21501145,4,8:39,Harden 26' 3PT Jump Shot (34 PTS),nan,93 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+142814,21501145,4,8:25,Howard STEAL (1 STL),Westbrook Bad Pass Turnover (P8.T19),nan,201566,Russell Westbrook,OKC,2730,Dwight Howard,HOU,0,nan,nan,Turnover ,Bad Pass
+142815,21501145,4,8:20,MISS Harden 2' Running Layup,Durant BLOCK (1 BLK),nan,201935,James Harden,HOU,0,nan,nan,201142,Kevin Durant,OKC,Missed Shot ,nan
+142816,21501145,4,8:19,McDaniels REBOUND (Off:2 Def:0),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142817,21501145,4,8:19,nan,Morrow S.FOUL (P1.T2) (B.Forte),nan,201627,Anthony Morrow,OKC,203909,KJ McDaniels,HOU,0,nan,nan,Foul ,Shooting
+142818,21501145,4,8:19,McDaniels Free Throw 1 of 2 (7 PTS),nan,93 - 94,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142819,21501145,4,8:19,nan,SUB: Roberson FOR Durant,nan,201142,Kevin Durant,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+142820,21501145,4,8:19,nan,SUB: Ibaka FOR Waiters,nan,203079,Dion Waiters,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+142821,21501145,4,8:19,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+142822,21501145,4,8:19,McDaniels Free Throw 2 of 2 (8 PTS),nan,93 - 95,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142823,21501145,4,7:55,nan,Ibaka  Driving Dunk (6 PTS),95 - 95,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142824,21501145,4,7:36,MISS Beverley  3PT Jump Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142825,21501145,4,7:36,nan,Adams REBOUND (Off:2 Def:5),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142826,21501145,4,7:23,nan,MISS Westbrook 25' 3PT Pullup Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142827,21501145,4,7:22,nan,Ibaka REBOUND (Off:3 Def:4),nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142828,21501145,4,7:16,nan,Morrow 24' 3PT Jump Shot (3 PTS) (Ibaka 1 AST),98 - 95,201627,Anthony Morrow,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Made Shot ,nan
+142829,21501145,4,6:55,MISS Ariza  3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142830,21501145,4,6:54,nan,Westbrook REBOUND (Off:2 Def:10),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142831,21501145,4,6:50,Harden S.FOUL (P2.T2) (B.Forte),nan,nan,201935,James Harden,HOU,201586,Serge Ibaka,OKC,0,nan,nan,Foul ,Shooting
+142832,21501145,4,6:50,nan,Ibaka Free Throw 1 of 2 (7 PTS),99 - 95,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142833,21501145,4,6:50,SUB: Brewer FOR Ariza,nan,nan,2772,Trevor Ariza,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+142834,21501145,4,6:50,nan,Ibaka Free Throw 2 of 2 (8 PTS),100 - 95,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142835,21501145,4,6:32,MISS Beverley 16' Pullup Jump Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142836,21501145,4,6:31,nan,Ibaka REBOUND (Off:3 Def:5),nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142837,21501145,4,6:26,Howard P.FOUL (P5.T3) (E.Roe),nan,nan,2730,Dwight Howard,HOU,203500,Steven Adams,OKC,0,nan,nan,Foul ,Personal
+142838,21501145,4,6:26,nan,nan,nan,524,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+142839,21501145,4,6:26,SUB: Capela FOR Howard,nan,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+142840,21501145,4,6:14,Capela BLOCK (3 BLK),MISS Roberson 3' Layup,nan,203460,Andre Roberson,OKC,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+142841,21501145,4,6:11,McDaniels REBOUND (Off:2 Def:1),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142842,21501145,4,6:09,Brewer 2' Running Layup (6 PTS) (Harden 6 AST),nan,100 - 97,201147,Corey Brewer,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+142843,21501145,4,5:50,nan,Westbrook 1' Driving Layup (19 PTS),102 - 97,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142844,21501145,4,5:36,McDaniels 2' Driving Reverse Layup (10 PTS) (Harden 7 AST),nan,102 - 99,203909,KJ McDaniels,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+142845,21501145,4,5:27,nan,MISS Morrow 25' 3PT Jump Shot,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142846,21501145,4,5:27,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142847,21501145,4,5:27,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142848,21501145,4,5:27,SUB: Ariza FOR Brewer,nan,nan,201147,Corey Brewer,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+142849,21501145,4,5:26,nan,SUB: Durant FOR Morrow,nan,201627,Anthony Morrow,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+142850,21501145,4,5:10,MISS Harden 25' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142851,21501145,4,5:09,nan,Durant REBOUND (Off:0 Def:8),nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142852,21501145,4,4:52,nan,MISS Durant 25' 3PT Jump Shot,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142853,21501145,4,4:52,Harden REBOUND (Off:1 Def:2),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142854,21501145,4,4:46,nan,Roberson S.FOUL (P1.T3) (B.Forte),nan,203460,Andre Roberson,OKC,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+142855,21501145,4,4:46,Harden Free Throw 1 of 2 (35 PTS),nan,102 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142856,21501145,4,4:46,Harden Free Throw 2 of 2 (36 PTS),nan,102 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142857,21501145,4,4:26,nan,MISS Westbrook 12' Pullup Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142858,21501145,4,4:25,Harden REBOUND (Off:1 Def:3),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142859,21501145,4,4:16,Beverley 25' 3PT Jump Shot (8 PTS) (Ariza 3 AST),nan,102 - 104,201976,Patrick Beverley,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+142860,21501145,4,3:56,nan,SUB: Waiters FOR Roberson,nan,203460,Andre Roberson,OKC,203079,Dion Waiters,OKC,0,nan,nan,Substitution ,nan
+142861,21501145,4,3:48,nan,MISS Durant 25' 3PT Pullup Jump Shot,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142862,21501145,4,3:47,Capela REBOUND (Off:3 Def:3),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142863,21501145,4,3:27,MISS Harden 24' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142864,21501145,4,3:26,Beverley REBOUND (Off:2 Def:0),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142865,21501145,4,3:09,Harden 11' Step Back Jump Shot (38 PTS),nan,102 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+142866,21501145,4,3:07,nan,Thunder Timeout: Regular (Reg.4 Short 2),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142867,21501145,4,2:44,nan,Westbrook 10' Floating Jump Shot (21 PTS),104 - 106,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142868,21501145,4,2:19,Beverley 14' Fadeaway Jumper (10 PTS),nan,104 - 108,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+142869,21501145,4,1:59,Capela BLOCK (4 BLK),MISS Durant 7' Jump Shot,nan,201142,Kevin Durant,OKC,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+142870,21501145,4,1:56,McDaniels REBOUND (Off:2 Def:2),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142871,21501145,4,1:37,MISS Harden 24' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142872,21501145,4,1:36,nan,Adams REBOUND (Off:2 Def:6),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142873,21501145,4,1:27,Capela P.FOUL (P5.T4) (K.Mauer),nan,nan,203991,Clint Capela,HOU,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+142874,21501145,4,1:12,nan,Thunder Turnover: Shot Clock (T#20),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+142875,21501145,4,0:52,nan,Waiters P.FOUL (P1.T4) (K.Mauer),nan,203079,Dion Waiters,OKC,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+142876,21501145,4,0:42,Capela 1' Cutting Finger Roll Layup Shot (9 PTS) (Harden 8 AST),nan,104 - 110,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+142877,21501145,4,0:42,nan,Thunder Timeout: Regular (Reg.5 Short 2),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142878,21501145,4,0:42,nan,SUB: Morrow FOR Waiters,nan,203079,Dion Waiters,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+142879,21501145,4,0:37,Harden STEAL (3 STL),Durant Bad Pass Turnover (P6.T21),nan,201142,Kevin Durant,OKC,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+142880,21501145,4,0:32,Beverley  Running Dunk (12 PTS) (Harden 9 AST),nan,104 - 112,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+142881,21501145,4,0:32,nan,Thunder Timeout: Short (Reg.5 Short 3),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+142882,21501145,4,0:26,nan,MISS Westbrook 25' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142883,21501145,4,0:25,nan,Adams REBOUND (Off:3 Def:6),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142884,21501145,4,0:25,Capela S.FOUL (P6.PN) (B.Forte),nan,nan,203991,Clint Capela,HOU,201627,Anthony Morrow,OKC,0,nan,nan,Foul ,Shooting
+142885,21501145,4,0:25,SUB: Howard FOR Capela,nan,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+142886,21501145,4,0:25,nan,MISS Morrow Free Throw 1 of 3,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+142887,21501145,4,0:25,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+142888,21501145,4,0:25,nan,Morrow Free Throw 2 of 3 (4 PTS),105 - 112,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+142889,21501145,4,0:25,nan,SUB: Roberson FOR Adams,nan,203500,Steven Adams,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+142890,21501145,4,0:25,nan,Morrow Free Throw 3 of 3 (5 PTS),106 - 112,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+142891,21501145,4,0:25,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+142892,21501145,4,0:25,nan,SUB: Waiters FOR Morrow,nan,201627,Anthony Morrow,OKC,203079,Dion Waiters,OKC,0,nan,nan,Substitution ,nan
+142893,21501145,4,0:25,SUB: Beasley FOR Howard,nan,nan,2730,Dwight Howard,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+142894,21501145,4,0:25,SUB: Terry FOR McDaniels,nan,nan,203909,KJ McDaniels,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+142895,21501145,4,0:25,nan,Durant AWAY.FROM.PLAY.FOUL (P5.PN) (K.Mauer),nan,201142,Kevin Durant,OKC,201935,James Harden,HOU,0,nan,nan,Foul ,Away From Play
+142896,21501145,4,0:25,Harden Free Throw 1 of 1 (39 PTS),nan,106 - 113,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+142897,21501145,4,0:24,nan,Roberson Personal Take Foul (P2.PN) (B.Forte),nan,203460,Andre Roberson,OKC,201935,James Harden,HOU,0,nan,nan,Foul ,Personal Take
+142898,21501145,4,0:24,Harden Free Throw 1 of 2 (40 PTS),nan,106 - 114,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142899,21501145,4,0:24,nan,SUB: Morrow FOR Roberson,nan,203460,Andre Roberson,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+142900,21501145,4,0:24,SUB: McDaniels FOR Terry,nan,nan,1891,Jason Terry,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+142901,21501145,4,0:24,Harden Free Throw 2 of 2 (41 PTS),nan,106 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142902,21501145,4,0:11,nan,MISS Waiters  3PT Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+142903,21501145,4,0:11,nan,Westbrook REBOUND (Off:3 Def:10),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+142904,21501145,4,0:11,nan,Westbrook 1' Tip Layup Shot (23 PTS),108 - 115,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+142905,21501145,4,0:10,nan,Westbrook Personal Take Foul (P2.PN) (B.Forte),nan,201566,Russell Westbrook,OKC,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Personal Take
+142906,21501145,4,0:10,MISS Ariza Free Throw 1 of 2,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142907,21501145,4,0:10,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+142908,21501145,4,0:10,Ariza Free Throw 2 of 2 (18 PTS),nan,108 - 116,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142909,21501145,4,0:05,nan,Waiters 3' Running Layup (3 PTS) (Westbrook 9 AST),110 - 116,203079,Dion Waiters,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+142910,21501145,4,0:05,nan,Westbrook Personal Take Foul (P3.PN) (K.Mauer),nan,201566,Russell Westbrook,OKC,201563,Michael Beasley,HOU,0,nan,nan,Foul ,Personal Take
+142911,21501145,4,0:05,Beasley Free Throw 1 of 2 (5 PTS),nan,110 - 117,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+142912,21501145,4,0:05,Beasley Free Throw 2 of 2 (6 PTS),nan,110 - 118,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+142913,21501145,4,0:00,nan,nan,110 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

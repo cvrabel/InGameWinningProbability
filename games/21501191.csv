@@ -1,0 +1,116 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+148240,21501191,4,12:00,nan,nan,82 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+148241,21501191,4,11:45,nan,MISS Irving 22' Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148242,21501191,4,11:44,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148243,21501191,4,11:37,nan,MISS Jefferson 2' Driving Layup,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148244,21501191,4,11:35,McDermott REBOUND (Off:0 Def:1),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148245,21501191,4,11:14,McDermott 25' 3PT Jump Shot (5 PTS) (Holiday 3 AST),nan,82 - 82,203926,Doug McDermott,CHI,203200,Justin Holiday,CHI,0,nan,nan,Made Shot ,nan
+148246,21501191,4,10:47,McDermott S.FOUL (P2.T1) (B.Taylor),nan,nan,203926,Doug McDermott,CHI,202389,Timofey Mozgov,CLE,0,nan,nan,Foul ,Shooting
+148247,21501191,4,10:47,nan,Mozgov Free Throw 1 of 2 (1 PTS),83 - 82,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148248,21501191,4,10:47,nan,Mozgov Free Throw 2 of 2 (2 PTS),84 - 82,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148249,21501191,4,10:28,Felicio  Cutting Dunk Shot (12 PTS) (Holiday 4 AST),nan,84 - 84,1626245,Cristiano Felicio,CHI,203200,Justin Holiday,CHI,0,nan,nan,Made Shot ,nan
+148250,21501191,4,10:11,Holiday STEAL (1 STL),Irving Lost Ball Turnover (P2.T12),nan,202681,Kyrie Irving,CLE,203200,Justin Holiday,CHI,0,nan,nan,Turnover ,Lost Ball
+148251,21501191,4,10:09,nan,Frye P.FOUL (P2.T1) (B.Taylor),nan,101112,Channing Frye,CLE,203200,Justin Holiday,CHI,0,nan,nan,Foul ,Personal
+148252,21501191,4,10:09,Holiday Free Throw 1 of 2 (4 PTS),nan,84 - 85,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148253,21501191,4,10:09,Holiday Free Throw 2 of 2 (5 PTS),nan,84 - 86,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148254,21501191,4,9:52,nan,MISS Frye 25' 3PT Jump Shot,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148255,21501191,4,9:50,McDermott REBOUND (Off:0 Def:2),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148256,21501191,4,9:35,nan,Jefferson S.FOUL (P1.T2) (B.Spooner),nan,2210,Richard Jefferson,CLE,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Shooting
+148257,21501191,4,9:35,MISS McDermott Free Throw 1 of 2,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148258,21501191,4,9:35,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+148259,21501191,4,9:35,McDermott Free Throw 2 of 2 (6 PTS),nan,84 - 87,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148260,21501191,4,9:13,Holiday STEAL (2 STL),Irving Lost Ball Turnover (P3.T13),nan,202681,Kyrie Irving,CLE,203200,Justin Holiday,CHI,0,nan,nan,Turnover ,Lost Ball
+148261,21501191,4,9:09,nan,Dellavedova S.FOUL (P2.T3) (B.Taylor),nan,203521,Matthew Dellavedova,CLE,203200,Justin Holiday,CHI,0,nan,nan,Foul ,Shooting
+148262,21501191,4,9:09,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148263,21501191,4,9:09,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+148264,21501191,4,9:09,nan,SUB: Love FOR Mozgov,nan,202389,Timofey Mozgov,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+148265,21501191,4,9:09,Holiday Free Throw 1 of 2 (6 PTS),nan,84 - 88,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148266,21501191,4,9:09,Holiday Free Throw 2 of 2 (7 PTS),nan,84 - 89,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148267,21501191,4,8:55,Felicio BLOCK (2 BLK),MISS Irving 1' Driving Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,1626245,Cristiano Felicio,CHI,Missed Shot ,nan
+148268,21501191,4,8:53,McDermott REBOUND (Off:0 Def:3),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148269,21501191,4,8:36,MISS Holiday 25' 3PT Jump Shot,nan,nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148270,21501191,4,8:32,Portis REBOUND (Off:4 Def:3),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148271,21501191,4,8:24,Brooks 2' Driving Layup (7 PTS),nan,84 - 91,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+148272,21501191,4,7:58,nan,MISS Love 11' Turnaround Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148273,21501191,4,7:57,Holiday REBOUND (Off:0 Def:2),nan,nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148274,21501191,4,7:50,Portis Out of Bounds - Bad Pass Turnover Turnover (P1.T10),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+148275,21501191,4,7:50,SUB: Butler FOR McDermott,nan,nan,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+148276,21501191,4,7:50,nan,SUB: James FOR Dellavedova,nan,203521,Matthew Dellavedova,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+148277,21501191,4,7:50,nan,SUB: Smith FOR Jefferson,nan,2210,Richard Jefferson,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+148278,21501191,4,7:26,nan,Cavaliers Turnover: Shot Clock (T#14),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+148279,21501191,4,7:05,Felicio 1' Driving Layup (14 PTS) (Butler 5 AST),nan,84 - 93,1626245,Cristiano Felicio,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+148280,21501191,4,6:37,nan,MISS Love 18' Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148281,21501191,4,6:36,Felicio REBOUND (Off:2 Def:3),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148282,21501191,4,6:27,Brooks 6' Floating Jump Shot (9 PTS),nan,84 - 95,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+148283,21501191,4,6:25,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148284,21501191,4,6:24,SUB: Rose FOR Brooks,nan,nan,201166,Aaron Brooks,CHI,201565,Derrick Rose,CHI,0,nan,nan,Substitution ,nan
+148285,21501191,4,6:19,nan,SUB: Dellavedova FOR Thompson,nan,202684,Tristan Thompson,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+148286,21501191,4,6:10,nan,MISS Smith 26' 3PT Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148287,21501191,4,6:09,Rose REBOUND (Off:0 Def:2),nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148288,21501191,4,5:51,Butler 10' Fadeaway Jumper (18 PTS),nan,84 - 97,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+148289,21501191,4,5:35,Butler STEAL (2 STL),Irving Lost Ball Turnover (P4.T15),nan,202681,Kyrie Irving,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Lost Ball
+148290,21501191,4,5:17,MISS Butler 16' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148291,21501191,4,5:16,nan,Dellavedova REBOUND (Off:0 Def:2),nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148292,21501191,4,5:05,Butler STEAL (3 STL),James Bad Pass Turnover (P4.T16),nan,2544,LeBron James,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Bad Pass
+148293,21501191,4,4:59,Butler Bad Pass Turnover (P2.T11),Dellavedova STEAL (1 STL),nan,202710,Jimmy Butler,CHI,203521,Matthew Dellavedova,CLE,0,nan,nan,Turnover ,Bad Pass
+148294,21501191,4,4:54,Butler S.FOUL (P3.T2) (R.Mott),nan,nan,202710,Jimmy Butler,CHI,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+148295,21501191,4,4:54,nan,James Free Throw 1 of 2 (29 PTS),85 - 97,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148296,21501191,4,4:54,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148297,21501191,4,4:52,Portis REBOUND (Off:4 Def:4),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148298,21501191,4,4:39,Rose Bad Pass Turnover (P2.T12),Smith STEAL (1 STL),nan,201565,Derrick Rose,CHI,2747,JR Smith,CLE,0,nan,nan,Turnover ,Bad Pass
+148299,21501191,4,4:28,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148300,21501191,4,4:27,nan,Love REBOUND (Off:3 Def:9),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148301,21501191,4,4:22,nan,MISS Irving 25' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148302,21501191,4,4:21,Portis REBOUND (Off:4 Def:5),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148303,21501191,4,4:03,MISS Holiday 24' 3PT Jump Shot,nan,nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148304,21501191,4,4:02,nan,Love REBOUND (Off:3 Def:10),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148305,21501191,4,3:49,Felicio P.FOUL (P2.T3) (B.Spooner),nan,nan,1626245,Cristiano Felicio,CHI,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+148306,21501191,4,3:39,nan,Dellavedova 26' 3PT Jump Shot (3 PTS) (Irving 5 AST),88 - 97,203521,Matthew Dellavedova,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+148307,21501191,4,3:11,MISS Holiday 26' 3PT Jump Shot,nan,nan,203200,Justin Holiday,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148308,21501191,4,3:10,Portis REBOUND (Off:5 Def:5),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148309,21501191,4,2:58,Rose 18' Jump Shot (10 PTS),nan,88 - 99,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+148310,21501191,4,2:33,nan,James 16' Jump Shot (31 PTS) (Love 3 AST),90 - 99,2544,LeBron James,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+148311,21501191,4,2:05,MISS Rose 26' 3PT Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148312,21501191,4,2:04,nan,James REBOUND (Off:3 Def:4),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148313,21501191,4,1:57,nan,Smith 26' 3PT Jump Shot (20 PTS) (Irving 6 AST),93 - 99,2747,JR Smith,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+148314,21501191,4,1:57,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148315,21501191,4,1:57,SUB: Dunleavy FOR Portis,nan,nan,1626171,Bobby Portis,CHI,2399,Mike Dunleavy,CHI,0,nan,nan,Substitution ,nan
+148316,21501191,4,1:42,Butler 1' Driving Layup (20 PTS),nan,93 - 101,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+148317,21501191,4,1:42,nan,Love S.FOUL (P3.T4) (B.Spooner),nan,201567,Kevin Love,CLE,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+148318,21501191,4,1:42,Butler Free Throw 1 of 1 (21 PTS),nan,93 - 102,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148319,21501191,4,1:31,nan,Smith 25' 3PT Jump Shot (23 PTS) (Irving 7 AST),96 - 102,2747,JR Smith,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+148320,21501191,4,1:15,Felicio 4' Jump Shot (16 PTS) (Butler 6 AST),nan,96 - 104,1626245,Cristiano Felicio,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+148321,21501191,4,1:15,nan,Cavaliers Timeout: Regular (Reg.6 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148322,21501191,4,1:03,Felicio P.FOUL (P3.T4) (B.Taylor),nan,nan,1626245,Cristiano Felicio,CHI,2747,JR Smith,CLE,0,nan,nan,Foul ,Personal
+148323,21501191,4,0:59,nan,MISS Dellavedova 26' 3PT Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148324,21501191,4,0:59,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148325,21501191,4,0:59,nan,nan,nan,499,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+148326,21501191,4,0:57,nan,Love  3PT Jump Shot (20 PTS) (Irving 8 AST),99 - 104,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+148327,21501191,4,0:39,BULLS Timeout: Short (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+148328,21501191,4,0:36,MISS Butler 22' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148329,21501191,4,0:36,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148330,21501191,4,0:30,nan,James 1' Layup (33 PTS),101 - 104,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+148331,21501191,4,0:08,MISS Butler 16' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148332,21501191,4,0:08,nan,Smith REBOUND (Off:0 Def:5),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148333,21501191,4,0:08,Felicio L.B.FOUL (P4.PN) (R.Mott),nan,nan,1626245,Cristiano Felicio,CHI,2747,JR Smith,CLE,0,nan,nan,Foul ,Loose Ball
+148334,21501191,4,0:08,nan,Smith Free Throw 1 of 2 (24 PTS),102 - 104,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148335,21501191,4,0:08,SUB: Gasol FOR Holiday,nan,nan,203200,Justin Holiday,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+148336,21501191,4,0:08,nan,SUB: Thompson FOR Irving,nan,202681,Kyrie Irving,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+148337,21501191,4,0:08,nan,MISS Smith Free Throw 2 of 2,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148338,21501191,4,0:04,nan,Smith REBOUND (Off:1 Def:5),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148339,21501191,4,0:02,nan,MISS Dellavedova 26' 3PT Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148340,21501191,4,0:02,Gasol REBOUND (Off:3 Def:9),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148341,21501191,4,0:02,nan,nan,nan,519,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+148342,21501191,4,0:02,SUB: Mirotic FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+148343,21501191,4,0:02,nan,SUB: Irving FOR Love,nan,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+148344,21501191,4,0:02,BULLS Timeout: Short (Full 4 Short 2),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+148345,21501191,4,0:01,nan,Thompson P.FOUL (P4.PN) (B.Spooner),nan,202684,Tristan Thompson,CLE,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Personal
+148346,21501191,4,0:01,MISS Gasol Free Throw 1 of 2,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148347,21501191,4,0:01,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+148348,21501191,4,0:01,nan,SUB: Love FOR Thompson,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+148349,21501191,4,0:01,Gasol Free Throw 2 of 2 (11 PTS),nan,102 - 105,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148350,21501191,4,0:01,nan,Cavaliers Timeout: Short (Reg.6 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+148351,21501191,4,0:01,SUB: Holiday FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,203200,Justin Holiday,CHI,0,nan,nan,Substitution ,nan
+148352,21501191,4,0:00,Holiday BLOCK (1 BLK),MISS Smith 26' 3PT Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,203200,Justin Holiday,CHI,Missed Shot ,nan
+148353,21501191,4,0:00,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148354,21501191,4,0:00,nan,nan,102 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

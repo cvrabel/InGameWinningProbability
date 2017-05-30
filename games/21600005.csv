@@ -1,0 +1,182 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+153444,21600005,4,12:00,nan,nan,85 - 94,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+153445,21600005,4,11:50,Jefferson Traveling Turnover (P1.T10),nan,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Turnover ,Traveling
+153446,21600005,4,11:36,Jefferson P.FOUL (P1.T1) (T.Ford),nan,nan,2744,Al Jefferson,IND,101114,Deron Williams,DAL,0,nan,nan,Foul ,Personal
+153447,21600005,4,11:36,SUB: Teague FOR Miles,nan,nan,101139,CJ Miles,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+153448,21600005,4,11:28,nan,Anderson 3' Driving Reverse Layup (7 PTS),87 - 94,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+153449,21600005,4,11:15,MISS Robinson III 26' 3PT Jump Shot,nan,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153450,21600005,4,11:14,nan,Curry REBOUND (Off:0 Def:3),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153451,21600005,4,11:06,Jefferson BLOCK (1 BLK),MISS D. Williams 11' Jump Shot,nan,101114,Deron Williams,DAL,0,nan,nan,2744,Al Jefferson,IND,Missed Shot ,nan
+153452,21600005,4,11:05,Jefferson REBOUND (Off:1 Def:5),nan,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153453,21600005,4,11:05,nan,Curry P.FOUL (P5.T1) (J.Tiven),nan,203552,Seth Curry,DAL,2744,Al Jefferson,IND,0,nan,nan,Foul ,Personal
+153454,21600005,4,11:05,SUB: Miles FOR Allen,nan,nan,202730,Lavoy Allen,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+153455,21600005,4,10:41,MISS Teague 21' Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153456,21600005,4,10:40,nan,Nowitzki REBOUND (Off:0 Def:5),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153457,21600005,4,10:33,nan,Nowitzki 27' 3PT Jump Shot (18 PTS) (D. Williams 5 AST),90 - 94,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+153458,21600005,4,10:32,PACERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153459,21600005,4,10:32,SUB: Allen FOR Jefferson,nan,nan,2744,Al Jefferson,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+153460,21600005,4,10:17,Stuckey Bad Pass Turnover (P2.T11),Curry STEAL (2 STL),nan,201155,Rodney Stuckey,IND,203552,Seth Curry,DAL,0,nan,nan,Turnover ,Bad Pass
+153461,21600005,4,10:12,nan,Curry 2' Running Reverse Layup (5 PTS),92 - 94,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+153462,21600005,4,9:55,MISS Miles 9' Jump Shot,D. Williams BLOCK (1 BLK),nan,101139,CJ Miles,IND,0,nan,nan,101114,Deron Williams,DAL,Missed Shot ,nan
+153463,21600005,4,9:54,nan,Anderson REBOUND (Off:1 Def:3),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153464,21600005,4,9:52,nan,Curry  Layup (7 PTS) (Anderson 2 AST),94 - 94,203552,Seth Curry,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Made Shot ,nan
+153465,21600005,4,9:37,MISS Teague 1' Layup,Nowitzki BLOCK (1 BLK),nan,201952,Jeff Teague,IND,0,nan,nan,1717,Dirk Nowitzki,DAL,Missed Shot ,nan
+153466,21600005,4,9:36,nan,Nowitzki REBOUND (Off:0 Def:6),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153467,21600005,4,9:24,nan,MISS Barea 26' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153468,21600005,4,9:23,Allen REBOUND (Off:1 Def:3),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153469,21600005,4,9:08,Teague 3' Layup (14 PTS) (Allen 2 AST),nan,94 - 96,201952,Jeff Teague,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+153470,21600005,4,8:45,nan,MISS Nowitzki 6' Turnaround Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153471,21600005,4,8:42,Allen REBOUND (Off:1 Def:4),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153472,21600005,4,8:35,MISS Teague 25' 3PT Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153473,21600005,4,8:34,nan,Anderson REBOUND (Off:1 Def:4),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153474,21600005,4,8:26,Allen BLOCK (1 BLK),MISS D. Williams 2' Driving Layup,nan,101114,Deron Williams,DAL,0,nan,nan,202730,Lavoy Allen,IND,Missed Shot ,nan
+153475,21600005,4,8:24,nan,D. Williams REBOUND (Off:1 Def:2),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153476,21600005,4,8:22,Miles STEAL (2 STL),D. Williams Bad Pass Turnover (P3.T11),nan,101114,Deron Williams,DAL,101139,CJ Miles,IND,0,nan,nan,Turnover ,Bad Pass
+153477,21600005,4,8:19,Teague Bad Pass Turnover (P2.T12),Curry STEAL (3 STL),nan,201952,Jeff Teague,IND,203552,Seth Curry,DAL,0,nan,nan,Turnover ,Bad Pass
+153478,21600005,4,8:08,nan,Barea 27' 3PT Jump Shot (20 PTS) (Curry 1 AST),97 - 96,200826,J.J. Barea,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+153479,21600005,4,8:06,PACERS Timeout: Short (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153480,21600005,4,8:06,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+153481,21600005,4,8:06,SUB: Young FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+153482,21600005,4,8:06,SUB: Ellis FOR Allen,nan,nan,202730,Lavoy Allen,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+153483,21600005,4,8:06,SUB: Turner FOR Robinson III,nan,nan,203922,Glenn Robinson III,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+153484,21600005,4,8:06,SUB: George FOR Miles,nan,nan,101139,CJ Miles,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+153485,21600005,4,7:50,nan,Curry S.FOUL (P6.T2) (T.Ford),nan,203552,Seth Curry,DAL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+153486,21600005,4,7:50,nan,SUB: Matthews FOR Curry,nan,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+153487,21600005,4,7:50,Ellis Free Throw 1 of 2 (12 PTS),nan,97 - 97,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153488,21600005,4,7:50,Ellis Free Throw 2 of 2 (13 PTS),nan,97 - 98,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153489,21600005,4,7:41,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153490,21600005,4,7:40,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153491,21600005,4,7:38,Turner S.FOUL (P3.T2) (J.Tiven),nan,nan,1626167,Myles Turner,IND,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+153492,21600005,4,7:38,nan,Matthews Free Throw 1 of 2 (8 PTS),98 - 98,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153493,21600005,4,7:38,nan,Matthews Free Throw 2 of 2 (9 PTS),99 - 98,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153494,21600005,4,7:22,MISS George 16' Pullup Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153495,21600005,4,7:22,nan,Powell REBOUND (Off:2 Def:3),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153496,21600005,4,7:12,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153497,21600005,4,7:10,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153498,21600005,4,7:02,nan,MISS Anderson 27' 3PT Jump Shot,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153499,21600005,4,7:01,nan,Powell REBOUND (Off:3 Def:3),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153500,21600005,4,6:58,nan,MISS Anderson 1' Driving Layup,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153501,21600005,4,6:56,Turner REBOUND (Off:6 Def:8),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153502,21600005,4,6:51,Teague 1' Layup (16 PTS),nan,99 - 100,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153503,21600005,4,6:30,nan,MISS Powell 19' Jump Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153504,21600005,4,6:29,George REBOUND (Off:0 Def:7),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153505,21600005,4,6:08,Young  Reverse Layup (11 PTS) (George 5 AST),nan,99 - 102,201152,Thaddeus Young,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+153506,21600005,4,6:07,nan,Mavericks Timeout: Regular (Reg.5 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153507,21600005,4,6:07,nan,SUB: Barnes FOR Anderson,nan,1626147,Justin Anderson,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+153508,21600005,4,6:07,nan,SUB: Nowitzki FOR Powell,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+153509,21600005,4,5:57,nan,Barea 1' Finger Roll Layup (22 PTS),101 - 102,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+153510,21600005,4,5:33,MISS Teague 28' 3PT Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153511,21600005,4,5:31,nan,Matthews REBOUND (Off:0 Def:5),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153512,21600005,4,5:17,Turner BLOCK (4 BLK),MISS Barnes 1' Driving Layup,nan,203084,Harrison Barnes,DAL,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+153513,21600005,4,5:15,Young REBOUND (Off:0 Def:4),nan,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153514,21600005,4,5:10,nan,Nowitzki S.FOUL (P1.T3) (T.Ford),nan,1717,Dirk Nowitzki,DAL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+153515,21600005,4,5:10,Turner Free Throw 1 of 2 (21 PTS),nan,101 - 103,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153516,21600005,4,5:10,MISS Turner Free Throw 2 of 2,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153517,21600005,4,5:10,nan,Nowitzki REBOUND (Off:0 Def:7),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153518,21600005,4,4:48,nan,MISS D. Williams 27' 3PT Jump Shot,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153519,21600005,4,4:48,Young REBOUND (Off:0 Def:5),nan,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153520,21600005,4,4:34,Ellis 19' Pullup Jump Shot (15 PTS),nan,101 - 105,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153521,21600005,4,4:17,nan,Barnes 1' Finger Roll Layup (9 PTS),103 - 105,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+153522,21600005,4,4:02,MISS Turner 20' Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153523,21600005,4,4:01,nan,Barnes REBOUND (Off:1 Def:5),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153524,21600005,4,3:43,nan,Nowitzki 17' Step Back Jump Shot (20 PTS) (Barea 5 AST),105 - 105,1717,Dirk Nowitzki,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+153525,21600005,4,3:22,George Lost Ball Turnover (P2.T13),Matthews STEAL (3 STL),nan,202331,Paul George,IND,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Lost Ball
+153526,21600005,4,3:15,nan,MISS Nowitzki 27' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153527,21600005,4,3:15,George REBOUND (Off:0 Def:8),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153528,21600005,4,3:01,Turner 19' Jump Shot (23 PTS) (Teague 5 AST),nan,105 - 107,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+153529,21600005,4,2:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+153530,21600005,4,2:33,nan,Barnes 1' Dunk (11 PTS) (Barea 6 AST),107 - 107,203084,Harrison Barnes,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+153531,21600005,4,2:20,George 27' 3PT Jump Shot (20 PTS) (Teague 6 AST),nan,107 - 110,202331,Paul George,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+153532,21600005,4,2:02,nan,Matthews 27' 3PT Jump Shot (12 PTS) (D. Williams 6 AST),110 - 110,202083,Wesley Matthews,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+153533,21600005,4,1:49,MISS Teague 2' Layup,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153534,21600005,4,1:48,nan,Nowitzki REBOUND (Off:0 Def:8),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153535,21600005,4,1:36,nan,MISS Nowitzki 26' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153536,21600005,4,1:35,Ellis REBOUND (Off:0 Def:5),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153537,21600005,4,1:32,nan,Matthews Personal Block Foul (P2.T4) (T.Ford),nan,202083,Wesley Matthews,DAL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Block
+153538,21600005,4,1:21,Turner 18' Turnaround Jump Shot (25 PTS) (Teague 7 AST),nan,110 - 112,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+153539,21600005,4,1:14,Young P.FOUL (P4.T3) (T.Ford),nan,nan,201152,Thaddeus Young,IND,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+153540,21600005,4,0:57,nan,MISS Matthews 27' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153541,21600005,4,0:56,Ellis REBOUND (Off:0 Def:6),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153542,21600005,4,0:48,Ellis 1' Driving Finger Roll Layup (17 PTS),nan,110 - 114,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153543,21600005,4,0:48,nan,Mavericks Timeout: Regular (Reg.6 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153544,21600005,4,0:48,SUB: Stuckey FOR Turner,nan,nan,1626167,Myles Turner,IND,201155,Rodney Stuckey,IND,0,nan,nan,Substitution ,nan
+153545,21600005,4,0:34,nan,MISS Barea 26' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153546,21600005,4,0:33,nan,Barnes REBOUND (Off:2 Def:5),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153547,21600005,4,0:28,nan,Nowitzki 19' Jump Shot (22 PTS) (D. Williams 7 AST),112 - 114,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+153548,21600005,4,0:28,PACERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153549,21600005,4,0:28,SUB: Turner FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+153550,21600005,4,0:28,nan,SUB: Anderson FOR Barea,nan,200826,J.J. Barea,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+153551,21600005,4,0:18,Ellis Bad Pass Turnover (P3.T14),Nowitzki STEAL (2 STL),nan,101145,Monta Ellis,IND,1717,Dirk Nowitzki,DAL,0,nan,nan,Turnover ,Bad Pass
+153552,21600005,4,0:15,Young STEAL (1 STL),D. Williams Bad Pass Turnover (P4.T12),nan,101114,Deron Williams,DAL,201152,Thaddeus Young,IND,0,nan,nan,Turnover ,Bad Pass
+153553,21600005,4,0:13,nan,Matthews Personal Take Foul (P3.PN) (J.Tiven),nan,202083,Wesley Matthews,DAL,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal Take
+153554,21600005,4,0:13,MISS Teague Free Throw 1 of 2,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153555,21600005,4,0:13,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+153556,21600005,4,0:13,nan,SUB: Barea FOR Anderson,nan,1626147,Justin Anderson,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+153557,21600005,4,0:13,SUB: Stuckey FOR Turner,nan,nan,1626167,Myles Turner,IND,201155,Rodney Stuckey,IND,0,nan,nan,Substitution ,nan
+153558,21600005,4,0:13,Teague Free Throw 2 of 2 (17 PTS),nan,112 - 115,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153559,21600005,4,0:02,nan,Barnes 26' 3PT Jump Shot (14 PTS) (Nowitzki 2 AST),115 - 115,203084,Harrison Barnes,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+153560,21600005,4,0:02,PACERS Timeout: Short (Full 5 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153561,21600005,4,0:02,SUB: Turner FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+153562,21600005,4,0:02,nan,SUB: Anderson FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+153563,21600005,4,0:02,nan,SUB: Powell FOR Barea,nan,200826,J.J. Barea,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+153564,21600005,4,0:00,MISS Turner 29' 3PT Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153565,21600005,4,0:00,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153566,21600005,4,0:00,nan,nan,nan,568,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+153567,21600005,4,0:00,nan,nan,115 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+153568,21600005,5,5:00,nan,nan,115 - 115,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+153569,21600005,5,5:00,Jump Ball Turner vs. Powell: Tip to Young,nan,nan,1626167,Myles Turner,IND,203939,Dwight Powell,DAL,201152,Thaddeus Young,IND,Jump Ball ,nan
+153570,21600005,5,4:42,Ellis 20' Pullup Jump Shot (19 PTS),nan,115 - 117,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153571,21600005,5,4:27,nan,MISS Barea 18' Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153572,21600005,5,4:26,nan,Barnes REBOUND (Off:3 Def:5),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153573,21600005,5,4:23,nan,Barnes 4' Jump Shot (16 PTS),117 - 117,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+153574,21600005,5,4:07,MISS Ellis 19' Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153575,21600005,5,4:06,nan,Powell REBOUND (Off:3 Def:4),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153576,21600005,5,3:43,nan,MISS Matthews 14' Fadeaway Jumper,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153577,21600005,5,3:42,Turner REBOUND (Off:6 Def:9),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153578,21600005,5,3:34,nan,Matthews P.FOUL (P4.T1) (T.Ford),nan,202083,Wesley Matthews,DAL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Personal
+153579,21600005,5,3:34,nan,SUB: Nowitzki FOR Powell,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+153580,21600005,5,3:22,MISS Ellis 1' Driving Layup,Nowitzki BLOCK (2 BLK),nan,101145,Monta Ellis,IND,0,nan,nan,1717,Dirk Nowitzki,DAL,Missed Shot ,nan
+153581,21600005,5,3:21,nan,Barnes REBOUND (Off:3 Def:6),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153582,21600005,5,3:13,Young P.FOUL (P5.T1) (B.Kennedy),nan,nan,201152,Thaddeus Young,IND,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+153583,21600005,5,3:07,Turner STEAL (2 STL),Barea Bad Pass Turnover (P3.T13),nan,200826,J.J. Barea,DAL,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Bad Pass
+153584,21600005,5,2:44,George 1' Layup (22 PTS),nan,117 - 119,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153585,21600005,5,2:40,Young Shooting Block Foul (P6.T2) (T.Ford),nan,nan,201152,Thaddeus Young,IND,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting Block
+153586,21600005,5,2:40,SUB: Miles FOR Young,nan,nan,201152,Thaddeus Young,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+153587,21600005,5,2:40,nan,MISS Matthews Free Throw 1 of 2,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153588,21600005,5,2:40,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+153589,21600005,5,2:40,nan,Matthews Free Throw 2 of 2 (13 PTS),118 - 119,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153590,21600005,5,2:17,Teague Out of Bounds Lost Ball Turnover (P3.T15),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+153591,21600005,5,2:04,nan,MISS D. Williams 3' Driving Layup,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153592,21600005,5,2:04,Turner REBOUND (Off:6 Def:10),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153593,21600005,5,1:56,Turner OFF.Foul (P4) (J.Tiven),nan,nan,1626167,Myles Turner,IND,101114,Deron Williams,DAL,0,nan,nan,Foul ,Offensive
+153594,21600005,5,1:56,Turner Foul Turnover (P2.T16),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+153595,21600005,5,1:37,nan,MISS Barea 27' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153596,21600005,5,1:36,Ellis REBOUND (Off:0 Def:7),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153597,21600005,5,1:18,Turner 25' 3PT Jump Shot (28 PTS) (George 6 AST),nan,118 - 122,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+153598,21600005,5,1:18,nan,Mavericks Timeout: Regular (Reg.7 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153599,21600005,5,1:10,Ellis STEAL (3 STL),D. Williams Lost Ball Turnover (P5.T14),nan,101114,Deron Williams,DAL,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Lost Ball
+153600,21600005,5,0:55,George 25' 3PT Pullup Jump Shot (25 PTS),nan,118 - 125,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+153601,21600005,5,0:44,Teague STEAL (3 STL),D. Williams Bad Pass Turnover (P6.T15),nan,101114,Deron Williams,DAL,201952,Jeff Teague,IND,0,nan,nan,Turnover ,Bad Pass
+153602,21600005,5,0:44,Jump Ball Turner vs. Barea: Tip to Ellis,nan,nan,1626167,Myles Turner,IND,200826,J.J. Barea,DAL,101145,Monta Ellis,IND,Jump Ball ,nan
+153603,21600005,5,0:34,Turner 4' Cutting Dunk Shot (30 PTS) (Teague 8 AST),nan,118 - 127,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+153604,21600005,5,0:34,nan,Mavericks Timeout: Short (Reg.7 Short 3),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153605,21600005,5,0:34,nan,SUB: Anderson FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+153606,21600005,5,0:34,nan,SUB: Powell FOR D. Williams,nan,101114,Deron Williams,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+153607,21600005,5,0:34,nan,Mavericks Timeout: Short (Reg.7 Short 4),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153608,21600005,5,0:34,nan,SUB: Brussino FOR Barea,nan,200826,J.J. Barea,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+153609,21600005,5,0:32,nan,Barnes 27' 3PT Jump Shot (19 PTS) (Brussino 1 AST),121 - 127,203084,Harrison Barnes,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Made Shot ,nan
+153610,21600005,5,0:27,nan,Anderson Personal Take Foul (P1.T2) (T.Ford),nan,1626147,Justin Anderson,DAL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Take
+153611,21600005,5,0:26,nan,Anderson Personal Take Foul (P2.PN) (T.Ford),nan,1626147,Justin Anderson,DAL,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal Take
+153612,21600005,5,0:26,Teague Free Throw 1 of 2 (18 PTS),nan,121 - 128,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153613,21600005,5,0:26,nan,SUB: Acy FOR Powell,nan,203939,Dwight Powell,DAL,203112,Quincy Acy,DAL,0,nan,nan,Substitution ,nan
+153614,21600005,5,0:26,nan,SUB: Finney-Smith FOR Barnes,nan,203084,Harrison Barnes,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+153615,21600005,5,0:26,MISS Teague Free Throw 2 of 2,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153616,21600005,5,0:26,nan,Finney-Smith REBOUND (Off:0 Def:1),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153617,21600005,5,0:12,nan,MISS Anderson 32' 3PT Jump Shot,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153618,21600005,5,0:11,Teague REBOUND (Off:0 Def:2),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153619,21600005,5,0:05,nan,Acy P.FOUL (P1.PN) (T.Ford),nan,203112,Quincy Acy,DAL,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+153620,21600005,5,0:05,Teague Free Throw 1 of 2 (19 PTS),nan,121 - 129,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153621,21600005,5,0:05,Teague Free Throw 2 of 2 (20 PTS),nan,121 - 130,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153622,21600005,5,0:00,nan,MISS Matthews 32' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153623,21600005,5,0:00,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153624,21600005,5,0:00,nan,nan,121 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

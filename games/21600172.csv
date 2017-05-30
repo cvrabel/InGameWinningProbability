@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+174543,21600172,4,12:00,nan,nan,58 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+174544,21600172,4,11:37,Dunn S.FOUL (P1.T1) (K.Mauer),nan,nan,1627739,Kris Dunn,MIN,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Shooting
+174545,21600172,4,11:37,nan,Stauskas Free Throw 1 of 2 (12 PTS),59 - 85,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174546,21600172,4,11:37,nan,Stauskas Free Throw 2 of 2 (13 PTS),60 - 85,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174547,21600172,4,11:28,Dunn Poss Lost Ball Turnover (P1.T11),nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+174548,21600172,4,11:17,Aldrich P.FOUL (P3.T2) (M.Boland),nan,nan,202332,Cole Aldrich,MIN,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Personal
+174549,21600172,4,11:17,SUB: Dieng FOR Aldrich,nan,nan,202332,Cole Aldrich,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+174550,21600172,4,11:04,Payne STEAL (1 STL),Stauskas Lost Ball Turnover (P1.T12),nan,203917,Nik Stauskas,PHI,203940,Adreian Payne,MIN,0,nan,nan,Turnover ,Lost Ball
+174551,21600172,4,10:53,MISS Wiggins 17' Pullup Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174552,21600172,4,10:53,nan,Stauskas REBOUND (Off:1 Def:3),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174553,21600172,4,10:45,SUB: LaVine FOR Wiggins,nan,nan,203952,Andrew Wiggins,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+174554,21600172,4,10:37,nan,MISS Rodriguez 19' Pullup Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174555,21600172,4,10:36,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174556,21600172,4,10:36,Payne L.B.FOUL (P2.T3) (J.Williams),nan,nan,203940,Adreian Payne,MIN,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Loose Ball
+174557,21600172,4,10:28,nan,MISS Embiid 25' 3PT Jump Shot,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174558,21600172,4,10:27,nan,Saric REBOUND (Off:2 Def:0),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174559,21600172,4,10:22,Payne BLOCK (1 BLK),MISS Saric 1' Layup,nan,203967,Dario Saric,PHI,0,nan,nan,203940,Adreian Payne,MIN,Missed Shot ,nan
+174560,21600172,4,10:20,nan,Embiid REBOUND (Off:4 Def:5),nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174561,21600172,4,10:19,Dieng S.FOUL (P5.T4) (J.Williams),nan,nan,203476,Gorgui Dieng,MIN,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+174562,21600172,4,10:19,nan,Embiid Free Throw 1 of 2 (9 PTS),61 - 85,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174563,21600172,4,10:19,SUB: Towns FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+174564,21600172,4,10:19,nan,Embiid Free Throw 2 of 2 (10 PTS),62 - 85,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174565,21600172,4,10:12,MISS LaVine 24' 3PT Jump Shot,nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174566,21600172,4,10:09,nan,Stauskas REBOUND (Off:1 Def:4),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174567,21600172,4,10:00,Jump Ball Dunn vs. Rodriguez: Tip to Towns,nan,nan,1627739,Kris Dunn,MIN,200771,Sergio Rodriguez,PHI,1626157,Karl-Anthony Towns,MIN,Jump Ball ,nan
+174568,21600172,4,10:00,Dunn STEAL (1 STL),Rodriguez Lost Ball Turnover (P3.T13),nan,200771,Sergio Rodriguez,PHI,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+174569,21600172,4,9:36,Towns 2' Layup (19 PTS),nan,62 - 87,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174570,21600172,4,9:19,Payne S.FOUL (P3.PN) (M.Boland),nan,nan,203940,Adreian Payne,MIN,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+174571,21600172,4,9:19,nan,MISS Embiid Free Throw 1 of 2,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174572,21600172,4,9:19,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+174573,21600172,4,9:19,nan,SUB: Luwawu-Cabarrot FOR Stauskas,nan,203917,Nik Stauskas,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+174574,21600172,4,9:19,nan,MISS Embiid Free Throw 2 of 2,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174575,21600172,4,9:18,Bjelica REBOUND (Off:1 Def:3),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174576,21600172,4,8:58,Payne 5' Jump Shot (2 PTS) (Bjelica 1 AST),nan,62 - 89,203940,Adreian Payne,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+174577,21600172,4,8:49,Payne BLOCK (2 BLK),MISS Luwawu-Cabarrot 5' Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,203940,Adreian Payne,MIN,Missed Shot ,nan
+174578,21600172,4,8:48,nan,Saric REBOUND (Off:3 Def:0),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174579,21600172,4,8:46,nan,Saric 1' Layup (7 PTS),64 - 89,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+174580,21600172,4,8:46,Dunn S.FOUL (P2.PN) (K.Mauer),nan,nan,1627739,Kris Dunn,MIN,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+174581,21600172,4,8:46,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+174582,21600172,4,8:46,nan,SUB: Covington FOR Thompson,nan,203138,Hollis Thompson,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+174583,21600172,4,8:46,nan,MISS Saric Free Throw 1 of 1,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+174584,21600172,4,8:45,Payne REBOUND (Off:0 Def:1),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174585,21600172,4,8:27,Towns  Driving Dunk (21 PTS),nan,64 - 91,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174586,21600172,4,8:11,Payne Personal Block Foul (P4.PN) (M.Boland),nan,nan,203940,Adreian Payne,MIN,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Foul ,Personal Block
+174587,21600172,4,8:11,nan,Luwawu-Cabarrot Free Throw 1 of 2 (1 PTS),65 - 91,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174588,21600172,4,8:11,nan,SUB: McConnell FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+174589,21600172,4,8:11,nan,Luwawu-Cabarrot Free Throw 2 of 2 (2 PTS),66 - 91,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174590,21600172,4,7:54,MISS Payne 6' Jump Shot,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174591,21600172,4,7:53,nan,Embiid REBOUND (Off:4 Def:6),nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174592,21600172,4,7:51,Payne T.FOUL (P4.PN) (K.Mauer),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Foul ,Technical
+174593,21600172,4,7:51,nan,nan,nan,1301,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+174594,21600172,4,7:51,nan,Covington Free Throw Technical (3 PTS),67 - 91,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+174595,21600172,4,7:51,nan,Covington Free Throw Technical (4 PTS),68 - 91,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+174596,21600172,4,7:47,Jump Ball Payne vs. Embiid: Tip to Saric,nan,nan,203940,Adreian Payne,MIN,203954,Joel Embiid,PHI,203967,Dario Saric,PHI,Jump Ball ,nan
+174597,21600172,4,7:30,Payne STEAL (2 STL),Covington Bad Pass Turnover (P1.T14),nan,203496,Robert Covington,PHI,203940,Adreian Payne,MIN,0,nan,nan,Turnover ,Bad Pass
+174598,21600172,4,7:28,nan,McConnell S.FOUL (P1.T1) (K.Mauer),nan,204456,T.J. McConnell,PHI,203940,Adreian Payne,MIN,0,nan,nan,Foul ,Shooting
+174599,21600172,4,7:28,Payne Free Throw 1 of 2 (3 PTS),nan,68 - 92,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174600,21600172,4,7:28,nan,SUB: Okafor FOR Embiid,nan,203954,Joel Embiid,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+174601,21600172,4,7:28,Payne Free Throw 2 of 2 (4 PTS),nan,68 - 93,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174602,21600172,4,7:05,nan,MISS Okafor 3' Layup,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174603,21600172,4,7:04,Dunn REBOUND (Off:0 Def:3),nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174604,21600172,4,6:58,MISS Bjelica  3PT Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174605,21600172,4,6:57,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174606,21600172,4,6:57,nan,Saric L.B.FOUL (P2.T2) (M.Boland),nan,203967,Dario Saric,PHI,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Loose Ball
+174607,21600172,4,6:57,SUB: Wiggins FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+174608,21600172,4,6:57,SUB: Dieng FOR Payne,nan,nan,203940,Adreian Payne,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+174609,21600172,4,6:41,Towns  Alley Oop Dunk (23 PTS) (Wiggins 4 AST),nan,68 - 95,1626157,Karl-Anthony Towns,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+174610,21600172,4,6:27,nan,Saric 22' Jump Shot (9 PTS) (McConnell 3 AST),70 - 95,203967,Dario Saric,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+174611,21600172,4,6:09,Wiggins 26' 3PT Jump Shot (31 PTS),nan,70 - 98,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174612,21600172,4,6:09,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+174613,21600172,4,6:08,nan,McConnell Out of Bounds Lost Ball Turnover (P1.T15),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+174614,21600172,4,5:55,Wiggins 13' Pullup Jump Shot (33 PTS),nan,70 - 100,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174615,21600172,4,5:29,nan,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174616,21600172,4,5:28,Wiggins REBOUND (Off:4 Def:5),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174617,21600172,4,5:10,MISS LaVine 2' Layup,nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174618,21600172,4,5:09,Towns REBOUND (Off:3 Def:7),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174619,21600172,4,5:09,Towns 2' Tip Layup Shot (25 PTS),nan,70 - 102,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174620,21600172,4,4:49,nan,McConnell 1' Driving Layup (6 PTS),72 - 102,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+174621,21600172,4,4:40,Dunn Bad Pass Turnover (P2.T12),McConnell STEAL (2 STL),nan,1627739,Kris Dunn,MIN,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+174622,21600172,4,4:36,nan,Saric  Layup (11 PTS) (McConnell 4 AST),74 - 102,203967,Dario Saric,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+174623,21600172,4,4:18,Wiggins 21' Pullup Jump Shot (35 PTS),nan,74 - 104,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+174624,21600172,4,4:04,nan,Saric 22' Jump Shot (13 PTS) (McConnell 5 AST),76 - 104,203967,Dario Saric,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+174625,21600172,4,3:48,MISS Wiggins 25' 3PT Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174626,21600172,4,3:47,nan,Saric REBOUND (Off:3 Def:1),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174627,21600172,4,3:37,nan,MISS Covington 3' Layup,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174628,21600172,4,3:35,Wiggins REBOUND (Off:4 Def:6),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174629,21600172,4,3:26,MISS Dieng 20' Jump Shot,nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174630,21600172,4,3:25,nan,McConnell REBOUND (Off:1 Def:3),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174631,21600172,4,3:18,nan,Saric 24' 3PT Jump Shot (16 PTS) (McConnell 6 AST),79 - 104,203967,Dario Saric,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+174632,21600172,4,3:18,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+174633,21600172,4,3:18,nan,SUB: Holmes FOR Okafor,nan,1626143,Jahlil Okafor,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+174634,21600172,4,3:18,nan,SUB: Thompson FOR Covington,nan,203496,Robert Covington,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+174635,21600172,4,3:18,SUB: Jones FOR LaVine,nan,nan,203897,Zach LaVine,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Substitution ,nan
+174636,21600172,4,3:18,SUB: Payne FOR Towns,nan,nan,1626157,Karl-Anthony Towns,MIN,203940,Adreian Payne,MIN,0,nan,nan,Substitution ,nan
+174637,21600172,4,3:05,MISS Wiggins 24' 3PT Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174638,21600172,4,3:03,Jones REBOUND (Off:1 Def:0),nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174639,21600172,4,2:48,Dieng Lost Ball Turnover (P2.T13),Holmes STEAL (1 STL),nan,203476,Gorgui Dieng,MIN,1626158,Richaun Holmes,PHI,0,nan,nan,Turnover ,Lost Ball
+174640,21600172,4,2:42,nan,MISS Luwawu-Cabarrot 1' Layup,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174641,21600172,4,2:41,nan,Holmes REBOUND (Off:1 Def:0),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174642,21600172,4,2:41,nan,Holmes 1' Putback Layup (2 PTS),81 - 104,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+174643,21600172,4,2:15,MISS Dunn 25' 3PT Jump Shot,nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174644,21600172,4,2:14,nan,Holmes REBOUND (Off:1 Def:1),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174645,21600172,4,2:06,nan,MISS Holmes 24' 3PT Jump Shot,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174646,21600172,4,2:06,Jones REBOUND (Off:1 Def:1),nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174647,21600172,4,1:59,MISS Dieng 3' Layup,Holmes BLOCK (1 BLK),nan,203476,Gorgui Dieng,MIN,0,nan,nan,1626158,Richaun Holmes,PHI,Missed Shot ,nan
+174648,21600172,4,1:58,nan,McConnell REBOUND (Off:1 Def:4),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174649,21600172,4,1:52,nan,Holmes  Dunk (4 PTS) (Saric 1 AST),83 - 104,1626158,Richaun Holmes,PHI,203967,Dario Saric,PHI,0,nan,nan,Made Shot ,nan
+174650,21600172,4,1:44,Payne  Cutting Dunk Shot (6 PTS) (Jones 1 AST),nan,83 - 106,203940,Adreian Payne,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+174651,21600172,4,1:30,nan,Luwawu-Cabarrot 25' 3PT Jump Shot (5 PTS) (McConnell 7 AST),86 - 106,1627789,Timothe Luwawu-Cabarrot,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+174652,21600172,4,1:22,TIMBERWOLVES Timeout: Short (Full 4 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+174653,21600172,4,1:22,SUB: Lucas III FOR Wiggins,nan,nan,203952,Andrew Wiggins,MIN,101249,John Lucas III,MIN,0,nan,nan,Substitution ,nan
+174654,21600172,4,1:22,SUB: Bjelica FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+174655,21600172,4,1:13,nan,Luwawu-Cabarrot S.FOUL (P1.T3) (K.Mauer),nan,1627789,Timothe Luwawu-Cabarrot,PHI,1626145,Tyus Jones,MIN,0,nan,nan,Foul ,Shooting
+174656,21600172,4,1:13,Jones Free Throw 1 of 2 (1 PTS),nan,86 - 107,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174657,21600172,4,1:13,Jones Free Throw 2 of 2 (2 PTS),nan,86 - 108,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174658,21600172,4,1:01,nan,Holmes Out of Bounds - Bad Pass Turnover Turnover (P1.T16),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+174659,21600172,4,0:51,nan,Saric S.FOUL (P3.PN) (M.Boland),nan,203967,Dario Saric,PHI,203940,Adreian Payne,MIN,0,nan,nan,Foul ,Shooting
+174660,21600172,4,0:51,Payne Free Throw 1 of 2 (7 PTS),nan,86 - 109,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174661,21600172,4,0:51,Payne Free Throw 2 of 2 (8 PTS),nan,86 - 110,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174662,21600172,4,0:33,Payne BLOCK (3 BLK),MISS Luwawu-Cabarrot 3' Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,203940,Adreian Payne,MIN,Missed Shot ,nan
+174663,21600172,4,0:31,nan,Luwawu-Cabarrot REBOUND (Off:1 Def:0),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174664,21600172,4,0:29,nan,Luwawu-Cabarrot Step Out of Bounds Turnover (P1.T17),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+174665,21600172,4,0:04,MISS Bjelica 25' 3PT Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174666,21600172,4,0:04,nan,McConnell REBOUND (Off:1 Def:5),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174667,21600172,4,0:00,nan,MISS McConnell 22' Jump Shot,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174668,21600172,4,0:00,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174669,21600172,4,0:00,nan,nan,86 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

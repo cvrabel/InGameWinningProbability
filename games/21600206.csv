@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+178942,21600206,4,12:00,nan,nan,73 - 73,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+178943,21600206,4,11:44,Gasol 17' Jump Shot (16 PTS) (Green 4 AST),nan,73 - 75,2200,Pau Gasol,SAS,201980,Danny Green,SAS,0,nan,nan,Made Shot ,nan
+178944,21600206,4,11:27,nan,Mejri 18' Jump Shot (6 PTS) (Brussino 1 AST),75 - 75,1626257,Salah Mejri,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Made Shot ,nan
+178945,21600206,4,11:12,Mills 25' 3PT Jump Shot (14 PTS),nan,75 - 78,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+178946,21600206,4,10:50,nan,MISS Powell 2' Layup,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178947,21600206,4,10:49,Gasol REBOUND (Off:0 Def:8),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178948,21600206,4,10:42,MISS Mills 17' Pullup Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178949,21600206,4,10:41,Anderson REBOUND (Off:1 Def:1),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178950,21600206,4,10:41,Anderson 1' Tip Layup Shot (2 PTS),nan,75 - 80,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+178951,21600206,4,10:41,nan,Mavericks Timeout: Regular (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+178952,21600206,4,10:41,SUB: Leonard FOR Mills,nan,nan,201988,Patty Mills,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+178953,21600206,4,10:41,nan,SUB: Curry FOR Gibson,nan,1626780,Jonathan Gibson,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+178954,21600206,4,10:41,nan,SUB: Matthews FOR Anderson,nan,1626147,Justin Anderson,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+178955,21600206,4,10:41,nan,SUB: Barnes FOR Powell,nan,203939,Dwight Powell,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+178956,21600206,4,10:27,Lee S.FOUL (P2.T1) (D.Crawford),nan,nan,101135,David Lee,SAS,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+178957,21600206,4,10:27,nan,MISS Barnes Free Throw 1 of 2,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178958,21600206,4,10:27,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+178959,21600206,4,10:27,SUB: Ginobili FOR Green,nan,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+178960,21600206,4,10:27,nan,Barnes Free Throw 2 of 2 (16 PTS),76 - 80,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178961,21600206,4,10:02,MISS Leonard 1' Layup,Mejri BLOCK (1 BLK),nan,202695,Kawhi Leonard,SAS,0,nan,nan,1626257,Salah Mejri,DAL,Missed Shot ,nan
+178962,21600206,4,10:02,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178963,21600206,4,10:02,SPURS Turnover: Shot Clock (T#14),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+178964,21600206,4,9:45,nan,MISS Barnes 17' Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178965,21600206,4,9:45,nan,Barnes REBOUND (Off:3 Def:4),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178966,21600206,4,9:39,nan,Mejri  Cutting Dunk Shot (8 PTS) (Brussino 2 AST),78 - 80,1626257,Salah Mejri,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Made Shot ,nan
+178967,21600206,4,9:21,MISS Gasol 18' Jump Shot,nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178968,21600206,4,9:20,nan,Curry REBOUND (Off:0 Def:2),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178969,21600206,4,9:09,nan,Curry Bad Pass Turnover (P2.T10),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+178970,21600206,4,8:51,nan,Matthews S.FOUL (P3.T1) (G.Zielinski),nan,202083,Wesley Matthews,DAL,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+178971,21600206,4,8:51,Leonard Free Throw 1 of 2 (20 PTS),nan,78 - 81,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178972,21600206,4,8:51,SUB: Bertans FOR Lee,nan,nan,101135,David Lee,SAS,202722,Davis Bertans,SAS,0,nan,nan,Substitution ,nan
+178973,21600206,4,8:51,MISS Leonard Free Throw 2 of 2,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178974,21600206,4,8:49,nan,Mejri REBOUND (Off:0 Def:7),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178975,21600206,4,8:36,nan,Matthews Out of Bounds Lost Ball Turnover (P2.T11),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+178976,21600206,4,8:24,nan,Curry Violation:Kicked Ball (G.Zielinski),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+178977,21600206,4,8:16,MISS Leonard 10' Pullup Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178978,21600206,4,8:16,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178979,21600206,4,8:16,Leonard L.B.FOUL (P2.T2) (M.Ayotte),nan,nan,202695,Kawhi Leonard,SAS,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Loose Ball
+178980,21600206,4,8:01,nan,Barnes 17' Jump Shot (18 PTS),80 - 81,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+178981,21600206,4,7:46,MISS Ginobili 25' 3PT Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178982,21600206,4,7:44,nan,Brussino REBOUND (Off:0 Def:1),nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178983,21600206,4,7:36,Gasol Violation:Kicked Ball (G.Zielinski),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+178984,21600206,4,7:36,SUB: Mills FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+178985,21600206,4,7:27,nan,Curry 18' Step Back Jump Shot (19 PTS),82 - 81,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+178986,21600206,4,7:26,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+178987,21600206,4,7:26,SUB: Lee FOR Gasol,nan,nan,2200,Pau Gasol,SAS,101135,David Lee,SAS,0,nan,nan,Substitution ,nan
+178988,21600206,4,7:16,MISS Mills 17' Pullup Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178989,21600206,4,7:14,nan,Mejri REBOUND (Off:0 Def:8),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178990,21600206,4,6:56,nan,Curry 16' Step Back Jump Shot (21 PTS),84 - 81,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+178991,21600206,4,6:42,MISS Bertans 25' 3PT Jump Shot,nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178992,21600206,4,6:41,nan,Matthews REBOUND (Off:0 Def:3),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178993,21600206,4,6:29,nan,Mejri OFF.Foul (P5) (D.Crawford),nan,1626257,Salah Mejri,DAL,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Offensive
+178994,21600206,4,6:29,nan,Mejri Foul Turnover (P2.T12),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+178995,21600206,4,6:19,Lee 1' Cutting Layup Shot (10 PTS) (Ginobili 3 AST),nan,84 - 83,101135,David Lee,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+178996,21600206,4,6:05,nan,Curry Bad Pass Turnover (P3.T13),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+178997,21600206,4,6:05,SUB: Green FOR Bertans,nan,nan,202722,Davis Bertans,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+178998,21600206,4,6:03,nan,Barnes S.FOUL (P3.T2) (G.Zielinski),nan,203084,Harrison Barnes,DAL,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+178999,21600206,4,6:03,Leonard Free Throw 1 of 2 (21 PTS),nan,84 - 84,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+179000,21600206,4,6:03,Leonard Free Throw 2 of 2 (22 PTS),nan,84 - 85,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+179001,21600206,4,5:44,nan,MISS Curry 24' 3PT Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179002,21600206,4,5:42,nan,Matthews REBOUND (Off:1 Def:3),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179003,21600206,4,5:41,nan,Matthews Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+179004,21600206,4,5:33,nan,Brussino P.FOUL (P3.T3) (D.Crawford),nan,1627852,Nicolas Brussino,DAL,201980,Danny Green,SAS,0,nan,nan,Foul ,Personal
+179005,21600206,4,5:33,nan,SUB: Finney-Smith FOR Brussino,nan,1627852,Nicolas Brussino,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+179006,21600206,4,5:26,Lee 2' Layup (12 PTS) (Mills 1 AST),nan,84 - 87,101135,David Lee,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+179007,21600206,4,5:09,nan,Curry 6' Driving Bank Shot (23 PTS) (Matthews 4 AST),86 - 87,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+179008,21600206,4,5:09,Green S.FOUL (P2.T3) (D.Crawford),nan,nan,201980,Danny Green,SAS,203552,Seth Curry,DAL,0,nan,nan,Foul ,Shooting
+179009,21600206,4,5:09,nan,MISS Curry Free Throw 1 of 1,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+179010,21600206,4,5:08,Leonard REBOUND (Off:2 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179011,21600206,4,4:45,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179012,21600206,4,4:44,nan,Matthews REBOUND (Off:1 Def:4),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179013,21600206,4,4:26,Ginobili STEAL (2 STL),Matthews Lost Ball Turnover (P4.T15),nan,202083,Wesley Matthews,DAL,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Lost Ball
+179014,21600206,4,4:21,Mills 1' Reverse Layup (16 PTS) (Leonard 4 AST),nan,86 - 89,201988,Patty Mills,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+179015,21600206,4,4:21,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+179016,21600206,4,3:56,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179017,21600206,4,3:54,nan,Barnes REBOUND (Off:4 Def:4),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179018,21600206,4,3:53,Ginobili STEAL (3 STL),Barnes Lost Ball Turnover (P3.T16),nan,203084,Harrison Barnes,DAL,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Lost Ball
+179019,21600206,4,3:50,nan,Curry S.FOUL (P2.T4) (M.Ayotte),nan,203552,Seth Curry,DAL,201988,Patty Mills,SAS,0,nan,nan,Foul ,Shooting
+179020,21600206,4,3:50,MISS Mills Free Throw 1 of 2,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+179021,21600206,4,3:50,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+179022,21600206,4,3:50,SUB: Anderson FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+179023,21600206,4,3:50,Mills Free Throw 2 of 2 (17 PTS),nan,86 - 90,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+179024,21600206,4,3:38,nan,MISS Finney-Smith 24' 3PT Jump Shot,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179025,21600206,4,3:37,Leonard REBOUND (Off:2 Def:6),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179026,21600206,4,3:11,MISS Mills 24' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179027,21600206,4,3:11,nan,Finney-Smith REBOUND (Off:0 Def:1),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179028,21600206,4,2:53,nan,Barnes 9' Fadeaway Jumper (20 PTS) (Mejri 1 AST),88 - 90,203084,Harrison Barnes,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Made Shot ,nan
+179029,21600206,4,2:28,MISS Leonard 1' Layup,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179030,21600206,4,2:27,nan,Mejri REBOUND (Off:0 Def:9),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179031,21600206,4,2:11,Leonard STEAL (1 STL),Curry Bad Pass Turnover (P4.T17),nan,203552,Seth Curry,DAL,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+179032,21600206,4,2:07,Leonard  Dunk (24 PTS),nan,88 - 92,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+179033,21600206,4,1:48,nan,MISS Curry  3PT Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179034,21600206,4,1:46,nan,Mejri REBOUND (Off:1 Def:9),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179035,21600206,4,1:42,nan,Matthews 1' Layup (19 PTS),90 - 92,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+179036,21600206,4,1:42,Anderson S.FOUL (P1.T4) (D.Crawford),nan,nan,203937,Kyle Anderson,SAS,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+179037,21600206,4,1:42,SUB: Ginobili FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+179038,21600206,4,1:42,SUB: Gasol FOR Lee,nan,nan,101135,David Lee,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+179039,21600206,4,1:42,nan,MISS Matthews Free Throw 1 of 1,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+179040,21600206,4,1:40,Leonard REBOUND (Off:2 Def:7),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179041,21600206,4,1:22,MISS Mills 24' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179042,21600206,4,1:21,nan,Mejri REBOUND (Off:1 Def:10),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179043,21600206,4,1:14,Green P.FOUL (P3.PN) (M.Ayotte),nan,nan,201980,Danny Green,SAS,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+179044,21600206,4,1:14,nan,MISS Matthews Free Throw 1 of 2,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+179045,21600206,4,1:14,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+179046,21600206,4,1:14,nan,Matthews Free Throw 2 of 2 (20 PTS),91 - 92,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+179047,21600206,4,0:58,MISS Gasol 5' Hook Shot,nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179048,21600206,4,0:56,nan,Barnes REBOUND (Off:4 Def:5),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179049,21600206,4,0:42,nan,MISS Barnes 1' Layup,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179050,21600206,4,0:41,Mills REBOUND (Off:1 Def:2),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179051,21600206,4,0:35,MISS Green 25' 3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179052,21600206,4,0:35,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179053,21600206,4,0:35,nan,nan,nan,487,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+179054,21600206,4,0:35,SUB: Lee FOR Gasol,nan,nan,2200,Pau Gasol,SAS,101135,David Lee,SAS,0,nan,nan,Substitution ,nan
+179055,21600206,4,0:35,nan,SUB: Gibson FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,1626780,Jonathan Gibson,DAL,0,nan,nan,Substitution ,nan
+179056,21600206,4,0:15,nan,MISS Barnes 17' Step Back Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179057,21600206,4,0:15,Ginobili REBOUND (Off:1 Def:3),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179058,21600206,4,0:15,nan,Curry Personal Take Foul (P3.PN) (G.Zielinski),nan,203552,Seth Curry,DAL,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal Take
+179059,21600206,4,0:15,Ginobili Free Throw 1 of 2 (7 PTS),nan,91 - 93,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+179060,21600206,4,0:15,nan,SUB: Powell FOR Gibson,nan,1626780,Jonathan Gibson,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+179061,21600206,4,0:15,Ginobili Free Throw 2 of 2 (8 PTS),nan,91 - 94,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+179062,21600206,4,0:15,nan,Mavericks Timeout: Regular (Reg.6 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+179063,21600206,4,0:15,nan,SUB: Gibson FOR Powell,nan,203939,Dwight Powell,DAL,1626780,Jonathan Gibson,DAL,0,nan,nan,Substitution ,nan
+179064,21600206,4,0:15,SUB: Anderson FOR Lee,nan,nan,101135,David Lee,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+179065,21600206,4,0:06,nan,MISS Curry 26' 3PT Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+179066,21600206,4,0:04,Green REBOUND (Off:0 Def:3),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+179067,21600206,4,0:03,nan,Gibson Personal Take Foul (P1.PN) (M.Ayotte),nan,1626780,Jonathan Gibson,DAL,201980,Danny Green,SAS,0,nan,nan,Foul ,Personal Take
+179068,21600206,4,0:03,Green Free Throw 1 of 2 (6 PTS),nan,91 - 95,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+179069,21600206,4,0:03,Green Free Throw 2 of 2 (7 PTS),nan,91 - 96,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+179070,21600206,4,0:00,nan,nan,91 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+88250,21500707,4,12:00,nan,nan,91 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+88251,21500707,4,11:35,MISS Smith 18' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88252,21500707,4,11:34,nan,Barbosa REBOUND (Off:0 Def:3),nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88253,21500707,4,11:14,nan,MISS Livingston 9' Turnaround Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88254,21500707,4,11:13,McConnell REBOUND (Off:1 Def:2),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88255,21500707,4,11:07,Smith 2' Running Layup (7 PTS) (McConnell 3 AST),nan,91 - 74,202397,Ish Smith,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+88256,21500707,4,10:51,nan,Speights 21' Jump Shot (6 PTS) (Barbosa 3 AST),93 - 74,201578,Marreese Speights,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+88257,21500707,4,10:34,nan,Barbosa P.FOUL (P1.T1) (G.Petraitis),nan,2571,Leandro Barbosa,GSW,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Personal
+88258,21500707,4,10:34,SUB: Noel FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+88259,21500707,4,10:25,Covington 25' 3PT Jump Shot (8 PTS) (Noel 2 AST),nan,93 - 77,203496,Robert Covington,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+88260,21500707,4,10:01,nan,MISS Speights 2' Layup,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88261,21500707,4,9:59,nan,Barnes REBOUND (Off:2 Def:2),nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88262,21500707,4,9:59,nan,MISS Barnes 2' Tip Layup Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88263,21500707,4,9:58,nan,Speights REBOUND (Off:1 Def:3),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88264,21500707,4,9:58,nan,MISS Speights 1' Tip Layup Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88265,21500707,4,9:56,nan,Speights REBOUND (Off:2 Def:3),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88266,21500707,4,9:56,nan,MISS Speights 1' Tip Layup Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88267,21500707,4,9:54,Covington REBOUND (Off:1 Def:9),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88268,21500707,4,9:39,McConnell 15' Pullup Jump Shot (6 PTS),nan,93 - 79,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+88269,21500707,4,9:13,nan,MISS Barnes 26' 3PT Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88270,21500707,4,9:12,McConnell REBOUND (Off:1 Def:3),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88271,21500707,4,9:03,Covington 1' Driving Layup (10 PTS) (Smith 6 AST),nan,93 - 81,203496,Robert Covington,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+88272,21500707,4,8:53,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+88273,21500707,4,8:53,nan,SUB: Thompson FOR Barnes,nan,203084,Harrison Barnes,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+88274,21500707,4,8:53,nan,SUB: Green FOR Livingston,nan,2733,Shaun Livingston,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+88275,21500707,4,8:53,nan,SUB: Curry FOR Clark,nan,203546,Ian Clark,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+88276,21500707,4,8:53,SUB: Thompson FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+88277,21500707,4,8:53,nan,SUB: Barnes FOR Barbosa,nan,2571,Leandro Barbosa,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+88278,21500707,4,8:44,McConnell STEAL (3 STL),Thompson Bad Pass Turnover (P4.T17),nan,202691,Klay Thompson,GSW,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+88279,21500707,4,8:42,nan,Green P.FOUL (P2.T2) (R.Garretson),nan,203110,Draymond Green,GSW,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+88280,21500707,4,8:26,Smith  Driving Layup (9 PTS),nan,93 - 83,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+88281,21500707,4,8:07,nan,Curry 26' 3PT Step Back Jump Shot (18 PTS) (Speights 3 AST),96 - 83,201939,Stephen Curry,GSW,201578,Marreese Speights,GSW,0,nan,nan,Made Shot ,nan
+88282,21500707,4,7:53,Noel  Alley Oop Dunk (5 PTS) (McConnell 4 AST),nan,96 - 85,203457,Nerlens Noel,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+88283,21500707,4,7:36,nan,Thompson 10' Turnaround Jump Shot (30 PTS),98 - 85,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+88284,21500707,4,7:25,MISS Thompson 1' Layup,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88285,21500707,4,7:23,Noel REBOUND (Off:2 Def:2),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88286,21500707,4,7:13,Noel Bad Pass Turnover (P3.T11),Green STEAL (2 STL),nan,203457,Nerlens Noel,PHI,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+88287,21500707,4,7:02,nan,MISS Curry 2' Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88288,21500707,4,7:00,nan,Curry REBOUND (Off:2 Def:1),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88289,21500707,4,7:00,nan,MISS Curry 1' Tip Layup Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88290,21500707,4,6:58,Covington REBOUND (Off:1 Def:10),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88291,21500707,4,6:56,MISS Covington 27' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88292,21500707,4,6:53,nan,Speights REBOUND (Off:2 Def:4),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88293,21500707,4,6:48,nan,MISS Green 2' Layup,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88294,21500707,4,6:46,Noel REBOUND (Off:2 Def:3),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88295,21500707,4,6:43,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+88296,21500707,4,6:43,nan,SUB: Bogut FOR Speights,nan,201578,Marreese Speights,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+88297,21500707,4,6:43,SUB: Canaan FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+88298,21500707,4,6:30,MISS Smith 13' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88299,21500707,4,6:29,nan,Curry REBOUND (Off:2 Def:2),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88300,21500707,4,6:15,nan,MISS Bogut 3' Jump Shot,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88301,21500707,4,6:13,Noel REBOUND (Off:2 Def:4),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88302,21500707,4,6:11,nan,Curry P.FOUL (P2.T3) (R.Garretson),nan,201939,Stephen Curry,GSW,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+88303,21500707,4,5:56,Noel 3 Second Violation Turnover (P4.T12),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+88304,21500707,4,5:42,nan,Thompson  Layup (32 PTS) (Curry 6 AST),100 - 85,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+88305,21500707,4,5:32,Smith 1' Driving Layup (11 PTS),nan,100 - 87,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+88306,21500707,4,5:18,nan,Curry Out of Bounds Lost Ball Turnover (P5.T18),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+88307,21500707,4,5:09,MISS Thompson 20' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88308,21500707,4,5:05,nan,Bogut REBOUND (Off:3 Def:12),nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88309,21500707,4,5:01,Smith STEAL (3 STL),Curry Bad Pass Turnover (P6.T19),nan,201939,Stephen Curry,GSW,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Bad Pass
+88310,21500707,4,4:55,Thompson  3PT Jump Shot (11 PTS) (Smith 7 AST),nan,100 - 90,203138,Hollis Thompson,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+88311,21500707,4,4:25,nan,MISS Curry 6' Running Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88312,21500707,4,4:23,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88313,21500707,4,4:21,Thompson BLOCK (1 BLK),MISS Barnes 3' Layup,nan,203084,Harrison Barnes,GSW,0,nan,nan,203138,Hollis Thompson,PHI,Missed Shot ,nan
+88314,21500707,4,4:18,Thompson REBOUND (Off:1 Def:1),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88315,21500707,4,4:13,MISS Canaan  3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88316,21500707,4,4:10,nan,Curry REBOUND (Off:2 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88317,21500707,4,4:00,nan,MISS Thompson 11' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88318,21500707,4,3:58,nan,Bogut REBOUND (Off:4 Def:12),nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88319,21500707,4,3:58,nan,MISS Bogut 2' Tip Layup Shot,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88320,21500707,4,3:56,Noel REBOUND (Off:2 Def:5),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88321,21500707,4,3:53,MISS Smith 3' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88322,21500707,4,3:51,nan,Barnes REBOUND (Off:2 Def:3),nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88323,21500707,4,3:45,nan,Curry 25' 3PT Jump Shot (21 PTS) (Green 8 AST),103 - 90,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+88324,21500707,4,3:44,76ERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+88325,21500707,4,3:26,nan,Green S.FOUL (P3.T4) (G.Petraitis),nan,203110,Draymond Green,GSW,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+88326,21500707,4,3:26,Noel Free Throw 1 of 2 (6 PTS),nan,103 - 91,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+88327,21500707,4,3:26,Noel Free Throw 2 of 2 (7 PTS),nan,103 - 92,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+88328,21500707,4,3:10,nan,MISS Curry 28' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88329,21500707,4,3:09,Covington REBOUND (Off:1 Def:11),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88330,21500707,4,2:57,MISS Noel 2' Alley Oop Layup,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88331,21500707,4,2:56,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88332,21500707,4,2:47,Smith STEAL (4 STL),Green Bad Pass Turnover (P7.T20),nan,203110,Draymond Green,GSW,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Bad Pass
+88333,21500707,4,2:43,nan,Bogut P.FOUL (P4.PN) (B.Forte),nan,101106,Andrew Bogut,GSW,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+88334,21500707,4,2:43,Smith Free Throw 1 of 2 (12 PTS),nan,103 - 93,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+88335,21500707,4,2:43,MISS Smith Free Throw 2 of 2,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+88336,21500707,4,2:41,nan,Green REBOUND (Off:1 Def:12),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88337,21500707,4,2:29,nan,MISS Thompson 27' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88338,21500707,4,2:27,Covington REBOUND (Off:1 Def:12),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88339,21500707,4,2:21,MISS Canaan 26' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88340,21500707,4,2:20,nan,Barnes REBOUND (Off:2 Def:4),nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88341,21500707,4,2:06,Canaan STEAL (3 STL),Thompson Lost Ball Turnover (P5.T21),nan,202691,Klay Thompson,GSW,203477,Isaiah Canaan,PHI,0,nan,nan,Turnover ,Lost Ball
+88342,21500707,4,2:02,Covington  Running Dunk (12 PTS) (Canaan 2 AST),nan,103 - 95,203496,Robert Covington,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+88343,21500707,4,1:45,nan,Curry Out of Bounds Lost Ball Turnover (P7.T22),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+88344,21500707,4,1:45,nan,nan,nan,492,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+88345,21500707,4,1:31,Noel  Alley Oop Dunk (9 PTS) (Smith 8 AST),nan,103 - 97,203457,Nerlens Noel,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+88346,21500707,4,1:17,nan,MISS Bogut 1' Cutting Layup Shot,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+88347,21500707,4,1:15,Noel REBOUND (Off:2 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+88348,21500707,4,1:01,Smith 16' Pullup Jump Shot (14 PTS),nan,103 - 99,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+88349,21500707,4,1:01,nan,Warriors Timeout: Regular (Reg.5 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+88350,21500707,4,1:01,nan,SUB: Livingston FOR Bogut,nan,101106,Andrew Bogut,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+88351,21500707,4,0:46,nan,Curry 1' Driving Reverse Layup (23 PTS),105 - 99,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+88352,21500707,4,0:40,76ERS Timeout: Regular (Full 6 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+88353,21500707,4,0:38,Canaan  3PT Turnaround Jump Shot (17 PTS) (Smith 9 AST),nan,105 - 102,203477,Isaiah Canaan,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+88354,21500707,4,0:38,nan,Curry S.FOUL (P3.PN) (B.Forte),nan,201939,Stephen Curry,GSW,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Shooting
+88355,21500707,4,0:38,SUB: Grant FOR Thompson,nan,nan,203138,Hollis Thompson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+88356,21500707,4,0:38,Canaan Free Throw 1 of 1 (18 PTS),nan,105 - 103,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+88357,21500707,4,0:24,Canaan STEAL (4 STL),Curry Bad Pass Turnover (P8.T23),nan,201939,Stephen Curry,GSW,203477,Isaiah Canaan,PHI,0,nan,nan,Turnover ,Bad Pass
+88358,21500707,4,0:22,Smith 3' Running Dunk (16 PTS),nan,105 - 105,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+88359,21500707,4,0:22,nan,Warriors Timeout: Short (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+88360,21500707,4,0:00,nan,Barnes 24' 3PT Jump Shot (11 PTS) (Green 9 AST),108 - 105,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+88361,21500707,4,0:00,76ERS Timeout: Short (Full 6 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+88362,21500707,4,0:00,SUB: Stauskas FOR Noel,nan,nan,203457,Nerlens Noel,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+88363,21500707,4,0:00,nan,nan,108 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

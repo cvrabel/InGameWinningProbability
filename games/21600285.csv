@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+188783,21600285,4,12:00,nan,nan,88 - 98,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+188784,21600285,4,11:43,Porzingis Out of Bounds - Bad Pass Turnover Turnover (P4.T11),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+188785,21600285,4,11:28,nan,LaVine 24' 3PT Jump Shot (17 PTS) (Aldrich 2 AST),91 - 98,203897,Zach LaVine,MIN,202332,Cole Aldrich,MIN,0,nan,nan,Made Shot ,nan
+188786,21600285,4,11:13,nan,Aldrich P.FOUL (P2.T1) (B.Barnaky),nan,202332,Cole Aldrich,MIN,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Personal
+188787,21600285,4,11:05,MISS Vujacic 25' 3PT Jump Shot,nan,nan,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188788,21600285,4,11:04,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188789,21600285,4,10:52,MISS Hernangomez 1' Layup,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188790,21600285,4,10:51,nan,Bjelica REBOUND (Off:1 Def:2),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188791,21600285,4,10:46,Porzingis S.FOUL (P3.T1) (M.McCutchen),nan,nan,204001,Kristaps Porzingis,NYK,1627739,Kris Dunn,MIN,0,nan,nan,Foul ,Shooting
+188792,21600285,4,10:46,nan,Dunn Free Throw 1 of 2 (5 PTS),92 - 98,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188793,21600285,4,10:46,nan,Dunn Free Throw 2 of 2 (6 PTS),93 - 98,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188794,21600285,4,10:35,nan,Muhammad P.FOUL (P1.T2) (B.Barnaky),nan,203498,Shabazz Muhammad,MIN,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Foul ,Personal
+188795,21600285,4,10:29,Jennings Traveling Turnover (P3.T12),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Turnover ,Traveling
+188796,21600285,4,10:05,nan,MISS Muhammad  3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188797,21600285,4,10:04,Hernangomez REBOUND (Off:1 Def:3),nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188798,21600285,4,9:47,Hernangomez Bad Pass Turnover (P2.T13),Aldrich STEAL (2 STL),nan,1626195,Willy Hernangomez,NYK,202332,Cole Aldrich,MIN,0,nan,nan,Turnover ,Bad Pass
+188799,21600285,4,9:43,SUB: O'Quinn FOR Hernangomez,nan,nan,1626195,Willy Hernangomez,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+188800,21600285,4,9:39,nan,MISS LaVine 19' Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188801,21600285,4,9:39,Jennings REBOUND (Off:0 Def:2),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188802,21600285,4,9:27,O'Quinn 18' Jump Shot (16 PTS) (Jennings 8 AST),nan,93 - 100,203124,Kyle O'Quinn,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+188803,21600285,4,9:12,nan,LaVine 17' Jump Shot (19 PTS),95 - 100,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+188804,21600285,4,8:54,MISS Jennings 1' Driving Layup,nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188805,21600285,4,8:54,nan,Dunn REBOUND (Off:0 Def:1),nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188806,21600285,4,8:46,nan,MISS Bjelica 26' 3PT Jump Shot,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188807,21600285,4,8:45,Jennings REBOUND (Off:0 Def:3),nan,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188808,21600285,4,8:34,O'Quinn Bad Pass Turnover (P2.T14),LaVine STEAL (1 STL),nan,203124,Kyle O'Quinn,NYK,203897,Zach LaVine,MIN,0,nan,nan,Turnover ,Bad Pass
+188809,21600285,4,8:24,nan,Muhammad 24' 3PT Jump Shot (12 PTS) (Bjelica 3 AST),98 - 100,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+188810,21600285,4,8:06,Jennings Lost Ball Turnover (P4.T15),Dunn STEAL (1 STL),nan,201943,Brandon Jennings,NYK,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+188811,21600285,4,8:01,nan,Muhammad  Alley Oop Dunk (14 PTS) (LaVine 3 AST),100 - 100,203498,Shabazz Muhammad,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+188812,21600285,4,8:01,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188813,21600285,4,8:01,SUB: Holiday FOR Vujacic,nan,nan,2756,Sasha Vujacic,NYK,203200,Justin Holiday,NYK,0,nan,nan,Substitution ,nan
+188814,21600285,4,8:01,SUB: Rose FOR Jennings,nan,nan,201943,Brandon Jennings,NYK,201565,Derrick Rose,NYK,0,nan,nan,Substitution ,nan
+188815,21600285,4,7:42,MISS Kuzminskas 20' Jump Shot,nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188816,21600285,4,7:41,nan,Aldrich REBOUND (Off:5 Def:6),nan,202332,Cole Aldrich,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188817,21600285,4,7:18,nan,MISS Muhammad 7' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188818,21600285,4,7:17,nan,Bjelica REBOUND (Off:2 Def:2),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188819,21600285,4,7:11,nan,MISS Muhammad 24' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188820,21600285,4,7:10,Rose REBOUND (Off:1 Def:2),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188821,21600285,4,7:02,nan,Dunn S.FOUL (P2.T3) (K.Cutler),nan,1627739,Kris Dunn,MIN,201565,Derrick Rose,NYK,0,nan,nan,Foul ,Shooting
+188822,21600285,4,7:02,MISS Rose Free Throw 1 of 2,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188823,21600285,4,7:02,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+188824,21600285,4,7:02,Rose Free Throw 2 of 2 (17 PTS),nan,100 - 101,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188825,21600285,4,6:45,Rose STEAL (1 STL),Muhammad Bad Pass Turnover (P2.T11),nan,203498,Shabazz Muhammad,MIN,201565,Derrick Rose,NYK,0,nan,nan,Turnover ,Bad Pass
+188826,21600285,4,6:39,MISS Holiday 24' 3PT Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188827,21600285,4,6:39,nan,Aldrich REBOUND (Off:5 Def:7),nan,202332,Cole Aldrich,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188828,21600285,4,6:34,nan,LaVine  Dunk (21 PTS) (Dunn 5 AST),102 - 101,203897,Zach LaVine,MIN,1627739,Kris Dunn,MIN,0,nan,nan,Made Shot ,nan
+188829,21600285,4,6:18,nan,Dunn S.FOUL (P3.T4) (B.Barnaky),nan,1627739,Kris Dunn,MIN,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+188830,21600285,4,6:18,MISS Porzingis Free Throw 1 of 2,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188831,21600285,4,6:18,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+188832,21600285,4,6:18,SUB: Anthony FOR Kuzminskas,nan,nan,1627851,Mindaugas Kuzminskas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+188833,21600285,4,6:18,MISS Porzingis Free Throw 2 of 2,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188834,21600285,4,6:17,O'Quinn REBOUND (Off:5 Def:5),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188835,21600285,4,6:17,MISS O'Quinn 2' Tip Layup Shot,nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188836,21600285,4,6:15,O'Quinn REBOUND (Off:6 Def:5),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188837,21600285,4,6:13,O'Quinn 2' Layup (18 PTS),nan,102 - 103,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+188838,21600285,4,5:54,nan,MISS Bjelica 26' 3PT Jump Shot,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188839,21600285,4,5:53,O'Quinn REBOUND (Off:6 Def:6),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188840,21600285,4,5:42,MISS Porzingis 28' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188841,21600285,4,5:41,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188842,21600285,4,5:41,nan,Aldrich P.FOUL (P3.PN) (K.Cutler),nan,202332,Cole Aldrich,MIN,203124,Kyle O'Quinn,NYK,0,nan,nan,Foul ,Personal
+188843,21600285,4,5:41,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+188844,21600285,4,5:41,nan,SUB: Towns FOR Muhammad,nan,203498,Shabazz Muhammad,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+188845,21600285,4,5:41,nan,SUB: Wiggins FOR Bjelica,nan,202357,Nemanja Bjelica,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+188846,21600285,4,5:41,O'Quinn Free Throw 1 of 2 (19 PTS),nan,102 - 104,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188847,21600285,4,5:41,O'Quinn Free Throw 2 of 2 (20 PTS),nan,102 - 105,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188848,21600285,4,5:26,nan,MISS Towns 24' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188849,21600285,4,5:25,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188850,21600285,4,5:25,Porzingis L.B.FOUL (P4.T2) (B.Barnaky),nan,nan,204001,Kristaps Porzingis,NYK,202332,Cole Aldrich,MIN,0,nan,nan,Foul ,Loose Ball
+188851,21600285,4,5:11,nan,Wiggins 16' Jump Shot (17 PTS),104 - 105,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+188852,21600285,4,4:59,Rose 1' Driving Layup (19 PTS),nan,104 - 107,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+188853,21600285,4,4:48,Holiday STEAL (3 STL),Dunn Bad Pass Turnover (P1.T12),nan,1627739,Kris Dunn,MIN,203200,Justin Holiday,NYK,0,nan,nan,Turnover ,Bad Pass
+188854,21600285,4,4:31,Rose 18' Jump Shot (21 PTS),nan,104 - 109,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+188855,21600285,4,4:31,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188856,21600285,4,4:31,nan,SUB: Dieng FOR Aldrich,nan,202332,Cole Aldrich,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+188857,21600285,4,4:31,nan,SUB: Rubio FOR Dunn,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+188858,21600285,4,4:17,nan,MISS Towns 20' Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188859,21600285,4,4:16,Rose REBOUND (Off:1 Def:3),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188860,21600285,4,3:56,MISS Holiday 11' Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188861,21600285,4,3:56,Porzingis REBOUND (Off:2 Def:3),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188862,21600285,4,3:55,MISS Porzingis  Tip Layup Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188863,21600285,4,3:51,nan,Towns REBOUND (Off:2 Def:5),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188864,21600285,4,3:45,Anthony STEAL (2 STL),LaVine Bad Pass Turnover (P2.T13),nan,203897,Zach LaVine,MIN,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Bad Pass
+188865,21600285,4,3:28,MISS Porzingis  3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188866,21600285,4,3:27,nan,Rubio REBOUND (Off:0 Def:2),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188867,21600285,4,3:25,Holiday P.FOUL (P4.T3) (B.Barnaky),nan,nan,203200,Justin Holiday,NYK,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal
+188868,21600285,4,3:14,nan,MISS Rubio 24' 3PT Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188869,21600285,4,3:13,O'Quinn REBOUND (Off:6 Def:7),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188870,21600285,4,2:52,nan,Dieng S.FOUL (P5.PN) (M.McCutchen),nan,203476,Gorgui Dieng,MIN,201565,Derrick Rose,NYK,0,nan,nan,Foul ,Shooting
+188871,21600285,4,2:52,Rose Free Throw 1 of 2 (22 PTS),nan,104 - 110,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188872,21600285,4,2:52,nan,SUB: Bjelica FOR Dieng,nan,203476,Gorgui Dieng,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+188873,21600285,4,2:52,MISS Rose Free Throw 2 of 2,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188874,21600285,4,2:51,O'Quinn REBOUND (Off:7 Def:7),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188875,21600285,4,2:40,KNICKS Timeout: Short (Full 4 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+188876,21600285,4,2:34,MISS Anthony 2' Layup,Towns BLOCK (3 BLK),nan,2546,Carmelo Anthony,NYK,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+188877,21600285,4,2:33,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188878,21600285,4,2:28,MISS Anthony 26' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188879,21600285,4,2:28,nan,Bjelica REBOUND (Off:2 Def:3),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188880,21600285,4,2:15,nan,MISS Towns 25' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188881,21600285,4,2:14,nan,Wiggins REBOUND (Off:1 Def:2),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188882,21600285,4,2:11,nan,Wiggins 1' Layup (19 PTS),106 - 110,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+188883,21600285,4,1:45,MISS Porzingis 9' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188884,21600285,4,1:44,nan,Bjelica REBOUND (Off:2 Def:4),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188885,21600285,4,1:24,Anthony STEAL (3 STL),Bjelica Bad Pass Turnover (P1.T14),nan,202357,Nemanja Bjelica,MIN,2546,Carmelo Anthony,NYK,0,nan,nan,Turnover ,Bad Pass
+188886,21600285,4,1:21,Anthony 2' Layup (27 PTS) (O'Quinn 2 AST),nan,106 - 112,2546,Carmelo Anthony,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+188887,21600285,4,1:21,nan,Timberwolves Timeout: Regular (Reg.6 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+188888,21600285,4,1:16,O'Quinn BLOCK (2 BLK),MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+188889,21600285,4,1:15,nan,Towns REBOUND (Off:3 Def:5),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188890,21600285,4,1:14,Porzingis BLOCK (3 BLK),MISS Towns 1' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+188891,21600285,4,1:13,Jump Ball Porzingis vs. Towns: Tip to Rose,nan,nan,204001,Kristaps Porzingis,NYK,1626157,Karl-Anthony Towns,MIN,201565,Derrick Rose,NYK,Jump Ball ,nan
+188892,21600285,4,1:13,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188893,21600285,4,0:47,MISS Anthony 25' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188894,21600285,4,0:46,nan,Bjelica REBOUND (Off:2 Def:5),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188895,21600285,4,0:42,Holiday BLOCK (1 BLK),MISS Bjelica 3' Layup,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,203200,Justin Holiday,NYK,Missed Shot ,nan
+188896,21600285,4,0:40,nan,Rubio REBOUND (Off:1 Def:2),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188897,21600285,4,0:33,nan,MISS LaVine 28' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+188898,21600285,4,0:33,Rose REBOUND (Off:1 Def:4),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+188899,21600285,4,0:31,nan,LaVine Personal Take Foul (P3.PN) (B.Barnaky),nan,203897,Zach LaVine,MIN,201565,Derrick Rose,NYK,0,nan,nan,Foul ,Personal Take
+188900,21600285,4,0:31,Rose Free Throw 1 of 2 (23 PTS),nan,106 - 113,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188901,21600285,4,0:31,Rose Free Throw 2 of 2 (24 PTS),nan,106 - 114,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188902,21600285,4,0:31,nan,Timberwolves Timeout: Short (Reg.6 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+188903,21600285,4,0:29,nan,Bjelica 24' 3PT Jump Shot (14 PTS) (Wiggins 3 AST),109 - 114,202357,Nemanja Bjelica,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+188904,21600285,4,0:15,nan,Towns Personal Take Foul (P4.PN) (K.Cutler),nan,1626157,Karl-Anthony Towns,MIN,203200,Justin Holiday,NYK,0,nan,nan,Foul ,Personal Take
+188905,21600285,4,0:15,Holiday Free Throw 1 of 2 (12 PTS),nan,109 - 115,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188906,21600285,4,0:15,Holiday Free Throw 2 of 2 (13 PTS),nan,109 - 116,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188907,21600285,4,0:08,nan,Bjelica 26' 3PT Jump Shot (17 PTS) (Wiggins 4 AST),112 - 116,202357,Nemanja Bjelica,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+188908,21600285,4,0:06,nan,Wiggins Personal Take Foul (P3.PN) (K.Cutler),nan,203952,Andrew Wiggins,MIN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal Take
+188909,21600285,4,0:06,Anthony Free Throw 1 of 2 (28 PTS),nan,112 - 117,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+188910,21600285,4,0:06,Anthony Free Throw 2 of 2 (29 PTS),nan,112 - 118,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+188911,21600285,4,0:02,nan,LaVine  Dunk (23 PTS),114 - 118,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+188912,21600285,4,0:00,nan,nan,114 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+246305,21600754,4,12:00,nan,nan,84 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+246306,21600754,4,11:41,nan,Powell P.FOUL (P2.T1) (D.Crawford),nan,203939,Dwight Powell,DAL,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+246307,21600754,4,11:31,Davis  Dunk (5 PTS) (McCollum 4 AST),nan,84 - 78,202334,Ed Davis,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+246308,21600754,4,11:16,nan,Curry 2' Driving Layup (12 PTS),86 - 78,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+246309,21600754,4,10:55,MISS McCollum 19' Step Back Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246310,21600754,4,10:55,nan,Powell REBOUND (Off:0 Def:2),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246311,21600754,4,10:29,nan,MISS Ferrell 15' Driving Floating Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246312,21600754,4,10:27,McCollum REBOUND (Off:2 Def:4),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246313,21600754,4,10:22,MISS Crabbe 1' Driving Layup,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246314,21600754,4,10:21,nan,Finney-Smith REBOUND (Off:1 Def:3),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246315,21600754,4,10:07,Crabbe STEAL (1 STL),Ferrell Bad Pass Turnover (P2.T4),nan,1627812,Yogi Ferrell,DAL,203459,Allen Crabbe,POR,0,nan,nan,Turnover ,Bad Pass
+246316,21600754,4,9:56,nan,Powell P.FOUL (P3.T2) (M.Boland),nan,203939,Dwight Powell,DAL,202334,Ed Davis,POR,0,nan,nan,Foul ,Personal
+246317,21600754,4,9:48,McCollum Bad Pass Turnover (P2.T7),Finney-Smith STEAL (1 STL),nan,203468,CJ McCollum,POR,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Turnover ,Bad Pass
+246318,21600754,4,9:44,Crabbe S.FOUL (P3.T1) (M.Boland),nan,nan,203459,Allen Crabbe,POR,1627812,Yogi Ferrell,DAL,0,nan,nan,Foul ,Shooting
+246319,21600754,4,9:44,nan,MISS Ferrell Free Throw 1 of 2,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246320,21600754,4,9:44,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+246321,21600754,4,9:44,nan,Ferrell Free Throw 2 of 2 (29 PTS),87 - 78,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246322,21600754,4,9:31,Harkless 2' Turnaround Jump Shot (2 PTS) (McCollum 5 AST),nan,87 - 80,203090,Maurice Harkless,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+246323,21600754,4,9:23,Crabbe P.FOUL (P4.T2) (M.Boland),nan,nan,203459,Allen Crabbe,POR,1627812,Yogi Ferrell,DAL,0,nan,nan,Foul ,Personal
+246324,21600754,4,9:23,nan,SUB: Matthews FOR Curry,nan,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+246325,21600754,4,9:10,nan,MISS Finney-Smith  3PT Jump Shot,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246326,21600754,4,9:10,McCollum REBOUND (Off:2 Def:5),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246327,21600754,4,9:02,McCollum  Driving Reverse Layup (19 PTS),nan,87 - 82,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246328,21600754,4,9:02,nan,Mavericks Timeout: Regular (Reg.4 Short 0),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246329,21600754,4,9:02,SUB: Lillard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+246330,21600754,4,9:02,nan,SUB: Barnes FOR Powell,nan,203939,Dwight Powell,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+246331,21600754,4,8:38,nan,Matthews 24' 3PT Jump Shot (23 PTS) (Ferrell 5 AST),90 - 82,202083,Wesley Matthews,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+246332,21600754,4,8:20,MISS Aminu 6' Driving Floating Bank Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246333,21600754,4,8:19,nan,Barnes REBOUND (Off:0 Def:6),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246334,21600754,4,7:56,nan,MISS Ferrell 29' 3PT Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246335,21600754,4,7:56,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246336,21600754,4,7:56,nan,Mavericks Turnover: Shot Clock (T#5),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+246337,21600754,4,7:44,Lillard 25' 3PT Pullup Jump Shot (13 PTS),nan,90 - 85,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246338,21600754,4,7:30,nan,SUB: Mejri FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Substitution ,nan
+246339,21600754,4,7:30,nan,SUB: Curry FOR Ferrell,nan,1627812,Yogi Ferrell,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+246340,21600754,4,7:30,SUB: Turner FOR Harkless,nan,nan,203090,Maurice Harkless,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+246341,21600754,4,7:22,nan,MISS Matthews 21' Fadeaway Jumper,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246342,21600754,4,7:22,Aminu REBOUND (Off:0 Def:7),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246343,21600754,4,7:16,nan,Finney-Smith P.FOUL (P4.T3) (M.Boland),nan,1627827,Dorian Finney-Smith,DAL,202334,Ed Davis,POR,0,nan,nan,Foul ,Personal
+246344,21600754,4,7:16,SUB: Plumlee FOR Davis,nan,nan,202334,Ed Davis,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+246345,21600754,4,7:12,nan,Mejri Personal Block Foul (P3.T4) (S.Twardoski),nan,1626257,Salah Mejri,DAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal Block
+246346,21600754,4,7:03,MISS Turner 24' 3PT Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246347,21600754,4,7:01,nan,Curry REBOUND (Off:0 Def:3),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246348,21600754,4,6:44,nan,Matthews 17' Pullup Jump Shot (25 PTS),92 - 85,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+246349,21600754,4,6:31,MISS Lillard 15' Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246350,21600754,4,6:30,nan,Mejri REBOUND (Off:1 Def:4),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246351,21600754,4,6:17,nan,MISS Curry 19' Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246352,21600754,4,6:16,Turner REBOUND (Off:0 Def:4),nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246353,21600754,4,6:06,Turner Out of Bounds Lost Ball Turnover (P3.T8),nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+246354,21600754,4,6:06,SUB: McCollum FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+246355,21600754,4,5:49,nan,MISS Barnes  3PT Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246356,21600754,4,5:47,Plumlee REBOUND (Off:3 Def:4),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246357,21600754,4,5:37,MISS Lillard 1' Driving Reverse Layup,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246358,21600754,4,5:36,Plumlee REBOUND (Off:4 Def:4),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246359,21600754,4,5:35,Plumlee 1' Putback Layup (9 PTS),nan,92 - 87,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246360,21600754,4,5:14,nan,Matthews Offensive Charge Foul (P3.PN) (D.Crawford),nan,202083,Wesley Matthews,DAL,203468,CJ McCollum,POR,0,nan,nan,Foul ,Offensive Charge
+246361,21600754,4,5:14,nan,Matthews Foul Turnover (P2.T6),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+246362,21600754,4,5:14,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+246363,21600754,4,5:00,McCollum 16' Step Back Jump Shot (21 PTS),nan,92 - 89,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246364,21600754,4,4:34,nan,Mavericks Turnover: Shot Clock (T#7),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+246365,21600754,4,4:34,nan,SUB: Nowitzki FOR Mejri,nan,1626257,Salah Mejri,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+246366,21600754,4,4:17,Aminu 25' 3PT Jump Shot (11 PTS) (McCollum 6 AST),nan,92 - 92,202329,Al-Farouq Aminu,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+246367,21600754,4,4:02,nan,Nowitzki 25' 3PT Jump Shot (9 PTS) (Curry 2 AST),95 - 92,1717,Dirk Nowitzki,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+246368,21600754,4,3:43,nan,Curry S.FOUL (P5.PN) (M.Boland),nan,203552,Seth Curry,DAL,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+246369,21600754,4,3:43,McCollum Free Throw 1 of 2 (22 PTS),nan,95 - 93,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246370,21600754,4,3:43,nan,SUB: Ferrell FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Substitution ,nan
+246371,21600754,4,3:43,McCollum Free Throw 2 of 2 (23 PTS),nan,95 - 94,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246372,21600754,4,3:29,nan,Curry 6' Driving Floating Bank Jump Shot (14 PTS),97 - 94,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+246373,21600754,4,3:09,McCollum 20' Pullup Jump Shot (25 PTS),nan,97 - 96,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246374,21600754,4,2:55,nan,MISS Nowitzki 27' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246375,21600754,4,2:55,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246376,21600754,4,2:55,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246377,21600754,4,2:55,nan,SUB: Finney-Smith FOR Ferrell,nan,1627812,Yogi Ferrell,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+246378,21600754,4,2:42,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+246379,21600754,4,2:28,nan,Curry 26' 3PT Pullup Jump Shot (17 PTS),100 - 96,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+246380,21600754,4,2:15,MISS Aminu 25' 3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246381,21600754,4,2:14,Lillard REBOUND (Off:1 Def:7),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246382,21600754,4,2:09,MISS Aminu 24' 3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246383,21600754,4,2:08,nan,Barnes REBOUND (Off:0 Def:7),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246384,21600754,4,2:08,Plumlee P.FOUL (P1.T3) (S.Twardoski),nan,nan,203486,Mason Plumlee,POR,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+246385,21600754,4,1:50,Plumlee S.FOUL (P2.T4) (D.Crawford),nan,nan,203486,Mason Plumlee,POR,203552,Seth Curry,DAL,0,nan,nan,Foul ,Shooting
+246386,21600754,4,1:50,nan,Curry Free Throw 1 of 2 (18 PTS),101 - 96,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246387,21600754,4,1:50,nan,Curry Free Throw 2 of 2 (19 PTS),102 - 96,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246388,21600754,4,1:39,Aminu 24' 3PT Jump Shot (14 PTS) (Lillard 6 AST),nan,102 - 99,202329,Al-Farouq Aminu,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+246389,21600754,4,1:23,nan,MISS Curry 24' 3PT Step Back Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246390,21600754,4,1:22,Aminu REBOUND (Off:0 Def:8),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246391,21600754,4,1:11,MISS Lillard 1' Driving Layup,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246392,21600754,4,1:10,nan,Matthews REBOUND (Off:0 Def:6),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246393,21600754,4,0:50,nan,MISS Matthews 24' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246394,21600754,4,0:49,Plumlee REBOUND (Off:4 Def:5),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246395,21600754,4,0:37,Turner 2' Driving Reverse Layup (24 PTS),nan,102 - 101,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246396,21600754,4,0:37,nan,Mavericks Timeout: Regular (Reg.5 Short 0),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246397,21600754,4,0:37,SUB: Harkless FOR Plumlee,nan,nan,203486,Mason Plumlee,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+246398,21600754,4,0:37,nan,SUB: Ferrell FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Substitution ,nan
+246399,21600754,4,0:19,nan,Ferrell 24' 3PT Jump Shot (32 PTS) (Barnes 2 AST),105 - 101,1627812,Yogi Ferrell,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+246400,21600754,4,0:19,TRAIL BLAZERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+246401,21600754,4,0:19,SUB: Plumlee FOR Harkless,nan,nan,203090,Maurice Harkless,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+246402,21600754,4,0:19,SUB: Crabbe FOR Turner,nan,nan,202323,Evan Turner,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+246403,21600754,4,0:19,nan,SUB: Finney-Smith FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+246404,21600754,4,0:14,McCollum 24' 3PT Step Back Jump Shot (28 PTS),nan,105 - 104,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+246405,21600754,4,0:14,nan,Mavericks Timeout: Short (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+246406,21600754,4,0:14,nan,SUB: Nowitzki FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+246407,21600754,4,0:14,Crabbe Personal Take Foul (P5.PN) (D.Crawford),nan,nan,203459,Allen Crabbe,POR,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal Take
+246408,21600754,4,0:14,nan,Matthews Free Throw 1 of 2 (26 PTS),106 - 104,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246409,21600754,4,0:14,nan,SUB: Finney-Smith FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+246410,21600754,4,0:14,nan,Matthews Free Throw 2 of 2 (27 PTS),107 - 104,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246411,21600754,4,0:14,TRAIL BLAZERS Timeout: Short (Full 5 Short 2),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+246412,21600754,4,0:14,SUB: Turner FOR Plumlee,nan,nan,203486,Mason Plumlee,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+246413,21600754,4,0:09,MISS McCollum 26' 3PT Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246414,21600754,4,0:08,Lillard REBOUND (Off:2 Def:7),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246415,21600754,4,0:03,MISS Lillard 25' 3PT Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246416,21600754,4,0:02,nan,Finney-Smith REBOUND (Off:1 Def:4),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246417,21600754,4,0:02,McCollum Personal Take Foul (P5.PN) (M.Boland),nan,nan,203468,CJ McCollum,POR,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Personal Take
+246418,21600754,4,0:02,nan,MISS Finney-Smith Free Throw 1 of 2,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+246419,21600754,4,0:02,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+246420,21600754,4,0:02,nan,Finney-Smith Free Throw 2 of 2 (1 PTS),108 - 104,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+246421,21600754,4,0:02,TRAIL BLAZERS Timeout: Short (Full 5 Short 3),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+246422,21600754,4,0:02,SUB: Plumlee FOR Aminu,nan,nan,202329,Al-Farouq Aminu,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+246423,21600754,4,0:00,MISS Lillard 27' 3PT Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+246424,21600754,4,0:00,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+246425,21600754,4,0:00,nan,nan,108 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

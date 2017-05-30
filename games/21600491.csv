@@ -1,0 +1,102 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+214092,21600491,4,12:00,nan,nan,81 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+214093,21600491,4,11:48,Robinson STEAL (1 STL),Harris Bad Pass Turnover (P2.T11),nan,2734,Devin Harris,DAL,203080,Thomas Robinson,LAL,0,nan,nan,Turnover ,Bad Pass
+214094,21600491,4,11:40,MISS Ingram 3' Layup,Mejri BLOCK (1 BLK),nan,1627742,Brandon Ingram,LAL,0,nan,nan,1626257,Salah Mejri,DAL,Missed Shot ,nan
+214095,21600491,4,11:39,Robinson REBOUND (Off:4 Def:6),nan,nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214096,21600491,4,11:28,Williams Lost Ball Turnover (P4.T12),Barnes STEAL (1 STL),nan,101150,Lou Williams,LAL,203084,Harrison Barnes,DAL,0,nan,nan,Turnover ,Lost Ball
+214097,21600491,4,11:09,nan,Curry Double Dribble Turnover (P1.T12),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+214098,21600491,4,10:54,Robinson 3' Turnaround Hook Shot (8 PTS),nan,81 - 72,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214099,21600491,4,10:32,nan,Curry 20' Step Back Jump Shot (7 PTS),83 - 72,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214100,21600491,4,10:17,Williams  Cutting Layup Shot (9 PTS),nan,83 - 74,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214101,21600491,4,9:54,nan,MISS Barnes 11' Turnaround Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214102,21600491,4,9:51,nan,Mejri REBOUND (Off:1 Def:0),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214103,21600491,4,9:36,nan,MISS Harris 25' 3PT Jump Shot,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214104,21600491,4,9:35,Ingram REBOUND (Off:1 Def:5),nan,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214105,21600491,4,9:29,nan,Curry S.FOUL (P4.T1) (D.Crawford),nan,203552,Seth Curry,DAL,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+214106,21600491,4,9:29,MISS Williams Free Throw 1 of 2,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214107,21600491,4,9:29,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+214108,21600491,4,9:29,nan,SUB: D. Williams FOR Harris,nan,2734,Devin Harris,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+214109,21600491,4,9:29,Williams Free Throw 2 of 2 (10 PTS),nan,83 - 75,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214110,21600491,4,9:18,Clarkson P.FOUL (P2.T1) (N.Buchert),nan,nan,203903,Jordan Clarkson,LAL,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+214111,21600491,4,9:07,Clarkson STEAL (2 STL),Barnes Lost Ball Turnover (P2.T13),nan,203084,Harrison Barnes,DAL,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Lost Ball
+214112,21600491,4,9:06,nan,Barnes L.B.FOUL (P1.T2) (N.Buchert),nan,203084,Harrison Barnes,DAL,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Loose Ball
+214113,21600491,4,8:54,MISS Williams 20' Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214114,21600491,4,8:53,nan,Barnes REBOUND (Off:2 Def:5),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214115,21600491,4,8:42,nan,Mejri  Cutting Dunk Shot (2 PTS) (D. Williams 10 AST),85 - 75,1626257,Salah Mejri,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+214116,21600491,4,8:29,Robinson OFF.Foul (P3) (N.Buchert),nan,nan,203080,Thomas Robinson,LAL,101114,Deron Williams,DAL,0,nan,nan,Foul ,Offensive
+214117,21600491,4,8:29,Robinson Foul Turnover (P2.T13),nan,nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+214118,21600491,4,8:29,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+214119,21600491,4,8:29,SUB: Russell FOR Deng,nan,nan,2736,Luol Deng,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+214120,21600491,4,8:29,SUB: Young FOR Robinson,nan,nan,203080,Thomas Robinson,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+214121,21600491,4,8:29,SUB: Randle FOR Williams,nan,nan,101150,Lou Williams,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+214122,21600491,4,8:21,Ingram S.FOUL (P1.T2) (D.Crawford),nan,nan,1627742,Brandon Ingram,LAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Shooting
+214123,21600491,4,8:21,nan,MISS Finney-Smith Free Throw 1 of 2,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214124,21600491,4,8:21,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+214125,21600491,4,8:21,nan,Finney-Smith Free Throw 2 of 2 (12 PTS),86 - 75,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214126,21600491,4,8:06,MISS Clarkson 24' 3PT Jump Shot,nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214127,21600491,4,8:05,nan,Mejri REBOUND (Off:1 Def:1),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214128,21600491,4,7:47,nan,MISS Barnes 13' Step Back Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214129,21600491,4,7:44,Clarkson REBOUND (Off:0 Def:1),nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214130,21600491,4,7:30,MISS Young 26' 3PT Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214131,21600491,4,7:29,nan,Barnes REBOUND (Off:2 Def:6),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214132,21600491,4,7:13,nan,Barnes  3PT Jump Shot (17 PTS) (D. Williams 11 AST),89 - 75,203084,Harrison Barnes,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+214133,21600491,4,6:56,Ingram 1' Driving Layup (3 PTS),nan,89 - 77,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214134,21600491,4,6:44,nan,D. Williams Out of Bounds Lost Ball Turnover (P5.T14),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+214135,21600491,4,6:23,MISS Russell 25' 3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214136,21600491,4,6:21,nan,Mejri REBOUND (Off:1 Def:2),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214137,21600491,4,5:58,nan,MISS Finney-Smith  3PT Jump Shot,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214138,21600491,4,5:58,nan,Mejri REBOUND (Off:2 Def:2),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214139,21600491,4,5:58,nan,Mavericks Turnover: Shot Clock (T#15),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+214140,21600491,4,5:58,LAKERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214141,21600491,4,5:58,nan,SUB: Matthews FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+214142,21600491,4,5:47,Russell Bad Pass Turnover (P3.T14),Curry STEAL (3 STL),nan,1626156,D'Angelo Russell,LAL,203552,Seth Curry,DAL,0,nan,nan,Turnover ,Bad Pass
+214143,21600491,4,5:30,nan,D. Williams 25' 3PT Jump Shot (8 PTS) (Barnes 3 AST),92 - 77,101114,Deron Williams,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+214144,21600491,4,5:20,Randle Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+214145,21600491,4,5:09,Clarkson STEAL (3 STL),D. Williams Bad Pass Turnover (P6.T16),nan,101114,Deron Williams,DAL,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Bad Pass
+214146,21600491,4,5:05,Clarkson  Running Dunk (13 PTS) (Russell 5 AST),nan,92 - 79,203903,Jordan Clarkson,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+214147,21600491,4,4:43,nan,Mejri 4' Hook Shot (4 PTS) (Matthews 2 AST),94 - 79,1626257,Salah Mejri,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+214148,21600491,4,4:28,nan,D. Williams S.FOUL (P4.T3) (D.Crawford),nan,101114,Deron Williams,DAL,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+214149,21600491,4,4:28,Randle Free Throw 1 of 2 (13 PTS),nan,94 - 80,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214150,21600491,4,4:28,Randle Free Throw 2 of 2 (14 PTS),nan,94 - 81,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214151,21600491,4,4:12,Ingram S.FOUL (P2.T3) (N.Buchert),nan,nan,1627742,Brandon Ingram,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+214152,21600491,4,4:12,nan,Matthews Free Throw 1 of 2 (17 PTS),95 - 81,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214153,21600491,4,4:12,nan,MISS Matthews Free Throw 2 of 2,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214154,21600491,4,4:11,Young REBOUND (Off:0 Def:2),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214155,21600491,4,3:56,MISS Russell 7' Floating Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214156,21600491,4,3:53,Randle REBOUND (Off:1 Def:1),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214157,21600491,4,3:53,MISS Randle 2' Tip Layup Shot,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214158,21600491,4,3:50,nan,Barnes REBOUND (Off:2 Def:7),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214159,21600491,4,3:33,nan,Matthews 18' Step Back Jump Shot (19 PTS),97 - 81,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214160,21600491,4,3:22,nan,D. Williams S.FOUL (P5.T4) (D.Crawford),nan,101114,Deron Williams,DAL,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+214161,21600491,4,3:22,Randle Free Throw 1 of 2 (15 PTS),nan,97 - 82,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214162,21600491,4,3:22,nan,Mavericks Timeout: Regular (Reg.4 Short 0),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214163,21600491,4,3:22,MISS Randle Free Throw 2 of 2,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214164,21600491,4,3:20,nan,Mejri REBOUND (Off:2 Def:3),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214165,21600491,4,3:12,Ingram P.FOUL (P3.T4) (D.Crawford),nan,nan,1627742,Brandon Ingram,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+214166,21600491,4,3:00,nan,MISS Barnes  3PT Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214167,21600491,4,2:59,Randle REBOUND (Off:1 Def:2),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214168,21600491,4,2:42,nan,D. Williams S.FOUL (P6.PN) (D.Crawford),nan,101114,Deron Williams,DAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Shooting
+214169,21600491,4,2:42,nan,SUB: Harris FOR D. Williams,nan,101114,Deron Williams,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+214170,21600491,4,2:42,Russell Free Throw 1 of 2 (14 PTS),nan,97 - 83,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214171,21600491,4,2:42,Russell Free Throw 2 of 2 (15 PTS),nan,97 - 84,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214172,21600491,4,2:22,nan,MISS Matthews 25' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214173,21600491,4,2:20,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214174,21600491,4,2:08,nan,Harris 25' 3PT Jump Shot (14 PTS) (Barnes 4 AST),100 - 84,2734,Devin Harris,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+214175,21600491,4,1:57,Clarkson 2' Driving Finger Roll Layup (15 PTS),nan,100 - 86,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+214176,21600491,4,1:33,nan,MISS Harris 8' Jump Bank Shot,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214177,21600491,4,1:30,Russell REBOUND (Off:0 Def:4),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214178,21600491,4,1:27,Randle  Cutting Dunk Shot (17 PTS) (Russell 6 AST),nan,100 - 88,203944,Julius Randle,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+214179,21600491,4,1:06,nan,MISS Barnes 17' Step Back Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214180,21600491,4,1:04,nan,Mejri REBOUND (Off:3 Def:3),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214181,21600491,4,0:49,Randle S.FOUL (P3.PN) (D.Crawford),nan,nan,203944,Julius Randle,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+214182,21600491,4,0:49,nan,Matthews Free Throw 1 of 2 (20 PTS),101 - 88,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214183,21600491,4,0:49,nan,MISS Matthews Free Throw 2 of 2,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214184,21600491,4,0:47,Randle REBOUND (Off:1 Def:3),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214185,21600491,4,0:41,MISS Young 22' Running Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214186,21600491,4,0:38,nan,Harris REBOUND (Off:0 Def:1),nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214187,21600491,4,0:18,nan,Mavericks Turnover: Shot Clock (T#17),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+214188,21600491,4,0:13,nan,Harris S.FOUL (P1.PN) (D.Crawford),nan,2734,Devin Harris,DAL,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+214189,21600491,4,0:13,MISS Randle Free Throw 1 of 2,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214190,21600491,4,0:13,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+214191,21600491,4,0:13,Randle Free Throw 2 of 2 (18 PTS),nan,101 - 89,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214192,21600491,4,0:00,nan,nan,101 - 89,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

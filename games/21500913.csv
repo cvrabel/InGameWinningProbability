@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+114435,21500913,4,12:00,nan,nan,84 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+114436,21500913,4,11:46,Hezonja STEAL (1 STL),Teletovic Bad Pass Turnover (P1.T12),nan,203141,Mirza Teletovic,PHX,1626209,Mario Hezonja,ORL,0,nan,nan,Turnover ,Bad Pass
+114437,21500913,4,11:41,Smith 2' Running Layup (6 PTS) (Hezonja 2 AST),nan,84 - 68,201160,Jason Smith,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+114438,21500913,4,11:23,Fournier P.FOUL (P4.T1) (D.Jones),nan,nan,203095,Evan Fournier,ORL,203141,Mirza Teletovic,PHX,0,nan,nan,Foul ,Personal
+114439,21500913,4,11:08,nan,Suns Turnover: Shot Clock (T#13),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+114440,21500913,4,11:00,Fournier 24' 3PT Jump Shot (10 PTS) (Watson 3 AST),nan,84 - 71,203095,Evan Fournier,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+114441,21500913,4,10:58,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+114442,21500913,4,10:58,nan,SUB: Len FOR Leuer,nan,202720,Jon Leuer,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+114443,21500913,4,10:46,nan,Len 2' Layup (27 PTS) (Jenkins 2 AST),86 - 71,203458,Alex Len,PHX,203098,John Jenkins,PHX,0,nan,nan,Made Shot ,nan
+114444,21500913,4,10:26,MISS Hezonja 17' Fadeaway Jumper,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114445,21500913,4,10:25,nan,Len REBOUND (Off:4 Def:6),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114446,21500913,4,10:03,nan,MISS Teletovic 16' Driving Floating Bank Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114447,21500913,4,10:02,Fournier REBOUND (Off:0 Def:2),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114448,21500913,4,9:53,Fournier Bad Pass Turnover (P2.T11),Len STEAL (1 STL),nan,203095,Evan Fournier,ORL,203458,Alex Len,PHX,0,nan,nan,Turnover ,Bad Pass
+114449,21500913,4,9:33,nan,Len Offensive Charge Foul (P2.T1) (D.Jones),nan,203458,Alex Len,PHX,201160,Jason Smith,ORL,0,nan,nan,Foul ,Offensive Charge
+114450,21500913,4,9:33,nan,Len Foul Turnover (P2.T14),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+114451,21500913,4,9:26,MISS Watson 17' Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114452,21500913,4,9:24,nan,Goodwin REBOUND (Off:0 Def:3),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114453,21500913,4,9:19,nan,Goodwin  Driving Layup (9 PTS),88 - 71,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+114454,21500913,4,9:03,MISS Payton 1' Layup,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114455,21500913,4,9:01,nan,Len REBOUND (Off:4 Def:7),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114456,21500913,4,8:56,Payton STEAL (3 STL),Price Lost Ball Turnover (P1.T15),nan,101179,Ronnie Price,PHX,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Lost Ball
+114457,21500913,4,8:52,Payton  Running Dunk (17 PTS),nan,88 - 73,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+114458,21500913,4,8:41,Payton P.FOUL (P2.T2) (B.Barnaky),nan,nan,203901,Elfrid Payton,ORL,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Personal
+114459,21500913,4,8:34,nan,Len OFF.Foul (P3) (D.Jones),nan,203458,Alex Len,PHX,201160,Jason Smith,ORL,0,nan,nan,Foul ,Offensive
+114460,21500913,4,8:34,nan,Len Foul Turnover (P3.T16),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+114461,21500913,4,8:25,MISS Smith 20' Jump Shot,nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114462,21500913,4,8:24,nan,Goodwin REBOUND (Off:0 Def:4),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114463,21500913,4,8:19,Hezonja S.FOUL (P4.T3) (D.Jones),nan,nan,1626209,Mario Hezonja,ORL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+114464,21500913,4,8:19,nan,MISS Goodwin Free Throw 1 of 2,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114465,21500913,4,8:19,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+114466,21500913,4,8:19,SUB: Ilyasova FOR Watson,nan,nan,201228,C.J. Watson,ORL,101141,Ersan Ilyasova,ORL,0,nan,nan,Substitution ,nan
+114467,21500913,4,8:19,nan,Goodwin Free Throw 2 of 2 (10 PTS),89 - 73,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114468,21500913,4,8:03,MISS Fournier 2' Driving Reverse Layup,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114469,21500913,4,8:02,nan,Len REBOUND (Off:4 Def:8),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114470,21500913,4,7:57,nan,MISS Teletovic 25' 3PT Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114471,21500913,4,7:54,nan,Len REBOUND (Off:5 Def:8),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114472,21500913,4,7:54,nan,MISS Len  Tip Dunk Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114473,21500913,4,7:53,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114474,21500913,4,7:47,Smith OFF.Foul (P5) (B.Barnaky),nan,nan,201160,Jason Smith,ORL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Offensive
+114475,21500913,4,7:47,Smith Foul Turnover (P1.T12),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+114476,21500913,4,7:47,SUB: Vucevic FOR Smith,nan,nan,201160,Jason Smith,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+114477,21500913,4,7:31,nan,MISS Jenkins 18' Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114478,21500913,4,7:30,Ilyasova REBOUND (Off:5 Def:3),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114479,21500913,4,7:23,MISS Vucevic 20' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114480,21500913,4,7:22,nan,Teletovic REBOUND (Off:0 Def:3),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114481,21500913,4,7:04,nan,Price 21' Jump Shot (9 PTS),91 - 73,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+114482,21500913,4,6:55,MISS Payton 2' Reverse Layup,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114483,21500913,4,6:53,Payton REBOUND (Off:2 Def:0),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114484,21500913,4,6:53,Payton 1' Putback Layup (19 PTS),nan,91 - 75,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+114485,21500913,4,6:28,nan,Price 14' Floating Jump Shot (11 PTS) (Goodwin 1 AST),93 - 75,101179,Ronnie Price,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+114486,21500913,4,6:14,MISS Ilyasova 26' 3PT Jump Shot,nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114487,21500913,4,6:14,nan,Teletovic REBOUND (Off:0 Def:4),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114488,21500913,4,5:56,nan,MISS Len 15' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114489,21500913,4,5:55,Ilyasova REBOUND (Off:5 Def:4),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114490,21500913,4,5:44,MISS Vucevic 10' Turnaround Hook Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114491,21500913,4,5:43,nan,Len REBOUND (Off:5 Def:9),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114492,21500913,4,5:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+114493,21500913,4,5:37,nan,SUB: Booker FOR Jenkins,nan,203098,John Jenkins,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+114494,21500913,4,5:37,Jump Ball Vucevic vs. Goodwin: Tip to Fournier,nan,nan,202696,Nikola Vucevic,ORL,203462,Archie Goodwin,PHX,203095,Evan Fournier,ORL,Jump Ball ,nan
+114495,21500913,4,5:37,Vucevic STEAL (3 STL),Goodwin Lost Ball Turnover (P2.T17),nan,203462,Archie Goodwin,PHX,202696,Nikola Vucevic,ORL,0,nan,nan,Turnover ,Lost Ball
+114496,21500913,4,5:24,nan,Goodwin P.FOUL (P1.T2) (S.Wright),nan,203462,Archie Goodwin,PHX,1626209,Mario Hezonja,ORL,0,nan,nan,Foul ,Personal
+114497,21500913,4,5:09,MISS Vucevic 2' Driving Layup,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114498,21500913,4,5:08,Ilyasova REBOUND (Off:6 Def:4),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114499,21500913,4,5:08,MISS Ilyasova  Layup,nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114500,21500913,4,5:06,Ilyasova REBOUND (Off:7 Def:4),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114501,21500913,4,5:06,MISS Ilyasova 1' Layup,nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114502,21500913,4,5:05,nan,Teletovic REBOUND (Off:0 Def:5),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114503,21500913,4,4:46,nan,MISS Teletovic 26' 3PT Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114504,21500913,4,4:45,Hezonja REBOUND (Off:0 Def:4),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114505,21500913,4,4:33,Ilyasova 1' Layup (5 PTS) (Payton 11 AST),nan,93 - 77,101141,Ersan Ilyasova,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+114506,21500913,4,4:18,Fournier STEAL (2 STL),Price Bad Pass Turnover (P2.T18),nan,101179,Ronnie Price,PHX,203095,Evan Fournier,ORL,0,nan,nan,Turnover ,Bad Pass
+114507,21500913,4,4:16,nan,Price S.FOUL (P2.T3) (B.Barnaky),nan,101179,Ronnie Price,PHX,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Shooting
+114508,21500913,4,4:16,MISS Fournier Free Throw 1 of 2,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114509,21500913,4,4:16,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+114510,21500913,4,4:16,nan,SUB: Tucker FOR Goodwin,nan,203462,Archie Goodwin,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+114511,21500913,4,4:16,nan,SUB: Chandler FOR Teletovic,nan,203141,Mirza Teletovic,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+114512,21500913,4,4:16,MISS Fournier Free Throw 2 of 2,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114513,21500913,4,4:14,nan,Tucker REBOUND (Off:1 Def:5),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114514,21500913,4,4:05,nan,MISS Chandler 2' Driving Layup,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114515,21500913,4,4:03,Ilyasova REBOUND (Off:7 Def:5),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114516,21500913,4,3:55,MISS Vucevic 14' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114517,21500913,4,3:52,nan,Chandler REBOUND (Off:1 Def:11),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114518,21500913,4,3:37,Vucevic BLOCK (1 BLK),MISS Len 8' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,202696,Nikola Vucevic,ORL,Missed Shot ,nan
+114519,21500913,4,3:34,Vucevic REBOUND (Off:0 Def:12),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114520,21500913,4,3:30,Fournier 2' Running Layup (12 PTS),nan,93 - 79,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+114521,21500913,4,3:15,Vucevic S.FOUL (P3.T4) (B.Barnaky),nan,nan,202696,Nikola Vucevic,ORL,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Shooting
+114522,21500913,4,3:15,nan,MISS Chandler Free Throw 1 of 2,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114523,21500913,4,3:15,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+114524,21500913,4,3:15,nan,MISS Chandler Free Throw 2 of 2,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114525,21500913,4,3:15,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114526,21500913,4,3:15,nan,SUB: Teletovic FOR Chandler,nan,2199,Tyson Chandler,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+114527,21500913,4,3:14,Vucevic P.FOUL (P4.PN) (D.Jones),nan,nan,202696,Nikola Vucevic,ORL,203458,Alex Len,PHX,0,nan,nan,Foul ,Personal
+114528,21500913,4,3:14,nan,Len Free Throw 1 of 2 (28 PTS),94 - 79,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114529,21500913,4,3:14,nan,Len Free Throw 2 of 2 (29 PTS),95 - 79,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114530,21500913,4,3:02,MISS Hezonja  3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114531,21500913,4,3:01,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114532,21500913,4,3:01,Vucevic P.FOUL (P5.PN) (B.Barnaky),nan,nan,202696,Nikola Vucevic,ORL,203458,Alex Len,PHX,0,nan,nan,Foul ,Personal
+114533,21500913,4,3:01,nan,MISS Len Free Throw 1 of 2,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114534,21500913,4,3:01,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+114535,21500913,4,3:01,SUB: Jennings FOR Fournier,nan,nan,203095,Evan Fournier,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Substitution ,nan
+114536,21500913,4,3:01,SUB: Dedmon FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,203473,Dewayne Dedmon,ORL,0,nan,nan,Substitution ,nan
+114537,21500913,4,3:01,SUB: Nicholson FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203094,Andrew Nicholson,ORL,0,nan,nan,Substitution ,nan
+114538,21500913,4,3:01,SUB: Napier FOR Payton,nan,nan,203901,Elfrid Payton,ORL,203894,Shabazz Napier,ORL,0,nan,nan,Substitution ,nan
+114539,21500913,4,3:01,SUB: Marble FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,ORL,203906,Devyn Marble,ORL,0,nan,nan,Substitution ,nan
+114540,21500913,4,3:01,nan,MISS Len Free Throw 2 of 2,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114541,21500913,4,3:00,Dedmon REBOUND (Off:2 Def:2),nan,nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114542,21500913,4,2:40,MISS Jennings 16' Floating Jump Shot,nan,nan,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114543,21500913,4,2:39,Jennings REBOUND (Off:1 Def:1),nan,nan,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114544,21500913,4,2:36,MISS Marble 25' 3PT Jump Shot,nan,nan,203906,Devyn Marble,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114545,21500913,4,2:33,nan,Len REBOUND (Off:5 Def:10),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114546,21500913,4,2:20,Dedmon S.FOUL (P3.PN) (B.Barnaky),nan,nan,203473,Dewayne Dedmon,ORL,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+114547,21500913,4,2:20,MAGIC Timeout: Regular (Full 4 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+114548,21500913,4,2:20,nan,Len Free Throw 1 of 2 (30 PTS),96 - 79,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114549,21500913,4,2:20,nan,Len Free Throw 2 of 2 (31 PTS),97 - 79,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114550,21500913,4,2:07,Napier 25' 3PT Jump Shot (3 PTS) (Dedmon 1 AST),nan,97 - 82,203894,Shabazz Napier,ORL,203473,Dewayne Dedmon,ORL,0,nan,nan,Made Shot ,nan
+114551,21500913,4,1:48,Dedmon STEAL (1 STL),Len Bad Pass Turnover (P4.T19),nan,203458,Alex Len,PHX,203473,Dewayne Dedmon,ORL,0,nan,nan,Turnover ,Bad Pass
+114552,21500913,4,1:43,Dedmon  Alley Oop Dunk (3 PTS) (Jennings 2 AST),nan,97 - 84,203473,Dewayne Dedmon,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Made Shot ,nan
+114553,21500913,4,1:24,nan,Price 27' 3PT Jump Shot (14 PTS) (Booker 6 AST),100 - 84,101179,Ronnie Price,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+114554,21500913,4,1:14,MISS Napier 20' Pullup Jump Shot,nan,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114555,21500913,4,1:13,nan,Tucker REBOUND (Off:1 Def:6),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114556,21500913,4,1:02,Jennings P.FOUL (P1.PN) (S.Wright),nan,nan,201943,Brandon Jennings,ORL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+114557,21500913,4,1:02,nan,Booker Free Throw 1 of 2 (13 PTS),101 - 84,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+114558,21500913,4,1:02,nan,SUB: Leuer FOR Len,nan,203458,Alex Len,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+114559,21500913,4,1:02,nan,Booker Free Throw 2 of 2 (14 PTS),102 - 84,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+114560,21500913,4,0:52,Napier Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+114561,21500913,4,0:32,nan,MISS Price 13' Jump Shot,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+114562,21500913,4,0:30,Marble REBOUND (Off:2 Def:5),nan,nan,203906,Devyn Marble,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+114563,21500913,4,0:21,Marble Lost Ball Turnover (P2.T14),Tucker STEAL (1 STL),nan,203906,Devyn Marble,ORL,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Lost Ball
+114564,21500913,4,0:00,nan,nan,102 - 84,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

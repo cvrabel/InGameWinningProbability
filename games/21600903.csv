@@ -1,0 +1,98 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+264612,21600903,4,12:00,nan,nan,81 - 53,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+264613,21600903,4,11:40,Favors 2' Reverse Layup (10 PTS),nan,81 - 55,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+264614,21600903,4,11:21,Favors BLOCK (1 BLK),MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,202324,Derrick Favors,UTA,Missed Shot ,nan
+264615,21600903,4,11:21,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264616,21600903,4,11:14,nan,Timberwolves Turnover: Shot Clock (T#9),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+264617,21600903,4,10:50,MISS Favors 16' Jump Shot,nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264618,21600903,4,10:50,nan,Jones REBOUND (Off:0 Def:1),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264619,21600903,4,10:41,Favors P.FOUL (P4.T1) (C.Blair),nan,nan,202324,Derrick Favors,UTA,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+264620,21600903,4,10:36,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+264621,21600903,4,10:29,nan,MISS Muhammad  3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264622,21600903,4,10:28,Burks REBOUND (Off:1 Def:3),nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264623,21600903,4,10:19,nan,Bjelica P.FOUL (P2.T1) (D.Stafford),nan,202357,Nemanja Bjelica,MIN,202692,Alec Burks,UTA,0,nan,nan,Foul ,Personal
+264624,21600903,4,10:11,nan,Bjelica S.FOUL (P3.T2) (M.Smith),nan,202357,Nemanja Bjelica,MIN,203957,Dante Exum,UTA,0,nan,nan,Foul ,Shooting
+264625,21600903,4,10:11,MISS Exum Free Throw 1 of 2,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264626,21600903,4,10:11,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+264627,21600903,4,10:11,SUB: Withey FOR Favors,nan,nan,202324,Derrick Favors,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+264628,21600903,4,10:11,Exum Free Throw 2 of 2 (11 PTS),nan,81 - 56,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264629,21600903,4,9:50,nan,MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264630,21600903,4,9:50,Ingles REBOUND (Off:0 Def:3),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264631,21600903,4,9:38,MISS Exum 25' 3PT Jump Shot,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264632,21600903,4,9:38,nan,Towns REBOUND (Off:3 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264633,21600903,4,9:23,nan,Towns 6' Turnaround Jump Shot (19 PTS) (Jones 2 AST),83 - 56,1626157,Karl-Anthony Towns,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+264634,21600903,4,9:03,Withey 2' Layup (2 PTS) (Lyles 1 AST),nan,83 - 58,203481,Jeff Withey,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Made Shot ,nan
+264635,21600903,4,8:45,nan,MISS Towns 17' Fadeaway Jumper,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264636,21600903,4,8:44,Burks REBOUND (Off:1 Def:4),nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264637,21600903,4,8:35,MISS Lyles 24' 3PT Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264638,21600903,4,8:34,nan,Towns REBOUND (Off:3 Def:11),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264639,21600903,4,8:17,Ingles STEAL (2 STL),Towns Bad Pass Turnover (P4.T10),nan,1626157,Karl-Anthony Towns,MIN,204060,Joe Ingles,UTA,0,nan,nan,Turnover ,Bad Pass
+264640,21600903,4,8:12,Ingles 1' Running Layup (5 PTS),nan,83 - 60,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+264641,21600903,4,8:12,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+264642,21600903,4,8:12,SUB: Neto FOR Exum,nan,nan,203957,Dante Exum,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+264643,21600903,4,8:03,Withey P.FOUL (P1.T2) (D.Stafford),nan,nan,203481,Jeff Withey,UTA,1626145,Tyus Jones,MIN,0,nan,nan,Foul ,Personal
+264644,21600903,4,8:00,Withey P.FOUL (P2.T3) (C.Blair),nan,nan,203481,Jeff Withey,UTA,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+264645,21600903,4,7:55,nan,Muhammad 4' Turnaround Bank Shot (8 PTS) (Bjelica 2 AST),85 - 60,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+264646,21600903,4,7:41,Burks 15' Jump Shot (4 PTS) (Withey 1 AST),nan,85 - 62,202692,Alec Burks,UTA,203481,Jeff Withey,UTA,0,nan,nan,Made Shot ,nan
+264647,21600903,4,7:21,nan,Bjelica 2' Layup (11 PTS) (Towns 3 AST),87 - 62,202357,Nemanja Bjelica,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+264648,21600903,4,6:58,MISS Ingles 24' 3PT Step Back Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264649,21600903,4,6:57,nan,Towns REBOUND (Off:3 Def:12),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264650,21600903,4,6:41,nan,Towns 2' Driving Layup (21 PTS),89 - 62,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+264651,21600903,4,6:41,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+264652,21600903,4,6:41,SUB: Exum FOR Ingles,nan,nan,204060,Joe Ingles,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+264653,21600903,4,6:23,nan,Bjelica S.FOUL (P4.T3) (D.Stafford),nan,202357,Nemanja Bjelica,MIN,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Shooting
+264654,21600903,4,6:23,MISS Lyles Free Throw 1 of 2,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264655,21600903,4,6:23,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+264656,21600903,4,6:23,Lyles Free Throw 2 of 2 (1 PTS),nan,89 - 63,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264657,21600903,4,6:10,Withey BLOCK (1 BLK),MISS Towns 2' Driving Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,203481,Jeff Withey,UTA,Missed Shot ,nan
+264658,21600903,4,6:08,Withey REBOUND (Off:0 Def:1),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264659,21600903,4,5:55,MISS Burks 2' Driving Reverse Layup,nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264660,21600903,4,5:54,nan,Bjelica REBOUND (Off:1 Def:8),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264661,21600903,4,5:41,nan,MISS Muhammad 25' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264662,21600903,4,5:40,Burks REBOUND (Off:1 Def:5),nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264663,21600903,4,5:31,MISS Withey 3' Hook Bank Shot,nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264664,21600903,4,5:30,nan,Bjelica REBOUND (Off:1 Def:9),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264665,21600903,4,5:24,Withey P.FOUL (P3.T4) (D.Stafford),nan,nan,203481,Jeff Withey,UTA,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+264666,21600903,4,5:24,nan,SUB: Aldrich FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,202332,Cole Aldrich,MIN,0,nan,nan,Substitution ,nan
+264667,21600903,4,5:18,nan,Muhammad 1' Layup (10 PTS) (Bjelica 3 AST),91 - 63,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+264668,21600903,4,5:01,MISS Withey  Layup,Bjelica BLOCK (1 BLK),nan,203481,Jeff Withey,UTA,0,nan,nan,202357,Nemanja Bjelica,MIN,Missed Shot ,nan
+264669,21600903,4,4:59,Withey REBOUND (Off:1 Def:1),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264670,21600903,4,4:58,Withey 2' Layup (4 PTS),nan,91 - 65,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+264671,21600903,4,4:49,Burks P.FOUL (P3.PN) (M.Smith),nan,nan,202692,Alec Burks,UTA,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+264672,21600903,4,4:49,nan,Muhammad Free Throw 1 of 2 (11 PTS),92 - 65,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264673,21600903,4,4:49,nan,Muhammad Free Throw 2 of 2 (12 PTS),93 - 65,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264674,21600903,4,4:43,Exum Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+264675,21600903,4,4:29,Withey Violation:Kicked Ball (M.Smith),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+264676,21600903,4,4:25,nan,Muhammad  Cutting Dunk Shot (14 PTS) (Bjelica 4 AST),95 - 65,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+264677,21600903,4,4:03,Exum 3' Driving Hook Shot (13 PTS),nan,95 - 67,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+264678,21600903,4,3:51,nan,Muhammad 5' Turnaround Bank Shot (16 PTS),97 - 67,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+264679,21600903,4,3:36,Exum  Cutting Dunk Shot (15 PTS) (Burks 1 AST),nan,97 - 69,203957,Dante Exum,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+264680,21600903,4,3:15,nan,Jones Traveling Turnover (P1.T11),nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+264681,21600903,4,3:03,MISS Exum 4' Jump Shot,Aldrich BLOCK (1 BLK),nan,203957,Dante Exum,UTA,0,nan,nan,202332,Cole Aldrich,MIN,Missed Shot ,nan
+264682,21600903,4,3:01,Withey REBOUND (Off:2 Def:1),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264683,21600903,4,2:59,Burks  Dunk (6 PTS) (Withey 2 AST),nan,97 - 71,202692,Alec Burks,UTA,203481,Jeff Withey,UTA,0,nan,nan,Made Shot ,nan
+264684,21600903,4,2:45,nan,Dunn 25' 3PT Jump Shot (4 PTS) (Bjelica 5 AST),100 - 71,1627739,Kris Dunn,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+264685,21600903,4,2:31,Lyles 2' Driving Layup (3 PTS) (Burks 2 AST),nan,100 - 73,1626168,Trey Lyles,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+264686,21600903,4,2:21,Burks P.FOUL (P4.PN) (M.Smith),nan,nan,202692,Alec Burks,UTA,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+264687,21600903,4,2:21,nan,Muhammad Free Throw 1 of 2 (17 PTS),101 - 73,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264688,21600903,4,2:21,nan,Muhammad Free Throw 2 of 2 (18 PTS),102 - 73,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264689,21600903,4,2:14,Lyles Lost Ball Turnover (P1.T14),Aldrich STEAL (1 STL),nan,1626168,Trey Lyles,UTA,202332,Cole Aldrich,MIN,0,nan,nan,Turnover ,Lost Ball
+264690,21600903,4,2:10,nan,Muhammad Out of Bounds Lost Ball Turnover (P1.T12),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+264691,21600903,4,1:56,nan,Aldrich S.FOUL (P1.T4) (M.Smith),nan,202332,Cole Aldrich,MIN,202692,Alec Burks,UTA,0,nan,nan,Foul ,Shooting
+264692,21600903,4,1:56,Burks Free Throw 1 of 2 (7 PTS),nan,102 - 74,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264693,21600903,4,1:56,Burks Free Throw 2 of 2 (8 PTS),nan,102 - 75,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264694,21600903,4,1:39,nan,MISS Jones 24' 3PT Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264695,21600903,4,1:37,Burks REBOUND (Off:1 Def:6),nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264696,21600903,4,1:28,MISS Burks 3' Driving Layup,Bjelica BLOCK (2 BLK),nan,202692,Alec Burks,UTA,0,nan,nan,202357,Nemanja Bjelica,MIN,Missed Shot ,nan
+264697,21600903,4,1:28,nan,Bjelica REBOUND (Off:1 Def:10),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264698,21600903,4,1:13,nan,MISS Muhammad 2' Layup,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264699,21600903,4,1:12,Neto REBOUND (Off:0 Def:1),nan,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264700,21600903,4,1:12,nan,Muhammad P.FOUL (P3.PN) (M.Smith),nan,203498,Shabazz Muhammad,MIN,203526,Raul Neto,UTA,0,nan,nan,Foul ,Personal
+264701,21600903,4,1:12,Neto Free Throw 1 of 2 (1 PTS),nan,102 - 76,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264702,21600903,4,1:12,MISS Neto Free Throw 2 of 2,nan,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264703,21600903,4,1:11,nan,Aldrich REBOUND (Off:0 Def:1),nan,202332,Cole Aldrich,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264704,21600903,4,0:50,nan,Bjelica 4' Driving Bank Shot (13 PTS),104 - 76,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+264705,21600903,4,0:35,Withey 2' Cutting Layup Shot (6 PTS) (Neto 1 AST),nan,104 - 78,203481,Jeff Withey,UTA,203526,Raul Neto,UTA,0,nan,nan,Made Shot ,nan
+264706,21600903,4,0:15,nan,Jones 24' 3PT Jump Shot (5 PTS) (Muhammad 1 AST),107 - 78,1626145,Tyus Jones,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Made Shot ,nan
+264707,21600903,4,0:00,Withey 3' Layup (8 PTS) (Exum 3 AST),nan,107 - 80,203481,Jeff Withey,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+264708,21600903,4,0:00,nan,nan,107 - 80,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

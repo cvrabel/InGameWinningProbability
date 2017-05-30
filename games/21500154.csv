@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+19474,21500154,4,12:00,nan,nan,87 - 68,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+19475,21500154,4,11:59,Terry Bad Pass Turnover (P3.T20),Smart STEAL (4 STL),nan,1891,Jason Terry,HOU,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+19476,21500154,4,11:59,Terry BLOCK (1 BLK),MISS Smart 9' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,1891,Jason Terry,HOU,Missed Shot ,nan
+19477,21500154,4,11:59,nan,Jerebko REBOUND (Off:1 Def:0),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19478,21500154,4,11:54,nan,Jerebko 3' Layup (4 PTS),89 - 68,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19479,21500154,4,11:32,MISS Ariza  3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19480,21500154,4,11:31,nan,Smart REBOUND (Off:1 Def:4),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19481,21500154,4,11:13,nan,MISS Jerebko 16' Pullup Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19482,21500154,4,11:12,Howard REBOUND (Off:4 Def:7),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19483,21500154,4,11:02,Howard 2' Alley Oop Layup (5 PTS) (Thornton 1 AST),nan,89 - 70,2730,Dwight Howard,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+19484,21500154,4,10:46,nan,Bradley 18' Pullup Jump Shot (16 PTS),91 - 70,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19485,21500154,4,10:37,nan,Bradley P.FOUL (P1.T1) (E.Malloy),nan,202340,Avery Bradley,BOS,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Personal
+19486,21500154,4,10:29,Lawson Bad Pass Turnover (P3.T21),Olynyk STEAL (1 STL),nan,201951,Ty Lawson,HOU,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Bad Pass
+19487,21500154,4,10:22,nan,Jerebko 1' Cutting Layup Shot (6 PTS) (Bradley 2 AST),93 - 70,201973,Jonas Jerebko,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+19488,21500154,4,10:17,ROCKETS Timeout: Short (Full 4 Short 2),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+19489,21500154,4,10:00,Lawson Bad Pass Turnover (P4.T22),Smart STEAL (5 STL),nan,201951,Ty Lawson,HOU,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+19490,21500154,4,9:55,nan,Bradley 1' Running Dunk (18 PTS) (Smart 5 AST),95 - 70,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+19491,21500154,4,9:39,MISS Thornton 17' Pullup Jump Shot,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19492,21500154,4,9:39,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19493,21500154,4,9:39,Howard L.B.FOUL (P3.T1) (E.Malloy),nan,nan,2730,Dwight Howard,HOU,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Loose Ball
+19494,21500154,4,9:39,SUB: McDaniels FOR Lawson,nan,nan,201951,Ty Lawson,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+19495,21500154,4,9:17,nan,Turner 8' Turnaround Fadeaway (6 PTS) (Olynyk 2 AST),97 - 70,202323,Evan Turner,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+19496,21500154,4,9:01,McDaniels 12' Driving Bank Shot (2 PTS) (Terry 3 AST),nan,97 - 72,203909,KJ McDaniels,HOU,1891,Jason Terry,HOU,0,nan,nan,Made Shot ,nan
+19497,21500154,4,8:49,nan,Bradley 25' 3PT Jump Shot (21 PTS) (Jerebko 1 AST),100 - 72,202340,Avery Bradley,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+19498,21500154,4,8:31,MISS McDaniels 19' Pullup Jump Shot,nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19499,21500154,4,8:30,nan,Smart REBOUND (Off:1 Def:5),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19500,21500154,4,8:22,nan,MISS Bradley 25' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19501,21500154,4,8:21,Howard REBOUND (Off:4 Def:8),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19502,21500154,4,8:18,Thornton 1' Running Layup (2 PTS) (Howard 3 AST),nan,100 - 74,201977,Marcus Thornton,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+19503,21500154,4,7:58,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19504,21500154,4,7:58,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19505,21500154,4,7:58,Howard L.B.FOUL (P4.T2) (B.Forte),nan,nan,2730,Dwight Howard,HOU,201973,Jonas Jerebko,BOS,0,nan,nan,Foul ,Loose Ball
+19506,21500154,4,7:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19507,21500154,4,7:58,Howard T.FOUL (P4.T2) (B.Forte),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Foul ,Technical
+19508,21500154,4,7:58,SUB: Jones FOR Ariza,nan,nan,2772,Trevor Ariza,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+19509,21500154,4,7:58,SUB: Capela FOR Howard,nan,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+19510,21500154,4,7:58,SUB: Brewer FOR Terry,nan,nan,1891,Jason Terry,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+19511,21500154,4,7:58,nan,SUB: Hunter FOR Bradley,nan,202340,Avery Bradley,BOS,1626154,RJ Hunter,BOS,0,nan,nan,Substitution ,nan
+19512,21500154,4,7:58,nan,Turner Free Throw Technical (7 PTS),101 - 74,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+19513,21500154,4,7:42,nan,MISS Smart 25' 3PT Pullup Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19514,21500154,4,7:41,Capela REBOUND (Off:4 Def:2),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19515,21500154,4,7:30,MISS Thornton 25' 3PT Pullup Jump Shot,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19516,21500154,4,7:29,nan,Turner REBOUND (Off:0 Def:5),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19517,21500154,4,7:16,nan,Smart  Cutting Dunk Shot (4 PTS) (Jerebko 2 AST),103 - 74,203935,Marcus Smart,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+19518,21500154,4,6:56,nan,Jerebko S.FOUL (P1.T2) (E.Malloy),nan,201973,Jonas Jerebko,BOS,203909,KJ McDaniels,HOU,0,nan,nan,Foul ,Shooting
+19519,21500154,4,6:56,MISS McDaniels Free Throw 1 of 2,nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19520,21500154,4,6:56,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19521,21500154,4,6:56,nan,SUB: Zeller FOR Smart,nan,203935,Marcus Smart,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+19522,21500154,4,6:56,MISS McDaniels Free Throw 2 of 2,nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19523,21500154,4,6:56,nan,Zeller REBOUND (Off:0 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19524,21500154,4,6:42,Capela BLOCK (2 BLK),MISS Olynyk 7' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+19525,21500154,4,6:40,Capela REBOUND (Off:4 Def:3),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19526,21500154,4,6:34,MISS Brewer 24' 3PT Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19527,21500154,4,6:33,nan,Olynyk REBOUND (Off:1 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19528,21500154,4,6:19,nan,MISS Turner 16' Pullup Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19529,21500154,4,6:18,nan,Olynyk REBOUND (Off:2 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19530,21500154,4,6:18,Thornton L.B.FOUL (P1.T3) (B.Forte),nan,nan,201977,Marcus Thornton,HOU,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Loose Ball
+19531,21500154,4,6:08,nan,MISS Zeller 6' Turnaround Hook Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19532,21500154,4,6:07,Jones REBOUND (Off:2 Def:3),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19533,21500154,4,5:50,MISS Jones 3' Layup,nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19534,21500154,4,5:49,McDaniels REBOUND (Off:1 Def:0),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19535,21500154,4,5:49,MISS McDaniels 1' Tip Layup Shot,nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19536,21500154,4,5:47,nan,Jerebko REBOUND (Off:1 Def:1),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19537,21500154,4,5:44,nan,Jerebko Offensive Charge Foul (P2.T3) (E.Malloy),nan,201973,Jonas Jerebko,BOS,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Offensive Charge
+19538,21500154,4,5:44,nan,Jerebko Foul Turnover (P1.T15),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+19539,21500154,4,5:44,ROCKETS Timeout: Regular (Full 5 Short 2),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19540,21500154,4,5:44,nan,SUB: Rozier FOR Turner,nan,202323,Evan Turner,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+19541,21500154,4,5:33,nan,Zeller S.FOUL (P2.T4) (E.Roe),nan,203092,Tyler Zeller,BOS,203991,Clint Capela,HOU,0,nan,nan,Foul ,Shooting
+19542,21500154,4,5:33,MISS Capela Free Throw 1 of 2,nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19543,21500154,4,5:33,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19544,21500154,4,5:33,Capela Free Throw 2 of 2 (5 PTS),nan,103 - 75,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19545,21500154,4,5:09,nan,MISS Hunter 25' 3PT Jump Shot,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19546,21500154,4,5:08,Jones REBOUND (Off:2 Def:4),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19547,21500154,4,4:56,Thornton 24' 3PT Step Back Jump Shot (5 PTS),nan,103 - 78,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+19548,21500154,4,4:44,nan,MISS Rozier 25' 3PT Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19549,21500154,4,4:43,Jones REBOUND (Off:2 Def:5),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19550,21500154,4,4:33,MISS Thornton 11' Fadeaway Jumper,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19551,21500154,4,4:32,nan,Zeller REBOUND (Off:0 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19552,21500154,4,4:19,McDaniels S.FOUL (P1.T4) (E.Roe),nan,nan,203909,KJ McDaniels,HOU,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Shooting
+19553,21500154,4,4:19,nan,Zeller Free Throw 1 of 2 (6 PTS),104 - 78,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19554,21500154,4,4:19,nan,Zeller Free Throw 2 of 2 (7 PTS),105 - 78,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19555,21500154,4,4:05,Thornton 25' 3PT Jump Shot (8 PTS) (Jones 4 AST),nan,105 - 81,201977,Marcus Thornton,HOU,203093,Terrence Jones,HOU,0,nan,nan,Made Shot ,nan
+19556,21500154,4,3:50,McDaniels BLOCK (1 BLK),MISS Zeller 4' Jump Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,203909,KJ McDaniels,HOU,Missed Shot ,nan
+19557,21500154,4,3:49,nan,Zeller REBOUND (Off:1 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19558,21500154,4,3:47,Thornton STEAL (1 STL),Zeller Lost Ball Turnover (P1.T16),nan,203092,Tyler Zeller,BOS,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Lost Ball
+19559,21500154,4,3:43,Jones  Running Dunk (7 PTS) (Brewer 1 AST),nan,105 - 83,203093,Terrence Jones,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+19560,21500154,4,3:20,nan,Olynyk Step Out of Bounds Turnover (P3.T17),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+19561,21500154,4,3:18,Brewer 4' Running Layup (9 PTS),nan,105 - 85,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+19562,21500154,4,3:18,nan,Jerebko S.FOUL (P3.PN) (E.Roe),nan,201973,Jonas Jerebko,BOS,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+19563,21500154,4,3:18,MISS Brewer Free Throw 1 of 1,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+19564,21500154,4,3:18,Jones REBOUND (Off:3 Def:5),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19565,21500154,4,3:17,Jones  Tip Dunk Shot (9 PTS),nan,105 - 87,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+19566,21500154,4,3:05,Capela STEAL (1 STL),Rozier Lost Ball Turnover (P1.T18),nan,1626179,Terry Rozier,BOS,203991,Clint Capela,HOU,0,nan,nan,Turnover ,Lost Ball
+19567,21500154,4,3:02,Jones  Running Dunk (11 PTS) (Capela 1 AST),nan,105 - 89,203093,Terrence Jones,HOU,203991,Clint Capela,HOU,0,nan,nan,Made Shot ,nan
+19568,21500154,4,3:02,nan,Celtics Timeout: Regular (Reg.3 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19569,21500154,4,3:02,nan,SUB: Smart FOR Hunter,nan,1626154,RJ Hunter,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+19570,21500154,4,2:48,nan,MISS Rozier 2' Driving Layup,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19571,21500154,4,2:46,nan,Olynyk REBOUND (Off:3 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19572,21500154,4,2:46,nan,MISS Olynyk 2' Tip Layup Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19573,21500154,4,2:44,Brewer REBOUND (Off:0 Def:3),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19574,21500154,4,2:39,MISS Thornton 25' 3PT Jump Shot,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19575,21500154,4,2:39,nan,Smart REBOUND (Off:1 Def:6),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19576,21500154,4,2:34,nan,Zeller 1' Running Layup (9 PTS) (Smart 6 AST),107 - 89,203092,Tyler Zeller,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+19577,21500154,4,2:15,MISS Jones 7' Turnaround Hook Shot,Olynyk BLOCK (1 BLK),nan,203093,Terrence Jones,HOU,0,nan,nan,203482,Kelly Olynyk,BOS,Missed Shot ,nan
+19578,21500154,4,2:14,nan,Smart REBOUND (Off:1 Def:7),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19579,21500154,4,2:05,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19580,21500154,4,2:04,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19581,21500154,4,1:42,MISS Thornton 3' Driving Layup,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19582,21500154,4,1:41,nan,Smart REBOUND (Off:1 Def:8),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19583,21500154,4,1:37,nan,Jerebko Traveling Turnover (P2.T19),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+19584,21500154,4,1:37,nan,SUB: Hunter FOR Smart,nan,203935,Marcus Smart,BOS,1626154,RJ Hunter,BOS,0,nan,nan,Substitution ,nan
+19585,21500154,4,1:20,Jones 20' Jump Shot (13 PTS) (McDaniels 1 AST),nan,107 - 91,203093,Terrence Jones,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Made Shot ,nan
+19586,21500154,4,1:02,Brewer STEAL (3 STL),Zeller Lost Ball Turnover (P2.T20),nan,203092,Tyler Zeller,BOS,201147,Corey Brewer,HOU,0,nan,nan,Turnover ,Lost Ball
+19587,21500154,4,0:58,Jones 3' Alley Oop Layup (15 PTS) (Brewer 2 AST),nan,107 - 93,203093,Terrence Jones,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+19588,21500154,4,0:45,nan,Olynyk 2' Driving Layup (8 PTS) (Rozier 1 AST),109 - 93,203482,Kelly Olynyk,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+19589,21500154,4,0:39,MISS Brewer 27' 3PT Pullup Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19590,21500154,4,0:38,nan,Zeller REBOUND (Off:1 Def:4),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19591,21500154,4,0:18,nan,Rozier 2' Driving Reverse Layup (2 PTS),111 - 93,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+19592,21500154,4,0:07,Brewer 9' Driving Bank Shot (11 PTS),nan,111 - 95,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+19593,21500154,4,0:00,nan,nan,111 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

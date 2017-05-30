@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+1733,21500014,4,12:00,nan,nan,88 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+1734,21500014,4,11:50,nan,Evans  Alley Oop Dunk (5 PTS) (Harris 2 AST),90 - 66,202379,Jeremy Evans,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+1735,21500014,4,11:27,MISS Knight 17' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1736,21500014,4,11:25,Warren REBOUND (Off:1 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1737,21500014,4,11:24,MISS Warren 3' Layup,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1738,21500014,4,11:23,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1739,21500014,4,11:23,SUB: Goodwin FOR Warren,nan,nan,203933,TJ Warren,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Substitution ,nan
+1740,21500014,4,11:20,Leuer 25' 3PT Jump Shot (14 PTS) (Knight 3 AST),nan,90 - 69,202720,Jon Leuer,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+1741,21500014,4,11:05,Booker P.FOUL (P2.T1) (C.Blair),nan,nan,1626164,Devin Booker,PHX,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+1742,21500014,4,10:50,Knight BLOCK (1 BLK),MISS Matthews 14' Turnaround Fadeaway Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,202688,Brandon Knight,PHX,Missed Shot ,nan
+1743,21500014,4,10:47,Knight REBOUND (Off:1 Def:5),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1744,21500014,4,10:39,Booker 1' Layup (7 PTS) (Leuer 3 AST),nan,90 - 71,1626164,Devin Booker,PHX,202720,Jon Leuer,PHX,0,nan,nan,Made Shot ,nan
+1745,21500014,4,10:17,Leuer BLOCK (1 BLK),MISS Barea 3' Layup,nan,200826,J.J. Barea,DAL,0,nan,nan,202720,Jon Leuer,PHX,Missed Shot ,nan
+1746,21500014,4,10:15,Goodwin REBOUND (Off:0 Def:3),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1747,21500014,4,10:03,MISS Goodwin 25' 3PT Jump Shot,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1748,21500014,4,10:01,nan,Barea REBOUND (Off:0 Def:3),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1749,21500014,4,9:55,Leuer S.FOUL (P3.T2) (C.Blair),nan,nan,202720,Jon Leuer,PHX,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting
+1750,21500014,4,9:55,nan,MISS Harris Free Throw 1 of 2,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1751,21500014,4,9:55,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1752,21500014,4,9:55,nan,SUB: Felton FOR Matthews,nan,202083,Wesley Matthews,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+1753,21500014,4,9:55,nan,MISS Harris Free Throw 2 of 2,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1754,21500014,4,9:54,Booker REBOUND (Off:0 Def:2),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1755,21500014,4,9:48,nan,Harris P.FOUL (P1.T1) (T.Washington),nan,2734,Devin Harris,DAL,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+1756,21500014,4,9:48,nan,SUB: Nowitzki FOR Villanueva,nan,101111,Charlie Villanueva,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+1757,21500014,4,9:32,Knight 1' Driving Layup (15 PTS),nan,90 - 73,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1758,21500014,4,9:30,Knight P.FOUL (P3.T3) (D.Collins),nan,nan,202688,Brandon Knight,PHX,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal
+1759,21500014,4,9:17,nan,MISS Harris 25' 3PT Jump Shot,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1760,21500014,4,9:15,Leuer REBOUND (Off:2 Def:5),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1761,21500014,4,9:07,MISS Leuer 25' 3PT Jump Shot,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1762,21500014,4,9:05,nan,Barea REBOUND (Off:0 Def:4),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1763,21500014,4,8:50,Knight S.FOUL (P4.T4) (T.Washington),nan,nan,202688,Brandon Knight,PHX,101109,Raymond Felton,DAL,0,nan,nan,Foul ,Shooting
+1764,21500014,4,8:50,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+1765,21500014,4,8:50,nan,Felton Free Throw 1 of 2 (11 PTS),91 - 73,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1766,21500014,4,8:50,nan,Felton Free Throw 2 of 2 (12 PTS),92 - 73,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1767,21500014,4,8:42,Bledsoe 3' Layup (10 PTS),nan,92 - 75,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1768,21500014,4,8:42,nan,Barea S.FOUL (P2.T2) (T.Washington),nan,200826,J.J. Barea,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+1769,21500014,4,8:42,Bledsoe Free Throw 1 of 1 (11 PTS),nan,92 - 76,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+1770,21500014,4,8:22,nan,MISS Nowitzki 17' Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1771,21500014,4,8:21,Goodwin REBOUND (Off:0 Def:4),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1772,21500014,4,8:06,Bledsoe 13' Jump Shot (13 PTS),nan,92 - 78,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1773,21500014,4,7:53,nan,Harris 1' Driving Layup (10 PTS),94 - 78,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+1774,21500014,4,7:34,MISS Booker 24' 3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1775,21500014,4,7:32,nan,Felton REBOUND (Off:0 Def:2),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1776,21500014,4,7:23,nan,MISS Evans 3' Layup,nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1777,21500014,4,7:22,nan,Evans REBOUND (Off:1 Def:4),nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1778,21500014,4,7:22,nan,Evans 1' Putback Layup (7 PTS),96 - 78,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+1779,21500014,4,7:09,MISS Goodwin 6' Jump Shot,Nowitzki BLOCK (1 BLK),nan,203462,Archie Goodwin,PHX,0,nan,nan,1717,Dirk Nowitzki,DAL,Missed Shot ,nan
+1780,21500014,4,7:07,nan,Nowitzki REBOUND (Off:1 Def:8),nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1781,21500014,4,6:54,nan,Felton 25' 3PT Jump Shot (15 PTS) (Nowitzki 3 AST),99 - 78,101109,Raymond Felton,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+1782,21500014,4,6:51,SUNS Timeout: Regular (Full 4 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+1783,21500014,4,6:51,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+1784,21500014,4,6:51,nan,SUB: Matthews FOR Harris,nan,2734,Devin Harris,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+1785,21500014,4,6:51,SUB: Weems FOR Bledsoe,nan,nan,202339,Eric Bledsoe,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+1786,21500014,4,6:51,SUB: Price FOR Leuer,nan,nan,202720,Jon Leuer,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+1787,21500014,4,6:51,SUB: Teletovic FOR Goodwin,nan,nan,203462,Archie Goodwin,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+1788,21500014,4,6:39,MISS Knight 5' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1789,21500014,4,6:37,nan,Evans REBOUND (Off:1 Def:5),nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1790,21500014,4,6:20,nan,Powell 2' Reverse Layup (9 PTS) (Barea 1 AST),101 - 78,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+1791,21500014,4,6:03,Teletovic 8' Jump Bank Shot (2 PTS),nan,101 - 80,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1792,21500014,4,6:03,nan,Barea S.FOUL (P3.T3) (D.Collins),nan,200826,J.J. Barea,DAL,203141,Mirza Teletovic,PHX,0,nan,nan,Foul ,Shooting
+1793,21500014,4,6:03,MISS Teletovic Free Throw 1 of 1,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+1794,21500014,4,6:02,nan,Matthews REBOUND (Off:0 Def:3),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1795,21500014,4,5:45,nan,Barea 5' Jump Shot (10 PTS),103 - 80,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+1796,21500014,4,5:36,MISS Knight 8' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1797,21500014,4,5:35,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1798,21500014,4,5:16,nan,Powell  Dunk (11 PTS) (Felton 6 AST),105 - 80,203939,Dwight Powell,DAL,101109,Raymond Felton,DAL,0,nan,nan,Made Shot ,nan
+1799,21500014,4,5:04,Price Offensive Charge Foul (P2.PN) (T.Washington),nan,nan,101179,Ronnie Price,PHX,101109,Raymond Felton,DAL,0,nan,nan,Foul ,Offensive Charge
+1800,21500014,4,5:04,Price Foul Turnover (P2.T17),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+1801,21500014,4,5:04,SUB: Goodwin FOR Knight,nan,nan,202688,Brandon Knight,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Substitution ,nan
+1802,21500014,4,4:49,nan,MISS Barea 26' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1803,21500014,4,4:48,Goodwin REBOUND (Off:0 Def:5),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1804,21500014,4,4:37,MISS Teletovic 7' Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1805,21500014,4,4:36,Teletovic REBOUND (Off:1 Def:2),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1806,21500014,4,4:36,MISS Teletovic 1' Tip Layup Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1807,21500014,4,4:32,nan,Felton REBOUND (Off:0 Def:3),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1808,21500014,4,4:11,nan,Felton 26' 3PT Jump Shot (18 PTS),108 - 80,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+1809,21500014,4,3:49,Goodwin 1' Layup (9 PTS),nan,108 - 82,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1810,21500014,4,3:39,nan,Mavericks Timeout: Regular (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+1811,21500014,4,3:39,nan,SUB: Jenkins FOR Matthews,nan,202083,Wesley Matthews,DAL,203098,John Jenkins,DAL,0,nan,nan,Substitution ,nan
+1812,21500014,4,3:28,Teletovic P.FOUL (P2.PN) (C.Blair),nan,nan,203141,Mirza Teletovic,PHX,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+1813,21500014,4,3:28,nan,MISS Powell Free Throw 1 of 2,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1814,21500014,4,3:28,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1815,21500014,4,3:28,nan,SUB: Anderson FOR Evans,nan,202379,Jeremy Evans,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+1816,21500014,4,3:28,nan,Powell Free Throw 2 of 2 (12 PTS),109 - 82,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1817,21500014,4,3:19,Booker 2' Driving Layup (9 PTS),nan,109 - 84,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+1818,21500014,4,2:58,nan,MISS Barea 25' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1819,21500014,4,2:56,Weems REBOUND (Off:0 Def:2),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1820,21500014,4,2:47,nan,Felton S.FOUL (P2.T4) (C.Blair),nan,101109,Raymond Felton,DAL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+1821,21500014,4,2:47,MISS Booker Free Throw 1 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1822,21500014,4,2:47,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1823,21500014,4,2:47,MISS Booker Free Throw 2 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1824,21500014,4,2:46,nan,Anderson REBOUND (Off:0 Def:1),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1825,21500014,4,2:27,nan,MISS Felton 1' Layup,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1826,21500014,4,2:26,nan,Felton REBOUND (Off:1 Def:3),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1827,21500014,4,2:13,Teletovic Violation:Kicked Ball (D.Collins),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+1828,21500014,4,2:13,nan,SUB: Mejri FOR Powell,nan,203939,Dwight Powell,DAL,1626257,Salah Mejri,DAL,0,nan,nan,Substitution ,nan
+1829,21500014,4,1:58,nan,MISS Felton 26' 3PT Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1830,21500014,4,1:56,Booker REBOUND (Off:0 Def:3),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1831,21500014,4,1:51,Booker 3' Alley Oop Layup (11 PTS) (Weems 1 AST),nan,109 - 86,1626164,Devin Booker,PHX,201603,Sonny Weems,PHX,0,nan,nan,Made Shot ,nan
+1832,21500014,4,1:51,nan,Anderson S.FOUL (P1.PN) (C.Blair),nan,1626147,Justin Anderson,DAL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+1833,21500014,4,1:51,Booker Free Throw 1 of 1 (12 PTS),nan,109 - 87,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+1834,21500014,4,1:38,Booker STEAL (1 STL),Barea Bad Pass Turnover (P3.T8),nan,200826,J.J. Barea,DAL,1626164,Devin Booker,PHX,0,nan,nan,Turnover ,Bad Pass
+1835,21500014,4,1:35,Weems Out of Bounds - Bad Pass Turnover Turnover (P1.T18),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+1836,21500014,4,1:13,nan,MISS Barea 27' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1837,21500014,4,1:11,Weems REBOUND (Off:0 Def:3),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1838,21500014,4,1:05,Teletovic 26' 3PT Jump Shot (5 PTS) (Weems 2 AST),nan,109 - 90,203141,Mirza Teletovic,PHX,201603,Sonny Weems,PHX,0,nan,nan,Made Shot ,nan
+1839,21500014,4,0:48,nan,MISS Anderson  3PT Jump Shot,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1840,21500014,4,0:46,Teletovic REBOUND (Off:1 Def:3),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1841,21500014,4,0:43,Booker  Dunk (14 PTS) (Goodwin 1 AST),nan,109 - 92,1626164,Devin Booker,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+1842,21500014,4,0:29,nan,MISS Jenkins 18' Jump Shot,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1843,21500014,4,0:27,Teletovic REBOUND (Off:1 Def:4),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1844,21500014,4,0:24,nan,Jenkins S.FOUL (P1.PN) (T.Washington),nan,203098,John Jenkins,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+1845,21500014,4,0:24,Goodwin Free Throw 1 of 2 (10 PTS),nan,109 - 93,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1846,21500014,4,0:24,Goodwin Free Throw 2 of 2 (11 PTS),nan,109 - 94,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1847,21500014,4,0:15,nan,Anderson 1' Layup (2 PTS),111 - 94,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+1848,21500014,4,0:06,nan,Anderson S.FOUL (P2.PN) (D.Collins),nan,1626147,Justin Anderson,DAL,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+1849,21500014,4,0:06,Goodwin Free Throw 1 of 2 (12 PTS),nan,111 - 95,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1850,21500014,4,0:06,MISS Goodwin Free Throw 2 of 2,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1851,21500014,4,0:06,nan,Mejri REBOUND (Off:0 Def:1),nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1852,21500014,4,0:00,nan,nan,111 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

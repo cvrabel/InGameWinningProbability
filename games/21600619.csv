@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+229501,21600619,4,12:00,nan,nan,71 - 95,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+229502,21600619,4,11:44,nan,Jefferson S.FOUL (P1.T1) (E.Lewis),nan,2210,Richard Jefferson,CLE,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+229503,21600619,4,11:44,Green Free Throw 1 of 2 (10 PTS),nan,71 - 96,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229504,21600619,4,11:44,Green Free Throw 2 of 2 (11 PTS),nan,71 - 97,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229505,21600619,4,11:31,nan,MISS Irving 25' 3PT Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229506,21600619,4,11:31,Green REBOUND (Off:2 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229507,21600619,4,11:21,MISS Thompson 26' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229508,21600619,4,11:21,nan,Shumpert REBOUND (Off:0 Def:9),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229509,21600619,4,11:10,nan,Shumpert 2' Finger Roll Layup (13 PTS),73 - 97,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+229510,21600619,4,10:52,nan,Liggins S.FOUL (P2.T2) (B.Adams),nan,202732,DeAndre Liggins,CLE,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+229511,21600619,4,10:52,Thompson Free Throw 1 of 2 (15 PTS),nan,73 - 98,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229512,21600619,4,10:52,nan,SUB: James FOR Irving,nan,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+229513,21600619,4,10:52,Thompson Free Throw 2 of 2 (16 PTS),nan,73 - 99,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229514,21600619,4,10:34,Livingston S.FOUL (P4.T1) (E.Lewis),nan,nan,2733,Shaun Livingston,GSW,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Shooting
+229515,21600619,4,10:34,nan,Shumpert Free Throw 1 of 2 (14 PTS),74 - 99,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229516,21600619,4,10:34,nan,Shumpert Free Throw 2 of 2 (15 PTS),75 - 99,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229517,21600619,4,10:21,West Traveling Turnover (P1.T13),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Turnover ,Traveling
+229518,21600619,4,10:09,Iguodala Violation:Kicked Ball (E.Malloy),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+229519,21600619,4,10:06,nan,James 2' Driving Layup (20 PTS),77 - 99,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+229520,21600619,4,10:06,West S.FOUL (P2.T2) (E.Malloy),nan,nan,2561,David West,GSW,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+229521,21600619,4,10:06,nan,MISS James Free Throw 1 of 1,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+229522,21600619,4,10:04,Green REBOUND (Off:2 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229523,21600619,4,9:57,MISS West 17' Jump Shot,nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229524,21600619,4,9:56,Iguodala REBOUND (Off:1 Def:2),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229525,21600619,4,9:39,Iguodala 1' Cutting Layup Shot (14 PTS) (West 1 AST),nan,77 - 101,2738,Andre Iguodala,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+229526,21600619,4,9:27,nan,Jefferson OFF.Foul (P2) (E.Malloy),nan,2210,Richard Jefferson,CLE,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Offensive
+229527,21600619,4,9:27,nan,Jefferson Foul Turnover (P1.T14),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+229528,21600619,4,9:14,Thompson 1' Cutting Layup Shot (18 PTS) (West 2 AST),nan,77 - 103,202691,Klay Thompson,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+229529,21600619,4,9:14,nan,Liggins S.FOUL (P3.T3) (E.Malloy),nan,202732,DeAndre Liggins,CLE,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+229530,21600619,4,9:14,nan,SUB: Thompson FOR Jefferson,nan,2210,Richard Jefferson,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+229531,21600619,4,9:14,nan,SUB: Korver FOR Shumpert,nan,202697,Iman Shumpert,CLE,2594,Kyle Korver,CLE,0,nan,nan,Substitution ,nan
+229532,21600619,4,9:14,Thompson Free Throw 1 of 1 (19 PTS),nan,77 - 104,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+229533,21600619,4,8:55,nan,MISS Korver 15' Jump Shot,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229534,21600619,4,8:54,Green REBOUND (Off:2 Def:9),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229535,21600619,4,8:51,nan,Liggins Violation:Kicked Ball (B.Adams),nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+229536,21600619,4,8:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+229537,21600619,4,8:42,MISS Thompson 15' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229538,21600619,4,8:41,nan,James REBOUND (Off:2 Def:6),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229539,21600619,4,8:34,nan,MISS Frye 2' Layup,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229540,21600619,4,8:34,Green REBOUND (Off:2 Def:10),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229541,21600619,4,8:16,West 16' Jump Shot (6 PTS) (Iguodala 5 AST),nan,77 - 106,2561,David West,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+229542,21600619,4,7:57,nan,MISS Frye 26' 3PT Jump Shot,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229543,21600619,4,7:56,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229544,21600619,4,7:36,Livingston 13' Step Back Jump Shot (9 PTS) (West 3 AST),nan,77 - 108,2733,Shaun Livingston,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+229545,21600619,4,7:14,nan,MISS James 27' 3PT Step Back Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229546,21600619,4,7:14,Green REBOUND (Off:2 Def:11),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229547,21600619,4,6:59,MISS Green  Driving Dunk,Thompson BLOCK (3 BLK),nan,203110,Draymond Green,GSW,0,nan,nan,202684,Tristan Thompson,CLE,Missed Shot ,nan
+229548,21600619,4,6:57,nan,Frye REBOUND (Off:0 Def:2),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229549,21600619,4,6:55,West STEAL (1 STL),James Bad Pass Turnover (P6.T15),nan,2544,LeBron James,CLE,2561,David West,GSW,0,nan,nan,Turnover ,Bad Pass
+229550,21600619,4,6:39,Thompson 26' 3PT Jump Shot (22 PTS) (Green 11 AST),nan,77 - 111,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+229551,21600619,4,6:39,nan,Cavaliers Timeout: Regular (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+229552,21600619,4,6:39,nan,SUB: Jones FOR Korver,nan,2594,Kyle Korver,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+229553,21600619,4,6:39,nan,SUB: Felder FOR Thompson,nan,202684,Tristan Thompson,CLE,1627770,Kay Felder,CLE,0,nan,nan,Substitution ,nan
+229554,21600619,4,6:39,nan,SUB: McRae FOR James,nan,2544,LeBron James,CLE,203895,Jordan McRae,CLE,0,nan,nan,Substitution ,nan
+229555,21600619,4,6:22,nan,MISS Felder 19' Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229556,21600619,4,6:22,Thompson REBOUND (Off:0 Def:3),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229557,21600619,4,6:09,nan,Liggins S.FOUL (P4.T4) (E.Lewis),nan,202732,DeAndre Liggins,CLE,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+229558,21600619,4,6:09,Thompson Free Throw 1 of 2 (23 PTS),nan,77 - 112,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229559,21600619,4,6:09,SUB: Clark FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+229560,21600619,4,6:09,SUB: Looney FOR Green,nan,nan,203110,Draymond Green,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+229561,21600619,4,6:09,Thompson Free Throw 2 of 2 (24 PTS),nan,77 - 113,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229562,21600619,4,5:57,nan,McRae 20' Jump Shot (2 PTS) (Frye 2 AST),79 - 113,203895,Jordan McRae,CLE,101112,Channing Frye,CLE,0,nan,nan,Made Shot ,nan
+229563,21600619,4,5:42,Thompson 19' Pullup Jump Shot (26 PTS) (Livingston 1 AST),nan,79 - 115,202691,Klay Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+229564,21600619,4,5:29,nan,Felder 12' Floating Jump Shot (2 PTS),81 - 115,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+229565,21600619,4,5:19,Livingston 14' Pullup Jump Shot (11 PTS),nan,81 - 117,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+229566,21600619,4,5:01,nan,MISS Felder 25' 3PT Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229567,21600619,4,5:00,Thompson REBOUND (Off:0 Def:4),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229568,21600619,4,4:47,Livingston 15' Turnaround Fadeaway (13 PTS),nan,81 - 119,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+229569,21600619,4,4:41,Thompson Personal Take Foul (P5.T3) (B.Adams),nan,nan,202691,Klay Thompson,GSW,203895,Jordan McRae,CLE,0,nan,nan,Foul ,Personal Take
+229570,21600619,4,4:41,SUB: McAdoo FOR West,nan,nan,2561,David West,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+229571,21600619,4,4:41,SUB: McCaw FOR Thompson,nan,nan,202691,Klay Thompson,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+229572,21600619,4,4:41,nan,SUB: Jefferson FOR Frye,nan,101112,Channing Frye,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+229573,21600619,4,4:33,nan,MISS McRae 26' 3PT Jump Shot,nan,203895,Jordan McRae,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229574,21600619,4,4:33,McCaw REBOUND (Off:0 Def:1),nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229575,21600619,4,4:21,Clark Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+229576,21600619,4,4:09,nan,MISS Jefferson 19' Step Back Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229577,21600619,4,4:09,nan,Liggins REBOUND (Off:1 Def:1),nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229578,21600619,4,3:55,nan,MISS Jefferson 25' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229579,21600619,4,3:55,Clark REBOUND (Off:0 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229580,21600619,4,3:49,nan,Jones P.FOUL (P1.PN) (E.Lewis),nan,2592,James Jones,CLE,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+229581,21600619,4,3:49,MISS Clark Free Throw 1 of 2,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229582,21600619,4,3:49,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+229583,21600619,4,3:49,SUB: McGee FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,201580,JaVale McGee,GSW,0,nan,nan,Substitution ,nan
+229584,21600619,4,3:49,nan,Cavaliers Timeout: Regular (Reg.6 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+229585,21600619,4,3:49,MISS Clark Free Throw 2 of 2,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229586,21600619,4,3:48,Looney REBOUND (Off:3 Def:0),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229587,21600619,4,3:48,nan,Jefferson S.FOUL (P3.PN) (B.Adams),nan,2210,Richard Jefferson,CLE,1626172,Kevon Looney,GSW,0,nan,nan,Foul ,Shooting
+229588,21600619,4,3:48,MISS Looney Free Throw 1 of 2,nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229589,21600619,4,3:48,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+229590,21600619,4,3:48,Looney Free Throw 2 of 2 (1 PTS),nan,81 - 120,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229591,21600619,4,3:34,nan,McRae 19' Pullup Jump Shot (4 PTS),83 - 120,203895,Jordan McRae,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+229592,21600619,4,3:22,nan,Liggins P.FOUL (P5.PN) (B.Adams),nan,202732,DeAndre Liggins,CLE,1627775,Patrick McCaw,GSW,0,nan,nan,Foul ,Personal
+229593,21600619,4,3:22,McCaw Free Throw 1 of 2 (1 PTS),nan,83 - 121,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229594,21600619,4,3:22,McCaw Free Throw 2 of 2 (2 PTS),nan,83 - 122,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229595,21600619,4,3:10,nan,McRae 2' Driving Layup (6 PTS) (Felder 1 AST),85 - 122,203895,Jordan McRae,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+229596,21600619,4,2:47,Looney OFF.Foul (P1) (E.Lewis),nan,nan,1626172,Kevon Looney,GSW,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Offensive
+229597,21600619,4,2:47,Looney Foul Turnover (P1.T15),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+229598,21600619,4,2:37,McGee BLOCK (1 BLK),MISS Felder 2' Layup,nan,1627770,Kay Felder,CLE,0,nan,nan,201580,JaVale McGee,GSW,Missed Shot ,nan
+229599,21600619,4,2:34,Looney REBOUND (Off:3 Def:1),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229600,21600619,4,2:34,nan,Felder P.FOUL (P1.PN) (B.Adams),nan,1627770,Kay Felder,CLE,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+229601,21600619,4,2:34,Clark Free Throw 1 of 2 (1 PTS),nan,85 - 123,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229602,21600619,4,2:34,Clark Free Throw 2 of 2 (2 PTS),nan,85 - 124,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229603,21600619,4,2:24,nan,MISS Felder 17' Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229604,21600619,4,2:23,McGee REBOUND (Off:0 Def:3),nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229605,21600619,4,2:09,MISS McAdoo 17' Pullup Jump Shot,nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229606,21600619,4,2:08,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229607,21600619,4,1:48,nan,Jefferson 2' Driving Layup (7 PTS) (Felder 2 AST),87 - 124,2210,Richard Jefferson,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+229608,21600619,4,1:48,McGee S.FOUL (P3.T4) (B.Adams),nan,nan,201580,JaVale McGee,GSW,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+229609,21600619,4,1:48,nan,Jefferson Free Throw 1 of 1 (8 PTS),88 - 124,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+229610,21600619,4,1:31,MISS Clark 26' 3PT Step Back Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229611,21600619,4,1:30,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229612,21600619,4,1:21,nan,MISS Jefferson 25' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229613,21600619,4,1:21,McAdoo REBOUND (Off:0 Def:1),nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229614,21600619,4,1:19,McAdoo Bad Pass Turnover (P1.T16),Liggins STEAL (1 STL),nan,203949,James Michael McAdoo,GSW,202732,DeAndre Liggins,CLE,0,nan,nan,Turnover ,Bad Pass
+229615,21600619,4,1:14,McAdoo S.FOUL (P1.PN) (E.Lewis),nan,nan,203949,James Michael McAdoo,GSW,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+229616,21600619,4,1:14,nan,MISS Jefferson Free Throw 1 of 2,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229617,21600619,4,1:14,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+229618,21600619,4,1:14,nan,MISS Jefferson Free Throw 2 of 2,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229619,21600619,4,1:12,Clark REBOUND (Off:0 Def:2),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229620,21600619,4,1:04,Clark Out of Bounds - Bad Pass Turnover Turnover (P2.T17),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+229621,21600619,4,0:51,nan,Jefferson 24' 3PT Jump Shot (11 PTS) (Felder 3 AST),91 - 124,2210,Richard Jefferson,CLE,1627770,Kay Felder,CLE,0,nan,nan,Made Shot ,nan
+229622,21600619,4,0:36,MISS McGee 8' Driving Hook Shot,nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229623,21600619,4,0:36,Looney REBOUND (Off:4 Def:1),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229624,21600619,4,0:36,nan,McRae P.FOUL (P1.PN) (E.Lewis),nan,203895,Jordan McRae,CLE,1626172,Kevon Looney,GSW,0,nan,nan,Foul ,Personal
+229625,21600619,4,0:36,Looney Free Throw 1 of 2 (2 PTS),nan,91 - 125,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+229626,21600619,4,0:36,Looney Free Throw 2 of 2 (3 PTS),nan,91 - 126,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+229627,21600619,4,0:14,nan,MISS Felder 26' 3PT Step Back Jump Shot,nan,1627770,Kay Felder,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+229628,21600619,4,0:14,Clark REBOUND (Off:0 Def:3),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+229629,21600619,4,0:00,nan,nan,91 - 126,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

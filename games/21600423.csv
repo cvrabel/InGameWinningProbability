@@ -1,0 +1,180 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+205776,21600423,4,12:00,nan,nan,84 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+205777,21600423,4,11:38,Brogdon Violation:Kicked Ball (M.Lindsay),nan,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+205778,21600423,4,11:27,nan,MISS Shumpert  3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205779,21600423,4,11:26,Antetokounmpo REBOUND (Off:1 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205780,21600423,4,11:19,MISS Parker 2' Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205781,21600423,4,11:17,Parker REBOUND (Off:3 Def:3),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205782,21600423,4,11:17,MISS Parker 2' Tip Layup Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205783,21600423,4,11:15,nan,Dunleavy REBOUND (Off:0 Def:2),nan,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205784,21600423,4,11:09,nan,MISS James 3' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205785,21600423,4,11:07,Antetokounmpo REBOUND (Off:1 Def:7),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205786,21600423,4,10:53,MISS Teletovic 17' Jump Shot,nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205787,21600423,4,10:52,nan,Shumpert REBOUND (Off:0 Def:4),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205788,21600423,4,10:39,Brogdon P.FOUL (P3.T1) (M.Lindsay),nan,nan,1627763,Malcolm Brogdon,MIL,101112,Channing Frye,CLE,0,nan,nan,Foul ,Personal
+205789,21600423,4,10:31,nan,MISS Liggins  3PT Jump Shot,nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205790,21600423,4,10:30,Antetokounmpo REBOUND (Off:1 Def:8),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205791,21600423,4,10:25,nan,Dunleavy S.FOUL (P3.T1) (M.Lindsay),nan,2399,Mike Dunleavy,CLE,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+205792,21600423,4,10:25,Antetokounmpo Free Throw 1 of 2 (13 PTS),nan,84 - 79,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205793,21600423,4,10:25,Antetokounmpo Free Throw 2 of 2 (14 PTS),nan,84 - 80,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205794,21600423,4,10:01,nan,MISS Frye 24' 3PT Jump Shot,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205795,21600423,4,10:00,Parker REBOUND (Off:3 Def:4),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205796,21600423,4,9:54,MISS Parker 1' Layup,James BLOCK (1 BLK),nan,203953,Jabari Parker,MIL,0,nan,nan,2544,LeBron James,CLE,Missed Shot ,nan
+205797,21600423,4,9:54,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205798,21600423,4,9:54,nan,SUB: Irving FOR Liggins,nan,202732,DeAndre Liggins,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+205799,21600423,4,9:47,Dellavedova Bad Pass Turnover (P3.T12),James STEAL (1 STL),nan,203521,Matthew Dellavedova,MIL,2544,LeBron James,CLE,0,nan,nan,Turnover ,Bad Pass
+205800,21600423,4,9:41,nan,Frye 17' Jump Shot (13 PTS) (James 5 AST),86 - 80,101112,Channing Frye,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+205801,21600423,4,9:22,MISS Antetokounmpo 1' Finger Roll Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205802,21600423,4,9:21,nan,Frye REBOUND (Off:0 Def:2),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205803,21600423,4,9:00,nan,James 31' 3PT Jump Shot (24 PTS) (Shumpert 1 AST),89 - 80,2544,LeBron James,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+205804,21600423,4,8:59,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205805,21600423,4,8:59,SUB: Monroe FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+205806,21600423,4,8:59,SUB: Snell FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+205807,21600423,4,8:43,Parker 2' Driving Layup (22 PTS),nan,89 - 82,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+205808,21600423,4,8:43,nan,Shumpert S.FOUL (P1.T2) (J.VanDuyne),nan,202697,Iman Shumpert,CLE,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting
+205809,21600423,4,8:43,MISS Parker Free Throw 1 of 1,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+205810,21600423,4,8:42,nan,James REBOUND (Off:3 Def:4),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205811,21600423,4,8:28,Dellavedova P.FOUL (P2.T2) (T.Washington),nan,nan,203521,Matthew Dellavedova,MIL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+205812,21600423,4,8:14,Dellavedova STEAL (1 STL),Dunleavy Bad Pass Turnover (P2.T10),nan,2399,Mike Dunleavy,CLE,203521,Matthew Dellavedova,MIL,0,nan,nan,Turnover ,Bad Pass
+205813,21600423,4,8:04,nan,Frye S.FOUL (P4.T3) (T.Washington),nan,101112,Channing Frye,CLE,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+205814,21600423,4,8:04,MISS Antetokounmpo Free Throw 1 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205815,21600423,4,8:04,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+205816,21600423,4,8:04,Antetokounmpo Free Throw 2 of 2 (15 PTS),nan,89 - 83,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205817,21600423,4,7:52,Snell BLOCK (2 BLK),MISS Irving 3' Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,203503,Tony Snell,MIL,Missed Shot ,nan
+205818,21600423,4,7:50,Snell REBOUND (Off:0 Def:4),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205819,21600423,4,7:37,Antetokounmpo 26' 3PT Jump Shot (18 PTS) (Parker 3 AST),nan,89 - 86,203507,Giannis Antetokounmpo,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+205820,21600423,4,7:13,nan,Frye 1' Layup (15 PTS) (Shumpert 2 AST),91 - 86,101112,Channing Frye,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+205821,21600423,4,6:47,Antetokounmpo 26' 3PT Jump Shot (21 PTS) (Monroe 1 AST),nan,91 - 89,203507,Giannis Antetokounmpo,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+205822,21600423,4,6:37,Monroe P.FOUL (P1.T3) (T.Washington),nan,nan,202328,Greg Monroe,MIL,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+205823,21600423,4,6:37,nan,SUB: Jefferson FOR Dunleavy,nan,2399,Mike Dunleavy,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+205824,21600423,4,6:28,Antetokounmpo S.FOUL (P3.T4) (J.VanDuyne),nan,nan,203507,Giannis Antetokounmpo,MIL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+205825,21600423,4,6:28,nan,Irving Free Throw 1 of 2 (22 PTS),92 - 89,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205826,21600423,4,6:28,nan,Irving Free Throw 2 of 2 (23 PTS),93 - 89,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205827,21600423,4,6:04,BUCKS Turnover: Shot Clock (T#13),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+205828,21600423,4,6:04,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+205829,21600423,4,5:46,Antetokounmpo BLOCK (3 BLK),MISS Shumpert 1' Layup,nan,202697,Iman Shumpert,CLE,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+205830,21600423,4,5:44,nan,Thompson REBOUND (Off:4 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205831,21600423,4,5:43,Antetokounmpo S.FOUL (P4.PN) (M.Lindsay),nan,nan,203507,Giannis Antetokounmpo,MIL,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+205832,21600423,4,5:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+205833,21600423,4,5:43,nan,Thompson Free Throw 1 of 2 (10 PTS),94 - 89,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205834,21600423,4,5:43,nan,MISS Thompson Free Throw 2 of 2,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205835,21600423,4,5:42,Monroe REBOUND (Off:1 Def:2),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205836,21600423,4,5:23,Monroe Bad Pass Turnover (P1.T14),Thompson STEAL (1 STL),nan,202328,Greg Monroe,MIL,202684,Tristan Thompson,CLE,0,nan,nan,Turnover ,Bad Pass
+205837,21600423,4,5:07,nan,MISS Shumpert 15' Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205838,21600423,4,5:06,Antetokounmpo REBOUND (Off:1 Def:9),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205839,21600423,4,4:58,MISS Dellavedova 28' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205840,21600423,4,4:57,nan,Thompson REBOUND (Off:4 Def:6),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205841,21600423,4,4:37,nan,MISS Irving 1' Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205842,21600423,4,4:35,Monroe REBOUND (Off:1 Def:3),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205843,21600423,4,4:29,Parker 1' Running Layup (24 PTS) (Snell 4 AST),nan,94 - 91,203953,Jabari Parker,MIL,203503,Tony Snell,MIL,0,nan,nan,Made Shot ,nan
+205844,21600423,4,4:01,nan,James 28' 3PT Step Back Jump Shot (27 PTS),97 - 91,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+205845,21600423,4,3:43,nan,Irving P.FOUL (P1.T4) (J.VanDuyne),nan,202681,Kyrie Irving,CLE,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Personal
+205846,21600423,4,3:37,Parker  Cutting Layup Shot (26 PTS) (Antetokounmpo 1 AST),nan,97 - 93,203953,Jabari Parker,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+205847,21600423,4,3:12,nan,MISS James 30' 3PT Step Back Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205848,21600423,4,3:10,Snell REBOUND (Off:0 Def:5),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205849,21600423,4,2:55,MISS Antetokounmpo 27' 3PT Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205850,21600423,4,2:55,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205851,21600423,4,2:55,nan,Cavaliers Timeout: Regular (Reg.3 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205852,21600423,4,2:33,nan,Irving 25' 3PT Jump Shot (26 PTS) (James 6 AST),100 - 93,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+205853,21600423,4,2:13,MISS Parker 16' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205854,21600423,4,2:12,nan,Thompson REBOUND (Off:4 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205855,21600423,4,1:49,nan,MISS James 15' Turnaround Fadeaway Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205856,21600423,4,1:48,Antetokounmpo REBOUND (Off:1 Def:10),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205857,21600423,4,1:32,MISS Dellavedova 4' Floating Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205858,21600423,4,1:31,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205859,21600423,4,1:25,Monroe 4' Hook Shot (6 PTS),nan,100 - 95,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+205860,21600423,4,1:05,nan,MISS Irving 2' Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205861,21600423,4,1:02,Snell REBOUND (Off:0 Def:6),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205862,21600423,4,0:52,MISS Parker  Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205863,21600423,4,0:50,Antetokounmpo REBOUND (Off:2 Def:10),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205864,21600423,4,0:47,Snell 24' 3PT Jump Shot (6 PTS) (Antetokounmpo 2 AST),nan,100 - 98,203503,Tony Snell,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+205865,21600423,4,0:47,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205866,21600423,4,0:47,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+205867,21600423,4,0:47,SUB: Henson FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+205868,21600423,4,0:27,Henson BLOCK (1 BLK),MISS James 4' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+205869,21600423,4,0:27,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205870,21600423,4,0:27,nan,Cavaliers Timeout: Short (Reg.4 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205871,21600423,4,0:27,nan,SUB: Dunleavy FOR Shumpert,nan,202697,Iman Shumpert,CLE,2399,Mike Dunleavy,CLE,0,nan,nan,Substitution ,nan
+205872,21600423,4,0:24,nan,MISS James 21' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205873,21600423,4,0:23,nan,Frye REBOUND (Off:1 Def:2),nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205874,21600423,4,0:22,nan,MISS Frye 1' Layup,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205875,21600423,4,0:22,Henson REBOUND (Off:2 Def:6),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205876,21600423,4,0:22,BUCKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205877,21600423,4,0:22,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+205878,21600423,4,0:22,nan,SUB: Shumpert FOR Dunleavy,nan,2399,Mike Dunleavy,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+205879,21600423,4,0:22,SUB: Teletovic FOR Henson,nan,nan,203089,John Henson,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+205880,21600423,4,0:15,Parker  Driving Layup (28 PTS) (Dellavedova 5 AST),nan,100 - 100,203953,Jabari Parker,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+205881,21600423,4,0:15,nan,Cavaliers Timeout: Short (Reg.4 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205882,21600423,4,0:15,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+205883,21600423,4,0:15,SUB: Henson FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+205884,21600423,4,0:01,nan,MISS Irving 28' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205885,21600423,4,0:00,Parker REBOUND (Off:3 Def:5),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205886,21600423,4,0:00,BUCKS Timeout: Short (Full 5 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205887,21600423,4,0:00,nan,SUB: Thompson FOR Jefferson,nan,2210,Richard Jefferson,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+205888,21600423,4,0:00,SUB: Teletovic FOR Henson,nan,nan,203089,John Henson,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+205889,21600423,4,0:00,BUCKS Timeout: Short (Full 5 Short 2),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205890,21600423,4,0:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+205891,21600423,5,5:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+205892,21600423,5,5:00,Jump Ball Henson vs. Thompson: Tip to Antetokounmpo,nan,nan,203089,John Henson,MIL,202684,Tristan Thompson,CLE,203507,Giannis Antetokounmpo,MIL,Jump Ball ,nan
+205893,21600423,5,4:42,MISS Dellavedova 28' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205894,21600423,5,4:40,nan,James REBOUND (Off:3 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205895,21600423,5,4:21,nan,MISS Jefferson 24' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205896,21600423,5,4:20,Dellavedova REBOUND (Off:1 Def:2),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205897,21600423,5,4:03,nan,James S.FOUL (P2.T1) (J.VanDuyne),nan,2544,LeBron James,CLE,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+205898,21600423,5,4:03,Antetokounmpo Free Throw 1 of 2 (22 PTS),nan,100 - 101,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205899,21600423,5,4:03,Antetokounmpo Free Throw 2 of 2 (23 PTS),nan,100 - 102,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205900,21600423,5,3:40,nan,James 17' Jump Shot (29 PTS),102 - 102,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+205901,21600423,5,3:18,MISS Parker 17' Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205902,21600423,5,3:16,nan,James REBOUND (Off:3 Def:6),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205903,21600423,5,3:07,nan,MISS Irving 30' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205904,21600423,5,3:06,nan,Thompson REBOUND (Off:5 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205905,21600423,5,2:49,nan,MISS Shumpert 29' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205906,21600423,5,2:48,Parker REBOUND (Off:3 Def:6),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205907,21600423,5,2:32,Parker 6' Driving Floating Jump Shot (30 PTS),nan,102 - 104,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+205908,21600423,5,2:09,Antetokounmpo S.FOUL (P5.T1) (J.VanDuyne),nan,nan,203507,Giannis Antetokounmpo,MIL,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+205909,21600423,5,2:09,nan,nan,nan,535,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+205910,21600423,5,2:09,nan,Jefferson Free Throw 1 of 3 (4 PTS),103 - 104,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+205911,21600423,5,2:09,nan,Jefferson Free Throw 2 of 3 (5 PTS),104 - 104,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+205912,21600423,5,2:09,nan,Jefferson Free Throw 3 of 3 (6 PTS),105 - 104,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+205913,21600423,5,1:46,Antetokounmpo 5' Fadeaway Jumper (25 PTS),nan,105 - 106,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+205914,21600423,5,1:46,nan,Cavaliers Timeout: Regular (Reg.5 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205915,21600423,5,1:46,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+205916,21600423,5,1:36,nan,Jefferson 1' Driving Layup (8 PTS) (James 7 AST),107 - 106,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+205917,21600423,5,1:12,Snell 1' Layup (8 PTS),nan,107 - 108,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+205918,21600423,5,0:48,nan,MISS Irving 24' 3PT Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205919,21600423,5,0:47,Antetokounmpo REBOUND (Off:2 Def:11),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205920,21600423,5,0:29,MISS Parker 1' Layup,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205921,21600423,5,0:28,nan,James REBOUND (Off:3 Def:7),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205922,21600423,5,0:28,Antetokounmpo P.FOUL (P6.T2) (J.VanDuyne),nan,nan,203507,Giannis Antetokounmpo,MIL,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+205923,21600423,5,0:28,nan,Cavaliers Timeout: Short (Reg.5 Short 3),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205924,21600423,5,0:28,SUB: Brogdon FOR Antetokounmpo,nan,nan,203507,Giannis Antetokounmpo,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Substitution ,nan
+205925,21600423,5,0:24,nan,James 33' 3PT Jump Shot (32 PTS) (Frye 2 AST),110 - 108,2544,LeBron James,CLE,101112,Channing Frye,CLE,0,nan,nan,Made Shot ,nan
+205926,21600423,5,0:24,BUCKS Timeout: Regular (Full 6 Short 2),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+205927,21600423,5,0:24,nan,SUB: Thompson FOR Irving,nan,202681,Kyrie Irving,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+205928,21600423,5,0:24,nan,SUB: Liggins FOR Frye,nan,101112,Channing Frye,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Substitution ,nan
+205929,21600423,5,0:24,SUB: Terry FOR Snell,nan,nan,203503,Tony Snell,MIL,1891,Jason Terry,MIL,0,nan,nan,Substitution ,nan
+205930,21600423,5,0:24,SUB: Teletovic FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+205931,21600423,5,0:19,nan,Thompson S.FOUL (P5.T2) (T.Washington),nan,202684,Tristan Thompson,CLE,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting
+205932,21600423,5,0:19,MISS Parker Free Throw 1 of 2,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205933,21600423,5,0:19,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+205934,21600423,5,0:19,SUB: Snell FOR Teletovic,nan,nan,203141,Mirza Teletovic,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+205935,21600423,5,0:19,nan,SUB: Irving FOR Liggins,nan,202732,DeAndre Liggins,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+205936,21600423,5,0:19,SUB: Brogdon FOR Terry,nan,nan,1891,Jason Terry,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Substitution ,nan
+205937,21600423,5,0:19,MISS Parker Free Throw 2 of 2,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205938,21600423,5,0:19,nan,James REBOUND (Off:3 Def:8),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205939,21600423,5,0:18,nan,Cavaliers Timeout: Short (Reg.5 Short 4),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205940,21600423,5,0:18,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+205941,21600423,5,0:15,Brogdon Personal Take Foul (P4.PN) (T.Washington),nan,nan,1627763,Malcolm Brogdon,MIL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+205942,21600423,5,0:15,nan,Irving Free Throw 1 of 2 (27 PTS),111 - 108,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205943,21600423,5,0:15,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+205944,21600423,5,0:15,nan,Irving Free Throw 2 of 2 (28 PTS),112 - 108,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205945,21600423,5,0:15,BUCKS Timeout: Short (Full 6 Short 3),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+205946,21600423,5,0:15,SUB: Terry FOR Snell,nan,nan,203503,Tony Snell,MIL,1891,Jason Terry,MIL,0,nan,nan,Substitution ,nan
+205947,21600423,5,0:15,SUB: Teletovic FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203141,Mirza Teletovic,MIL,0,nan,nan,Substitution ,nan
+205948,21600423,5,0:10,MISS Teletovic 28' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+205949,21600423,5,0:10,nan,James REBOUND (Off:3 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+205950,21600423,5,0:10,Dellavedova Personal Take Foul (P3.PN) (M.Lindsay),nan,nan,203521,Matthew Dellavedova,MIL,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal Take
+205951,21600423,5,0:10,nan,James Free Throw 1 of 2 (33 PTS),113 - 108,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+205952,21600423,5,0:10,nan,James Free Throw 2 of 2 (34 PTS),114 - 108,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+205953,21600423,5,0:08,Dellavedova Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+205954,21600423,5,0:00,nan,nan,114 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

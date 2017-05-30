@@ -1,0 +1,143 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+101975,21500815,4,12:00,nan,nan,79 - 104,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+101976,21500815,4,11:40,nan,MISS Livingston 9' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101977,21500815,4,11:39,Harkless REBOUND (Off:2 Def:5),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101978,21500815,4,11:28,McCollum 4' Driving Floating Jump Shot (18 PTS),nan,79 - 106,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+101979,21500815,4,11:15,nan,Thompson 24' 3PT Jump Shot (20 PTS) (Speights 1 AST),82 - 106,202691,Klay Thompson,GSW,201578,Marreese Speights,GSW,0,nan,nan,Made Shot ,nan
+101980,21500815,4,10:56,MISS Crabbe 24' 3PT Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101981,21500815,4,10:55,nan,Speights REBOUND (Off:3 Def:2),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101982,21500815,4,10:44,nan,MISS Thompson 3' Driving Layup,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101983,21500815,4,10:43,Crabbe REBOUND (Off:0 Def:3),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101984,21500815,4,10:37,MISS Henderson  3PT Jump Shot,nan,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101985,21500815,4,10:36,nan,Livingston REBOUND (Off:0 Def:1),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101986,21500815,4,10:12,nan,MISS Iguodala  3PT Step Back Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101987,21500815,4,10:11,Henderson REBOUND (Off:0 Def:4),nan,nan,201945,Gerald Henderson,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101988,21500815,4,10:01,MISS McCollum 9' Driving Floating Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101989,21500815,4,10:00,Davis REBOUND (Off:3 Def:5),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101990,21500815,4,9:59,MISS Davis 1' Putback Layup,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101991,21500815,4,9:59,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101992,21500815,4,9:59,SUB: Lillard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+101993,21500815,4,9:39,Lillard S.FOUL (P1.T1) (J.Phillips),nan,nan,203081,Damian Lillard,POR,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+101994,21500815,4,9:39,nan,Speights Free Throw 1 of 2 (7 PTS),83 - 106,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+101995,21500815,4,9:39,SUB: Plumlee FOR Davis,nan,nan,202334,Ed Davis,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+101996,21500815,4,9:39,SUB: Aminu FOR Harkless,nan,nan,203090,Maurice Harkless,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+101997,21500815,4,9:39,nan,SUB: Rush FOR Iguodala,nan,2738,Andre Iguodala,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+101998,21500815,4,9:39,nan,Speights Free Throw 2 of 2 (8 PTS),84 - 106,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+101999,21500815,4,9:25,Lillard 24' 3PT Pullup Jump Shot (33 PTS) (Plumlee 5 AST),nan,84 - 109,203081,Damian Lillard,POR,203486,Mason Plumlee,POR,0,nan,nan,Made Shot ,nan
+102000,21500815,4,9:14,nan,MISS Speights 25' 3PT Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102001,21500815,4,9:13,Crabbe REBOUND (Off:0 Def:4),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102002,21500815,4,9:02,Lillard 27' 3PT Step Back Jump Shot (36 PTS),nan,84 - 112,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102003,21500815,4,8:49,Crabbe S.FOUL (P2.T2) (B.Adams),nan,nan,203459,Allen Crabbe,POR,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+102004,21500815,4,8:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+102005,21500815,4,8:49,nan,SUB: Looney FOR Barnes,nan,203084,Harrison Barnes,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+102006,21500815,4,8:49,nan,MISS Thompson Free Throw 1 of 2,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102007,21500815,4,8:49,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102008,21500815,4,8:49,nan,Thompson Free Throw 2 of 2 (21 PTS),85 - 112,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102009,21500815,4,8:33,Lillard  Driving Finger Roll Layup (38 PTS) (Henderson 2 AST),nan,85 - 114,203081,Damian Lillard,POR,201945,Gerald Henderson,POR,0,nan,nan,Made Shot ,nan
+102010,21500815,4,8:15,nan,MISS Rush 18' Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102011,21500815,4,8:14,nan,Looney REBOUND (Off:1 Def:0),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102012,21500815,4,8:11,nan,MISS Rush  3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102013,21500815,4,8:10,nan,Speights REBOUND (Off:4 Def:2),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102014,21500815,4,8:01,nan,MISS Speights 1' Layup,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102015,21500815,4,8:00,nan,Looney REBOUND (Off:2 Def:0),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102016,21500815,4,8:00,nan,Looney 1' Tip Layup Shot (2 PTS),87 - 114,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+102017,21500815,4,7:54,MISS Lillard 20' Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102018,21500815,4,7:54,nan,Looney REBOUND (Off:2 Def:1),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102019,21500815,4,7:46,Lillard S.FOUL (P2.T3) (S.Anderson),nan,nan,203081,Damian Lillard,POR,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+102020,21500815,4,7:46,nan,Thompson Free Throw 1 of 2 (22 PTS),88 - 114,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102021,21500815,4,7:46,SUB: Vonleh FOR Henderson,nan,nan,201945,Gerald Henderson,POR,203943,Noah Vonleh,POR,0,nan,nan,Substitution ,nan
+102022,21500815,4,7:46,SUB: McCollum FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+102023,21500815,4,7:46,nan,Thompson Free Throw 2 of 2 (23 PTS),89 - 114,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102024,21500815,4,7:33,nan,SUB: Clark FOR Thompson,nan,202691,Klay Thompson,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+102025,21500815,4,7:26,McCollum  3PT Step Back Jump Shot (21 PTS),nan,89 - 117,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102026,21500815,4,7:09,Lillard STEAL (6 STL),Livingston Bad Pass Turnover (P2.T20),nan,2733,Shaun Livingston,GSW,203081,Damian Lillard,POR,0,nan,nan,Turnover ,Bad Pass
+102027,21500815,4,7:00,Lillard 6' Driving Bank Shot (40 PTS),nan,89 - 119,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102028,21500815,4,6:44,Plumlee S.FOUL (P1.T4) (J.Phillips),nan,nan,203486,Mason Plumlee,POR,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+102029,21500815,4,6:44,nan,Speights Free Throw 1 of 2 (9 PTS),90 - 119,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102030,21500815,4,6:44,nan,SUB: Barbosa FOR Livingston,nan,2733,Shaun Livingston,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Substitution ,nan
+102031,21500815,4,6:44,nan,Speights Free Throw 2 of 2 (10 PTS),91 - 119,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102032,21500815,4,6:21,MISS Vonleh 7' Jump Shot,nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102033,21500815,4,6:21,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102034,21500815,4,6:21,Aminu L.B.FOUL (P3.PN) (S.Anderson),nan,nan,202329,Al-Farouq Aminu,POR,201575,Brandon Rush,GSW,0,nan,nan,Foul ,Loose Ball
+102035,21500815,4,6:21,nan,SUB: Thompson FOR Speights,nan,201578,Marreese Speights,GSW,201574,Jason Thompson,GSW,0,nan,nan,Substitution ,nan
+102036,21500815,4,6:21,nan,nan,nan,465,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+102037,21500815,4,6:21,nan,MISS Rush Free Throw 1 of 2,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102038,21500815,4,6:21,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102039,21500815,4,6:21,nan,Rush Free Throw 2 of 2 (1 PTS),92 - 119,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102040,21500815,4,6:07,Lillard 26' 3PT Pullup Jump Shot (43 PTS),nan,92 - 122,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102041,21500815,4,5:50,nan,MISS Clark 5' Floating Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102042,21500815,4,5:49,McCollum REBOUND (Off:0 Def:3),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102043,21500815,4,5:41,Lillard 27' 3PT Jump Shot (46 PTS) (McCollum 7 AST),nan,92 - 125,203081,Damian Lillard,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+102044,21500815,4,5:26,nan,MISS Rush 25' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102045,21500815,4,5:23,nan,Clark REBOUND (Off:1 Def:0),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102046,21500815,4,5:20,nan,MISS Clark 3' Driving Layup,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102047,21500815,4,5:20,nan,Thompson REBOUND (Off:1 Def:0),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102048,21500815,4,5:20,nan,MISS Thompson 1' Tip Layup Shot,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102049,21500815,4,5:17,Vonleh REBOUND (Off:0 Def:4),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102050,21500815,4,5:10,Lillard 29' 3PT Pullup Jump Shot (49 PTS),nan,92 - 128,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102051,21500815,4,4:52,nan,MISS Barbosa 25' 3PT Jump Shot,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102052,21500815,4,4:51,McCollum REBOUND (Off:0 Def:4),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102053,21500815,4,4:45,nan,Clark S.FOUL (P1.T1) (B.Adams),nan,203546,Ian Clark,GSW,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+102054,21500815,4,4:45,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102055,21500815,4,4:45,SUB: Kaman FOR Vonleh,nan,nan,203943,Noah Vonleh,POR,2549,Chris Kaman,POR,0,nan,nan,Substitution ,nan
+102056,21500815,4,4:45,SUB: Roberts FOR Plumlee,nan,nan,203486,Mason Plumlee,POR,203148,Brian Roberts,POR,0,nan,nan,Substitution ,nan
+102057,21500815,4,4:45,SUB: Leonard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+102058,21500815,4,4:45,Lillard Free Throw 1 of 3 (50 PTS),nan,92 - 129,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+102059,21500815,4,4:45,MISS Lillard Free Throw 2 of 3,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+102060,21500815,4,4:45,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102061,21500815,4,4:45,Lillard Free Throw 3 of 3 (51 PTS),nan,92 - 130,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+102062,21500815,4,4:41,Lillard Personal Take Foul (P3.PN) (S.Anderson),nan,nan,203081,Damian Lillard,POR,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Personal Take
+102063,21500815,4,4:41,nan,Barbosa Free Throw 1 of 2 (3 PTS),93 - 130,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102064,21500815,4,4:41,SUB: Harkless FOR Aminu,nan,nan,202329,Al-Farouq Aminu,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+102065,21500815,4,4:41,SUB: Crabbe FOR Lillard,nan,nan,203081,Damian Lillard,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+102066,21500815,4,4:41,nan,Barbosa Free Throw 2 of 2 (4 PTS),94 - 130,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102067,21500815,4,4:28,Leonard 3 Second Violation Turnover (P1.T11),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+102068,21500815,4,4:10,nan,MISS Looney 25' 3PT Jump Shot,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102069,21500815,4,4:09,Crabbe REBOUND (Off:0 Def:5),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102070,21500815,4,4:00,MISS Crabbe 21' Pullup Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102071,21500815,4,3:59,Leonard REBOUND (Off:1 Def:0),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102072,21500815,4,3:57,Leonard Bad Pass Turnover (P2.T12),Barbosa STEAL (1 STL),nan,203086,Meyers Leonard,POR,2571,Leandro Barbosa,GSW,0,nan,nan,Turnover ,Bad Pass
+102073,21500815,4,3:51,Crabbe BLOCK (1 BLK),MISS Clark  3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,203459,Allen Crabbe,POR,Missed Shot ,nan
+102074,21500815,4,3:51,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102075,21500815,4,3:51,SUB: Connaughton FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+102076,21500815,4,3:46,Leonard S.FOUL (P1.PN) (J.Phillips),nan,nan,203086,Meyers Leonard,POR,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Shooting
+102077,21500815,4,3:46,nan,Barbosa Free Throw 1 of 2 (5 PTS),95 - 130,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102078,21500815,4,3:46,nan,MISS Barbosa Free Throw 2 of 2,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102079,21500815,4,3:45,Harkless REBOUND (Off:2 Def:6),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102080,21500815,4,3:24,MISS Kaman 25' 3PT Jump Shot,nan,nan,2549,Chris Kaman,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102081,21500815,4,3:22,nan,Thompson REBOUND (Off:1 Def:1),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102082,21500815,4,3:09,nan,MISS Rush 24' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102083,21500815,4,3:08,nan,Looney REBOUND (Off:3 Def:1),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102084,21500815,4,3:03,Kaman S.FOUL (P1.PN) (B.Adams),nan,nan,2549,Chris Kaman,POR,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Shooting
+102085,21500815,4,3:03,nan,MISS Thompson Free Throw 1 of 2,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102086,21500815,4,3:03,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102087,21500815,4,3:03,nan,MISS Thompson Free Throw 2 of 2,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102088,21500815,4,3:02,nan,Looney REBOUND (Off:4 Def:1),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102089,21500815,4,2:59,nan,MISS Rush 25' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102090,21500815,4,2:58,Kaman REBOUND (Off:0 Def:1),nan,nan,2549,Chris Kaman,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102091,21500815,4,2:47,MISS Kaman 25' 3PT Jump Shot,nan,nan,2549,Chris Kaman,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102092,21500815,4,2:46,nan,Looney REBOUND (Off:4 Def:2),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102093,21500815,4,2:39,nan,Clark 24' 3PT Jump Shot (3 PTS) (Rush 1 AST),98 - 130,203546,Ian Clark,GSW,201575,Brandon Rush,GSW,0,nan,nan,Made Shot ,nan
+102094,21500815,4,2:24,Leonard Bad Pass Turnover (P3.T13),Thompson STEAL (1 STL),nan,203086,Meyers Leonard,POR,201574,Jason Thompson,GSW,0,nan,nan,Turnover ,Bad Pass
+102095,21500815,4,2:17,nan,MISS Rush 24' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102096,21500815,4,2:15,Leonard REBOUND (Off:1 Def:1),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102097,21500815,4,2:05,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102098,21500815,4,1:56,Roberts 21' Pullup Jump Shot (2 PTS) (Leonard 1 AST),nan,98 - 132,203148,Brian Roberts,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+102099,21500815,4,1:40,Connaughton S.FOUL (P1.PN) (B.Adams),nan,nan,1626192,Pat Connaughton,POR,203546,Ian Clark,GSW,0,nan,nan,Foul ,Shooting
+102100,21500815,4,1:40,nan,MISS Clark Free Throw 1 of 2,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102101,21500815,4,1:40,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102102,21500815,4,1:40,nan,Clark Free Throw 2 of 2 (4 PTS),99 - 132,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102103,21500815,4,1:32,Roberts 1' Reverse Layup (4 PTS) (Leonard 2 AST),nan,99 - 134,203148,Brian Roberts,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+102104,21500815,4,1:26,nan,Clark 9' Floating Jump Shot (6 PTS),101 - 134,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+102105,21500815,4,1:15,MISS Connaughton 25' 3PT Jump Shot,nan,nan,1626192,Pat Connaughton,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102106,21500815,4,1:14,nan,Looney REBOUND (Off:4 Def:3),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102107,21500815,4,1:06,nan,Clark 17' Pullup Jump Shot (8 PTS),103 - 134,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+102108,21500815,4,0:47,Roberts 24' 3PT Pullup Jump Shot (7 PTS),nan,103 - 137,203148,Brian Roberts,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+102109,21500815,4,0:39,nan,MISS Clark 7' Floating Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102110,21500815,4,0:38,Kaman REBOUND (Off:0 Def:2),nan,nan,2549,Chris Kaman,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102111,21500815,4,0:33,MISS Roberts 16' Pullup Jump Shot,nan,nan,203148,Brian Roberts,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102112,21500815,4,0:32,nan,Looney REBOUND (Off:4 Def:4),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102113,21500815,4,0:14,Leonard S.FOUL (P2.PN) (S.Anderson),nan,nan,203086,Meyers Leonard,POR,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Shooting
+102114,21500815,4,0:14,nan,Thompson Free Throw 1 of 2 (1 PTS),104 - 137,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102115,21500815,4,0:14,nan,Thompson Free Throw 2 of 2 (2 PTS),105 - 137,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102116,21500815,4,0:00,nan,nan,105 - 137,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

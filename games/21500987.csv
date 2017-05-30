@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+123605,21500987,4,12:00,nan,nan,65 - 60,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+123606,21500987,4,11:49,Williams P.FOUL (P1.T1) (B.Adams),nan,nan,101150,Lou Williams,LAL,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Personal
+123607,21500987,4,11:38,Huertas S.FOUL (P1.T2) (B.Adams),nan,nan,1626273,Marcelo Huertas,LAL,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Shooting
+123608,21500987,4,11:38,nan,Grant Free Throw 1 of 2 (5 PTS),66 - 60,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123609,21500987,4,11:38,nan,Grant Free Throw 2 of 2 (6 PTS),67 - 60,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123610,21500987,4,11:23,Williams Violation:Kicked Ball (C.Blair),nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+123611,21500987,4,11:15,MISS Nance Jr. 8' Jump Shot,nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123612,21500987,4,11:14,Nance Jr. REBOUND (Off:2 Def:3),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123613,21500987,4,11:12,MISS Nance Jr. 1' Tip Layup Shot,nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123614,21500987,4,11:10,nan,Williams REBOUND (Off:0 Def:9),nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123615,21500987,4,11:08,Nance Jr. BLOCK (1 BLK),MISS Williams 1' Layup,nan,202682,Derrick Williams,NYK,0,nan,nan,1626204,Larry Nance Jr.,LAL,Missed Shot ,nan
+123616,21500987,4,11:08,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123617,21500987,4,11:06,nan,Knicks Timeout: Short (Reg.3 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+123618,21500987,4,10:56,nan,MISS Grant 2' Layup,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123619,21500987,4,10:55,World Peace REBOUND (Off:1 Def:6),nan,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123620,21500987,4,10:44,MISS Williams 25' 3PT Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123621,21500987,4,10:43,nan,O'Quinn REBOUND (Off:0 Def:3),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123622,21500987,4,10:26,nan,MISS Galloway 26' 3PT Jump Shot,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123623,21500987,4,10:25,Nance Jr. REBOUND (Off:2 Def:4),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123624,21500987,4,10:03,Huertas 7' Driving Floating Jump Shot (6 PTS),nan,67 - 62,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123625,21500987,4,9:38,nan,MISS Afflalo 22' Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123626,21500987,4,9:38,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123627,21500987,4,9:38,nan,O'Quinn L.B.FOUL (P1.T1) (C.Blair),nan,203124,Kyle O'Quinn,NYK,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Loose Ball
+123628,21500987,4,9:22,Huertas Bad Pass Turnover (P2.T9),Williams STEAL (2 STL),nan,1626273,Marcelo Huertas,LAL,202682,Derrick Williams,NYK,0,nan,nan,Turnover ,Bad Pass
+123629,21500987,4,9:00,nan,O'Quinn OFF.Foul (P2) (B.Kennedy),nan,203124,Kyle O'Quinn,NYK,1626273,Marcelo Huertas,LAL,0,nan,nan,Foul ,Offensive
+123630,21500987,4,9:00,nan,O'Quinn Foul Turnover (P1.T8),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+123631,21500987,4,9:00,nan,SUB: Lopez FOR Williams,nan,202682,Derrick Williams,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+123632,21500987,4,9:00,nan,SUB: Calderon FOR Grant,nan,1626170,Jerian Grant,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+123633,21500987,4,9:00,nan,SUB: Anthony FOR O'Quinn,nan,203124,Kyle O'Quinn,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+123634,21500987,4,8:47,MISS Huertas 18' Jump Shot,nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123635,21500987,4,8:45,nan,Galloway REBOUND (Off:0 Def:3),nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123636,21500987,4,8:37,Bass S.FOUL (P1.T3) (B.Adams),nan,nan,101138,Brandon Bass,LAL,204038,Langston Galloway,NYK,0,nan,nan,Foul ,Shooting
+123637,21500987,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+123638,21500987,4,8:37,SUB: Kelly FOR World Peace,nan,nan,1897,Metta World Peace,LAL,203527,Ryan Kelly,LAL,0,nan,nan,Substitution ,nan
+123639,21500987,4,8:37,nan,MISS Galloway Free Throw 1 of 2,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123640,21500987,4,8:37,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+123641,21500987,4,8:37,nan,Galloway Free Throw 2 of 2 (9 PTS),68 - 62,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123642,21500987,4,8:21,Williams 15' Pullup Jump Shot (6 PTS),nan,68 - 64,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123643,21500987,4,8:07,nan,Galloway Out of Bounds - Bad Pass Turnover Turnover (P2.T9),nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+123644,21500987,4,8:03,Bass  Dunk (8 PTS) (Williams 2 AST),nan,68 - 66,101138,Brandon Bass,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+123645,21500987,4,7:29,Huertas Violation:Kicked Ball (C.Blair),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+123646,21500987,4,7:25,Kelly P.FOUL (P1.T4) (B.Kennedy),nan,nan,203527,Ryan Kelly,LAL,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Personal
+123647,21500987,4,7:17,nan,Afflalo 19' Jump Shot (7 PTS) (Calderon 6 AST),70 - 66,201167,Arron Afflalo,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+123648,21500987,4,6:58,Williams 3' Driving Bank Shot (8 PTS) (Bass 1 AST),nan,70 - 68,101150,Lou Williams,LAL,101138,Brandon Bass,LAL,0,nan,nan,Made Shot ,nan
+123649,21500987,4,6:58,nan,Anthony AWAY.FROM.PLAY.FOUL (P4.T2) (B.Kennedy),nan,2546,Carmelo Anthony,NYK,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Away From Play
+123650,21500987,4,6:58,Bass Free Throw 1 of 1 (9 PTS),nan,70 - 69,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+123651,21500987,4,6:41,nan,Anthony 2' Layup (16 PTS) (Galloway 2 AST),72 - 69,2546,Carmelo Anthony,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+123652,21500987,4,6:32,MISS Bass 1' Layup,nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123653,21500987,4,6:30,nan,Anthony REBOUND (Off:3 Def:7),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123654,21500987,4,6:19,Williams STEAL (1 STL),Lopez Lost Ball Turnover (P3.T10),nan,201577,Robin Lopez,NYK,101150,Lou Williams,LAL,0,nan,nan,Turnover ,Lost Ball
+123655,21500987,4,6:14,Bass  Running Layup (11 PTS) (Williams 3 AST),nan,72 - 71,101138,Brandon Bass,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+123656,21500987,4,6:14,nan,Knicks Timeout: Regular (Reg.4 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123657,21500987,4,5:53,nan,Anthony 12' Pullup Jump Shot (18 PTS),74 - 71,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+123658,21500987,4,5:37,MISS Kelly  3PT Jump Shot,nan,nan,203527,Ryan Kelly,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123659,21500987,4,5:35,Huertas REBOUND (Off:1 Def:1),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123660,21500987,4,5:23,Huertas 16' Pullup Jump Shot (8 PTS),nan,74 - 73,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123661,21500987,4,5:23,nan,Calderon S.FOUL (P3.T3) (B.Kennedy),nan,101181,Jose Calderon,NYK,1626273,Marcelo Huertas,LAL,0,nan,nan,Foul ,Shooting
+123662,21500987,4,5:23,Huertas Free Throw 1 of 1 (9 PTS),nan,74 - 74,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+123663,21500987,4,5:02,nan,Afflalo 8' Step Back Jump Shot (9 PTS),76 - 74,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+123664,21500987,4,4:49,Williams 25' 3PT Jump Shot (11 PTS) (Huertas 2 AST),nan,76 - 77,101150,Lou Williams,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+123665,21500987,4,4:24,nan,MISS Afflalo 1' Layup,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123666,21500987,4,4:23,Bass REBOUND (Off:0 Def:4),nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123667,21500987,4,4:10,MISS Huertas 2' Layup,nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123668,21500987,4,4:09,nan,Lopez REBOUND (Off:1 Def:7),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123669,21500987,4,3:50,nan,MISS Anthony 15' Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123670,21500987,4,3:49,Huertas REBOUND (Off:1 Def:2),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123671,21500987,4,3:32,Nance Jr. 1' Layup (4 PTS) (Williams 4 AST),nan,76 - 79,1626204,Larry Nance Jr.,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+123672,21500987,4,3:32,nan,Anthony S.FOUL (P5.T4) (B.Adams),nan,2546,Carmelo Anthony,NYK,1626204,Larry Nance Jr.,LAL,0,nan,nan,Foul ,Shooting
+123673,21500987,4,3:32,SUB: Bryant FOR Kelly,nan,nan,203527,Ryan Kelly,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+123674,21500987,4,3:32,nan,SUB: Vujacic FOR Galloway,nan,204038,Langston Galloway,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Substitution ,nan
+123675,21500987,4,3:32,MISS Nance Jr. Free Throw 1 of 1,nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+123676,21500987,4,3:31,Bass REBOUND (Off:1 Def:4),nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123677,21500987,4,3:17,Bryant 9' Turnaround Jump Shot (12 PTS) (Williams 5 AST),nan,76 - 81,977,Kobe Bryant,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+123678,21500987,4,3:16,nan,Knicks Timeout: Regular (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123679,21500987,4,2:56,nan,Anthony 24' 3PT Jump Shot (21 PTS) (Afflalo 2 AST),79 - 81,2546,Carmelo Anthony,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+123680,21500987,4,2:40,Williams 16' Pullup Jump Shot (13 PTS),nan,79 - 83,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123681,21500987,4,2:24,nan,Lopez 3' Hook Shot (15 PTS) (Anthony 4 AST),81 - 83,201577,Robin Lopez,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+123682,21500987,4,2:00,MISS Williams 25' 3PT Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123683,21500987,4,2:00,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123684,21500987,4,1:48,nan,MISS Vujacic 24' 3PT Jump Shot,nan,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123685,21500987,4,1:46,Nance Jr. REBOUND (Off:2 Def:5),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123686,21500987,4,1:32,Bryant 13' Turnaround Jump Shot (14 PTS),nan,81 - 85,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123687,21500987,4,1:23,nan,Anthony 26' 3PT Jump Shot (24 PTS),84 - 85,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+123688,21500987,4,1:05,MISS Bryant 14' Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123689,21500987,4,1:04,nan,Anthony REBOUND (Off:3 Def:8),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123690,21500987,4,0:54,nan,Anthony 21' Pullup Jump Shot (26 PTS),86 - 85,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+123691,21500987,4,0:54,LAKERS Timeout: Short (Full 2 Short 1),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+123692,21500987,4,0:41,Williams 20' Jump Shot (15 PTS),nan,86 - 87,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123693,21500987,4,0:29,Bass S.FOUL (P2.PN) (B.Adams),nan,nan,101138,Brandon Bass,LAL,201577,Robin Lopez,NYK,0,nan,nan,Foul ,Shooting
+123694,21500987,4,0:29,nan,Lopez Free Throw 1 of 2 (16 PTS),87 - 87,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123695,21500987,4,0:29,nan,MISS Lopez Free Throw 2 of 2,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123696,21500987,4,0:28,Huertas REBOUND (Off:1 Def:3),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123697,21500987,4,0:09,MISS Bryant 12' Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123698,21500987,4,0:09,nan,Anthony REBOUND (Off:3 Def:9),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123699,21500987,4,0:09,nan,Knicks Timeout: Regular (Reg.6 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123700,21500987,4,0:00,nan,Calderon 26' 3PT Jump Shot (9 PTS),90 - 87,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+123701,21500987,4,0:00,LAKERS Timeout: Regular (Full 3 Short 1),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123702,21500987,4,0:00,nan,SUB: O'Quinn FOR Calderon,nan,101181,Jose Calderon,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+123703,21500987,4,0:00,nan,nan,90 - 87,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

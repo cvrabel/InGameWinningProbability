@@ -1,0 +1,132 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+261253,21600876,4,12:00,nan,nan,68 - 68,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+261254,21600876,4,11:36,NUGGETS Turnover: Shot Clock (T#11),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+261255,21600876,4,11:26,Harris P.FOUL (P2.T1) (D.Collins),nan,nan,203914,Gary Harris,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+261256,21600876,4,11:12,nan,Randolph 3' Hook Shot (18 PTS) (Gasol 5 AST),70 - 68,2216,Zach Randolph,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+261257,21600876,4,10:51,Chandler 26' 3PT Jump Shot (10 PTS) (Harris 3 AST),nan,70 - 71,201163,Wilson Chandler,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+261258,21600876,4,10:29,nan,Gasol 14' Jump Shot (15 PTS) (Randolph 2 AST),72 - 71,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+261259,21600876,4,10:00,MISS Murray 22' Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261260,21600876,4,9:59,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261261,21600876,4,9:59,nan,Daniels L.B.FOUL (P2.T1) (S.Twardoski),nan,203584,Troy Daniels,MEM,203486,Mason Plumlee,DEN,0,nan,nan,Foul ,Loose Ball
+261262,21600876,4,9:51,Murray 1' Driving Layup (9 PTS),nan,72 - 73,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+261263,21600876,4,9:36,nan,Gasol 25' 3PT Step Back Jump Shot (18 PTS) (Carter 2 AST),75 - 73,201188,Marc Gasol,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+261264,21600876,4,9:16,Murray 2' Cutting Layup Shot (11 PTS) (Plumlee 1 AST),nan,75 - 75,1627750,Jamal Murray,DEN,203486,Mason Plumlee,DEN,0,nan,nan,Made Shot ,nan
+261265,21600876,4,9:03,Plumlee P.FOUL (P1.T2) (B.Forte),nan,nan,203486,Mason Plumlee,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+261266,21600876,4,8:58,nan,Carter Out of Bounds Lost Ball Turnover (P2.T13),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+261267,21600876,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+261268,21600876,4,8:58,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+261269,21600876,4,8:58,nan,SUB: Allen FOR Daniels,nan,203584,Troy Daniels,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+261270,21600876,4,8:44,MISS Chandler 27' 3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261271,21600876,4,8:43,nan,Carter REBOUND (Off:0 Def:2),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261272,21600876,4,8:23,nan,MISS Green 24' 3PT Jump Shot,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261273,21600876,4,8:22,Murray REBOUND (Off:0 Def:4),nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261274,21600876,4,8:15,nan,Allen P.FOUL (P3.T2) (D.Collins),nan,2754,Tony Allen,MEM,1627750,Jamal Murray,DEN,0,nan,nan,Foul ,Personal
+261275,21600876,4,8:15,nan,SUB: Conley FOR Douglas,nan,201962,Toney Douglas,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+261276,21600876,4,8:07,MISS Murray 16' Pullup Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261277,21600876,4,8:07,nan,Gasol REBOUND (Off:1 Def:4),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261278,21600876,4,7:54,Murray S.FOUL (P2.T3) (D.Collins),nan,nan,1627750,Jamal Murray,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+261279,21600876,4,7:54,nan,Conley Free Throw 1 of 2 (19 PTS),76 - 75,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261280,21600876,4,7:54,nan,Conley Free Throw 2 of 2 (20 PTS),77 - 75,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261281,21600876,4,7:42,Barton Poss Lost Ball Turnover (P2.T12),Allen STEAL (4 STL),nan,203115,Will Barton,DEN,2754,Tony Allen,MEM,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+261282,21600876,4,7:37,nan,Gasol Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+261283,21600876,4,7:30,MISS Harris  3PT Jump Shot,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261284,21600876,4,7:29,nan,Conley REBOUND (Off:0 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261285,21600876,4,7:28,Plumlee P.FOUL (P2.T4) (B.Forte),nan,nan,203486,Mason Plumlee,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+261286,21600876,4,7:15,nan,MISS Gasol 26' 3PT Step Back Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261287,21600876,4,7:14,nan,Green REBOUND (Off:2 Def:7),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261288,21600876,4,7:03,Plumlee S.FOUL (P3.PN) (S.Twardoski),nan,nan,203486,Mason Plumlee,DEN,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+261289,21600876,4,7:03,nan,Gasol Free Throw 1 of 2 (19 PTS),78 - 75,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261290,21600876,4,7:03,nan,SUB: Daniels FOR Carter,nan,1713,Vince Carter,MEM,203584,Troy Daniels,MEM,0,nan,nan,Substitution ,nan
+261291,21600876,4,7:03,SUB: Gallinari FOR Harris,nan,nan,203914,Gary Harris,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+261292,21600876,4,7:03,nan,Gasol Free Throw 2 of 2 (20 PTS),79 - 75,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261293,21600876,4,6:54,Chandler Bad Pass Turnover (P4.T13),Allen STEAL (5 STL),nan,201163,Wilson Chandler,DEN,2754,Tony Allen,MEM,0,nan,nan,Turnover ,Bad Pass
+261294,21600876,4,6:38,Murray S.FOUL (P3.PN) (S.Twardoski),nan,nan,1627750,Jamal Murray,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+261295,21600876,4,6:38,nan,nan,nan,415,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+261296,21600876,4,6:38,nan,Conley Free Throw 1 of 3 (21 PTS),80 - 75,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+261297,21600876,4,6:38,nan,Conley Free Throw 2 of 3 (22 PTS),81 - 75,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+261298,21600876,4,6:38,SUB: Jokic FOR Plumlee,nan,nan,203486,Mason Plumlee,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+261299,21600876,4,6:38,SUB: Nelson FOR Murray,nan,nan,1627750,Jamal Murray,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+261300,21600876,4,6:38,nan,Conley Free Throw 3 of 3 (23 PTS),82 - 75,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+261301,21600876,4,6:29,nan,Green P.FOUL (P5.T3) (S.Twardoski),nan,203210,JaMychal Green,MEM,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal
+261302,21600876,4,6:14,Chandler  Driving Dunk (12 PTS) (Jokic 5 AST),nan,82 - 77,201163,Wilson Chandler,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+261303,21600876,4,5:48,nan,Gasol Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+261304,21600876,4,5:48,NUGGETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+261305,21600876,4,5:48,nan,SUB: Randolph FOR Gasol,nan,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+261306,21600876,4,5:37,MISS Jokic 11' Turnaround Jump Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261307,21600876,4,5:34,nan,Allen REBOUND (Off:2 Def:3),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261308,21600876,4,5:20,nan,MISS Daniels 25' 3PT Jump Shot,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261309,21600876,4,5:19,Gallinari REBOUND (Off:0 Def:3),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261310,21600876,4,5:11,nan,Daniels S.FOUL (P3.T4) (S.Twardoski),nan,203584,Troy Daniels,MEM,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Shooting
+261311,21600876,4,5:11,Chandler Free Throw 1 of 2 (13 PTS),nan,82 - 78,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261312,21600876,4,5:11,Chandler Free Throw 2 of 2 (14 PTS),nan,82 - 79,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261313,21600876,4,5:00,nan,Conley 5' Floating Jump Shot (25 PTS),84 - 79,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+261314,21600876,4,4:43,MISS Gallinari 15' Fadeaway Jumper,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261315,21600876,4,4:41,nan,Randolph REBOUND (Off:4 Def:7),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261316,21600876,4,4:21,nan,Conley 26' 3PT Step Back Jump Shot (28 PTS),87 - 79,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+261317,21600876,4,4:21,NUGGETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+261318,21600876,4,4:21,nan,SUB: Gasol FOR Green,nan,203210,JaMychal Green,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+261319,21600876,4,4:21,SUB: Harris FOR Barton,nan,nan,203115,Will Barton,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+261320,21600876,4,4:08,MISS Chandler 9' Floating Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261321,21600876,4,4:08,Chandler REBOUND (Off:5 Def:3),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261322,21600876,4,4:05,MISS Gallinari 25' 3PT Jump Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261323,21600876,4,4:04,nan,Daniels REBOUND (Off:0 Def:2),nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261324,21600876,4,3:40,nan,MISS Gasol 18' Fadeaway Jumper,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261325,21600876,4,3:40,Nelson REBOUND (Off:0 Def:1),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261326,21600876,4,3:28,Jokic 4' Hook Shot (8 PTS),nan,87 - 81,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+261327,21600876,4,3:14,nan,nan,nan,2749,Jameer Nelson,DEN,203584,Troy Daniels,MEM,0,nan,nan,Foul ,Double Personal
+261328,21600876,4,3:14,nan,Grizzlies Timeout: Regular (Reg.4 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+261329,21600876,4,3:14,nan,SUB: Carter FOR Daniels,nan,203584,Troy Daniels,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+261330,21600876,4,3:02,Jokic BLOCK (1 BLK),MISS Gasol 4' Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,203999,Nikola Jokic,DEN,Missed Shot ,nan
+261331,21600876,4,3:01,nan,Allen REBOUND (Off:3 Def:3),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261332,21600876,4,2:59,nan,MISS Allen 13' Jump Shot,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261333,21600876,4,2:58,nan,Allen REBOUND (Off:4 Def:3),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261334,21600876,4,2:36,nan,Randolph 7' Hook Shot (20 PTS) (Gasol 6 AST),89 - 81,2216,Zach Randolph,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+261335,21600876,4,2:23,MISS Jokic 20' Jump Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261336,21600876,4,2:22,nan,Conley REBOUND (Off:0 Def:4),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261337,21600876,4,2:03,nan,Gasol 26' 3PT Jump Shot (23 PTS),92 - 81,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+261338,21600876,4,1:51,Nelson 2' Driving Layup (10 PTS) (Jokic 6 AST),nan,92 - 83,2749,Jameer Nelson,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+261339,21600876,4,1:45,Nelson Personal Take Foul (P4.PN) (B.Forte),nan,nan,2749,Jameer Nelson,DEN,2754,Tony Allen,MEM,0,nan,nan,Foul ,Personal Take
+261340,21600876,4,1:45,nan,Allen Free Throw 1 of 2 (5 PTS),93 - 83,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261341,21600876,4,1:45,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+261342,21600876,4,1:45,nan,Allen Free Throw 2 of 2 (6 PTS),94 - 83,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261343,21600876,4,1:39,Nelson 1' Driving Finger Roll Layup (12 PTS),nan,94 - 85,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+261344,21600876,4,1:33,Jokic Personal Take Foul (P2.PN) (D.Collins),nan,nan,203999,Nikola Jokic,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal Take
+261345,21600876,4,1:33,nan,MISS Conley Free Throw 1 of 2,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261346,21600876,4,1:33,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+261347,21600876,4,1:33,nan,MISS Conley Free Throw 2 of 2,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261348,21600876,4,1:32,Nelson REBOUND (Off:0 Def:2),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261349,21600876,4,1:23,MISS Gallinari 11' Jump Shot,Allen BLOCK (1 BLK),nan,201568,Danilo Gallinari,DEN,0,nan,nan,2754,Tony Allen,MEM,Missed Shot ,nan
+261350,21600876,4,1:22,Harris REBOUND (Off:2 Def:1),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261351,21600876,4,1:21,Harris 2' Putback Layup (17 PTS),nan,94 - 87,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+261352,21600876,4,1:19,Harris Personal Take Foul (P3.PN) (D.Collins),nan,nan,203914,Gary Harris,DEN,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal Take
+261353,21600876,4,1:19,nan,Carter Free Throw 1 of 2 (5 PTS),95 - 87,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261354,21600876,4,1:19,nan,Carter Free Throw 2 of 2 (6 PTS),96 - 87,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261355,21600876,4,1:09,MISS Chandler 26' 3PT Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261356,21600876,4,1:08,nan,Green REBOUND (Off:2 Def:8),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261357,21600876,4,1:08,Gallinari Personal Take Foul (P1.PN) (D.Collins),nan,nan,201568,Danilo Gallinari,DEN,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Personal Take
+261358,21600876,4,1:08,nan,Green Free Throw 1 of 2 (6 PTS),97 - 87,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261359,21600876,4,1:08,nan,Green Free Throw 2 of 2 (7 PTS),98 - 87,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261360,21600876,4,1:08,NUGGETS Timeout: Regular (Full 6 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+261361,21600876,4,1:03,Harris 20' Pullup Jump Shot (19 PTS) (Chandler 4 AST),nan,98 - 89,203914,Gary Harris,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+261362,21600876,4,0:58,Chandler Personal Take Foul (P3.PN) (S.Twardoski),nan,nan,201163,Wilson Chandler,DEN,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Personal Take
+261363,21600876,4,0:58,nan,Green Free Throw 1 of 2 (8 PTS),99 - 89,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261364,21600876,4,0:58,nan,Green Free Throw 2 of 2 (9 PTS),100 - 89,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261365,21600876,4,0:55,nan,Allen P.FOUL (P4.PN) (B.Forte),nan,2754,Tony Allen,MEM,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+261366,21600876,4,0:55,Gallinari Free Throw 1 of 2 (18 PTS),nan,100 - 90,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261367,21600876,4,0:55,Gallinari Free Throw 2 of 2 (19 PTS),nan,100 - 91,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261368,21600876,4,0:52,Gallinari Personal Take Foul (P2.PN) (S.Twardoski),nan,nan,201568,Danilo Gallinari,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal Take
+261369,21600876,4,0:52,nan,Conley Free Throw 1 of 2 (29 PTS),101 - 91,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261370,21600876,4,0:52,nan,Conley Free Throw 2 of 2 (30 PTS),102 - 91,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261371,21600876,4,0:41,nan,Carter S.FOUL (P2.PN) (B.Forte),nan,1713,Vince Carter,MEM,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Shooting
+261372,21600876,4,0:41,Gallinari Free Throw 1 of 2 (20 PTS),nan,102 - 92,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261373,21600876,4,0:41,Gallinari Free Throw 2 of 2 (21 PTS),nan,102 - 93,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261374,21600876,4,0:38,Jokic Personal Take Foul (P3.PN) (D.Collins),nan,nan,203999,Nikola Jokic,DEN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal Take
+261375,21600876,4,0:38,nan,Conley Free Throw 1 of 2 (31 PTS),103 - 93,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+261376,21600876,4,0:38,nan,MISS Conley Free Throw 2 of 2,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+261377,21600876,4,0:37,Gallinari REBOUND (Off:0 Def:4),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261378,21600876,4,0:30,MISS Chandler 25' 3PT Pullup Jump Shot,nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261379,21600876,4,0:29,Chandler REBOUND (Off:6 Def:3),nan,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261380,21600876,4,0:27,Gallinari 25' 3PT Jump Shot (24 PTS) (Chandler 5 AST),nan,103 - 96,201568,Danilo Gallinari,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+261381,21600876,4,0:21,nan,Allen  Dunk (8 PTS) (Conley 5 AST),105 - 96,2754,Tony Allen,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+261382,21600876,4,0:14,Jokic 1' Layup (10 PTS) (Chandler 6 AST),nan,105 - 98,203999,Nikola Jokic,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Made Shot ,nan
+261383,21600876,4,0:00,nan,nan,105 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

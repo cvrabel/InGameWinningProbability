@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+289178,21601107,4,12:00,nan,nan,78 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+289179,21601107,4,11:43,nan,MISS Johnson 11' Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289180,21601107,4,11:42,Udrih REBOUND (Off:0 Def:3),nan,nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289181,21601107,4,11:26,MISS Udrih 1' Layup,nan,nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289182,21601107,4,11:25,Baynes REBOUND (Off:2 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289183,21601107,4,11:22,MISS Baynes 3' Jump Shot,Johnson BLOCK (1 BLK),nan,203382,Aron Baynes,DET,0,nan,nan,204020,Tyler Johnson,MIA,Missed Shot ,nan
+289184,21601107,4,11:21,nan,Richardson REBOUND (Off:1 Def:4),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289185,21601107,4,11:14,nan,MISS Johnson 6' Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289186,21601107,4,11:14,Baynes REBOUND (Off:2 Def:3),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289187,21601107,4,11:04,nan,Reed P.FOUL (P1.T1) (K.Cutler),nan,203186,Willie Reed,MIA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+289188,21601107,4,10:52,Marc Morris 15' Jump Shot (4 PTS) (Baynes 1 AST),nan,78 - 71,202694,Marcus Morris,DET,203382,Aron Baynes,DET,0,nan,nan,Made Shot ,nan
+289189,21601107,4,10:31,Johnson STEAL (1 STL),Ellington Bad Pass Turnover (P2.T8),nan,201961,Wayne Ellington,MIA,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+289190,21601107,4,10:26,Johnson Bad Pass Turnover (P1.T9),Richardson STEAL (1 STL),nan,1626169,Stanley Johnson,DET,1626196,Josh Richardson,MIA,0,nan,nan,Turnover ,Bad Pass
+289191,21601107,4,10:23,Udrih P.FOUL (P2.T1) (K.Cutler),nan,nan,2757,Beno Udrih,DET,203186,Willie Reed,MIA,0,nan,nan,Foul ,Personal
+289192,21601107,4,10:09,nan,Richardson 1' Driving Layup (9 PTS),80 - 71,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+289193,21601107,4,9:52,MISS Marc Morris 5' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289194,21601107,4,9:52,nan,Johnson REBOUND (Off:0 Def:5),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289195,21601107,4,9:44,nan,MISS Johnson 26' 3PT Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289196,21601107,4,9:43,Harris REBOUND (Off:1 Def:3),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289197,21601107,4,9:34,nan,Richardson S.FOUL (P3.T2) (B.Adams),nan,1626196,Josh Richardson,MIA,202699,Tobias Harris,DET,0,nan,nan,Foul ,Shooting
+289198,21601107,4,9:34,Harris Free Throw 1 of 2 (16 PTS),nan,80 - 72,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+289199,21601107,4,9:34,MISS Harris Free Throw 2 of 2,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+289200,21601107,4,9:32,nan,Ellington REBOUND (Off:0 Def:2),nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289201,21601107,4,9:15,nan,Johnson Palming Turnover (P2.T9),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Palming Turnover
+289202,21601107,4,8:53,Harris 26' 3PT Jump Shot (19 PTS) (Udrih 3 AST),nan,80 - 75,202699,Tobias Harris,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+289203,21601107,4,8:28,Baynes BLOCK (1 BLK),MISS Johnson 4' Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,203382,Aron Baynes,DET,Missed Shot ,nan
+289204,21601107,4,8:27,nan,Johnson REBOUND (Off:1 Def:5),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289205,21601107,4,8:27,nan,Heat Turnover: Shot Clock (T#10),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+289206,21601107,4,8:27,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+289207,21601107,4,8:13,Baynes 1' Layup (2 PTS) (Harris 2 AST),nan,80 - 77,203382,Aron Baynes,DET,202699,Tobias Harris,DET,0,nan,nan,Made Shot ,nan
+289208,21601107,4,7:53,nan,MISS Richardson 25' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289209,21601107,4,7:52,Johnson REBOUND (Off:0 Def:5),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289210,21601107,4,7:43,Baynes  Dunk (4 PTS) (Udrih 4 AST),nan,80 - 79,203382,Aron Baynes,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+289211,21601107,4,7:28,nan,Johnson 26' 3PT Jump Shot (12 PTS) (Richardson 3 AST),83 - 79,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+289212,21601107,4,7:11,MISS Johnson 24' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289213,21601107,4,7:11,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289214,21601107,4,7:11,Baynes L.B.FOUL (P1.T2) (B.Adams),nan,nan,203382,Aron Baynes,DET,203186,Willie Reed,MIA,0,nan,nan,Foul ,Loose Ball
+289215,21601107,4,7:11,nan,SUB: Dragic FOR Reed,nan,203186,Willie Reed,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+289216,21601107,4,7:11,nan,SUB: McGruder FOR Johnson,nan,204020,Tyler Johnson,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Substitution ,nan
+289217,21601107,4,7:11,SUB: Caldwell-Pope FOR Harris,nan,nan,202699,Tobias Harris,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+289218,21601107,4,6:58,Baynes P.FOUL (P2.T3) (M.Davis),nan,nan,203382,Aron Baynes,DET,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Personal
+289219,21601107,4,6:42,Baynes BLOCK (2 BLK),MISS Richardson 3' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,203382,Aron Baynes,DET,Missed Shot ,nan
+289220,21601107,4,6:41,Caldwell-Pope REBOUND (Off:2 Def:2),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289221,21601107,4,6:28,Johnson Step Out of Bounds Turnover (P2.T10),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+289222,21601107,4,6:19,Baynes S.FOUL (P3.T4) (K.Cutler),nan,nan,203382,Aron Baynes,DET,201949,James Johnson,MIA,0,nan,nan,Foul ,Shooting
+289223,21601107,4,6:19,nan,Johnson Free Throw 1 of 2 (13 PTS),84 - 79,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+289224,21601107,4,6:19,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+289225,21601107,4,6:19,SUB: Smith FOR Udrih,nan,nan,2757,Beno Udrih,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+289226,21601107,4,6:19,nan,Johnson Free Throw 2 of 2 (14 PTS),85 - 79,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+289227,21601107,4,6:05,Marc Morris 27' 3PT Jump Shot (7 PTS) (Smith 5 AST),nan,85 - 82,202694,Marcus Morris,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+289228,21601107,4,5:40,nan,Johnson  Driving Dunk (16 PTS) (Dragic 4 AST),87 - 82,201949,James Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+289229,21601107,4,5:40,Marc Morris S.FOUL (P5.PN) (B.Adams),nan,nan,202694,Marcus Morris,DET,201949,James Johnson,MIA,0,nan,nan,Foul ,Shooting
+289230,21601107,4,5:40,PISTONS Timeout: Regular (Full 5 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+289231,21601107,4,5:40,nan,SUB: Whiteside FOR Ellington,nan,201961,Wayne Ellington,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+289232,21601107,4,5:40,SUB: Harris FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+289233,21601107,4,5:40,nan,MISS Johnson Free Throw 1 of 1,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+289234,21601107,4,5:39,Drummond REBOUND (Off:6 Def:7),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289235,21601107,4,5:27,Johnson Step Out of Bounds Turnover (P3.T11),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+289236,21601107,4,5:14,Harris STEAL (2 STL),Johnson Bad Pass Turnover (P3.T11),nan,201949,James Johnson,MIA,202699,Tobias Harris,DET,0,nan,nan,Turnover ,Bad Pass
+289237,21601107,4,5:00,MISS Caldwell-Pope 24' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289238,21601107,4,5:00,Johnson REBOUND (Off:1 Def:5),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289239,21601107,4,4:54,Caldwell-Pope 24' 3PT Jump Shot (20 PTS) (Smith 6 AST),nan,87 - 85,203484,Kentavious Caldwell-Pope,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+289240,21601107,4,4:41,Drummond STEAL (2 STL),Johnson Bad Pass Turnover (P4.T12),nan,201949,James Johnson,MIA,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+289241,21601107,4,4:34,MISS Caldwell-Pope 24' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289242,21601107,4,4:34,Johnson REBOUND (Off:2 Def:5),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289243,21601107,4,4:34,Drummond  Layup (8 PTS) (Johnson 1 AST),nan,87 - 87,203083,Andre Drummond,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+289244,21601107,4,4:34,nan,Whiteside S.FOUL (P3.T3) (B.Adams),nan,202355,Hassan Whiteside,MIA,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+289245,21601107,4,4:34,SUB: Marc Morris FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+289246,21601107,4,4:34,Drummond Free Throw 1 of 1 (9 PTS),nan,87 - 88,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+289247,21601107,4,4:29,nan,Heat Timeout: Regular (Reg.4 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+289248,21601107,4,4:14,nan,MISS Richardson 14' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289249,21601107,4,4:14,nan,Whiteside REBOUND (Off:3 Def:4),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289250,21601107,4,4:09,Drummond BLOCK (2 BLK),MISS Whiteside 6' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+289251,21601107,4,4:08,Harris REBOUND (Off:1 Def:4),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289252,21601107,4,3:46,MISS Harris 25' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289253,21601107,4,3:45,nan,Dragic REBOUND (Off:0 Def:3),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289254,21601107,4,3:27,nan,McGruder 5' Driving Hook Shot (12 PTS) (Richardson 4 AST),89 - 88,203585,Rodney McGruder,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+289255,21601107,4,3:14,nan,Richardson S.FOUL (P4.T4) (K.Cutler),nan,1626196,Josh Richardson,MIA,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+289256,21601107,4,3:14,nan,nan,nan,464,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+289257,21601107,4,3:14,MISS Caldwell-Pope Free Throw 1 of 3,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+289258,21601107,4,3:14,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+289259,21601107,4,3:14,Caldwell-Pope Free Throw 2 of 3 (21 PTS),nan,89 - 89,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+289260,21601107,4,3:14,nan,SUB: Johnson FOR Richardson,nan,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+289261,21601107,4,3:14,Caldwell-Pope Free Throw 3 of 3 (22 PTS),nan,89 - 90,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+289262,21601107,4,2:58,Marc Morris P.FOUL (P6.PN) (B.Adams),nan,nan,202694,Marcus Morris,DET,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+289263,21601107,4,2:58,SUB: Johnson FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+289264,21601107,4,2:58,nan,Dragic Free Throw 1 of 2 (24 PTS),90 - 90,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+289265,21601107,4,2:58,nan,Dragic Free Throw 2 of 2 (25 PTS),91 - 90,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+289266,21601107,4,2:45,nan,Johnson S.FOUL (P4.PN) (M.Davis),nan,204020,Tyler Johnson,MIA,202397,Ish Smith,DET,0,nan,nan,Foul ,Shooting
+289267,21601107,4,2:45,Smith Free Throw 1 of 2 (17 PTS),nan,91 - 91,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+289268,21601107,4,2:45,MISS Smith Free Throw 2 of 2,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+289269,21601107,4,2:44,nan,Whiteside REBOUND (Off:3 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289270,21601107,4,2:19,nan,MISS Dragic 26' 3PT Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289271,21601107,4,2:19,Harris REBOUND (Off:1 Def:5),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289272,21601107,4,2:16,Johnson Offensive Charge Foul (P2.PN) (K.Cutler),nan,nan,1626169,Stanley Johnson,DET,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Offensive Charge
+289273,21601107,4,2:16,Johnson Foul Turnover (P4.T12),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+289274,21601107,4,1:56,Drummond P.FOUL (P3.PN) (M.Davis),nan,nan,203083,Andre Drummond,DET,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal
+289275,21601107,4,1:56,nan,MISS Whiteside Free Throw 1 of 2,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+289276,21601107,4,1:56,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+289277,21601107,4,1:56,nan,Whiteside Free Throw 2 of 2 (15 PTS),92 - 91,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+289278,21601107,4,1:33,MISS Harris 11' Turnaround Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289279,21601107,4,1:31,nan,Johnson REBOUND (Off:0 Def:4),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289280,21601107,4,1:15,nan,MISS Johnson 14' Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289281,21601107,4,1:14,nan,McGruder REBOUND (Off:2 Def:4),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289282,21601107,4,0:53,nan,MISS McGruder 12' Jump Shot,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289283,21601107,4,0:53,Caldwell-Pope REBOUND (Off:2 Def:3),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289284,21601107,4,0:45,Caldwell-Pope 25' 3PT Pullup Jump Shot (25 PTS),nan,92 - 94,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+289285,21601107,4,0:45,nan,Heat Timeout: Regular (Reg.5 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+289286,21601107,4,0:43,nan,McGruder Out of Bounds Lost Ball Turnover (P2.T13),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+289287,21601107,4,0:43,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+289288,21601107,4,0:30,Smith 18' Jump Shot (19 PTS),nan,92 - 96,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+289289,21601107,4,0:30,nan,Heat Timeout: Short (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+289290,21601107,4,0:30,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+289291,21601107,4,0:30,Johnson T.FOUL (P2.PN) (M.Davis),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Foul ,Technical
+289292,21601107,4,0:30,nan,Dragic Free Throw Technical (26 PTS),93 - 96,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+289293,21601107,4,0:24,nan,Dragic 6' Jump Shot (28 PTS),95 - 96,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+289294,21601107,4,0:21,nan,McGruder Violation:Kicked Ball (B.Adams),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+289295,21601107,4,0:14,Jump Ball Johnson vs. Johnson: Tip to Dragic,nan,nan,1626169,Stanley Johnson,DET,201949,James Johnson,MIA,201609,Goran Dragic,MIA,Jump Ball ,nan
+289296,21601107,4,0:14,Johnson Lost Ball Turnover (P5.T13),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Lost Ball
+289297,21601107,4,0:11,nan,Heat Timeout: Short (Reg.5 Short 2),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+289298,21601107,4,0:06,nan,MISS Johnson 10' Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289299,21601107,4,0:03,nan,Dragic REBOUND (Off:1 Def:3),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289300,21601107,4,0:01,nan,MISS Dragic 7' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+289301,21601107,4,0:00,nan,Whiteside REBOUND (Off:4 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+289302,21601107,4,0:00,nan,Whiteside  Tip Layup Shot (17 PTS),97 - 96,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+289303,21601107,4,0:00,nan,nan,nan,522,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+289304,21601107,4,0:00,nan,nan,97 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

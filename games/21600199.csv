@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+178072,21600199,4,12:00,nan,nan,76 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+178073,21600199,4,11:39,nan,MISS Johnson 8' Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178074,21600199,4,11:37,nan,Johnson REBOUND (Off:2 Def:1),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178075,21600199,4,11:28,nan,MISS Richardson 16' Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178076,21600199,4,11:26,nan,McRoberts REBOUND (Off:2 Def:1),nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178077,21600199,4,11:22,nan,MISS Richardson 28' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178078,21600199,4,11:20,nan,McRoberts REBOUND (Off:3 Def:1),nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178079,21600199,4,11:07,nan,MISS Johnson 3' Layup,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178080,21600199,4,11:05,nan,McGruder REBOUND (Off:2 Def:2),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178081,21600199,4,11:05,nan,McGruder 2' Putback Layup (5 PTS),78 - 78,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+178082,21600199,4,10:54,nan,Johnson P.FOUL (P1.T1) (M.Kogut),nan,201949,James Johnson,MIA,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Personal
+178083,21600199,4,10:38,76ERS Turnover: Shot Clock (T#13),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+178084,21600199,4,10:38,SUB: Ilyasova FOR Saric,nan,nan,203967,Dario Saric,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+178085,21600199,4,10:22,nan,McGruder Offensive Charge Foul (P2.T2) (M.Kogut),nan,203585,Rodney McGruder,MIA,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Offensive Charge
+178086,21600199,4,10:22,nan,McGruder Foul Turnover (P1.T9),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Turnover ,Foul
+178087,21600199,4,10:22,SUB: Covington FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+178088,21600199,4,10:03,MISS Embiid 5' Jump Shot,McRoberts BLOCK (1 BLK),nan,203954,Joel Embiid,PHI,0,nan,nan,201177,Josh McRoberts,MIA,Missed Shot ,nan
+178089,21600199,4,10:01,nan,McGruder REBOUND (Off:2 Def:3),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178090,21600199,4,9:55,nan,MISS McRoberts 25' 3PT Jump Shot,nan,201177,Josh McRoberts,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178091,21600199,4,9:53,Ilyasova REBOUND (Off:0 Def:10),nan,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178092,21600199,4,9:39,MISS Henderson 14' Jump Shot,Richardson BLOCK (1 BLK),nan,201945,Gerald Henderson,PHI,0,nan,nan,1626196,Josh Richardson,MIA,Missed Shot ,nan
+178093,21600199,4,9:37,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178094,21600199,4,9:37,nan,Johnson L.B.FOUL (P3.T3) (J.Phillips),nan,204020,Tyler Johnson,MIA,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Loose Ball
+178095,21600199,4,9:37,SUB: Okafor FOR Embiid,nan,nan,203954,Joel Embiid,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+178096,21600199,4,9:28,McConnell 1' Driving Finger Roll Layup (2 PTS),nan,78 - 80,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+178097,21600199,4,9:08,nan,MISS Richardson 27' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178098,21600199,4,9:06,nan,McGruder REBOUND (Off:3 Def:3),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178099,21600199,4,9:00,nan,McRoberts 2' Layup (2 PTS) (Johnson 1 AST),80 - 80,201177,Josh McRoberts,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+178100,21600199,4,8:42,Henderson 3' Driving Layup (14 PTS) (Ilyasova 2 AST),nan,80 - 82,201945,Gerald Henderson,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Made Shot ,nan
+178101,21600199,4,8:24,Okafor BLOCK (1 BLK),MISS McRoberts 12' Jump Shot,nan,201177,Josh McRoberts,MIA,0,nan,nan,1626143,Jahlil Okafor,PHI,Missed Shot ,nan
+178102,21600199,4,8:22,Covington REBOUND (Off:4 Def:3),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178103,21600199,4,8:16,Henderson 25' 3PT Jump Shot (17 PTS) (Ilyasova 3 AST),nan,80 - 85,201945,Gerald Henderson,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Made Shot ,nan
+178104,21600199,4,8:15,nan,Heat Timeout: Regular (Reg.4 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+178105,21600199,4,8:15,nan,SUB: Whiteside FOR McRoberts,nan,201177,Josh McRoberts,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+178106,21600199,4,7:54,nan,MISS Johnson 26' 3PT Jump Shot,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178107,21600199,4,7:52,nan,McGruder REBOUND (Off:4 Def:3),nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178108,21600199,4,7:43,nan,Whiteside 3' Reverse Layup (30 PTS) (Richardson 1 AST),82 - 85,202355,Hassan Whiteside,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+178109,21600199,4,7:15,Okafor 13' Step Back Jump Shot (13 PTS),nan,82 - 87,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+178110,21600199,4,7:00,nan,Johnson Traveling Turnover (P2.T10),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+178111,21600199,4,7:00,SUB: Bayless FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,201573,Jerryd Bayless,PHI,0,nan,nan,Substitution ,nan
+178112,21600199,4,7:00,nan,SUB: Dragic FOR McGruder,nan,203585,Rodney McGruder,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+178113,21600199,4,7:00,nan,SUB: Waiters FOR Richardson,nan,1626196,Josh Richardson,MIA,203079,Dion Waiters,MIA,0,nan,nan,Substitution ,nan
+178114,21600199,4,6:35,MISS Bayless 25' 3PT Jump Shot,Dragic BLOCK (1 BLK),nan,201573,Jerryd Bayless,PHI,0,nan,nan,201609,Goran Dragic,MIA,Missed Shot ,nan
+178115,21600199,4,6:33,nan,Johnson REBOUND (Off:2 Def:5),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178116,21600199,4,6:28,nan,Johnson 24' 3PT Jump Shot (3 PTS) (Johnson 1 AST),85 - 87,204020,Tyler Johnson,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+178117,21600199,4,6:09,MISS Bayless 19' Jump Shot,nan,nan,201573,Jerryd Bayless,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178118,21600199,4,6:08,Covington REBOUND (Off:5 Def:3),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178119,21600199,4,5:55,nan,Dragic P.FOUL (P3.T4) (J.Orr),nan,201609,Goran Dragic,MIA,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Personal
+178120,21600199,4,5:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+178121,21600199,4,5:55,nan,nan,nan,476,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+178122,21600199,4,5:55,nan,SUB: Babbitt FOR Johnson,nan,201949,James Johnson,MIA,202337,Luke Babbitt,MIA,0,nan,nan,Substitution ,nan
+178123,21600199,4,5:47,nan,Whiteside P.FOUL (P4.PN) (J.Phillips),nan,202355,Hassan Whiteside,MIA,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+178124,21600199,4,5:34,Okafor 10' Running Jump Shot (15 PTS),nan,85 - 89,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+178125,21600199,4,5:21,nan,Dragic 3' Driving Finger Roll Layup (8 PTS),87 - 89,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+178126,21600199,4,5:08,MISS Bayless 6' Jump Shot,nan,nan,201573,Jerryd Bayless,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178127,21600199,4,5:05,Bayless REBOUND (Off:1 Def:1),nan,nan,201573,Jerryd Bayless,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178128,21600199,4,4:59,MISS Okafor 7' Turnaround Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178129,21600199,4,4:57,nan,Waiters REBOUND (Off:0 Def:3),nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178130,21600199,4,4:45,nan,MISS Dragic 9' Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178131,21600199,4,4:42,nan,Whiteside REBOUND (Off:6 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178132,21600199,4,4:42,nan,Whiteside 2' Tip Layup Shot (32 PTS),89 - 89,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+178133,21600199,4,4:25,MISS Okafor 9' Turnaround Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178134,21600199,4,4:22,nan,Babbitt REBOUND (Off:0 Def:2),nan,202337,Luke Babbitt,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178135,21600199,4,4:13,nan,MISS Johnson 1' Driving Layup,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178136,21600199,4,4:12,Covington REBOUND (Off:5 Def:4),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178137,21600199,4,3:54,Covington 2' Layup (6 PTS) (Bayless 5 AST),nan,89 - 91,203496,Robert Covington,PHI,201573,Jerryd Bayless,PHI,0,nan,nan,Made Shot ,nan
+178138,21600199,4,3:38,Ilyasova S.FOUL (P3.T1) (J.Orr),nan,nan,101141,Ersan Ilyasova,PHI,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+178139,21600199,4,3:38,nan,Dragic Free Throw 1 of 2 (9 PTS),90 - 91,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178140,21600199,4,3:38,SUB: McConnell FOR Bayless,nan,nan,201573,Jerryd Bayless,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+178141,21600199,4,3:38,SUB: Embiid FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203954,Joel Embiid,PHI,0,nan,nan,Substitution ,nan
+178142,21600199,4,3:38,nan,Dragic Free Throw 2 of 2 (10 PTS),91 - 91,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178143,21600199,4,3:24,nan,Whiteside S.FOUL (P5.PN) (J.Orr),nan,202355,Hassan Whiteside,MIA,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+178144,21600199,4,3:24,Embiid Free Throw 1 of 2 (18 PTS),nan,91 - 92,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178145,21600199,4,3:24,nan,SUB: Haslem FOR Whiteside,nan,202355,Hassan Whiteside,MIA,2617,Udonis Haslem,MIA,0,nan,nan,Substitution ,nan
+178146,21600199,4,3:24,Embiid Free Throw 2 of 2 (19 PTS),nan,91 - 93,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178147,21600199,4,3:10,Covington STEAL (2 STL),Dragic Lost Ball Turnover (P3.T11),nan,201609,Goran Dragic,MIA,203496,Robert Covington,PHI,0,nan,nan,Turnover ,Lost Ball
+178148,21600199,4,3:00,Covington 26' 3PT Jump Shot (9 PTS) (Henderson 2 AST),nan,91 - 96,203496,Robert Covington,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Made Shot ,nan
+178149,21600199,4,2:40,nan,MISS Waiters 3' Layup,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178150,21600199,4,2:38,Ilyasova REBOUND (Off:0 Def:11),nan,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178151,21600199,4,2:27,nan,Haslem P.FOUL (P2.PN) (M.Kogut),nan,2617,Udonis Haslem,MIA,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Personal
+178152,21600199,4,2:27,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+178153,21600199,4,2:27,nan,SUB: Whiteside FOR Haslem,nan,2617,Udonis Haslem,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+178154,21600199,4,2:27,Embiid Free Throw 1 of 2 (20 PTS),nan,91 - 97,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178155,21600199,4,2:27,Embiid Free Throw 2 of 2 (21 PTS),nan,91 - 98,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178156,21600199,4,2:18,Covington P.FOUL (P5.T2) (J.Phillips),nan,nan,203496,Robert Covington,PHI,202337,Luke Babbitt,MIA,0,nan,nan,Foul ,Personal
+178157,21600199,4,2:08,Embiid STEAL (1 STL),Babbitt Bad Pass Turnover (P1.T12),nan,202337,Luke Babbitt,MIA,203954,Joel Embiid,PHI,0,nan,nan,Turnover ,Bad Pass
+178158,21600199,4,2:03,Embiid Bad Pass Turnover (P1.T14),Johnson STEAL (2 STL),nan,203954,Joel Embiid,PHI,204020,Tyler Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+178159,21600199,4,1:56,Ilyasova STEAL (1 STL),Babbitt Lost Ball Turnover (P2.T13),nan,202337,Luke Babbitt,MIA,101141,Ersan Ilyasova,PHI,0,nan,nan,Turnover ,Lost Ball
+178160,21600199,4,1:41,MISS McConnell 14' Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178161,21600199,4,1:39,nan,Johnson REBOUND (Off:2 Def:6),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178162,21600199,4,1:29,McConnell P.FOUL (P2.T3) (J.Orr),nan,nan,204456,T.J. McConnell,PHI,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+178163,21600199,4,1:29,nan,SUB: Richardson FOR Babbitt,nan,202337,Luke Babbitt,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Substitution ,nan
+178164,21600199,4,1:20,nan,MISS Waiters 25' 3PT Jump Shot,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178165,21600199,4,1:18,nan,Whiteside REBOUND (Off:7 Def:5),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178166,21600199,4,1:16,nan,MISS Whiteside 6' Jump Shot,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178167,21600199,4,1:15,Embiid REBOUND (Off:0 Def:4),nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178168,21600199,4,0:59,Ilyasova 3 Second Violation Turnover (P2.T15),nan,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+178169,21600199,4,0:59,nan,Heat Timeout: Regular (Reg.5 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+178170,21600199,4,0:55,nan,MISS Richardson 26' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178171,21600199,4,0:53,nan,Dragic REBOUND (Off:2 Def:2),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178172,21600199,4,0:49,nan,MISS Dragic 28' 3PT Jump Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178173,21600199,4,0:48,Embiid REBOUND (Off:0 Def:5),nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178174,21600199,4,0:42,nan,Waiters P.FOUL (P3.PN) (M.Kogut),nan,203079,Dion Waiters,MIA,201945,Gerald Henderson,PHI,0,nan,nan,Foul ,Personal
+178175,21600199,4,0:42,Henderson Free Throw 1 of 2 (18 PTS),nan,91 - 99,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178176,21600199,4,0:42,Henderson Free Throw 2 of 2 (19 PTS),nan,91 - 100,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178177,21600199,4,0:42,nan,Heat Timeout: Short (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+178178,21600199,4,0:42,nan,Heat Turnover: 5 Second Inbound (T#14),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,5 Second Inbound Turnover
+178179,21600199,4,0:39,nan,Johnson P.FOUL (P4.PN) (M.Kogut),nan,204020,Tyler Johnson,MIA,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Personal
+178180,21600199,4,0:39,Embiid Free Throw 1 of 2 (22 PTS),nan,91 - 101,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+178181,21600199,4,0:39,MISS Embiid Free Throw 2 of 2,nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+178182,21600199,4,0:37,nan,Whiteside REBOUND (Off:7 Def:6),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178183,21600199,4,0:35,Covington STEAL (3 STL),Whiteside Bad Pass Turnover (P3.T15),nan,202355,Hassan Whiteside,MIA,203496,Robert Covington,PHI,0,nan,nan,Turnover ,Bad Pass
+178184,21600199,4,0:14,MISS Ilyasova  3PT Jump Shot,nan,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+178185,21600199,4,0:12,nan,Johnson REBOUND (Off:2 Def:7),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+178186,21600199,4,0:01,nan,Richardson 27' 3PT Jump Shot (4 PTS) (Waiters 5 AST),94 - 101,1626196,Josh Richardson,MIA,203079,Dion Waiters,MIA,0,nan,nan,Made Shot ,nan
+178187,21600199,4,0:00,nan,nan,94 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

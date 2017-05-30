@@ -1,0 +1,139 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+212808,21600480,4,12:00,nan,nan,78 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+212809,21600480,4,11:25,nan,Lopez 5' Jump Shot (24 PTS),80 - 76,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212810,21600480,4,11:19,Wade Bad Pass Turnover (P3.T15),Hollis-Jefferson STEAL (2 STL),nan,2548,Dwyane Wade,CHI,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Turnover ,Bad Pass
+212811,21600480,4,11:15,nan,Hollis-Jefferson  Dunk (6 PTS),82 - 76,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212812,21600480,4,11:08,Wade 1' Layup (16 PTS),nan,82 - 78,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212813,21600480,4,11:08,nan,Dinwiddie S.FOUL (P3.T1) (K.Scott),nan,203915,Spencer Dinwiddie,BKN,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+212814,21600480,4,11:08,MISS Wade Free Throw 1 of 1,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+212815,21600480,4,11:07,nan,Dinwiddie REBOUND (Off:0 Def:1),nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212816,21600480,4,10:44,nan,MISS Hollis-Jefferson 7' Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212817,21600480,4,10:42,Mirotic REBOUND (Off:0 Def:2),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212818,21600480,4,10:32,MISS Carter-Williams 25' 3PT Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212819,21600480,4,10:31,nan,Hollis-Jefferson REBOUND (Off:0 Def:1),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212820,21600480,4,10:24,Felicio S.FOUL (P2.T1) (K.Scott),nan,nan,1626245,Cristiano Felicio,CHI,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+212821,21600480,4,10:24,nan,Hollis-Jefferson Free Throw 1 of 2 (7 PTS),83 - 78,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212822,21600480,4,10:24,nan,SUB: Hamilton FOR Lopez,nan,201572,Brook Lopez,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+212823,21600480,4,10:24,nan,MISS Hollis-Jefferson Free Throw 2 of 2,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212824,21600480,4,10:16,Felicio REBOUND (Off:1 Def:5),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212825,21600480,4,10:10,MISS Wade 6' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212826,21600480,4,10:09,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212827,21600480,4,10:07,Wade L.B.FOUL (P1.T2) (S.Wall),nan,nan,2548,Dwyane Wade,CHI,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Loose Ball
+212828,21600480,4,9:51,nan,MISS Hamilton 25' 3PT Jump Shot,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212829,21600480,4,9:46,Carter-Williams REBOUND (Off:1 Def:4),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212830,21600480,4,9:41,MISS Carter-Williams 6' Jump Shot,Hamilton BLOCK (2 BLK),nan,203487,Michael Carter-Williams,CHI,0,nan,nan,203120,Justin Hamilton,BKN,Missed Shot ,nan
+212831,21600480,4,9:40,Wade REBOUND (Off:2 Def:2),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212832,21600480,4,9:36,Mirotic Out of Bounds - Bad Pass Turnover Turnover (P3.T16),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+212833,21600480,4,9:26,Mirotic BLOCK (3 BLK),MISS Dinwiddie 3' Layup,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+212834,21600480,4,9:24,Mirotic REBOUND (Off:0 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212835,21600480,4,9:19,nan,Dinwiddie S.FOUL (P4.T2) (T.Washington),nan,203915,Spencer Dinwiddie,BKN,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Shooting
+212836,21600480,4,9:19,Carter-Williams Free Throw 1 of 2 (1 PTS),nan,83 - 79,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212837,21600480,4,9:19,Carter-Williams Free Throw 2 of 2 (2 PTS),nan,83 - 80,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212838,21600480,4,9:09,nan,MISS LeVert 26' 3PT Jump Shot,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212839,21600480,4,9:08,Felicio REBOUND (Off:1 Def:6),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212840,21600480,4,8:56,MISS Wade 13' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212841,21600480,4,8:54,nan,Foye REBOUND (Off:0 Def:4),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212842,21600480,4,8:32,nan,MISS LeVert 26' 3PT Jump Shot,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212843,21600480,4,8:31,Carter-Williams REBOUND (Off:1 Def:5),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212844,21600480,4,8:23,MISS Felicio 1' Layup,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212845,21600480,4,8:22,Mirotic REBOUND (Off:1 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212846,21600480,4,8:22,nan,Hollis-Jefferson S.FOUL (P3.T3) (K.Scott),nan,1626178,Rondae Hollis-Jefferson,BKN,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+212847,21600480,4,8:22,nan,SUB: Lopez FOR Hamilton,nan,203120,Justin Hamilton,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+212848,21600480,4,8:22,nan,SUB: Kilpatrick FOR Dinwiddie,nan,203915,Spencer Dinwiddie,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+212849,21600480,4,8:22,nan,SUB: Booker FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+212850,21600480,4,8:22,SUB: Butler FOR McDermott,nan,nan,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+212851,21600480,4,8:22,Mirotic Free Throw 1 of 2 (6 PTS),nan,83 - 81,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212852,21600480,4,8:22,SUB: McDermott FOR Wade,nan,nan,2548,Dwyane Wade,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+212853,21600480,4,8:22,Mirotic Free Throw 2 of 2 (7 PTS),nan,83 - 82,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212854,21600480,4,7:57,nan,MISS Lopez 3' Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212855,21600480,4,7:56,Felicio REBOUND (Off:1 Def:7),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212856,21600480,4,7:43,Carter-Williams Bad Pass Turnover (P3.T17),Foye STEAL (1 STL),nan,203487,Michael Carter-Williams,CHI,200751,Randy Foye,BKN,0,nan,nan,Turnover ,Bad Pass
+212857,21600480,4,7:41,nan,Foye  Dunk (11 PTS),85 - 82,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212858,21600480,4,7:23,MISS Mirotic 25' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212859,21600480,4,7:23,Felicio REBOUND (Off:2 Def:7),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212860,21600480,4,7:21,MISS Felicio 2' Layup,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212861,21600480,4,7:20,nan,LeVert REBOUND (Off:0 Def:2),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212862,21600480,4,7:10,nan,Lopez 2' Driving Layup (26 PTS),87 - 82,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212863,21600480,4,7:10,Butler S.FOUL (P2.T3) (S.Wall),nan,nan,202710,Jimmy Butler,CHI,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+212864,21600480,4,7:10,SUB: Rondo FOR Carter-Williams,nan,nan,203487,Michael Carter-Williams,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Substitution ,nan
+212865,21600480,4,7:10,SUB: Lopez FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+212866,21600480,4,7:10,nan,Lopez Free Throw 1 of 1 (27 PTS),88 - 82,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+212867,21600480,4,6:49,Butler 21' Jump Shot (29 PTS),nan,88 - 84,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212868,21600480,4,6:32,nan,MISS LeVert 26' 3PT Jump Shot,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212869,21600480,4,6:30,nan,Booker REBOUND (Off:2 Def:7),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212870,21600480,4,6:27,nan,MISS Kilpatrick 26' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212871,21600480,4,6:26,Rondo REBOUND (Off:2 Def:5),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212872,21600480,4,6:17,MISS Rondo 19' Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212873,21600480,4,6:16,Butler REBOUND (Off:6 Def:3),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212874,21600480,4,6:16,Butler 1' Tip Layup Shot (31 PTS),nan,88 - 86,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212875,21600480,4,6:01,Mirotic P.FOUL (P3.T4) (S.Wall),nan,nan,202703,Nikola Mirotic,CHI,200751,Randy Foye,BKN,0,nan,nan,Foul ,Personal
+212876,21600480,4,6:01,nan,SUB: Bogdanovic FOR LeVert,nan,1627747,Caris LeVert,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+212877,21600480,4,5:50,nan,Bogdanovic 26' 3PT Jump Shot (10 PTS) (Lopez 4 AST),91 - 86,202711,Bojan Bogdanovic,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+212878,21600480,4,5:35,Lopez 19' Jump Shot (10 PTS) (Rondo 12 AST),nan,91 - 88,201577,Robin Lopez,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+212879,21600480,4,5:25,Rondo P.FOUL (P1.PN) (T.Washington),nan,nan,200765,Rajon Rondo,CHI,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Personal
+212880,21600480,4,5:25,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+212881,21600480,4,5:25,nan,Lopez Free Throw 1 of 2 (28 PTS),92 - 88,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212882,21600480,4,5:25,nan,Lopez Free Throw 2 of 2 (29 PTS),93 - 88,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212883,21600480,4,5:08,MISS Butler 2' Layup,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212884,21600480,4,5:07,nan,Bogdanovic REBOUND (Off:0 Def:2),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212885,21600480,4,4:55,nan,MISS Foye 25' 3PT Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212886,21600480,4,4:53,nan,Booker REBOUND (Off:3 Def:7),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212887,21600480,4,4:53,nan,MISS Booker 2' Tip Layup Shot,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212888,21600480,4,4:53,Rondo REBOUND (Off:2 Def:6),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212889,21600480,4,4:51,BULLS Timeout: Short (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+212890,21600480,4,4:51,SUB: Grant FOR Butler,nan,nan,202710,Jimmy Butler,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+212891,21600480,4,4:44,MISS Mirotic  3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212892,21600480,4,4:43,nan,Foye REBOUND (Off:0 Def:5),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212893,21600480,4,4:26,nan,MISS Kilpatrick 25' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212894,21600480,4,4:25,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212895,21600480,4,4:25,nan,nan,nan,511,Melvin Booker,nan,0,nan,nan,0,nan,nan,Instant Replay ,Altercation Ruling
+212896,21600480,4,4:24,nan,nan,nan,202703,Nikola Mirotic,CHI,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Double Technical
+212897,21600480,4,4:24,SUB: Butler FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+212898,21600480,4,4:24,SUB: Gibson FOR Grant,nan,nan,1626170,Jerian Grant,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+212899,21600480,4,4:08,Rondo Traveling Turnover (P2.T18),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+212900,21600480,4,3:51,nan,Lopez 6' Hook Shot (31 PTS),95 - 88,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212901,21600480,4,3:36,Lopez 16' Jump Shot (12 PTS) (Butler 3 AST),nan,95 - 90,201577,Robin Lopez,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+212902,21600480,4,3:18,nan,MISS Bogdanovic 26' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212903,21600480,4,3:17,nan,Booker REBOUND (Off:4 Def:7),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212904,21600480,4,3:14,nan,MISS Kilpatrick 26' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212905,21600480,4,3:12,nan,Booker REBOUND (Off:5 Def:7),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212906,21600480,4,3:02,Gibson S.FOUL (P3.PN) (T.Washington),nan,nan,201959,Taj Gibson,CHI,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+212907,21600480,4,3:02,nan,Kilpatrick Free Throw 1 of 2 (17 PTS),96 - 90,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212908,21600480,4,3:02,nan,Kilpatrick Free Throw 2 of 2 (18 PTS),97 - 90,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212909,21600480,4,2:50,nan,Bogdanovic P.FOUL (P3.T4) (K.Scott),nan,202711,Bojan Bogdanovic,BKN,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+212910,21600480,4,2:50,nan,Nets Timeout: Regular (Reg.4 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+212911,21600480,4,2:50,SUB: Mirotic FOR Lopez,nan,nan,201577,Robin Lopez,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+212912,21600480,4,2:35,MISS Mirotic 15' Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212913,21600480,4,2:35,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212914,21600480,4,2:24,Butler 25' 3PT Jump Shot (34 PTS),nan,97 - 93,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212915,21600480,4,2:00,Mirotic S.FOUL (P4.PN) (S.Wall),nan,nan,202703,Nikola Mirotic,CHI,200751,Randy Foye,BKN,0,nan,nan,Foul ,Shooting
+212916,21600480,4,2:00,nan,MISS Foye Free Throw 1 of 2,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212917,21600480,4,2:00,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+212918,21600480,4,2:00,nan,MISS Foye Free Throw 2 of 2,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212919,21600480,4,1:59,Rondo REBOUND (Off:2 Def:7),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212920,21600480,4,1:50,nan,Lopez S.FOUL (P4.PN) (T.Washington),nan,201572,Brook Lopez,BKN,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+212921,21600480,4,1:50,Butler Free Throw 1 of 2 (35 PTS),nan,97 - 94,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+212922,21600480,4,1:50,SUB: Lopez FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+212923,21600480,4,1:50,SUB: Carter-Williams FOR McDermott,nan,nan,203926,Doug McDermott,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+212924,21600480,4,1:50,Butler Free Throw 2 of 2 (36 PTS),nan,97 - 95,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+212925,21600480,4,1:37,Rondo STEAL (2 STL),Kilpatrick Bad Pass Turnover (P2.T15),nan,203930,Sean Kilpatrick,BKN,200765,Rajon Rondo,CHI,0,nan,nan,Turnover ,Bad Pass
+212926,21600480,4,1:22,Carter-Williams 1' Driving Layup (4 PTS) (Butler 4 AST),nan,97 - 97,203487,Michael Carter-Williams,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+212927,21600480,4,1:06,nan,MISS Lopez 1' Driving Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212928,21600480,4,1:05,Butler REBOUND (Off:6 Def:4),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212929,21600480,4,0:56,MISS Butler 20' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+212930,21600480,4,0:55,nan,Booker REBOUND (Off:5 Def:8),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212931,21600480,4,0:41,Lopez BLOCK (2 BLK),MISS Lopez 2' Driving Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,201577,Robin Lopez,CHI,Missed Shot ,nan
+212932,21600480,4,0:41,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+212933,21600480,4,0:41,nan,nan,nan,559,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+212934,21600480,4,0:40,Butler STEAL (4 STL),Foye Bad Pass Turnover (P1.T16),nan,200751,Randy Foye,BKN,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Bad Pass
+212935,21600480,4,0:27,Butler 9' Jump Shot (38 PTS),nan,97 - 99,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212936,21600480,4,0:20,nan,Nets Timeout: Regular (Reg.5 Short 0),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+212937,21600480,4,0:20,nan,SUB: Hamilton FOR Booker,nan,202344,Trevor Booker,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+212938,21600480,4,0:12,nan,Lopez  Driving Dunk (33 PTS),99 - 99,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+212939,21600480,4,0:12,BULLS Timeout: Regular (Full 5 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+212940,21600480,4,0:12,SUB: McDermott FOR Gibson,nan,nan,201959,Taj Gibson,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+212941,21600480,4,0:12,SUB: Mirotic FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+212942,21600480,4,0:12,nan,SUB: Booker FOR Hamilton,nan,203120,Justin Hamilton,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+212943,21600480,4,0:00,Butler 20' Jump Shot (40 PTS),nan,99 - 101,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+212944,21600480,4,0:00,nan,nan,nan,574,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+212945,21600480,4,0:00,nan,nan,99 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

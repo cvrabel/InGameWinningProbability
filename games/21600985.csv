@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+274697,21600985,4,12:00,nan,nan,57 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+274698,21600985,4,11:49,nan,MISS Felicio 4' Hook Shot,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274699,21600985,4,11:48,nan,Wade REBOUND (Off:1 Def:2),nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274700,21600985,4,11:42,nan,Wade 8' Turnaround Jump Shot (6 PTS),59 - 76,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+274701,21600985,4,11:23,Bradley Bad Pass Turnover (P2.T14),Wade STEAL (1 STL),nan,202340,Avery Bradley,BOS,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Bad Pass
+274702,21600985,4,11:14,Smart STEAL (2 STL),Payne Bad Pass Turnover (P4.T16),nan,1626166,Cameron Payne,CHI,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+274703,21600985,4,11:02,MISS Brown  3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274704,21600985,4,11:01,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274705,21600985,4,11:01,Smart L.B.FOUL (P1.T1) (B.Taylor),nan,nan,203935,Marcus Smart,BOS,203530,Joffrey Lauvergne,CHI,0,nan,nan,Foul ,Loose Ball
+274706,21600985,4,10:49,Bradley P.FOUL (P1.T2) (B.Taylor),nan,nan,202340,Avery Bradley,BOS,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Personal
+274707,21600985,4,10:36,nan,MISS Lauvergne 3' Hook Shot,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274708,21600985,4,10:35,Olynyk REBOUND (Off:3 Def:4),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274709,21600985,4,10:22,Horford 27' 3PT Jump Shot (12 PTS) (Smart 3 AST),nan,59 - 79,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+274710,21600985,4,10:02,Olynyk STEAL (1 STL),Valentine Bad Pass Turnover (P3.T17),nan,1627756,Denzel Valentine,CHI,203482,Kelly Olynyk,BOS,0,nan,nan,Turnover ,Bad Pass
+274711,21600985,4,9:58,Brown 27' 3PT Jump Shot (8 PTS) (Horford 4 AST),nan,59 - 82,1627759,Jaylen Brown,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+274712,21600985,4,9:58,nan,Bulls Timeout: Regular (Reg.5 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+274713,21600985,4,9:58,SUB: Rozier FOR Bradley,nan,nan,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+274714,21600985,4,9:40,nan,Wade 19' Turnaround Fadeaway (8 PTS),61 - 82,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+274715,21600985,4,9:25,Horford Bad Pass Turnover (P4.T15),Wade STEAL (2 STL),nan,201143,Al Horford,BOS,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Bad Pass
+274716,21600985,4,9:19,Horford BLOCK (2 BLK),MISS Lauvergne 5' Jump Shot,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,201143,Al Horford,BOS,Missed Shot ,nan
+274717,21600985,4,9:16,Smart REBOUND (Off:0 Def:5),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274718,21600985,4,9:10,MISS Rozier 25' 3PT Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274719,21600985,4,9:09,nan,Lauvergne REBOUND (Off:0 Def:2),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274720,21600985,4,9:00,nan,MISS Wade 23' Jump Shot,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274721,21600985,4,8:57,Olynyk REBOUND (Off:3 Def:5),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274722,21600985,4,8:44,Smart 24' 3PT Jump Shot (9 PTS) (Horford 5 AST),nan,61 - 85,203935,Marcus Smart,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+274723,21600985,4,8:17,nan,Bulls Turnover: Shot Clock (T#18),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+274724,21600985,4,8:03,Smart 25' 3PT Jump Shot (12 PTS) (Horford 6 AST),nan,61 - 88,203935,Marcus Smart,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+274725,21600985,4,7:50,Rozier STEAL (1 STL),Payne Lost Ball Turnover (P5.T19),nan,1626166,Cameron Payne,CHI,1626179,Terry Rozier,BOS,0,nan,nan,Turnover ,Lost Ball
+274726,21600985,4,7:47,Rozier  Running Dunk (6 PTS),nan,61 - 90,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+274727,21600985,4,7:47,nan,Bulls Timeout: Regular (Reg.6 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+274728,21600985,4,7:47,nan,SUB: Carter-Williams FOR Wade,nan,2548,Dwyane Wade,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+274729,21600985,4,7:47,nan,SUB: Portis FOR Lauvergne,nan,203530,Joffrey Lauvergne,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+274730,21600985,4,7:47,nan,SUB: Zipser FOR Valentine,nan,1627756,Denzel Valentine,CHI,1627835,Paul Zipser,CHI,0,nan,nan,Substitution ,nan
+274731,21600985,4,7:28,Brown S.FOUL (P2.T3) (K.Mauer),nan,nan,1627759,Jaylen Brown,BOS,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+274732,21600985,4,7:28,nan,Felicio Free Throw 1 of 2 (3 PTS),62 - 90,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+274733,21600985,4,7:28,nan,Felicio Free Throw 2 of 2 (4 PTS),63 - 90,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+274734,21600985,4,7:12,MISS Smart 11' Turnaround Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274735,21600985,4,7:11,nan,Felicio REBOUND (Off:1 Def:3),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274736,21600985,4,7:06,nan,Zipser 26' 3PT Jump Shot (3 PTS) (Payne 2 AST),66 - 90,1627835,Paul Zipser,CHI,1626166,Cameron Payne,CHI,0,nan,nan,Made Shot ,nan
+274737,21600985,4,6:51,Rozier Bad Pass Turnover (P1.T16),Payne STEAL (2 STL),nan,1626179,Terry Rozier,BOS,1626166,Cameron Payne,CHI,0,nan,nan,Turnover ,Bad Pass
+274738,21600985,4,6:45,nan,Portis 3' Layup (10 PTS) (Carter-Williams 1 AST),68 - 90,1626171,Bobby Portis,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+274739,21600985,4,6:22,MISS Horford 20' Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274740,21600985,4,6:21,nan,Payne REBOUND (Off:0 Def:1),nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274741,21600985,4,6:16,nan,MISS Payne 26' 3PT Jump Shot,nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274742,21600985,4,6:15,Olynyk REBOUND (Off:3 Def:6),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274743,21600985,4,6:03,nan,Payne P.FOUL (P2.T1) (K.Mauer),nan,1626166,Cameron Payne,CHI,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Personal
+274744,21600985,4,6:03,SUB: Jerebko FOR Horford,nan,nan,201143,Al Horford,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+274745,21600985,4,5:50,MISS Smart 27' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274746,21600985,4,5:47,nan,Zipser REBOUND (Off:0 Def:1),nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274747,21600985,4,5:47,Jerebko L.B.FOUL (P1.T4) (B.Taylor),nan,nan,201973,Jonas Jerebko,BOS,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Loose Ball
+274748,21600985,4,5:23,nan,MISS Payne 3' Finger Roll Layup,nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274749,21600985,4,5:22,Jerebko REBOUND (Off:0 Def:1),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274750,21600985,4,5:13,Brown Out of Bounds Lost Ball Turnover (P2.T17),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+274751,21600985,4,5:00,nan,Portis 18' Jump Shot (12 PTS) (Carter-Williams 2 AST),70 - 90,1626171,Bobby Portis,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+274752,21600985,4,4:43,MISS Jerebko 27' 3PT Jump Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274753,21600985,4,4:42,nan,Payne REBOUND (Off:0 Def:2),nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274754,21600985,4,4:34,nan,MISS Portis 25' 3PT Jump Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274755,21600985,4,4:34,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274756,21600985,4,4:34,nan,SUB: Canaan FOR Portis,nan,1626171,Bobby Portis,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+274757,21600985,4,4:24,Smart Traveling Turnover (P1.T18),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+274758,21600985,4,4:17,Brown S.FOUL (P3.PN) (E.Lewis),nan,nan,1627759,Jaylen Brown,BOS,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Shooting
+274759,21600985,4,4:17,nan,Carter-Williams Free Throw 1 of 2 (1 PTS),71 - 90,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+274760,21600985,4,4:17,nan,MISS Carter-Williams Free Throw 2 of 2,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+274761,21600985,4,4:17,Jerebko REBOUND (Off:0 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274762,21600985,4,3:54,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+274763,21600985,4,3:51,MISS Brown 28' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274764,21600985,4,3:50,Smart REBOUND (Off:1 Def:5),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274765,21600985,4,3:43,Jerebko 7' Hook Shot (2 PTS) (Brown 1 AST),nan,71 - 92,201973,Jonas Jerebko,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Made Shot ,nan
+274766,21600985,4,3:34,nan,Felicio 1' Alley Oop Dunk (6 PTS) (Carter-Williams 3 AST),73 - 92,1626245,Cristiano Felicio,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+274767,21600985,4,3:13,MISS Olynyk 12' Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274768,21600985,4,3:12,nan,Zipser REBOUND (Off:0 Def:2),nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274769,21600985,4,3:04,nan,MISS Canaan 26' 3PT Jump Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274770,21600985,4,3:03,Brown REBOUND (Off:0 Def:2),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274771,21600985,4,2:56,Brown Out of Bounds Lost Ball Turnover (P3.T19),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+274772,21600985,4,2:43,nan,Felicio  Dunk (8 PTS) (Payne 3 AST),75 - 92,1626245,Cristiano Felicio,CHI,1626166,Cameron Payne,CHI,0,nan,nan,Made Shot ,nan
+274773,21600985,4,2:16,Olynyk 26' 3PT Jump Shot (9 PTS),nan,75 - 95,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+274774,21600985,4,1:50,nan,MISS Felicio 20' Jump Shot,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274775,21600985,4,1:50,nan,Carter-Williams REBOUND (Off:1 Def:0),nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274776,21600985,4,1:42,nan,MISS Canaan 26' 3PT Jump Bank Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274777,21600985,4,1:41,Brown REBOUND (Off:0 Def:3),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274778,21600985,4,1:34,MISS Smart 25' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274779,21600985,4,1:32,Jerebko REBOUND (Off:1 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274780,21600985,4,1:26,MISS Smart 26' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274781,21600985,4,1:25,Olynyk REBOUND (Off:4 Def:6),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274782,21600985,4,1:22,Olynyk 2' Reverse Layup (11 PTS),nan,75 - 97,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+274783,21600985,4,1:12,Brown S.FOUL (P4.PN) (B.Taylor),nan,nan,1627759,Jaylen Brown,BOS,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Shooting
+274784,21600985,4,1:12,nan,MISS Carter-Williams Free Throw 1 of 2,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+274785,21600985,4,1:12,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274786,21600985,4,1:12,nan,Carter-Williams Free Throw 2 of 2 (2 PTS),76 - 97,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+274787,21600985,4,0:55,nan,Payne P.FOUL (P3.T2) (B.Taylor),nan,1626166,Cameron Payne,CHI,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Personal
+274788,21600985,4,0:48,Rozier Bad Pass Turnover (P2.T20),Felicio STEAL (1 STL),nan,1626179,Terry Rozier,BOS,1626245,Cristiano Felicio,CHI,0,nan,nan,Turnover ,Bad Pass
+274789,21600985,4,0:43,nan,MISS Felicio  Layup,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+274790,21600985,4,0:42,Rozier REBOUND (Off:0 Def:1),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+274791,21600985,4,0:35,Smart Bad Pass Turnover (P2.T21),Canaan STEAL (1 STL),nan,203935,Marcus Smart,BOS,203477,Isaiah Canaan,CHI,0,nan,nan,Turnover ,Bad Pass
+274792,21600985,4,0:32,nan,Felicio 2' Finger Roll Layup (10 PTS),78 - 97,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+274793,21600985,4,0:08,Brown 27' 3PT Jump Shot (11 PTS),nan,78 - 100,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+274794,21600985,4,0:03,nan,Canaan 2' Driving Finger Roll Layup (2 PTS),80 - 100,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+274795,21600985,4,0:00,nan,nan,80 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+50490,21500401,4,12:00,nan,nan,71 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+50491,21500401,4,11:48,nan,Clippers T.Foul (Def. 3 Sec Smith ) (J.Tiven),nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+50492,21500401,4,11:48,Thornton Free Throw Technical (5 PTS),nan,71 - 84,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+50493,21500401,4,11:38,Howard 3' Layup (20 PTS) (Beverley 1 AST),nan,71 - 86,2730,Dwight Howard,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+50494,21500401,4,11:27,Brewer P.FOUL (P2.T1) (M.McCutchen),nan,nan,201147,Corey Brewer,HOU,1718,Paul Pierce,LAC,0,nan,nan,Foul ,Personal
+50495,21500401,4,11:12,nan,Griffin 20' Jump Shot (19 PTS),73 - 86,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+50496,21500401,4,10:47,Beverley 25' 3PT Step Back Jump Shot (3 PTS),nan,73 - 89,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+50497,21500401,4,10:26,nan,MISS Smith 25' 3PT Jump Shot,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50498,21500401,4,10:25,Brewer REBOUND (Off:0 Def:2),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50499,21500401,4,10:20,Thornton  Running Layup (7 PTS) (Brewer 1 AST),nan,73 - 91,201977,Marcus Thornton,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+50500,21500401,4,10:19,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+50501,21500401,4,10:19,nan,SUB: Jordan FOR Pierce,nan,1718,Paul Pierce,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+50502,21500401,4,10:19,nan,SUB: Crawford FOR Smith,nan,2746,Josh Smith,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+50503,21500401,4,10:19,SUB: Motiejunas FOR Brewer,nan,nan,201147,Corey Brewer,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+50504,21500401,4,10:01,Howard S.FOUL (P4.T2) (M.McCutchen),nan,nan,2730,Dwight Howard,HOU,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+50505,21500401,4,10:01,nan,MISS Griffin Free Throw 1 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50506,21500401,4,10:01,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+50507,21500401,4,10:01,nan,Griffin Free Throw 2 of 2 (20 PTS),74 - 91,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50508,21500401,4,9:48,nan,Stephenson Personal Take Foul (P5.T1) (M.McCutchen),nan,202362,Lance Stephenson,LAC,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal Take
+50509,21500401,4,9:40,MISS Howard 4' Turnaround Hook Shot,Jordan BLOCK (4 BLK),nan,2730,Dwight Howard,HOU,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+50510,21500401,4,9:39,nan,Griffin REBOUND (Off:0 Def:8),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50511,21500401,4,9:29,nan,MISS Crawford 24' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50512,21500401,4,9:28,Beverley REBOUND (Off:0 Def:5),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50513,21500401,4,9:23,nan,Rivers P.FOUL (P4.T2) (J.Tiven),nan,203085,Austin Rivers,LAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal
+50514,21500401,4,9:09,nan,Griffin P.FOUL (P5.T3) (M.McCutchen),nan,201933,Blake Griffin,LAC,202700,Donatas Motiejunas,HOU,0,nan,nan,Foul ,Personal
+50515,21500401,4,9:01,Beverley Traveling Turnover (P4.T15),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+50516,21500401,4,8:47,Motiejunas P.FOUL (P5.T3) (M.Boland),nan,nan,202700,Donatas Motiejunas,HOU,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+50517,21500401,4,8:36,nan,Griffin  Driving Layup (22 PTS),76 - 91,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+50518,21500401,4,8:22,Ariza 13' Pullup Jump Shot (17 PTS),nan,76 - 93,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+50519,21500401,4,8:07,nan,MISS Rivers 24' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50520,21500401,4,8:06,nan,Stephenson REBOUND (Off:1 Def:1),nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50521,21500401,4,7:50,Howard BLOCK (2 BLK),MISS Rivers 6' Turnaround Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,2730,Dwight Howard,HOU,Missed Shot ,nan
+50522,21500401,4,7:48,Ariza REBOUND (Off:1 Def:4),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50523,21500401,4,7:44,Howard  Running Dunk (22 PTS) (Ariza 3 AST),nan,76 - 95,2730,Dwight Howard,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+50524,21500401,4,7:38,nan,Clippers Timeout: Regular (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+50525,21500401,4,7:38,nan,SUB: Paul FOR Rivers,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+50526,21500401,4,7:38,nan,SUB: Redick FOR Stephenson,nan,202362,Lance Stephenson,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+50527,21500401,4,7:38,SUB: Harden FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+50528,21500401,4,7:25,Howard P.FOUL (P5.T4) (J.Tiven),nan,nan,2730,Dwight Howard,HOU,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+50529,21500401,4,7:25,SUB: Capela FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+50530,21500401,4,7:20,Beverley Personal Block Foul (P4.PN) (J.Tiven),nan,nan,201976,Patrick Beverley,HOU,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal Block
+50531,21500401,4,7:20,nan,Paul Free Throw 1 of 2 (11 PTS),77 - 95,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50532,21500401,4,7:20,SUB: Jones FOR Howard,nan,nan,2730,Dwight Howard,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+50533,21500401,4,7:20,nan,Paul Free Throw 2 of 2 (12 PTS),78 - 95,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50534,21500401,4,7:19,nan,Crawford Personal Take Foul (P3.T4) (J.Tiven),nan,2037,Jamal Crawford,LAC,203991,Clint Capela,HOU,0,nan,nan,Foul ,Personal Take
+50535,21500401,4,7:19,SUB: Motiejunas FOR Capela,nan,nan,203991,Clint Capela,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+50536,21500401,4,7:04,Harden Bad Pass Turnover (P5.T16),Paul STEAL (7 STL),nan,201935,James Harden,HOU,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Bad Pass
+50537,21500401,4,6:57,Jones S.FOUL (P1.PN) (M.Boland),nan,nan,203093,Terrence Jones,HOU,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+50538,21500401,4,6:57,nan,MISS Jordan Free Throw 1 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50539,21500401,4,6:57,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+50540,21500401,4,6:57,nan,MISS Jordan Free Throw 2 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50541,21500401,4,6:57,Ariza REBOUND (Off:1 Def:5),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50542,21500401,4,6:54,nan,Crawford Personal Take Foul (P4.PN) (M.McCutchen),nan,2037,Jamal Crawford,LAC,202700,Donatas Motiejunas,HOU,0,nan,nan,Foul ,Personal Take
+50543,21500401,4,6:54,Motiejunas Free Throw 1 of 2 (7 PTS),nan,78 - 96,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50544,21500401,4,6:54,Motiejunas Free Throw 2 of 2 (8 PTS),nan,78 - 97,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50545,21500401,4,6:29,nan,MISS Paul 28' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50546,21500401,4,6:28,Motiejunas REBOUND (Off:0 Def:3),nan,nan,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50547,21500401,4,6:22,Beverley 24' 3PT Jump Shot (6 PTS) (Harden 11 AST),nan,78 - 100,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+50548,21500401,4,6:05,nan,Redick  3PT Jump Shot (18 PTS) (Paul 10 AST),81 - 100,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+50549,21500401,4,6:05,Harden S.FOUL (P4.PN) (M.Boland),nan,nan,201935,James Harden,HOU,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+50550,21500401,4,6:05,nan,SUB: Aldrich FOR Griffin,nan,201933,Blake Griffin,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Substitution ,nan
+50551,21500401,4,6:05,nan,SUB: Stephenson FOR Jordan,nan,201599,DeAndre Jordan,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Substitution ,nan
+50552,21500401,4,6:05,nan,SUB: Prigioni FOR Paul,nan,101108,Chris Paul,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Substitution ,nan
+50553,21500401,4,6:05,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+50554,21500401,4,6:05,nan,Redick Free Throw 1 of 1 (19 PTS),82 - 100,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+50555,21500401,4,5:51,MISS Harden 14' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50556,21500401,4,5:50,nan,Aldrich REBOUND (Off:0 Def:1),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50557,21500401,4,5:44,nan,SUB: W. Johnson FOR Redick,nan,200755,JJ Redick,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+50558,21500401,4,5:40,nan,MISS W. Johnson 24' Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50559,21500401,4,5:40,Harden REBOUND (Off:0 Def:5),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50560,21500401,4,5:33,nan,Prigioni P.FOUL (P1.PN) (M.McCutchen),nan,203143,Pablo Prigioni,LAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal
+50561,21500401,4,5:33,MISS Beverley Free Throw 1 of 2,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50562,21500401,4,5:33,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+50563,21500401,4,5:33,Beverley Free Throw 2 of 2 (7 PTS),nan,82 - 101,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50564,21500401,4,5:15,nan,Aldrich Bad Pass Turnover (P1.T9),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+50565,21500401,4,4:59,MISS Beverley 25' 3PT Jump Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50566,21500401,4,4:58,nan,Aldrich REBOUND (Off:0 Def:2),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50567,21500401,4,4:47,Motiejunas STEAL (1 STL),Stephenson Bad Pass Turnover (P3.T10),nan,202362,Lance Stephenson,LAC,202700,Donatas Motiejunas,HOU,0,nan,nan,Turnover ,Bad Pass
+50568,21500401,4,4:44,Motiejunas Bad Pass Turnover (P1.T17),Rivers STEAL (1 STL),nan,202700,Donatas Motiejunas,HOU,203085,Austin Rivers,LAC,0,nan,nan,Turnover ,Bad Pass
+50569,21500401,4,4:40,nan,Rivers 1' Layup (2 PTS) (Prigioni 1 AST),84 - 101,203085,Austin Rivers,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+50570,21500401,4,4:12,ROCKETS Turnover: Shot Clock (T#18),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+50571,21500401,4,4:12,SUB: Thornton FOR Harden,nan,nan,201935,James Harden,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+50572,21500401,4,4:12,SUB: Brewer FOR Ariza,nan,nan,2772,Trevor Ariza,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+50573,21500401,4,3:57,nan,MISS W. Johnson 14' Pullup Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50574,21500401,4,3:56,nan,Aldrich REBOUND (Off:1 Def:2),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50575,21500401,4,3:49,nan,Prigioni 27' 3PT Jump Shot (3 PTS),87 - 101,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+50576,21500401,4,3:22,ROCKETS Turnover: Shot Clock (T#19),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+50577,21500401,4,3:07,nan,MISS Prigioni 27' 3PT Jump Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50578,21500401,4,3:06,Jones REBOUND (Off:0 Def:6),nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50579,21500401,4,2:56,MISS Thornton 27' 3PT Jump Shot,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50580,21500401,4,2:55,nan,Aldrich REBOUND (Off:1 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50581,21500401,4,2:43,Brewer STEAL (1 STL),Rivers Lost Ball Turnover (P1.T11),nan,203085,Austin Rivers,LAC,201147,Corey Brewer,HOU,0,nan,nan,Turnover ,Lost Ball
+50582,21500401,4,2:42,nan,Prigioni Personal Take Foul (P2.PN) (M.McCutchen),nan,203143,Pablo Prigioni,LAC,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal Take
+50583,21500401,4,2:42,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+50584,21500401,4,2:42,MISS Beverley Free Throw 1 of 2,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50585,21500401,4,2:42,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+50586,21500401,4,2:42,MISS Beverley Free Throw 2 of 2,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50587,21500401,4,2:42,nan,Aldrich REBOUND (Off:1 Def:4),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50588,21500401,4,2:28,nan,W. Johnson 13' Pullup Jump Shot (2 PTS) (Aldrich 1 AST),89 - 101,202325,Wesley Johnson,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Made Shot ,nan
+50589,21500401,4,2:12,MISS Jones 25' 3PT Jump Shot,nan,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50590,21500401,4,2:09,nan,Prigioni REBOUND (Off:0 Def:1),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50591,21500401,4,2:03,nan,Prigioni 25' 3PT Jump Shot (6 PTS),92 - 101,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+50592,21500401,4,1:49,Motiejunas 13' Jump Shot (10 PTS) (Brewer 2 AST),nan,92 - 103,202700,Donatas Motiejunas,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+50593,21500401,4,1:35,Thornton STEAL (1 STL),W. Johnson Bad Pass Turnover (P1.T12),nan,202325,Wesley Johnson,LAC,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Bad Pass
+50594,21500401,4,1:15,MISS Thornton 3' Driving Layup,W. Johnson BLOCK (1 BLK),nan,201977,Marcus Thornton,HOU,0,nan,nan,202325,Wesley Johnson,LAC,Missed Shot ,nan
+50595,21500401,4,1:13,nan,Stephenson REBOUND (Off:1 Def:2),nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50596,21500401,4,1:05,nan,MISS W. Johnson 26' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50597,21500401,4,1:04,Thornton REBOUND (Off:1 Def:2),nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50598,21500401,4,0:51,MISS Motiejunas 25' 3PT Jump Shot,nan,nan,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50599,21500401,4,0:50,nan,Prigioni REBOUND (Off:0 Def:2),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50600,21500401,4,0:34,nan,MISS Stephenson  3PT Jump Shot,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+50601,21500401,4,0:33,nan,Aldrich REBOUND (Off:2 Def:4),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+50602,21500401,4,0:32,nan,Aldrich 3' Pullup Jump Shot (2 PTS),94 - 103,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+50603,21500401,4,0:31,nan,Prigioni Personal Take Foul (P3.PN) (M.Boland),nan,203143,Pablo Prigioni,LAC,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Personal Take
+50604,21500401,4,0:31,Thornton Free Throw 1 of 2 (8 PTS),nan,94 - 104,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50605,21500401,4,0:31,Thornton Free Throw 2 of 2 (9 PTS),nan,94 - 105,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50606,21500401,4,0:18,nan,W. Johnson 25' 3PT Pullup Bank Shot (5 PTS) (Prigioni 2 AST),97 - 105,202325,Wesley Johnson,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+50607,21500401,4,0:12,nan,Stephenson P.FOUL (P6.PN) (M.Boland),nan,202362,Lance Stephenson,LAC,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Personal
+50608,21500401,4,0:12,nan,SUB: Mbah a Moute FOR Stephenson,nan,202362,Lance Stephenson,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+50609,21500401,4,0:12,Thornton Free Throw 1 of 2 (10 PTS),nan,97 - 106,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+50610,21500401,4,0:12,Thornton Free Throw 2 of 2 (11 PTS),nan,97 - 107,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+50611,21500401,4,0:00,nan,nan,97 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

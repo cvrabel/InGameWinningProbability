@@ -1,0 +1,132 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+232849,21600647,4,12:00,nan,nan,57 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+232850,21600647,4,11:42,MISS Neal 20' Pullup Jump Shot,nan,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232851,21600647,4,11:41,nan,McDermott REBOUND (Off:0 Def:4),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232852,21600647,4,11:22,nan,Portis 3' Layup (4 PTS) (Valentine 1 AST),59 - 87,1626171,Bobby Portis,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+232853,21600647,4,11:07,MISS Prince 8' Driving Floating Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232854,21600647,4,11:06,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232855,21600647,4,11:01,nan,Mirotic P.FOUL (P2.T1) (M.Lindsay),nan,202703,Nikola Mirotic,CHI,2743,Kris Humphries,ATL,0,nan,nan,Foul ,Personal
+232856,21600647,4,10:53,MISS Delaney 18' Pullup Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232857,21600647,4,10:51,Humphries REBOUND (Off:1 Def:6),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232858,21600647,4,10:45,Prince Lost Ball Turnover (P1.T18),Rondo STEAL (3 STL),nan,1627752,Taurean Prince,ATL,200765,Rajon Rondo,CHI,0,nan,nan,Turnover ,Lost Ball
+232859,21600647,4,10:32,nan,MISS Rondo  Driving Layup,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232860,21600647,4,10:30,nan,Mirotic REBOUND (Off:1 Def:1),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232861,21600647,4,10:30,Prince S.FOUL (P1.T1) (M.Lindsay),nan,nan,1627752,Taurean Prince,ATL,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+232862,21600647,4,10:30,nan,MISS Mirotic Free Throw 1 of 2,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232863,21600647,4,10:30,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+232864,21600647,4,10:30,nan,SUB: Grant FOR Rondo,nan,200765,Rajon Rondo,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+232865,21600647,4,10:30,nan,Mirotic Free Throw 2 of 2 (1 PTS),60 - 87,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232866,21600647,4,10:14,MISS Neal 14' Floating Jump Shot,nan,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232867,21600647,4,10:13,Humphries REBOUND (Off:2 Def:6),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232868,21600647,4,10:03,Delaney 2' Driving Layup (5 PTS),nan,60 - 89,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+232869,21600647,4,9:43,nan,Mirotic 1' Driving Reverse Layup (3 PTS) (McDermott 1 AST),62 - 89,202703,Nikola Mirotic,CHI,203926,Doug McDermott,CHI,0,nan,nan,Made Shot ,nan
+232870,21600647,4,9:21,MISS Prince 24' 3PT Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232871,21600647,4,9:20,nan,McDermott REBOUND (Off:0 Def:5),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232872,21600647,4,9:12,nan,MISS Grant 25' 3PT Jump Shot,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232873,21600647,4,9:10,Delaney REBOUND (Off:0 Def:1),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232874,21600647,4,8:50,MISS Delaney 19' Pullup Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232875,21600647,4,8:49,nan,Portis REBOUND (Off:0 Def:3),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232876,21600647,4,8:44,Humphries S.FOUL (P1.T2) (J.VanDuyne),nan,nan,2743,Kris Humphries,ATL,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Shooting
+232877,21600647,4,8:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+232878,21600647,4,8:44,nan,SUB: Zipser FOR McDermott,nan,203926,Doug McDermott,CHI,1627835,Paul Zipser,CHI,0,nan,nan,Substitution ,nan
+232879,21600647,4,8:44,SUB: Scott FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+232880,21600647,4,8:44,SUB: Dunleavy FOR Humphries,nan,nan,2743,Kris Humphries,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+232881,21600647,4,8:44,nan,Grant Free Throw 1 of 2 (1 PTS),63 - 89,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232882,21600647,4,8:44,nan,Grant Free Throw 2 of 2 (2 PTS),64 - 89,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232883,21600647,4,8:27,MISS Dunleavy 20' Jump Shot,nan,nan,2399,Mike Dunleavy,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232884,21600647,4,8:26,nan,Valentine REBOUND (Off:1 Def:2),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232885,21600647,4,8:10,nan,Valentine 25' 3PT Jump Shot (8 PTS) (Portis 1 AST),67 - 89,1627756,Denzel Valentine,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Made Shot ,nan
+232886,21600647,4,7:59,MISS Neal 25' 3PT Jump Shot,nan,nan,202390,Gary Neal,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232887,21600647,4,7:57,nan,Portis REBOUND (Off:0 Def:4),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232888,21600647,4,7:47,nan,MISS Mirotic 25' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232889,21600647,4,7:46,Scott REBOUND (Off:0 Def:2),nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232890,21600647,4,7:38,Bembry  Driving Layup (2 PTS) (Scott 4 AST),nan,67 - 91,1627761,DeAndre' Bembry,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+232891,21600647,4,7:22,Dunleavy STEAL (1 STL),Grant Bad Pass Turnover (P1.T20),nan,1626170,Jerian Grant,CHI,2399,Mike Dunleavy,ATL,0,nan,nan,Turnover ,Bad Pass
+232892,21600647,4,7:22,nan,Portis P.FOUL (P1.T2) (B.Spooner),nan,1626171,Bobby Portis,CHI,2399,Mike Dunleavy,ATL,0,nan,nan,Foul ,Personal
+232893,21600647,4,7:08,MISS Prince 25' 3PT Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232894,21600647,4,7:05,nan,Portis REBOUND (Off:0 Def:5),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232895,21600647,4,6:59,Prince P.FOUL (P2.T3) (J.VanDuyne),nan,nan,1627752,Taurean Prince,ATL,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Personal
+232896,21600647,4,6:52,nan,Zipser 25' 3PT Jump Shot (5 PTS) (Mirotic 1 AST),70 - 91,1627835,Paul Zipser,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+232897,21600647,4,6:35,Scott Bad Pass Turnover (P1.T19),Valentine STEAL (3 STL),nan,203118,Mike Scott,ATL,1627756,Denzel Valentine,CHI,0,nan,nan,Turnover ,Bad Pass
+232898,21600647,4,6:24,nan,Mirotic OFF.Foul (P3) (B.Spooner),nan,202703,Nikola Mirotic,CHI,203118,Mike Scott,ATL,0,nan,nan,Foul ,Offensive
+232899,21600647,4,6:24,nan,Mirotic Foul Turnover (P1.T21),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+232900,21600647,4,6:24,SUB: Humphries FOR Neal,nan,nan,202390,Gary Neal,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+232901,21600647,4,6:10,MISS Prince 5' Pullup Jump Shot,Valentine BLOCK (1 BLK),nan,1627752,Taurean Prince,ATL,0,nan,nan,1627756,Denzel Valentine,CHI,Missed Shot ,nan
+232902,21600647,4,6:10,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232903,21600647,4,6:00,Humphries P.FOUL (P2.T4) (M.Lindsay),nan,nan,2743,Kris Humphries,ATL,1627756,Denzel Valentine,CHI,0,nan,nan,Foul ,Personal
+232904,21600647,4,5:54,Scott STEAL (1 STL),Valentine Bad Pass Turnover (P2.T22),nan,1627756,Denzel Valentine,CHI,203118,Mike Scott,ATL,0,nan,nan,Turnover ,Bad Pass
+232905,21600647,4,5:53,nan,Mirotic P.FOUL (P4.T3) (M.Lindsay),nan,202703,Nikola Mirotic,CHI,203118,Mike Scott,ATL,0,nan,nan,Foul ,Personal
+232906,21600647,4,5:53,HAWKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+232907,21600647,4,5:53,nan,nan,nan,444,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+232908,21600647,4,5:37,MISS Bembry 16' Pullup Jump Shot,nan,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232909,21600647,4,5:36,nan,Mirotic REBOUND (Off:1 Def:2),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232910,21600647,4,5:27,nan,Portis 9' Hook Shot (6 PTS) (Grant 1 AST),72 - 91,1626171,Bobby Portis,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Made Shot ,nan
+232911,21600647,4,5:06,MISS Bembry 16' Fadeaway Jumper,nan,nan,1627761,DeAndre' Bembry,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232912,21600647,4,5:04,Humphries REBOUND (Off:3 Def:6),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232913,21600647,4,5:04,MISS Humphries  Tip Layup Shot,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232914,21600647,4,5:03,nan,Valentine REBOUND (Off:1 Def:3),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232915,21600647,4,4:58,nan,Grant 18' Running Pull-Up Jump Shot (4 PTS),74 - 91,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+232916,21600647,4,4:37,MISS Prince 21' Pullup Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232917,21600647,4,4:34,nan,Valentine REBOUND (Off:1 Def:4),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232918,21600647,4,4:30,nan,Grant 2' Running Layup (6 PTS),76 - 91,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+232919,21600647,4,4:30,Prince S.FOUL (P3.PN) (J.VanDuyne),nan,nan,1627752,Taurean Prince,ATL,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Shooting
+232920,21600647,4,4:30,SUB: Delaney FOR Dunleavy,nan,nan,2399,Mike Dunleavy,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Substitution ,nan
+232921,21600647,4,4:30,SUB: Hardaway Jr. FOR Bembry,nan,nan,1627761,DeAndre' Bembry,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Substitution ,nan
+232922,21600647,4,4:30,nan,Grant Free Throw 1 of 1 (7 PTS),77 - 91,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+232923,21600647,4,4:15,Prince 3' Hook Shot (2 PTS) (Humphries 2 AST),nan,77 - 93,1627752,Taurean Prince,ATL,2743,Kris Humphries,ATL,0,nan,nan,Made Shot ,nan
+232924,21600647,4,4:03,nan,Grant Out of Bounds Lost Ball Turnover (P2.T23),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+232925,21600647,4,3:45,MISS Humphries 11' Floating Jump Shot,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232926,21600647,4,3:41,Delaney REBOUND (Off:1 Def:1),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232927,21600647,4,3:27,Prince Lost Ball Turnover (P2.T20),Grant STEAL (1 STL),nan,1627752,Taurean Prince,ATL,1626170,Jerian Grant,CHI,0,nan,nan,Turnover ,Lost Ball
+232928,21600647,4,3:27,Prince P.FOUL (P4.PN) (M.Lindsay),nan,nan,1627752,Taurean Prince,ATL,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Personal
+232929,21600647,4,3:27,nan,Grant Free Throw 1 of 2 (8 PTS),78 - 93,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232930,21600647,4,3:27,nan,Grant Free Throw 2 of 2 (9 PTS),79 - 93,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232931,21600647,4,3:11,MISS Hardaway Jr. 9' Turnaround Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232932,21600647,4,3:09,nan,Portis REBOUND (Off:0 Def:6),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232933,21600647,4,2:57,nan,MISS Grant 19' Pullup Jump Shot,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232934,21600647,4,2:57,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232935,21600647,4,2:57,Scott L.B.FOUL (P1.PN) (B.Spooner),nan,nan,203118,Mike Scott,ATL,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Loose Ball
+232936,21600647,4,2:57,nan,Bulls Timeout: Regular (Reg.4 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+232937,21600647,4,2:57,SUB: Bembry FOR Prince,nan,nan,1627752,Taurean Prince,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Substitution ,nan
+232938,21600647,4,2:57,nan,Mirotic Free Throw 1 of 2 (4 PTS),80 - 93,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232939,21600647,4,2:57,nan,Mirotic Free Throw 2 of 2 (5 PTS),81 - 93,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232940,21600647,4,2:38,Humphries 1' Reverse Layup (7 PTS) (Hardaway Jr. 2 AST),nan,81 - 95,2743,Kris Humphries,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+232941,21600647,4,2:24,nan,MISS Mirotic 25' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232942,21600647,4,2:22,nan,Portis REBOUND (Off:1 Def:6),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232943,21600647,4,2:20,nan,Portis 2' Putback Layup (8 PTS),83 - 95,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+232944,21600647,4,2:05,MISS Delaney 24' 3PT Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232945,21600647,4,2:04,nan,Zipser REBOUND (Off:0 Def:1),nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232946,21600647,4,1:56,nan,Zipser 1' Driving Layup (7 PTS),85 - 95,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+232947,21600647,4,1:56,Humphries S.FOUL (P3.PN) (M.Lindsay),nan,nan,2743,Kris Humphries,ATL,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Shooting
+232948,21600647,4,1:56,SUB: Millsap FOR Scott,nan,nan,203118,Mike Scott,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+232949,21600647,4,1:56,nan,Zipser Free Throw 1 of 1 (8 PTS),86 - 95,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+232950,21600647,4,1:41,MISS Hardaway Jr. 11' Pullup Jump Shot,Valentine BLOCK (2 BLK),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,1627756,Denzel Valentine,CHI,Missed Shot ,nan
+232951,21600647,4,1:40,nan,Mirotic REBOUND (Off:1 Def:3),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232952,21600647,4,1:34,Humphries Personal Block Foul (P4.PN) (B.Spooner),nan,nan,2743,Kris Humphries,ATL,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Personal Block
+232953,21600647,4,1:34,nan,Zipser Free Throw 1 of 2 (9 PTS),87 - 95,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232954,21600647,4,1:34,SUB: Schroder FOR Bembry,nan,nan,1627761,DeAndre' Bembry,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+232955,21600647,4,1:34,nan,Zipser Free Throw 2 of 2 (10 PTS),88 - 95,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232956,21600647,4,1:19,MISS Millsap 4' Floating Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232957,21600647,4,1:18,nan,Valentine REBOUND (Off:1 Def:5),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232958,21600647,4,1:09,nan,Portis  Dunk (10 PTS) (Mirotic 2 AST),90 - 95,1626171,Bobby Portis,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+232959,21600647,4,1:00,nan,Zipser P.FOUL (P2.T4) (J.VanDuyne),nan,1627835,Paul Zipser,CHI,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Personal
+232960,21600647,4,0:52,Schroder 16' Pullup Jump Shot (25 PTS),nan,90 - 97,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+232961,21600647,4,0:52,nan,Bulls Timeout: Regular (Reg.5 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+232962,21600647,4,0:51,Delaney STEAL (2 STL),Grant Bad Pass Turnover (P3.T24),nan,1626170,Jerian Grant,CHI,1627098,Malcolm Delaney,ATL,0,nan,nan,Turnover ,Bad Pass
+232963,21600647,4,0:51,nan,Valentine P.FOUL (P2.PN) (J.VanDuyne),nan,1627756,Denzel Valentine,CHI,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Personal
+232964,21600647,4,0:51,MISS Delaney Free Throw 1 of 2,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232965,21600647,4,0:51,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+232966,21600647,4,0:51,Delaney Free Throw 2 of 2 (6 PTS),nan,90 - 98,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232967,21600647,4,0:51,nan,Bulls Timeout: Short (Reg.5 Short 2),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+232968,21600647,4,0:51,SUB: Bembry FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,1627761,DeAndre' Bembry,ATL,0,nan,nan,Substitution ,nan
+232969,21600647,4,0:44,nan,MISS Zipser 25' 3PT Pullup Jump Shot,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+232970,21600647,4,0:43,Millsap REBOUND (Off:2 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+232971,21600647,4,0:35,Bembry  Dunk (4 PTS) (Hardaway Jr. 3 AST),nan,90 - 100,1627761,DeAndre' Bembry,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+232972,21600647,4,0:28,nan,Grant 24' 3PT Step Back Jump Shot (12 PTS),93 - 100,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+232973,21600647,4,0:26,nan,Mirotic Personal Take Foul (P5.PN) (J.VanDuyne),nan,202703,Nikola Mirotic,CHI,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Personal Take
+232974,21600647,4,0:26,Delaney Free Throw 1 of 2 (7 PTS),nan,93 - 101,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+232975,21600647,4,0:26,SUB: Scott FOR Millsap,nan,nan,200794,Paul Millsap,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+232976,21600647,4,0:26,SUB: Prince FOR Hardaway Jr.,nan,nan,203501,Tim Hardaway Jr.,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+232977,21600647,4,0:26,Delaney Free Throw 2 of 2 (8 PTS),nan,93 - 102,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+232978,21600647,4,0:18,nan,Grant Step Out of Bounds Turnover (P4.T25),nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+232979,21600647,4,0:00,nan,nan,93 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+123254,21500984,4,12:00,nan,nan,56 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+123255,21500984,4,11:44,nan,Allen Backcourt Turnover (P3.T15),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+123256,21500984,4,11:26,MISS Scott 10' Fadeaway Jumper,nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123257,21500984,4,11:23,nan,Allen REBOUND (Off:2 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123258,21500984,4,11:16,nan,MISS Young 1' Driving Layup,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123259,21500984,4,11:15,Scott REBOUND (Off:0 Def:1),nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123260,21500984,4,11:15,nan,Young P.FOUL (P1.T1) (L.Wood),nan,1626202,Joe Young,IND,203118,Mike Scott,ATL,0,nan,nan,Foul ,Personal
+123261,21500984,4,11:04,MISS Hardaway Jr. 2' Driving Layup,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123262,21500984,4,11:02,nan,Robinson III REBOUND (Off:0 Def:1),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123263,21500984,4,10:50,nan,MISS Miles 25' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123264,21500984,4,10:49,Hinrich REBOUND (Off:0 Def:1),nan,nan,2550,Kirk Hinrich,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123265,21500984,4,10:26,MISS Hinrich 15' Driving Floating Jump Shot,Robinson III BLOCK (1 BLK),nan,2550,Kirk Hinrich,ATL,0,nan,nan,203922,Glenn Robinson III,IND,Missed Shot ,nan
+123266,21500984,4,10:24,nan,Robinson III REBOUND (Off:0 Def:2),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123267,21500984,4,10:12,nan,Robinson III 19' Pullup Jump Shot (2 PTS) (S. Hill 2 AST),58 - 89,203922,Glenn Robinson III,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+123268,21500984,4,9:56,MISS Muscala 19' Jump Shot,nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123269,21500984,4,9:54,Scott REBOUND (Off:1 Def:1),nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123270,21500984,4,9:53,nan,Miles P.FOUL (P2.T2) (E.Lewis),nan,101139,CJ Miles,IND,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Personal
+123271,21500984,4,9:34,nan,S. Hill Violation:Kicked Ball (.),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+123272,21500984,4,9:28,MISS Scott 15' Jump Shot,nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123273,21500984,4,9:26,nan,Robinson III REBOUND (Off:0 Def:3),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123274,21500984,4,9:18,nan,Robinson III 19' Pullup Jump Shot (4 PTS) (S. Hill 3 AST),60 - 89,203922,Glenn Robinson III,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+123275,21500984,4,8:54,Hinrich Step Out of Bounds Turnover (P1.T13),nan,nan,2550,Kirk Hinrich,ATL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+123276,21500984,4,8:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+123277,21500984,4,8:54,SUB: Humphries FOR Hardaway Jr.,nan,nan,203501,Tim Hardaway Jr.,ATL,2743,Kris Humphries,ATL,0,nan,nan,Substitution ,nan
+123278,21500984,4,8:54,nan,SUB: Turner FOR Miles,nan,101139,CJ Miles,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+123279,21500984,4,8:38,nan,MISS Young 19' Pullup Jump Shot,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123280,21500984,4,8:35,Muscala REBOUND (Off:0 Def:1),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123281,21500984,4,8:21,MISS Schroder 10' Driving Floating Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123282,21500984,4,8:19,Muscala REBOUND (Off:1 Def:1),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123283,21500984,4,8:17,Muscala 1' Putback Layup (2 PTS),nan,60 - 91,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123284,21500984,4,7:54,nan,Turner 20' Jump Shot (13 PTS) (S. Hill 4 AST),62 - 91,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+123285,21500984,4,7:40,Schroder Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+123286,21500984,4,7:22,nan,MISS S. Hill 12' Pullup Jump Shot,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123287,21500984,4,7:19,Schroder REBOUND (Off:0 Def:2),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123288,21500984,4,7:16,MISS Scott  3PT Running Jump Shot,nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123289,21500984,4,7:12,nan,Turner REBOUND (Off:0 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123290,21500984,4,7:07,nan,Young Offensive Charge Foul (P2.T3) (M.Callahan),nan,1626202,Joe Young,IND,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Offensive Charge
+123291,21500984,4,7:07,nan,Young Foul Turnover (P1.T16),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+123292,21500984,4,7:07,SUB: Hardaway Jr. FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Substitution ,nan
+123293,21500984,4,6:54,Hinrich Bad Pass Turnover (P2.T15),Young STEAL (1 STL),nan,2550,Kirk Hinrich,ATL,1626202,Joe Young,IND,0,nan,nan,Turnover ,Bad Pass
+123294,21500984,4,6:50,nan,Young  Running Dunk (2 PTS) (Robinson III 1 AST),64 - 91,1626202,Joe Young,IND,203922,Glenn Robinson III,IND,0,nan,nan,Made Shot ,nan
+123295,21500984,4,6:31,Humphries 18' Jump Shot (5 PTS) (Hardaway Jr. 2 AST),nan,64 - 93,2743,Kris Humphries,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+123296,21500984,4,6:16,nan,MISS Turner 20' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123297,21500984,4,6:15,Hinrich REBOUND (Off:0 Def:2),nan,nan,2550,Kirk Hinrich,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123298,21500984,4,6:04,MISS Hardaway Jr. 7' Pullup Jump Shot,Robinson III BLOCK (2 BLK),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,203922,Glenn Robinson III,IND,Missed Shot ,nan
+123299,21500984,4,6:02,nan,S. Hill REBOUND (Off:0 Def:2),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123300,21500984,4,5:47,Humphries P.FOUL (P1.T1) (M.Callahan),nan,nan,2743,Kris Humphries,ATL,202730,Lavoy Allen,IND,0,nan,nan,Foul ,Personal
+123301,21500984,4,5:47,HAWKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123302,21500984,4,5:47,nan,SUB: Miles FOR Allen,nan,202730,Lavoy Allen,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+123303,21500984,4,5:41,Humphries STEAL (1 STL),S. Hill Bad Pass Turnover (P1.T17),nan,203524,Solomon Hill,IND,2743,Kris Humphries,ATL,0,nan,nan,Turnover ,Bad Pass
+123304,21500984,4,5:23,MISS Hinrich 25' 3PT Jump Shot,nan,nan,2550,Kirk Hinrich,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123305,21500984,4,5:22,Muscala REBOUND (Off:2 Def:1),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123306,21500984,4,5:22,nan,Miles P.FOUL (P3.T4) (M.Callahan),nan,101139,CJ Miles,IND,203488,Mike Muscala,ATL,0,nan,nan,Foul ,Personal
+123307,21500984,4,5:06,Muscala 6' Hook Shot (4 PTS) (Humphries 2 AST),nan,64 - 95,203488,Mike Muscala,ATL,2743,Kris Humphries,ATL,0,nan,nan,Made Shot ,nan
+123308,21500984,4,4:47,nan,Turner 3' Driving Layup (15 PTS),66 - 95,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+123309,21500984,4,4:47,Hinrich S.FOUL (P1.T2) (M.Callahan),nan,nan,2550,Kirk Hinrich,ATL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+123310,21500984,4,4:47,nan,MISS Turner Free Throw 1 of 1,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+123311,21500984,4,4:45,Humphries REBOUND (Off:0 Def:6),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123312,21500984,4,4:27,nan,Young S.FOUL (P3.PN) (M.Callahan),nan,1626202,Joe Young,IND,203118,Mike Scott,ATL,0,nan,nan,Foul ,Shooting
+123313,21500984,4,4:27,Scott Free Throw 1 of 2 (1 PTS),nan,66 - 96,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+123314,21500984,4,4:27,Scott Free Throw 2 of 2 (2 PTS),nan,66 - 97,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+123315,21500984,4,4:12,nan,S. Hill  Cutting Dunk Shot (2 PTS) (Young 3 AST),68 - 97,203524,Solomon Hill,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+123316,21500984,4,3:44,Scott Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+123317,21500984,4,3:34,nan,MISS Turner 24' 3PT Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123318,21500984,4,3:32,Humphries REBOUND (Off:0 Def:7),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123319,21500984,4,3:23,Humphries 15' Pullup Jump Shot (7 PTS) (Hinrich 1 AST),nan,68 - 99,2743,Kris Humphries,ATL,2550,Kirk Hinrich,ATL,0,nan,nan,Made Shot ,nan
+123320,21500984,4,3:02,nan,Turner 7' Hook Shot (17 PTS),70 - 99,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+123321,21500984,4,2:48,MISS Muscala 17' Jump Shot,nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123322,21500984,4,2:47,nan,Turner REBOUND (Off:0 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123323,21500984,4,2:35,nan,Turner 2' Driving Layup (19 PTS) (Young 4 AST),72 - 99,1626167,Myles Turner,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+123324,21500984,4,2:28,HAWKS Timeout: Short (Full 4 Short 1),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+123325,21500984,4,2:28,nan,Pacers Timeout: Regular (Reg.5 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+123326,21500984,4,2:28,nan,SUB: Allen FOR Turner,nan,1626167,Myles Turner,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+123327,21500984,4,2:20,Hardaway Jr. 25' 3PT Jump Shot (5 PTS) (Hinrich 2 AST),nan,72 - 102,203501,Tim Hardaway Jr.,ATL,2550,Kirk Hinrich,ATL,0,nan,nan,Made Shot ,nan
+123328,21500984,4,2:03,nan,MISS Miles 25' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123329,21500984,4,2:03,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123330,21500984,4,1:38,HAWKS Turnover: Shot Clock (T#17),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+123331,21500984,4,1:29,nan,Robinson III 25' 3PT Jump Shot (7 PTS) (Allen 1 AST),75 - 102,203922,Glenn Robinson III,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+123332,21500984,4,1:09,MISS Scott 8' Hook Shot,nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123333,21500984,4,1:09,Muscala REBOUND (Off:3 Def:1),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123334,21500984,4,1:09,Muscala 1' Tip Layup Shot (6 PTS),nan,75 - 104,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+123335,21500984,4,0:58,nan,MISS Young 18' Pullup Jump Shot,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123336,21500984,4,0:56,Muscala REBOUND (Off:3 Def:2),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123337,21500984,4,0:47,MISS Humphries 8' Pullup Jump Shot,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123338,21500984,4,0:46,nan,Young REBOUND (Off:0 Def:2),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123339,21500984,4,0:39,nan,MISS Robinson III 24' 3PT Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123340,21500984,4,0:38,Scott REBOUND (Off:1 Def:2),nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123341,21500984,4,0:15,MISS Scott  3PT Jump Shot,nan,nan,203118,Mike Scott,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123342,21500984,4,0:14,nan,Young REBOUND (Off:0 Def:3),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123343,21500984,4,0:04,nan,MISS Young 24' 3PT Pullup Jump Shot,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+123344,21500984,4,0:02,Hinrich REBOUND (Off:0 Def:3),nan,nan,2550,Kirk Hinrich,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+123345,21500984,4,0:00,nan,nan,75 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

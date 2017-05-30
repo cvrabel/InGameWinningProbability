@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+263823,21600896,4,12:00,nan,nan,82 - 60,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+263824,21600896,4,11:39,nan,MISS Mark Morris  3PT Jump Shot,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263825,21600896,4,11:39,Wright REBOUND (Off:0 Def:1),nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263826,21600896,4,11:34,Wright 4' Running Jump Shot (2 PTS),nan,82 - 62,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+263827,21600896,4,11:05,nan,MISS Oubre Jr. 13' Pullup Jump Shot,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263828,21600896,4,11:05,nan,Mahinmi REBOUND (Off:2 Def:2),nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263829,21600896,4,11:03,nan,MISS Mahinmi 1' Tip Layup Shot,nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263830,21600896,4,11:02,Powell REBOUND (Off:0 Def:1),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263831,21600896,4,11:00,nan,Oubre Jr. S.FOUL (P2.T1) (D.Richardson),nan,1626162,Kelly Oubre Jr.,WAS,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+263832,21600896,4,11:00,Powell Free Throw 1 of 2 (2 PTS),nan,82 - 63,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263833,21600896,4,11:00,Powell Free Throw 2 of 2 (3 PTS),nan,82 - 64,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263834,21600896,4,10:37,nan,Mark Morris 6' Driving Floating Bank Jump Shot (9 PTS) (Oubre Jr. 1 AST),84 - 64,202693,Markieff Morris,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Made Shot ,nan
+263835,21600896,4,10:20,Ibaka Lost Ball Turnover (P4.T11),Satoransky STEAL (1 STL),nan,201586,Serge Ibaka,TOR,203107,Tomas Satoransky,WAS,0,nan,nan,Turnover ,Lost Ball
+263836,21600896,4,10:15,Carroll STEAL (1 STL),Satoransky Bad Pass Turnover (P1.T8),nan,203107,Tomas Satoransky,WAS,201960,DeMarre Carroll,TOR,0,nan,nan,Turnover ,Bad Pass
+263837,21600896,4,9:59,nan,Oubre Jr. S.FOUL (P3.T2) (T.Brothers),nan,1626162,Kelly Oubre Jr.,WAS,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+263838,21600896,4,9:59,Powell Free Throw 1 of 2 (4 PTS),nan,84 - 65,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263839,21600896,4,9:59,Powell Free Throw 2 of 2 (5 PTS),nan,84 - 66,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263840,21600896,4,9:45,nan,MISS Satoransky 25' 3PT Jump Shot,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263841,21600896,4,9:45,Ibaka REBOUND (Off:3 Def:7),nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263842,21600896,4,9:36,Powell 3' Driving Layup (7 PTS),nan,84 - 68,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+263843,21600896,4,9:36,nan,Wizards Timeout: Regular (Reg.4 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+263844,21600896,4,9:36,nan,SUB: Beal FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+263845,21600896,4,9:16,nan,Bogdanovic  Cutting Dunk Shot (24 PTS) (Mark Morris 5 AST),86 - 68,202711,Bojan Bogdanovic,WAS,202693,Markieff Morris,WAS,0,nan,nan,Made Shot ,nan
+263846,21600896,4,8:54,MISS Ibaka 24' 3PT Jump Shot,nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263847,21600896,4,8:53,nan,Satoransky REBOUND (Off:1 Def:4),nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263848,21600896,4,8:38,nan,Beal 2' Cutting Layup Shot (15 PTS) (Mahinmi 3 AST),88 - 68,203078,Bradley Beal,WAS,101133,Ian Mahinmi,WAS,0,nan,nan,Made Shot ,nan
+263849,21600896,4,8:24,nan,Mahinmi Shooting Block Foul (P2.T3) (D.Richardson),nan,101133,Ian Mahinmi,WAS,1626153,Delon Wright,TOR,0,nan,nan,Foul ,Shooting Block
+263850,21600896,4,8:24,Wright Free Throw 1 of 2 (3 PTS),nan,88 - 69,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263851,21600896,4,8:24,SUB: Tucker FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,200782,PJ Tucker,TOR,0,nan,nan,Substitution ,nan
+263852,21600896,4,8:24,Wright Free Throw 2 of 2 (4 PTS),nan,88 - 70,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263853,21600896,4,8:09,Carroll STEAL (2 STL),Beal Bad Pass Turnover (P1.T9),nan,203078,Bradley Beal,WAS,201960,DeMarre Carroll,TOR,0,nan,nan,Turnover ,Bad Pass
+263854,21600896,4,7:55,MISS Powell 2' Driving Layup,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263855,21600896,4,7:54,Tucker REBOUND (Off:2 Def:3),nan,nan,200782,PJ Tucker,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263856,21600896,4,7:51,Tucker Lost Ball Turnover (P1.T12),Mahinmi STEAL (1 STL),nan,200782,PJ Tucker,TOR,101133,Ian Mahinmi,WAS,0,nan,nan,Turnover ,Lost Ball
+263857,21600896,4,7:29,nan,MISS Satoransky 2' Hook Bank Shot,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263858,21600896,4,7:28,Ibaka REBOUND (Off:3 Def:8),nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263859,21600896,4,7:21,nan,Mahinmi P.FOUL (P3.T4) (D.Richardson),nan,101133,Ian Mahinmi,WAS,1626153,Delon Wright,TOR,0,nan,nan,Foul ,Personal
+263860,21600896,4,7:21,nan,SUB: Wall FOR Satoransky,nan,203107,Tomas Satoransky,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+263861,21600896,4,7:10,MISS Powell  3PT Step Back Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263862,21600896,4,7:10,nan,Mahinmi REBOUND (Off:2 Def:3),nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263863,21600896,4,6:58,Wright STEAL (2 STL),Wall Bad Pass Turnover (P3.T10),nan,202322,John Wall,WAS,1626153,Delon Wright,TOR,0,nan,nan,Turnover ,Bad Pass
+263864,21600896,4,6:51,MISS Powell  3PT Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263865,21600896,4,6:51,nan,Mark Morris REBOUND (Off:1 Def:6),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263866,21600896,4,6:38,Wright P.FOUL (P1.T1) (D.Richardson),nan,nan,1626153,Delon Wright,TOR,101133,Ian Mahinmi,WAS,0,nan,nan,Foul ,Personal
+263867,21600896,4,6:33,nan,Beal 3' Layup (17 PTS) (Wall 12 AST),90 - 70,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+263868,21600896,4,6:20,Ibaka 26' 3PT Jump Shot (14 PTS) (Wright 1 AST),nan,90 - 73,201586,Serge Ibaka,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+263869,21600896,4,6:05,nan,Mark Morris  Cutting Dunk Shot (11 PTS) (Beal 3 AST),92 - 73,202693,Markieff Morris,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+263870,21600896,4,5:45,Ibaka 27' 3PT Jump Shot (17 PTS) (Wright 2 AST),nan,92 - 76,201586,Serge Ibaka,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+263871,21600896,4,5:21,nan,MISS Beal 26' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263872,21600896,4,5:21,Carroll REBOUND (Off:2 Def:2),nan,nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263873,21600896,4,5:13,Powell 2' Driving Layup (9 PTS) (Carroll 1 AST),nan,92 - 78,1626181,Norman Powell,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Made Shot ,nan
+263874,21600896,4,5:13,nan,Wizards Timeout: Regular (Reg.5 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+263875,21600896,4,5:13,nan,SUB: Oubre Jr. FOR Mahinmi,nan,101133,Ian Mahinmi,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+263876,21600896,4,4:56,nan,MISS Oubre Jr.  3PT Jump Shot,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263877,21600896,4,4:55,nan,Mark Morris REBOUND (Off:2 Def:6),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263878,21600896,4,4:51,nan,Mark Morris 1' Tip Layup Shot (13 PTS),94 - 78,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+263879,21600896,4,4:36,MISS Ibaka 3' Jump Shot,Wall BLOCK (1 BLK),nan,201586,Serge Ibaka,TOR,0,nan,nan,202322,John Wall,WAS,Missed Shot ,nan
+263880,21600896,4,4:34,nan,Oubre Jr. REBOUND (Off:0 Def:3),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263881,21600896,4,4:34,Ibaka STEAL (1 STL),Oubre Jr. Bad Pass Turnover (P3.T11),nan,1626162,Kelly Oubre Jr.,WAS,201586,Serge Ibaka,TOR,0,nan,nan,Turnover ,Bad Pass
+263882,21600896,4,4:26,MISS Ibaka 4' Floating Jump Shot,nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263883,21600896,4,4:26,nan,Wall REBOUND (Off:1 Def:3),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263884,21600896,4,4:13,nan,MISS Mark Morris  Alley Oop Dunk,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263885,21600896,4,4:13,Ibaka REBOUND (Off:3 Def:9),nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263886,21600896,4,4:02,MISS Carroll 10' Jump Shot,nan,nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263887,21600896,4,4:02,Ibaka REBOUND (Off:4 Def:9),nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263888,21600896,4,4:00,MISS Ibaka  Layup,nan,nan,201586,Serge Ibaka,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263889,21600896,4,4:00,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263890,21600896,4,4:00,Carroll L.B.FOUL (P1.T2) (C.Kirkland),nan,nan,201960,DeMarre Carroll,TOR,202711,Bojan Bogdanovic,WAS,0,nan,nan,Foul ,Loose Ball
+263891,21600896,4,3:58,SUB: DeRozan FOR Tucker,nan,nan,200782,PJ Tucker,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+263892,21600896,4,3:42,nan,Beal 26' 3PT Jump Shot (20 PTS) (Oubre Jr. 2 AST),97 - 78,203078,Bradley Beal,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Made Shot ,nan
+263893,21600896,4,3:19,Powell 27' 3PT Jump Shot (12 PTS) (DeRozan 1 AST),nan,97 - 81,1626181,Norman Powell,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+263894,21600896,4,2:55,Powell P.FOUL (P2.T3) (T.Brothers),nan,nan,1626181,Norman Powell,TOR,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Personal
+263895,21600896,4,2:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+263896,21600896,4,2:41,nan,Bogdanovic 25' 3PT Jump Shot (27 PTS) (Wall 13 AST),100 - 81,202711,Bojan Bogdanovic,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+263897,21600896,4,2:24,Ibaka 26' 3PT Jump Shot (20 PTS) (DeRozan 2 AST),nan,100 - 84,201586,Serge Ibaka,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+263898,21600896,4,2:03,nan,MISS Mark Morris 22' Jump Shot,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263899,21600896,4,2:03,Powell REBOUND (Off:0 Def:2),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263900,21600896,4,1:58,Ibaka 3' Turnaround Hook Shot (22 PTS) (Powell 1 AST),nan,100 - 86,201586,Serge Ibaka,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+263901,21600896,4,1:39,nan,Beal 5' Driving Layup (22 PTS),102 - 86,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+263902,21600896,4,1:39,Powell S.FOUL (P3.T4) (C.Kirkland),nan,nan,1626181,Norman Powell,TOR,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+263903,21600896,4,1:39,nan,SUB: Satoransky FOR Mark Morris,nan,202693,Markieff Morris,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Substitution ,nan
+263904,21600896,4,1:39,nan,SUB: Ochefu FOR Bogdanovic,nan,202711,Bojan Bogdanovic,WAS,1627849,Daniel Ochefu,WAS,0,nan,nan,Substitution ,nan
+263905,21600896,4,1:39,nan,SUB: McCullough FOR Wall,nan,202322,John Wall,WAS,1626191,Chris McCullough,WAS,0,nan,nan,Substitution ,nan
+263906,21600896,4,1:39,SUB: Poeltl FOR DeRozan,nan,nan,201942,DeMar DeRozan,TOR,1627751,Jakob Poeltl,TOR,0,nan,nan,Substitution ,nan
+263907,21600896,4,1:39,SUB: Siakam FOR Ibaka,nan,nan,201586,Serge Ibaka,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+263908,21600896,4,1:39,SUB: VanVleet FOR Carroll,nan,nan,201960,DeMarre Carroll,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Substitution ,nan
+263909,21600896,4,1:39,nan,Beal Free Throw 1 of 1 (23 PTS),103 - 86,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+263910,21600896,4,1:39,nan,Satoransky Personal Take Foul (P1.PN) (C.Kirkland),nan,203107,Tomas Satoransky,WAS,1626153,Delon Wright,TOR,0,nan,nan,Foul ,Personal Take
+263911,21600896,4,1:39,nan,SUB: McClellan FOR Beal,nan,203078,Bradley Beal,WAS,1627815,Sheldon McClellan,WAS,0,nan,nan,Substitution ,nan
+263912,21600896,4,1:39,Wright Free Throw 1 of 2 (5 PTS),nan,103 - 87,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263913,21600896,4,1:39,Wright Free Throw 2 of 2 (6 PTS),nan,103 - 88,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263914,21600896,4,1:25,Wright S.FOUL (P2.PN) (D.Richardson),nan,nan,1626153,Delon Wright,TOR,1626191,Chris McCullough,WAS,0,nan,nan,Foul ,Shooting
+263915,21600896,4,1:25,nan,MISS McCullough Free Throw 1 of 2,nan,1626191,Chris McCullough,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263916,21600896,4,1:25,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+263917,21600896,4,1:25,nan,McCullough Free Throw 2 of 2 (1 PTS),104 - 88,1626191,Chris McCullough,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263918,21600896,4,1:13,MISS Powell 19' Pullup Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263919,21600896,4,1:12,Poeltl REBOUND (Off:1 Def:1),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263920,21600896,4,1:07,Powell 1' Driving Layup (14 PTS),nan,104 - 90,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+263921,21600896,4,0:41,nan,MISS Oubre Jr. 3' Driving Layup,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+263922,21600896,4,0:41,Siakam REBOUND (Off:0 Def:1),nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+263923,21600896,4,0:34,VanVleet 26' 3PT Jump Shot (3 PTS) (Powell 2 AST),nan,104 - 93,1627832,Fred VanVleet,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+263924,21600896,4,0:26,Siakam STEAL (1 STL),Oubre Jr. Lost Ball Turnover (P4.T12),nan,1626162,Kelly Oubre Jr.,WAS,1627783,Pascal Siakam,TOR,0,nan,nan,Turnover ,Lost Ball
+263925,21600896,4,0:23,Powell  Running Dunk (16 PTS) (Siakam 1 AST),nan,104 - 95,1626181,Norman Powell,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Made Shot ,nan
+263926,21600896,4,0:19,VanVleet Personal Take Foul (P2.PN) (D.Richardson),nan,nan,1627832,Fred VanVleet,TOR,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Personal Take
+263927,21600896,4,0:19,nan,MISS Satoransky Free Throw 1 of 2,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263928,21600896,4,0:19,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+263929,21600896,4,0:19,nan,Satoransky Free Throw 2 of 2 (1 PTS),105 - 95,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263930,21600896,4,0:13,nan,Ochefu S.FOUL (P1.PN) (D.Richardson),nan,1627849,Daniel Ochefu,WAS,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+263931,21600896,4,0:13,MISS Powell Free Throw 1 of 2,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+263932,21600896,4,0:13,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+263933,21600896,4,0:13,Powell Free Throw 2 of 2 (17 PTS),nan,105 - 96,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+263934,21600896,4,0:00,nan,nan,105 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

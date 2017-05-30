@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+210066,21600457,4,12:00,nan,nan,87 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+210067,21600457,4,11:44,nan,MISS Durant 17' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210068,21600457,4,11:44,Love REBOUND (Off:1 Def:3),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210069,21600457,4,11:36,Irving Out of Bounds Lost Ball Turnover (P1.T11),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+210070,21600457,4,11:26,Jefferson P.FOUL (P2.T1) (M.Boland),nan,nan,2210,Richard Jefferson,CLE,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+210071,21600457,4,11:22,nan,Thompson 1' Driving Layup (24 PTS) (Iguodala 4 AST),89 - 80,202691,Klay Thompson,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+210072,21600457,4,11:02,MISS Irving 7' Driving Floating Bank Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210073,21600457,4,11:00,nan,Durant REBOUND (Off:0 Def:11),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210074,21600457,4,10:52,nan,MISS Durant 9' Driving Floating Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210075,21600457,4,10:50,Love REBOUND (Off:1 Def:4),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210076,21600457,4,10:38,Irving Bad Pass Turnover (P2.T12),West STEAL (1 STL),nan,202681,Kyrie Irving,CLE,2561,David West,GSW,0,nan,nan,Turnover ,Bad Pass
+210077,21600457,4,10:34,Shumpert BLOCK (1 BLK),MISS Iguodala 1' Running Layup,nan,2738,Andre Iguodala,GSW,0,nan,nan,202697,Iman Shumpert,CLE,Missed Shot ,nan
+210078,21600457,4,10:34,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210079,21600457,4,10:13,MISS Love 8' Turnaround Hook Shot,nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210080,21600457,4,10:11,nan,West REBOUND (Off:1 Def:1),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210081,21600457,4,10:05,nan,Durant 1' Layup (30 PTS),91 - 80,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+210082,21600457,4,10:05,Liggins S.FOUL (P2.T2) (M.Callahan),nan,nan,202732,DeAndre Liggins,CLE,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+210083,21600457,4,10:05,nan,Durant Free Throw 1 of 1 (31 PTS),92 - 80,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+210084,21600457,4,9:43,MISS Love 26' 3PT Jump Shot,nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210085,21600457,4,9:42,nan,Durant REBOUND (Off:0 Def:12),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210086,21600457,4,9:35,nan,Durant 8' Pullup Jump Shot (33 PTS),94 - 80,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+210087,21600457,4,9:35,CAVALIERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+210088,21600457,4,9:21,Jefferson  Driving Dunk (4 PTS) (Irving 9 AST),nan,94 - 82,2210,Richard Jefferson,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+210089,21600457,4,9:20,Jefferson T.FOUL (P2.T2) (S.Corbin),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Foul ,Technical
+210090,21600457,4,9:20,nan,Durant Free Throw Technical (34 PTS),95 - 82,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+210091,21600457,4,9:05,nan,MISS Durant 13' Pullup Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210092,21600457,4,9:05,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210093,21600457,4,8:43,MISS Jefferson  3PT Jump Shot,nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210094,21600457,4,8:42,nan,Iguodala REBOUND (Off:1 Def:2),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210095,21600457,4,8:36,Jefferson P.FOUL (P3.T3) (S.Corbin),nan,nan,2210,Richard Jefferson,CLE,2561,David West,GSW,0,nan,nan,Foul ,Personal
+210096,21600457,4,8:29,nan,West Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+210097,21600457,4,8:17,MISS Irving 26' 3PT Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210098,21600457,4,8:17,Shumpert REBOUND (Off:3 Def:1),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210099,21600457,4,8:14,Love  Dunk (20 PTS) (Shumpert 1 AST),nan,95 - 84,201567,Kevin Love,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+210100,21600457,4,7:57,nan,MISS Durant 11' Driving Floating Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210101,21600457,4,7:55,Jefferson REBOUND (Off:0 Def:2),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210102,21600457,4,7:34,Irving 25' 3PT Jump Shot (14 PTS) (Liggins 1 AST),nan,95 - 87,202681,Kyrie Irving,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Made Shot ,nan
+210103,21600457,4,7:33,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+210104,21600457,4,7:33,nan,SUB: Curry FOR Durant,nan,201142,Kevin Durant,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+210105,21600457,4,7:33,nan,SUB: Green FOR Iguodala,nan,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+210106,21600457,4,7:33,SUB: James FOR Liggins,nan,nan,202732,DeAndre Liggins,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+210107,21600457,4,7:20,nan,MISS Thompson 25' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210108,21600457,4,7:20,Love REBOUND (Off:1 Def:5),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210109,21600457,4,7:13,Irving 2' Driving Layup (16 PTS),nan,95 - 89,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+210110,21600457,4,6:54,James STEAL (2 STL),Green Bad Pass Turnover (P4.T16),nan,203110,Draymond Green,GSW,2544,LeBron James,CLE,0,nan,nan,Turnover ,Bad Pass
+210111,21600457,4,6:45,nan,Curry S.FOUL (P4.T1) (S.Corbin),nan,201939,Stephen Curry,GSW,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+210112,21600457,4,6:45,Jefferson Free Throw 1 of 2 (5 PTS),nan,95 - 90,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+210113,21600457,4,6:45,Jefferson Free Throw 2 of 2 (6 PTS),nan,95 - 91,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+210114,21600457,4,6:31,nan,Green  Dunk (12 PTS) (West 5 AST),97 - 91,203110,Draymond Green,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+210115,21600457,4,6:12,Irving 24' 3PT Jump Shot (19 PTS),nan,97 - 94,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+210116,21600457,4,5:55,Irving STEAL (5 STL),Green Bad Pass Turnover (P5.T17),nan,203110,Draymond Green,GSW,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+210117,21600457,4,5:48,nan,Green P.FOUL (P4.T2) (M.Callahan),nan,203110,Draymond Green,GSW,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+210118,21600457,4,5:48,nan,SUB: Durant FOR West,nan,2561,David West,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+210119,21600457,4,5:37,MISS Irving 1' Driving Layup,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210120,21600457,4,5:36,nan,Curry REBOUND (Off:0 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210121,21600457,4,5:31,nan,MISS Curry 25' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210122,21600457,4,5:30,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210123,21600457,4,5:20,nan,MISS Durant 27' 3PT Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210124,21600457,4,5:19,Irving REBOUND (Off:2 Def:3),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210125,21600457,4,5:12,MISS Love 25' 3PT Jump Shot,nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210126,21600457,4,5:11,nan,Livingston REBOUND (Off:0 Def:3),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210127,21600457,4,5:07,Love S.FOUL (P5.T4) (S.Corbin),nan,nan,201567,Kevin Love,CLE,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+210128,21600457,4,5:07,nan,Durant Free Throw 1 of 2 (35 PTS),98 - 94,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+210129,21600457,4,5:07,nan,Durant Free Throw 2 of 2 (36 PTS),99 - 94,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+210130,21600457,4,4:55,nan,Thompson P.FOUL (P1.T3) (S.Corbin),nan,202691,Klay Thompson,GSW,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Personal
+210131,21600457,4,4:41,Shumpert 24' 3PT Jump Shot (7 PTS) (James 4 AST),nan,99 - 97,202697,Iman Shumpert,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+210132,21600457,4,4:28,nan,Curry 1' Cutting Layup Shot (12 PTS) (Green 4 AST),101 - 97,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+210133,21600457,4,4:10,Jefferson  Driving Dunk (8 PTS) (Love 3 AST),nan,101 - 99,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Made Shot ,nan
+210134,21600457,4,3:49,nan,Green 7' Driving Floating Jump Shot (14 PTS),103 - 99,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+210135,21600457,4,3:46,CAVALIERS Timeout: Regular (Full 6 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+210136,21600457,4,3:46,nan,SUB: Iguodala FOR Livingston,nan,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+210137,21600457,4,3:36,James  Cutting Dunk Shot (29 PTS) (Irving 10 AST),nan,103 - 101,2544,LeBron James,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+210138,21600457,4,3:17,nan,MISS Green 25' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210139,21600457,4,3:17,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210140,21600457,4,2:48,MISS Shumpert 26' 3PT Jump Shot,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210141,21600457,4,2:48,Irving REBOUND (Off:3 Def:3),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210142,21600457,4,2:44,MISS Irving 2' Layup,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210143,21600457,4,2:42,nan,Durant REBOUND (Off:0 Def:13),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210144,21600457,4,2:33,Irving STEAL (6 STL),Green Bad Pass Turnover (P6.T18),nan,203110,Draymond Green,GSW,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+210145,21600457,4,2:18,Irving  Driving Layup (21 PTS) (Shumpert 2 AST),nan,103 - 103,202681,Kyrie Irving,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+210146,21600457,4,1:55,nan,MISS Durant 20' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210147,21600457,4,1:54,Shumpert REBOUND (Off:3 Def:2),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210148,21600457,4,1:43,James  Cutting Dunk Shot (31 PTS),nan,103 - 105,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+210149,21600457,4,1:43,nan,Green S.FOUL (P5.T4) (S.Corbin),nan,203110,Draymond Green,GSW,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+210150,21600457,4,1:43,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+210151,21600457,4,1:43,MISS James Free Throw 1 of 1,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+210152,21600457,4,1:43,nan,Durant REBOUND (Off:0 Def:14),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210153,21600457,4,1:31,nan,Green  Cutting Dunk Shot (16 PTS) (Thompson 1 AST),105 - 105,203110,Draymond Green,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+210154,21600457,4,1:19,MISS Irving 2' Reverse Layup,Thompson BLOCK (1 BLK),nan,202681,Kyrie Irving,CLE,0,nan,nan,202691,Klay Thompson,GSW,Missed Shot ,nan
+210155,21600457,4,1:15,nan,Durant REBOUND (Off:0 Def:15),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210156,21600457,4,1:14,nan,Curry 26' 3PT Jump Shot (15 PTS) (Durant 3 AST),108 - 105,201939,Stephen Curry,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+210157,21600457,4,1:14,CAVALIERS Timeout: Short (Full 6 Short 2),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+210158,21600457,4,0:46,MISS Jefferson 29' 3PT Jump Shot,nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210159,21600457,4,0:46,nan,Iguodala REBOUND (Off:1 Def:3),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210160,21600457,4,0:42,Irving STEAL (7 STL),Iguodala Bad Pass Turnover (P2.T19),nan,2738,Andre Iguodala,GSW,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+210161,21600457,4,0:37,Irving 2' Driving Layup (23 PTS),nan,108 - 107,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+210162,21600457,4,0:13,nan,Warriors Turnover: Shot Clock (T#20),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+210163,21600457,4,0:13,nan,nan,nan,593,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+210164,21600457,4,0:13,nan,nan,108 - 107,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+210165,21600457,4,0:13,nan,SUB: Livingston FOR Curry,nan,201939,Stephen Curry,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+210166,21600457,4,0:03,Irving 13' Turnaround Fadeaway (25 PTS),nan,108 - 109,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+210167,21600457,4,0:03,nan,Warriors Timeout: Short (Reg.5 Short 2),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+210168,21600457,4,0:03,nan,SUB: Curry FOR Livingston,nan,2733,Shaun Livingston,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+210169,21600457,4,0:03,SUB: Liggins FOR Love,nan,nan,201567,Kevin Love,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Substitution ,nan
+210170,21600457,4,0:00,nan,MISS Durant 34' 3PT Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+210171,21600457,4,0:00,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+210172,21600457,4,0:00,nan,nan,108 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

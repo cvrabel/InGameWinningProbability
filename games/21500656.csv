@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+81923,21500656,4,12:00,nan,nan,94 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+81924,21500656,4,11:40,Okafor Lost Ball Turnover (P1.T21),Bradley STEAL (1 STL),nan,1626143,Jahlil Okafor,PHI,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+81925,21500656,4,11:19,nan,Smart 9' Pullup Jump Shot (16 PTS),96 - 69,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+81926,21500656,4,11:07,MISS Covington 26' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81927,21500656,4,11:04,Okafor REBOUND (Off:1 Def:2),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81928,21500656,4,10:51,nan,Olynyk S.FOUL (P3.T1) (K.Scott),nan,203482,Kelly Olynyk,BOS,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+81929,21500656,4,10:51,Covington Free Throw 1 of 2 (21 PTS),nan,96 - 70,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81930,21500656,4,10:51,Covington Free Throw 2 of 2 (22 PTS),nan,96 - 71,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81931,21500656,4,10:39,nan,MISS Olynyk 18' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81932,21500656,4,10:38,Smith REBOUND (Off:0 Def:1),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81933,21500656,4,10:32,nan,Smart P.FOUL (P3.T2) (K.Scott),nan,203935,Marcus Smart,BOS,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+81934,21500656,4,10:21,Noel Lost Ball Turnover (P3.T22),Smart STEAL (3 STL),nan,203457,Nerlens Noel,PHI,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Lost Ball
+81935,21500656,4,10:16,nan,MISS Bradley 26' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81936,21500656,4,10:13,Noel REBOUND (Off:2 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81937,21500656,4,9:55,MISS Stauskas 26' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81938,21500656,4,9:53,nan,Turner REBOUND (Off:0 Def:2),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81939,21500656,4,9:48,nan,Bradley 26' 3PT Jump Shot (19 PTS) (Turner 5 AST),99 - 71,202340,Avery Bradley,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+81940,21500656,4,9:46,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+81941,21500656,4,9:30,Noel 2' Layup (10 PTS) (Covington 1 AST),nan,99 - 73,203457,Nerlens Noel,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+81942,21500656,4,9:16,nan,MISS Olynyk 26' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81943,21500656,4,9:14,Covington REBOUND (Off:1 Def:5),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81944,21500656,4,9:03,MISS Noel 7' Turnaround Jump Shot,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81945,21500656,4,9:01,Noel REBOUND (Off:3 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81946,21500656,4,8:58,Noel  Dunk (12 PTS) (Stauskas 1 AST),nan,99 - 75,203457,Nerlens Noel,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+81947,21500656,4,8:46,nan,Olynyk OFF.Foul (P4) (K.Scott),nan,203482,Kelly Olynyk,BOS,203496,Robert Covington,PHI,0,nan,nan,Foul ,Offensive
+81948,21500656,4,8:46,nan,Olynyk Foul Turnover (P2.T12),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+81949,21500656,4,8:37,Stauskas Bad Pass Turnover (P1.T23),Smart STEAL (4 STL),nan,203917,Nik Stauskas,PHI,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+81950,21500656,4,8:28,nan,Turner 2' Driving Layup (8 PTS),101 - 75,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+81951,21500656,4,8:18,nan,Turner S.FOUL (P1.T3) (K.Scott),nan,202323,Evan Turner,BOS,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+81952,21500656,4,8:18,Covington Free Throw 1 of 3 (23 PTS),nan,101 - 76,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+81953,21500656,4,8:18,Covington Free Throw 2 of 3 (24 PTS),nan,101 - 77,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+81954,21500656,4,8:18,Covington Free Throw 3 of 3 (25 PTS),nan,101 - 78,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+81955,21500656,4,7:58,nan,MISS Smart 10' Turnaround Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81956,21500656,4,7:57,Okafor REBOUND (Off:1 Def:3),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81957,21500656,4,7:45,MISS Smith 17' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81958,21500656,4,7:44,nan,Turner REBOUND (Off:0 Def:3),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81959,21500656,4,7:44,Noel L.B.FOUL (P1.T1) (M.Boland),nan,nan,203457,Nerlens Noel,PHI,202323,Evan Turner,BOS,0,nan,nan,Foul ,Loose Ball
+81960,21500656,4,7:44,SUB: Marshall FOR Smith,nan,nan,202397,Ish Smith,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Substitution ,nan
+81961,21500656,4,7:29,nan,MISS Turner 19' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81962,21500656,4,7:28,Marshall REBOUND (Off:0 Def:1),nan,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81963,21500656,4,7:21,MISS Stauskas 2' Driving Reverse Layup,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81964,21500656,4,7:19,Okafor REBOUND (Off:2 Def:3),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81965,21500656,4,7:18,Okafor  Putback Dunk (8 PTS),nan,101 - 80,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+81966,21500656,4,7:13,Covington P.FOUL (P3.T2) (B.Forte),nan,nan,203496,Robert Covington,PHI,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+81967,21500656,4,7:08,nan,MISS Jerebko 22' Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81968,21500656,4,7:07,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81969,21500656,4,7:07,nan,Olynyk L.B.FOUL (P5.T4) (K.Scott),nan,203482,Kelly Olynyk,BOS,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Loose Ball
+81970,21500656,4,7:07,nan,SUB: Zeller FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+81971,21500656,4,6:53,MISS Okafor 9' Turnaround Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81972,21500656,4,6:52,nan,Jerebko REBOUND (Off:0 Def:6),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81973,21500656,4,6:47,Okafor P.FOUL (P3.T3) (K.Scott),nan,nan,1626143,Jahlil Okafor,PHI,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Personal
+81974,21500656,4,6:42,nan,MISS Jerebko 4' Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81975,21500656,4,6:40,nan,Zeller REBOUND (Off:1 Def:0),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81976,21500656,4,6:39,nan,Zeller 2' Putback Layup (2 PTS),103 - 80,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+81977,21500656,4,6:29,MISS Marshall 6' Jump Shot,nan,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81978,21500656,4,6:27,Okafor REBOUND (Off:3 Def:3),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81979,21500656,4,6:27,Okafor  Putback Dunk (10 PTS),nan,103 - 82,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+81980,21500656,4,6:12,Covington STEAL (1 STL),Turner Bad Pass Turnover (P2.T13),nan,202323,Evan Turner,BOS,203496,Robert Covington,PHI,0,nan,nan,Turnover ,Bad Pass
+81981,21500656,4,6:06,MISS Covington 26' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81982,21500656,4,6:03,nan,Bradley REBOUND (Off:0 Def:2),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81983,21500656,4,5:52,Marshall STEAL (1 STL),Zeller Lost Ball Turnover (P1.T14),nan,203092,Tyler Zeller,BOS,203088,Kendall Marshall,PHI,0,nan,nan,Turnover ,Lost Ball
+81984,21500656,4,5:47,Covington Out of Bounds - Bad Pass Turnover Turnover (P4.T24),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+81985,21500656,4,5:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+81986,21500656,4,5:47,nan,SUB: Rozier FOR Bradley,nan,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+81987,21500656,4,5:35,Marshall STEAL (2 STL),Jerebko Lost Ball Turnover (P1.T15),nan,201973,Jonas Jerebko,BOS,203088,Kendall Marshall,PHI,0,nan,nan,Turnover ,Lost Ball
+81988,21500656,4,5:30,Stauskas  Running Dunk (2 PTS) (Marshall 1 AST),nan,103 - 84,203917,Nik Stauskas,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+81989,21500656,4,5:15,nan,MISS Rozier 24' 3PT Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81990,21500656,4,5:13,Covington REBOUND (Off:1 Def:6),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81991,21500656,4,5:02,MISS Okafor 18' Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81992,21500656,4,5:00,nan,Jerebko REBOUND (Off:0 Def:7),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81993,21500656,4,4:54,Noel BLOCK (1 BLK),MISS Jerebko 2' Running Layup,nan,201973,Jonas Jerebko,BOS,0,nan,nan,203457,Nerlens Noel,PHI,Missed Shot ,nan
+81994,21500656,4,4:52,Covington REBOUND (Off:1 Def:7),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81995,21500656,4,4:45,MISS Covington 28' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81996,21500656,4,4:44,nan,Turner REBOUND (Off:0 Def:4),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81997,21500656,4,4:41,Covington S.FOUL (P4.T4) (B.Forte),nan,nan,203496,Robert Covington,PHI,202323,Evan Turner,BOS,0,nan,nan,Foul ,Shooting
+81998,21500656,4,4:41,nan,MISS Turner Free Throw 1 of 2,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81999,21500656,4,4:41,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+82000,21500656,4,4:41,SUB: Holmes FOR Noel,nan,nan,203457,Nerlens Noel,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+82001,21500656,4,4:41,SUB: Grant FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+82002,21500656,4,4:41,SUB: Thompson FOR Covington,nan,nan,203496,Robert Covington,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+82003,21500656,4,4:41,nan,Turner Free Throw 2 of 2 (9 PTS),104 - 84,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+82004,21500656,4,4:26,MISS Holmes 9' Jump Shot,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82005,21500656,4,4:23,Grant REBOUND (Off:2 Def:1),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82006,21500656,4,4:23,Grant  Tip Layup Shot (6 PTS),nan,104 - 86,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+82007,21500656,4,4:13,Marshall STEAL (3 STL),Turner Lost Ball Turnover (P3.T16),nan,202323,Evan Turner,BOS,203088,Kendall Marshall,PHI,0,nan,nan,Turnover ,Lost Ball
+82008,21500656,4,4:09,nan,Jerebko S.FOUL (P1.PN) (B.Forte),nan,201973,Jonas Jerebko,BOS,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+82009,21500656,4,4:09,Grant Free Throw 1 of 2 (7 PTS),nan,104 - 87,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+82010,21500656,4,4:09,Grant Free Throw 2 of 2 (8 PTS),nan,104 - 88,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+82011,21500656,4,3:49,nan,Zeller 1' Cutting Layup Shot (4 PTS) (Smart 2 AST),106 - 88,203092,Tyler Zeller,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+82012,21500656,4,3:35,MISS Holmes 17' Jump Shot,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82013,21500656,4,3:34,nan,Rozier REBOUND (Off:0 Def:1),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82014,21500656,4,3:30,Marshall P.FOUL (P1.PN) (M.Boland),nan,nan,203088,Kendall Marshall,PHI,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+82015,21500656,4,3:30,nan,Turner Free Throw 1 of 2 (10 PTS),107 - 88,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+82016,21500656,4,3:30,nan,Turner Free Throw 2 of 2 (11 PTS),108 - 88,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+82017,21500656,4,3:30,76ERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+82018,21500656,4,3:18,MISS Holmes 1' Layup,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82019,21500656,4,3:16,nan,Jerebko REBOUND (Off:0 Def:8),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82020,21500656,4,2:54,nan,MISS Smart 26' 3PT Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82021,21500656,4,2:53,nan,Jerebko REBOUND (Off:1 Def:8),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82022,21500656,4,2:50,nan,MISS Jerebko 1' Layup,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82023,21500656,4,2:49,nan,Zeller REBOUND (Off:2 Def:0),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82024,21500656,4,2:49,nan,Zeller 1' Tip Layup Shot (6 PTS),110 - 88,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+82025,21500656,4,2:38,Holmes  Cutting Dunk Shot (4 PTS) (Marshall 2 AST),nan,110 - 90,1626158,Richaun Holmes,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+82026,21500656,4,2:19,nan,MISS Rozier 16' Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82027,21500656,4,2:17,Holmes REBOUND (Off:3 Def:3),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82028,21500656,4,2:05,MISS Stauskas 26' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82029,21500656,4,2:04,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82030,21500656,4,2:02,nan,SUB: Hunter FOR Turner,nan,202323,Evan Turner,BOS,1626154,RJ Hunter,BOS,0,nan,nan,Substitution ,nan
+82031,21500656,4,1:52,MISS Thompson 1' Driving Layup,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82032,21500656,4,1:50,nan,Smart REBOUND (Off:0 Def:2),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82033,21500656,4,1:43,nan,MISS Hunter 26' 3PT Jump Shot,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82034,21500656,4,1:42,Holmes REBOUND (Off:3 Def:4),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82035,21500656,4,1:30,MISS Thompson 22' Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82036,21500656,4,1:27,nan,Jerebko REBOUND (Off:1 Def:9),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82037,21500656,4,1:20,nan,MISS Zeller 2' Layup,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82038,21500656,4,1:20,nan,Zeller REBOUND (Off:3 Def:0),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82039,21500656,4,1:19,nan,Zeller Traveling Turnover (P2.T17),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+82040,21500656,4,1:05,MISS Marshall  3PT Jump Shot,nan,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82041,21500656,4,1:03,nan,Zeller REBOUND (Off:3 Def:1),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82042,21500656,4,0:53,nan,MISS Jerebko 26' 3PT Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82043,21500656,4,0:51,Thompson REBOUND (Off:0 Def:2),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82044,21500656,4,0:44,Marshall 2' Driving Finger Roll Layup (2 PTS),nan,110 - 92,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+82045,21500656,4,0:33,Holmes S.FOUL (P2.PN) (K.Scott),nan,nan,1626158,Richaun Holmes,PHI,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Shooting
+82046,21500656,4,0:33,nan,Rozier Free Throw 1 of 2 (1 PTS),111 - 92,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+82047,21500656,4,0:33,nan,Rozier Free Throw 2 of 2 (2 PTS),112 - 92,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+82048,21500656,4,0:21,MISS Holmes 12' Jump Shot,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+82049,21500656,4,0:20,nan,Smart REBOUND (Off:0 Def:3),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+82050,21500656,4,0:00,nan,nan,112 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,161 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+79563,21500637,4,12:00,nan,nan,67 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+79564,21500637,4,11:50,nan,Martin P.FOUL (P2.T1) (H.Workman),nan,2755,Kevin Martin,MIN,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal
+79565,21500637,4,11:39,MISS Barea 16' Pullup Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79566,21500637,4,11:38,McGee REBOUND (Off:5 Def:3),nan,nan,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79567,21500637,4,11:38,MISS McGee 1' Tip Layup Shot,nan,nan,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79568,21500637,4,11:37,nan,Dieng REBOUND (Off:1 Def:9),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79569,21500637,4,11:22,Barea STEAL (2 STL),LaVine Lost Ball Turnover (P2.T11),nan,203897,Zach LaVine,MIN,200826,J.J. Barea,DAL,0,nan,nan,Turnover ,Lost Ball
+79570,21500637,4,11:17,MISS Barea 6' Running Jump Shot,Muhammad BLOCK (1 BLK),nan,200826,J.J. Barea,DAL,0,nan,nan,203498,Shabazz Muhammad,MIN,Missed Shot ,nan
+79571,21500637,4,11:14,nan,Muhammad REBOUND (Off:1 Def:3),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79572,21500637,4,11:08,nan,Dieng 12' Jump Shot (2 PTS) (Martin 1 AST),69 - 64,203476,Gorgui Dieng,MIN,2755,Kevin Martin,MIN,0,nan,nan,Made Shot ,nan
+79573,21500637,4,10:49,nan,LaVine S.FOUL (P1.T2) (M.Davis),nan,203897,Zach LaVine,MIN,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting
+79574,21500637,4,10:49,Harris Free Throw 1 of 2 (8 PTS),nan,69 - 65,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+79575,21500637,4,10:49,Harris Free Throw 2 of 2 (9 PTS),nan,69 - 66,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+79576,21500637,4,10:37,nan,MISS Rudez  3PT Jump Shot,nan,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79577,21500637,4,10:36,Barea REBOUND (Off:0 Def:2),nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79578,21500637,4,10:32,Villanueva 2' Running Layup (14 PTS) (Harris 2 AST),nan,69 - 68,101111,Charlie Villanueva,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+79579,21500637,4,10:16,nan,MISS Martin 24' 3PT Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79580,21500637,4,10:14,nan,Dieng REBOUND (Off:2 Def:9),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79581,21500637,4,10:12,nan,Dieng 1' Putback Layup (4 PTS),71 - 68,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79582,21500637,4,10:00,Barea Bad Pass Turnover (P2.T8),Dieng STEAL (1 STL),nan,200826,J.J. Barea,DAL,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Bad Pass
+79583,21500637,4,9:57,nan,Martin  Running Dunk (9 PTS) (LaVine 4 AST),73 - 68,2755,Kevin Martin,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+79584,21500637,4,9:56,MAVERICKS Timeout: Regular (Full 4 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+79585,21500637,4,9:56,SUB: Pachulia FOR McGee,nan,nan,201580,JaVale McGee,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+79586,21500637,4,9:46,Villanueva Bad Pass Turnover (P1.T9),Dieng STEAL (2 STL),nan,101111,Charlie Villanueva,DAL,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Bad Pass
+79587,21500637,4,9:43,nan,Dieng  Running Dunk (6 PTS),75 - 68,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79588,21500637,4,9:29,MISS Barea 24' 3PT Pullup Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79589,21500637,4,9:28,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79590,21500637,4,9:16,Pachulia P.FOUL (P3.T1) (M.Davis),nan,nan,2585,Zaza Pachulia,DAL,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Personal
+79591,21500637,4,9:06,nan,MISS Rudez 24' 3PT Jump Shot,nan,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79592,21500637,4,9:05,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79593,21500637,4,8:50,Parsons 7' Fadeaway Bank Shot (16 PTS),nan,75 - 70,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79594,21500637,4,8:37,nan,MISS Martin 20' Floating Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79595,21500637,4,8:37,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79596,21500637,4,8:23,Parsons 16' Pullup Jump Shot (18 PTS),nan,75 - 72,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79597,21500637,4,8:12,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+79598,21500637,4,8:12,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+79599,21500637,4,8:12,nan,SUB: Wiggins FOR Martin,nan,2755,Kevin Martin,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+79600,21500637,4,8:12,SUB: Matthews FOR Harris,nan,nan,2734,Devin Harris,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+79601,21500637,4,8:03,nan,LaVine 17' Step Back Jump Shot (4 PTS) (Towns 3 AST),77 - 72,203897,Zach LaVine,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+79602,21500637,4,7:48,MISS Parsons 3' Driving Bank Shot,nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79603,21500637,4,7:47,Pachulia REBOUND (Off:2 Def:1),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79604,21500637,4,7:47,Pachulia 1' Layup (10 PTS),nan,77 - 74,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79605,21500637,4,7:38,nan,Towns 2' Turnaround Jump Shot (22 PTS),79 - 74,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79606,21500637,4,7:22,MISS Parsons 2' Driving Layup,Towns BLOCK (5 BLK),nan,202718,Chandler Parsons,DAL,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+79607,21500637,4,7:21,nan,Wiggins REBOUND (Off:1 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79608,21500637,4,7:06,nan,Muhammad 6' Driving Hook Shot (12 PTS),81 - 74,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79609,21500637,4,6:51,MISS Villanueva 4' Driving Bank Shot,nan,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79610,21500637,4,6:50,nan,LaVine REBOUND (Off:0 Def:1),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79611,21500637,4,6:46,nan,Wiggins 2' Running Finger Roll Layup (19 PTS) (Muhammad 1 AST),83 - 74,203952,Andrew Wiggins,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Made Shot ,nan
+79612,21500637,4,6:46,Parsons S.FOUL (P2.T2) (H.Workman),nan,nan,202718,Chandler Parsons,DAL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+79613,21500637,4,6:46,MAVERICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+79614,21500637,4,6:46,SUB: Harris FOR Villanueva,nan,nan,101111,Charlie Villanueva,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+79615,21500637,4,6:46,SUB: D. Williams FOR Barea,nan,nan,200826,J.J. Barea,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+79616,21500637,4,6:46,nan,SUB: Rubio FOR LaVine,nan,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+79617,21500637,4,6:46,nan,Wiggins Free Throw 1 of 1 (20 PTS),84 - 74,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+79618,21500637,4,6:34,Parsons 2' Driving Layup (20 PTS) (Matthews 2 AST),nan,84 - 76,202718,Chandler Parsons,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+79619,21500637,4,6:17,Matthews STEAL (2 STL),Rubio Bad Pass Turnover (P3.T12),nan,201937,Ricky Rubio,MIN,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Bad Pass
+79620,21500637,4,6:03,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79621,21500637,4,6:02,nan,Towns REBOUND (Off:3 Def:13),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79622,21500637,4,5:41,Pachulia STEAL (3 STL),Rubio Bad Pass Turnover (P4.T13),nan,201937,Ricky Rubio,MIN,2585,Zaza Pachulia,DAL,0,nan,nan,Turnover ,Bad Pass
+79623,21500637,4,5:38,Matthews 1' Running Layup (7 PTS) (Harris 3 AST),nan,84 - 78,202083,Wesley Matthews,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+79624,21500637,4,5:38,nan,Wiggins S.FOUL (P2.T3) (H.Workman),nan,203952,Andrew Wiggins,MIN,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+79625,21500637,4,5:38,Matthews Free Throw 1 of 1 (8 PTS),nan,84 - 79,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+79626,21500637,4,5:19,nan,Towns Offensive Charge Foul (P2.T4) (H.Workman),nan,1626157,Karl-Anthony Towns,MIN,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Offensive Charge
+79627,21500637,4,5:19,nan,Towns Foul Turnover (P3.T14),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+79628,21500637,4,5:03,Harris 16' Pullup Jump Shot (11 PTS),nan,84 - 81,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79629,21500637,4,5:03,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+79630,21500637,4,5:03,nan,SUB: Prince FOR Rudez,nan,204014,Damjan Rudez,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Substitution ,nan
+79631,21500637,4,4:50,nan,Wiggins 10' Floating Jump Shot (22 PTS),86 - 81,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79632,21500637,4,4:39,nan,Rubio P.FOUL (P3.PN) (H.Workman),nan,201937,Ricky Rubio,MIN,101114,Deron Williams,DAL,0,nan,nan,Foul ,Personal
+79633,21500637,4,4:32,MISS Harris 2' Driving Layup,Towns BLOCK (6 BLK),nan,2734,Devin Harris,DAL,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+79634,21500637,4,4:31,nan,Rubio REBOUND (Off:0 Def:2),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79635,21500637,4,4:13,nan,MISS Wiggins 16' Floating Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79636,21500637,4,4:12,Parsons REBOUND (Off:0 Def:6),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79637,21500637,4,4:03,nan,Wiggins FLAGRANT.FOUL.TYPE1 (P3.PN) (P.Fraher),nan,203952,Andrew Wiggins,MIN,2734,Devin Harris,DAL,0,nan,nan,Foul ,Flagrant Type 1
+79638,21500637,4,4:03,nan,nan,nan,463,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+79639,21500637,4,4:03,Harris Free Throw Flagrant 1 of 2 (12 PTS),nan,86 - 82,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+79640,21500637,4,4:03,MISS Harris Free Throw Flagrant 2 of 2,nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+79641,21500637,4,4:03,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+79642,21500637,4,3:48,MISS Parsons 25' 3PT Jump Shot,nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79643,21500637,4,3:47,nan,Wiggins REBOUND (Off:1 Def:4),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79644,21500637,4,3:28,D. Williams STEAL (1 STL),Rubio Lost Ball Turnover (P5.T15),nan,201937,Ricky Rubio,MIN,101114,Deron Williams,DAL,0,nan,nan,Turnover ,Lost Ball
+79645,21500637,4,3:19,Parsons  3PT Jump Shot (23 PTS) (Harris 4 AST),nan,86 - 85,202718,Chandler Parsons,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+79646,21500637,4,2:55,nan,MISS Muhammad 24' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79647,21500637,4,2:54,Matthews REBOUND (Off:0 Def:4),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79648,21500637,4,2:36,Matthews 8' Turnaround Bank Shot (10 PTS),nan,86 - 87,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79649,21500637,4,2:19,nan,MISS Muhammad 25' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79650,21500637,4,2:18,nan,Wiggins REBOUND (Off:2 Def:4),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79651,21500637,4,2:17,D. Williams P.FOUL (P3.T3) (P.Fraher),nan,nan,101114,Deron Williams,DAL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+79652,21500637,4,2:08,nan,Towns 24' 3PT Jump Shot (25 PTS) (Wiggins 3 AST),89 - 87,1626157,Karl-Anthony Towns,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+79653,21500637,4,1:56,Pachulia Out of Bounds Lost Ball Turnover (P3.T10),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+79654,21500637,4,1:56,nan,nan,nan,483,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+79655,21500637,4,1:38,nan,MISS Towns 18' Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79656,21500637,4,1:37,D. Williams REBOUND (Off:0 Def:5),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79657,21500637,4,1:25,Matthews 3' Driving Floating Jump Shot (12 PTS),nan,89 - 89,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79658,21500637,4,1:04,nan,MISS Rubio 17' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79659,21500637,4,1:03,Matthews REBOUND (Off:0 Def:5),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79660,21500637,4,0:48,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79661,21500637,4,0:47,nan,Towns REBOUND (Off:3 Def:14),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79662,21500637,4,0:42,nan,Timberwolves Timeout: Short (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+79663,21500637,4,0:36,Pachulia P.FOUL (P4.T4) (M.Davis),nan,nan,2585,Zaza Pachulia,DAL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+79664,21500637,4,0:27,nan,MISS Muhammad 25' 3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79665,21500637,4,0:26,D. Williams REBOUND (Off:0 Def:6),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79666,21500637,4,0:03,MISS Matthews  3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79667,21500637,4,0:02,nan,Muhammad REBOUND (Off:1 Def:4),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79668,21500637,4,0:00,nan,nan,89 - 89,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+79669,21500637,5,5:00,nan,nan,89 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+79670,21500637,5,5:00,Jump Ball Pachulia vs. Towns: Tip to D. Williams,nan,nan,2585,Zaza Pachulia,DAL,1626157,Karl-Anthony Towns,MIN,101114,Deron Williams,DAL,Jump Ball ,nan
+79671,21500637,5,4:48,D. Williams 13' Turnaround Jump Shot (12 PTS) (Matthews 3 AST),nan,89 - 91,101114,Deron Williams,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+79672,21500637,5,4:26,nan,MISS Rubio 19' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79673,21500637,5,4:25,Parsons REBOUND (Off:0 Def:7),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79674,21500637,5,4:02,MISS D. Williams 17' Floating Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79675,21500637,5,4:01,nan,Wiggins REBOUND (Off:2 Def:5),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79676,21500637,5,3:55,nan,MISS Wiggins 2' Driving Floating Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79677,21500637,5,3:54,D. Williams REBOUND (Off:0 Def:7),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79678,21500637,5,3:46,Parsons 5' Driving Bank Shot (25 PTS) (Matthews 4 AST),nan,89 - 93,202718,Chandler Parsons,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+79679,21500637,5,3:45,nan,Timberwolves Timeout: Regular (Reg.6 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+79680,21500637,5,3:35,nan,Towns 19' Jump Shot (27 PTS) (Rubio 11 AST),91 - 93,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+79681,21500637,5,3:16,Parsons 11' Driving Floating Bank Jump Shot (27 PTS),nan,91 - 95,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79682,21500637,5,3:04,nan,MISS Muhammad  3PT Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79683,21500637,5,3:03,nan,Muhammad REBOUND (Off:2 Def:4),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79684,21500637,5,3:00,nan,Muhammad 5' Driving Bank Shot (14 PTS),93 - 95,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+79685,21500637,5,2:36,Parsons 25' 3PT Jump Shot (30 PTS),nan,93 - 98,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79686,21500637,5,2:22,nan,Muhammad Out of Bounds Lost Ball Turnover (P2.T16),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+79687,21500637,5,2:04,Pachulia Lost Ball Turnover (P4.T11),Towns STEAL (1 STL),nan,2585,Zaza Pachulia,DAL,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Lost Ball
+79688,21500637,5,2:01,nan,Wiggins Offensive Charge Foul (P4.T1) (P.Fraher),nan,203952,Andrew Wiggins,MIN,202718,Chandler Parsons,DAL,0,nan,nan,Foul ,Offensive Charge
+79689,21500637,5,2:01,nan,Wiggins Foul Turnover (P2.T17),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+79690,21500637,5,1:39,MISS Parsons 5' Driving Bank Shot,nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79691,21500637,5,1:38,nan,Prince REBOUND (Off:0 Def:5),nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79692,21500637,5,1:29,nan,MISS Muhammad 10' Turnaround Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79693,21500637,5,1:28,Harris REBOUND (Off:0 Def:4),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79694,21500637,5,1:24,Harris 1' Running Finger Roll Layup (14 PTS),nan,93 - 100,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+79695,21500637,5,1:24,nan,Prince S.FOUL (P2.T2) (M.Davis),nan,2419,Tayshaun Prince,MIN,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting
+79696,21500637,5,1:24,Harris Free Throw 1 of 1 (15 PTS),nan,93 - 101,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+79697,21500637,5,1:24,nan,Timberwolves Timeout: Short (Reg.6 Short 2),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+79698,21500637,5,1:14,nan,MISS Towns 7' Driving Hook Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79699,21500637,5,1:13,nan,Muhammad REBOUND (Off:3 Def:4),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79700,21500637,5,1:09,nan,MISS Muhammad 7' Driving Floating Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79701,21500637,5,1:08,Parsons REBOUND (Off:0 Def:8),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79702,21500637,5,0:46,Matthews 24' 3PT Jump Shot (15 PTS) (Parsons 2 AST),nan,93 - 104,202083,Wesley Matthews,DAL,202718,Chandler Parsons,DAL,0,nan,nan,Made Shot ,nan
+79703,21500637,5,0:41,Matthews S.FOUL (P3.T1) (M.Davis),nan,nan,202083,Wesley Matthews,DAL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+79704,21500637,5,0:41,nan,Wiggins Free Throw 1 of 2 (23 PTS),94 - 104,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+79705,21500637,5,0:41,nan,MISS Wiggins Free Throw 2 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+79706,21500637,5,0:40,Pachulia REBOUND (Off:2 Def:2),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79707,21500637,5,0:39,nan,Towns P.FOUL (P3.PN) (M.Davis),nan,1626157,Karl-Anthony Towns,MIN,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Personal
+79708,21500637,5,0:39,nan,SUB: LaVine FOR Wiggins,nan,203952,Andrew Wiggins,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+79709,21500637,5,0:39,Pachulia Free Throw 1 of 2 (11 PTS),nan,94 - 105,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+79710,21500637,5,0:39,nan,SUB: Dieng FOR Prince,nan,2419,Tayshaun Prince,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+79711,21500637,5,0:39,nan,SUB: Rudez FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,204014,Damjan Rudez,MIN,0,nan,nan,Substitution ,nan
+79712,21500637,5,0:39,nan,SUB: Bjelica FOR Rubio,nan,201937,Ricky Rubio,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+79713,21500637,5,0:39,Pachulia Free Throw 2 of 2 (12 PTS),nan,94 - 106,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+79714,21500637,5,0:31,nan,MISS Dieng 21' Jump Shot,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+79715,21500637,5,0:30,Matthews REBOUND (Off:0 Def:6),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+79716,21500637,5,0:06,MAVERICKS Turnover: Shot Clock (T#12),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+79717,21500637,5,0:06,SUB: Anderson FOR Parsons,nan,nan,202718,Chandler Parsons,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+79718,21500637,5,0:06,SUB: Villanueva FOR Pachulia,nan,nan,2585,Zaza Pachulia,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Substitution ,nan
+79719,21500637,5,0:06,SUB: McGee FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,201580,JaVale McGee,DAL,0,nan,nan,Substitution ,nan
+79720,21500637,5,0:06,SUB: Barea FOR D. Williams,nan,nan,101114,Deron Williams,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+79721,21500637,5,0:06,SUB: Powell FOR Harris,nan,nan,2734,Devin Harris,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+79722,21500637,5,0:00,nan,nan,94 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

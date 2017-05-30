@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+256712,21600838,4,12:00,nan,nan,95 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+256713,21600838,4,11:43,Harris 25' 3PT Jump Shot (6 PTS) (LeVert 3 AST),nan,95 - 85,203925,Joe Harris,BKN,1627747,Caris LeVert,BKN,0,nan,nan,Made Shot ,nan
+256714,21600838,4,11:25,nan,Monroe 2' Cutting Layup Shot (19 PTS) (Middleton 6 AST),97 - 85,202328,Greg Monroe,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+256715,21600838,4,11:12,nan,Middleton P.FOUL (P4.T1) (M.Lindsay),nan,203114,Khris Middleton,MIL,1627747,Caris LeVert,BKN,0,nan,nan,Foul ,Personal
+256716,21600838,4,11:10,Dinwiddie 3' Cutting Layup Shot (6 PTS) (Lopez 1 AST),nan,97 - 87,203915,Spencer Dinwiddie,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+256717,21600838,4,11:10,nan,Brogdon S.FOUL (P1.T2) (S.Foster),nan,1627763,Malcolm Brogdon,MIL,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+256718,21600838,4,11:10,Dinwiddie Free Throw 1 of 1 (7 PTS),nan,97 - 88,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+256719,21600838,4,10:52,Dinwiddie STEAL (1 STL),Vaughn Lost Ball Turnover (P1.T8),nan,1626173,Rashad Vaughn,MIL,203915,Spencer Dinwiddie,BKN,0,nan,nan,Turnover ,Lost Ball
+256720,21600838,4,10:47,Booker 3' Running Layup (12 PTS) (LeVert 4 AST),nan,97 - 90,202344,Trevor Booker,BKN,1627747,Caris LeVert,BKN,0,nan,nan,Made Shot ,nan
+256721,21600838,4,10:33,nan,MISS Middleton 2' Layup,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256722,21600838,4,10:31,Lopez REBOUND (Off:2 Def:1),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256723,21600838,4,10:26,LeVert Bad Pass Turnover (P2.T16),Antetokounmpo STEAL (4 STL),nan,1627747,Caris LeVert,BKN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+256724,21600838,4,10:25,nan,Antetokounmpo  Running Dunk (27 PTS) (Middleton 7 AST),99 - 90,203507,Giannis Antetokounmpo,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+256725,21600838,4,10:14,nan,Antetokounmpo S.FOUL (P2.T3) (M.Lindsay),nan,203507,Giannis Antetokounmpo,MIL,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Shooting
+256726,21600838,4,10:14,nan,nan,nan,407,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+256727,21600838,4,10:14,Booker Free Throw 1 of 2 (13 PTS),nan,99 - 91,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256728,21600838,4,10:14,Booker Free Throw 2 of 2 (14 PTS),nan,99 - 92,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256729,21600838,4,10:01,nan,Antetokounmpo 5' Turnaround Bank Shot (29 PTS),101 - 92,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256730,21600838,4,9:42,Booker 6' Driving Hook Shot (16 PTS),nan,101 - 94,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256731,21600838,4,9:25,nan,Brogdon 25' 3PT Jump Shot (8 PTS) (Monroe 3 AST),104 - 94,1627763,Malcolm Brogdon,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+256732,21600838,4,9:13,MISS LeVert 7' Jump Shot,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256733,21600838,4,9:12,nan,Monroe REBOUND (Off:1 Def:5),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256734,21600838,4,9:05,Lopez BLOCK (6 BLK),MISS Antetokounmpo 2' Running Layup,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+256735,21600838,4,9:05,Dinwiddie REBOUND (Off:0 Def:3),nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256736,21600838,4,8:58,MISS Dinwiddie 7' Jump Shot,nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256737,21600838,4,8:57,nan,Monroe REBOUND (Off:1 Def:6),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256738,21600838,4,8:37,Lopez BLOCK (7 BLK),MISS Monroe 10' Fadeaway Jumper,nan,202328,Greg Monroe,MIL,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+256739,21600838,4,8:35,LeVert REBOUND (Off:0 Def:2),nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256740,21600838,4,8:17,Booker Lost Ball Turnover (P3.T17),Vaughn STEAL (1 STL),nan,202344,Trevor Booker,BKN,1626173,Rashad Vaughn,MIL,0,nan,nan,Turnover ,Lost Ball
+256741,21600838,4,8:12,nan,Monroe 2' Running Layup (21 PTS) (Vaughn 1 AST),106 - 94,202328,Greg Monroe,MIL,1626173,Rashad Vaughn,MIL,0,nan,nan,Made Shot ,nan
+256742,21600838,4,8:12,NETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256743,21600838,4,7:58,Lopez 2' Cutting Layup Shot (31 PTS) (Booker 3 AST),nan,106 - 96,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+256744,21600838,4,7:44,nan,Vaughn 2' Cutting Layup Shot (2 PTS) (Brogdon 4 AST),108 - 96,1626173,Rashad Vaughn,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+256745,21600838,4,7:28,MISS Harris 1' Layup,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256746,21600838,4,7:27,nan,Middleton REBOUND (Off:0 Def:3),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256747,21600838,4,7:23,Dinwiddie STEAL (2 STL),Brogdon Bad Pass Turnover (P2.T9),nan,1627763,Malcolm Brogdon,MIL,203915,Spencer Dinwiddie,BKN,0,nan,nan,Turnover ,Bad Pass
+256748,21600838,4,7:19,Booker  Dunk (18 PTS) (Harris 2 AST),nan,108 - 98,202344,Trevor Booker,BKN,203925,Joe Harris,BKN,0,nan,nan,Made Shot ,nan
+256749,21600838,4,7:00,nan,Vaughn 25' 3PT Jump Shot (5 PTS),111 - 98,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256750,21600838,4,6:47,Harris 26' 3PT Jump Shot (9 PTS) (Dinwiddie 6 AST),nan,111 - 101,203925,Joe Harris,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+256751,21600838,4,6:29,nan,Middleton 19' Jump Shot (14 PTS),113 - 101,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256752,21600838,4,6:21,MISS LeVert 25' 3PT Jump Shot,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256753,21600838,4,6:19,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256754,21600838,4,6:19,SUB: Bogdanovic FOR LeVert,nan,nan,1627747,Caris LeVert,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+256755,21600838,4,6:10,Harris STEAL (1 STL),Brogdon Bad Pass Turnover (P3.T10),nan,1627763,Malcolm Brogdon,MIL,203925,Joe Harris,BKN,0,nan,nan,Turnover ,Bad Pass
+256756,21600838,4,6:07,Harris 2' Running Reverse Layup (11 PTS),nan,113 - 103,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256757,21600838,4,5:50,nan,MISS Brogdon 11' Running Jump Shot,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256758,21600838,4,5:48,Dinwiddie REBOUND (Off:0 Def:4),nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256759,21600838,4,5:36,Harris  3PT Jump Shot (14 PTS) (Dinwiddie 7 AST),nan,113 - 106,203925,Joe Harris,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+256760,21600838,4,5:36,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256761,21600838,4,5:36,nan,SUB: Snell FOR Middleton,nan,203114,Khris Middleton,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+256762,21600838,4,5:36,nan,SUB: Dellavedova FOR Brogdon,nan,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+256763,21600838,4,5:22,nan,Monroe 2' Cutting Layup Shot (23 PTS) (Dellavedova 5 AST),115 - 106,202328,Greg Monroe,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Made Shot ,nan
+256764,21600838,4,5:12,Dinwiddie 8' Jump Shot (9 PTS),nan,115 - 108,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256765,21600838,4,5:12,nan,Dellavedova S.FOUL (P3.T4) (L.Holtkamp),nan,203521,Matthew Dellavedova,MIL,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+256766,21600838,4,5:12,Dinwiddie Free Throw 1 of 1 (10 PTS),nan,115 - 109,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+256767,21600838,4,4:58,nan,Dellavedova 11' Floating Jump Shot (10 PTS),117 - 109,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256768,21600838,4,4:46,MISS Lopez 25' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256769,21600838,4,4:45,nan,Antetokounmpo REBOUND (Off:1 Def:7),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256770,21600838,4,4:24,nan,MISS Snell 24' 3PT Jump Shot,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256771,21600838,4,4:23,Booker REBOUND (Off:0 Def:5),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256772,21600838,4,4:11,MISS Lopez 2' Driving Layup,Antetokounmpo BLOCK (1 BLK),nan,201572,Brook Lopez,BKN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+256773,21600838,4,4:09,nan,Snell REBOUND (Off:0 Def:4),nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256774,21600838,4,4:01,nan,MISS Vaughn  3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256775,21600838,4,4:00,Lopez REBOUND (Off:2 Def:2),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256776,21600838,4,3:40,Dinwiddie 26' 3PT Jump Shot (13 PTS),nan,117 - 112,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256777,21600838,4,3:19,nan,MISS Antetokounmpo 10' Step Back Jump Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256778,21600838,4,3:18,Bogdanovic REBOUND (Off:1 Def:5),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256779,21600838,4,2:59,Lopez 25' 3PT Jump Shot (34 PTS) (Dinwiddie 8 AST),nan,117 - 115,201572,Brook Lopez,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+256780,21600838,4,2:59,nan,Bucks Timeout: Regular (Reg.5 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256781,21600838,4,2:59,nan,SUB: Middleton FOR Vaughn,nan,1626173,Rashad Vaughn,MIL,203114,Khris Middleton,MIL,0,nan,nan,Substitution ,nan
+256782,21600838,4,2:40,nan,Antetokounmpo 18' Jump Shot (31 PTS),119 - 115,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256783,21600838,4,2:23,MISS Harris 24' 3PT Jump Shot,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256784,21600838,4,2:22,Dinwiddie REBOUND (Off:1 Def:4),nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256785,21600838,4,2:19,nan,Monroe S.FOUL (P4.PN) (M.Lindsay),nan,202328,Greg Monroe,MIL,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+256786,21600838,4,2:19,Dinwiddie Free Throw 1 of 2 (14 PTS),nan,119 - 116,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256787,21600838,4,2:19,Dinwiddie Free Throw 2 of 2 (15 PTS),nan,119 - 117,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256788,21600838,4,2:03,nan,MISS Snell 24' 3PT Jump Shot,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256789,21600838,4,2:01,nan,Monroe REBOUND (Off:2 Def:6),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256790,21600838,4,1:59,nan,MISS Monroe 1' Layup,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256791,21600838,4,1:58,nan,Snell REBOUND (Off:1 Def:4),nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256792,21600838,4,1:57,Booker P.FOUL (P2.T1) (L.Holtkamp),nan,nan,202344,Trevor Booker,BKN,203503,Tony Snell,MIL,0,nan,nan,Foul ,Personal
+256793,21600838,4,1:46,nan,Monroe 2' Layup (25 PTS) (Antetokounmpo 3 AST),121 - 117,202328,Greg Monroe,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+256794,21600838,4,1:36,Dinwiddie 1' Driving Finger Roll Layup (17 PTS),nan,121 - 119,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256795,21600838,4,1:21,nan,Middleton 7' Driving Bank Shot (16 PTS),123 - 119,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256796,21600838,4,1:04,Dinwiddie 23' Jump Shot (19 PTS),nan,123 - 121,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256797,21600838,4,1:04,nan,nan,nan,485,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+256798,21600838,4,0:49,Lopez BLOCK (8 BLK),MISS Middleton 14' Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+256799,21600838,4,0:48,nan,Antetokounmpo REBOUND (Off:2 Def:7),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256800,21600838,4,0:47,nan,Antetokounmpo 2' Layup (33 PTS),125 - 121,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256801,21600838,4,0:28,nan,Middleton L.B.FOUL (P5.PN) (M.Lindsay),nan,203114,Khris Middleton,MIL,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Loose Ball
+256802,21600838,4,0:28,Lopez Free Throw 1 of 2 (35 PTS),nan,125 - 122,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256803,21600838,4,0:28,Lopez Free Throw 2 of 2 (36 PTS),nan,125 - 123,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256804,21600838,4,0:28,nan,Bucks Timeout: Regular (Reg.6 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256805,21600838,4,0:28,SUB: Foye FOR Bogdanovic,nan,nan,202711,Bojan Bogdanovic,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+256806,21600838,4,0:28,SUB: Hollis-Jefferson FOR Lopez,nan,nan,201572,Brook Lopez,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+256807,21600838,4,0:19,Hollis-Jefferson P.FOUL (P2.PN) (L.Holtkamp),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+256808,21600838,4,0:19,nan,Middleton Free Throw 1 of 2 (17 PTS),126 - 123,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256809,21600838,4,0:19,SUB: Lopez FOR Hollis-Jefferson,nan,nan,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+256810,21600838,4,0:19,nan,SUB: Brogdon FOR Monroe,nan,202328,Greg Monroe,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Substitution ,nan
+256811,21600838,4,0:19,nan,Middleton Free Throw 2 of 2 (18 PTS),127 - 123,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256812,21600838,4,0:19,NETS Timeout: Short (Full 4 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+256813,21600838,4,0:19,SUB: Hamilton FOR Booker,nan,nan,202344,Trevor Booker,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+256814,21600838,4,0:19,SUB: Bogdanovic FOR Dinwiddie,nan,nan,203915,Spencer Dinwiddie,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+256815,21600838,4,0:15,MISS Foye 2' Driving Layup,nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256816,21600838,4,0:14,Foye REBOUND (Off:1 Def:2),nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256817,21600838,4,0:13,Foye 3' Tip Layup Shot (2 PTS),nan,127 - 125,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+256818,21600838,4,0:11,Foye P.FOUL (P3.PN) (S.Foster),nan,nan,200751,Randy Foye,BKN,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+256819,21600838,4,0:11,nan,Middleton Free Throw 1 of 2 (19 PTS),128 - 125,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256820,21600838,4,0:11,nan,Middleton Free Throw 2 of 2 (20 PTS),129 - 125,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256821,21600838,4,0:11,NETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256822,21600838,4,0:08,MISS Lopez 26' 3PT Fadeaway Jumper,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256823,21600838,4,0:07,nan,Snell REBOUND (Off:1 Def:5),nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256824,21600838,4,0:00,nan,nan,129 - 125,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

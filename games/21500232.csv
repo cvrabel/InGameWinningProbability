@@ -1,0 +1,151 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+29159,21500232,4,12:00,nan,nan,80 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+29160,21500232,4,11:47,nan,Thompson 8' Driving Floating Jump Shot (5 PTS) (Stauskas 3 AST),82 - 91,203138,Hollis Thompson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+29161,21500232,4,11:33,Jones Bad Pass Turnover (P1.T18),Grant STEAL (1 STL),nan,203093,Terrence Jones,HOU,203924,Jerami Grant,PHI,0,nan,nan,Turnover ,Bad Pass
+29162,21500232,4,11:20,nan,Covington 26' 3PT Jump Shot (25 PTS) (McConnell 4 AST),85 - 91,203496,Robert Covington,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+29163,21500232,4,10:57,Thornton 19' Pullup Jump Shot (6 PTS),nan,85 - 93,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+29164,21500232,4,10:45,Brewer P.FOUL (P3.T1) (J.Phillips),nan,nan,201147,Corey Brewer,HOU,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Personal
+29165,21500232,4,10:29,nan,Stauskas  3PT Jump Shot (4 PTS) (Covington 3 AST),88 - 93,203917,Nik Stauskas,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+29166,21500232,4,10:22,Beverley Bad Pass Turnover (P1.T19),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+29167,21500232,4,10:15,nan,MISS Thompson 21' Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29168,21500232,4,10:14,nan,Covington REBOUND (Off:1 Def:3),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29169,21500232,4,10:12,nan,Thompson 24' 3PT Jump Shot (8 PTS) (Covington 4 AST),91 - 93,203138,Hollis Thompson,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+29170,21500232,4,10:11,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29171,21500232,4,10:11,SUB: Ariza FOR Jones,nan,nan,203093,Terrence Jones,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+29172,21500232,4,10:11,SUB: Harden FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+29173,21500232,4,9:59,Jump Ball Harden vs. Thompson: Tip to McConnell,nan,nan,201935,James Harden,HOU,203138,Hollis Thompson,PHI,204456,T.J. McConnell,PHI,Jump Ball ,nan
+29174,21500232,4,9:59,Harden Lost Ball Turnover (P7.T20),Thompson STEAL (2 STL),nan,201935,James Harden,HOU,203138,Hollis Thompson,PHI,0,nan,nan,Turnover ,Lost Ball
+29175,21500232,4,9:52,Howard S.FOUL (P3.T2) (D.Taylor),nan,nan,2730,Dwight Howard,HOU,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+29176,21500232,4,9:52,nan,Grant Free Throw 1 of 2 (9 PTS),92 - 93,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29177,21500232,4,9:52,nan,Grant Free Throw 2 of 2 (10 PTS),93 - 93,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29178,21500232,4,9:33,Brewer  3PT Jump Shot (3 PTS) (Harden 8 AST),nan,93 - 96,201147,Corey Brewer,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+29179,21500232,4,9:19,nan,Grant  Dunk (12 PTS) (Covington 5 AST),95 - 96,203924,Jerami Grant,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+29180,21500232,4,9:08,nan,Grant P.FOUL (P3.T1) (K.Fitzgerald),nan,203924,Jerami Grant,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+29181,21500232,4,8:57,Howard 3 Second Violation Turnover (P1.T21),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+29182,21500232,4,8:35,nan,McConnell 11' Turnaround Jump Shot (2 PTS),97 - 96,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29183,21500232,4,8:12,MISS Ariza 3' Driving Layup,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29184,21500232,4,8:11,nan,Grant REBOUND (Off:1 Def:2),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29185,21500232,4,8:03,Brewer STEAL (1 STL),Grant Bad Pass Turnover (P1.T12),nan,203924,Jerami Grant,PHI,201147,Corey Brewer,HOU,0,nan,nan,Turnover ,Bad Pass
+29186,21500232,4,8:01,nan,McConnell S.FOUL (P1.T2) (J.Phillips),nan,204456,T.J. McConnell,PHI,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+29187,21500232,4,8:01,Brewer Free Throw 1 of 2 (4 PTS),nan,97 - 97,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29188,21500232,4,8:01,nan,SUB: Canaan FOR Thompson,nan,203138,Hollis Thompson,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+29189,21500232,4,8:01,nan,SUB: Sampson FOR Covington,nan,203496,Robert Covington,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+29190,21500232,4,8:01,MISS Brewer Free Throw 2 of 2,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29191,21500232,4,7:59,nan,McConnell REBOUND (Off:0 Def:4),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29192,21500232,4,7:45,nan,McConnell 8' Turnaround Fadeaway (4 PTS),99 - 97,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29193,21500232,4,7:28,MISS Harden 2' Driving Layup,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29194,21500232,4,7:27,Howard REBOUND (Off:3 Def:4),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29195,21500232,4,7:25,MISS Howard 3' Jump Shot,Sampson BLOCK (1 BLK),nan,2730,Dwight Howard,HOU,0,nan,nan,203960,JaKarr Sampson,PHI,Missed Shot ,nan
+29196,21500232,4,7:24,nan,Stauskas REBOUND (Off:0 Def:2),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29197,21500232,4,7:20,Brewer P.FOUL (P4.T3) (K.Fitzgerald),nan,nan,201147,Corey Brewer,HOU,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Personal
+29198,21500232,4,7:00,nan,Grant 26' 3PT Jump Shot (15 PTS) (McConnell 5 AST),102 - 97,203924,Jerami Grant,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+29199,21500232,4,6:59,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29200,21500232,4,6:59,SUB: Capela FOR Howard,nan,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+29201,21500232,4,6:47,Harden Bad Pass Turnover (P8.T22),McConnell STEAL (2 STL),nan,201935,James Harden,HOU,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+29202,21500232,4,6:41,nan,Grant  Running Dunk (17 PTS) (McConnell 6 AST),104 - 97,203924,Jerami Grant,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+29203,21500232,4,6:22,nan,McConnell S.FOUL (P2.T3) (K.Fitzgerald),nan,204456,T.J. McConnell,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+29204,21500232,4,6:22,Harden Free Throw 1 of 2 (37 PTS),nan,104 - 98,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29205,21500232,4,6:22,Harden Free Throw 2 of 2 (38 PTS),nan,104 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29206,21500232,4,6:13,Brewer P.FOUL (P5.T4) (K.Fitzgerald),nan,nan,201147,Corey Brewer,HOU,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+29207,21500232,4,6:13,nan,SUB: Pressey FOR McConnell,nan,204456,T.J. McConnell,PHI,203515,Phil Pressey,PHI,0,nan,nan,Substitution ,nan
+29208,21500232,4,5:57,nan,MISS Grant 25' 3PT Jump Shot,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29209,21500232,4,5:57,Ariza REBOUND (Off:1 Def:2),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29210,21500232,4,5:47,Harden 25' 3PT Pullup Jump Shot (41 PTS),nan,104 - 102,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+29211,21500232,4,5:34,nan,MISS Pressey 2' Driving Layup,nan,203515,Phil Pressey,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29212,21500232,4,5:33,Capela REBOUND (Off:2 Def:8),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29213,21500232,4,5:28,nan,Canaan S.FOUL (P4.T4) (J.Phillips),nan,203477,Isaiah Canaan,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+29214,21500232,4,5:28,Harden Free Throw 1 of 2 (42 PTS),nan,104 - 103,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29215,21500232,4,5:28,nan,SUB: Covington FOR Stauskas,nan,203917,Nik Stauskas,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+29216,21500232,4,5:28,nan,SUB: Thompson FOR Sampson,nan,203960,JaKarr Sampson,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+29217,21500232,4,5:28,Harden Free Throw 2 of 2 (43 PTS),nan,104 - 104,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29218,21500232,4,5:07,nan,MISS Canaan  3PT Pullup Jump Shot,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29219,21500232,4,5:05,Ariza REBOUND (Off:1 Def:3),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29220,21500232,4,5:00,nan,Thompson S.FOUL (P4.PN) (D.Taylor),nan,203138,Hollis Thompson,PHI,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+29221,21500232,4,5:00,Brewer Free Throw 1 of 3 (5 PTS),nan,104 - 105,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+29222,21500232,4,5:00,Brewer Free Throw 2 of 3 (6 PTS),nan,104 - 106,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+29223,21500232,4,5:00,SUB: Howard FOR Capela,nan,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+29224,21500232,4,5:00,nan,SUB: Okafor FOR Grant,nan,203924,Jerami Grant,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+29225,21500232,4,5:00,Brewer Free Throw 3 of 3 (7 PTS),nan,104 - 107,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+29226,21500232,4,4:36,Ariza STEAL (1 STL),Covington Bad Pass Turnover (P4.T13),nan,203496,Robert Covington,PHI,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+29227,21500232,4,4:18,MISS Harden 25' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29228,21500232,4,4:17,nan,Covington REBOUND (Off:1 Def:4),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29229,21500232,4,3:58,nan,MISS Pressey 19' Pullup Jump Shot,nan,203515,Phil Pressey,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29230,21500232,4,3:57,Howard REBOUND (Off:3 Def:5),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29231,21500232,4,3:46,Harden Out of Bounds Lost Ball Turnover (P9.T23),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+29232,21500232,4,3:46,nan,76ers Timeout: Regular (Reg.4 Short 0),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29233,21500232,4,3:46,nan,SUB: McConnell FOR Covington,nan,203496,Robert Covington,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+29234,21500232,4,3:46,nan,SUB: Covington FOR Pressey,nan,203515,Phil Pressey,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+29235,21500232,4,3:21,nan,Okafor 8' Turnaround Jump Shot (11 PTS),106 - 107,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29236,21500232,4,2:56,nan,Canaan Shooting Block Foul (P5.PN) (D.Taylor),nan,203477,Isaiah Canaan,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting Block
+29237,21500232,4,2:56,Harden Free Throw 1 of 2 (44 PTS),nan,106 - 108,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29238,21500232,4,2:56,Harden Free Throw 2 of 2 (45 PTS),nan,106 - 109,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29239,21500232,4,2:38,nan,MISS Covington 15' Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29240,21500232,4,2:37,Howard REBOUND (Off:3 Def:6),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29241,21500232,4,2:26,Harden 24' 3PT Jump Shot (48 PTS),nan,106 - 112,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+29242,21500232,4,2:25,nan,76ers Timeout: Regular (Reg.5 Short 0),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29243,21500232,4,2:11,Ariza P.FOUL (P1.PN) (J.Phillips),nan,nan,2772,Trevor Ariza,HOU,203496,Robert Covington,PHI,0,nan,nan,Foul ,Personal
+29244,21500232,4,2:11,nan,Covington Free Throw 1 of 2 (26 PTS),107 - 112,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29245,21500232,4,2:11,nan,Covington Free Throw 2 of 2 (27 PTS),108 - 112,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29246,21500232,4,2:07,nan,McConnell Personal Take Foul (P3.PN) (K.Fitzgerald),nan,204456,T.J. McConnell,PHI,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal Take
+29247,21500232,4,2:07,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29248,21500232,4,2:07,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29249,21500232,4,2:07,MISS Howard Free Throw 2 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29250,21500232,4,2:07,nan,Thompson REBOUND (Off:0 Def:4),nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29251,21500232,4,1:48,nan,MISS Covington 25' 3PT Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29252,21500232,4,1:47,Howard REBOUND (Off:3 Def:7),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29253,21500232,4,1:26,MISS Harden 26' 3PT Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29254,21500232,4,1:25,nan,McConnell REBOUND (Off:0 Def:5),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29255,21500232,4,1:19,nan,MISS Thompson 3' Running Reverse Layup,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29256,21500232,4,1:18,Howard REBOUND (Off:3 Def:8),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29257,21500232,4,1:16,nan,Covington P.FOUL (P2.PN) (J.Phillips),nan,203496,Robert Covington,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+29258,21500232,4,1:16,MISS Harden Free Throw 1 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29259,21500232,4,1:16,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29260,21500232,4,1:16,nan,SUB: Grant FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+29261,21500232,4,1:16,MISS Harden Free Throw 2 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29262,21500232,4,1:16,nan,Covington REBOUND (Off:1 Def:5),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29263,21500232,4,0:58,nan,McConnell 2' Reverse Layup (6 PTS),110 - 112,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+29264,21500232,4,0:34,MISS Harden 19' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29265,21500232,4,0:33,Howard REBOUND (Off:4 Def:8),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29266,21500232,4,0:32,nan,Thompson S.FOUL (P5.PN) (D.Taylor),nan,203138,Hollis Thompson,PHI,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+29267,21500232,4,0:32,Howard Free Throw 1 of 2 (13 PTS),nan,110 - 113,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29268,21500232,4,0:32,Howard Free Throw 2 of 2 (14 PTS),nan,110 - 114,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29269,21500232,4,0:32,nan,76ers Timeout: Regular (Reg.6 Short 0),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29270,21500232,4,0:32,nan,SUB: Stauskas FOR McConnell,nan,204456,T.J. McConnell,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+29271,21500232,4,0:28,Howard S.FOUL (P4.PN) (J.Phillips),nan,nan,2730,Dwight Howard,HOU,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+29272,21500232,4,0:28,nan,Grant Free Throw 1 of 2 (18 PTS),111 - 114,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29273,21500232,4,0:28,nan,SUB: Sampson FOR Stauskas,nan,203917,Nik Stauskas,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+29274,21500232,4,0:28,nan,SUB: McConnell FOR Thompson,nan,203138,Hollis Thompson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+29275,21500232,4,0:28,nan,MISS Grant Free Throw 2 of 2,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29276,21500232,4,0:28,Harden REBOUND (Off:2 Def:6),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29277,21500232,4,0:15,Jump Ball Harden vs. McConnell: Tip to Ariza,nan,nan,201935,James Harden,HOU,204456,T.J. McConnell,PHI,2772,Trevor Ariza,HOU,Jump Ball ,nan
+29278,21500232,4,0:09,nan,Covington Personal Take Foul (P3.PN) (J.Phillips),nan,203496,Robert Covington,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal Take
+29279,21500232,4,0:09,MISS Harden Free Throw 1 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29280,21500232,4,0:09,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+29281,21500232,4,0:09,nan,SUB: Thompson FOR McConnell,nan,204456,T.J. McConnell,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+29282,21500232,4,0:09,Harden Free Throw 2 of 2 (49 PTS),nan,111 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29283,21500232,4,0:09,nan,76ers Timeout: Short (Reg.6 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+29284,21500232,4,0:09,nan,SUB: Stauskas FOR Grant,nan,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+29285,21500232,4,0:09,nan,SUB: McConnell FOR Sampson,nan,203960,JaKarr Sampson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+29286,21500232,4,0:06,Brewer S.FOUL (P6.PN) (D.Taylor),nan,nan,201147,Corey Brewer,HOU,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Shooting
+29287,21500232,4,0:06,SUB: Terry FOR Brewer,nan,nan,201147,Corey Brewer,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+29288,21500232,4,0:06,nan,Thompson Free Throw 1 of 3 (9 PTS),112 - 115,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+29289,21500232,4,0:06,nan,Thompson Free Throw 2 of 3 (10 PTS),113 - 115,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+29290,21500232,4,0:06,nan,SUB: Okafor FOR Stauskas,nan,203917,Nik Stauskas,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+29291,21500232,4,0:06,nan,SUB: Grant FOR Canaan,nan,203477,Isaiah Canaan,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+29292,21500232,4,0:06,nan,MISS Thompson Free Throw 3 of 3,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+29293,21500232,4,0:06,Harden REBOUND (Off:2 Def:7),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29294,21500232,4,0:04,nan,Covington Personal Take Foul (P4.PN) (K.Fitzgerald),nan,203496,Robert Covington,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal Take
+29295,21500232,4,0:04,Harden Free Throw 1 of 2 (50 PTS),nan,113 - 116,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29296,21500232,4,0:04,nan,SUB: Stauskas FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+29297,21500232,4,0:04,nan,SUB: Canaan FOR Grant,nan,203924,Jerami Grant,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+29298,21500232,4,0:04,MISS Harden Free Throw 2 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29299,21500232,4,0:04,nan,Covington REBOUND (Off:1 Def:6),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29300,21500232,4,0:02,Terry Personal Take Foul (P1.PN) (D.Taylor),nan,nan,1891,Jason Terry,HOU,203496,Robert Covington,PHI,0,nan,nan,Foul ,Personal Take
+29301,21500232,4,0:02,nan,Covington Free Throw 1 of 2 (28 PTS),114 - 116,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29302,21500232,4,0:02,SUB: Capela FOR Terry,nan,nan,1891,Jason Terry,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+29303,21500232,4,0:02,nan,SUB: Okafor FOR Canaan,nan,203477,Isaiah Canaan,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+29304,21500232,4,0:02,nan,SUB: Grant FOR McConnell,nan,204456,T.J. McConnell,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+29305,21500232,4,0:02,nan,SUB: Sampson FOR Stauskas,nan,203917,Nik Stauskas,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+29306,21500232,4,0:02,nan,MISS Covington Free Throw 2 of 2,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29307,21500232,4,0:01,Howard REBOUND (Off:4 Def:9),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29308,21500232,4,0:00,nan,nan,114 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

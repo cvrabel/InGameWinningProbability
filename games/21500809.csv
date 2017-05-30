@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+101228,21500809,4,12:00,nan,nan,81 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+101229,21500809,4,11:40,Brooks Bad Pass Turnover (P2.T9),Joseph STEAL (1 STL),nan,201166,Aaron Brooks,CHI,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Bad Pass
+101230,21500809,4,11:27,nan,Patterson 4' Driving Bank Shot (5 PTS) (Joseph 4 AST),83 - 89,202335,Patrick Patterson,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+101231,21500809,4,11:27,Brooks S.FOUL (P3.T1) (S.Wall),nan,nan,201166,Aaron Brooks,CHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Shooting
+101232,21500809,4,11:27,nan,MISS Patterson Free Throw 1 of 1,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+101233,21500809,4,11:26,Felicio REBOUND (Off:1 Def:2),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101234,21500809,4,11:07,MISS McDermott 9' Floating Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101235,21500809,4,11:06,McDermott REBOUND (Off:1 Def:1),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101236,21500809,4,11:05,McDermott 2' Putback Layup (18 PTS),nan,83 - 91,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101237,21500809,4,10:49,nan,Joseph 2' Layup (9 PTS),85 - 91,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+101238,21500809,4,10:15,Brooks 23' Jump Shot (3 PTS),nan,85 - 93,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101239,21500809,4,10:04,nan,Biyombo OFF.Foul (P3) (K.Lane),nan,202687,Bismack Biyombo,TOR,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Offensive
+101240,21500809,4,10:04,nan,Biyombo Foul Turnover (P1.T8),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+101241,21500809,4,9:54,MISS Brooks 26' 3PT Jump Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101242,21500809,4,9:52,nan,Ross REBOUND (Off:0 Def:4),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101243,21500809,4,9:46,nan,MISS Lowry 1' Running Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101244,21500809,4,9:45,Brooks REBOUND (Off:0 Def:2),nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101245,21500809,4,9:40,MISS Portis  Cutting Dunk Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101246,21500809,4,9:39,McDermott REBOUND (Off:2 Def:1),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101247,21500809,4,9:37,nan,Biyombo S.FOUL (P4.T1) (K.Lane),nan,202687,Bismack Biyombo,TOR,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+101248,21500809,4,9:37,MISS Felicio Free Throw 1 of 2,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+101249,21500809,4,9:37,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+101250,21500809,4,9:37,Felicio Free Throw 2 of 2 (8 PTS),nan,85 - 94,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+101251,21500809,4,9:17,nan,Patterson  Driving Dunk (7 PTS) (Lowry 6 AST),87 - 94,202335,Patrick Patterson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+101252,21500809,4,9:02,McDermott  Cutting Dunk Shot (20 PTS) (Felicio 1 AST),nan,87 - 96,203926,Doug McDermott,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+101253,21500809,4,8:46,Felicio BLOCK (1 BLK),MISS Joseph 2' Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,1626245,Cristiano Felicio,CHI,Missed Shot ,nan
+101254,21500809,4,8:44,Dunleavy REBOUND (Off:1 Def:2),nan,nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101255,21500809,4,8:38,McDermott 24' 3PT Jump Shot (23 PTS) (Felicio 2 AST),nan,87 - 99,203926,Doug McDermott,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+101256,21500809,4,8:38,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+101257,21500809,4,8:38,nan,nan,nan,462,J.R. Reid,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+101258,21500809,4,8:38,nan,SUB: DeRozan FOR Ross,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+101259,21500809,4,8:38,nan,SUB: Valanciunas FOR Biyombo,nan,202687,Bismack Biyombo,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+101260,21500809,4,8:16,nan,MISS DeRozan 23' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101261,21500809,4,8:15,McDermott REBOUND (Off:2 Def:2),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101262,21500809,4,7:56,MISS Brooks 26' 3PT Jump Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101263,21500809,4,7:55,nan,Valanciunas REBOUND (Off:6 Def:6),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101264,21500809,4,7:50,nan,Lowry 2' Driving Layup (22 PTS),89 - 99,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+101265,21500809,4,7:30,McDermott 20' Pullup Jump Shot (25 PTS) (Felicio 3 AST),nan,89 - 101,203926,Doug McDermott,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+101266,21500809,4,7:11,Felicio P.FOUL (P3.T2) (S.Wright),nan,nan,1626245,Cristiano Felicio,CHI,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+101267,21500809,4,7:11,SUB: Gibson FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+101268,21500809,4,7:04,nan,Valanciunas  Dunk (22 PTS) (Joseph 5 AST),91 - 101,202685,Jonas Valanciunas,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+101269,21500809,4,7:04,Gibson S.FOUL (P3.T3) (S.Wall),nan,nan,201959,Taj Gibson,CHI,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+101270,21500809,4,7:04,SUB: Gasol FOR Portis,nan,nan,1626171,Bobby Portis,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+101271,21500809,4,7:04,SUB: Moore FOR Dunleavy,nan,nan,2399,Mike Dunleavy,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Substitution ,nan
+101272,21500809,4,7:04,nan,Valanciunas Free Throw 1 of 1 (23 PTS),92 - 101,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+101273,21500809,4,6:46,Moore 18' Fadeaway Jumper (9 PTS),nan,92 - 103,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101274,21500809,4,6:22,Gibson BLOCK (1 BLK),MISS Lowry 2' Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,201959,Taj Gibson,CHI,Missed Shot ,nan
+101275,21500809,4,6:22,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101276,21500809,4,6:22,Brooks P.FOUL (P4.T4) (S.Wright),nan,nan,201166,Aaron Brooks,CHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Personal
+101277,21500809,4,6:22,SUB: Rose FOR Brooks,nan,nan,201166,Aaron Brooks,CHI,201565,Derrick Rose,CHI,0,nan,nan,Substitution ,nan
+101278,21500809,4,6:12,nan,MISS Valanciunas 5' Turnaround Fadeaway Shot,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101279,21500809,4,6:11,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101280,21500809,4,6:11,McDermott L.B.FOUL (P3.PN) (S.Wall),nan,nan,203926,Doug McDermott,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Loose Ball
+101281,21500809,4,6:11,nan,Lowry Free Throw 1 of 2 (23 PTS),93 - 103,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+101282,21500809,4,6:11,nan,Lowry Free Throw 2 of 2 (24 PTS),94 - 103,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+101283,21500809,4,5:51,MISS Moore 24' 3PT Jump Shot,nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101284,21500809,4,5:50,nan,Patterson REBOUND (Off:1 Def:5),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101285,21500809,4,5:46,nan,Lowry 2' Layup (26 PTS) (Patterson 3 AST),96 - 103,200768,Kyle Lowry,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+101286,21500809,4,5:45,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+101287,21500809,4,5:31,MISS McDermott 25' 3PT Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101288,21500809,4,5:30,nan,DeRozan REBOUND (Off:0 Def:3),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101289,21500809,4,5:10,nan,Joseph 4' Driving Bank Shot (11 PTS),98 - 103,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+101290,21500809,4,4:46,MISS Gasol 17' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101291,21500809,4,4:45,nan,Patterson REBOUND (Off:1 Def:6),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101292,21500809,4,4:32,nan,MISS Patterson 26' 3PT Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101293,21500809,4,4:31,nan,Joseph REBOUND (Off:1 Def:3),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101294,21500809,4,4:25,nan,Patterson  3PT Jump Shot (10 PTS) (Lowry 7 AST),101 - 103,202335,Patrick Patterson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+101295,21500809,4,4:09,MISS Gasol 19' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101296,21500809,4,4:09,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101297,21500809,4,4:09,nan,Lowry P.FOUL (P3.T2) (S.Wall),nan,200768,Kyle Lowry,TOR,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Personal
+101298,21500809,4,3:54,McDermott 2' Layup (27 PTS) (Gasol 8 AST),nan,101 - 105,203926,Doug McDermott,CHI,2200,Pau Gasol,CHI,0,nan,nan,Made Shot ,nan
+101299,21500809,4,3:30,nan,Patterson 7' Jump Shot (12 PTS) (DeRozan 3 AST),103 - 105,202335,Patrick Patterson,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+101300,21500809,4,3:18,nan,Patterson Violation:Kicked Ball (.),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+101301,21500809,4,3:05,Rose 9' Jump Shot (22 PTS),nan,103 - 107,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101302,21500809,4,2:56,Gibson S.FOUL (P4.PN) (S.Wall),nan,nan,201959,Taj Gibson,CHI,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+101303,21500809,4,2:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+101304,21500809,4,2:56,SUB: Dunleavy FOR Gibson,nan,nan,201959,Taj Gibson,CHI,2399,Mike Dunleavy,CHI,0,nan,nan,Substitution ,nan
+101305,21500809,4,2:56,nan,MISS Lowry Free Throw 1 of 2,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+101306,21500809,4,2:56,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+101307,21500809,4,2:56,nan,Lowry Free Throw 2 of 2 (27 PTS),104 - 107,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+101308,21500809,4,2:44,McDermott 24' 3PT Jump Shot (30 PTS) (Gasol 9 AST),nan,104 - 110,203926,Doug McDermott,CHI,2200,Pau Gasol,CHI,0,nan,nan,Made Shot ,nan
+101309,21500809,4,2:19,nan,MISS Lowry 7' Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101310,21500809,4,2:17,Moore REBOUND (Off:1 Def:4),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101311,21500809,4,2:03,MISS Dunleavy 21' Jump Shot,nan,nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101312,21500809,4,1:58,nan,Joseph REBOUND (Off:1 Def:4),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101313,21500809,4,1:53,nan,Valanciunas 19' Jump Shot (25 PTS) (Lowry 8 AST),106 - 110,202685,Jonas Valanciunas,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+101314,21500809,4,1:37,MISS Dunleavy 25' 3PT Jump Shot,nan,nan,2399,Mike Dunleavy,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101315,21500809,4,1:35,Moore REBOUND (Off:2 Def:4),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101316,21500809,4,1:18,Rose 17' Jump Shot (24 PTS),nan,106 - 112,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101317,21500809,4,1:18,nan,Raptors Timeout: Regular (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+101318,21500809,4,1:08,nan,MISS Joseph 25' 3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101319,21500809,4,1:08,nan,Lowry REBOUND (Off:1 Def:2),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101320,21500809,4,1:05,nan,MISS DeRozan 16' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101321,21500809,4,1:04,nan,DeRozan REBOUND (Off:1 Def:3),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101322,21500809,4,1:04,nan,MISS DeRozan 2' Putback Layup,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101323,21500809,4,1:03,Gasol REBOUND (Off:0 Def:10),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101324,21500809,4,0:49,Rose 6' Driving Bank Shot (26 PTS),nan,106 - 114,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+101325,21500809,4,0:36,nan,MISS Lowry 27' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101326,21500809,4,0:34,Gasol REBOUND (Off:0 Def:11),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101327,21500809,4,0:18,Gasol 18' Jump Shot (18 PTS) (Rose 6 AST),nan,106 - 116,2200,Pau Gasol,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+101328,21500809,4,0:18,nan,Raptors Timeout: Short (Reg.5 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+101329,21500809,4,0:12,nan,MISS Lowry 26' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+101330,21500809,4,0:11,Moore REBOUND (Off:2 Def:5),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+101331,21500809,4,0:00,nan,nan,106 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+19594,21500155,4,12:00,nan,nan,80 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+19595,21500155,4,11:44,nan,MISS Augustin 24' 3PT Jump Shot,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19596,21500155,4,11:43,Gasol REBOUND (Off:1 Def:3),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19597,21500155,4,11:29,MISS Chalmers 2' Driving Layup,nan,nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19598,21500155,4,11:29,nan,Collison REBOUND (Off:0 Def:3),nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19599,21500155,4,11:29,nan,Collison Out of Bounds - Bad Pass Turnover Turnover (P1.T16),nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+19600,21500155,4,11:19,Gasol 2' Driving Layup (10 PTS),nan,80 - 81,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+19601,21500155,4,11:19,nan,Collison S.FOUL (P3.T1) (S.Wall),nan,2555,Nick Collison,OKC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+19602,21500155,4,11:19,Gasol Free Throw 1 of 1 (11 PTS),nan,80 - 82,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+19603,21500155,4,11:12,Chalmers P.FOUL (P3.T1) (D.Crawford),nan,nan,201596,Mario Chalmers,MEM,1626166,Cameron Payne,OKC,0,nan,nan,Foul ,Personal
+19604,21500155,4,10:57,nan,Collison 13' Floating Jump Shot (2 PTS) (Kanter 1 AST),82 - 82,2555,Nick Collison,OKC,202683,Enes Kanter,OKC,0,nan,nan,Made Shot ,nan
+19605,21500155,4,10:32,MISS Green 2' Driving Layup,Collison BLOCK (2 BLK),nan,203210,JaMychal Green,MEM,0,nan,nan,2555,Nick Collison,OKC,Missed Shot ,nan
+19606,21500155,4,10:30,nan,Kanter REBOUND (Off:0 Def:5),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19607,21500155,4,10:29,Green S.FOUL (P2.T2) (S.Wall),nan,nan,201145,Jeff Green,MEM,203079,Dion Waiters,OKC,0,nan,nan,Foul ,Shooting
+19608,21500155,4,10:29,nan,Waiters Free Throw 1 of 2 (10 PTS),83 - 82,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19609,21500155,4,10:29,nan,MISS Waiters Free Throw 2 of 2,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19610,21500155,4,10:25,nan,Kanter REBOUND (Off:1 Def:5),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19611,21500155,4,10:24,Green BLOCK (2 BLK),MISS Kanter  Putback Layup,nan,202683,Enes Kanter,OKC,0,nan,nan,203210,JaMychal Green,MEM,Missed Shot ,nan
+19612,21500155,4,10:22,Green REBOUND (Off:1 Def:3),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19613,21500155,4,10:08,Chalmers 24' 3PT Jump Shot (16 PTS) (Gasol 4 AST),nan,83 - 85,201596,Mario Chalmers,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+19614,21500155,4,9:50,nan,MISS Collison 24' 3PT Jump Shot,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19615,21500155,4,9:50,Green REBOUND (Off:1 Def:2),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19616,21500155,4,9:41,nan,Augustin S.FOUL (P2.T2) (S.Wall),nan,201571,D.J. Augustin,OKC,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Shooting
+19617,21500155,4,9:41,Chalmers Free Throw 1 of 2 (17 PTS),nan,83 - 86,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19618,21500155,4,9:41,SUB: Barnes FOR Green,nan,nan,201145,Jeff Green,MEM,2440,Matt Barnes,MEM,0,nan,nan,Substitution ,nan
+19619,21500155,4,9:41,Chalmers Free Throw 2 of 2 (18 PTS),nan,83 - 87,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19620,21500155,4,9:29,nan,MISS Waiters 19' Pullup Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19621,21500155,4,9:26,Gasol REBOUND (Off:1 Def:4),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19622,21500155,4,9:21,Chalmers 26' 3PT Jump Shot (21 PTS) (Lee 1 AST),nan,83 - 90,201596,Mario Chalmers,MEM,201584,Courtney Lee,MEM,0,nan,nan,Made Shot ,nan
+19623,21500155,4,9:20,nan,Thunder Timeout: Regular (Reg.4 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19624,21500155,4,9:20,nan,SUB: Westbrook FOR Collison,nan,2555,Nick Collison,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+19625,21500155,4,9:20,nan,SUB: Ibaka FOR Payne,nan,1626166,Cameron Payne,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+19626,21500155,4,9:10,nan,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P7.T17),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+19627,21500155,4,8:57,MISS Barnes  3PT Jump Shot,nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19628,21500155,4,8:56,nan,Kanter REBOUND (Off:1 Def:6),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19629,21500155,4,8:47,Barnes S.FOUL (P3.T3) (D.Crawford),nan,nan,2440,Matt Barnes,MEM,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+19630,21500155,4,8:47,nan,Kanter Free Throw 1 of 2 (13 PTS),84 - 90,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19631,21500155,4,8:47,nan,Kanter Free Throw 2 of 2 (14 PTS),85 - 90,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19632,21500155,4,8:37,Gasol Lost Ball Turnover (P4.T9),Westbrook STEAL (2 STL),nan,201188,Marc Gasol,MEM,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Lost Ball
+19633,21500155,4,8:31,nan,Kanter  Running Dunk (16 PTS) (Westbrook 9 AST),87 - 90,202683,Enes Kanter,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19634,21500155,4,8:10,nan,Kanter S.FOUL (P3.T3) (D.Crawford),nan,202683,Enes Kanter,OKC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+19635,21500155,4,8:10,Gasol Free Throw 1 of 2 (12 PTS),nan,87 - 91,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19636,21500155,4,8:10,Gasol Free Throw 2 of 2 (13 PTS),nan,87 - 92,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19637,21500155,4,7:58,nan,Ibaka Offensive Goaltending Turnover (P2.T18),nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+19638,21500155,4,7:52,Chalmers  Driving Layup (23 PTS),nan,87 - 94,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+19639,21500155,4,7:52,nan,Augustin S.FOUL (P3.T4) (S.Wall),nan,201571,D.J. Augustin,OKC,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Shooting
+19640,21500155,4,7:52,Chalmers Free Throw 1 of 1 (24 PTS),nan,87 - 95,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+19641,21500155,4,7:37,nan,MISS Westbrook 11' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19642,21500155,4,7:37,Gasol REBOUND (Off:1 Def:5),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19643,21500155,4,7:23,Lee 10' Floating Jump Shot (6 PTS) (Gasol 5 AST),nan,87 - 97,201584,Courtney Lee,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+19644,21500155,4,7:09,nan,MISS Ibaka 24' 3PT Jump Shot,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19645,21500155,4,7:08,nan,Waiters REBOUND (Off:1 Def:6),nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19646,21500155,4,7:03,nan,Waiters 2' Driving Layup (12 PTS),89 - 97,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+19647,21500155,4,6:49,nan,Augustin P.FOUL (P4.PN) (D.Crawford),nan,201571,D.J. Augustin,OKC,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Personal
+19648,21500155,4,6:49,Chalmers Free Throw 1 of 2 (25 PTS),nan,89 - 98,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19649,21500155,4,6:49,nan,SUB: Morrow FOR Augustin,nan,201571,D.J. Augustin,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+19650,21500155,4,6:49,MISS Chalmers Free Throw 2 of 2,nan,nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19651,21500155,4,6:48,nan,Ibaka REBOUND (Off:1 Def:8),nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19652,21500155,4,6:48,Green P.FOUL (P3.T4) (D.Crawford),nan,nan,203210,JaMychal Green,MEM,201586,Serge Ibaka,OKC,0,nan,nan,Foul ,Personal
+19653,21500155,4,6:29,nan,MISS Waiters 25' 3PT Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19654,21500155,4,6:29,nan,Westbrook REBOUND (Off:1 Def:2),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19655,21500155,4,6:14,nan,Ibaka 5' Jump Bank Shot (13 PTS) (Westbrook 10 AST),91 - 98,201586,Serge Ibaka,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19656,21500155,4,5:49,Gasol 10' Turnaround Fadeaway (15 PTS),nan,91 - 100,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+19657,21500155,4,5:36,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19658,21500155,4,5:36,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+19659,21500155,4,5:36,SUB: Allen FOR Barnes,nan,nan,2440,Matt Barnes,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+19660,21500155,4,5:29,nan,Adams 6' Hook Shot (14 PTS) (Westbrook 11 AST),93 - 100,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19661,21500155,4,5:11,Lee Bad Pass Turnover (P1.T10),Westbrook STEAL (3 STL),nan,201584,Courtney Lee,MEM,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+19662,21500155,4,5:06,nan,Westbrook  Running Dunk (30 PTS),95 - 100,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+19663,21500155,4,4:46,Gasol 21' Jump Shot (17 PTS) (Lee 2 AST),nan,95 - 102,201188,Marc Gasol,MEM,201584,Courtney Lee,MEM,0,nan,nan,Made Shot ,nan
+19664,21500155,4,4:23,Green STEAL (1 STL),Westbrook Bad Pass Turnover (P8.T19),nan,201566,Russell Westbrook,OKC,203210,JaMychal Green,MEM,0,nan,nan,Turnover ,Bad Pass
+19665,21500155,4,4:18,Allen 1' Running Layup (4 PTS) (Chalmers 1 AST),nan,95 - 104,2754,Tony Allen,MEM,201596,Mario Chalmers,MEM,0,nan,nan,Made Shot ,nan
+19666,21500155,4,3:56,nan,MISS Waiters 21' Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19667,21500155,4,3:55,Lee REBOUND (Off:0 Def:1),nan,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19668,21500155,4,3:40,MISS Gasol 21' Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19669,21500155,4,3:40,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19670,21500155,4,3:40,nan,Ibaka L.B.FOUL (P2.PN) (D.Crawford),nan,201586,Serge Ibaka,OKC,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Loose Ball
+19671,21500155,4,3:40,Green Free Throw 1 of 2 (1 PTS),nan,95 - 105,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19672,21500155,4,3:40,SUB: Conley FOR Lee,nan,nan,201584,Courtney Lee,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+19673,21500155,4,3:40,SUB: Green FOR Chalmers,nan,nan,201596,Mario Chalmers,MEM,201145,Jeff Green,MEM,0,nan,nan,Substitution ,nan
+19674,21500155,4,3:40,Green Free Throw 2 of 2 (2 PTS),nan,95 - 106,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19675,21500155,4,3:23,nan,Thunder Timeout: Short (Reg.4 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+19676,21500155,4,3:19,nan,MISS Morrow 25' 3PT Jump Shot,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19677,21500155,4,3:19,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19678,21500155,4,3:13,Gasol P.FOUL (P5.PN) (S.Wall),nan,nan,201188,Marc Gasol,MEM,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+19679,21500155,4,3:13,nan,Westbrook Free Throw 1 of 2 (31 PTS),96 - 106,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19680,21500155,4,3:13,SUB: Randolph FOR Gasol,nan,nan,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+19681,21500155,4,3:13,nan,MISS Westbrook Free Throw 2 of 2,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19682,21500155,4,3:12,nan,Adams REBOUND (Off:5 Def:1),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19683,21500155,4,3:08,nan,Westbrook 11' Fadeaway Jumper (33 PTS) (Waiters 2 AST),98 - 106,201566,Russell Westbrook,OKC,203079,Dion Waiters,OKC,0,nan,nan,Made Shot ,nan
+19684,21500155,4,2:52,MISS Conley 10' Floating Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19685,21500155,4,2:49,nan,Adams REBOUND (Off:5 Def:2),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19686,21500155,4,2:41,nan,Waiters 1' Driving Layup (14 PTS),100 - 106,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+19687,21500155,4,2:41,GRIZZLIES Timeout: Regular (Full 4 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19688,21500155,4,2:41,SUB: Gasol FOR Randolph,nan,nan,2216,Zach Randolph,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+19689,21500155,4,2:27,nan,Ibaka S.FOUL (P3.PN) (S.Wall),nan,201586,Serge Ibaka,OKC,201145,Jeff Green,MEM,0,nan,nan,Foul ,Shooting
+19690,21500155,4,2:27,Green Free Throw 1 of 2 (17 PTS),nan,100 - 107,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19691,21500155,4,2:27,Green Free Throw 2 of 2 (18 PTS),nan,100 - 108,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19692,21500155,4,2:08,nan,Westbrook 25' 3PT Jump Shot (36 PTS),103 - 108,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+19693,21500155,4,1:45,MISS Gasol 21' Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19694,21500155,4,1:44,nan,Westbrook REBOUND (Off:1 Def:3),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19695,21500155,4,1:41,nan,Thunder Timeout: Regular (Reg.5 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19696,21500155,4,1:26,nan,Ibaka 2' Cutting Layup Shot (15 PTS) (Westbrook 12 AST),105 - 108,201586,Serge Ibaka,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19697,21500155,4,1:10,Conley 26' 3PT Jump Shot (22 PTS) (Gasol 6 AST),nan,105 - 111,201144,Mike Conley,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+19698,21500155,4,1:10,nan,nan,nan,552,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+19699,21500155,4,1:02,nan,Westbrook 26' 3PT Jump Shot (39 PTS),108 - 111,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+19700,21500155,4,0:46,Green 26' 3PT Jump Shot (5 PTS) (Conley 8 AST),nan,108 - 114,203210,JaMychal Green,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+19701,21500155,4,0:38,Allen P.FOUL (P3.PN) (S.Wall),nan,nan,2754,Tony Allen,MEM,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+19702,21500155,4,0:38,nan,MISS Westbrook Free Throw 1 of 2,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19703,21500155,4,0:38,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19704,21500155,4,0:38,SUB: Chalmers FOR Allen,nan,nan,2754,Tony Allen,MEM,201596,Mario Chalmers,MEM,0,nan,nan,Substitution ,nan
+19705,21500155,4,0:38,nan,Westbrook Free Throw 2 of 2 (40 PTS),109 - 114,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19706,21500155,4,0:38,GRIZZLIES Timeout: Regular (Full 5 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19707,21500155,4,0:38,GRIZZLIES Timeout: Short (Full 5 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+19708,21500155,4,0:34,nan,Westbrook Personal Take Foul (P1.PN) (D.Crawford),nan,201566,Russell Westbrook,OKC,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Personal Take
+19709,21500155,4,0:34,Chalmers Free Throw 1 of 2 (26 PTS),nan,109 - 115,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19710,21500155,4,0:34,SUB: Allen FOR Green,nan,nan,203210,JaMychal Green,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+19711,21500155,4,0:34,Chalmers Free Throw 2 of 2 (27 PTS),nan,109 - 116,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19712,21500155,4,0:34,nan,Thunder Timeout: Short (Reg.5 Short 2),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+19713,21500155,4,0:29,nan,MISS Westbrook 26' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19714,21500155,4,0:28,Green REBOUND (Off:1 Def:4),nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19715,21500155,4,0:27,nan,Adams Personal Take Foul (P5.PN) (D.Crawford),nan,203500,Steven Adams,OKC,201145,Jeff Green,MEM,0,nan,nan,Foul ,Personal Take
+19716,21500155,4,0:27,Green Free Throw 1 of 2 (19 PTS),nan,109 - 117,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19717,21500155,4,0:27,Green Free Throw 2 of 2 (20 PTS),nan,109 - 118,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19718,21500155,4,0:21,nan,Ibaka  3PT Jump Shot (18 PTS) (Westbrook 13 AST),112 - 118,201586,Serge Ibaka,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19719,21500155,4,0:19,nan,Adams P.FOUL (P6.PN) (S.Wall),nan,203500,Steven Adams,OKC,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Personal
+19720,21500155,4,0:19,nan,SUB: Collison FOR Adams,nan,203500,Steven Adams,OKC,2555,Nick Collison,OKC,0,nan,nan,Substitution ,nan
+19721,21500155,4,0:19,Chalmers Free Throw 1 of 2 (28 PTS),nan,112 - 119,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19722,21500155,4,0:19,Chalmers Free Throw 2 of 2 (29 PTS),nan,112 - 120,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19723,21500155,4,0:14,nan,Morrow 2' Cutting Layup Shot (2 PTS) (Westbrook 14 AST),114 - 120,201627,Anthony Morrow,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+19724,21500155,4,0:08,Allen  Running Dunk (6 PTS) (Conley 9 AST),nan,114 - 122,2754,Tony Allen,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+19725,21500155,4,0:02,nan,MISS Waiters 1' Reverse Layup,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19726,21500155,4,0:00,nan,Collison REBOUND (Off:1 Def:3),nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19727,21500155,4,0:00,nan,MISS Collison  Tip Layup Shot,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19728,21500155,4,0:00,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19729,21500155,4,0:00,nan,nan,114 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

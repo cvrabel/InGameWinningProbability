@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+15213,21500121,4,12:00,nan,nan,80 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+15214,21500121,4,11:37,Foye 19' Jump Shot (2 PTS) (Jokic 4 AST),nan,80 - 89,200751,Randy Foye,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+15215,21500121,4,11:20,nan,MISS Antetokounmpo 27' 3PT Jump Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15216,21500121,4,11:19,Papanikolaou REBOUND (Off:0 Def:2),nan,nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15217,21500121,4,11:08,MISS Jokic 1' Finger Roll Layup,Antetokounmpo BLOCK (2 BLK),nan,203999,Nikola Jokic,DEN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+15218,21500121,4,11:07,Foye REBOUND (Off:1 Def:1),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15219,21500121,4,11:03,MISS Arthur  3PT Jump Shot,nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15220,21500121,4,11:02,nan,Antetokounmpo REBOUND (Off:1 Def:5),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15221,21500121,4,10:41,Jokic STEAL (2 STL),Vasquez Bad Pass Turnover (P2.T15),nan,202349,Greivis Vasquez,MIL,203999,Nikola Jokic,DEN,0,nan,nan,Turnover ,Bad Pass
+15222,21500121,4,10:30,Jokic Out of Bounds - Bad Pass Turnover Turnover (P1.T7),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+15223,21500121,4,10:14,Arthur BLOCK (2 BLK),MISS Henson 4' Jump Shot,nan,203089,John Henson,MIL,0,nan,nan,201589,Darrell Arthur,DEN,Missed Shot ,nan
+15224,21500121,4,10:14,Jump Ball Arthur vs. Henson: Tip to Antetokounmpo,nan,nan,201589,Darrell Arthur,DEN,203089,John Henson,MIL,203507,Giannis Antetokounmpo,MIL,Jump Ball ,nan
+15225,21500121,4,10:14,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15226,21500121,4,10:04,nan,MISS Antetokounmpo 16' Fadeaway Jumper,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15227,21500121,4,10:03,Jokic REBOUND (Off:2 Def:2),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15228,21500121,4,9:54,Barton 9' Jump Shot (6 PTS),nan,80 - 91,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+15229,21500121,4,9:29,nan,MISS Vaughn 27' 3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15230,21500121,4,9:29,Foye REBOUND (Off:1 Def:2),nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15231,21500121,4,9:19,Foye 23' Step Back Jump Shot (4 PTS),nan,80 - 93,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+15232,21500121,4,9:19,nan,Bucks Timeout: Regular (Reg.3 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+15233,21500121,4,9:19,nan,nan,nan,342,Andy Toolson,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+15234,21500121,4,9:19,nan,SUB: Monroe FOR Henson,nan,203089,John Henson,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+15235,21500121,4,9:19,nan,SUB: Middleton FOR Vaughn,nan,1626173,Rashad Vaughn,MIL,203114,Khris Middleton,MIL,0,nan,nan,Substitution ,nan
+15236,21500121,4,9:14,Arthur P.FOUL (P2.T1) (J.Goble),nan,nan,201589,Darrell Arthur,DEN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+15237,21500121,4,9:05,Foye S.FOUL (P3.T2) (S.Wall),nan,nan,200751,Randy Foye,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting
+15238,21500121,4,9:05,nan,MISS Bayless Free Throw 1 of 3,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+15239,21500121,4,9:05,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+15240,21500121,4,9:05,nan,Bayless Free Throw 2 of 3 (9 PTS),81 - 93,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+15241,21500121,4,9:05,nan,Bayless Free Throw 3 of 3 (10 PTS),82 - 93,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+15242,21500121,4,8:53,Jokic 2' Layup (8 PTS) (Barton 1 AST),nan,82 - 95,203999,Nikola Jokic,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+15243,21500121,4,8:53,nan,Antetokounmpo S.FOUL (P5.T1) (S.Wall),nan,203507,Giannis Antetokounmpo,MIL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Shooting
+15244,21500121,4,8:53,MISS Jokic Free Throw 1 of 1,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+15245,21500121,4,8:52,nan,Antetokounmpo REBOUND (Off:1 Def:6),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15246,21500121,4,8:38,nan,MISS Vasquez 10' Floating Jump Shot,nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15247,21500121,4,8:37,Barton REBOUND (Off:0 Def:1),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15248,21500121,4,8:30,nan,Bayless Violation:Kicked Ball (T.Maddox),nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+15249,21500121,4,8:30,nan,SUB: O'Bryant III FOR Antetokounmpo,nan,203507,Giannis Antetokounmpo,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Substitution ,nan
+15250,21500121,4,8:19,MISS Jokic 3' Hook Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15251,21500121,4,8:18,Jokic REBOUND (Off:3 Def:2),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15252,21500121,4,8:09,MISS Papanikolaou  3PT Turnaround Jump Shot,nan,nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15253,21500121,4,8:07,Papanikolaou REBOUND (Off:1 Def:2),nan,nan,203123,Kostas Papanikolaou,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15254,21500121,4,8:04,Papanikolaou Bad Pass Turnover (P1.T8),Middleton STEAL (2 STL),nan,203123,Kostas Papanikolaou,DEN,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+15255,21500121,4,7:54,nan,MISS Middleton  3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15256,21500121,4,7:53,nan,O'Bryant III REBOUND (Off:3 Def:2),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15257,21500121,4,7:39,nan,MISS Bayless 6' Floating Jump Shot,nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15258,21500121,4,7:38,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15259,21500121,4,7:38,SUB: Gallinari FOR Papanikolaou,nan,nan,203123,Kostas Papanikolaou,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+15260,21500121,4,7:32,nan,MISS Middleton 20' Step Back Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15261,21500121,4,7:31,Barton REBOUND (Off:0 Def:2),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15262,21500121,4,7:15,Jokic Lost Ball Turnover (P2.T9),Bayless STEAL (1 STL),nan,203999,Nikola Jokic,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Turnover ,Lost Ball
+15263,21500121,4,7:12,Foye Shooting Block Foul (P4.T3) (T.Maddox),nan,nan,200751,Randy Foye,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting Block
+15264,21500121,4,7:12,nan,Bayless Free Throw 1 of 2 (11 PTS),83 - 95,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+15265,21500121,4,7:12,SUB: Faried FOR Arthur,nan,nan,201589,Darrell Arthur,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+15266,21500121,4,7:12,nan,Bayless Free Throw 2 of 2 (12 PTS),84 - 95,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+15267,21500121,4,7:01,nan,Bayless P.FOUL (P1.T2) (T.Maddox),nan,201573,Jerryd Bayless,MIL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Personal
+15268,21500121,4,7:01,SUB: Hickson FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,201581,JJ Hickson,DEN,0,nan,nan,Substitution ,nan
+15269,21500121,4,6:43,MISS Gallinari 24' 3PT Jump Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15270,21500121,4,6:42,nan,O'Bryant III REBOUND (Off:3 Def:3),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15271,21500121,4,6:32,nan,Bayless 3' Floating Jump Shot (14 PTS) (O'Bryant III 2 AST),86 - 95,201573,Jerryd Bayless,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Made Shot ,nan
+15272,21500121,4,6:32,NUGGETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+15273,21500121,4,6:32,SUB: Mudiay FOR Barton,nan,nan,203115,Will Barton,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+15274,21500121,4,6:06,MISS Foye 26' 3PT Jump Shot,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15275,21500121,4,6:05,nan,Bayless REBOUND (Off:1 Def:1),nan,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15276,21500121,4,6:05,nan,Bayless 2' Running Layup (16 PTS),88 - 95,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+15277,21500121,4,6:05,Mudiay S.FOUL (P1.T4) (T.Maddox),nan,nan,1626144,Emmanuel Mudiay,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Shooting
+15278,21500121,4,6:05,nan,Bayless Free Throw 1 of 1 (17 PTS),89 - 95,201573,Jerryd Bayless,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+15279,21500121,4,5:46,MISS Foye 24' 3PT Jump Shot,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15280,21500121,4,5:45,nan,O'Bryant III REBOUND (Off:3 Def:4),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15281,21500121,4,5:31,nan,MISS Vasquez 24' 3PT Jump Shot,nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15282,21500121,4,5:30,nan,Monroe REBOUND (Off:1 Def:8),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15283,21500121,4,5:16,nan,MISS Monroe 1' Layup,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15284,21500121,4,5:15,nan,Monroe REBOUND (Off:2 Def:8),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15285,21500121,4,5:15,nan,Monroe 1' Putback Layup (16 PTS),91 - 95,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+15286,21500121,4,4:58,Gallinari Traveling Turnover (P2.T10),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+15287,21500121,4,4:53,nan,Bayless 2' Layup (19 PTS) (Vasquez 7 AST),93 - 95,201573,Jerryd Bayless,MIL,202349,Greivis Vasquez,MIL,0,nan,nan,Made Shot ,nan
+15288,21500121,4,4:29,Hickson 10' Jump Shot (12 PTS) (Mudiay 11 AST),nan,93 - 97,201581,JJ Hickson,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+15289,21500121,4,4:10,nan,MISS Vasquez 25' 3PT Jump Shot,nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15290,21500121,4,4:07,Faried REBOUND (Off:3 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15291,21500121,4,4:05,Faried Bad Pass Turnover (P1.T11),Bayless STEAL (2 STL),nan,202702,Kenneth Faried,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Turnover ,Bad Pass
+15292,21500121,4,4:03,Gallinari STEAL (1 STL),Monroe Lost Ball Turnover (P2.T16),nan,202328,Greg Monroe,MIL,201568,Danilo Gallinari,DEN,0,nan,nan,Turnover ,Lost Ball
+15293,21500121,4,4:03,nan,Bayless P.FOUL (P2.T3) (J.Goble),nan,201573,Jerryd Bayless,MIL,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+15294,21500121,4,3:52,nan,O'Bryant III Personal Block Foul (P5.T4) (T.Maddox),nan,203948,Johnny O'Bryant III,MIL,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal Block
+15295,21500121,4,3:52,SUB: Harris FOR Foye,nan,nan,200751,Randy Foye,DEN,203914,Gary Harris,DEN,0,nan,nan,Substitution ,nan
+15296,21500121,4,3:37,MISS Mudiay 26' 3PT Fadeaway Jumper,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15297,21500121,4,3:36,Faried REBOUND (Off:4 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15298,21500121,4,3:33,Faried Lost Ball Turnover (P2.T12),Middleton STEAL (3 STL),nan,202702,Kenneth Faried,DEN,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Lost Ball
+15299,21500121,4,3:11,nan,Monroe  Dunk (18 PTS) (O'Bryant III 3 AST),95 - 97,202328,Greg Monroe,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Made Shot ,nan
+15300,21500121,4,2:48,nan,Bayless S.FOUL (P3.PN) (T.Maddox),nan,201573,Jerryd Bayless,MIL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+15301,21500121,4,2:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+15302,21500121,4,2:48,MISS Mudiay Free Throw 1 of 2,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+15303,21500121,4,2:48,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+15304,21500121,4,2:48,Mudiay Free Throw 2 of 2 (13 PTS),nan,95 - 98,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+15305,21500121,4,2:37,Harris STEAL (2 STL),Bayless Lost Ball Turnover (P3.T17),nan,201573,Jerryd Bayless,MIL,203914,Gary Harris,DEN,0,nan,nan,Turnover ,Lost Ball
+15306,21500121,4,2:19,Gallinari Bad Pass Turnover (P3.T13),Middleton STEAL (4 STL),nan,201568,Danilo Gallinari,DEN,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+15307,21500121,4,2:15,Faried BLOCK (3 BLK),MISS Bayless 2' Running Layup,nan,201573,Jerryd Bayless,MIL,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+15308,21500121,4,2:14,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15309,21500121,4,2:00,nan,MISS Vasquez 26' 3PT Jump Shot,nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15310,21500121,4,1:59,nan,O'Bryant III REBOUND (Off:4 Def:4),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15311,21500121,4,1:54,nan,Bayless 24' 3PT Jump Shot (22 PTS) (Vasquez 8 AST),98 - 98,201573,Jerryd Bayless,MIL,202349,Greivis Vasquez,MIL,0,nan,nan,Made Shot ,nan
+15312,21500121,4,1:37,MISS Hickson 1' Finger Roll Layup,nan,nan,201581,JJ Hickson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15313,21500121,4,1:37,nan,O'Bryant III REBOUND (Off:4 Def:5),nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15314,21500121,4,1:21,nan,O'Bryant III 18' Jump Shot (11 PTS) (Bayless 4 AST),100 - 98,203948,Johnny O'Bryant III,MIL,201573,Jerryd Bayless,MIL,0,nan,nan,Made Shot ,nan
+15315,21500121,4,1:21,NUGGETS Timeout: Short (Full 5 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+15316,21500121,4,1:18,Hickson OFF.Foul (P2) (J.Goble),nan,nan,201581,JJ Hickson,DEN,201573,Jerryd Bayless,MIL,0,nan,nan,Foul ,Offensive
+15317,21500121,4,1:18,Hickson Foul Turnover (P1.T14),nan,nan,201581,JJ Hickson,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+15318,21500121,4,0:57,nan,MISS Monroe 9' Jump Shot,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15319,21500121,4,0:56,Faried REBOUND (Off:4 Def:3),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15320,21500121,4,0:47,nan,Bayless P.FOUL (P4.PN) (T.Maddox),nan,201573,Jerryd Bayless,MIL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Personal
+15321,21500121,4,0:47,Mudiay Free Throw 1 of 2 (14 PTS),nan,100 - 99,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+15322,21500121,4,0:47,MISS Mudiay Free Throw 2 of 2,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+15323,21500121,4,0:46,nan,Vasquez REBOUND (Off:0 Def:2),nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15324,21500121,4,0:46,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+15325,21500121,4,0:35,nan,MISS Middleton 26' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15326,21500121,4,0:32,Faried REBOUND (Off:4 Def:4),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15327,21500121,4,0:27,nan,O'Bryant III S.FOUL (P6.PN) (S.Wall),nan,203948,Johnny O'Bryant III,MIL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+15328,21500121,4,0:27,nan,SUB: Antetokounmpo FOR O'Bryant III,nan,203948,Johnny O'Bryant III,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+15329,21500121,4,0:27,Mudiay Free Throw 1 of 2 (15 PTS),nan,100 - 100,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+15330,21500121,4,0:27,Mudiay Free Throw 2 of 2 (16 PTS),nan,100 - 101,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+15331,21500121,4,0:27,nan,Bucks Timeout: Short (Reg.4 Short 1),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+15332,21500121,4,0:27,SUB: Barton FOR Hickson,nan,nan,201581,JJ Hickson,DEN,203115,Will Barton,DEN,0,nan,nan,Substitution ,nan
+15333,21500121,4,0:17,nan,Antetokounmpo 4' Fadeaway Jumper (12 PTS) (Vasquez 9 AST),102 - 101,203507,Giannis Antetokounmpo,MIL,202349,Greivis Vasquez,MIL,0,nan,nan,Made Shot ,nan
+15334,21500121,4,0:17,NUGGETS Timeout: Regular (Full 6 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+15335,21500121,4,0:05,MISS Gallinari  3PT Turnaround Fadeaway Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15336,21500121,4,0:05,Faried REBOUND (Off:5 Def:4),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15337,21500121,4,0:05,Faried 2' Putback Layup (19 PTS),nan,102 - 103,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+15338,21500121,4,0:05,nan,Bucks Timeout: Short (Reg.4 Short 2),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+15339,21500121,4,0:00,nan,MISS Middleton 20' Fadeaway Jumper,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+15340,21500121,4,0:00,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+15341,21500121,4,0:00,nan,nan,102 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

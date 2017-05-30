@@ -1,0 +1,112 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+207338,21600435,4,12:00,nan,nan,91 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+207339,21600435,4,11:45,Knight 28' 3PT Jump Shot (17 PTS),nan,91 - 87,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+207340,21600435,4,11:23,nan,Gordon 26' 3PT Step Back Jump Shot (17 PTS),94 - 87,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+207341,21600435,4,11:11,MISS Knight 13' Fadeaway Jumper,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207342,21600435,4,11:09,nan,Gordon REBOUND (Off:0 Def:2),nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207343,21600435,4,11:00,nan,Nene 16' Jump Shot (9 PTS) (Beverley 5 AST),96 - 87,2403,Nene,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+207344,21600435,4,10:44,Warren 2' Cutting Layup Shot (17 PTS) (Dudley 1 AST),nan,96 - 89,203933,TJ Warren,PHX,201162,Jared Dudley,PHX,0,nan,nan,Made Shot ,nan
+207345,21600435,4,10:34,Knight P.FOUL (P2.T1) (J.Orr),nan,nan,202688,Brandon Knight,PHX,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal
+207346,21600435,4,10:28,nan,Nene 2' Cutting Layup Shot (11 PTS) (Beverley 6 AST),98 - 89,2403,Nene,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+207347,21600435,4,10:28,Ulis S.FOUL (P1.T2) (B.Barnaky),nan,nan,1627755,Tyler Ulis,PHX,2403,Nene,HOU,0,nan,nan,Foul ,Shooting
+207348,21600435,4,10:28,nan,Nene Free Throw 1 of 1 (12 PTS),99 - 89,2403,Nene,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+207349,21600435,4,10:09,nan,Brewer P.FOUL (P2.T1) (J.Orr),nan,201147,Corey Brewer,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+207350,21600435,4,10:00,nan,Brewer P.FOUL (P3.T2) (J.Orr),nan,201147,Corey Brewer,HOU,201162,Jared Dudley,PHX,0,nan,nan,Foul ,Personal
+207351,21600435,4,9:53,Ulis Lost Ball Turnover (P1.T8),Gordon STEAL (1 STL),nan,1627755,Tyler Ulis,PHX,201569,Eric Gordon,HOU,0,nan,nan,Turnover ,Lost Ball
+207352,21600435,4,9:49,nan,Dekker 1' Driving Layup (2 PTS),101 - 89,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+207353,21600435,4,9:48,SUNS Timeout: Regular (Full 4 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+207354,21600435,4,9:48,SUB: Bledsoe FOR Ulis,nan,nan,1627755,Tyler Ulis,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+207355,21600435,4,9:37,Dudley 21' Jump Shot (2 PTS) (Bledsoe 5 AST),nan,101 - 91,201162,Jared Dudley,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+207356,21600435,4,9:17,nan,MISS Gordon 28' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207357,21600435,4,9:15,nan,Beverley REBOUND (Off:2 Def:4),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207358,21600435,4,9:13,nan,Beverley Out of Bounds Lost Ball Turnover (P2.T10),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+207359,21600435,4,8:51,Len 4' Hook Shot (7 PTS) (Dudley 2 AST),nan,101 - 93,203458,Alex Len,PHX,201162,Jared Dudley,PHX,0,nan,nan,Made Shot ,nan
+207360,21600435,4,8:39,nan,MISS Gordon  Driving Layup,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207361,21600435,4,8:37,Dudley REBOUND (Off:0 Def:2),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207362,21600435,4,8:29,MISS Knight 22' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207363,21600435,4,8:26,nan,Brewer REBOUND (Off:0 Def:2),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207364,21600435,4,8:15,nan,Beverley 25' 3PT Jump Shot (16 PTS) (Gordon 3 AST),104 - 93,201976,Patrick Beverley,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+207365,21600435,4,7:48,MISS Len 12' Jump Shot,Nene BLOCK (2 BLK),nan,203458,Alex Len,PHX,0,nan,nan,2403,Nene,HOU,Missed Shot ,nan
+207366,21600435,4,7:46,Warren REBOUND (Off:1 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207367,21600435,4,7:44,Warren 3' Putback Layup (19 PTS),nan,104 - 95,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+207368,21600435,4,7:24,nan,MISS Brewer 1' Driving Reverse Layup,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207369,21600435,4,7:21,Warren REBOUND (Off:1 Def:4),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207370,21600435,4,7:15,MISS Dudley 24' 3PT Jump Shot,nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207371,21600435,4,7:11,nan,Beverley REBOUND (Off:2 Def:5),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207372,21600435,4,7:06,nan,Gordon 28' 3PT Jump Shot (20 PTS) (Beverley 7 AST),107 - 95,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+207373,21600435,4,6:46,MISS Warren 18' Step Back Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207374,21600435,4,6:42,nan,Beverley REBOUND (Off:2 Def:6),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207375,21600435,4,6:40,nan,Gordon 26' 3PT Running Jump Shot (23 PTS) (Beverley 8 AST),110 - 95,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+207376,21600435,4,6:39,SUNS Timeout: Regular (Full 5 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+207377,21600435,4,6:39,SUB: Booker FOR Dudley,nan,nan,201162,Jared Dudley,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+207378,21600435,4,6:39,nan,SUB: Harden FOR Nene,nan,2403,Nene,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+207379,21600435,4,6:39,nan,SUB: Ariza FOR Brewer,nan,201147,Corey Brewer,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+207380,21600435,4,6:39,nan,SUB: Harrell FOR Gordon,nan,201569,Eric Gordon,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+207381,21600435,4,6:22,Len  Cutting Dunk Shot (9 PTS) (Booker 6 AST),nan,110 - 97,203458,Alex Len,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+207382,21600435,4,5:58,nan,Harrell 1' Layup (15 PTS) (Harden 14 AST),112 - 97,1626149,Montrezl Harrell,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+207383,21600435,4,5:44,Knight Offensive Charge Foul (P3.T3) (J.Orr),nan,nan,202688,Brandon Knight,PHX,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Offensive Charge
+207384,21600435,4,5:44,Knight Foul Turnover (P2.T9),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+207385,21600435,4,5:44,nan,SUB: Anderson FOR Dekker,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+207386,21600435,4,5:27,nan,Harrell  Reverse Dunk (17 PTS) (Beverley 9 AST),114 - 97,1626149,Montrezl Harrell,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+207387,21600435,4,5:04,Booker 29' 3PT Jump Shot (22 PTS) (Bledsoe 6 AST),nan,114 - 100,1626164,Devin Booker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+207388,21600435,4,4:50,Warren P.FOUL (P5.T4) (B.Barnaky),nan,nan,203933,TJ Warren,PHX,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Personal
+207389,21600435,4,4:50,SUB: Tucker FOR Len,nan,nan,203458,Alex Len,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+207390,21600435,4,4:44,nan,Harden 26' 3PT Jump Shot (24 PTS) (Harrell 2 AST),117 - 100,201935,James Harden,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Made Shot ,nan
+207391,21600435,4,4:27,MISS Bledsoe 26' 3PT Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207392,21600435,4,4:25,nan,Harden REBOUND (Off:1 Def:4),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207393,21600435,4,4:19,nan,Harden 26' 3PT Pullup Jump Shot (27 PTS),120 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+207394,21600435,4,4:17,SUNS Timeout: Regular (Full 6 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+207395,21600435,4,4:17,SUB: Len FOR Knight,nan,nan,202688,Brandon Knight,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+207396,21600435,4,4:03,Bledsoe 25' 3PT Jump Shot (14 PTS) (Booker 7 AST),nan,120 - 103,202339,Eric Bledsoe,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+207397,21600435,4,3:40,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207398,21600435,4,3:38,nan,Anderson REBOUND (Off:1 Def:3),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207399,21600435,4,3:26,Bledsoe Shooting Block Foul (P2.PN) (B.Barnaky),nan,nan,202339,Eric Bledsoe,PHX,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting Block
+207400,21600435,4,3:26,nan,Beverley Free Throw 1 of 2 (17 PTS),121 - 103,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+207401,21600435,4,3:26,nan,Beverley Free Throw 2 of 2 (18 PTS),122 - 103,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+207402,21600435,4,3:17,MISS Bledsoe 25' 3PT Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207403,21600435,4,3:14,nan,Anderson REBOUND (Off:1 Def:4),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207404,21600435,4,3:05,nan,MISS Harden 11' Floating Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207405,21600435,4,3:02,Len REBOUND (Off:0 Def:5),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207406,21600435,4,2:58,MISS Bledsoe 7' Jump Shot,Beverley BLOCK (1 BLK),nan,202339,Eric Bledsoe,PHX,0,nan,nan,201976,Patrick Beverley,HOU,Missed Shot ,nan
+207407,21600435,4,2:53,Bledsoe REBOUND (Off:2 Def:0),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207408,21600435,4,2:53,Bledsoe 1' Tip Layup Shot (16 PTS),nan,122 - 105,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+207409,21600435,4,2:45,nan,Ariza  Cutting Dunk Shot (10 PTS) (Harrell 3 AST),124 - 105,2772,Trevor Ariza,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Made Shot ,nan
+207410,21600435,4,2:27,nan,Ariza S.FOUL (P3.T3) (J.Orr),nan,2772,Trevor Ariza,HOU,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+207411,21600435,4,2:27,Booker Free Throw 1 of 2 (23 PTS),nan,124 - 106,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+207412,21600435,4,2:27,nan,SUB: Gordon FOR Beverley,nan,201976,Patrick Beverley,HOU,201569,Eric Gordon,HOU,0,nan,nan,Substitution ,nan
+207413,21600435,4,2:27,Booker Free Throw 2 of 2 (24 PTS),nan,124 - 107,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+207414,21600435,4,2:19,nan,nan,nan,200782,PJ Tucker,PHX,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Double Technical
+207415,21600435,4,2:19,SUB: Williams FOR Tucker,nan,nan,200782,PJ Tucker,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+207416,21600435,4,2:19,SUB: Bender FOR Bledsoe,nan,nan,202339,Eric Bledsoe,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Substitution ,nan
+207417,21600435,4,2:19,SUB: Ulis FOR Warren,nan,nan,203933,TJ Warren,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+207418,21600435,4,2:19,SUB: Chriss FOR Len,nan,nan,203458,Alex Len,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+207419,21600435,4,2:19,nan,SUB: Beverley FOR Anderson,nan,201583,Ryan Anderson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+207420,21600435,4,2:19,nan,SUB: Wiltjer FOR Harden,nan,201935,James Harden,HOU,1627787,Kyle Wiltjer,HOU,0,nan,nan,Substitution ,nan
+207421,21600435,4,2:15,Bender STEAL (1 STL),Harrell Bad Pass Turnover (P3.T11),nan,1626149,Montrezl Harrell,HOU,1627733,Dragan Bender,PHX,0,nan,nan,Turnover ,Bad Pass
+207422,21600435,4,2:11,Booker 2' Running Layup (26 PTS),nan,124 - 109,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+207423,21600435,4,1:52,Booker P.FOUL (P3.PN) (B.Barnaky),nan,nan,1626164,Devin Booker,PHX,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal
+207424,21600435,4,1:52,nan,Gordon Free Throw 1 of 2 (24 PTS),125 - 109,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+207425,21600435,4,1:52,nan,MISS Gordon Free Throw 2 of 2,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+207426,21600435,4,1:51,Williams REBOUND (Off:0 Def:1),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207427,21600435,4,1:43,nan,Gordon P.FOUL (P4.T4) (B.Barnaky),nan,201569,Eric Gordon,HOU,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Personal
+207428,21600435,4,1:43,nan,SUB: McDaniels FOR Gordon,nan,201569,Eric Gordon,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+207429,21600435,4,1:32,MISS Booker 11' Pullup Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207430,21600435,4,1:30,Williams REBOUND (Off:1 Def:1),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207431,21600435,4,1:29,MISS Williams 2' Layup,nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207432,21600435,4,1:27,nan,Harrell REBOUND (Off:0 Def:2),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207433,21600435,4,1:07,nan,MISS McDaniels 9' Turnaround Jump Shot,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207434,21600435,4,1:04,Chriss REBOUND (Off:1 Def:2),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207435,21600435,4,1:01,MISS Ulis 14' Jump Shot,Harrell BLOCK (3 BLK),nan,1627755,Tyler Ulis,PHX,0,nan,nan,1626149,Montrezl Harrell,HOU,Missed Shot ,nan
+207436,21600435,4,0:58,nan,Beverley REBOUND (Off:2 Def:7),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207437,21600435,4,0:36,nan,MISS Beverley 16' Fadeaway Jumper,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207438,21600435,4,0:32,Williams REBOUND (Off:1 Def:2),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207439,21600435,4,0:29,Booker  Driving Dunk (28 PTS),nan,125 - 111,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+207440,21600435,4,0:29,nan,Wiltjer S.FOUL (P1.PN) (B.Barnaky),nan,1627787,Kyle Wiltjer,HOU,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+207441,21600435,4,0:29,MISS Booker Free Throw 1 of 1,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+207442,21600435,4,0:28,Booker REBOUND (Off:2 Def:4),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207443,21600435,4,0:25,MISS Booker 5' Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207444,21600435,4,0:21,nan,Harrell REBOUND (Off:0 Def:3),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207445,21600435,4,0:00,nan,Rockets Turnover: Shot Clock (T#12),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+207446,21600435,4,0:00,MISS Chriss 52' 3PT Jump Shot,nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+207447,21600435,4,0:00,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+207448,21600435,4,0:00,nan,nan,125 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

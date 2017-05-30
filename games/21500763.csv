@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+95286,21500763,4,12:00,nan,nan,70 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+95287,21500763,4,11:44,nan,Holiday S.FOUL (P1.T1) (C.Kirkland),nan,201950,Jrue Holiday,NOP,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+95288,21500763,4,11:44,Irving Free Throw 1 of 2 (22 PTS),nan,70 - 75,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95289,21500763,4,11:44,Irving Free Throw 2 of 2 (23 PTS),nan,70 - 76,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95290,21500763,4,11:32,Thompson S.FOUL (P4.T1) (G.Petraitis),nan,nan,202684,Tristan Thompson,CLE,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Shooting
+95291,21500763,4,11:32,nan,Anderson Free Throw 1 of 2 (5 PTS),71 - 76,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95292,21500763,4,11:32,nan,Anderson Free Throw 2 of 2 (6 PTS),72 - 76,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95293,21500763,4,11:20,Varejao Bad Pass Turnover (P1.T10),Holiday STEAL (1 STL),nan,2760,Anderson Varejao,CLE,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+95294,21500763,4,11:14,nan,MISS Anderson 25' 3PT Jump Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95295,21500763,4,11:12,Thompson REBOUND (Off:7 Def:8),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95296,21500763,4,10:59,Irving 12' Pullup Jump Shot (25 PTS),nan,72 - 78,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95297,21500763,4,10:42,nan,MISS Holiday 25' 3PT Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95298,21500763,4,10:41,Varejao REBOUND (Off:0 Def:5),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95299,21500763,4,10:32,nan,Gee P.FOUL (P1.T2) (G.Petraitis),nan,202087,Alonzo Gee,NOP,2760,Anderson Varejao,CLE,0,nan,nan,Foul ,Personal
+95300,21500763,4,10:32,SUB: Jefferson FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+95301,21500763,4,10:26,MISS Irving 25' 3PT Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95302,21500763,4,10:25,nan,Asik REBOUND (Off:4 Def:8),nan,201600,Omer Asik,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95303,21500763,4,10:15,nan,MISS Holiday 6' Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95304,21500763,4,10:12,nan,Holiday REBOUND (Off:2 Def:1),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95305,21500763,4,10:10,Varejao P.FOUL (P3.T2) (T.Washington),nan,nan,2760,Anderson Varejao,CLE,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Personal
+95306,21500763,4,10:04,nan,Holiday 16' Jump Shot (12 PTS),74 - 78,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+95307,21500763,4,9:48,Shumpert Bad Pass Turnover (P2.T11),Holiday STEAL (2 STL),nan,202697,Iman Shumpert,CLE,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+95308,21500763,4,9:44,Varejao BLOCK (1 BLK),MISS Douglas 3' Driving Layup,nan,201962,Toney Douglas,NOP,0,nan,nan,2760,Anderson Varejao,CLE,Missed Shot ,nan
+95309,21500763,4,9:44,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95310,21500763,4,9:38,nan,MISS Holiday 4' Jump Bank Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95311,21500763,4,9:38,Varejao REBOUND (Off:0 Def:6),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95312,21500763,4,9:29,nan,Douglas P.FOUL (P2.T3) (T.Washington),nan,201962,Toney Douglas,NOP,2590,Mo Williams,CLE,0,nan,nan,Foul ,Personal
+95313,21500763,4,9:22,MISS Jefferson 24' 3PT Jump Shot,nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95314,21500763,4,9:21,nan,Gee REBOUND (Off:2 Def:2),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95315,21500763,4,9:10,Varejao BLOCK (2 BLK),MISS Anderson 3' Cutting Layup Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,2760,Anderson Varejao,CLE,Missed Shot ,nan
+95316,21500763,4,9:09,Jefferson REBOUND (Off:0 Def:2),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95317,21500763,4,9:04,Irving Out of Bounds Lost Ball Turnover (P3.T12),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+95318,21500763,4,8:53,nan,MISS Holiday 6' Driving Floating Bank Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95319,21500763,4,8:52,Varejao REBOUND (Off:0 Def:7),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95320,21500763,4,8:52,nan,Gee P.FOUL (P2.T4) (C.Kirkland),nan,202087,Alonzo Gee,NOP,2760,Anderson Varejao,CLE,0,nan,nan,Foul ,Personal
+95321,21500763,4,8:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+95322,21500763,4,8:52,SUB: Smith FOR Williams,nan,nan,2590,Mo Williams,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+95323,21500763,4,8:52,nan,SUB: Davis FOR Asik,nan,201600,Omer Asik,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+95324,21500763,4,8:35,Jefferson 24' 3PT Jump Shot (3 PTS) (Irving 3 AST),nan,74 - 81,2210,Richard Jefferson,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+95325,21500763,4,8:25,nan,Davis OFF.Foul (P3) (T.Washington),nan,203076,Anthony Davis,NOP,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Offensive
+95326,21500763,4,8:25,nan,Davis Foul Turnover (P2.T7),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+95327,21500763,4,8:11,MISS Smith 27' 3PT Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95328,21500763,4,8:10,nan,Holiday REBOUND (Off:2 Def:2),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95329,21500763,4,8:03,nan,SUB: Cole FOR Douglas,nan,201962,Toney Douglas,NOP,202708,Norris Cole,NOP,0,nan,nan,Substitution ,nan
+95330,21500763,4,8:03,Jump Ball Shumpert vs. Holiday: Tip to Davis,nan,nan,202697,Iman Shumpert,CLE,201950,Jrue Holiday,NOP,203076,Anthony Davis,NOP,Jump Ball ,nan
+95331,21500763,4,7:47,Varejao S.FOUL (P4.T3) (G.Petraitis),nan,nan,2760,Anderson Varejao,CLE,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+95332,21500763,4,7:47,nan,MISS Davis Free Throw 1 of 2,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95333,21500763,4,7:47,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+95334,21500763,4,7:47,SUB: James FOR Jefferson,nan,nan,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+95335,21500763,4,7:47,nan,SUB: Cunningham FOR Gee,nan,202087,Alonzo Gee,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+95336,21500763,4,7:47,nan,Davis Free Throw 2 of 2 (20 PTS),75 - 81,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95337,21500763,4,7:24,James 15' Turnaround Fadeaway (20 PTS),nan,75 - 83,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95338,21500763,4,7:09,nan,Davis  Dunk (22 PTS) (Anderson 2 AST),77 - 83,203076,Anthony Davis,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+95339,21500763,4,6:55,Smith  Cutting Dunk Shot (17 PTS) (James 8 AST),nan,77 - 85,2747,JR Smith,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+95340,21500763,4,6:44,Smith S.FOUL (P1.T4) (C.Kirkland),nan,nan,2747,JR Smith,CLE,202708,Norris Cole,NOP,0,nan,nan,Foul ,Shooting
+95341,21500763,4,6:44,nan,Cole Free Throw 1 of 2 (25 PTS),78 - 85,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95342,21500763,4,6:44,nan,Cole Free Throw 2 of 2 (26 PTS),79 - 85,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95343,21500763,4,6:23,James 14' Turnaround Fadeaway (22 PTS),nan,79 - 87,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95344,21500763,4,6:11,nan,MISS Cole 19' Jump Shot,nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95345,21500763,4,6:11,Smith REBOUND (Off:0 Def:4),nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95346,21500763,4,6:02,Irving 6' Jump Shot (27 PTS),nan,79 - 89,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95347,21500763,4,5:50,nan,MISS Holiday 2' Driving Layup,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95348,21500763,4,5:48,Varejao REBOUND (Off:0 Def:8),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95349,21500763,4,5:32,Irving 17' Pullup Jump Shot (29 PTS),nan,79 - 91,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95350,21500763,4,5:32,nan,Pelicans Timeout: Regular (Reg.4 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95351,21500763,4,5:11,nan,Davis 16' Jump Shot (24 PTS) (Cunningham 2 AST),81 - 91,203076,Anthony Davis,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Made Shot ,nan
+95352,21500763,4,4:40,MISS Irving 24' 3PT Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95353,21500763,4,4:40,nan,Cunningham REBOUND (Off:0 Def:3),nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95354,21500763,4,4:27,nan,MISS Anderson 26' 3PT Jump Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95355,21500763,4,4:27,nan,Davis REBOUND (Off:4 Def:6),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95356,21500763,4,4:19,nan,Cunningham  3PT Jump Shot (6 PTS) (Holiday 4 AST),84 - 91,201967,Dante Cunningham,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+95357,21500763,4,3:57,MISS Irving 25' 3PT Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95358,21500763,4,3:56,Varejao REBOUND (Off:1 Def:8),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95359,21500763,4,3:34,Smith  3PT Jump Shot (20 PTS),nan,84 - 94,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95360,21500763,4,3:21,nan,MISS Cole 25' 3PT Jump Shot,nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95361,21500763,4,3:21,Shumpert REBOUND (Off:0 Def:3),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95362,21500763,4,3:10,MISS Smith 26' 3PT Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95363,21500763,4,3:10,nan,Davis REBOUND (Off:4 Def:7),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95364,21500763,4,3:02,nan,MISS Cunningham 24' 3PT Jump Shot,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95365,21500763,4,3:01,Irving REBOUND (Off:0 Def:4),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95366,21500763,4,2:38,nan,Cunningham P.FOUL (P3.PN) (G.Petraitis),nan,201967,Dante Cunningham,NOP,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+95367,21500763,4,2:38,CAVALIERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95368,21500763,4,2:38,James Free Throw 1 of 2 (23 PTS),nan,84 - 95,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95369,21500763,4,2:38,James Free Throw 2 of 2 (24 PTS),nan,84 - 96,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95370,21500763,4,2:25,nan,MISS Holiday 14' Step Back Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95371,21500763,4,2:24,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95372,21500763,4,2:04,MISS Shumpert 24' 3PT Jump Shot,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95373,21500763,4,2:04,nan,Holiday REBOUND (Off:2 Def:3),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95374,21500763,4,1:56,James STEAL (1 STL),Anderson Bad Pass Turnover (P1.T8),nan,201583,Ryan Anderson,NOP,2544,LeBron James,CLE,0,nan,nan,Turnover ,Bad Pass
+95375,21500763,4,1:39,James 1' Driving Layup (26 PTS),nan,84 - 98,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+95376,21500763,4,1:39,nan,Cunningham S.FOUL (P4.PN) (C.Kirkland),nan,201967,Dante Cunningham,NOP,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+95377,21500763,4,1:39,James Free Throw 1 of 1 (27 PTS),nan,84 - 99,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+95378,21500763,4,1:39,nan,Pelicans Timeout: Regular (Reg.5 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95379,21500763,4,1:26,Shumpert BLOCK (1 BLK),MISS Davis 4' Turnaround Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,202697,Iman Shumpert,CLE,Missed Shot ,nan
+95380,21500763,4,1:26,James REBOUND (Off:0 Def:3),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95381,21500763,4,1:26,CAVALIERS Timeout: Short (Full 4 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+95382,21500763,4,1:26,SUB: Cunningham FOR James,nan,nan,2544,LeBron James,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Substitution ,nan
+95383,21500763,4,1:26,SUB: Jefferson FOR Smith,nan,nan,2747,JR Smith,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+95384,21500763,4,1:26,SUB: Williams FOR Irving,nan,nan,202681,Kyrie Irving,CLE,2590,Mo Williams,CLE,0,nan,nan,Substitution ,nan
+95385,21500763,4,1:26,nan,SUB: Dejean-Jones FOR Holiday,nan,201950,Jrue Holiday,NOP,1626214,Bryce Dejean-Jones,NOP,0,nan,nan,Substitution ,nan
+95386,21500763,4,1:26,nan,SUB: Gee FOR Cunningham,nan,201967,Dante Cunningham,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Substitution ,nan
+95387,21500763,4,1:04,CAVALIERS Turnover: Shot Clock (T#13),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+95388,21500763,4,0:45,nan,MISS Anderson 14' Turnaround Fadeaway Shot,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95389,21500763,4,0:43,Varejao REBOUND (Off:1 Def:9),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95390,21500763,4,0:33,Williams OFF.Foul (P1) (G.Petraitis),nan,nan,2590,Mo Williams,CLE,1626214,Bryce Dejean-Jones,NOP,0,nan,nan,Foul ,Offensive
+95391,21500763,4,0:33,Williams Foul Turnover (P2.T14),nan,nan,2590,Mo Williams,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+95392,21500763,4,0:16,Shumpert BLOCK (2 BLK),MISS Davis 7' Turnaround Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,202697,Iman Shumpert,CLE,Missed Shot ,nan
+95393,21500763,4,0:14,Shumpert REBOUND (Off:0 Def:4),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95394,21500763,4,0:00,nan,nan,84 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

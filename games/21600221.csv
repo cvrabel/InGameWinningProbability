@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+180809,21600221,4,12:00,nan,nan,61 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+180810,21600221,4,11:42,MISS Johnson 6' Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180811,21600221,4,11:41,Lyles REBOUND (Off:1 Def:6),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180812,21600221,4,11:39,Lyles 2' Layup (5 PTS),nan,61 - 86,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+180813,21600221,4,11:25,nan,MISS Faried 2' Alley Oop Layup,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180814,21600221,4,11:24,Withey REBOUND (Off:0 Def:4),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180815,21600221,4,11:21,Withey Traveling Turnover (P1.T9),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+180816,21600221,4,11:06,nan,Hernangomez 25' 3PT Jump Shot (6 PTS) (Gee 1 AST),64 - 86,1627823,Juan Hernangomez,DEN,202087,Alonzo Gee,DEN,0,nan,nan,Made Shot ,nan
+180817,21600221,4,10:46,Lyles Offensive Charge Foul (P5.T1) (D.Taylor),nan,nan,1626168,Trey Lyles,UTA,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Offensive Charge
+180818,21600221,4,10:46,Lyles Foul Turnover (P2.T10),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+180819,21600221,4,10:46,SUB: Ingles FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+180820,21600221,4,10:35,Withey S.FOUL (P3.T2) (M.Lindsay),nan,nan,203481,Jeff Withey,UTA,1627736,Malik Beasley,DEN,0,nan,nan,Foul ,Shooting
+180821,21600221,4,10:35,nan,Beasley Free Throw 1 of 2 (1 PTS),65 - 86,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180822,21600221,4,10:35,nan,MISS Beasley Free Throw 2 of 2,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180823,21600221,4,10:34,Mack REBOUND (Off:0 Def:1),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180824,21600221,4,10:09,MISS Ingles 24' 3PT Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180825,21600221,4,10:09,nan,Faried REBOUND (Off:5 Def:5),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180826,21600221,4,10:01,Hayward STEAL (1 STL),Murray Bad Pass Turnover (P2.T7),nan,1627750,Jamal Murray,DEN,202330,Gordon Hayward,UTA,0,nan,nan,Turnover ,Bad Pass
+180827,21600221,4,9:55,Ingles 3' Running Finger Roll Layup (2 PTS) (Hayward 7 AST),nan,65 - 88,204060,Joe Ingles,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+180828,21600221,4,9:55,nan,Nuggets Timeout: Regular (Reg.5 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180829,21600221,4,9:38,nan,MISS Beasley 20' Pullup Jump Shot,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180830,21600221,4,9:37,Hayward REBOUND (Off:0 Def:4),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180831,21600221,4,9:27,nan,Beasley S.FOUL (P1.T1) (M.Lindsay),nan,1627736,Malik Beasley,DEN,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+180832,21600221,4,9:27,Hayward Free Throw 1 of 2 (14 PTS),nan,65 - 89,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180833,21600221,4,9:27,Hayward Free Throw 2 of 2 (15 PTS),nan,65 - 90,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180834,21600221,4,9:10,nan,Beasley 18' Pullup Jump Shot (3 PTS),67 - 90,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180835,21600221,4,8:49,MISS Mack 3' Layup,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180836,21600221,4,8:48,Withey REBOUND (Off:1 Def:4),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180837,21600221,4,8:47,Withey 2' Layup (3 PTS),nan,67 - 92,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+180838,21600221,4,8:32,nan,Murray 6' Fadeaway Jumper (21 PTS),69 - 92,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180839,21600221,4,8:14,Hayward  Alley Oop Dunk (17 PTS) (Ingles 1 AST),nan,69 - 94,202330,Gordon Hayward,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+180840,21600221,4,7:58,Ingles P.FOUL (P1.T3) (D.Taylor),nan,nan,204060,Joe Ingles,UTA,1627750,Jamal Murray,DEN,0,nan,nan,Foul ,Personal
+180841,21600221,4,7:52,nan,MISS Murray 24' 3PT Jump Shot,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180842,21600221,4,7:50,nan,Hernangomez REBOUND (Off:1 Def:2),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180843,21600221,4,7:45,nan,MISS Beasley 24' 3PT Jump Shot,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180844,21600221,4,7:44,Hayward REBOUND (Off:0 Def:5),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180845,21600221,4,7:31,Hayward 3' Driving Layup (19 PTS),nan,69 - 96,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+180846,21600221,4,7:31,nan,Faried S.FOUL (P4.T2) (M.Lindsay),nan,202702,Kenneth Faried,DEN,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+180847,21600221,4,7:31,nan,SUB: Jokic FOR Faried,nan,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+180848,21600221,4,7:31,SUB: Gobert FOR Withey,nan,nan,203481,Jeff Withey,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+180849,21600221,4,7:31,SUB: G. Hill FOR Mack,nan,nan,202714,Shelvin Mack,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+180850,21600221,4,7:31,Hayward Free Throw 1 of 1 (20 PTS),nan,69 - 97,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+180851,21600221,4,7:19,nan,MISS Jokic 21' Jump Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180852,21600221,4,7:18,Gobert REBOUND (Off:2 Def:10),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180853,21600221,4,7:08,G. Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T11),nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+180854,21600221,4,6:54,nan,Jokic 19' Jump Shot (6 PTS) (Beasley 1 AST),71 - 97,203999,Nikola Jokic,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Made Shot ,nan
+180855,21600221,4,6:46,Hayward Backcourt Turnover (P2.T12),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+180856,21600221,4,6:34,nan,MISS Murray 2' Layup,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180857,21600221,4,6:33,Gobert REBOUND (Off:2 Def:11),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180858,21600221,4,6:26,nan,Beasley S.FOUL (P2.T3) (S.Foster),nan,1627736,Malik Beasley,DEN,201588,George Hill,UTA,0,nan,nan,Foul ,Shooting
+180859,21600221,4,6:26,G. Hill Free Throw 1 of 2 (21 PTS),nan,71 - 98,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180860,21600221,4,6:26,G. Hill Free Throw 2 of 2 (22 PTS),nan,71 - 99,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180861,21600221,4,6:10,nan,Gee  Driving Dunk (2 PTS) (Jokic 5 AST),73 - 99,202087,Alonzo Gee,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+180862,21600221,4,6:01,MISS Johnson 16' Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180863,21600221,4,6:00,nan,Beasley REBOUND (Off:0 Def:1),nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180864,21600221,4,5:49,nan,Jokic 3' Layup (8 PTS) (Murray 3 AST),75 - 99,203999,Nikola Jokic,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+180865,21600221,4,5:49,JAZZ Timeout: Regular (Full 4 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180866,21600221,4,5:49,SUB: Hood FOR Ingles,nan,nan,204060,Joe Ingles,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+180867,21600221,4,5:49,SUB: Mack FOR G. Hill,nan,nan,201588,George Hill,UTA,202714,Shelvin Mack,UTA,0,nan,nan,Substitution ,nan
+180868,21600221,4,5:28,nan,Gee S.FOUL (P1.T4) (S.Foster),nan,202087,Alonzo Gee,DEN,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+180869,21600221,4,5:28,Gobert Free Throw 1 of 2 (18 PTS),nan,75 - 100,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180870,21600221,4,5:28,MISS Gobert Free Throw 2 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180871,21600221,4,5:27,nan,Hernangomez REBOUND (Off:1 Def:3),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180872,21600221,4,5:14,Mack P.FOUL (P1.T4) (D.Taylor),nan,nan,202714,Shelvin Mack,UTA,1627750,Jamal Murray,DEN,0,nan,nan,Foul ,Personal
+180873,21600221,4,5:07,Johnson P.FOUL (P2.PN) (M.Lindsay),nan,nan,2207,Joe Johnson,UTA,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Personal
+180874,21600221,4,5:00,nan,Murray 2' Driving Layup (23 PTS),77 - 100,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+180875,21600221,4,4:44,Hayward 8' Pullup Jump Shot (22 PTS),nan,77 - 102,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+180876,21600221,4,4:30,nan,MISS Murray 3' Reverse Layup,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180877,21600221,4,4:30,Mack REBOUND (Off:0 Def:2),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180878,21600221,4,4:19,MISS Hood 3' Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180879,21600221,4,4:19,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180880,21600221,4,4:19,SUB: Ingles FOR Hayward,nan,nan,202330,Gordon Hayward,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+180881,21600221,4,4:05,nan,Murray Step Out of Bounds Turnover (P3.T8),nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+180882,21600221,4,3:49,nan,Jokic S.FOUL (P4.PN) (D.Taylor),nan,203999,Nikola Jokic,DEN,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+180883,21600221,4,3:49,MISS Gobert Free Throw 1 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180884,21600221,4,3:49,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+180885,21600221,4,3:49,SUB: Exum FOR Hood,nan,nan,203918,Rodney Hood,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+180886,21600221,4,3:49,Gobert Free Throw 2 of 2 (19 PTS),nan,77 - 103,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180887,21600221,4,3:37,Ingles P.FOUL (P2.PN) (M.Lindsay),nan,nan,204060,Joe Ingles,UTA,1627736,Malik Beasley,DEN,0,nan,nan,Foul ,Personal
+180888,21600221,4,3:37,nan,Beasley Free Throw 1 of 2 (4 PTS),78 - 103,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180889,21600221,4,3:37,SUB: Withey FOR Gobert,nan,nan,203497,Rudy Gobert,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+180890,21600221,4,3:37,nan,Beasley Free Throw 2 of 2 (5 PTS),79 - 103,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180891,21600221,4,3:17,MISS Withey 3' Jump Shot,Gee BLOCK (1 BLK),nan,203481,Jeff Withey,UTA,0,nan,nan,202087,Alonzo Gee,DEN,Missed Shot ,nan
+180892,21600221,4,3:17,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180893,21600221,4,3:17,Johnson Bad Pass Turnover (P1.T13),Beasley STEAL (1 STL),nan,2207,Joe Johnson,UTA,1627736,Malik Beasley,DEN,0,nan,nan,Turnover ,Bad Pass
+180894,21600221,4,3:11,nan,MISS Beasley 3' Running Layup,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180895,21600221,4,3:11,Ingles REBOUND (Off:0 Def:2),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180896,21600221,4,3:11,nan,Gee L.B.FOUL (P2.PN) (S.Foster),nan,202087,Alonzo Gee,DEN,204060,Joe Ingles,UTA,0,nan,nan,Foul ,Loose Ball
+180897,21600221,4,3:11,Ingles Free Throw 1 of 2 (3 PTS),nan,79 - 104,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180898,21600221,4,3:11,MISS Ingles Free Throw 2 of 2,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180899,21600221,4,3:10,nan,Gee REBOUND (Off:0 Def:1),nan,202087,Alonzo Gee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180900,21600221,4,2:54,nan,Hernangomez 1' Reverse Layup (8 PTS) (Jokic 6 AST),81 - 104,1627823,Juan Hernangomez,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Made Shot ,nan
+180901,21600221,4,2:54,JAZZ Timeout: Regular (Full 5 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180902,21600221,4,2:35,MISS Mack 11' Driving Floating Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180903,21600221,4,2:34,nan,Hernangomez REBOUND (Off:1 Def:4),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180904,21600221,4,2:25,nan,MISS Murray 16' Jump Shot,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180905,21600221,4,2:25,nan,Murray REBOUND (Off:1 Def:2),nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180906,21600221,4,2:22,nan,Hernangomez Traveling Turnover (P1.T9),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+180907,21600221,4,2:22,SUB: Neto FOR Exum,nan,nan,203957,Dante Exum,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+180908,21600221,4,2:08,MISS Johnson  3PT Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180909,21600221,4,2:08,nan,Jokic REBOUND (Off:1 Def:3),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180910,21600221,4,1:57,nan,MISS Jokic 5' Jump Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180911,21600221,4,1:57,nan,Murray REBOUND (Off:2 Def:2),nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180912,21600221,4,1:57,Ingles L.B.FOUL (P3.PN) (S.Foster),nan,nan,204060,Joe Ingles,UTA,1627823,Juan Hernangomez,DEN,0,nan,nan,Foul ,Loose Ball
+180913,21600221,4,1:57,nan,MISS Hernangomez Free Throw 1 of 2,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180914,21600221,4,1:57,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180915,21600221,4,1:57,SUB: Bolomboy FOR Johnson,nan,nan,2207,Joe Johnson,UTA,1627762,Joel Bolomboy,UTA,0,nan,nan,Substitution ,nan
+180916,21600221,4,1:57,nan,Hernangomez Free Throw 2 of 2 (9 PTS),82 - 104,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180917,21600221,4,1:40,Neto Bad Pass Turnover (P1.T14),Hernangomez STEAL (3 STL),nan,203526,Raul Neto,UTA,1627823,Juan Hernangomez,DEN,0,nan,nan,Turnover ,Bad Pass
+180918,21600221,4,1:26,nan,MISS Hernangomez 24' 3PT Jump Shot,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180919,21600221,4,1:26,Ingles REBOUND (Off:0 Def:3),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180920,21600221,4,1:13,MISS Mack 9' Driving Floating Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180921,21600221,4,1:13,nan,Jokic REBOUND (Off:1 Def:4),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180922,21600221,4,1:13,Mack L.B.FOUL (P2.PN) (S.Foster),nan,nan,202714,Shelvin Mack,UTA,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Loose Ball
+180923,21600221,4,1:13,nan,MISS Jokic Free Throw 1 of 2,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180924,21600221,4,1:13,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+180925,21600221,4,1:13,nan,Jokic Free Throw 2 of 2 (9 PTS),83 - 104,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180926,21600221,4,0:58,Neto 18' Driving Floating Jump Shot (2 PTS),nan,83 - 106,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+180927,21600221,4,0:43,nan,MISS Beasley 24' 3PT Jump Shot,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180928,21600221,4,0:42,Ingles REBOUND (Off:0 Def:4),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180929,21600221,4,0:28,MISS Bolomboy 24' 3PT Jump Shot,nan,nan,1627762,Joel Bolomboy,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180930,21600221,4,0:28,nan,Hernangomez REBOUND (Off:1 Def:5),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180931,21600221,4,0:15,Withey STEAL (1 STL),Murray Bad Pass Turnover (P4.T10),nan,1627750,Jamal Murray,DEN,203481,Jeff Withey,UTA,0,nan,nan,Turnover ,Bad Pass
+180932,21600221,4,0:09,Bolomboy  Running Dunk (2 PTS) (Mack 1 AST),nan,83 - 108,1627762,Joel Bolomboy,UTA,202714,Shelvin Mack,UTA,0,nan,nan,Made Shot ,nan
+180933,21600221,4,0:01,nan,MISS Murray 25' 3PT Jump Shot,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180934,21600221,4,0:00,Bolomboy REBOUND (Off:0 Def:1),nan,nan,1627762,Joel Bolomboy,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180935,21600221,4,0:00,nan,nan,83 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

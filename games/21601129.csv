@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+291803,21601129,4,12:00,nan,nan,90 - 92,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+291804,21601129,4,11:52,nan,Biyombo Violation:Kicked Ball (.),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+291805,21601129,4,11:42,Olynyk 6' Floating Jump Shot (5 PTS) (Smart 5 AST),nan,90 - 94,203482,Kelly Olynyk,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+291806,21601129,4,11:20,nan,Watson 14' Fadeaway Jumper (2 PTS) (Biyombo 1 AST),92 - 94,201228,C.J. Watson,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Made Shot ,nan
+291807,21601129,4,11:01,Thomas 25' 3PT Jump Shot (29 PTS) (Smart 6 AST),nan,92 - 97,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+291808,21601129,4,10:42,nan,MISS Ross 18' Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291809,21601129,4,10:41,Rozier REBOUND (Off:0 Def:6),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291810,21601129,4,10:34,MISS Rozier 7' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291811,21601129,4,10:33,Olynyk REBOUND (Off:1 Def:1),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291812,21601129,4,10:32,MISS Olynyk 1' Tip Layup Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291813,21601129,4,10:32,Olynyk REBOUND (Off:2 Def:1),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291814,21601129,4,10:31,nan,Biyombo S.FOUL (P3.T1) (B.Barnaky),nan,202687,Bismack Biyombo,ORL,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+291815,21601129,4,10:31,Olynyk Free Throw 1 of 2 (6 PTS),nan,92 - 98,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291816,21601129,4,10:31,Olynyk Free Throw 2 of 2 (7 PTS),nan,92 - 99,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291817,21601129,4,10:19,nan,MISS Watson 18' Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291818,21601129,4,10:12,Jerebko REBOUND (Off:0 Def:7),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291819,21601129,4,10:01,Thomas Offensive Charge Foul (P1.T1) (B.Barnaky),nan,nan,202738,Isaiah Thomas,BOS,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Offensive Charge
+291820,21601129,4,10:01,Thomas Foul Turnover (P3.T8),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+291821,21601129,4,10:01,nan,nan,nan,460,Trevor Ruffin,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+291822,21601129,4,9:49,nan,Meeks 26' 3PT Step Back Jump Shot (5 PTS),95 - 99,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+291823,21601129,4,9:28,MISS Smart 27' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291824,21601129,4,9:27,nan,Ross REBOUND (Off:0 Def:2),nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291825,21601129,4,9:22,nan,Meeks 1' Layup (7 PTS) (Ross 1 AST),97 - 99,201975,Jodie Meeks,ORL,203082,Terrence Ross,ORL,0,nan,nan,Made Shot ,nan
+291826,21601129,4,9:06,Olynyk 10' Turnaround Jump Shot (9 PTS) (Rozier 3 AST),nan,97 - 101,203482,Kelly Olynyk,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+291827,21601129,4,8:45,nan,Meeks 25' 3PT Jump Shot (10 PTS) (Biyombo 2 AST),100 - 101,201975,Jodie Meeks,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Made Shot ,nan
+291828,21601129,4,8:27,Thomas 2' Driving Finger Roll Layup (31 PTS),nan,100 - 103,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+291829,21601129,4,8:27,nan,Biyombo S.FOUL (P4.T2) (D.Taylor),nan,202687,Bismack Biyombo,ORL,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+291830,21601129,4,8:27,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+291831,21601129,4,8:27,nan,nan,nan,473,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+291832,21601129,4,8:27,nan,SUB: Payton FOR Hezonja,nan,1626209,Mario Hezonja,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+291833,21601129,4,8:27,nan,SUB: Gordon FOR Watson,nan,201228,C.J. Watson,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+291834,21601129,4,8:27,MISS Thomas Free Throw 1 of 1,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+291835,21601129,4,8:27,nan,Gordon REBOUND (Off:5 Def:7),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291836,21601129,4,8:13,nan,MISS Meeks 27' 3PT Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291837,21601129,4,8:12,Jerebko REBOUND (Off:0 Def:8),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291838,21601129,4,7:54,Jerebko 2' Cutting Layup Shot (4 PTS) (Olynyk 2 AST),nan,100 - 105,201973,Jonas Jerebko,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+291839,21601129,4,7:43,Olynyk S.FOUL (P4.T2) (B.Barnaky),nan,nan,203482,Kelly Olynyk,BOS,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Shooting
+291840,21601129,4,7:43,nan,Payton Free Throw 1 of 2 (7 PTS),101 - 105,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291841,21601129,4,7:43,nan,Payton Free Throw 2 of 2 (8 PTS),102 - 105,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291842,21601129,4,7:29,Rozier Bad Pass Turnover (P1.T9),Payton STEAL (2 STL),nan,1626179,Terry Rozier,BOS,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Bad Pass
+291843,21601129,4,7:23,nan,Meeks 26' 3PT Jump Shot (13 PTS) (Payton 15 AST),105 - 105,201975,Jodie Meeks,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+291844,21601129,4,7:02,nan,Gordon S.FOUL (P1.T3) (B.Barnaky),nan,203932,Aaron Gordon,ORL,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+291845,21601129,4,7:02,Thomas Free Throw 1 of 2 (32 PTS),nan,105 - 106,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291846,21601129,4,7:02,SUB: Horford FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+291847,21601129,4,7:02,Thomas Free Throw 2 of 2 (33 PTS),nan,105 - 107,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291848,21601129,4,6:51,nan,MISS Gordon 9' Fadeaway Jumper,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291849,21601129,4,6:50,Olynyk REBOUND (Off:2 Def:2),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291850,21601129,4,6:37,MISS Horford 8' Turnaround Jump Shot,Gordon BLOCK (2 BLK),nan,201143,Al Horford,BOS,0,nan,nan,203932,Aaron Gordon,ORL,Missed Shot ,nan
+291851,21601129,4,6:36,nan,Biyombo REBOUND (Off:1 Def:7),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291852,21601129,4,6:25,nan,Payton  Driving Finger Roll Layup (10 PTS),107 - 107,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+291853,21601129,4,6:10,MISS Olynyk 25' 3PT Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291854,21601129,4,6:09,nan,Gordon REBOUND (Off:5 Def:8),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291855,21601129,4,6:04,Horford S.FOUL (P1.T3) (Z.Zarba),nan,nan,201143,Al Horford,BOS,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Shooting
+291856,21601129,4,6:04,nan,Gordon Free Throw 1 of 2 (31 PTS),108 - 107,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291857,21601129,4,6:04,nan,SUB: Vucevic FOR Ross,nan,203082,Terrence Ross,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+291858,21601129,4,6:04,nan,SUB: Fournier FOR Biyombo,nan,202687,Bismack Biyombo,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+291859,21601129,4,6:04,SUB: Crowder FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+291860,21601129,4,6:04,SUB: Brown FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Substitution ,nan
+291861,21601129,4,6:04,nan,Gordon Free Throw 2 of 2 (32 PTS),109 - 107,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291862,21601129,4,6:00,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+291863,21601129,4,5:53,MISS Rozier 19' Step Back Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291864,21601129,4,5:53,nan,Gordon REBOUND (Off:5 Def:9),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291865,21601129,4,5:38,nan,MISS Vucevic 1' Driving Finger Roll Layup,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291866,21601129,4,5:37,Horford REBOUND (Off:1 Def:4),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291867,21601129,4,5:32,Brown Out of Bounds Lost Ball Turnover (P1.T10),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+291868,21601129,4,5:20,nan,Payton 2' Driving Layup (12 PTS),111 - 107,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+291869,21601129,4,4:58,MISS Brown 25' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291870,21601129,4,4:57,nan,Payton REBOUND (Off:1 Def:7),nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291871,21601129,4,4:40,Smart BLOCK (2 BLK),MISS Payton 5' Jump Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,203935,Marcus Smart,BOS,Missed Shot ,nan
+291872,21601129,4,4:39,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291873,21601129,4,4:39,SUB: Thomas FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+291874,21601129,4,4:39,SUB: Johnson FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+291875,21601129,4,4:37,Johnson STEAL (1 STL),Meeks Lost Ball Turnover (P1.T8),nan,201975,Jodie Meeks,ORL,101161,Amir Johnson,BOS,0,nan,nan,Turnover ,Lost Ball
+291876,21601129,4,4:31,nan,Gordon Violation:Kicked Ball (.),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+291877,21601129,4,4:31,nan,SUB: Ross FOR Meeks,nan,201975,Jodie Meeks,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+291878,21601129,4,4:27,nan,Ross Shooting Block Foul (P3.T4) (Z.Zarba),nan,203082,Terrence Ross,ORL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting Block
+291879,21601129,4,4:27,Smart Free Throw 1 of 2 (4 PTS),nan,111 - 108,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291880,21601129,4,4:27,Smart Free Throw 2 of 2 (5 PTS),nan,111 - 109,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291881,21601129,4,4:11,nan,MISS Vucevic 18' Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291882,21601129,4,4:10,Smart REBOUND (Off:0 Def:2),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291883,21601129,4,3:52,Horford Bad Pass Turnover (P5.T11),Gordon STEAL (1 STL),nan,201143,Al Horford,BOS,203932,Aaron Gordon,ORL,0,nan,nan,Turnover ,Bad Pass
+291884,21601129,4,3:46,Crowder STEAL (2 STL),Ross Bad Pass Turnover (P4.T9),nan,203082,Terrence Ross,ORL,203109,Jae Crowder,BOS,0,nan,nan,Turnover ,Bad Pass
+291885,21601129,4,3:41,Horford 1' Cutting Layup Shot (10 PTS) (Thomas 7 AST),nan,111 - 111,201143,Al Horford,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+291886,21601129,4,3:40,nan,Magic Timeout: Regular (Reg.4 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+291887,21601129,4,3:17,nan,MISS Payton 20' Jump Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291888,21601129,4,3:15,Thomas REBOUND (Off:1 Def:2),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291889,21601129,4,2:50,MISS Crowder  3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291890,21601129,4,2:49,nan,Gordon REBOUND (Off:5 Def:10),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291891,21601129,4,2:43,nan,MISS Gordon 1' Driving Layup,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291892,21601129,4,2:42,Horford REBOUND (Off:1 Def:5),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291893,21601129,4,2:40,nan,Ross P.FOUL (P4.PN) (Z.Zarba),nan,203082,Terrence Ross,ORL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+291894,21601129,4,2:40,Smart Free Throw 1 of 2 (6 PTS),nan,111 - 112,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291895,21601129,4,2:40,Smart Free Throw 2 of 2 (7 PTS),nan,111 - 113,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291896,21601129,4,2:15,nan,Fournier 8' Driving Floating Jump Shot (17 PTS),113 - 113,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+291897,21601129,4,2:00,Thomas 3' Driving Finger Roll Layup (35 PTS),nan,113 - 115,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+291898,21601129,4,1:50,nan,Fournier 26' 3PT Jump Shot (20 PTS) (Vucevic 2 AST),116 - 115,203095,Evan Fournier,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+291899,21601129,4,1:40,MISS Thomas 26' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291900,21601129,4,1:38,nan,Gordon REBOUND (Off:5 Def:11),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291901,21601129,4,1:25,nan,MISS Gordon  Alley Oop Dunk,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291902,21601129,4,1:24,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291903,21601129,4,1:24,CELTICS Timeout: Short (Full 4 Short 2),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+291904,21601129,4,1:22,nan,Gordon S.FOUL (P2.PN) (D.Taylor),nan,203932,Aaron Gordon,ORL,201143,Al Horford,BOS,0,nan,nan,Foul ,Shooting
+291905,21601129,4,1:22,Horford Free Throw 1 of 2 (11 PTS),nan,116 - 116,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291906,21601129,4,1:22,Horford Free Throw 2 of 2 (12 PTS),nan,116 - 117,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291907,21601129,4,1:09,nan,MISS Ross 26' 3PT Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291908,21601129,4,1:08,Johnson REBOUND (Off:0 Def:5),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291909,21601129,4,0:47,MISS Thomas 2' Layup,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291910,21601129,4,0:46,Horford REBOUND (Off:2 Def:5),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291911,21601129,4,0:43,MISS Crowder  3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291912,21601129,4,0:43,nan,Payton REBOUND (Off:1 Def:8),nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291913,21601129,4,0:35,nan,MISS Ross 25' 3PT Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291914,21601129,4,0:34,Horford REBOUND (Off:2 Def:6),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291915,21601129,4,0:13,MISS Thomas 23' Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291916,21601129,4,0:12,nan,Ross REBOUND (Off:0 Def:3),nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291917,21601129,4,0:02,nan,MISS Payton 3' Layup,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291918,21601129,4,0:01,Horford REBOUND (Off:2 Def:7),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291919,21601129,4,0:00,nan,nan,116 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

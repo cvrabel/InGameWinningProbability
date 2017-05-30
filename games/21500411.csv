@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+51618,21500411,4,12:00,nan,nan,72 - 92,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+51619,21500411,4,11:33,nan,Timberwolves Turnover: Shot Clock (T#7),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+51620,21500411,4,11:10,MISS Turner 25' 3PT Jump Shot,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51621,21500411,4,11:09,Zeller REBOUND (Off:1 Def:4),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51622,21500411,4,11:07,Zeller Traveling Turnover (P1.T12),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+51623,21500411,4,10:59,Hunter BLOCK (2 BLK),MISS Martin 17' Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,1626154,RJ Hunter,BOS,Missed Shot ,nan
+51624,21500411,4,10:58,Thomas REBOUND (Off:0 Def:6),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51625,21500411,4,10:58,nan,A. Miller P.FOUL (P1.T1) (D.Guthrie),nan,1889,Andre Miller,MIN,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+51626,21500411,4,10:46,Jerebko  Reverse Layup (9 PTS) (Turner 9 AST),nan,72 - 94,201973,Jonas Jerebko,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+51627,21500411,4,10:26,nan,Dieng Traveling Turnover (P2.T8),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+51628,21500411,4,10:14,Zeller Bad Pass Turnover (P2.T13),Martin STEAL (1 STL),nan,203092,Tyler Zeller,BOS,2755,Kevin Martin,MIN,0,nan,nan,Turnover ,Bad Pass
+51629,21500411,4,10:09,Hunter STEAL (1 STL),Wiggins Lost Ball Turnover (P2.T9),nan,203952,Andrew Wiggins,MIN,1626154,RJ Hunter,BOS,0,nan,nan,Turnover ,Lost Ball
+51630,21500411,4,10:08,nan,LaVine P.FOUL (P1.T2) (T.Brothers),nan,203897,Zach LaVine,MIN,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+51631,21500411,4,10:08,nan,SUB: Rubio FOR LaVine,nan,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+51632,21500411,4,10:08,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+51633,21500411,4,9:53,MISS Thomas 3' Floating Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51634,21500411,4,9:53,nan,Towns REBOUND (Off:0 Def:8),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51635,21500411,4,9:43,nan,Rubio 20' Jump Shot (4 PTS) (A. Miller 1 AST),74 - 94,201937,Ricky Rubio,MIN,1889,Andre Miller,MIN,0,nan,nan,Made Shot ,nan
+51636,21500411,4,9:30,MISS Zeller 3' Hook Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51637,21500411,4,9:29,nan,Towns REBOUND (Off:0 Def:9),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51638,21500411,4,9:17,Zeller BLOCK (1 BLK),MISS A. Miller 7' Jump Shot,nan,1889,Andre Miller,MIN,0,nan,nan,203092,Tyler Zeller,BOS,Missed Shot ,nan
+51639,21500411,4,9:16,nan,Towns REBOUND (Off:1 Def:9),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51640,21500411,4,9:14,nan,MISS Towns 1' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51641,21500411,4,9:12,Jerebko REBOUND (Off:1 Def:5),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51642,21500411,4,9:08,MISS Zeller  Layup,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51643,21500411,4,9:07,nan,Towns REBOUND (Off:1 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51644,21500411,4,8:56,Hunter S.FOUL (P2.T1) (K.Scott),nan,nan,1626154,RJ Hunter,BOS,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+51645,21500411,4,8:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+51646,21500411,4,8:56,nan,nan,nan,392,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+51647,21500411,4,8:56,nan,SUB: Rudez FOR A. Miller,nan,1889,Andre Miller,MIN,204014,Damjan Rudez,MIN,0,nan,nan,Substitution ,nan
+51648,21500411,4,8:56,nan,Wiggins Free Throw 1 of 2 (14 PTS),75 - 94,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51649,21500411,4,8:56,nan,Wiggins Free Throw 2 of 2 (15 PTS),76 - 94,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51650,21500411,4,8:41,Hunter Bad Pass Turnover (P1.T14),Rubio STEAL (3 STL),nan,1626154,RJ Hunter,BOS,201937,Ricky Rubio,MIN,0,nan,nan,Turnover ,Bad Pass
+51651,21500411,4,8:38,Hunter BLOCK (3 BLK),MISS Rubio 2' Layup,nan,201937,Ricky Rubio,MIN,0,nan,nan,1626154,RJ Hunter,BOS,Missed Shot ,nan
+51652,21500411,4,8:38,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51653,21500411,4,8:21,Zeller 15' Jump Shot (12 PTS) (Thomas 10 AST),nan,76 - 96,203092,Tyler Zeller,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+51654,21500411,4,7:52,nan,MISS Wiggins 4' Turnaround Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51655,21500411,4,7:51,Zeller REBOUND (Off:1 Def:5),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51656,21500411,4,7:43,Turner Bad Pass Turnover (P3.T15),Towns STEAL (1 STL),nan,202323,Evan Turner,BOS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Bad Pass
+51657,21500411,4,7:37,nan,MISS Rubio 18' Pullup Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51658,21500411,4,7:36,Zeller REBOUND (Off:1 Def:6),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51659,21500411,4,7:35,nan,Rubio L.B.FOUL (P2.T3) (D.Guthrie),nan,201937,Ricky Rubio,MIN,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Loose Ball
+51660,21500411,4,7:30,Zeller OFF.Foul (P4) (D.Guthrie),nan,nan,203092,Tyler Zeller,BOS,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Offensive
+51661,21500411,4,7:30,Zeller Foul Turnover (P3.T16),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+51662,21500411,4,7:21,nan,Towns OFF.Foul (P3) (K.Scott),nan,1626157,Karl-Anthony Towns,MIN,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Offensive
+51663,21500411,4,7:21,nan,Towns Foul Turnover (P1.T10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+51664,21500411,4,7:09,MISS Hunter 28' 3PT Jump Shot,nan,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51665,21500411,4,7:08,nan,Wiggins REBOUND (Off:0 Def:2),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51666,21500411,4,6:57,nan,MISS Wiggins 4' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51667,21500411,4,6:57,nan,Towns REBOUND (Off:2 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51668,21500411,4,6:56,Zeller Shooting Block Foul (P5.T2) (D.Guthrie),nan,nan,203092,Tyler Zeller,BOS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting Block
+51669,21500411,4,6:56,nan,Towns Free Throw 1 of 2 (21 PTS),77 - 96,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51670,21500411,4,6:56,nan,Towns Free Throw 2 of 2 (22 PTS),78 - 96,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51671,21500411,4,6:33,MISS Zeller 2' Layup,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51672,21500411,4,6:32,Zeller REBOUND (Off:2 Def:6),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51673,21500411,4,6:31,nan,Towns Violation:Defensive Goaltending (T.Brothers),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+51674,21500411,4,6:31,Zeller 1' Layup (14 PTS),nan,78 - 98,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+51675,21500411,4,6:20,Turner S.FOUL (P2.T3) (K.Scott),nan,nan,202323,Evan Turner,BOS,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+51676,21500411,4,6:20,nan,Wiggins Free Throw 1 of 2 (16 PTS),79 - 98,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51677,21500411,4,6:20,nan,SUB: LaVine FOR Martin,nan,2755,Kevin Martin,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+51678,21500411,4,6:20,nan,MISS Wiggins Free Throw 2 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51679,21500411,4,6:20,Thomas REBOUND (Off:0 Def:7),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51680,21500411,4,5:54,Turner 10' Fadeaway Jumper (4 PTS),nan,79 - 100,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+51681,21500411,4,5:34,nan,MISS Towns 11' Turnaround Hook Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51682,21500411,4,5:33,nan,Towns REBOUND (Off:3 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51683,21500411,4,5:32,nan,Towns 1' Layup (24 PTS),81 - 100,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+51684,21500411,4,5:32,Zeller S.FOUL (P6.T4) (T.Brothers),nan,nan,203092,Tyler Zeller,BOS,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+51685,21500411,4,5:32,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51686,21500411,4,5:32,SUB: Olynyk FOR Zeller,nan,nan,203092,Tyler Zeller,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+51687,21500411,4,5:32,nan,Towns Free Throw 1 of 1 (25 PTS),82 - 100,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+51688,21500411,4,5:15,MISS Hunter  Layup,nan,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51689,21500411,4,5:14,nan,Towns REBOUND (Off:3 Def:11),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51690,21500411,4,5:02,nan,Wiggins 1' Layup (18 PTS),84 - 100,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+51691,21500411,4,4:47,MISS Thomas 25' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51692,21500411,4,4:46,nan,Rubio REBOUND (Off:0 Def:2),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51693,21500411,4,4:42,Thomas STEAL (3 STL),Rubio Bad Pass Turnover (P2.T11),nan,201937,Ricky Rubio,MIN,202738,Isaiah Thomas,BOS,0,nan,nan,Turnover ,Bad Pass
+51694,21500411,4,4:38,Thomas 1' Layup (8 PTS),nan,84 - 102,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+51695,21500411,4,4:16,nan,Wiggins  Driving Layup (20 PTS),86 - 102,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+51696,21500411,4,3:59,Jerebko 25' 3PT Jump Shot (12 PTS) (Thomas 11 AST),nan,86 - 105,201973,Jonas Jerebko,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+51697,21500411,4,3:47,nan,Towns OFF.Foul (P4) (T.Brothers),nan,1626157,Karl-Anthony Towns,MIN,1626154,RJ Hunter,BOS,0,nan,nan,Foul ,Offensive
+51698,21500411,4,3:47,nan,Towns Foul Turnover (P2.T12),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+51699,21500411,4,3:35,MISS Hunter 24' 3PT Jump Shot,nan,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51700,21500411,4,3:34,nan,Towns REBOUND (Off:3 Def:12),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51701,21500411,4,3:29,nan,LaVine  Running Dunk (14 PTS) (Rubio 6 AST),88 - 105,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+51702,21500411,4,3:14,Jerebko Lost Ball Turnover (P1.T17),Rubio STEAL (4 STL),nan,201973,Jonas Jerebko,BOS,201937,Ricky Rubio,MIN,0,nan,nan,Turnover ,Lost Ball
+51703,21500411,4,3:08,nan,LaVine 1' Layup (16 PTS) (Rubio 7 AST),90 - 105,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+51704,21500411,4,2:57,MISS Thomas 1' Layup,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51705,21500411,4,2:56,Jerebko REBOUND (Off:2 Def:5),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51706,21500411,4,2:56,MISS Jerebko 2' Layup,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51707,21500411,4,2:54,nan,Towns REBOUND (Off:3 Def:13),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51708,21500411,4,2:52,nan,Wiggins  Dunk (22 PTS) (Rubio 8 AST),92 - 105,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+51709,21500411,4,2:52,Turner S.FOUL (P3.PN) (K.Scott),nan,nan,202323,Evan Turner,BOS,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+51710,21500411,4,2:52,nan,Timberwolves Timeout: Regular (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51711,21500411,4,2:52,SUB: Bradley FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+51712,21500411,4,2:52,SUB: Crowder FOR Hunter,nan,nan,1626154,RJ Hunter,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+51713,21500411,4,2:52,nan,SUB: Muhammad FOR Rudez,nan,204014,Damjan Rudez,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Substitution ,nan
+51714,21500411,4,2:52,nan,Wiggins Free Throw 1 of 1 (23 PTS),93 - 105,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+51715,21500411,4,2:41,Crowder 24' 3PT Jump Shot (18 PTS) (Turner 10 AST),nan,93 - 108,203109,Jae Crowder,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+51716,21500411,4,2:23,nan,MISS Rubio 26' 3PT Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51717,21500411,4,2:21,Crowder REBOUND (Off:0 Def:10),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51718,21500411,4,2:03,MISS Turner 13' Fadeaway Jumper,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51719,21500411,4,2:02,nan,LaVine REBOUND (Off:0 Def:3),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51720,21500411,4,1:51,nan,Wiggins 1' Driving Layup (25 PTS) (LaVine 2 AST),95 - 108,203952,Andrew Wiggins,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+51721,21500411,4,1:51,Olynyk S.FOUL (P3.PN) (D.Guthrie),nan,nan,203482,Kelly Olynyk,BOS,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+51722,21500411,4,1:51,nan,Wiggins Free Throw 1 of 1 (26 PTS),96 - 108,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+51723,21500411,4,1:34,MISS Crowder 25' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51724,21500411,4,1:33,nan,Wiggins REBOUND (Off:0 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51725,21500411,4,1:29,Thomas STEAL (4 STL),Wiggins Bad Pass Turnover (P3.T13),nan,203952,Andrew Wiggins,MIN,202738,Isaiah Thomas,BOS,0,nan,nan,Turnover ,Bad Pass
+51726,21500411,4,1:09,Bradley  3PT Jump Shot (13 PTS) (Thomas 12 AST),nan,96 - 111,202340,Avery Bradley,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+51727,21500411,4,1:03,nan,MISS Rubio 13' Step Back Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51728,21500411,4,1:02,Turner REBOUND (Off:0 Def:1),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51729,21500411,4,1:02,CELTICS Timeout: Short (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+51730,21500411,4,1:02,SUB: Rozier FOR Crowder,nan,nan,203109,Jae Crowder,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+51731,21500411,4,1:02,SUB: Young FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+51732,21500411,4,1:02,SUB: Mickey FOR Bradley,nan,nan,202340,Avery Bradley,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Substitution ,nan
+51733,21500411,4,1:02,SUB: Hunter FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1626154,RJ Hunter,BOS,0,nan,nan,Substitution ,nan
+51734,21500411,4,1:02,SUB: Jerebko FOR Turner,nan,nan,202323,Evan Turner,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+51735,21500411,4,1:02,nan,SUB: Rudez FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,204014,Damjan Rudez,MIN,0,nan,nan,Substitution ,nan
+51736,21500411,4,1:02,nan,SUB: Bjelica FOR Wiggins,nan,203952,Andrew Wiggins,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+51737,21500411,4,1:02,nan,SUB: Payne FOR Rubio,nan,201937,Ricky Rubio,MIN,203940,Adreian Payne,MIN,0,nan,nan,Substitution ,nan
+51738,21500411,4,0:39,Mickey 13' Jump Shot (2 PTS) (Rozier 1 AST),nan,96 - 113,1626175,Jordan Mickey,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+51739,21500411,4,0:34,Rozier S.FOUL (P1.PN) (T.Brothers),nan,nan,1626179,Terry Rozier,BOS,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting
+51740,21500411,4,0:34,nan,MISS LaVine Free Throw 1 of 2,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51741,21500411,4,0:34,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51742,21500411,4,0:34,nan,LaVine Free Throw 2 of 2 (17 PTS),97 - 113,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51743,21500411,4,0:19,MISS Rozier 20' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51744,21500411,4,0:18,nan,Muhammad REBOUND (Off:0 Def:1),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51745,21500411,4,0:10,nan,Muhammad 8' Floating Jump Shot (8 PTS),99 - 113,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+51746,21500411,4,0:00,nan,nan,99 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

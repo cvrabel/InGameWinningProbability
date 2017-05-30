@@ -1,0 +1,143 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+97860,21500783,4,12:00,nan,nan,89 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+97861,21500783,4,11:45,nan,Payne  3PT Jump Shot (9 PTS) (Singler 2 AST),92 - 85,1626166,Cameron Payne,OKC,202713,Kyle Singler,OKC,0,nan,nan,Made Shot ,nan
+97862,21500783,4,11:33,nan,Kanter P.FOUL (P4.T1) (B.Taylor),nan,202683,Enes Kanter,OKC,203458,Alex Len,PHX,0,nan,nan,Foul ,Personal
+97863,21500783,4,11:19,MISS Goodwin 22' Jump Shot,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97864,21500783,4,11:17,nan,Waiters REBOUND (Off:0 Def:1),nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97865,21500783,4,11:07,nan,Durant 3' Layup (23 PTS) (Payne 4 AST),94 - 85,201142,Kevin Durant,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+97866,21500783,4,11:07,Len Shooting Block Foul (P4.T1) (B.Taylor),nan,nan,203458,Alex Len,PHX,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Shooting Block
+97867,21500783,4,11:07,nan,Durant Free Throw 1 of 1 (24 PTS),95 - 85,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+97868,21500783,4,10:54,nan,Singler S.FOUL (P3.T2) (M.Ayotte),nan,202713,Kyle Singler,OKC,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+97869,21500783,4,10:54,MISS Goodwin Free Throw 1 of 2,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97870,21500783,4,10:54,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+97871,21500783,4,10:54,Goodwin Free Throw 2 of 2 (11 PTS),nan,95 - 86,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97872,21500783,4,10:31,nan,MISS Kanter 3' Reverse Layup,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97873,21500783,4,10:29,nan,Durant REBOUND (Off:2 Def:4),nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97874,21500783,4,10:19,nan,MISS Waiters 24' 3PT Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97875,21500783,4,10:17,Weems REBOUND (Off:0 Def:1),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97876,21500783,4,10:03,MISS Teletovic 5' Jump Shot,Durant BLOCK (1 BLK),nan,203141,Mirza Teletovic,PHX,0,nan,nan,201142,Kevin Durant,OKC,Missed Shot ,nan
+97877,21500783,4,10:00,nan,Singler REBOUND (Off:3 Def:1),nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97878,21500783,4,9:59,Goodwin S.FOUL (P4.T2) (B.Taylor),nan,nan,203462,Archie Goodwin,PHX,203079,Dion Waiters,OKC,0,nan,nan,Foul ,Shooting
+97879,21500783,4,9:59,nan,nan,nan,427,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+97880,21500783,4,9:59,nan,Waiters Free Throw 1 of 2 (11 PTS),96 - 86,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97881,21500783,4,9:59,nan,SUB: Ibaka FOR Durant,nan,201142,Kevin Durant,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+97882,21500783,4,9:59,nan,Waiters Free Throw 2 of 2 (12 PTS),97 - 86,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97883,21500783,4,9:44,MISS Teletovic 24' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97884,21500783,4,9:43,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97885,21500783,4,9:43,nan,SUB: Westbrook FOR Waiters,nan,203079,Dion Waiters,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+97886,21500783,4,9:27,nan,Kanter OFF.Foul (P5) (B.Taylor),nan,202683,Enes Kanter,OKC,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Offensive
+97887,21500783,4,9:27,nan,Kanter Foul Turnover (P1.T9),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+97888,21500783,4,9:27,SUB: Mark Morris FOR Len,nan,nan,203458,Alex Len,PHX,202693,Markieff Morris,PHX,0,nan,nan,Substitution ,nan
+97889,21500783,4,9:27,SUB: Chandler FOR Weems,nan,nan,201603,Sonny Weems,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+97890,21500783,4,9:27,SUB: Booker FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+97891,21500783,4,9:27,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+97892,21500783,4,9:19,nan,Westbrook P.FOUL (P3.T3) (M.Ayotte),nan,201566,Russell Westbrook,OKC,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+97893,21500783,4,9:07,Goodwin 2' Reverse Layup (13 PTS) (Mark Morris 2 AST),nan,97 - 88,203462,Archie Goodwin,PHX,202693,Markieff Morris,PHX,0,nan,nan,Made Shot ,nan
+97894,21500783,4,8:48,nan,Westbrook 16' Step Back Jump Shot (21 PTS),99 - 88,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+97895,21500783,4,8:40,Goodwin Bad Pass Turnover (P1.T12),Westbrook STEAL (2 STL),nan,203462,Archie Goodwin,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+97896,21500783,4,8:36,nan,MISS Payne 3' Layup,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97897,21500783,4,8:34,Booker REBOUND (Off:0 Def:3),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97898,21500783,4,8:29,Booker Offensive Charge Foul (P4.T3) (B.Taylor),nan,nan,1626164,Devin Booker,PHX,1626166,Cameron Payne,OKC,0,nan,nan,Foul ,Offensive Charge
+97899,21500783,4,8:29,Booker Foul Turnover (P3.T13),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+97900,21500783,4,8:29,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+97901,21500783,4,8:14,Mark Morris STEAL (2 STL),Westbrook Bad Pass Turnover (P3.T10),nan,201566,Russell Westbrook,OKC,202693,Markieff Morris,PHX,0,nan,nan,Turnover ,Bad Pass
+97902,21500783,4,7:57,MISS Mark Morris 16' Turnaround Jump Shot,nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97903,21500783,4,7:55,nan,Adams REBOUND (Off:1 Def:1),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97904,21500783,4,7:50,nan,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T11),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+97905,21500783,4,7:33,MISS Mark Morris 5' Jump Shot,Ibaka BLOCK (1 BLK),nan,202693,Markieff Morris,PHX,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+97906,21500783,4,7:32,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97907,21500783,4,7:28,Booker P.FOUL (P5.T4) (B.Taylor),nan,nan,1626164,Devin Booker,PHX,1626166,Cameron Payne,OKC,0,nan,nan,Foul ,Personal
+97908,21500783,4,7:11,nan,MISS Singler 25' 3PT Jump Shot,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97909,21500783,4,7:10,nan,Adams REBOUND (Off:2 Def:1),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97910,21500783,4,7:10,Booker P.FOUL (P6.PN) (Z.Zarba),nan,nan,1626164,Devin Booker,PHX,203500,Steven Adams,OKC,0,nan,nan,Foul ,Personal
+97911,21500783,4,7:10,SUB: Weems FOR Booker,nan,nan,1626164,Devin Booker,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+97912,21500783,4,7:04,nan,MISS Ibaka 25' 3PT Jump Shot,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97913,21500783,4,7:02,Weems REBOUND (Off:0 Def:2),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97914,21500783,4,6:51,Mark Morris 7' Turnaround Jump Shot (18 PTS),nan,99 - 90,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+97915,21500783,4,6:51,nan,Adams S.FOUL (P3.T4) (B.Taylor),nan,203500,Steven Adams,OKC,202693,Markieff Morris,PHX,0,nan,nan,Foul ,Shooting
+97916,21500783,4,6:51,Mark Morris Free Throw 1 of 1 (19 PTS),nan,99 - 91,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+97917,21500783,4,6:27,nan,MISS Payne 7' Floating Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97918,21500783,4,6:24,Mark Morris REBOUND (Off:1 Def:4),nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97919,21500783,4,6:21,nan,Adams S.FOUL (P4.PN) (Z.Zarba),nan,203500,Steven Adams,OKC,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+97920,21500783,4,6:21,Goodwin Free Throw 1 of 2 (14 PTS),nan,99 - 92,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97921,21500783,4,6:21,nan,SUB: Durant FOR Singler,nan,202713,Kyle Singler,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+97922,21500783,4,6:21,nan,SUB: Waiters FOR Payne,nan,1626166,Cameron Payne,OKC,203079,Dion Waiters,OKC,0,nan,nan,Substitution ,nan
+97923,21500783,4,6:21,MISS Goodwin Free Throw 2 of 2,nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97924,21500783,4,6:20,nan,Adams REBOUND (Off:2 Def:2),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97925,21500783,4,6:10,Chandler BLOCK (1 BLK),MISS Adams 1' Layup,nan,203500,Steven Adams,OKC,0,nan,nan,2199,Tyson Chandler,PHX,Missed Shot ,nan
+97926,21500783,4,6:06,nan,Westbrook REBOUND (Off:3 Def:3),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97927,21500783,4,6:04,nan,MISS Westbrook 1' Layup,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97928,21500783,4,6:03,Goodwin REBOUND (Off:1 Def:3),nan,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97929,21500783,4,6:00,Goodwin 1' Running Layup (16 PTS),nan,99 - 94,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+97930,21500783,4,5:58,nan,Thunder Timeout: Regular (Reg.4 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+97931,21500783,4,5:51,Tucker STEAL (3 STL),Westbrook Bad Pass Turnover (P5.T12),nan,201566,Russell Westbrook,OKC,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+97932,21500783,4,5:48,MISS Tucker 3' Layup,Durant BLOCK (2 BLK),nan,200782,PJ Tucker,PHX,0,nan,nan,201142,Kevin Durant,OKC,Missed Shot ,nan
+97933,21500783,4,5:44,Tucker REBOUND (Off:3 Def:2),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97934,21500783,4,5:44,Tucker 4' Hook Shot (14 PTS),nan,99 - 96,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+97935,21500783,4,5:30,Weems Personal Block Foul (P4.PN) (B.Taylor),nan,nan,201603,Sonny Weems,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal Block
+97936,21500783,4,5:30,nan,Westbrook Free Throw 1 of 2 (22 PTS),100 - 96,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97937,21500783,4,5:30,nan,Westbrook Free Throw 2 of 2 (23 PTS),101 - 96,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97938,21500783,4,5:19,nan,Westbrook P.FOUL (P4.PN) (M.Ayotte),nan,201566,Russell Westbrook,OKC,202693,Markieff Morris,PHX,0,nan,nan,Foul ,Personal
+97939,21500783,4,5:19,MISS Mark Morris Free Throw 1 of 2,nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97940,21500783,4,5:19,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+97941,21500783,4,5:19,Mark Morris Free Throw 2 of 2 (20 PTS),nan,101 - 97,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97942,21500783,4,5:09,Tucker P.FOUL (P4.PN) (B.Taylor),nan,nan,200782,PJ Tucker,PHX,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Personal
+97943,21500783,4,5:09,nan,Durant Free Throw 1 of 2 (25 PTS),102 - 97,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97944,21500783,4,5:09,nan,Durant Free Throw 2 of 2 (26 PTS),103 - 97,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97945,21500783,4,5:00,Mark Morris Out of Bounds - Bad Pass Turnover Turnover (P6.T14),nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+97946,21500783,4,4:42,nan,Waiters 24' 3PT Jump Shot (15 PTS) (Durant 3 AST),106 - 97,203079,Dion Waiters,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+97947,21500783,4,4:34,SUNS Timeout: Regular (Full 4 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+97948,21500783,4,4:34,SUB: Teletovic FOR Weems,nan,nan,201603,Sonny Weems,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+97949,21500783,4,4:26,Mark Morris 2' Driving Layup (22 PTS),nan,106 - 99,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+97950,21500783,4,4:26,nan,Ibaka S.FOUL (P5.PN) (Z.Zarba),nan,201586,Serge Ibaka,OKC,202693,Markieff Morris,PHX,0,nan,nan,Foul ,Shooting
+97951,21500783,4,4:26,Mark Morris Free Throw 1 of 1 (23 PTS),nan,106 - 100,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+97952,21500783,4,4:18,Teletovic P.FOUL (P2.PN) (B.Taylor),nan,nan,203141,Mirza Teletovic,PHX,203500,Steven Adams,OKC,0,nan,nan,Foul ,Personal
+97953,21500783,4,4:18,nan,MISS Adams Free Throw 1 of 2,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97954,21500783,4,4:18,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+97955,21500783,4,4:18,nan,MISS Adams Free Throw 2 of 2,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97956,21500783,4,4:18,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97957,21500783,4,4:18,nan,Adams L.B.FOUL (P5.PN) (B.Taylor),nan,203500,Steven Adams,OKC,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Loose Ball
+97958,21500783,4,4:18,nan,nan,nan,526,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+97959,21500783,4,4:18,Goodwin Free Throw 1 of 2 (17 PTS),nan,106 - 101,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97960,21500783,4,4:18,nan,SUB: Kanter FOR Adams,nan,203500,Steven Adams,OKC,202683,Enes Kanter,OKC,0,nan,nan,Substitution ,nan
+97961,21500783,4,4:18,Goodwin Free Throw 2 of 2 (18 PTS),nan,106 - 102,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97962,21500783,4,4:06,Tucker STEAL (4 STL),Westbrook Bad Pass Turnover (P6.T13),nan,201566,Russell Westbrook,OKC,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+97963,21500783,4,4:01,Teletovic Bad Pass Turnover (P1.T15),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+97964,21500783,4,3:47,nan,Westbrook 20' Jump Shot (25 PTS),108 - 102,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+97965,21500783,4,3:25,MISS Goodwin 3' Layup,Ibaka BLOCK (2 BLK),nan,203462,Archie Goodwin,PHX,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+97966,21500783,4,3:25,nan,Westbrook REBOUND (Off:3 Def:4),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97967,21500783,4,3:25,Tucker Personal Block Foul (P5.PN) (Z.Zarba),nan,nan,200782,PJ Tucker,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal Block
+97968,21500783,4,3:25,nan,Westbrook Free Throw 1 of 2 (26 PTS),109 - 102,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97969,21500783,4,3:25,nan,Westbrook Free Throw 2 of 2 (27 PTS),110 - 102,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97970,21500783,4,3:14,Goodwin 1' Cutting Layup Shot (20 PTS) (Mark Morris 3 AST),nan,110 - 104,203462,Archie Goodwin,PHX,202693,Markieff Morris,PHX,0,nan,nan,Made Shot ,nan
+97971,21500783,4,3:06,nan,Durant 28' 3PT Jump Shot (29 PTS) (Westbrook 7 AST),113 - 104,201142,Kevin Durant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+97972,21500783,4,3:05,SUNS Timeout: Regular (Full 5 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+97973,21500783,4,2:54,MISS Teletovic 25' 3PT Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97974,21500783,4,2:52,nan,Westbrook REBOUND (Off:3 Def:5),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97975,21500783,4,2:49,nan,Kanter  Running Dunk (11 PTS) (Westbrook 8 AST),115 - 104,202683,Enes Kanter,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+97976,21500783,4,2:28,Teletovic Out of Bounds Lost Ball Turnover (P2.T16),nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+97977,21500783,4,2:13,Tucker STEAL (5 STL),Kanter Bad Pass Turnover (P2.T14),nan,202683,Enes Kanter,OKC,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+97978,21500783,4,2:09,Tucker 1' Running Layup (16 PTS),nan,115 - 106,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+97979,21500783,4,2:02,Tucker P.FOUL (P6.PN) (M.Ayotte),nan,nan,200782,PJ Tucker,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal
+97980,21500783,4,2:02,SUB: Weems FOR Tucker,nan,nan,200782,PJ Tucker,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+97981,21500783,4,2:02,SUNS Violation: Delay of game Violation,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+97982,21500783,4,2:02,nan,Westbrook Free Throw 1 of 2 (28 PTS),116 - 106,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+97983,21500783,4,2:02,nan,Westbrook Free Throw 2 of 2 (29 PTS),117 - 106,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+97984,21500783,4,1:50,Weems Out of Bounds Lost Ball Turnover (P1.T17),nan,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+97985,21500783,4,1:30,nan,Durant 26' 3PT Jump Shot (32 PTS),120 - 106,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+97986,21500783,4,1:30,SUNS Timeout: Regular (Full 6 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+97987,21500783,4,1:25,MISS Teletovic 6' Floating Jump Shot,nan,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97988,21500783,4,1:24,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97989,21500783,4,1:09,nan,SUB: Payne FOR Westbrook,nan,201566,Russell Westbrook,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+97990,21500783,4,1:09,nan,SUB: Singler FOR Durant,nan,201142,Kevin Durant,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+97991,21500783,4,1:09,nan,SUB: Novak FOR Ibaka,nan,201586,Serge Ibaka,OKC,200779,Steve Novak,OKC,0,nan,nan,Substitution ,nan
+97992,21500783,4,1:01,nan,MISS Waiters 22' Step Back Jump Shot,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97993,21500783,4,0:58,Mark Morris REBOUND (Off:1 Def:5),nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97994,21500783,4,0:52,Goodwin Bad Pass Turnover (P2.T18),Singler STEAL (1 STL),nan,203462,Archie Goodwin,PHX,202713,Kyle Singler,OKC,0,nan,nan,Turnover ,Bad Pass
+97995,21500783,4,0:31,nan,Payne 2' Finger Roll Layup (11 PTS),122 - 106,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+97996,21500783,4,0:31,SUNS Timeout: Short (Full 6 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+97997,21500783,4,0:23,MISS Mark Morris 3' Jump Shot,nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+97998,21500783,4,0:21,Mark Morris REBOUND (Off:2 Def:5),nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+97999,21500783,4,0:21,MISS Mark Morris 2' Tip Layup Shot,nan,nan,202693,Markieff Morris,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98000,21500783,4,0:18,nan,Payne REBOUND (Off:1 Def:3),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98001,21500783,4,0:00,nan,nan,122 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

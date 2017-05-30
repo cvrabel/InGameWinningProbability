@@ -1,0 +1,96 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+115743,21500923,4,12:00,nan,nan,70 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+115744,21500923,4,11:37,nan,MISS Blake 20' Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115745,21500923,4,11:36,Thomas REBOUND (Off:2 Def:3),nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115746,21500923,4,11:20,O'Quinn 18' Jump Shot (8 PTS) (Grant 1 AST),nan,70 - 81,203124,Kyle O'Quinn,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+115747,21500923,4,11:03,nan,Caldwell-Pope 21' Jump Shot (6 PTS),72 - 81,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115748,21500923,4,10:47,O'Quinn Bad Pass Turnover (P2.T9),Bullock STEAL (1 STL),nan,203124,Kyle O'Quinn,NYK,203493,Reggie Bullock,DET,0,nan,nan,Turnover ,Bad Pass
+115749,21500923,4,10:30,O'Quinn BLOCK (3 BLK),MISS Baynes 2' Layup,nan,203382,Aron Baynes,DET,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+115750,21500923,4,10:29,nan,Baynes REBOUND (Off:1 Def:0),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115751,21500923,4,10:28,nan,Baynes 1' Layup (2 PTS),74 - 81,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115752,21500923,4,10:06,MISS Grant 24' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115753,21500923,4,10:05,nan,Blake REBOUND (Off:0 Def:2),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115754,21500923,4,9:51,nan,Bullock  3PT Jump Shot (6 PTS) (Blake 2 AST),77 - 81,203493,Reggie Bullock,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+115755,21500923,4,9:34,nan,Bullock P.FOUL (P2.T1) (G.Zielinski),nan,203493,Reggie Bullock,DET,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Personal
+115756,21500923,4,9:21,O'Quinn 20' Jump Shot (10 PTS) (Grant 2 AST),nan,77 - 83,203124,Kyle O'Quinn,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+115757,21500923,4,9:02,nan,MISS Caldwell-Pope 3' Driving Layup,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115758,21500923,4,9:01,Thomas REBOUND (Off:2 Def:4),nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115759,21500923,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+115760,21500923,4,8:58,SUB: Anthony FOR Thomas,nan,nan,202498,Lance Thomas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+115761,21500923,4,8:58,nan,SUB: Harris FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+115762,21500923,4,8:46,Afflalo 24' 3PT Jump Shot (18 PTS) (Anthony 6 AST),nan,77 - 86,201167,Arron Afflalo,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+115763,21500923,4,8:30,nan,MISS Marc Morris 9' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115764,21500923,4,8:29,Grant REBOUND (Off:0 Def:1),nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115765,21500923,4,8:19,nan,Blake P.FOUL (P1.T2) (G.Zielinski),nan,2581,Steve Blake,DET,101181,Jose Calderon,NYK,0,nan,nan,Foul ,Personal
+115766,21500923,4,8:19,nan,SUB: Drummond FOR Baynes,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+115767,21500923,4,8:19,SUB: Lopez FOR O'Quinn,nan,nan,203124,Kyle O'Quinn,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+115768,21500923,4,8:12,Afflalo 18' Jump Shot (20 PTS) (Calderon 2 AST),nan,77 - 88,201167,Arron Afflalo,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+115769,21500923,4,7:52,nan,MISS Marc Morris  3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115770,21500923,4,7:51,Afflalo REBOUND (Off:0 Def:5),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115771,21500923,4,7:28,MISS Afflalo 17' Step Back Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115772,21500923,4,7:27,nan,Drummond REBOUND (Off:8 Def:6),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115773,21500923,4,7:19,nan,Blake 20' Jump Shot (13 PTS),79 - 88,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115774,21500923,4,7:05,Anthony 5' Jump Shot (18 PTS) (Afflalo 3 AST),nan,79 - 90,2546,Carmelo Anthony,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+115775,21500923,4,6:50,nan,Harris OFF.Foul (P3) (K.Mauer),nan,202699,Tobias Harris,DET,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Offensive
+115776,21500923,4,6:50,nan,Harris Foul Turnover (P1.T8),nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+115777,21500923,4,6:50,SUB: Thomas FOR Grant,nan,nan,1626170,Jerian Grant,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+115778,21500923,4,6:50,nan,SUB: Caldwell-Pope FOR Blake,nan,2581,Steve Blake,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+115779,21500923,4,6:50,nan,SUB: Jackson FOR Bullock,nan,203493,Reggie Bullock,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+115780,21500923,4,6:33,Lopez 14' Jump Shot (19 PTS) (Calderon 3 AST),nan,79 - 92,201577,Robin Lopez,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+115781,21500923,4,6:26,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115782,21500923,4,6:17,nan,MISS Jackson 10' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115783,21500923,4,6:16,Thomas REBOUND (Off:2 Def:5),nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115784,21500923,4,5:55,Lopez 5' Hook Shot (21 PTS) (Calderon 4 AST),nan,79 - 94,201577,Robin Lopez,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+115785,21500923,4,5:41,nan,MISS Harris  3PT Jump Shot,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115786,21500923,4,5:40,Afflalo REBOUND (Off:0 Def:6),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115787,21500923,4,5:29,Afflalo Bad Pass Turnover (P1.T10),Caldwell-Pope STEAL (3 STL),nan,201167,Arron Afflalo,NYK,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Bad Pass
+115788,21500923,4,5:22,nan,Caldwell-Pope 8' Driving Floating Jump Shot (8 PTS),81 - 94,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115789,21500923,4,4:58,MISS Calderon 22' Jump Shot,nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115790,21500923,4,4:57,nan,Drummond REBOUND (Off:8 Def:7),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115791,21500923,4,4:51,nan,Jackson OFF.Foul (P2) (C.Blair),nan,202704,Reggie Jackson,DET,101181,Jose Calderon,NYK,0,nan,nan,Foul ,Offensive
+115792,21500923,4,4:51,nan,Jackson Foul Turnover (P4.T9),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+115793,21500923,4,4:35,Calderon 2' Layup (7 PTS) (Lopez 2 AST),nan,81 - 96,101181,Jose Calderon,NYK,201577,Robin Lopez,NYK,0,nan,nan,Made Shot ,nan
+115794,21500923,4,4:16,nan,MISS Marc Morris 26' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115795,21500923,4,4:15,Afflalo REBOUND (Off:0 Def:7),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115796,21500923,4,3:52,Anthony 1' Driving Layup (20 PTS),nan,81 - 98,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+115797,21500923,4,3:34,nan,MISS Jackson 6' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115798,21500923,4,3:33,nan,Drummond REBOUND (Off:9 Def:7),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115799,21500923,4,3:32,Lopez S.FOUL (P2.T1) (K.Mauer),nan,nan,201577,Robin Lopez,NYK,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+115800,21500923,4,3:32,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115801,21500923,4,3:32,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+115802,21500923,4,3:32,nan,SUB: Blake FOR Jackson,nan,202704,Reggie Jackson,DET,2581,Steve Blake,DET,0,nan,nan,Substitution ,nan
+115803,21500923,4,3:32,nan,MISS Drummond Free Throw 2 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115804,21500923,4,3:31,Lopez REBOUND (Off:3 Def:5),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115805,21500923,4,3:11,Anthony 12' Jump Shot (22 PTS),nan,81 - 100,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+115806,21500923,4,3:09,nan,Pistons Timeout: Regular (Reg.5 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115807,21500923,4,3:09,nan,SUB: Bullock FOR Harris,nan,202699,Tobias Harris,DET,203493,Reggie Bullock,DET,0,nan,nan,Substitution ,nan
+115808,21500923,4,3:09,nan,SUB: Baynes FOR Marc Morris,nan,202694,Marcus Morris,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+115809,21500923,4,3:09,nan,SUB: Harper FOR Drummond,nan,203083,Andre Drummond,DET,202712,Justin Harper,DET,0,nan,nan,Substitution ,nan
+115810,21500923,4,3:09,nan,SUB: Hilliard FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+115811,21500923,4,3:00,nan,MISS Hilliard 18' Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115812,21500923,4,2:59,Calderon REBOUND (Off:0 Def:4),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115813,21500923,4,2:40,Anthony 18' Jump Shot (24 PTS),nan,81 - 102,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+115814,21500923,4,2:16,nan,Hilliard 2' Driving Layup (2 PTS),83 - 102,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115815,21500923,4,1:50,MISS Anthony 13' Fadeaway Jumper,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115816,21500923,4,1:49,Lopez REBOUND (Off:4 Def:5),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115817,21500923,4,1:49,MISS Lopez 2' Tip Layup Shot,nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115818,21500923,4,1:48,nan,Blake REBOUND (Off:0 Def:3),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115819,21500923,4,1:34,nan,Baynes 5' Hook Shot (4 PTS) (Bullock 3 AST),85 - 102,203382,Aron Baynes,DET,203493,Reggie Bullock,DET,0,nan,nan,Made Shot ,nan
+115820,21500923,4,1:12,MISS Anthony 20' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115821,21500923,4,1:11,nan,Baynes REBOUND (Off:1 Def:1),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115822,21500923,4,1:02,nan,Bullock 13' Jump Shot (8 PTS),87 - 102,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115823,21500923,4,1:02,KNICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115824,21500923,4,1:02,SUB: Williams FOR Anthony,nan,nan,2546,Carmelo Anthony,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+115825,21500923,4,1:02,SUB: Galloway FOR Lopez,nan,nan,201577,Robin Lopez,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+115826,21500923,4,1:02,SUB: Grant FOR Afflalo,nan,nan,201167,Arron Afflalo,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Substitution ,nan
+115827,21500923,4,1:02,SUB: O'Quinn FOR Calderon,nan,nan,101181,Jose Calderon,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+115828,21500923,4,1:02,SUB: Vujacic FOR Thomas,nan,nan,202498,Lance Thomas,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Substitution ,nan
+115829,21500923,4,0:41,MISS O'Quinn 10' Fadeaway Jumper,nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115830,21500923,4,0:40,nan,Blake REBOUND (Off:0 Def:4),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115831,21500923,4,0:29,nan,MISS Bullock  3PT Jump Shot,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115832,21500923,4,0:28,nan,Baynes REBOUND (Off:2 Def:1),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115833,21500923,4,0:25,nan,Baynes 4' Hook Shot (6 PTS),89 - 102,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+115834,21500923,4,0:01,KNICKS Turnover: Shot Clock (T#11),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+115835,21500923,4,0:00,nan,MISS Hilliard 47' 3PT Running Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115836,21500923,4,0:00,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115837,21500923,4,0:00,nan,nan,89 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

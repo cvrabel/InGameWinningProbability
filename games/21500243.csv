@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+30428,21500243,4,12:00,nan,nan,60 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+30429,21500243,4,11:48,Booker S.FOUL (P2.T1) (C.Blair),nan,nan,202344,Trevor Booker,UTA,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Shooting
+30430,21500243,4,11:48,nan,Holiday Free Throw 1 of 2 (1 PTS),61 - 76,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30431,21500243,4,11:48,nan,Holiday Free Throw 2 of 2 (2 PTS),62 - 76,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30432,21500243,4,11:24,Burks 2' Driving Finger Roll Layup (14 PTS),nan,62 - 78,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30433,21500243,4,11:13,Hayward STEAL (2 STL),Holiday Bad Pass Turnover (P1.T12),nan,201950,Jrue Holiday,NOP,202330,Gordon Hayward,UTA,0,nan,nan,Turnover ,Bad Pass
+30434,21500243,4,11:07,Burke 24' 3PT Jump Shot (8 PTS) (Booker 3 AST),nan,62 - 81,203504,Trey Burke,UTA,202344,Trevor Booker,UTA,0,nan,nan,Made Shot ,nan
+30435,21500243,4,10:52,Booker STEAL (2 STL),Holiday Bad Pass Turnover (P2.T13),nan,201950,Jrue Holiday,NOP,202344,Trevor Booker,UTA,0,nan,nan,Turnover ,Bad Pass
+30436,21500243,4,10:48,Booker  Running Dunk (11 PTS),nan,62 - 83,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30437,21500243,4,10:48,nan,Pelicans Timeout: Regular (Reg.4 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+30438,21500243,4,10:48,nan,SUB: Davis FOR Cunningham,nan,201967,Dante Cunningham,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+30439,21500243,4,10:31,Booker BLOCK (2 BLK),MISS Holiday 6' Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,202344,Trevor Booker,UTA,Missed Shot ,nan
+30440,21500243,4,10:31,Jump Ball Booker vs. Holiday: Tip to Burks,nan,nan,202344,Trevor Booker,UTA,201950,Jrue Holiday,NOP,202692,Alec Burks,UTA,Jump Ball ,nan
+30441,21500243,4,10:31,Booker REBOUND (Off:4 Def:9),nan,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30442,21500243,4,10:09,MISS Lyles 2' Turnaround Hook Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30443,21500243,4,10:09,nan,Davis REBOUND (Off:1 Def:10),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30444,21500243,4,10:05,nan,Holiday Traveling Turnover (P3.T14),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+30445,21500243,4,9:47,Hayward Bad Pass Turnover (P3.T12),Gee STEAL (1 STL),nan,202330,Gordon Hayward,UTA,202087,Alonzo Gee,NOP,0,nan,nan,Turnover ,Bad Pass
+30446,21500243,4,9:46,Burke P.FOUL (P1.T2) (T.Washington),nan,nan,203504,Trey Burke,UTA,201962,Toney Douglas,NOP,0,nan,nan,Foul ,Personal
+30447,21500243,4,9:46,nan,nan,nan,421,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+30448,21500243,4,9:46,SUB: Gobert FOR Booker,nan,nan,202344,Trevor Booker,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+30449,21500243,4,9:31,nan,Douglas 25' 3PT Jump Shot (5 PTS) (Gee 2 AST),65 - 83,201962,Toney Douglas,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Made Shot ,nan
+30450,21500243,4,9:19,nan,Holiday P.FOUL (P1.T1) (S.Corbin),nan,201950,Jrue Holiday,NOP,202692,Alec Burks,UTA,0,nan,nan,Foul ,Personal
+30451,21500243,4,9:14,nan,Douglas P.FOUL (P3.T2) (T.Washington),nan,201962,Toney Douglas,NOP,203504,Trey Burke,UTA,0,nan,nan,Foul ,Personal
+30452,21500243,4,9:14,SUB: Ingles FOR Hayward,nan,nan,202330,Gordon Hayward,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+30453,21500243,4,9:09,MISS Burke 19' Jump Shot,nan,nan,203504,Trey Burke,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30454,21500243,4,9:09,nan,Holiday REBOUND (Off:0 Def:1),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30455,21500243,4,9:03,nan,Davis  Running Dunk (27 PTS) (Holiday 1 AST),67 - 83,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+30456,21500243,4,8:47,Burke Bad Pass Turnover (P1.T13),Gee STEAL (2 STL),nan,203504,Trey Burke,UTA,202087,Alonzo Gee,NOP,0,nan,nan,Turnover ,Bad Pass
+30457,21500243,4,8:43,Ingles Shooting Block Foul (P4.T3) (C.Blair),nan,nan,204060,Joe Ingles,UTA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting Block
+30458,21500243,4,8:43,nan,Davis Free Throw 1 of 2 (28 PTS),68 - 83,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30459,21500243,4,8:43,SUB: Hood FOR Ingles,nan,nan,204060,Joe Ingles,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+30460,21500243,4,8:43,nan,MISS Davis Free Throw 2 of 2,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30461,21500243,4,8:42,Gobert REBOUND (Off:1 Def:11),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30462,21500243,4,8:26,Burke Lost Ball Turnover (P2.T14),Anderson STEAL (1 STL),nan,203504,Trey Burke,UTA,201583,Ryan Anderson,NOP,0,nan,nan,Turnover ,Lost Ball
+30463,21500243,4,8:22,Burks S.FOUL (P3.T4) (T.Washington),nan,nan,202692,Alec Burks,UTA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+30464,21500243,4,8:22,nan,Davis Free Throw 1 of 2 (29 PTS),69 - 83,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30465,21500243,4,8:22,SUB: Neto FOR Burke,nan,nan,203504,Trey Burke,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+30466,21500243,4,8:22,SUB: Hayward FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+30467,21500243,4,8:22,nan,Davis Free Throw 2 of 2 (30 PTS),70 - 83,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30468,21500243,4,8:04,MISS Burks 3' Driving Layup,Anderson BLOCK (1 BLK),nan,202692,Alec Burks,UTA,0,nan,nan,201583,Ryan Anderson,NOP,Missed Shot ,nan
+30469,21500243,4,8:04,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30470,21500243,4,7:54,nan,Davis 19' Jump Shot (32 PTS) (Douglas 2 AST),72 - 83,203076,Anthony Davis,NOP,201962,Toney Douglas,NOP,0,nan,nan,Made Shot ,nan
+30471,21500243,4,7:37,MISS Hood 5' Jump Shot,Davis BLOCK (3 BLK),nan,203918,Rodney Hood,UTA,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+30472,21500243,4,7:36,Gobert REBOUND (Off:2 Def:11),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30473,21500243,4,7:35,nan,Davis S.FOUL (P4.T3) (S.Corbin),nan,203076,Anthony Davis,NOP,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+30474,21500243,4,7:35,nan,nan,nan,452,Vin Baker,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+30475,21500243,4,7:35,MISS Gobert Free Throw 1 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30476,21500243,4,7:35,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+30477,21500243,4,7:35,SUB: Booker FOR Neto,nan,nan,203526,Raul Neto,UTA,202344,Trevor Booker,UTA,0,nan,nan,Substitution ,nan
+30478,21500243,4,7:35,MISS Gobert Free Throw 2 of 2,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30479,21500243,4,7:34,nan,Gee REBOUND (Off:0 Def:1),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30480,21500243,4,7:20,JAZZ T.Foul (Def. 3 Sec Gobert ) (S.Corbin),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+30481,21500243,4,7:20,nan,MISS Davis Free Throw Technical,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+30482,21500243,4,7:20,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+30483,21500243,4,7:07,nan,MISS Holiday 2' Layup,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30484,21500243,4,7:07,Hayward REBOUND (Off:0 Def:1),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30485,21500243,4,6:45,Booker  Reverse Dunk (13 PTS) (Hayward 2 AST),nan,72 - 85,202344,Trevor Booker,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+30486,21500243,4,6:28,nan,Douglas 24' 3PT Jump Shot (8 PTS) (Anderson 5 AST),75 - 85,201962,Toney Douglas,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+30487,21500243,4,6:08,Burks  Driving Dunk (16 PTS),nan,75 - 87,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30488,21500243,4,5:47,nan,Anderson 25' 3PT Jump Shot (7 PTS) (Holiday 2 AST),78 - 87,201583,Ryan Anderson,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+30489,21500243,4,5:42,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+30490,21500243,4,5:42,nan,SUB: Smith FOR Holiday,nan,201950,Jrue Holiday,NOP,202397,Ish Smith,NOP,0,nan,nan,Substitution ,nan
+30491,21500243,4,5:42,nan,SUB: Gordon FOR Douglas,nan,201962,Toney Douglas,NOP,201569,Eric Gordon,NOP,0,nan,nan,Substitution ,nan
+30492,21500243,4,5:27,Hayward 25' 3PT Jump Shot (15 PTS) (Burks 4 AST),nan,78 - 90,202330,Gordon Hayward,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+30493,21500243,4,5:14,Gobert S.FOUL (P4.PN) (T.Washington),nan,nan,203497,Rudy Gobert,UTA,201583,Ryan Anderson,NOP,0,nan,nan,Foul ,Shooting
+30494,21500243,4,5:14,nan,Anderson Free Throw 1 of 2 (8 PTS),79 - 90,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30495,21500243,4,5:14,nan,Anderson Free Throw 2 of 2 (9 PTS),80 - 90,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30496,21500243,4,4:57,Burks Bad Pass Turnover (P2.T15),Smith STEAL (2 STL),nan,202692,Alec Burks,UTA,202397,Ish Smith,NOP,0,nan,nan,Turnover ,Bad Pass
+30497,21500243,4,4:53,nan,Smith 1' Running Layup (13 PTS),82 - 90,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+30498,21500243,4,4:35,Booker Traveling Turnover (P2.T16),nan,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+30499,21500243,4,4:21,Hood S.FOUL (P2.PN) (C.Blair),nan,nan,203918,Rodney Hood,UTA,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+30500,21500243,4,4:21,nan,Davis Free Throw 1 of 2 (33 PTS),83 - 90,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30501,21500243,4,4:21,nan,Davis Free Throw 2 of 2 (34 PTS),84 - 90,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30502,21500243,4,4:04,MISS Hayward 20' Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30503,21500243,4,4:03,nan,Gee REBOUND (Off:0 Def:2),nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30504,21500243,4,3:46,nan,MISS Gordon 3' Driving Layup,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30505,21500243,4,3:45,Booker REBOUND (Off:4 Def:10),nan,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30506,21500243,4,3:26,Hayward 6' Driving Floating Bank Jump Shot (17 PTS),nan,84 - 92,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30507,21500243,4,3:06,Hood STEAL (2 STL),Gee Bad Pass Turnover (P1.T15),nan,202087,Alonzo Gee,NOP,203918,Rodney Hood,UTA,0,nan,nan,Turnover ,Bad Pass
+30508,21500243,4,2:54,nan,Gordon S.FOUL (P1.T4) (C.Blair),nan,201569,Eric Gordon,NOP,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Shooting
+30509,21500243,4,2:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+30510,21500243,4,2:54,nan,SUB: Holiday FOR Gee,nan,202087,Alonzo Gee,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+30511,21500243,4,2:54,Hood Free Throw 1 of 2 (15 PTS),nan,84 - 93,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30512,21500243,4,2:54,Hood Free Throw 2 of 2 (16 PTS),nan,84 - 94,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30513,21500243,4,2:35,nan,Davis 20' Jump Shot (36 PTS) (Smith 6 AST),86 - 94,203076,Anthony Davis,NOP,202397,Ish Smith,NOP,0,nan,nan,Made Shot ,nan
+30514,21500243,4,2:10,MISS Hood 25' 3PT Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30515,21500243,4,2:08,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30516,21500243,4,2:00,nan,Davis Traveling Turnover (P2.T16),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+30517,21500243,4,1:42,Burks 10' Turnaround Jump Shot (18 PTS),nan,86 - 96,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30518,21500243,4,1:42,nan,Pelicans Timeout: Short (Reg.4 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+30519,21500243,4,1:37,Booker BLOCK (3 BLK),MISS Smith  3PT Jump Shot,nan,202397,Ish Smith,NOP,0,nan,nan,202344,Trevor Booker,UTA,Missed Shot ,nan
+30520,21500243,4,1:35,Gobert REBOUND (Off:2 Def:12),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30521,21500243,4,1:16,MISS Hood 12' Turnaround Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30522,21500243,4,1:14,nan,Holiday REBOUND (Off:0 Def:2),nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30523,21500243,4,1:12,Hood S.FOUL (P3.PN) (T.Washington),nan,nan,203918,Rodney Hood,UTA,201569,Eric Gordon,NOP,0,nan,nan,Foul ,Shooting
+30524,21500243,4,1:12,nan,MISS Gordon Free Throw 1 of 2,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30525,21500243,4,1:12,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+30526,21500243,4,1:12,nan,Gordon Free Throw 2 of 2 (4 PTS),87 - 96,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30527,21500243,4,0:54,Burks 25' 3PT Jump Shot (21 PTS),nan,87 - 99,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+30528,21500243,4,0:54,nan,Pelicans Timeout: Short (Reg.4 Short 2),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+30529,21500243,4,0:52,Gobert STEAL (1 STL),Holiday Bad Pass Turnover (P4.T17),nan,201950,Jrue Holiday,NOP,203497,Rudy Gobert,UTA,0,nan,nan,Turnover ,Bad Pass
+30530,21500243,4,0:34,Gobert  Alley Oop Dunk (9 PTS) (Hood 4 AST),nan,87 - 101,203497,Rudy Gobert,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+30531,21500243,4,0:26,nan,MISS Davis 24' 3PT Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30532,21500243,4,0:25,nan,Smith REBOUND (Off:1 Def:5),nan,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30533,21500243,4,0:22,nan,MISS Smith 6' Jump Shot,nan,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30534,21500243,4,0:21,Booker REBOUND (Off:4 Def:11),nan,nan,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30535,21500243,4,0:00,nan,nan,87 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

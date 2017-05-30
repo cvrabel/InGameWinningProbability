@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+29422,21500234,4,12:00,nan,nan,71 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+29423,21500234,4,11:44,THUNDER Timeout: Short (Full 3 Short 2),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+29424,21500234,4,11:39,Waiters 12' Step Back Jump Shot (6 PTS),nan,71 - 78,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+29425,21500234,4,11:23,nan,Baynes 15' Jump Shot (4 PTS),73 - 78,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+29426,21500234,4,11:10,Jump Ball Waiters vs. Johnson: Tip to Blake,nan,nan,203079,Dion Waiters,OKC,1626169,Stanley Johnson,DET,2581,Steve Blake,DET,Jump Ball ,nan
+29427,21500234,4,11:10,Waiters Lost Ball Turnover (P2.T13),Johnson STEAL (1 STL),nan,203079,Dion Waiters,OKC,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Lost Ball
+29428,21500234,4,10:56,Ibaka BLOCK (1 BLK),MISS Tolliver 24' 3PT Jump Shot,nan,201229,Anthony Tolliver,DET,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+29429,21500234,4,10:56,Augustin REBOUND (Off:0 Def:1),nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29430,21500234,4,10:51,MISS Waiters 3' Layup,Tolliver BLOCK (1 BLK),nan,203079,Dion Waiters,OKC,0,nan,nan,201229,Anthony Tolliver,DET,Missed Shot ,nan
+29431,21500234,4,10:51,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29432,21500234,4,10:44,Augustin 3' Driving Layup (2 PTS),nan,73 - 80,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+29433,21500234,4,10:44,nan,Blake S.FOUL (P1.T1) (P.Fraher),nan,2581,Steve Blake,DET,201571,D.J. Augustin,OKC,0,nan,nan,Foul ,Shooting
+29434,21500234,4,10:44,Augustin Free Throw 1 of 1 (3 PTS),nan,73 - 81,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+29435,21500234,4,10:35,Roberson P.FOUL (P2.T1) (K.Scott),nan,nan,203460,Andre Roberson,OKC,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+29436,21500234,4,10:35,nan,nan,nan,203079,Dion Waiters,OKC,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Double Technical
+29437,21500234,4,10:22,Roberson S.FOUL (P3.T2) (T.Brothers),nan,nan,203460,Andre Roberson,OKC,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+29438,21500234,4,10:22,nan,Marc Morris Free Throw 1 of 2 (13 PTS),74 - 81,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29439,21500234,4,10:22,nan,Marc Morris Free Throw 2 of 2 (14 PTS),75 - 81,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29440,21500234,4,10:02,Augustin 25' 3PT Step Back Jump Shot (6 PTS),nan,75 - 84,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+29441,21500234,4,9:46,nan,MISS Blake 25' 3PT Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29442,21500234,4,9:45,Roberson REBOUND (Off:0 Def:7),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29443,21500234,4,9:36,Ibaka 15' Jump Shot (10 PTS) (Augustin 2 AST),nan,75 - 86,201586,Serge Ibaka,OKC,201571,D.J. Augustin,OKC,0,nan,nan,Made Shot ,nan
+29444,21500234,4,9:36,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29445,21500234,4,9:36,nan,SUB: Drummond FOR Blake,nan,2581,Steve Blake,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+29446,21500234,4,9:36,nan,SUB: Jackson FOR Baynes,nan,203382,Aron Baynes,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+29447,21500234,4,9:06,nan,Jackson 25' 3PT Jump Shot (13 PTS) (Drummond 2 AST),78 - 86,202704,Reggie Jackson,DET,203083,Andre Drummond,DET,0,nan,nan,Made Shot ,nan
+29448,21500234,4,8:52,MISS Augustin  3PT Jump Shot,nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29449,21500234,4,8:51,nan,Johnson REBOUND (Off:1 Def:1),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29450,21500234,4,8:44,Ibaka BLOCK (2 BLK),MISS Johnson 1' Driving Layup,nan,1626169,Stanley Johnson,DET,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+29451,21500234,4,8:43,Augustin REBOUND (Off:0 Def:2),nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29452,21500234,4,8:40,nan,Jackson S.FOUL (P4.T2) (P.Fraher),nan,202704,Reggie Jackson,DET,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+29453,21500234,4,8:40,Kanter Free Throw 1 of 2 (10 PTS),nan,78 - 87,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29454,21500234,4,8:40,nan,SUB: Caldwell-Pope FOR Johnson,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+29455,21500234,4,8:40,MISS Kanter Free Throw 2 of 2,nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29456,21500234,4,8:39,nan,Tolliver REBOUND (Off:1 Def:2),nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29457,21500234,4,8:17,nan,MISS Jackson 17' Step Back Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29458,21500234,4,8:16,Roberson REBOUND (Off:0 Def:8),nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29459,21500234,4,8:06,Ibaka 5' Jump Shot (12 PTS) (Waiters 3 AST),nan,78 - 89,201586,Serge Ibaka,OKC,203079,Dion Waiters,OKC,0,nan,nan,Made Shot ,nan
+29460,21500234,4,7:41,nan,Caldwell-Pope 17' Pullup Jump Shot (11 PTS),80 - 89,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+29461,21500234,4,7:17,MISS Ibaka 17' Jump Shot,nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29462,21500234,4,7:17,Kanter REBOUND (Off:2 Def:2),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29463,21500234,4,7:13,Kanter 1' Reverse Layup (12 PTS),nan,80 - 91,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+29464,21500234,4,7:00,nan,Drummond 7' Turnaround Hook Shot (15 PTS),82 - 91,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+29465,21500234,4,6:45,nan,Tolliver S.FOUL (P1.T3) (P.Fraher),nan,201229,Anthony Tolliver,DET,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+29466,21500234,4,6:45,Kanter Free Throw 1 of 2 (13 PTS),nan,82 - 92,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+29467,21500234,4,6:45,nan,SUB: Ilyasova FOR Tolliver,nan,201229,Anthony Tolliver,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+29468,21500234,4,6:45,SUB: Durant FOR Roberson,nan,nan,203460,Andre Roberson,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+29469,21500234,4,6:45,SUB: Westbrook FOR Augustin,nan,nan,201571,D.J. Augustin,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+29470,21500234,4,6:45,Kanter Free Throw 2 of 2 (14 PTS),nan,82 - 93,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+29471,21500234,4,6:36,nan,Caldwell-Pope Step Out of Bounds Turnover (P1.T7),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+29472,21500234,4,6:20,Durant 25' 3PT Jump Shot (34 PTS) (Kanter 1 AST),nan,82 - 96,201142,Kevin Durant,OKC,202683,Enes Kanter,OKC,0,nan,nan,Made Shot ,nan
+29473,21500234,4,6:19,nan,Pistons Timeout: Regular (Reg.5 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29474,21500234,4,6:19,nan,nan,nan,451,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+29475,21500234,4,6:05,nan,MISS Caldwell-Pope 2' Driving Layup,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29476,21500234,4,6:05,Durant REBOUND (Off:1 Def:11),nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29477,21500234,4,5:59,Westbrook 26' 3PT Jump Shot (14 PTS) (Durant 4 AST),nan,82 - 99,201566,Russell Westbrook,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+29478,21500234,4,5:41,nan,Marc Morris 25' 3PT Jump Shot (17 PTS) (Jackson 4 AST),85 - 99,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+29479,21500234,4,5:31,Kanter OFF.Foul (P2) (P.Fraher),nan,nan,202683,Enes Kanter,OKC,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Offensive
+29480,21500234,4,5:31,Kanter Foul Turnover (P1.T14),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+29481,21500234,4,5:22,Kanter BLOCK (1 BLK),MISS Jackson 3' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,202683,Enes Kanter,OKC,Missed Shot ,nan
+29482,21500234,4,5:21,nan,Caldwell-Pope REBOUND (Off:1 Def:2),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29483,21500234,4,5:08,nan,MISS Ilyasova 25' 3PT Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29484,21500234,4,5:06,Kanter REBOUND (Off:2 Def:3),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29485,21500234,4,5:03,Westbrook Lost Ball Turnover (P9.T15),Jackson STEAL (2 STL),nan,201566,Russell Westbrook,OKC,202704,Reggie Jackson,DET,0,nan,nan,Turnover ,Lost Ball
+29486,21500234,4,4:57,nan,Jackson 2' Layup (15 PTS),87 - 99,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+29487,21500234,4,4:57,Westbrook S.FOUL (P5.T3) (P.Fraher),nan,nan,201566,Russell Westbrook,OKC,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+29488,21500234,4,4:57,nan,MISS Jackson Free Throw 1 of 1,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+29489,21500234,4,4:56,Durant REBOUND (Off:1 Def:12),nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29490,21500234,4,4:43,Westbrook Out of Bounds Lost Ball Turnover (P10.T16),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+29491,21500234,4,4:35,Ibaka BLOCK (3 BLK),MISS Jackson 1' Driving Layup,nan,202704,Reggie Jackson,DET,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+29492,21500234,4,4:34,Waiters REBOUND (Off:1 Def:3),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29493,21500234,4,4:25,Westbrook OFF.Foul (P6) (P.Fraher),nan,nan,201566,Russell Westbrook,OKC,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Offensive
+29494,21500234,4,4:25,Westbrook Foul Turnover (P11.T17),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+29495,21500234,4,4:25,SUB: Adams FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+29496,21500234,4,4:25,SUB: Augustin FOR Westbrook,nan,nan,201566,Russell Westbrook,OKC,201571,D.J. Augustin,OKC,0,nan,nan,Substitution ,nan
+29497,21500234,4,4:12,nan,MISS Jackson 5' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29498,21500234,4,4:11,nan,Drummond REBOUND (Off:3 Def:4),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29499,21500234,4,4:11,nan,MISS Drummond 1' Tip Layup Shot,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29500,21500234,4,4:11,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29501,21500234,4,4:11,nan,Jackson L.B.FOUL (P5.T4) (K.Scott),nan,202704,Reggie Jackson,DET,201586,Serge Ibaka,OKC,0,nan,nan,Foul ,Loose Ball
+29502,21500234,4,3:49,MISS Waiters 16' Jump Shot,nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29503,21500234,4,3:49,nan,Marc Morris REBOUND (Off:0 Def:4),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29504,21500234,4,3:31,nan,MISS Marc Morris 15' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29505,21500234,4,3:30,Adams REBOUND (Off:4 Def:8),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29506,21500234,4,3:14,THUNDER Timeout: Regular (Full 4 Short 2),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+29507,21500234,4,3:08,MISS Durant 25' 3PT Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29508,21500234,4,3:06,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29509,21500234,4,2:51,Waiters 17' Fadeaway Jumper (8 PTS) (Augustin 3 AST),nan,87 - 101,203079,Dion Waiters,OKC,201571,D.J. Augustin,OKC,0,nan,nan,Made Shot ,nan
+29510,21500234,4,2:33,nan,MISS Drummond 1' Driving Layup,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29511,21500234,4,2:33,Adams REBOUND (Off:4 Def:9),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29512,21500234,4,2:13,Ibaka 20' Jump Shot (14 PTS) (Durant 5 AST),nan,87 - 103,201586,Serge Ibaka,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+29513,21500234,4,2:00,Ibaka BLOCK (4 BLK),MISS Caldwell-Pope  Driving Dunk,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,201586,Serge Ibaka,OKC,Missed Shot ,nan
+29514,21500234,4,1:59,nan,Caldwell-Pope REBOUND (Off:2 Def:2),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29515,21500234,4,1:56,nan,MISS Caldwell-Pope 4' Jump Bank Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29516,21500234,4,1:56,Augustin REBOUND (Off:0 Def:3),nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29517,21500234,4,1:35,MISS Waiters 24' 3PT Pullup Jump Shot,nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29518,21500234,4,1:33,nan,Ilyasova REBOUND (Off:2 Def:2),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29519,21500234,4,1:29,nan,Ilyasova Offensive Charge Foul (P1.PN) (T.Brothers),nan,101141,Ersan Ilyasova,DET,201571,D.J. Augustin,OKC,0,nan,nan,Foul ,Offensive Charge
+29520,21500234,4,1:29,nan,Ilyasova Foul Turnover (P1.T8),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+29521,21500234,4,1:08,MISS Durant 4' Floating Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29522,21500234,4,1:07,Augustin REBOUND (Off:1 Def:3),nan,nan,201571,D.J. Augustin,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29523,21500234,4,0:47,Ibaka Step Out of Bounds Turnover (P1.T18),nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+29524,21500234,4,0:35,nan,MISS Caldwell-Pope 14' Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29525,21500234,4,0:34,Ibaka REBOUND (Off:1 Def:3),nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29526,21500234,4,0:12,THUNDER Turnover: Shot Clock (T#19),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+29527,21500234,4,0:00,nan,MISS Jackson 32' 3PT Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+29528,21500234,4,0:00,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+29529,21500234,4,0:00,nan,nan,87 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+12865,21500101,4,12:00,nan,nan,93 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+12866,21500101,4,11:50,MISS Schroder 18' Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12867,21500101,4,11:48,nan,Bjelica REBOUND (Off:0 Def:3),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12868,21500101,4,11:38,nan,MISS Martin 24' 3PT Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12869,21500101,4,11:37,Splitter REBOUND (Off:0 Def:2),nan,nan,201168,Tiago Splitter,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12870,21500101,4,11:25,MISS Sefolosha  3PT Jump Shot,nan,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12871,21500101,4,11:24,nan,Dieng REBOUND (Off:1 Def:2),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12872,21500101,4,11:04,Bazemore STEAL (4 STL),Muhammad Bad Pass Turnover (P2.T15),nan,203498,Shabazz Muhammad,MIN,203145,Kent Bazemore,ATL,0,nan,nan,Turnover ,Bad Pass
+12873,21500101,4,10:49,MISS Bazemore 24' 3PT Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12874,21500101,4,10:48,Horford REBOUND (Off:2 Def:1),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12875,21500101,4,10:48,nan,Bjelica S.FOUL (P2.T1) (L.Wood),nan,202357,Nemanja Bjelica,MIN,201143,Al Horford,ATL,0,nan,nan,Foul ,Shooting
+12876,21500101,4,10:48,Horford T.FOUL (P1.T0) (L.Wood),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Foul ,Technical
+12877,21500101,4,10:48,nan,Martin Free Throw Technical (12 PTS),94 - 84,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+12878,21500101,4,10:48,Horford Free Throw 1 of 2 (8 PTS),nan,94 - 85,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12879,21500101,4,10:48,nan,SUB: Wiggins FOR Muhammad,nan,203498,Shabazz Muhammad,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+12880,21500101,4,10:48,Horford Free Throw 2 of 2 (9 PTS),nan,94 - 86,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12881,21500101,4,10:30,nan,MISS Wiggins 21' Pullup Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12882,21500101,4,10:28,Schroder REBOUND (Off:0 Def:1),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12883,21500101,4,10:18,nan,A. Miller P.FOUL (P1.T2) (R.Mott),nan,1889,Andre Miller,MIN,201168,Tiago Splitter,ATL,0,nan,nan,Foul ,Personal
+12884,21500101,4,10:12,Schroder 24' 3PT Pullup Jump Shot (12 PTS),nan,94 - 89,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+12885,21500101,4,9:54,nan,Bjelica 25' 3PT Jump Shot (8 PTS) (A. Miller 1 AST),97 - 89,202357,Nemanja Bjelica,MIN,1889,Andre Miller,MIN,0,nan,nan,Made Shot ,nan
+12886,21500101,4,9:40,Horford Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+12887,21500101,4,9:29,nan,MISS Martin 2' Driving Layup,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12888,21500101,4,9:28,Splitter REBOUND (Off:0 Def:3),nan,nan,201168,Tiago Splitter,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12889,21500101,4,9:11,MISS Bazemore 25' 3PT Pullup Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12890,21500101,4,9:09,nan,Bjelica REBOUND (Off:0 Def:4),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12891,21500101,4,9:09,Sefolosha P.FOUL (P1.T1) (M.Callahan),nan,nan,200757,Thabo Sefolosha,ATL,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+12892,21500101,4,9:09,SUB: Korver FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+12893,21500101,4,8:57,Bazemore STEAL (5 STL),A. Miller Bad Pass Turnover (P1.T16),nan,1889,Andre Miller,MIN,203145,Kent Bazemore,ATL,0,nan,nan,Turnover ,Bad Pass
+12894,21500101,4,8:57,nan,Dieng P.FOUL (P2.T3) (L.Wood),nan,203476,Gorgui Dieng,MIN,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal
+12895,21500101,4,8:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+12896,21500101,4,8:38,Bazemore 2' Cutting Layup Shot (9 PTS) (Horford 3 AST),nan,97 - 91,203145,Kent Bazemore,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+12897,21500101,4,8:11,nan,Bjelica 25' 3PT Jump Shot (11 PTS) (Martin 1 AST),100 - 91,202357,Nemanja Bjelica,MIN,2755,Kevin Martin,MIN,0,nan,nan,Made Shot ,nan
+12898,21500101,4,7:51,Bazemore Bad Pass Turnover (P4.T15),A. Miller STEAL (1 STL),nan,203145,Kent Bazemore,ATL,1889,Andre Miller,MIN,0,nan,nan,Turnover ,Bad Pass
+12899,21500101,4,7:46,nan,MISS A. Miller 1' Running Reverse Layup,nan,1889,Andre Miller,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12900,21500101,4,7:44,Bazemore REBOUND (Off:0 Def:5),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12901,21500101,4,7:39,Horford  Cutting Dunk Shot (11 PTS) (Bazemore 3 AST),nan,100 - 93,201143,Al Horford,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+12902,21500101,4,7:18,Korver S.FOUL (P1.T2) (L.Wood),nan,nan,2594,Kyle Korver,ATL,2755,Kevin Martin,MIN,0,nan,nan,Foul ,Shooting
+12903,21500101,4,7:18,nan,Martin Free Throw 1 of 2 (13 PTS),101 - 93,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12904,21500101,4,7:18,SUB: Millsap FOR Bazemore,nan,nan,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+12905,21500101,4,7:18,SUB: Teague FOR Splitter,nan,nan,201168,Tiago Splitter,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+12906,21500101,4,7:18,nan,SUB: Rubio FOR A. Miller,nan,1889,Andre Miller,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+12907,21500101,4,7:18,nan,MISS Martin Free Throw 2 of 2,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12908,21500101,4,7:17,Horford REBOUND (Off:2 Def:2),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12909,21500101,4,7:09,Horford 24' 3PT Jump Shot (14 PTS) (Schroder 4 AST),nan,101 - 96,201143,Al Horford,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+12910,21500101,4,6:54,nan,Dieng Traveling Turnover (P2.T17),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+12911,21500101,4,6:54,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+12912,21500101,4,6:41,Teague 15' Driving Floating Jump Shot (22 PTS),nan,101 - 98,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+12913,21500101,4,6:35,nan,Timberwolves Timeout: Regular (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12914,21500101,4,6:35,SUB: Splitter FOR Horford,nan,nan,201143,Al Horford,ATL,201168,Tiago Splitter,ATL,0,nan,nan,Substitution ,nan
+12915,21500101,4,6:18,Millsap STEAL (1 STL),Towns Bad Pass Turnover (P2.T18),nan,1626157,Karl-Anthony Towns,MIN,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Bad Pass
+12916,21500101,4,6:13,Teague 1' Running Layup (24 PTS) (Millsap 5 AST),nan,101 - 100,201952,Jeff Teague,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+12917,21500101,4,5:55,Korver S.FOUL (P2.T3) (M.Callahan),nan,nan,2594,Kyle Korver,ATL,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+12918,21500101,4,5:55,nan,Towns Free Throw 1 of 2 (12 PTS),102 - 100,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12919,21500101,4,5:55,nan,SUB: Prince FOR Martin,nan,2755,Kevin Martin,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Substitution ,nan
+12920,21500101,4,5:55,nan,Towns Free Throw 2 of 2 (13 PTS),103 - 100,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12921,21500101,4,5:35,Korver 11' Driving Floating Bank Jump Shot (5 PTS) (Millsap 6 AST),nan,103 - 102,2594,Kyle Korver,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+12922,21500101,4,5:11,nan,MISS Wiggins 11' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12923,21500101,4,5:10,nan,Towns REBOUND (Off:3 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12924,21500101,4,5:08,nan,Towns 1' Putback Layup (15 PTS),105 - 102,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+12925,21500101,4,5:00,MISS Schroder 24' 3PT Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12926,21500101,4,4:59,nan,Towns REBOUND (Off:3 Def:7),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12927,21500101,4,4:41,Millsap STEAL (2 STL),Rubio Bad Pass Turnover (P2.T19),nan,201937,Ricky Rubio,MIN,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Bad Pass
+12928,21500101,4,4:25,Millsap 1' Driving Layup (19 PTS) (Teague 9 AST),nan,105 - 104,200794,Paul Millsap,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+12929,21500101,4,4:25,nan,Towns S.FOUL (P3.T4) (R.Mott),nan,1626157,Karl-Anthony Towns,MIN,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+12930,21500101,4,4:25,SUB: Bazemore FOR Splitter,nan,nan,201168,Tiago Splitter,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+12931,21500101,4,4:25,SUB: Horford FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+12932,21500101,4,4:25,Millsap Free Throw 1 of 1 (20 PTS),nan,105 - 105,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+12933,21500101,4,4:05,nan,MISS Rubio 25' 3PT Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12934,21500101,4,4:03,Horford REBOUND (Off:2 Def:3),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12935,21500101,4,3:58,Teague Out of Bounds - Bad Pass Turnover Turnover (P6.T16),nan,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+12936,21500101,4,3:44,Bazemore S.FOUL (P4.T4) (M.Callahan),nan,nan,203145,Kent Bazemore,ATL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+12937,21500101,4,3:44,nan,Wiggins Free Throw 1 of 2 (26 PTS),106 - 105,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12938,21500101,4,3:44,nan,MISS Wiggins Free Throw 2 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12939,21500101,4,3:41,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12940,21500101,4,3:25,Millsap 2' Driving Layup (22 PTS),nan,106 - 107,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+12941,21500101,4,3:10,nan,Wiggins 2' Driving Layup (28 PTS),108 - 107,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+12942,21500101,4,3:10,Horford S.FOUL (P2.PN) (R.Mott),nan,nan,201143,Al Horford,ATL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+12943,21500101,4,3:10,nan,Wiggins Free Throw 1 of 1 (29 PTS),109 - 107,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+12944,21500101,4,2:53,MISS Bazemore 19' Pullup Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12945,21500101,4,2:51,nan,Rubio REBOUND (Off:0 Def:1),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12946,21500101,4,2:37,nan,MISS Prince 20' Jump Shot,nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12947,21500101,4,2:35,Millsap REBOUND (Off:1 Def:3),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12948,21500101,4,2:28,HAWKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12949,21500101,4,2:21,MISS Millsap 2' Driving Layup,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12950,21500101,4,2:18,nan,Towns REBOUND (Off:3 Def:8),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12951,21500101,4,2:00,nan,Wiggins 20' Pullup Jump Shot (31 PTS),111 - 107,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+12952,21500101,4,1:54,MISS Teague 7' Driving Floating Jump Shot,Towns BLOCK (1 BLK),nan,201952,Jeff Teague,ATL,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+12953,21500101,4,1:51,nan,Prince REBOUND (Off:1 Def:1),nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12954,21500101,4,1:30,nan,Wiggins 16' Pullup Jump Shot (33 PTS) (Rubio 8 AST),113 - 107,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+12955,21500101,4,1:30,Bazemore S.FOUL (P5.PN) (M.Callahan),nan,nan,203145,Kent Bazemore,ATL,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+12956,21500101,4,1:30,nan,MISS Wiggins Free Throw 1 of 1,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+12957,21500101,4,1:29,Horford REBOUND (Off:2 Def:4),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12958,21500101,4,1:22,MISS Teague 5' Driving Floating Jump Shot,Towns BLOCK (2 BLK),nan,201952,Jeff Teague,ATL,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+12959,21500101,4,1:22,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12960,21500101,4,1:17,MISS Teague 2' Driving Layup,Towns BLOCK (3 BLK),nan,201952,Jeff Teague,ATL,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+12961,21500101,4,1:15,nan,Bjelica REBOUND (Off:0 Def:5),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12962,21500101,4,0:53,nan,MISS Wiggins 21' Pullup Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12963,21500101,4,0:51,Bazemore REBOUND (Off:0 Def:6),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12964,21500101,4,0:47,Bazemore Offensive Charge Foul (P6.PN) (M.Callahan),nan,nan,203145,Kent Bazemore,ATL,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Offensive Charge
+12965,21500101,4,0:47,Bazemore Foul Turnover (P5.T17),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Turnover ,Foul
+12966,21500101,4,0:47,nan,Timberwolves Timeout: Short (Reg.4 Short 2),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+12967,21500101,4,0:47,SUB: Sefolosha FOR Bazemore,nan,nan,203145,Kent Bazemore,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+12968,21500101,4,0:47,SUB: Holiday FOR Korver,nan,nan,2594,Kyle Korver,ATL,203200,Justin Holiday,ATL,0,nan,nan,Substitution ,nan
+12969,21500101,4,0:42,Teague Personal Take Foul (P3.PN) (L.Wood),nan,nan,201952,Jeff Teague,ATL,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal Take
+12970,21500101,4,0:42,nan,Rubio Free Throw 1 of 2 (9 PTS),114 - 107,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12971,21500101,4,0:42,nan,Rubio Free Throw 2 of 2 (10 PTS),115 - 107,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12972,21500101,4,0:42,HAWKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12973,21500101,4,0:42,SUB: Korver FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+12974,21500101,4,0:42,SUB: Schroder FOR Holiday,nan,nan,203200,Justin Holiday,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+12975,21500101,4,0:36,MISS Horford 25' 3PT Jump Shot,nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12976,21500101,4,0:34,Millsap REBOUND (Off:2 Def:3),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12977,21500101,4,0:29,MISS Schroder 25' 3PT Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12978,21500101,4,0:29,nan,Towns REBOUND (Off:3 Def:9),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12979,21500101,4,0:29,Horford P.FOUL (P3.PN) (M.Callahan),nan,nan,201143,Al Horford,ATL,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+12980,21500101,4,0:29,nan,Towns Free Throw 1 of 2 (16 PTS),116 - 107,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12981,21500101,4,0:29,nan,Towns Free Throw 2 of 2 (17 PTS),117 - 107,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12982,21500101,4,0:21,MISS Millsap 25' 3PT Running Pull-Up Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12983,21500101,4,0:19,nan,Wiggins REBOUND (Off:2 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12984,21500101,4,0:00,nan,nan,117 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

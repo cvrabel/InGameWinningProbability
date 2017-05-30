@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+193786,21600325,4,12:00,nan,nan,76 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+193787,21600325,4,11:48,nan,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T8),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+193788,21600325,4,11:33,nan,Leonard S.FOUL (P3.T1) (G.Petraitis),nan,203086,Meyers Leonard,POR,1627763,Malcolm Brogdon,MIL,0,nan,nan,Foul ,Shooting
+193789,21600325,4,11:33,MISS Monroe Free Throw 1 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193790,21600325,4,11:33,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+193791,21600325,4,11:33,MISS Monroe Free Throw 2 of 2,nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193792,21600325,4,11:33,nan,Leonard REBOUND (Off:0 Def:3),nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193793,21600325,4,11:22,nan,McCollum Step Out of Bounds Turnover (P2.T9),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+193794,21600325,4,11:07,MISS Brogdon 2' Layup,Leonard BLOCK (1 BLK),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,203086,Meyers Leonard,POR,Missed Shot ,nan
+193795,21600325,4,11:04,nan,Crabbe REBOUND (Off:0 Def:4),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193796,21600325,4,10:53,Brogdon STEAL (1 STL),Crabbe Lost Ball Turnover (P2.T10),nan,203459,Allen Crabbe,POR,1627763,Malcolm Brogdon,MIL,0,nan,nan,Turnover ,Lost Ball
+193797,21600325,4,10:51,nan,Crabbe S.FOUL (P1.T2) (E.Malloy),nan,203459,Allen Crabbe,POR,1627763,Malcolm Brogdon,MIL,0,nan,nan,Foul ,Shooting
+193798,21600325,4,10:51,Brogdon Free Throw 1 of 2 (10 PTS),nan,76 - 86,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193799,21600325,4,10:51,nan,SUB: Plumlee FOR Leonard,nan,203086,Meyers Leonard,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+193800,21600325,4,10:51,nan,SUB: Lillard FOR Crabbe,nan,203459,Allen Crabbe,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+193801,21600325,4,10:51,Brogdon Free Throw 2 of 2 (11 PTS),nan,76 - 87,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193802,21600325,4,10:30,nan,MISS McCollum 29' 3PT Jump Shot,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193803,21600325,4,10:29,nan,Aminu REBOUND (Off:2 Def:1),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193804,21600325,4,10:29,nan,Aminu  Tip Dunk Shot (2 PTS),78 - 87,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+193805,21600325,4,10:12,Antetokounmpo 1' Driving Layup (9 PTS) (Terry 1 AST),nan,78 - 89,203507,Giannis Antetokounmpo,MIL,1891,Jason Terry,MIL,0,nan,nan,Made Shot ,nan
+193806,21600325,4,9:54,Brogdon P.FOUL (P4.T1) (G.Petraitis),nan,nan,1627763,Malcolm Brogdon,MIL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+193807,21600325,4,9:45,nan,MISS Lillard 25' 3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193808,21600325,4,9:44,Beasley REBOUND (Off:0 Def:8),nan,nan,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193809,21600325,4,9:39,nan,Turner S.FOUL (P1.T3) (G.Petraitis),nan,202323,Evan Turner,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+193810,21600325,4,9:39,MISS Antetokounmpo Free Throw 1 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193811,21600325,4,9:39,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+193812,21600325,4,9:39,MISS Antetokounmpo Free Throw 2 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193813,21600325,4,9:37,nan,Turner REBOUND (Off:0 Def:4),nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193814,21600325,4,9:30,nan,Plumlee  Alley Oop Dunk (5 PTS) (Turner 2 AST),80 - 89,203486,Mason Plumlee,POR,202323,Evan Turner,POR,0,nan,nan,Made Shot ,nan
+193815,21600325,4,9:11,MISS Antetokounmpo 18' Step Back Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193816,21600325,4,9:10,nan,Aminu REBOUND (Off:2 Def:2),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193817,21600325,4,9:05,Beasley S.FOUL (P2.T2) (E.Malloy),nan,nan,201563,Michael Beasley,MIL,202323,Evan Turner,POR,0,nan,nan,Foul ,Shooting
+193818,21600325,4,9:05,nan,Turner Free Throw 1 of 2 (5 PTS),81 - 89,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193819,21600325,4,9:05,nan,Turner Free Throw 2 of 2 (6 PTS),82 - 89,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193820,21600325,4,8:55,Beasley 28' 3PT Jump Shot (10 PTS) (Antetokounmpo 9 AST),nan,82 - 92,201563,Michael Beasley,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+193821,21600325,4,8:41,Terry P.FOUL (P1.T3) (E.Malloy),nan,nan,1891,Jason Terry,MIL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+193822,21600325,4,8:41,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+193823,21600325,4,8:41,nan,SUB: Harkless FOR Aminu,nan,202329,Al-Farouq Aminu,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+193824,21600325,4,8:41,SUB: Snell FOR Terry,nan,nan,1891,Jason Terry,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+193825,21600325,4,8:33,Brogdon STEAL (2 STL),Lillard Bad Pass Turnover (P2.T11),nan,203081,Damian Lillard,POR,1627763,Malcolm Brogdon,MIL,0,nan,nan,Turnover ,Bad Pass
+193826,21600325,4,8:30,Brogdon 1' Running Layup (13 PTS),nan,82 - 94,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+193827,21600325,4,8:04,nan,Harkless  Reverse Layup (9 PTS) (Turner 3 AST),84 - 94,203090,Maurice Harkless,POR,202323,Evan Turner,POR,0,nan,nan,Made Shot ,nan
+193828,21600325,4,7:48,Beasley 7' Turnaround Jump Shot (12 PTS),nan,84 - 96,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+193829,21600325,4,7:37,nan,Plumlee  Alley Oop Dunk (7 PTS) (McCollum 3 AST),86 - 96,203486,Mason Plumlee,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+193830,21600325,4,7:23,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+193831,21600325,4,7:23,nan,SUB: Aminu FOR McCollum,nan,203468,CJ McCollum,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+193832,21600325,4,7:23,nan,SUB: McCollum FOR Aminu,nan,202329,Al-Farouq Aminu,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+193833,21600325,4,7:17,Beasley Lost Ball Turnover (P2.T9),nan,nan,201563,Michael Beasley,MIL,0,nan,nan,0,nan,nan,Turnover ,Lost Ball
+193834,21600325,4,7:17,Jump Ball Beasley vs. Harkless: Tip to Lillard,nan,nan,201563,Michael Beasley,MIL,203090,Maurice Harkless,POR,203081,Damian Lillard,POR,Jump Ball ,nan
+193835,21600325,4,7:17,Antetokounmpo S.FOUL (P3.T4) (G.Petraitis),nan,nan,203507,Giannis Antetokounmpo,MIL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+193836,21600325,4,7:17,nan,Lillard Free Throw 1 of 2 (29 PTS),87 - 96,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193837,21600325,4,7:17,nan,Lillard Free Throw 2 of 2 (30 PTS),88 - 96,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193838,21600325,4,7:07,nan,Turner S.FOUL (P2.T4) (G.Zielinski),nan,202323,Evan Turner,POR,203503,Tony Snell,MIL,0,nan,nan,Foul ,Shooting
+193839,21600325,4,7:07,MISS Snell Free Throw 1 of 2,nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193840,21600325,4,7:07,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+193841,21600325,4,7:07,SUB: Parker FOR Beasley,nan,nan,201563,Michael Beasley,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+193842,21600325,4,7:07,Snell Free Throw 2 of 2 (7 PTS),nan,88 - 97,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193843,21600325,4,6:43,nan,Trail Blazers Turnover: Shot Clock (T#12),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+193844,21600325,4,6:32,MISS Parker 15' Step Back Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193845,21600325,4,6:31,nan,Lillard REBOUND (Off:0 Def:6),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193846,21600325,4,6:18,Antetokounmpo STEAL (1 STL),Harkless Bad Pass Turnover (P3.T13),nan,203090,Maurice Harkless,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+193847,21600325,4,6:15,nan,Lillard S.FOUL (P1.PN) (E.Malloy),nan,203081,Damian Lillard,POR,203503,Tony Snell,MIL,0,nan,nan,Foul ,Shooting
+193848,21600325,4,6:15,Snell Free Throw 1 of 2 (8 PTS),nan,88 - 98,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193849,21600325,4,6:15,nan,SUB: Crabbe FOR Turner,nan,202323,Evan Turner,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+193850,21600325,4,6:15,Snell Free Throw 2 of 2 (9 PTS),nan,88 - 99,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193851,21600325,4,6:03,nan,McCollum 1' Driving Layup (20 PTS),90 - 99,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+193852,21600325,4,5:45,Brogdon Bad Pass Turnover (P1.T10),Plumlee STEAL (2 STL),nan,1627763,Malcolm Brogdon,MIL,203486,Mason Plumlee,POR,0,nan,nan,Turnover ,Bad Pass
+193853,21600325,4,5:30,Antetokounmpo STEAL (2 STL),McCollum Bad Pass Turnover (P3.T14),nan,203468,CJ McCollum,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+193854,21600325,4,5:27,nan,Crabbe S.FOUL (P2.PN) (G.Petraitis),nan,203459,Allen Crabbe,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+193855,21600325,4,5:27,Antetokounmpo Free Throw 1 of 2 (10 PTS),nan,90 - 100,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193856,21600325,4,5:27,Antetokounmpo Free Throw 2 of 2 (11 PTS),nan,90 - 101,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193857,21600325,4,5:09,nan,Crabbe 24' 3PT Jump Shot (8 PTS) (McCollum 4 AST),93 - 101,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+193858,21600325,4,4:45,MISS Parker 25' 3PT Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193859,21600325,4,4:43,nan,Plumlee REBOUND (Off:2 Def:7),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193860,21600325,4,4:37,nan,McCollum 25' 3PT Jump Shot (23 PTS) (Lillard 5 AST),96 - 101,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+193861,21600325,4,4:37,BUCKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+193862,21600325,4,4:37,SUB: Dellavedova FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+193863,21600325,4,4:37,SUB: Henson FOR Brogdon,nan,nan,1627763,Malcolm Brogdon,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+193864,21600325,4,4:25,MISS Dellavedova 1' Layup,Plumlee BLOCK (3 BLK),nan,203521,Matthew Dellavedova,MIL,0,nan,nan,203486,Mason Plumlee,POR,Missed Shot ,nan
+193865,21600325,4,4:22,nan,Lillard REBOUND (Off:0 Def:7),nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193866,21600325,4,4:16,nan,Crabbe 26' 3PT Jump Shot (11 PTS) (Lillard 6 AST),99 - 101,203459,Allen Crabbe,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+193867,21600325,4,3:59,Dellavedova 6' Floating Jump Shot (13 PTS) (Antetokounmpo 10 AST),nan,99 - 103,203521,Matthew Dellavedova,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+193868,21600325,4,3:41,nan,MISS Crabbe 10' Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193869,21600325,4,3:40,nan,Harkless REBOUND (Off:3 Def:0),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193870,21600325,4,3:40,nan,Harkless Out of Bounds Lost Ball Turnover (P4.T15),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+193871,21600325,4,3:27,MISS Parker 25' 3PT Jump Shot,nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193872,21600325,4,3:26,nan,Plumlee REBOUND (Off:2 Def:8),nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193873,21600325,4,3:12,nan,MISS Crabbe 24' 3PT Jump Shot,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193874,21600325,4,3:11,Snell REBOUND (Off:0 Def:2),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193875,21600325,4,2:59,Dellavedova 4' Driving Hook Shot (15 PTS),nan,99 - 105,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+193876,21600325,4,2:58,nan,Trail Blazers Timeout: Regular (Reg.4 Short 0),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+193877,21600325,4,2:38,nan,MISS Lillard 27' 3PT Step Back Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193878,21600325,4,2:37,Antetokounmpo REBOUND (Off:1 Def:10),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193879,21600325,4,2:18,MISS Henson 6' Hook Shot,nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193880,21600325,4,2:16,Antetokounmpo REBOUND (Off:2 Def:10),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193881,21600325,4,2:04,Parker  Driving Dunk (27 PTS) (Antetokounmpo 11 AST),nan,99 - 107,203953,Jabari Parker,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+193882,21600325,4,1:39,Dellavedova S.FOUL (P2.PN) (G.Petraitis),nan,nan,203521,Matthew Dellavedova,MIL,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+193883,21600325,4,1:39,nan,Plumlee Free Throw 1 of 2 (8 PTS),100 - 107,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193884,21600325,4,1:39,nan,MISS Plumlee Free Throw 2 of 2,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193885,21600325,4,1:38,Henson REBOUND (Off:2 Def:3),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193886,21600325,4,1:26,nan,Harkless S.FOUL (P4.PN) (G.Petraitis),nan,203090,Maurice Harkless,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+193887,21600325,4,1:26,Antetokounmpo Free Throw 1 of 2 (12 PTS),nan,100 - 108,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193888,21600325,4,1:26,Antetokounmpo Free Throw 2 of 2 (13 PTS),nan,100 - 109,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193889,21600325,4,1:14,Antetokounmpo BLOCK (4 BLK),MISS Plumlee  Layup,nan,203486,Mason Plumlee,POR,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+193890,21600325,4,1:14,nan,Harkless REBOUND (Off:4 Def:0),nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193891,21600325,4,1:14,nan,Harkless  Putback Dunk (11 PTS),102 - 109,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+193892,21600325,4,1:01,MISS Snell 25' 3PT Jump Shot,nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193893,21600325,4,0:59,nan,McCollum REBOUND (Off:0 Def:3),nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193894,21600325,4,0:56,nan,Crabbe 25' 3PT Running Jump Shot (14 PTS) (McCollum 5 AST),105 - 109,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+193895,21600325,4,0:37,Dellavedova 5' Turnaround Hook Shot (17 PTS),nan,105 - 111,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+193896,21600325,4,0:37,nan,Trail Blazers Timeout: Regular (Reg.5 Short 0),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+193897,21600325,4,0:37,nan,SUB: Leonard FOR Plumlee,nan,203486,Mason Plumlee,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+193898,21600325,4,0:34,nan,Crabbe Step Out of Bounds Turnover (P3.T16),nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+193899,21600325,4,0:31,nan,Crabbe Personal Take Foul (P3.PN) (G.Zielinski),nan,203459,Allen Crabbe,POR,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal Take
+193900,21600325,4,0:31,Antetokounmpo Free Throw 1 of 2 (14 PTS),nan,105 - 112,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193901,21600325,4,0:31,nan,SUB: Plumlee FOR Crabbe,nan,203459,Allen Crabbe,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+193902,21600325,4,0:31,Antetokounmpo Free Throw 2 of 2 (15 PTS),nan,105 - 113,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193903,21600325,4,0:31,nan,Trail Blazers Timeout: Short (Reg.5 Short 1),nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+193904,21600325,4,0:31,nan,SUB: Crabbe FOR Harkless,nan,203090,Maurice Harkless,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+193905,21600325,4,0:29,nan,MISS Lillard  3PT Jump Shot,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+193906,21600325,4,0:27,Henson REBOUND (Off:2 Def:4),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+193907,21600325,4,0:26,nan,Leonard Personal Take Foul (P4.PN) (G.Zielinski),nan,203086,Meyers Leonard,POR,203089,John Henson,MIL,0,nan,nan,Foul ,Personal Take
+193908,21600325,4,0:26,Henson Free Throw 1 of 2 (6 PTS),nan,105 - 114,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+193909,21600325,4,0:26,Henson Free Throw 2 of 2 (7 PTS),nan,105 - 115,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+193910,21600325,4,0:17,nan,Plumlee 2' Layup (10 PTS) (Leonard 1 AST),107 - 115,203486,Mason Plumlee,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+193911,21600325,4,0:00,nan,nan,107 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

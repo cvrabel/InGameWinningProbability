@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+189224,21600289,4,12:00,nan,nan,74 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+189225,21600289,4,12:00,nan,Oubre Jr. P.FOUL (P1.T1) (K.Scott),nan,1626162,Kelly Oubre Jr.,WAS,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Personal
+189226,21600289,4,11:45,Lee 1' Cutting Layup Shot (6 PTS) (Mills 7 AST),nan,74 - 82,101135,David Lee,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+189227,21600289,4,11:45,nan,Smith S.FOUL (P4.T2) (K.Scott),nan,201160,Jason Smith,WAS,101135,David Lee,SAS,0,nan,nan,Foul ,Shooting
+189228,21600289,4,11:45,SUB: Aldridge FOR Dedmon,nan,nan,203473,Dewayne Dedmon,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+189229,21600289,4,11:45,MISS Lee Free Throw 1 of 1,nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+189230,21600289,4,11:45,nan,Smith REBOUND (Off:1 Def:1),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189231,21600289,4,11:26,nan,Porter Jr. 19' Jump Shot (11 PTS),76 - 82,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189232,21600289,4,11:14,Mills Bad Pass Turnover (P1.T12),Burke STEAL (1 STL),nan,201988,Patty Mills,SAS,203504,Trey Burke,WAS,0,nan,nan,Turnover ,Bad Pass
+189233,21600289,4,11:10,nan,Oubre Jr. 2' Running Dunk (4 PTS) (Porter Jr. 2 AST),78 - 82,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+189234,21600289,4,10:52,nan,Smith S.FOUL (P5.T3) (T.Ford),nan,201160,Jason Smith,WAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+189235,21600289,4,10:52,Aldridge Free Throw 1 of 2 (16 PTS),nan,78 - 83,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189236,21600289,4,10:52,SUB: Laprovittola FOR Mills,nan,nan,201988,Patty Mills,SAS,1627879,Nicolas Laprovittola,SAS,0,nan,nan,Substitution ,nan
+189237,21600289,4,10:52,SUB: Gasol FOR Lee,nan,nan,101135,David Lee,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+189238,21600289,4,10:52,Aldridge Free Throw 2 of 2 (17 PTS),nan,78 - 84,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189239,21600289,4,10:34,nan,MISS Oubre Jr. 4' Jump Shot,nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189240,21600289,4,10:34,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189241,21600289,4,10:34,nan,SUB: Gortat FOR Smith,nan,201160,Jason Smith,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+189242,21600289,4,10:34,nan,SUB: Mark Morris FOR Porter Jr.,nan,203490,Otto Porter Jr.,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+189243,21600289,4,10:31,Gasol STEAL (1 STL),Mark Morris Bad Pass Turnover (P3.T15),nan,202693,Markieff Morris,WAS,2200,Pau Gasol,SAS,0,nan,nan,Turnover ,Bad Pass
+189244,21600289,4,10:31,nan,Thornton P.FOUL (P4.T4) (K.Scott),nan,201977,Marcus Thornton,WAS,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Personal
+189245,21600289,4,10:31,nan,nan,nan,436,Juwan Howard,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+189246,21600289,4,10:10,nan,Oubre Jr. S.FOUL (P2.PN) (T.Ford),nan,1626162,Kelly Oubre Jr.,WAS,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+189247,21600289,4,10:10,SUB: Green FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+189248,21600289,4,10:10,Simmons Free Throw 1 of 2 (4 PTS),nan,78 - 85,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189249,21600289,4,10:10,nan,SUB: Wall FOR Burke,nan,203504,Trey Burke,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+189250,21600289,4,10:10,Simmons Free Throw 2 of 2 (5 PTS),nan,78 - 86,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189251,21600289,4,9:58,nan,Thornton OFF.Foul (P5) (M.Callahan),nan,201977,Marcus Thornton,WAS,1627879,Nicolas Laprovittola,SAS,0,nan,nan,Foul ,Offensive
+189252,21600289,4,9:58,nan,Thornton Foul Turnover (P1.T16),nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+189253,21600289,4,9:47,Laprovittola Bad Pass Turnover (P2.T13),Gortat STEAL (2 STL),nan,1627879,Nicolas Laprovittola,SAS,101162,Marcin Gortat,WAS,0,nan,nan,Turnover ,Bad Pass
+189254,21600289,4,9:47,Simmons STEAL (2 STL),Mark Morris Bad Pass Turnover (P4.T17),nan,202693,Markieff Morris,WAS,203613,Jonathon Simmons,SAS,0,nan,nan,Turnover ,Bad Pass
+189255,21600289,4,9:24,Laprovittola 2' Finger Roll Layup (7 PTS),nan,78 - 88,1627879,Nicolas Laprovittola,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189256,21600289,4,9:24,nan,Wizards Timeout: Regular (Reg.4 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189257,21600289,4,9:24,nan,SUB: Porter Jr. FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+189258,21600289,4,9:24,nan,SUB: Beal FOR Thornton,nan,201977,Marcus Thornton,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+189259,21600289,4,9:10,nan,Wall 7' Driving Bank Shot (11 PTS),80 - 88,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189260,21600289,4,8:51,Simmons Lost Ball Turnover (P1.T14),Wall STEAL (3 STL),nan,203613,Jonathon Simmons,SAS,202322,John Wall,WAS,0,nan,nan,Turnover ,Lost Ball
+189261,21600289,4,8:41,nan,MISS Wall 11' Floating Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189262,21600289,4,8:40,nan,Gortat REBOUND (Off:6 Def:10),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189263,21600289,4,8:25,nan,Wizards Turnover: Backcourt (T#18),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+189264,21600289,4,8:10,MISS Aldridge 13' Step Back Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189265,21600289,4,8:08,nan,Porter Jr. REBOUND (Off:0 Def:9),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189266,21600289,4,7:54,nan,Beal 25' 3PT Jump Shot (19 PTS) (Gortat 2 AST),83 - 88,203078,Bradley Beal,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+189267,21600289,4,7:54,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189268,21600289,4,7:54,SUB: Leonard FOR Simmons,nan,nan,203613,Jonathon Simmons,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+189269,21600289,4,7:54,SUB: Mills FOR Laprovittola,nan,nan,1627879,Nicolas Laprovittola,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+189270,21600289,4,7:31,MISS Gasol 17' Turnaround Jump Shot,nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189271,21600289,4,7:29,nan,Porter Jr. REBOUND (Off:0 Def:10),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189272,21600289,4,7:16,nan,Gortat 3' Layup (17 PTS) (Wall 12 AST),85 - 88,101162,Marcin Gortat,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+189273,21600289,4,6:59,Leonard 18' Jump Shot (15 PTS) (Gasol 2 AST),nan,85 - 90,202695,Kawhi Leonard,SAS,2200,Pau Gasol,SAS,0,nan,nan,Made Shot ,nan
+189274,21600289,4,6:45,Leonard STEAL (2 STL),Wall Bad Pass Turnover (P3.T19),nan,202322,John Wall,WAS,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+189275,21600289,4,6:27,Aldridge  Finger Roll Layup (19 PTS),nan,85 - 92,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189276,21600289,4,6:16,Mills P.FOUL (P1.T1) (M.Callahan),nan,nan,201988,Patty Mills,SAS,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Personal
+189277,21600289,4,6:07,nan,Gortat OFF.Foul (P4) (K.Scott),nan,101162,Marcin Gortat,WAS,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Offensive
+189278,21600289,4,6:07,nan,Gortat Foul Turnover (P2.T20),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+189279,21600289,4,5:55,nan,Gortat P.FOUL (P5.PN) (T.Ford),nan,101162,Marcin Gortat,WAS,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+189280,21600289,4,5:55,Leonard Free Throw 1 of 2 (16 PTS),nan,85 - 93,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189281,21600289,4,5:55,Leonard Free Throw 2 of 2 (17 PTS),nan,85 - 94,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189282,21600289,4,5:40,nan,Wall  Driving Layup (13 PTS),87 - 94,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189283,21600289,4,5:20,Leonard  Dunk (19 PTS) (Aldridge 1 AST),nan,87 - 96,202695,Kawhi Leonard,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+189284,21600289,4,5:02,nan,Porter Jr. 10' Floating Jump Shot (13 PTS) (Wall 13 AST),89 - 96,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+189285,21600289,4,4:41,MISS Leonard 12' Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189286,21600289,4,4:41,nan,Gortat REBOUND (Off:6 Def:11),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189287,21600289,4,4:29,nan,Wall 8' Step Back Jump Shot (15 PTS),91 - 96,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189288,21600289,4,4:15,MISS Mills 2' Layup,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189289,21600289,4,4:14,nan,Gortat REBOUND (Off:6 Def:12),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189290,21600289,4,4:11,Green S.FOUL (P2.T2) (T.Ford),nan,nan,201980,Danny Green,SAS,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Shooting
+189291,21600289,4,4:11,nan,Mark Morris Free Throw 1 of 2 (11 PTS),92 - 96,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189292,21600289,4,4:11,SUB: Ginobili FOR Green,nan,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+189293,21600289,4,4:11,nan,Mark Morris Free Throw 2 of 2 (12 PTS),93 - 96,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189294,21600289,4,3:53,MISS Aldridge 12' Turnaround Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189295,21600289,4,3:51,nan,Porter Jr. REBOUND (Off:0 Def:11),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189296,21600289,4,3:35,Aldridge S.FOUL (P3.T3) (K.Scott),nan,nan,200746,LaMarcus Aldridge,SAS,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Shooting
+189297,21600289,4,3:35,nan,Gortat Free Throw 1 of 2 (18 PTS),94 - 96,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189298,21600289,4,3:35,SUB: Lee FOR Gasol,nan,nan,2200,Pau Gasol,SAS,101135,David Lee,SAS,0,nan,nan,Substitution ,nan
+189299,21600289,4,3:35,nan,Gortat Free Throw 2 of 2 (19 PTS),95 - 96,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189300,21600289,4,3:20,Mills 19' Jump Shot (10 PTS),nan,95 - 98,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189301,21600289,4,3:05,nan,MISS Beal 18' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189302,21600289,4,3:04,Mills REBOUND (Off:1 Def:3),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189303,21600289,4,2:48,Leonard 15' Turnaround Jump Shot (21 PTS),nan,95 - 100,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189304,21600289,4,2:21,nan,Gortat 1' Cutting Layup Shot (21 PTS) (Wall 14 AST),97 - 100,101162,Marcin Gortat,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+189305,21600289,4,1:59,MISS Leonard 14' Turnaround Bank Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189306,21600289,4,1:58,Lee REBOUND (Off:2 Def:3),nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189307,21600289,4,1:55,MISS Mills 30' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189308,21600289,4,1:54,nan,Porter Jr. REBOUND (Off:0 Def:12),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189309,21600289,4,1:46,Aldridge S.FOUL (P4.T4) (M.Callahan),nan,nan,200746,LaMarcus Aldridge,SAS,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+189310,21600289,4,1:46,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+189311,21600289,4,1:46,nan,Beal Free Throw 1 of 2 (20 PTS),98 - 100,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189312,21600289,4,1:46,nan,MISS Beal Free Throw 2 of 2,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189313,21600289,4,1:45,Lee REBOUND (Off:2 Def:4),nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189314,21600289,4,1:24,Leonard Lost Ball Turnover (P1.T15),Porter Jr. STEAL (4 STL),nan,202695,Kawhi Leonard,SAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Lost Ball
+189315,21600289,4,1:24,Leonard P.FOUL (P1.PN) (T.Ford),nan,nan,202695,Kawhi Leonard,SAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Personal
+189316,21600289,4,1:24,nan,Porter Jr. Free Throw 1 of 2 (14 PTS),99 - 100,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189317,21600289,4,1:24,nan,Porter Jr. Free Throw 2 of 2 (15 PTS),100 - 100,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189318,21600289,4,1:07,MISS Mills 18' Pullup Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189319,21600289,4,1:07,Lee REBOUND (Off:3 Def:4),nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189320,21600289,4,1:06,Lee  Tip Dunk Shot (8 PTS),nan,100 - 102,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189321,21600289,4,0:53,nan,Beal 24' 3PT Jump Shot (23 PTS) (Wall 15 AST),103 - 102,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+189322,21600289,4,0:28,MISS Mills 26' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189323,21600289,4,0:27,Aldridge REBOUND (Off:2 Def:2),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189324,21600289,4,0:24,SPURS Timeout: Regular (Full 5 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189325,21600289,4,0:24,SUB: Green FOR Lee,nan,nan,101135,David Lee,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+189326,21600289,4,0:19,Green 24' 3PT Jump Shot (3 PTS) (Mills 8 AST),nan,103 - 105,201980,Danny Green,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+189327,21600289,4,0:19,nan,Wizards Timeout: Regular (Reg.5 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189328,21600289,4,0:11,nan,Wall 1' Driving Layup (17 PTS),105 - 105,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+189329,21600289,4,0:11,SPURS Timeout: Short (Full 5 Short 1),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+189330,21600289,4,0:11,nan,SUB: Oubre Jr. FOR Mark Morris,nan,202693,Markieff Morris,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+189331,21600289,4,0:06,Leonard 20' Jump Shot (23 PTS) (Ginobili 7 AST),nan,105 - 107,202695,Kawhi Leonard,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+189332,21600289,4,0:06,nan,Wizards Timeout: Short (Reg.5 Short 2),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+189333,21600289,4,0:06,SUB: Simmons FOR Mills,nan,nan,201988,Patty Mills,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+189334,21600289,4,0:06,nan,SUB: Mark Morris FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+189335,21600289,4,0:01,nan,MISS Porter Jr. 9' Floating Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189336,21600289,4,0:00,Aldridge REBOUND (Off:2 Def:3),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189337,21600289,4,0:00,nan,Gortat P.FOUL (P6.PN) (K.Scott),nan,101162,Marcin Gortat,WAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal
+189338,21600289,4,0:00,nan,nan,nan,554,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+189339,21600289,4,0:00,nan,SUB: Smith FOR Gortat,nan,101162,Marcin Gortat,WAS,201160,Jason Smith,WAS,0,nan,nan,Substitution ,nan
+189340,21600289,4,0:00,MISS Aldridge Free Throw 1 of 2,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189341,21600289,4,0:00,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189342,21600289,4,0:00,MISS Aldridge Free Throw 2 of 2,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189343,21600289,4,0:00,nan,Smith REBOUND (Off:1 Def:2),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189344,21600289,4,0:00,nan,nan,105 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

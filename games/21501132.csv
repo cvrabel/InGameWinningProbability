@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+141233,21501132,4,12:00,nan,nan,74 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+141234,21501132,4,11:42,nan,Patterson P.FOUL (P1.T1) (L.Richardson),nan,202335,Patrick Patterson,TOR,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Personal
+141235,21501132,4,11:35,Green Bad Pass Turnover (P1.T12),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+141236,21501132,4,11:35,Carter L.B.FOUL (P3.T1) (B.Adams),nan,nan,1713,Vince Carter,MEM,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Loose Ball
+141237,21501132,4,11:19,nan,Biyombo OFF.Foul (P4) (L.Richardson),nan,202687,Bismack Biyombo,TOR,1713,Vince Carter,MEM,0,nan,nan,Foul ,Offensive
+141238,21501132,4,11:19,nan,Biyombo Foul Turnover (P2.T15),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+141239,21501132,4,11:12,nan,Biyombo P.FOUL (P5.T2) (L.Richardson),nan,202687,Bismack Biyombo,TOR,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+141240,21501132,4,11:12,nan,SUB: Valanciunas FOR Biyombo,nan,202687,Bismack Biyombo,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+141241,21501132,4,10:57,MISS Carter 1' Driving Layup,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141242,21501132,4,10:55,nan,Valanciunas REBOUND (Off:3 Def:7),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141243,21501132,4,10:45,nan,MISS DeRozan 17' Pullup Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141244,21501132,4,10:44,Stephenson REBOUND (Off:0 Def:3),nan,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141245,21501132,4,10:23,Stephenson 10' Floating Jump Shot (12 PTS),nan,74 - 74,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141246,21501132,4,10:03,nan,MISS Patterson 17' Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141247,21501132,4,10:02,nan,Joseph REBOUND (Off:1 Def:0),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141248,21501132,4,9:58,nan,MISS Joseph 2' Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141249,21501132,4,9:57,nan,Patterson REBOUND (Off:3 Def:0),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141250,21501132,4,9:57,nan,MISS Patterson 1' Tip Layup Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141251,21501132,4,9:55,Martin REBOUND (Off:1 Def:3),nan,nan,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141252,21501132,4,9:48,MISS Stephenson 19' Pullup Jump Shot,nan,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141253,21501132,4,9:47,nan,Ross REBOUND (Off:1 Def:1),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141254,21501132,4,9:43,Martin S.FOUL (P2.T2) (B.Adams),nan,nan,1626185,Jarell Martin,MEM,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+141255,21501132,4,9:43,nan,MISS DeRozan Free Throw 1 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141256,21501132,4,9:43,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+141257,21501132,4,9:43,nan,DeRozan Free Throw 2 of 2 (25 PTS),75 - 74,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141258,21501132,4,9:32,nan,Joseph S.FOUL (P3.T3) (L.Richardson),nan,202709,Cory Joseph,TOR,1626185,Jarell Martin,MEM,0,nan,nan,Foul ,Shooting
+141259,21501132,4,9:32,MISS Martin Free Throw 1 of 2,nan,nan,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141260,21501132,4,9:32,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+141261,21501132,4,9:32,nan,SUB: Lowry FOR DeRozan,nan,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+141262,21501132,4,9:32,Martin Free Throw 2 of 2 (6 PTS),nan,75 - 75,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141263,21501132,4,9:20,nan,Ross 26' 3PT Jump Shot (3 PTS) (Lowry 2 AST),78 - 75,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+141264,21501132,4,9:00,MISS Carter 3' Driving Layup,Valanciunas BLOCK (6 BLK),nan,1713,Vince Carter,MEM,0,nan,nan,202685,Jonas Valanciunas,TOR,Missed Shot ,nan
+141265,21501132,4,9:00,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141266,21501132,4,8:55,MISS Stephenson 16' Fadeaway Jumper,nan,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141267,21501132,4,8:53,Carter REBOUND (Off:3 Def:2),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141268,21501132,4,8:53,Carter 1' Tip Layup Shot (10 PTS),nan,78 - 77,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141269,21501132,4,8:29,nan,Ross 26' 3PT Jump Shot (6 PTS) (Joseph 2 AST),81 - 77,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+141270,21501132,4,8:10,Munford 25' 3PT Jump Shot (12 PTS),nan,81 - 80,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141271,21501132,4,7:45,nan,MISS Joseph 26' 3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141272,21501132,4,7:44,Munford REBOUND (Off:0 Def:1),nan,nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141273,21501132,4,7:33,nan,Patterson S.FOUL (P2.T4) (M.Callahan),nan,202335,Patrick Patterson,TOR,1626185,Jarell Martin,MEM,0,nan,nan,Foul ,Shooting
+141274,21501132,4,7:33,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141275,21501132,4,7:33,Martin Free Throw 1 of 2 (7 PTS),nan,81 - 81,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141276,21501132,4,7:33,Martin Free Throw 2 of 2 (8 PTS),nan,81 - 82,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141277,21501132,4,7:18,nan,Ross 25' 3PT Jump Shot (9 PTS) (Joseph 3 AST),84 - 82,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+141278,21501132,4,6:58,Green 16' Jump Shot (10 PTS),nan,84 - 84,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141279,21501132,4,6:38,nan,MISS Ross 19' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141280,21501132,4,6:35,Green REBOUND (Off:2 Def:4),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141281,21501132,4,6:26,MISS Carter 28' 3PT Jump Shot,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141282,21501132,4,6:25,nan,Ross REBOUND (Off:1 Def:2),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141283,21501132,4,6:10,Martin P.FOUL (P3.T3) (B.Adams),nan,nan,1626185,Jarell Martin,MEM,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+141284,21501132,4,6:10,SUB: Randolph FOR Martin,nan,nan,1626185,Jarell Martin,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+141285,21501132,4,6:01,nan,MISS Patterson 24' 3PT Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141286,21501132,4,6:01,Munford REBOUND (Off:0 Def:2),nan,nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141287,21501132,4,5:43,MISS Stephenson 13' Jump Shot,nan,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141288,21501132,4,5:42,Green REBOUND (Off:3 Def:4),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141289,21501132,4,5:39,MISS Green 3' Layup,Valanciunas BLOCK (7 BLK),nan,203210,JaMychal Green,MEM,0,nan,nan,202685,Jonas Valanciunas,TOR,Missed Shot ,nan
+141290,21501132,4,5:37,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141291,21501132,4,5:37,GRIZZLIES Timeout: Regular (Full 4 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141292,21501132,4,5:18,MISS Stephenson 2' Driving Layup,nan,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141293,21501132,4,5:16,nan,Valanciunas REBOUND (Off:3 Def:8),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141294,21501132,4,5:06,nan,Ross  3PT Jump Shot (12 PTS) (Patterson 2 AST),87 - 84,203082,Terrence Ross,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+141295,21501132,4,4:47,MISS Carter 24' 3PT Jump Shot,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141296,21501132,4,4:45,nan,Valanciunas REBOUND (Off:3 Def:9),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141297,21501132,4,4:45,Randolph P.FOUL (P3.T4) (B.Adams),nan,nan,2216,Zach Randolph,MEM,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+141298,21501132,4,4:45,SUB: Allen FOR Carter,nan,nan,1713,Vince Carter,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+141299,21501132,4,4:45,SUB: Farmar FOR Munford,nan,nan,204098,Xavier Munford,MEM,200770,Jordan Farmar,MEM,0,nan,nan,Substitution ,nan
+141300,21501132,4,4:22,Green STEAL (2 STL),Patterson Lost Ball Turnover (P1.T16),nan,202335,Patrick Patterson,TOR,203210,JaMychal Green,MEM,0,nan,nan,Turnover ,Lost Ball
+141301,21501132,4,4:06,Randolph 1' Driving Layup (12 PTS),nan,87 - 86,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141302,21501132,4,3:45,nan,Lowry 18' Pullup Jump Shot (20 PTS),89 - 86,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+141303,21501132,4,3:29,nan,Patterson Violation:Kicked Ball (L.Richardson),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+141304,21501132,4,3:29,nan,SUB: DeRozan FOR Joseph,nan,202709,Cory Joseph,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+141305,21501132,4,3:17,Green Lost Ball Turnover (P2.T13),Lowry STEAL (1 STL),nan,203210,JaMychal Green,MEM,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Lost Ball
+141306,21501132,4,3:12,Green BLOCK (2 BLK),MISS Lowry 1' Running Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,203210,JaMychal Green,MEM,Missed Shot ,nan
+141307,21501132,4,3:11,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141308,21501132,4,3:11,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141309,21501132,4,3:11,SUB: Barnes FOR Stephenson,nan,nan,202362,Lance Stephenson,MEM,2440,Matt Barnes,MEM,0,nan,nan,Substitution ,nan
+141310,21501132,4,2:53,nan,MISS DeRozan 12' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141311,21501132,4,2:53,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141312,21501132,4,2:53,nan,Valanciunas L.B.FOUL (P2.PN) (B.Adams),nan,202685,Jonas Valanciunas,TOR,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+141313,21501132,4,2:53,Randolph Free Throw 1 of 2 (13 PTS),nan,89 - 87,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141314,21501132,4,2:53,Randolph Free Throw 2 of 2 (14 PTS),nan,89 - 88,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141315,21501132,4,2:38,nan,MISS Lowry 25' 3PT Fadeaway Jumper,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141316,21501132,4,2:36,nan,Valanciunas REBOUND (Off:4 Def:9),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141317,21501132,4,2:36,Barnes P.FOUL (P4.PN) (L.Richardson),nan,nan,2440,Matt Barnes,MEM,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+141318,21501132,4,2:36,nan,Valanciunas Free Throw 1 of 2 (6 PTS),90 - 88,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141319,21501132,4,2:36,nan,Valanciunas Free Throw 2 of 2 (7 PTS),91 - 88,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141320,21501132,4,2:22,MISS Randolph 5' Floating Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141321,21501132,4,2:19,Allen REBOUND (Off:4 Def:1),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141322,21501132,4,2:19,MISS Allen 2' Tip Layup Shot,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141323,21501132,4,2:17,nan,DeRozan REBOUND (Off:1 Def:5),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141324,21501132,4,1:53,nan,MISS Lowry 31' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141325,21501132,4,1:52,Barnes REBOUND (Off:1 Def:3),nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141326,21501132,4,1:50,Allen Step Out of Bounds Turnover (P3.T14),nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+141327,21501132,4,1:50,SUB: Andersen FOR Green,nan,nan,203210,JaMychal Green,MEM,2365,Chris Andersen,MEM,0,nan,nan,Substitution ,nan
+141328,21501132,4,1:32,nan,Lowry 8' Driving Bank Shot (22 PTS),93 - 88,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+141329,21501132,4,1:16,MISS Farmar 4' Jump Shot,Patterson BLOCK (1 BLK),nan,200770,Jordan Farmar,MEM,0,nan,nan,202335,Patrick Patterson,TOR,Missed Shot ,nan
+141330,21501132,4,1:16,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141331,21501132,4,1:16,GRIZZLIES Timeout: Regular (Full 5 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141332,21501132,4,1:16,SUB: Green FOR Andersen,nan,nan,2365,Chris Andersen,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+141333,21501132,4,1:09,Farmar 26' 3PT Step Back Jump Shot (10 PTS),nan,93 - 91,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+141334,21501132,4,0:49,Randolph STEAL (1 STL),Lowry Lost Ball Turnover (P5.T17),nan,200768,Kyle Lowry,TOR,2216,Zach Randolph,MEM,0,nan,nan,Turnover ,Lost Ball
+141335,21501132,4,0:47,SUB: Carter FOR Allen,nan,nan,2754,Tony Allen,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+141336,21501132,4,0:36,MISS Randolph 3' Layup,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141337,21501132,4,0:35,Randolph REBOUND (Off:2 Def:2),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141338,21501132,4,0:26,MISS Carter 25' 3PT Jump Shot,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141339,21501132,4,0:25,nan,Valanciunas REBOUND (Off:4 Def:10),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141340,21501132,4,0:25,Randolph L.B.FOUL (P4.PN) (B.Adams),nan,nan,2216,Zach Randolph,MEM,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Loose Ball
+141341,21501132,4,0:25,nan,Valanciunas Free Throw 1 of 2 (8 PTS),94 - 91,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141342,21501132,4,0:25,nan,Valanciunas Free Throw 2 of 2 (9 PTS),95 - 91,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141343,21501132,4,0:25,GRIZZLIES Timeout: Short (Full 5 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+141344,21501132,4,0:25,nan,SUB: Powell FOR Ross,nan,203082,Terrence Ross,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+141345,21501132,4,0:19,Randolph 1' Layup (16 PTS) (Barnes 1 AST),nan,95 - 93,2216,Zach Randolph,MEM,2440,Matt Barnes,MEM,0,nan,nan,Made Shot ,nan
+141346,21501132,4,0:18,Carter Personal Take Foul (P4.PN) (B.Adams),nan,nan,1713,Vince Carter,MEM,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal Take
+141347,21501132,4,0:18,nan,DeRozan Free Throw 1 of 2 (26 PTS),96 - 93,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141348,21501132,4,0:18,nan,DeRozan Free Throw 2 of 2 (27 PTS),97 - 93,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141349,21501132,4,0:11,nan,Lowry P.FOUL (P4.PN) (M.Callahan),nan,200768,Kyle Lowry,TOR,200770,Jordan Farmar,MEM,0,nan,nan,Foul ,Personal
+141350,21501132,4,0:11,Farmar Free Throw 1 of 2 (11 PTS),nan,97 - 94,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141351,21501132,4,0:11,Farmar Free Throw 2 of 2 (12 PTS),nan,97 - 95,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141352,21501132,4,0:11,nan,Raptors Timeout: Regular (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141353,21501132,4,0:11,SUB: Allen FOR Carter,nan,nan,1713,Vince Carter,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+141354,21501132,4,0:10,Allen Personal Take Foul (P4.PN) (M.Callahan),nan,nan,2754,Tony Allen,MEM,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal Take
+141355,21501132,4,0:10,nan,nan,nan,532,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+141356,21501132,4,0:10,nan,Valanciunas Free Throw 1 of 2 (10 PTS),98 - 95,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141357,21501132,4,0:10,SUB: Carter FOR Allen,nan,nan,2754,Tony Allen,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+141358,21501132,4,0:10,nan,Valanciunas Free Throw 2 of 2 (11 PTS),99 - 95,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141359,21501132,4,0:10,GRIZZLIES Timeout: Short (Full 5 Short 2),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+141360,21501132,4,0:06,MISS Randolph 26' 3PT Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141361,21501132,4,0:04,nan,Powell REBOUND (Off:0 Def:4),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141362,21501132,4,0:04,nan,Powell Step Out of Bounds Turnover (P4.T18),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+141363,21501132,4,0:01,MISS Farmar 28' 3PT Jump Shot,nan,nan,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141364,21501132,4,0:00,Carter REBOUND (Off:4 Def:2),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141365,21501132,4,0:00,nan,nan,99 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

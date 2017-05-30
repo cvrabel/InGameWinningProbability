@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+153096,21600002,4,12:00,nan,nan,83 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+153097,21600002,4,11:50,nan,Ingles Traveling Turnover (P1.T11),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+153098,21600002,4,11:35,MISS McCollum 11' Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153099,21600002,4,11:35,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153100,21600002,4,11:35,Vonleh L.B.FOUL (P1.T1) (T.Brown),nan,nan,203943,Noah Vonleh,POR,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Loose Ball
+153101,21600002,4,11:22,nan,MISS Mack 1' Driving Finger Roll Layup,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153102,21600002,4,11:21,Davis REBOUND (Off:2 Def:2),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153103,21600002,4,11:14,MISS Crabbe 3' Driving Layup,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153104,21600002,4,11:14,nan,Exum REBOUND (Off:0 Def:1),nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153105,21600002,4,11:04,nan,MISS Exum 3' Hook Shot,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153106,21600002,4,11:03,nan,Exum REBOUND (Off:1 Def:1),nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153107,21600002,4,11:03,nan,Exum 2' Putback Layup (2 PTS),85 - 77,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153108,21600002,4,10:48,nan,Mack P.FOUL (P1.T1) (N.Buchert),nan,202714,Shelvin Mack,UTA,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+153109,21600002,4,10:42,Crabbe 25' 3PT Jump Shot (13 PTS) (McCollum 2 AST),nan,85 - 80,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+153110,21600002,4,10:20,nan,Lyles Traveling Turnover (P3.T12),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+153111,21600002,4,10:00,Davis 2' Finger Roll Layup (6 PTS) (Crabbe 2 AST),nan,85 - 82,202334,Ed Davis,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+153112,21600002,4,9:52,nan,Jazz Timeout: Regular (Reg.4 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153113,21600002,4,9:52,nan,SUB: Johnson FOR Ingles,nan,204060,Joe Ingles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+153114,21600002,4,9:52,nan,SUB: Gobert FOR Lyles,nan,1626168,Trey Lyles,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+153115,21600002,4,9:40,nan,Gobert Traveling Turnover (P2.T13),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+153116,21600002,4,9:26,Crabbe 25' 3PT Jump Shot (16 PTS) (McCollum 3 AST),nan,85 - 85,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+153117,21600002,4,9:14,nan,Exum 2' Driving Finger Roll Layup (4 PTS),87 - 85,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153118,21600002,4,9:14,Davis S.FOUL (P2.T2) (N.Buchert),nan,nan,202334,Ed Davis,POR,203957,Dante Exum,UTA,0,nan,nan,Foul ,Shooting
+153119,21600002,4,9:14,nan,SUB: G. Hill FOR Mack,nan,202714,Shelvin Mack,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+153120,21600002,4,9:14,nan,Exum Free Throw 1 of 1 (5 PTS),88 - 85,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+153121,21600002,4,9:03,nan,Exum S.FOUL (P2.T2) (T.Brown),nan,203957,Dante Exum,UTA,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Shooting
+153122,21600002,4,9:03,Crabbe Free Throw 1 of 2 (17 PTS),nan,88 - 86,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153123,21600002,4,9:03,nan,SUB: Hood FOR Exum,nan,203957,Dante Exum,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+153124,21600002,4,9:03,Crabbe Free Throw 2 of 2 (18 PTS),nan,88 - 87,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153125,21600002,4,8:48,nan,Johnson 12' Step Back Jump Shot (19 PTS),90 - 87,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153126,21600002,4,8:37,MISS McCollum 16' Pullup Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153127,21600002,4,8:35,nan,Gobert REBOUND (Off:3 Def:9),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153128,21600002,4,8:30,Vonleh BLOCK (1 BLK),MISS G. Hill 1' Running Layup,nan,201588,George Hill,UTA,0,nan,nan,203943,Noah Vonleh,POR,Missed Shot ,nan
+153129,21600002,4,8:30,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153130,21600002,4,8:26,McCollum P.FOUL (P2.T3) (T.Brown),nan,nan,203468,CJ McCollum,POR,201588,George Hill,UTA,0,nan,nan,Foul ,Personal
+153131,21600002,4,8:13,nan,Jazz Timeout: Short (Reg.4 Short 2),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153132,21600002,4,8:13,SUB: Lillard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+153133,21600002,4,8:10,nan,MISS Diaw 22' Turnaround Jump Shot,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153134,21600002,4,8:09,Lillard REBOUND (Off:0 Def:6),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153135,21600002,4,7:57,Lillard 2' Driving Layup (25 PTS),nan,90 - 89,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+153136,21600002,4,7:31,nan,Johnson 2' Driving Reverse Layup (21 PTS),92 - 89,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153137,21600002,4,7:11,Lillard 22' Step Back Jump Shot (27 PTS) (Davis 1 AST),nan,92 - 91,203081,Damian Lillard,POR,202334,Ed Davis,POR,0,nan,nan,Made Shot ,nan
+153138,21600002,4,6:47,nan,Johnson 5' Turnaround Jump Shot (23 PTS),94 - 91,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153139,21600002,4,6:29,Turner 20' Pullup Jump Shot (2 PTS),nan,94 - 93,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+153140,21600002,4,6:29,nan,Diaw S.FOUL (P4.T3) (N.Buchert),nan,2564,Boris Diaw,UTA,202323,Evan Turner,POR,0,nan,nan,Foul ,Shooting
+153141,21600002,4,6:29,SUB: Aminu FOR Vonleh,nan,nan,203943,Noah Vonleh,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+153142,21600002,4,6:29,Turner Free Throw 1 of 1 (3 PTS),nan,94 - 94,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+153143,21600002,4,6:08,nan,Diaw 5' Turnaround Hook Shot (2 PTS),96 - 94,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153144,21600002,4,5:55,MISS Crabbe  3PT Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153145,21600002,4,5:55,Lillard REBOUND (Off:1 Def:6),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153146,21600002,4,5:50,Lillard 27' 3PT Jump Shot (30 PTS) (Crabbe 3 AST),nan,96 - 97,203081,Damian Lillard,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+153147,21600002,4,5:32,nan,Johnson 25' 3PT Jump Shot (26 PTS) (G. Hill 6 AST),99 - 97,2207,Joe Johnson,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+153148,21600002,4,5:08,MISS Turner 10' Pullup Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153149,21600002,4,5:06,nan,Diaw REBOUND (Off:1 Def:2),nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153150,21600002,4,4:55,nan,MISS Hood 25' 3PT Pullup Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153151,21600002,4,4:54,Davis REBOUND (Off:2 Def:3),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153152,21600002,4,4:46,nan,G. Hill S.FOUL (P2.T4) (N.Buchert),nan,201588,George Hill,UTA,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+153153,21600002,4,4:46,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+153154,21600002,4,4:46,SUB: McCollum FOR Turner,nan,nan,202323,Evan Turner,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+153155,21600002,4,4:46,Lillard Free Throw 1 of 2 (31 PTS),nan,99 - 98,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153156,21600002,4,4:46,Lillard Free Throw 2 of 2 (32 PTS),nan,99 - 99,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153157,21600002,4,4:35,Crabbe P.FOUL (P1.T4) (N.Buchert),nan,nan,203459,Allen Crabbe,POR,2207,Joe Johnson,UTA,0,nan,nan,Foul ,Personal
+153158,21600002,4,4:24,nan,Johnson 3' Driving Hook Shot (28 PTS),101 - 99,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+153159,21600002,4,4:24,Crabbe S.FOUL (P2.PN) (N.Buchert),nan,nan,203459,Allen Crabbe,POR,2207,Joe Johnson,UTA,0,nan,nan,Foul ,Shooting
+153160,21600002,4,4:24,nan,Johnson Free Throw 1 of 1 (29 PTS),102 - 99,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+153161,21600002,4,4:09,MISS Lillard 9' Floating Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153162,21600002,4,4:09,nan,Gobert REBOUND (Off:3 Def:10),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153163,21600002,4,3:45,nan,MISS G. Hill  3PT Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153164,21600002,4,3:44,Davis REBOUND (Off:2 Def:4),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153165,21600002,4,3:36,McCollum 18' Step Back Jump Shot (20 PTS) (Lillard 6 AST),nan,102 - 101,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+153166,21600002,4,3:15,nan,MISS G. Hill 15' Pullup Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153167,21600002,4,3:14,Aminu REBOUND (Off:0 Def:3),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153168,21600002,4,2:53,McCollum 28' 3PT Pullup Jump Shot (23 PTS),nan,102 - 104,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+153169,21600002,4,2:26,nan,MISS Johnson 6' Turnaround Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153170,21600002,4,2:23,Crabbe REBOUND (Off:0 Def:3),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153171,21600002,4,2:21,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153172,21600002,4,2:00,MISS McCollum 3' Driving Floating Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153173,21600002,4,2:00,Davis REBOUND (Off:3 Def:4),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153174,21600002,4,2:00,TRAIL BLAZERS Turnover: Shot Clock (T#12),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+153175,21600002,4,1:47,nan,MISS Hood 12' Turnaround Fadeaway Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153176,21600002,4,1:46,Aminu REBOUND (Off:0 Def:4),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153177,21600002,4,1:38,nan,Diaw S.FOUL (P5.PN) (T.Brown),nan,2564,Boris Diaw,UTA,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+153178,21600002,4,1:38,Lillard Free Throw 1 of 2 (33 PTS),nan,102 - 105,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153179,21600002,4,1:38,SUB: Harkless FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+153180,21600002,4,1:38,Lillard Free Throw 2 of 2 (34 PTS),nan,102 - 106,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153181,21600002,4,1:17,nan,MISS G. Hill 25' 3PT Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153182,21600002,4,1:16,McCollum REBOUND (Off:1 Def:1),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153183,21600002,4,1:02,Lillard 24' 3PT Pullup Jump Shot (37 PTS),nan,102 - 109,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+153184,21600002,4,1:02,nan,Jazz Timeout: Regular (Reg.5 Short 2),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153185,21600002,4,0:51,nan,MISS Johnson 25' 3PT Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153186,21600002,4,0:51,Lillard REBOUND (Off:1 Def:7),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153187,21600002,4,0:30,Aminu Bad Pass Turnover (P1.T13),Hood STEAL (2 STL),nan,202329,Al-Farouq Aminu,POR,203918,Rodney Hood,UTA,0,nan,nan,Turnover ,Bad Pass
+153188,21600002,4,0:27,McCollum P.FOUL (P3.PN) (N.Buchert),nan,nan,203468,CJ McCollum,POR,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Personal
+153189,21600002,4,0:27,nan,Hood Free Throw 1 of 2 (25 PTS),103 - 109,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153190,21600002,4,0:27,nan,Hood Free Throw 2 of 2 (26 PTS),104 - 109,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153191,21600002,4,0:27,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153192,21600002,4,0:27,SUB: Crabbe FOR Harkless,nan,nan,203090,Maurice Harkless,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+153193,21600002,4,0:27,SUB: Turner FOR Davis,nan,nan,202334,Ed Davis,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+153194,21600002,4,0:27,nan,SUB: Ingles FOR Diaw,nan,2564,Boris Diaw,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+153195,21600002,4,0:27,nan,SUB: Exum FOR Gobert,nan,203497,Rudy Gobert,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+153196,21600002,4,0:23,nan,Ingles Personal Take Foul (P2.PN) (M.Callahan),nan,204060,Joe Ingles,UTA,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal Take
+153197,21600002,4,0:23,McCollum Free Throw 1 of 2 (24 PTS),nan,104 - 110,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153198,21600002,4,0:23,nan,SUB: Gobert FOR Exum,nan,203957,Dante Exum,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+153199,21600002,4,0:23,nan,SUB: Lyles FOR Ingles,nan,204060,Joe Ingles,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+153200,21600002,4,0:23,SUB: Harkless FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+153201,21600002,4,0:23,SUB: Davis FOR Turner,nan,nan,202323,Evan Turner,POR,202334,Ed Davis,POR,0,nan,nan,Substitution ,nan
+153202,21600002,4,0:23,McCollum Free Throw 2 of 2 (25 PTS),nan,104 - 111,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153203,21600002,4,0:14,nan,MISS Gobert 3' Floating Jump Shot,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153204,21600002,4,0:14,nan,Gobert REBOUND (Off:4 Def:10),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153205,21600002,4,0:11,Aminu STEAL (1 STL),Gobert Lost Ball Turnover (P3.T14),nan,203497,Rudy Gobert,UTA,202329,Al-Farouq Aminu,POR,0,nan,nan,Turnover ,Lost Ball
+153206,21600002,4,0:10,nan,Hood P.FOUL (P3.PN) (T.Brown),nan,203918,Rodney Hood,UTA,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+153207,21600002,4,0:10,Lillard Free Throw 1 of 2 (38 PTS),nan,104 - 112,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153208,21600002,4,0:10,Lillard Free Throw 2 of 2 (39 PTS),nan,104 - 113,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153209,21600002,4,0:03,nan,MISS G. Hill  3PT Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153210,21600002,4,0:02,Lillard REBOUND (Off:1 Def:8),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153211,21600002,4,0:00,nan,nan,104 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

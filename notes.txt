@@ -1,0 +1,27 @@
+Notes
+
+1) Split main csv into csvs by game
+2) Handle scores for events that don't have a score
+	-Need to look ahead or before for score
+3)
+
+
+Maybe use num timeouts left
+Maybe use num team fouls
+
+found max values
+
+
+Need to do: SVC with prob=false, use decision function
+Need to do: Update the actions, do by possession?
+
+
+Points per Possession Values
+27312 --- 29097 --- 0.9386534694298382
+29290 --- 30794 --- 0.9511593167500162
+14419 --- 15094 --- 0.9552802438054856
+16148 --- 17137 --- 0.9422886152768862
+12429 --- 12969 --- 0.9583622484385843
+9715 --- 10149 --- 0.9572371662232733
+8894 --- 11292 --- 0.787637265320581
+6705 --- 7645 --- 0.8770438194898627

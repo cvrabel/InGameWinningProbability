@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+159675,21600053,4,12:00,nan,nan,73 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+159676,21600053,4,11:44,MISS Mills 25' 3PT Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159677,21600053,4,11:42,nan,Exum REBOUND (Off:0 Def:3),nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159678,21600053,4,11:29,Dedmon S.FOUL (P3.T1) (M.Smith),nan,nan,203473,Dewayne Dedmon,SAS,203957,Dante Exum,UTA,0,nan,nan,Foul ,Shooting
+159679,21600053,4,11:29,nan,MISS Exum Free Throw 1 of 2,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159680,21600053,4,11:29,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159681,21600053,4,11:29,SUB: Lee FOR Dedmon,nan,nan,203473,Dewayne Dedmon,SAS,101135,David Lee,SAS,0,nan,nan,Substitution ,nan
+159682,21600053,4,11:29,nan,Exum Free Throw 2 of 2 (4 PTS),74 - 71,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159683,21600053,4,11:13,MISS Simmons 18' Pullup Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159684,21600053,4,11:12,nan,Withey REBOUND (Off:0 Def:2),nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159685,21600053,4,10:53,nan,Ingles 22' Pullup Jump Shot (5 PTS),76 - 71,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159686,21600053,4,10:40,Lee Bad Pass Turnover (P1.T5),Johnson STEAL (1 STL),nan,101135,David Lee,SAS,2207,Joe Johnson,UTA,0,nan,nan,Turnover ,Bad Pass
+159687,21600053,4,10:40,Lee Personal Take Foul (P3.T2) (M.Smith),nan,nan,101135,David Lee,SAS,2207,Joe Johnson,UTA,0,nan,nan,Foul ,Personal Take
+159688,21600053,4,10:29,nan,MISS Withey 5' Hook Shot,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159689,21600053,4,10:27,Anderson REBOUND (Off:0 Def:1),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159690,21600053,4,10:12,Lee 3' Layup (5 PTS) (Mills 2 AST),nan,76 - 73,101135,David Lee,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+159691,21600053,4,10:02,nan,Ingles 25' 3PT Pullup Jump Shot (8 PTS),79 - 73,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159692,21600053,4,9:35,MISS Simmons 24' 3PT Jump Shot,Exum BLOCK (4 BLK),nan,203613,Jonathon Simmons,SAS,0,nan,nan,203957,Dante Exum,UTA,Missed Shot ,nan
+159693,21600053,4,9:33,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159694,21600053,4,9:33,SPURS Turnover: Shot Clock (T#6),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+159695,21600053,4,9:33,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+159696,21600053,4,9:23,nan,Mack 3' Driving Finger Roll Layup (14 PTS),81 - 73,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159697,21600053,4,9:09,Leonard 2' Driving Layup (22 PTS),nan,81 - 75,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159698,21600053,4,8:51,Leonard STEAL (2 STL),Johnson Bad Pass Turnover (P1.T9),nan,2207,Joe Johnson,UTA,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+159699,21600053,4,8:51,nan,Mack P.FOUL (P1.T1) (L.Wood),nan,202714,Shelvin Mack,UTA,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Personal
+159700,21600053,4,8:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+159701,21600053,4,8:51,nan,SUB: Hood FOR Exum,nan,203957,Dante Exum,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+159702,21600053,4,8:36,Leonard Lost Ball Turnover (P1.T7),Ingles STEAL (1 STL),nan,202695,Kawhi Leonard,SAS,204060,Joe Ingles,UTA,0,nan,nan,Turnover ,Lost Ball
+159703,21600053,4,8:24,nan,Hood 10' Pullup Bank Shot (16 PTS) (Johnson 4 AST),83 - 75,203918,Rodney Hood,UTA,2207,Joe Johnson,UTA,0,nan,nan,Made Shot ,nan
+159704,21600053,4,8:03,Mills 14' Jump Shot (8 PTS) (Simmons 3 AST),nan,83 - 77,201988,Patty Mills,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+159705,21600053,4,7:42,nan,Mack Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+159706,21600053,4,7:42,SUB: Aldridge FOR Lee,nan,nan,101135,David Lee,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+159707,21600053,4,7:27,nan,Johnson S.FOUL (P2.T2) (L.Wood),nan,2207,Joe Johnson,UTA,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+159708,21600053,4,7:27,nan,nan,nan,392,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+159709,21600053,4,7:27,Leonard Free Throw 1 of 3 (23 PTS),nan,83 - 78,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+159710,21600053,4,7:27,Leonard Free Throw 2 of 3 (24 PTS),nan,83 - 79,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+159711,21600053,4,7:27,nan,SUB: G. Hill FOR Mack,nan,202714,Shelvin Mack,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+159712,21600053,4,7:27,nan,SUB: Gobert FOR Withey,nan,203481,Jeff Withey,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+159713,21600053,4,7:27,SUB: Gasol FOR Simmons,nan,nan,203613,Jonathon Simmons,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+159714,21600053,4,7:27,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+159715,21600053,4,7:27,SUB: Ginobili FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+159716,21600053,4,7:27,Leonard Free Throw 3 of 3 (25 PTS),nan,83 - 80,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+159717,21600053,4,7:07,nan,Johnson 24' 3PT Jump Shot (6 PTS) (G. Hill 7 AST),86 - 80,2207,Joe Johnson,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+159718,21600053,4,6:51,nan,Ingles S.FOUL (P3.T3) (L.Wood),nan,204060,Joe Ingles,UTA,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+159719,21600053,4,6:51,nan,nan,nan,406,Shaquille O'Neal,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+159720,21600053,4,6:51,Leonard Free Throw 1 of 2 (26 PTS),nan,86 - 81,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159721,21600053,4,6:51,Leonard Free Throw 2 of 2 (27 PTS),nan,86 - 82,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159722,21600053,4,6:34,nan,MISS Johnson 17' Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159723,21600053,4,6:32,Ginobili REBOUND (Off:0 Def:1),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159724,21600053,4,6:26,Ginobili Bad Pass Turnover (P3.T8),G. Hill STEAL (1 STL),nan,1938,Manu Ginobili,SAS,201588,George Hill,UTA,0,nan,nan,Turnover ,Bad Pass
+159725,21600053,4,6:21,nan,MISS G. Hill 3' Running Layup,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159726,21600053,4,6:19,Gasol REBOUND (Off:0 Def:6),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159727,21600053,4,6:12,Aldridge 2' Layup (21 PTS) (Gasol 2 AST),nan,86 - 84,200746,LaMarcus Aldridge,SAS,2200,Pau Gasol,SAS,0,nan,nan,Made Shot ,nan
+159728,21600053,4,5:47,nan,G. Hill 1' Layup (14 PTS),88 - 84,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159729,21600053,4,5:26,MISS Leonard  Dunk,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159730,21600053,4,5:24,Gasol REBOUND (Off:1 Def:6),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159731,21600053,4,5:24,Gasol  Tip Dunk Shot (6 PTS),nan,88 - 86,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159732,21600053,4,5:09,Parker P.FOUL (P2.T3) (L.Wood),nan,nan,2225,Tony Parker,SAS,201588,George Hill,UTA,0,nan,nan,Foul ,Personal
+159733,21600053,4,5:09,SPURS Timeout: Regular (Full 4 Short 2),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159734,21600053,4,5:09,nan,SUB: Lyles FOR Ingles,nan,204060,Joe Ingles,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+159735,21600053,4,5:01,nan,G. Hill 25' 3PT Pullup Jump Shot (17 PTS),91 - 86,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159736,21600053,4,4:40,Gasol 2' Layup (8 PTS) (Leonard 2 AST),nan,91 - 88,2200,Pau Gasol,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+159737,21600053,4,4:25,nan,G. Hill 15' Pullup Jump Shot (19 PTS),93 - 88,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159738,21600053,4,4:10,MISS Leonard 11' Pullup Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159739,21600053,4,4:09,nan,Lyles REBOUND (Off:0 Def:6),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159740,21600053,4,4:05,nan,G. Hill 2' Driving Layup (21 PTS),95 - 88,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159741,21600053,4,4:05,Parker S.FOUL (P3.T4) (M.Smith),nan,nan,2225,Tony Parker,SAS,201588,George Hill,UTA,0,nan,nan,Foul ,Shooting
+159742,21600053,4,4:05,nan,G. Hill Free Throw 1 of 1 (22 PTS),96 - 88,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+159743,21600053,4,3:47,Leonard 24' 3PT Jump Shot (30 PTS) (Aldridge 1 AST),nan,96 - 91,202695,Kawhi Leonard,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+159744,21600053,4,3:22,nan,Johnson 12' Jump Shot (8 PTS),98 - 91,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159745,21600053,4,3:04,MISS Leonard 16' Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159746,21600053,4,3:02,nan,G. Hill REBOUND (Off:0 Def:2),nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159747,21600053,4,2:56,nan,MISS Gobert 1' Alley Oop Layup,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159748,21600053,4,2:56,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159749,21600053,4,2:56,nan,Jazz Timeout: Regular (Reg.4 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159750,21600053,4,2:43,MISS Aldridge  Alley Oop Dunk,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159751,21600053,4,2:41,nan,Johnson REBOUND (Off:0 Def:3),nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159752,21600053,4,2:22,nan,Gobert Offensive Goaltending Turnover (P2.T11),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+159753,21600053,4,2:06,MISS Leonard 24' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159754,21600053,4,2:04,nan,Hood REBOUND (Off:0 Def:5),nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159755,21600053,4,1:45,nan,MISS Gobert 9' Floating Jump Shot,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159756,21600053,4,1:44,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159757,21600053,4,1:44,nan,Gobert P.FOUL (P4.T4) (J.Capers),nan,203497,Rudy Gobert,UTA,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal
+159758,21600053,4,1:37,Parker Bad Pass Turnover (P1.T9),Hood STEAL (1 STL),nan,2225,Tony Parker,SAS,203918,Rodney Hood,UTA,0,nan,nan,Turnover ,Bad Pass
+159759,21600053,4,1:30,nan,Lyles  3PT Jump Shot (15 PTS) (Johnson 5 AST),101 - 91,1626168,Trey Lyles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Made Shot ,nan
+159760,21600053,4,1:15,Leonard Out of Bounds Lost Ball Turnover (P2.T10),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+159761,21600053,4,0:58,nan,MISS Hood 25' 3PT Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159762,21600053,4,0:57,Gasol REBOUND (Off:1 Def:7),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159763,21600053,4,0:46,MISS Ginobili 24' 3PT Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159764,21600053,4,0:44,nan,Gobert REBOUND (Off:2 Def:10),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159765,21600053,4,0:44,Gasol Personal Take Foul (P3.PN) (J.Capers),nan,nan,2200,Pau Gasol,SAS,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal Take
+159766,21600053,4,0:44,nan,Gobert Free Throw 1 of 2 (5 PTS),102 - 91,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159767,21600053,4,0:44,SUB: Anderson FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+159768,21600053,4,0:44,SUB: Laprovittola FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,1627879,Nicolas Laprovittola,SAS,0,nan,nan,Substitution ,nan
+159769,21600053,4,0:44,SUB: Murray FOR Gasol,nan,nan,2200,Pau Gasol,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Substitution ,nan
+159770,21600053,4,0:44,SUB: Simmons FOR Parker,nan,nan,2225,Tony Parker,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+159771,21600053,4,0:44,SUB: Forbes FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,1627854,Bryn Forbes,SAS,0,nan,nan,Substitution ,nan
+159772,21600053,4,0:44,nan,Gobert Free Throw 2 of 2 (6 PTS),103 - 91,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159773,21600053,4,0:34,MISS Anderson 25' 3PT Jump Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159774,21600053,4,0:32,nan,Lyles REBOUND (Off:0 Def:7),nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159775,21600053,4,0:11,nan,Hood 27' 3PT Floating Jump Shot (19 PTS),106 - 91,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+159776,21600053,4,0:00,nan,nan,106 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

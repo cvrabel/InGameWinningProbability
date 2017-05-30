@@ -1,0 +1,146 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+1313,21500011,4,12:00,nan,nan,79 - 55,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+1314,21500011,4,11:45,nan,Jefferson S.FOUL (P3.T1) (D.Richardson),nan,2210,Richard Jefferson,CLE,201148,Brandan Wright,MEM,0,nan,nan,Foul ,Shooting
+1315,21500011,4,11:45,Wright Free Throw 1 of 2 (1 PTS),nan,79 - 56,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1316,21500011,4,11:45,Wright Free Throw 2 of 2 (2 PTS),nan,79 - 57,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1317,21500011,4,11:32,nan,MISS Jefferson 22' Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1318,21500011,4,11:31,nan,Thompson REBOUND (Off:3 Def:2),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1319,21500011,4,11:28,nan,Jefferson 1' Cutting Layup Shot (14 PTS) (Thompson 1 AST),81 - 57,2210,Richard Jefferson,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Made Shot ,nan
+1320,21500011,4,11:12,MISS Lee  3PT Jump Shot,nan,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1321,21500011,4,11:10,nan,Jefferson REBOUND (Off:0 Def:2),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1322,21500011,4,10:52,nan,MISS Varejao 2' Layup,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1323,21500011,4,10:51,nan,Varejao REBOUND (Off:1 Def:2),nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1324,21500011,4,10:51,nan,MISS Varejao 1' Tip Layup Shot,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1325,21500011,4,10:51,nan,Varejao REBOUND (Off:2 Def:2),nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1326,21500011,4,10:51,nan,MISS Varejao 2' Tip Layup Shot,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1327,21500011,4,10:48,Conley REBOUND (Off:0 Def:4),nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1328,21500011,4,10:43,Conley Lost Ball Turnover (P1.T12),Dellavedova STEAL (1 STL),nan,201144,Mike Conley,MEM,203521,Matthew Dellavedova,CLE,0,nan,nan,Turnover ,Lost Ball
+1329,21500011,4,10:40,Wright S.FOUL (P1.T1) (D.Richardson),nan,nan,201148,Brandan Wright,MEM,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Shooting
+1330,21500011,4,10:40,nan,Thompson Free Throw 1 of 2 (5 PTS),82 - 57,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1331,21500011,4,10:40,SUB: Udrih FOR Conley,nan,nan,201144,Mike Conley,MEM,2757,Beno Udrih,MEM,0,nan,nan,Substitution ,nan
+1332,21500011,4,10:40,SUB: Green FOR Wright,nan,nan,201148,Brandan Wright,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+1333,21500011,4,10:40,nan,MISS Thompson Free Throw 2 of 2,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1334,21500011,4,10:38,Green REBOUND (Off:4 Def:1),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1335,21500011,4,10:27,Green 5' Driving Floating Jump Shot (8 PTS),nan,82 - 59,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+1336,21500011,4,10:13,Green P.FOUL (P2.T2) (K.Fitzgerald),nan,nan,201145,Jeff Green,MEM,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Personal
+1337,21500011,4,10:09,nan,Thompson OFF.Foul (P4) (K.Fitzgerald),nan,202684,Tristan Thompson,CLE,2757,Beno Udrih,MEM,0,nan,nan,Foul ,Offensive
+1338,21500011,4,10:09,nan,Thompson Foul Turnover (P2.T13),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+1339,21500011,4,10:01,Udrih Lost Ball Turnover (P3.T13),Dellavedova STEAL (2 STL),nan,2757,Beno Udrih,MEM,203521,Matthew Dellavedova,CLE,0,nan,nan,Turnover ,Lost Ball
+1340,21500011,4,9:57,nan,Dellavedova 1' Running Layup (12 PTS),84 - 59,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+1341,21500011,4,9:57,GRIZZLIES Timeout: Regular (Full 4 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+1342,21500011,4,9:57,nan,SUB: Love FOR Thompson,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+1343,21500011,4,9:43,MISS Green 8' Jump Bank Shot,nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1344,21500011,4,9:42,nan,Varejao REBOUND (Off:2 Def:3),nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1345,21500011,4,9:30,nan,James OFF.Foul (P1) (D.Richardson),nan,2544,LeBron James,CLE,2757,Beno Udrih,MEM,0,nan,nan,Foul ,Offensive
+1346,21500011,4,9:30,nan,James Foul Turnover (P3.T14),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+1347,21500011,4,9:30,nan,SUB: Thompson FOR Varejao,nan,2760,Anderson Varejao,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+1348,21500011,4,9:12,MISS Udrih 22' Jump Shot,nan,nan,2757,Beno Udrih,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1349,21500011,4,9:11,nan,Thompson REBOUND (Off:3 Def:3),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1350,21500011,4,8:53,nan,MISS Love 25' 3PT Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1351,21500011,4,8:52,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1352,21500011,4,8:42,MISS Lee 24' 3PT Jump Shot,nan,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1353,21500011,4,8:41,nan,Jefferson REBOUND (Off:0 Def:3),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1354,21500011,4,8:32,nan,Love 6' Turnaround Bank Shot (17 PTS) (James 5 AST),86 - 59,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+1355,21500011,4,8:21,MISS Barnes 25' 3PT Jump Shot,nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1356,21500011,4,8:20,nan,Love REBOUND (Off:1 Def:11),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1357,21500011,4,8:02,nan,MISS James  3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1358,21500011,4,8:01,nan,Love REBOUND (Off:2 Def:11),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1359,21500011,4,8:00,Green S.FOUL (P3.T3) (D.Richardson),nan,nan,201145,Jeff Green,MEM,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+1360,21500011,4,8:00,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1361,21500011,4,8:00,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1362,21500011,4,8:00,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1363,21500011,4,7:59,Green REBOUND (Off:4 Def:2),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1364,21500011,4,7:51,MISS Lee 2' Reverse Layup,nan,nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1365,21500011,4,7:49,nan,James REBOUND (Off:1 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1366,21500011,4,7:43,Green S.FOUL (P4.T4) (K.Fitzgerald),nan,nan,201145,Jeff Green,MEM,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+1367,21500011,4,7:43,nan,James Free Throw 1 of 2 (10 PTS),87 - 59,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1368,21500011,4,7:43,nan,James Free Throw 2 of 2 (11 PTS),88 - 59,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1369,21500011,4,7:23,MISS Green 24' 3PT Jump Shot,nan,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1370,21500011,4,7:23,nan,James REBOUND (Off:1 Def:6),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1371,21500011,4,7:23,Green P.FOUL (P2.PN) (K.Fitzgerald),nan,nan,203210,JaMychal Green,MEM,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+1372,21500011,4,7:23,nan,James Free Throw 1 of 2 (12 PTS),89 - 59,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1373,21500011,4,7:23,SUB: Randolph FOR Green,nan,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+1374,21500011,4,7:23,SUB: Gasol FOR Barnes,nan,nan,2440,Matt Barnes,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+1375,21500011,4,7:23,nan,SUB: Cunningham FOR Dellavedova,nan,203521,Matthew Dellavedova,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Substitution ,nan
+1376,21500011,4,7:23,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1377,21500011,4,7:22,Gasol REBOUND (Off:0 Def:5),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1378,21500011,4,7:20,nan,Cunningham Personal Take Foul (P1.T2) (J.Goble),nan,203099,Jared Cunningham,CLE,2757,Beno Udrih,MEM,0,nan,nan,Foul ,Personal Take
+1379,21500011,4,7:20,nan,SUB: Smith FOR James,nan,2544,LeBron James,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+1380,21500011,4,7:04,SUB: Adams FOR Lee,nan,nan,201584,Courtney Lee,MEM,203919,Jordan Adams,MEM,0,nan,nan,Substitution ,nan
+1381,21500011,4,7:01,MISS Udrih 25' 3PT Jump Shot,nan,nan,2757,Beno Udrih,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1382,21500011,4,7:00,nan,Smith REBOUND (Off:2 Def:4),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1383,21500011,4,6:48,Randolph STEAL (1 STL),Love Bad Pass Turnover (P3.T15),nan,201567,Kevin Love,CLE,2216,Zach Randolph,MEM,0,nan,nan,Turnover ,Bad Pass
+1384,21500011,4,6:31,Adams 15' Pullup Jump Shot (2 PTS) (Green 2 AST),nan,89 - 61,203919,Jordan Adams,MEM,201145,Jeff Green,MEM,0,nan,nan,Made Shot ,nan
+1385,21500011,4,6:11,Adams STEAL (1 STL),Cunningham Bad Pass Turnover (P1.T16),nan,203099,Jared Cunningham,CLE,203919,Jordan Adams,MEM,0,nan,nan,Turnover ,Bad Pass
+1386,21500011,4,6:06,MISS Adams  Running Layup,nan,nan,203919,Jordan Adams,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1387,21500011,4,6:02,nan,Thompson REBOUND (Off:3 Def:4),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1388,21500011,4,5:59,Green P.FOUL (P5.PN) (D.Richardson),nan,nan,201145,Jeff Green,MEM,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Personal
+1389,21500011,4,5:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+1390,21500011,4,5:59,nan,SUB: Kaun FOR Love,nan,201567,Kevin Love,CLE,201619,Sasha Kaun,CLE,0,nan,nan,Substitution ,nan
+1391,21500011,4,5:59,SUB: Smith FOR Green,nan,nan,201145,Jeff Green,MEM,203893,Russ Smith,MEM,0,nan,nan,Substitution ,nan
+1392,21500011,4,5:59,SUB: Green FOR Randolph,nan,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+1393,21500011,4,5:59,SUB: Wright FOR Gasol,nan,nan,201188,Marc Gasol,MEM,201148,Brandan Wright,MEM,0,nan,nan,Substitution ,nan
+1394,21500011,4,5:59,nan,MISS Cunningham Free Throw 1 of 2,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1395,21500011,4,5:59,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1396,21500011,4,5:59,nan,Cunningham Free Throw 2 of 2 (3 PTS),90 - 61,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1397,21500011,4,5:46,MISS Adams 26' 3PT Jump Shot,nan,nan,203919,Jordan Adams,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1398,21500011,4,5:45,nan,Thompson REBOUND (Off:3 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1399,21500011,4,5:23,Smith STEAL (1 STL),Jefferson Bad Pass Turnover (P2.T17),nan,2210,Richard Jefferson,CLE,203893,Russ Smith,MEM,0,nan,nan,Turnover ,Bad Pass
+1400,21500011,4,5:15,nan,Kaun S.FOUL (P1.T3) (D.Richardson),nan,201619,Sasha Kaun,CLE,203919,Jordan Adams,MEM,0,nan,nan,Foul ,Shooting
+1401,21500011,4,5:15,MISS Adams Free Throw 1 of 2,nan,nan,203919,Jordan Adams,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1402,21500011,4,5:15,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1403,21500011,4,5:15,nan,SUB: Jones FOR Thompson,nan,202684,Tristan Thompson,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+1404,21500011,4,5:15,nan,SUB: Harris FOR Jefferson,nan,2210,Richard Jefferson,CLE,203925,Joe Harris,CLE,0,nan,nan,Substitution ,nan
+1405,21500011,4,5:15,Adams Free Throw 2 of 2 (3 PTS),nan,90 - 62,203919,Jordan Adams,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1406,21500011,4,5:04,nan,MISS Smith 20' Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1407,21500011,4,5:03,Green REBOUND (Off:4 Def:3),nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1408,21500011,4,4:52,Smith Bad Pass Turnover (P1.T14),Kaun STEAL (1 STL),nan,203893,Russ Smith,MEM,201619,Sasha Kaun,CLE,0,nan,nan,Turnover ,Bad Pass
+1409,21500011,4,4:38,nan,MISS Jones 21' Jump Shot,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1410,21500011,4,4:38,Smith REBOUND (Off:0 Def:1),nan,nan,203893,Russ Smith,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1411,21500011,4,4:28,nan,Kaun S.FOUL (P2.T4) (J.Goble),nan,201619,Sasha Kaun,CLE,201148,Brandan Wright,MEM,0,nan,nan,Foul ,Shooting
+1412,21500011,4,4:28,Wright Free Throw 1 of 2 (3 PTS),nan,90 - 63,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1413,21500011,4,4:28,Wright Free Throw 2 of 2 (4 PTS),nan,90 - 64,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1414,21500011,4,4:17,nan,MISS Harris 26' 3PT Jump Shot,nan,203925,Joe Harris,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1415,21500011,4,4:16,Smith REBOUND (Off:0 Def:2),nan,nan,203893,Russ Smith,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1416,21500011,4,4:07,MISS Smith 10' Floating Jump Shot,nan,nan,203893,Russ Smith,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1417,21500011,4,4:05,nan,Harris REBOUND (Off:0 Def:1),nan,203925,Joe Harris,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1418,21500011,4,4:00,nan,Cunningham 1' Running Finger Roll Layup (5 PTS) (Kaun 1 AST),92 - 64,203099,Jared Cunningham,CLE,201619,Sasha Kaun,CLE,0,nan,nan,Made Shot ,nan
+1419,21500011,4,3:44,MISS Adams 13' Pullup Jump Shot,nan,nan,203919,Jordan Adams,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1420,21500011,4,3:42,nan,Harris REBOUND (Off:0 Def:2),nan,203925,Joe Harris,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1421,21500011,4,3:26,nan,Cunningham 26' 3PT Jump Shot (8 PTS) (Harris 1 AST),95 - 64,203099,Jared Cunningham,CLE,203925,Joe Harris,CLE,0,nan,nan,Made Shot ,nan
+1422,21500011,4,3:06,Udrih 3' Driving Layup (4 PTS),nan,95 - 66,2757,Beno Udrih,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+1423,21500011,4,3:06,nan,Kaun S.FOUL (P3.PN) (J.Goble),nan,201619,Sasha Kaun,CLE,2757,Beno Udrih,MEM,0,nan,nan,Foul ,Shooting
+1424,21500011,4,3:06,Udrih Free Throw 1 of 1 (5 PTS),nan,95 - 67,2757,Beno Udrih,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+1425,21500011,4,2:54,Adams STEAL (2 STL),Jones Bad Pass Turnover (P1.T18),nan,2592,James Jones,CLE,203919,Jordan Adams,MEM,0,nan,nan,Turnover ,Bad Pass
+1426,21500011,4,2:52,Adams Lost Ball Turnover (P1.T15),Smith STEAL (1 STL),nan,203919,Jordan Adams,MEM,2747,JR Smith,CLE,0,nan,nan,Turnover ,Lost Ball
+1427,21500011,4,2:47,nan,Jones 24' 3PT Jump Shot (3 PTS) (Smith 7 AST),98 - 67,2592,James Jones,CLE,2747,JR Smith,CLE,0,nan,nan,Made Shot ,nan
+1428,21500011,4,2:27,Green 14' Jump Shot (4 PTS) (Udrih 1 AST),nan,98 - 69,203210,JaMychal Green,MEM,2757,Beno Udrih,MEM,0,nan,nan,Made Shot ,nan
+1429,21500011,4,2:09,nan,Smith 20' Step Back Jump Shot (7 PTS),100 - 69,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+1430,21500011,4,1:56,Smith 2' Driving Layup (2 PTS),nan,100 - 71,203893,Russ Smith,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+1431,21500011,4,1:56,nan,Cunningham S.FOUL (P2.PN) (D.Richardson),nan,203099,Jared Cunningham,CLE,203893,Russ Smith,MEM,0,nan,nan,Foul ,Shooting
+1432,21500011,4,1:56,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+1433,21500011,4,1:56,Smith Free Throw 1 of 1 (3 PTS),nan,100 - 72,203893,Russ Smith,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+1434,21500011,4,1:37,nan,MISS Smith 17' Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1435,21500011,4,1:36,nan,Kaun REBOUND (Off:1 Def:0),nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1436,21500011,4,1:36,nan,Kaun Traveling Turnover (P1.T19),nan,201619,Sasha Kaun,CLE,0,nan,nan,0,nan,nan,Turnover ,Traveling
+1437,21500011,4,1:17,nan,Jones P.FOUL (P1.PN) (K.Fitzgerald),nan,2592,James Jones,CLE,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Personal
+1438,21500011,4,1:17,MISS Green Free Throw 1 of 2,nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1439,21500011,4,1:17,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+1440,21500011,4,1:17,MISS Green Free Throw 2 of 2,nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1441,21500011,4,1:16,nan,Smith REBOUND (Off:2 Def:5),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1442,21500011,4,1:05,nan,Smith 12' Floating Jump Shot (9 PTS) (Cunningham 1 AST),102 - 72,2747,JR Smith,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Made Shot ,nan
+1443,21500011,4,0:52,Wright 7' Turnaround Hook Shot (6 PTS) (Udrih 2 AST),nan,102 - 74,201148,Brandan Wright,MEM,2757,Beno Udrih,MEM,0,nan,nan,Made Shot ,nan
+1444,21500011,4,0:46,nan,MISS Cunningham 5' Jump Bank Shot,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+1445,21500011,4,0:44,Wright REBOUND (Off:0 Def:1),nan,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1446,21500011,4,0:39,MISS Smith 4' Running Jump Shot,Cunningham BLOCK (1 BLK),nan,203893,Russ Smith,MEM,0,nan,nan,203099,Jared Cunningham,CLE,Missed Shot ,nan
+1447,21500011,4,0:38,Jump Ball Smith vs. Cunningham: Tip to,nan,nan,203893,Russ Smith,MEM,203099,Jared Cunningham,CLE,1610612739,nan,nan,Jump Ball ,nan
+1448,21500011,4,0:38,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1449,21500011,4,0:38,Smith P.FOUL (P1.PN) (K.Fitzgerald),nan,nan,203893,Russ Smith,MEM,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Personal
+1450,21500011,4,0:38,nan,Cunningham Free Throw 1 of 2 (9 PTS),103 - 74,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+1451,21500011,4,0:38,nan,Cunningham Free Throw 2 of 2 (10 PTS),104 - 74,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+1452,21500011,4,0:30,Udrih Out of Bounds - Bad Pass Turnover Turnover (P4.T16),nan,nan,2757,Beno Udrih,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+1453,21500011,4,0:12,nan,Cunningham 1' Driving Finger Roll Layup (12 PTS),106 - 74,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+1454,21500011,4,0:06,MISS Smith 2' Running Layup,Kaun BLOCK (1 BLK),nan,203893,Russ Smith,MEM,0,nan,nan,201619,Sasha Kaun,CLE,Missed Shot ,nan
+1455,21500011,4,0:06,Wright REBOUND (Off:1 Def:1),nan,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+1456,21500011,4,0:06,Wright 1' Layup (8 PTS),nan,106 - 76,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+1457,21500011,4,0:00,nan,nan,106 - 76,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

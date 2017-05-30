@@ -1,0 +1,116 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+6795,21500053,4,12:00,nan,nan,77 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+6796,21500053,4,11:33,MISS Lin 22' Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6797,21500053,4,11:32,Zeller REBOUND (Off:2 Def:3),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6798,21500053,4,11:28,Lamb 25' 3PT Jump Shot (14 PTS) (Zeller 1 AST),nan,77 - 103,203087,Jeremy Lamb,CHA,203469,Cody Zeller,CHA,0,nan,nan,Made Shot ,nan
+6799,21500053,4,11:14,nan,MISS Brooks 25' 3PT Jump Shot,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6800,21500053,4,11:12,Hawes REBOUND (Off:0 Def:3),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6801,21500053,4,11:01,nan,Noah S.FOUL (P4.T1) (M.Lindsay),nan,201149,Joakim Noah,CHI,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Shooting
+6802,21500053,4,11:01,Zeller Free Throw 1 of 2 (5 PTS),nan,77 - 104,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+6803,21500053,4,11:01,Zeller Free Throw 2 of 2 (6 PTS),nan,77 - 105,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+6804,21500053,4,10:46,nan,MISS McDermott 26' 3PT Jump Shot,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6805,21500053,4,10:44,Lin REBOUND (Off:0 Def:2),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6806,21500053,4,10:39,nan,McDermott P.FOUL (P2.T2) (M.Davis),nan,203926,Doug McDermott,CHI,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Personal
+6807,21500053,4,10:39,nan,SUB: Mirotic FOR Noah,nan,201149,Joakim Noah,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+6808,21500053,4,10:29,Lin 1' Cutting Layup Shot (14 PTS) (Hawes 2 AST),nan,77 - 107,202391,Jeremy Lin,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+6809,21500053,4,10:29,nan,Brooks S.FOUL (P3.T3) (B.Taylor),nan,201166,Aaron Brooks,CHI,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Shooting
+6810,21500053,4,10:29,Lin Free Throw 1 of 1 (15 PTS),nan,77 - 108,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+6811,21500053,4,10:13,nan,MISS Mirotic 22' Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6812,21500053,4,10:12,Lin REBOUND (Off:0 Def:3),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6813,21500053,4,10:04,MISS Zeller 1' Layup,nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6814,21500053,4,10:02,nan,Mirotic REBOUND (Off:1 Def:4),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6815,21500053,4,9:53,nan,MISS Mirotic 25' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6816,21500053,4,9:52,Lamb REBOUND (Off:0 Def:2),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6817,21500053,4,9:44,Hawes 6' Hook Shot (10 PTS) (Lamb 2 AST),nan,77 - 110,201150,Spencer Hawes,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+6818,21500053,4,9:44,nan,Bulls Timeout: Regular (Reg.4 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+6819,21500053,4,9:44,nan,SUB: Portis FOR Mirotic,nan,202703,Nikola Mirotic,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+6820,21500053,4,9:44,SUB: Kaminsky FOR Zeller,nan,nan,203469,Cody Zeller,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Substitution ,nan
+6821,21500053,4,9:35,nan,Gibson  Dunk (4 PTS) (Brooks 3 AST),79 - 110,201959,Taj Gibson,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Made Shot ,nan
+6822,21500053,4,9:17,nan,Brooks P.FOUL (P4.T4) (B.Taylor),nan,201166,Aaron Brooks,CHI,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Personal
+6823,21500053,4,9:13,Lin Lost Ball Turnover (P1.T6),Brooks STEAL (1 STL),nan,202391,Jeremy Lin,CHA,201166,Aaron Brooks,CHI,0,nan,nan,Turnover ,Lost Ball
+6824,21500053,4,9:04,nan,Portis 19' Jump Shot (2 PTS) (Brooks 4 AST),81 - 110,1626171,Bobby Portis,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Made Shot ,nan
+6825,21500053,4,8:45,MISS Lamb 24' 3PT Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6826,21500053,4,8:44,Kaminsky REBOUND (Off:1 Def:1),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6827,21500053,4,8:38,Hawes 27' 3PT Jump Shot (13 PTS) (Lin 4 AST),nan,81 - 113,201150,Spencer Hawes,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+6828,21500053,4,8:21,Lin P.FOUL (P1.T1) (M.Lindsay),nan,nan,202391,Jeremy Lin,CHA,201166,Aaron Brooks,CHI,0,nan,nan,Foul ,Personal
+6829,21500053,4,8:11,nan,Moore OFF.Foul (P1) (M.Davis),nan,202734,E'Twaun Moore,CHI,101107,Marvin Williams,CHA,0,nan,nan,Foul ,Offensive
+6830,21500053,4,8:11,nan,Moore Foul Turnover (P1.T12),nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+6831,21500053,4,7:51,MISS Lin 17' Pullup Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6832,21500053,4,7:50,nan,McDermott REBOUND (Off:0 Def:2),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6833,21500053,4,7:42,nan,Brooks 29' 3PT Jump Shot (14 PTS),84 - 113,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6834,21500053,4,7:17,MISS Kaminsky 9' Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6835,21500053,4,7:16,nan,McDermott REBOUND (Off:0 Def:3),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6836,21500053,4,7:08,nan,Gibson 6' Jump Shot (6 PTS),86 - 113,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6837,21500053,4,7:08,Hawes S.FOUL (P1.T2) (M.Lindsay),nan,nan,201150,Spencer Hawes,CHA,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Shooting
+6838,21500053,4,7:08,SUB: Hansbrough FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,201946,Tyler Hansbrough,CHA,0,nan,nan,Substitution ,nan
+6839,21500053,4,7:08,nan,SUB: Snell FOR Brooks,nan,201166,Aaron Brooks,CHI,203503,Tony Snell,CHI,0,nan,nan,Substitution ,nan
+6840,21500053,4,7:08,nan,MISS Gibson Free Throw 1 of 1,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+6841,21500053,4,7:06,Williams REBOUND (Off:2 Def:8),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6842,21500053,4,6:53,Lamb 2' Driving Layup (16 PTS),nan,86 - 115,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+6843,21500053,4,6:44,nan,MISS Portis 19' Jump Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6844,21500053,4,6:43,Lin REBOUND (Off:0 Def:4),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6845,21500053,4,6:30,Hansbrough 3' Driving Layup (2 PTS) (Lamb 3 AST),nan,86 - 117,201946,Tyler Hansbrough,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+6846,21500053,4,6:20,nan,MISS Moore 26' 3PT Jump Shot,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6847,21500053,4,6:18,Kaminsky REBOUND (Off:1 Def:2),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6848,21500053,4,6:11,Lamb 18' Pullup Jump Shot (18 PTS),nan,86 - 119,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+6849,21500053,4,5:58,nan,McDermott 25' 3PT Jump Shot (17 PTS) (Moore 1 AST),89 - 119,203926,Doug McDermott,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Made Shot ,nan
+6850,21500053,4,5:44,MISS Hansbrough 2' Layup,nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6851,21500053,4,5:43,Lin REBOUND (Off:1 Def:4),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6852,21500053,4,5:41,Hansbrough Offensive Charge Foul (P1.T3) (M.Lindsay),nan,nan,201946,Tyler Hansbrough,CHA,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Offensive Charge
+6853,21500053,4,5:41,Hansbrough Foul Turnover (P1.T7),nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+6854,21500053,4,5:41,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+6855,21500053,4,5:41,nan,SUB: Bairstow FOR Gibson,nan,201959,Taj Gibson,CHI,203946,Cameron Bairstow,CHI,0,nan,nan,Substitution ,nan
+6856,21500053,4,5:41,SUB: Roberts FOR Williams,nan,nan,101107,Marvin Williams,CHA,203148,Brian Roberts,CHA,0,nan,nan,Substitution ,nan
+6857,21500053,4,5:41,SUB: Daniels FOR Lin,nan,nan,202391,Jeremy Lin,CHA,203584,Troy Daniels,CHA,0,nan,nan,Substitution ,nan
+6858,21500053,4,5:27,nan,Moore 17' Jump Shot (4 PTS),91 - 119,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6859,21500053,4,5:09,Daniels 25' 3PT Jump Shot (3 PTS) (Kaminsky 3 AST),nan,91 - 122,203584,Troy Daniels,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Made Shot ,nan
+6860,21500053,4,4:57,nan,Portis Traveling Turnover (P1.T13),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+6861,21500053,4,4:34,Lamb 1' Driving Finger Roll Layup (20 PTS),nan,91 - 124,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+6862,21500053,4,4:19,nan,MISS Snell 6' Jump Shot,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6863,21500053,4,4:19,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6864,21500053,4,4:15,nan,MISS Portis 22' Jump Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6865,21500053,4,4:15,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6866,21500053,4,3:58,MISS Kaminsky 19' Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6867,21500053,4,3:57,nan,McDermott REBOUND (Off:0 Def:4),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6868,21500053,4,3:49,nan,MISS Moore 4' Running Jump Shot,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6869,21500053,4,3:46,Lamb REBOUND (Off:0 Def:3),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6870,21500053,4,3:39,MISS Daniels 24' 3PT Jump Shot,nan,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6871,21500053,4,3:38,nan,Bairstow REBOUND (Off:0 Def:1),nan,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6872,21500053,4,3:32,nan,MISS McDermott 7' Running Jump Shot,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6873,21500053,4,3:31,Daniels REBOUND (Off:0 Def:1),nan,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6874,21500053,4,3:22,MISS Daniels 20' Jump Shot,nan,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6875,21500053,4,3:21,Hansbrough REBOUND (Off:1 Def:0),nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6876,21500053,4,3:21,nan,Bairstow S.FOUL (P1.PN) (M.Lindsay),nan,203946,Cameron Bairstow,CHI,201946,Tyler Hansbrough,CHA,0,nan,nan,Foul ,Shooting
+6877,21500053,4,3:21,Hansbrough Free Throw 1 of 2 (3 PTS),nan,91 - 125,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+6878,21500053,4,3:21,Hansbrough Free Throw 2 of 2 (4 PTS),nan,91 - 126,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+6879,21500053,4,3:03,nan,Moore 1' Driving Layup (6 PTS),93 - 126,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6880,21500053,4,2:51,Roberts 18' Jump Shot (2 PTS),nan,93 - 128,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+6881,21500053,4,2:29,nan,MISS Bairstow  3PT Jump Shot,nan,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6882,21500053,4,2:28,nan,Portis REBOUND (Off:1 Def:0),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6883,21500053,4,2:24,nan,Portis 12' Jump Shot (4 PTS),95 - 128,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6884,21500053,4,2:08,Daniels Step Out of Bounds Turnover (P1.T8),nan,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+6885,21500053,4,2:08,HORNETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+6886,21500053,4,1:57,nan,Bairstow 6' Driving Hook Shot (2 PTS),97 - 128,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6887,21500053,4,1:32,MISS Hansbrough 4' Jump Shot,nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6888,21500053,4,1:32,Hansbrough REBOUND (Off:2 Def:0),nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6889,21500053,4,1:32,HORNETS Turnover: Shot Clock (T#9),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+6890,21500053,4,1:23,nan,MISS Snell 2' Layup,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6891,21500053,4,1:21,Lamb REBOUND (Off:0 Def:4),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6892,21500053,4,1:16,Lamb Bad Pass Turnover (P1.T10),McDermott STEAL (1 STL),nan,203087,Jeremy Lamb,CHA,203926,Doug McDermott,CHI,0,nan,nan,Turnover ,Bad Pass
+6893,21500053,4,1:12,nan,Portis  Running Dunk (6 PTS) (Snell 4 AST),99 - 128,1626171,Bobby Portis,CHI,203503,Tony Snell,CHI,0,nan,nan,Made Shot ,nan
+6894,21500053,4,0:58,nan,Portis S.FOUL (P1.PN) (M.Davis),nan,1626171,Bobby Portis,CHI,201946,Tyler Hansbrough,CHA,0,nan,nan,Foul ,Shooting
+6895,21500053,4,0:58,Hansbrough Free Throw 1 of 2 (5 PTS),nan,99 - 129,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+6896,21500053,4,0:58,Hansbrough Free Throw 2 of 2 (6 PTS),nan,99 - 130,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+6897,21500053,4,0:50,nan,Moore 8' Driving Floating Jump Shot (8 PTS),101 - 130,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+6898,21500053,4,0:41,MISS Roberts 25' 3PT Jump Shot,nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6899,21500053,4,0:41,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6900,21500053,4,0:35,nan,Portis 2' Alley Oop Layup (8 PTS) (McDermott 2 AST),103 - 130,1626171,Bobby Portis,CHI,203926,Doug McDermott,CHI,0,nan,nan,Made Shot ,nan
+6901,21500053,4,0:18,MISS Kaminsky 2' Layup,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6902,21500053,4,0:16,Hansbrough REBOUND (Off:3 Def:0),nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6903,21500053,4,0:16,MISS Hansbrough 2' Layup,nan,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6904,21500053,4,0:12,nan,Portis REBOUND (Off:1 Def:1),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6905,21500053,4,0:06,Daniels P.FOUL (P1.T4) (B.Taylor),nan,nan,203584,Troy Daniels,CHA,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Personal
+6906,21500053,4,0:04,nan,Portis 16' Turnaround Jump Shot (10 PTS) (McDermott 3 AST),105 - 130,1626171,Bobby Portis,CHI,203926,Doug McDermott,CHI,0,nan,nan,Made Shot ,nan
+6907,21500053,4,0:00,MISS Roberts 16' Jump Shot,nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6908,21500053,4,0:00,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6909,21500053,4,0:00,nan,nan,105 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

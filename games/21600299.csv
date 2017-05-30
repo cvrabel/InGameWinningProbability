@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+190457,21600299,4,12:00,nan,nan,84 - 108,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+190458,21600299,4,11:47,Durant P.FOUL (P1.T1) (J.VanDuyne),nan,nan,201142,Kevin Durant,GSW,203458,Alex Len,PHX,0,nan,nan,Foul ,Personal
+190459,21600299,4,11:47,Durant T.FOUL (P1.T1) (J.VanDuyne),nan,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+190460,21600299,4,11:47,nan,Booker Free Throw Technical (20 PTS),85 - 108,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+190461,21600299,4,11:33,nan,MISS Knight 6' Driving Floating Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190462,21600299,4,11:33,West REBOUND (Off:0 Def:2),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190463,21600299,4,11:10,Iguodala 27' 3PT Pullup Jump Shot (5 PTS) (West 2 AST),nan,85 - 111,2738,Andre Iguodala,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+190464,21600299,4,10:46,Durant BLOCK (3 BLK),MISS Booker 12' Fadeaway Jumper,nan,1626164,Devin Booker,PHX,0,nan,nan,201142,Kevin Durant,GSW,Missed Shot ,nan
+190465,21600299,4,10:46,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190466,21600299,4,10:45,Iguodala S.FOUL (P1.T2) (C.Kirkland),nan,nan,2738,Andre Iguodala,GSW,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+190467,21600299,4,10:45,nan,MISS Booker Free Throw 1 of 2,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190468,21600299,4,10:45,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+190469,21600299,4,10:45,nan,SUB: Chriss FOR Len,nan,203458,Alex Len,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+190470,21600299,4,10:45,nan,Booker Free Throw 2 of 2 (21 PTS),86 - 111,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190471,21600299,4,10:24,MISS Livingston 16' Turnaround Fadeaway Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190472,21600299,4,10:24,nan,Knight REBOUND (Off:0 Def:1),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190473,21600299,4,10:17,nan,Ulis 26' 3PT Jump Shot (3 PTS) (Knight 2 AST),89 - 111,1627755,Tyler Ulis,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+190474,21600299,4,10:01,Thompson 1' Driving Finger Roll Layup (26 PTS),nan,89 - 113,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+190475,21600299,4,9:46,Livingston P.FOUL (P1.T3) (J.VanDuyne),nan,nan,2733,Shaun Livingston,GSW,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Personal
+190476,21600299,4,9:38,nan,MISS Booker 16' Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190477,21600299,4,9:37,nan,Chriss REBOUND (Off:2 Def:1),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190478,21600299,4,9:37,nan,Chriss  Putback Dunk (7 PTS),91 - 113,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+190479,21600299,4,9:19,nan,Chriss S.FOUL (P4.T1) (C.Kirkland),nan,1627737,Marquese Chriss,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+190480,21600299,4,9:19,Durant Free Throw 1 of 3 (14 PTS),nan,91 - 114,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+190481,21600299,4,9:19,Durant Free Throw 2 of 3 (15 PTS),nan,91 - 115,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+190482,21600299,4,9:19,Durant Free Throw 3 of 3 (16 PTS),nan,91 - 116,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+190483,21600299,4,9:06,nan,Bender 25' 3PT Pullup Jump Shot (6 PTS) (Booker 5 AST),94 - 116,1627733,Dragan Bender,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+190484,21600299,4,8:52,Thompson OFF.Foul (P1) (J.VanDuyne),nan,nan,202691,Klay Thompson,GSW,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Offensive
+190485,21600299,4,8:52,Thompson Foul Turnover (P2.T14),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+190486,21600299,4,8:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+190487,21600299,4,8:33,nan,Bender 3' Driving Layup (8 PTS) (Ulis 1 AST),96 - 116,1627733,Dragan Bender,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+190488,21600299,4,8:13,nan,Booker S.FOUL (P3.T2) (E.Malloy),nan,1626164,Devin Booker,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+190489,21600299,4,8:13,Durant Free Throw 1 of 2 (17 PTS),nan,96 - 117,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190490,21600299,4,8:13,Durant Free Throw 2 of 2 (18 PTS),nan,96 - 118,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190491,21600299,4,8:03,Iguodala P.FOUL (P2.T4) (J.VanDuyne),nan,nan,2738,Andre Iguodala,GSW,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+190492,21600299,4,7:51,nan,MISS Booker 25' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190493,21600299,4,7:51,Thompson REBOUND (Off:1 Def:3),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190494,21600299,4,7:43,MISS West 12' Jump Shot,Bender BLOCK (1 BLK),nan,2561,David West,GSW,0,nan,nan,1627733,Dragan Bender,PHX,Missed Shot ,nan
+190495,21600299,4,7:42,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190496,21600299,4,7:41,nan,Ulis L.B.FOUL (P1.T3) (C.Kirkland),nan,1627755,Tyler Ulis,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Loose Ball
+190497,21600299,4,7:35,MISS Thompson 12' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190498,21600299,4,7:34,nan,Chriss REBOUND (Off:2 Def:2),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190499,21600299,4,7:31,nan,MISS Chriss 26' 3PT Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190500,21600299,4,7:30,Livingston REBOUND (Off:0 Def:2),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190501,21600299,4,7:17,West  Driving Dunk (10 PTS) (Thompson 2 AST),nan,96 - 120,2561,David West,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+190502,21600299,4,7:03,West S.FOUL (P1.PN) (J.VanDuyne),nan,nan,2561,David West,GSW,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Shooting
+190503,21600299,4,7:03,nan,Chriss Free Throw 1 of 2 (8 PTS),97 - 120,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190504,21600299,4,7:03,SUB: Clark FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+190505,21600299,4,7:03,nan,Chriss Free Throw 2 of 2 (9 PTS),98 - 120,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190506,21600299,4,6:56,Livingston 9' Running Jump Shot (4 PTS),nan,98 - 122,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+190507,21600299,4,6:56,nan,Chriss S.FOUL (P5.T4) (C.Kirkland),nan,1627737,Marquese Chriss,PHX,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+190508,21600299,4,6:56,SUB: Looney FOR West,nan,nan,2561,David West,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+190509,21600299,4,6:56,MISS Livingston Free Throw 1 of 1,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+190510,21600299,4,6:56,nan,Bender REBOUND (Off:0 Def:2),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190511,21600299,4,6:29,nan,MISS Ulis 18' Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190512,21600299,4,6:29,Durant REBOUND (Off:0 Def:4),nan,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190513,21600299,4,6:27,Durant Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+190514,21600299,4,6:15,nan,Knight 3' Driving Layup (14 PTS),100 - 122,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+190515,21600299,4,5:58,nan,Booker S.FOUL (P4.PN) (J.VanDuyne),nan,1626164,Devin Booker,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+190516,21600299,4,5:58,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+190517,21600299,4,5:58,Durant Free Throw 1 of 2 (19 PTS),nan,100 - 123,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190518,21600299,4,5:58,Durant Free Throw 2 of 2 (20 PTS),nan,100 - 124,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190519,21600299,4,5:41,nan,MISS Knight 29' 3PT Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190520,21600299,4,5:40,Thompson REBOUND (Off:1 Def:4),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190521,21600299,4,5:24,Looney 2' Layup (2 PTS) (Thompson 3 AST),nan,100 - 126,1626172,Kevon Looney,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+190522,21600299,4,5:14,nan,MISS Chriss 25' 3PT Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190523,21600299,4,5:14,Livingston REBOUND (Off:0 Def:3),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190524,21600299,4,5:05,Clark 1' Running Finger Roll Layup (5 PTS),nan,100 - 128,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+190525,21600299,4,4:57,nan,MISS Bender 26' 3PT Jump Shot,nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190526,21600299,4,4:56,nan,Ulis REBOUND (Off:1 Def:0),nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190527,21600299,4,4:42,nan,MISS Chriss  3PT Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190528,21600299,4,4:42,Livingston REBOUND (Off:0 Def:4),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190529,21600299,4,4:36,WARRIORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+190530,21600299,4,4:36,SUB: McCaw FOR Durant,nan,nan,201142,Kevin Durant,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+190531,21600299,4,4:36,SUB: Varejao FOR Thompson,nan,nan,202691,Klay Thompson,GSW,2760,Anderson Varejao,GSW,0,nan,nan,Substitution ,nan
+190532,21600299,4,4:29,nan,Ulis P.FOUL (P2.PN) (J.VanDuyne),nan,1627755,Tyler Ulis,PHX,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+190533,21600299,4,4:29,Clark Free Throw 1 of 2 (6 PTS),nan,100 - 129,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190534,21600299,4,4:29,nan,SUB: Williams FOR Knight,nan,202688,Brandon Knight,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+190535,21600299,4,4:29,nan,SUB: Jenkins FOR Booker,nan,1626164,Devin Booker,PHX,203098,John Jenkins,PHX,0,nan,nan,Substitution ,nan
+190536,21600299,4,4:29,Clark Free Throw 2 of 2 (7 PTS),nan,100 - 130,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190537,21600299,4,4:12,nan,MISS Williams 6' Jump Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190538,21600299,4,4:09,Varejao REBOUND (Off:0 Def:1),nan,nan,2760,Anderson Varejao,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190539,21600299,4,3:54,Clark 11' Floating Jump Shot (9 PTS) (Livingston 1 AST),nan,100 - 132,203546,Ian Clark,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+190540,21600299,4,3:45,nan,Williams OFF.Foul (P1) (E.Malloy),nan,1626210,Alan Williams,PHX,2760,Anderson Varejao,GSW,0,nan,nan,Foul ,Offensive
+190541,21600299,4,3:45,nan,Williams Foul Turnover (P1.T15),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+190542,21600299,4,3:32,Varejao Out of Bounds Lost Ball Turnover (P1.T16),nan,nan,2760,Anderson Varejao,GSW,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+190543,21600299,4,3:32,SUB: McGee FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,201580,JaVale McGee,GSW,0,nan,nan,Substitution ,nan
+190544,21600299,4,3:24,McCaw S.FOUL (P2.PN) (J.VanDuyne),nan,nan,1627775,Patrick McCaw,GSW,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Shooting
+190545,21600299,4,3:24,nan,MISS Williams Free Throw 1 of 2,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190546,21600299,4,3:24,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+190547,21600299,4,3:24,nan,MISS Williams Free Throw 2 of 2,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190548,21600299,4,3:23,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190549,21600299,4,3:23,Looney L.B.FOUL (P1.PN) (E.Malloy),nan,nan,1626172,Kevon Looney,GSW,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Loose Ball
+190550,21600299,4,3:23,nan,Chriss Free Throw 1 of 2 (10 PTS),101 - 132,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190551,21600299,4,3:23,nan,Chriss Free Throw 2 of 2 (11 PTS),102 - 132,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190552,21600299,4,3:06,MISS McGee 9' Turnaround Hook Shot,nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190553,21600299,4,3:06,nan,Bender REBOUND (Off:0 Def:3),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190554,21600299,4,2:57,nan,Williams 1' Running Layup (2 PTS) (Bender 1 AST),104 - 132,1626210,Alan Williams,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Made Shot ,nan
+190555,21600299,4,2:32,MISS Clark 27' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190556,21600299,4,2:32,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190557,21600299,4,2:32,nan,Williams L.B.FOUL (P2.PN) (C.Kirkland),nan,1626210,Alan Williams,PHX,201580,JaVale McGee,GSW,0,nan,nan,Foul ,Loose Ball
+190558,21600299,4,2:32,MISS McGee Free Throw 1 of 2,nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190559,21600299,4,2:32,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+190560,21600299,4,2:32,MISS McGee Free Throw 2 of 2,nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190561,21600299,4,2:29,Varejao REBOUND (Off:1 Def:1),nan,nan,2760,Anderson Varejao,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190562,21600299,4,2:24,nan,Chriss Violation:Defensive Goaltending (C.Kirkland),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+190563,21600299,4,2:24,Looney 6' Jump Bank Shot (4 PTS),nan,104 - 134,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+190564,21600299,4,2:13,nan,MISS Jenkins 19' Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190565,21600299,4,2:13,nan,Williams REBOUND (Off:1 Def:0),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190566,21600299,4,2:00,nan,Jenkins 21' Pullup Jump Shot (2 PTS) (Ulis 2 AST),106 - 134,203098,John Jenkins,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+190567,21600299,4,1:48,MISS McCaw 12' Jump Shot,nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190568,21600299,4,1:48,McGee REBOUND (Off:2 Def:0),nan,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190569,21600299,4,1:44,McCaw 2' Cutting Layup Shot (2 PTS) (Varejao 1 AST),nan,106 - 136,1627775,Patrick McCaw,GSW,2760,Anderson Varejao,GSW,0,nan,nan,Made Shot ,nan
+190570,21600299,4,1:39,McGee P.FOUL (P3.PN) (C.Kirkland),nan,nan,201580,JaVale McGee,GSW,1627755,Tyler Ulis,PHX,0,nan,nan,Foul ,Personal
+190571,21600299,4,1:39,nan,MISS Ulis Free Throw 1 of 2,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190572,21600299,4,1:39,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+190573,21600299,4,1:39,nan,Ulis Free Throw 2 of 2 (4 PTS),107 - 136,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190574,21600299,4,1:22,McGee Bad Pass Turnover (P1.T17),Williams STEAL (1 STL),nan,201580,JaVale McGee,GSW,1626210,Alan Williams,PHX,0,nan,nan,Turnover ,Bad Pass
+190575,21600299,4,1:12,nan,Bender 3' Jump Shot (10 PTS) (Jenkins 1 AST),109 - 136,1627733,Dragan Bender,PHX,203098,John Jenkins,PHX,0,nan,nan,Made Shot ,nan
+190576,21600299,4,1:00,McGee 2' Alley Oop Layup (11 PTS) (Clark 3 AST),nan,109 - 138,201580,JaVale McGee,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+190577,21600299,4,0:46,nan,MISS Ulis 10' Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190578,21600299,4,0:46,Looney REBOUND (Off:0 Def:1),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190579,21600299,4,0:36,MISS Looney 27' 3PT Jump Shot,nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190580,21600299,4,0:35,nan,Bender REBOUND (Off:0 Def:4),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190581,21600299,4,0:20,nan,MISS Williams 7' Turnaround Hook Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190582,21600299,4,0:20,Looney REBOUND (Off:0 Def:2),nan,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190583,21600299,4,0:00,nan,nan,109 - 138,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

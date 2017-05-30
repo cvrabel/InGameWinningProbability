@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+119659,21500955,4,12:00,nan,nan,83 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+119660,21500955,4,11:35,MISS Singler 6' Floating Jump Shot,nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119661,21500955,4,11:34,nan,Aldrich REBOUND (Off:0 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119662,21500955,4,11:18,nan,MISS W. Johnson  3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119663,21500955,4,11:16,nan,Prigioni REBOUND (Off:1 Def:0),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119664,21500955,4,11:11,Kanter STEAL (2 STL),Prigioni Bad Pass Turnover (P1.T9),nan,203143,Pablo Prigioni,LAC,202683,Enes Kanter,OKC,0,nan,nan,Turnover ,Bad Pass
+119665,21500955,4,11:05,nan,Aldrich Violation:Kicked Ball (L.Wood),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+119666,21500955,4,10:53,nan,W. Johnson S.FOUL (P3.T1) (E.Lewis),nan,202325,Wesley Johnson,LAC,201627,Anthony Morrow,OKC,0,nan,nan,Foul ,Shooting
+119667,21500955,4,10:53,Morrow Free Throw 1 of 2 (1 PTS),nan,83 - 94,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+119668,21500955,4,10:53,Morrow Free Throw 2 of 2 (2 PTS),nan,83 - 95,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+119669,21500955,4,10:39,nan,Crawford 19' Jump Shot (16 PTS) (Prigioni 2 AST),85 - 95,2037,Jamal Crawford,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+119670,21500955,4,10:20,Durant 25' 3PT Jump Shot (25 PTS) (Foye 2 AST),nan,85 - 98,201142,Kevin Durant,OKC,200751,Randy Foye,OKC,0,nan,nan,Made Shot ,nan
+119671,21500955,4,9:59,nan,MISS Prigioni 25' 3PT Jump Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119672,21500955,4,9:58,Foye REBOUND (Off:0 Def:3),nan,nan,200751,Randy Foye,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119673,21500955,4,9:38,MISS Foye  3PT Jump Shot,nan,nan,200751,Randy Foye,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119674,21500955,4,9:38,nan,Aldrich REBOUND (Off:0 Def:4),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119675,21500955,4,9:20,nan,MISS Prigioni 26' 3PT Jump Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119676,21500955,4,9:20,Morrow REBOUND (Off:0 Def:1),nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119677,21500955,4,9:00,Kanter 1' Reverse Layup (12 PTS) (Foye 3 AST),nan,85 - 100,202683,Enes Kanter,OKC,200751,Randy Foye,OKC,0,nan,nan,Made Shot ,nan
+119678,21500955,4,9:00,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+119679,21500955,4,9:00,SUB: Westbrook FOR Durant,nan,nan,201142,Kevin Durant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+119680,21500955,4,8:50,nan,MISS Rivers 25' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119681,21500955,4,8:49,Singler REBOUND (Off:0 Def:3),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119682,21500955,4,8:27,MISS Morrow  3PT Jump Shot,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119683,21500955,4,8:26,Singler REBOUND (Off:1 Def:3),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119684,21500955,4,8:20,Morrow  3PT Jump Shot (5 PTS) (Westbrook 16 AST),nan,85 - 103,201627,Anthony Morrow,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+119685,21500955,4,8:09,nan,Aldrich 2' Layup (10 PTS) (Prigioni 3 AST),87 - 103,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+119686,21500955,4,7:56,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P5.T13),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+119687,21500955,4,7:56,nan,SUB: Jordan FOR Aldrich,nan,202332,Cole Aldrich,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+119688,21500955,4,7:56,nan,SUB: Redick FOR Prigioni,nan,203143,Pablo Prigioni,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+119689,21500955,4,7:44,Singler S.FOUL (P2.T1) (E.Lewis),nan,nan,202713,Kyle Singler,OKC,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+119690,21500955,4,7:44,nan,Redick Free Throw 1 of 2 (11 PTS),88 - 103,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+119691,21500955,4,7:44,nan,SUB: Paul FOR W. Johnson,nan,202325,Wesley Johnson,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+119692,21500955,4,7:44,nan,MISS Redick Free Throw 2 of 2,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+119693,21500955,4,7:43,Kanter REBOUND (Off:2 Def:3),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119694,21500955,4,7:33,Westbrook 1' Driving Layup (25 PTS),nan,88 - 105,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+119695,21500955,4,7:15,nan,MISS Paul 2' Driving Layup,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119696,21500955,4,7:15,Kanter REBOUND (Off:2 Def:4),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119697,21500955,4,7:09,Singler  Dunk (6 PTS) (Westbrook 17 AST),nan,88 - 107,202713,Kyle Singler,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+119698,21500955,4,6:53,nan,Jordan  Dunk (18 PTS) (Redick 3 AST),90 - 107,201599,DeAndre Jordan,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+119699,21500955,4,6:53,Singler S.FOUL (P3.T2) (L.Wood),nan,nan,202713,Kyle Singler,OKC,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+119700,21500955,4,6:53,nan,SUB: Green FOR Rivers,nan,203085,Austin Rivers,LAC,201145,Jeff Green,LAC,0,nan,nan,Substitution ,nan
+119701,21500955,4,6:53,SUB: Durant FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+119702,21500955,4,6:53,SUB: Ibaka FOR Singler,nan,nan,202713,Kyle Singler,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+119703,21500955,4,6:53,nan,MISS Jordan Free Throw 1 of 1,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+119704,21500955,4,6:52,Westbrook REBOUND (Off:1 Def:8),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119705,21500955,4,6:36,Kanter 15' Jump Shot (14 PTS) (Durant 6 AST),nan,90 - 109,202683,Enes Kanter,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+119706,21500955,4,6:16,Westbrook BLOCK (1 BLK),MISS Paul 2' Driving Layup,nan,101108,Chris Paul,LAC,0,nan,nan,201566,Russell Westbrook,OKC,Missed Shot ,nan
+119707,21500955,4,6:15,Kanter REBOUND (Off:2 Def:5),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119708,21500955,4,6:09,MISS Foye  3PT Jump Shot,nan,nan,200751,Randy Foye,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119709,21500955,4,6:09,nan,Paul REBOUND (Off:0 Def:3),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119710,21500955,4,5:57,Durant P.FOUL (P4.T3) (L.Wood),nan,nan,201142,Kevin Durant,OKC,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+119711,21500955,4,5:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+119712,21500955,4,5:53,nan,Redick 25' 3PT Jump Shot (14 PTS) (Paul 14 AST),93 - 109,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+119713,21500955,4,5:32,Westbrook Bad Pass Turnover (P6.T14),Redick STEAL (2 STL),nan,201566,Russell Westbrook,OKC,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Bad Pass
+119714,21500955,4,5:25,nan,Redick 25' 3PT Jump Shot (17 PTS) (Paul 15 AST),96 - 109,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+119715,21500955,4,5:24,THUNDER Timeout: Regular (Full 4 Short 0),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+119716,21500955,4,5:24,SUB: Adams FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+119717,21500955,4,5:11,Durant  Driving Dunk (27 PTS),nan,96 - 111,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+119718,21500955,4,4:50,nan,Redick 24' 3PT Jump Shot (20 PTS) (Paul 16 AST),99 - 111,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+119719,21500955,4,4:27,nan,Green P.FOUL (P2.T2) (E.Lewis),nan,201145,Jeff Green,LAC,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Personal
+119720,21500955,4,4:27,SUB: Roberson FOR Foye,nan,nan,200751,Randy Foye,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+119721,21500955,4,4:17,Durant 25' 3PT Pullup Jump Shot (30 PTS),nan,99 - 114,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+119722,21500955,4,3:59,Adams Personal Take Foul (P2.T4) (E.Lewis),nan,nan,203500,Steven Adams,OKC,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+119723,21500955,4,3:52,nan,MISS Crawford 6' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119724,21500955,4,3:51,nan,Crawford REBOUND (Off:1 Def:2),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119725,21500955,4,3:50,nan,MISS Crawford 2' Layup,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119726,21500955,4,3:49,Durant REBOUND (Off:1 Def:11),nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119727,21500955,4,3:32,Westbrook Lost Ball Turnover (P7.T15),Paul STEAL (5 STL),nan,201566,Russell Westbrook,OKC,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Lost Ball
+119728,21500955,4,3:32,Westbrook P.FOUL (P1.PN) (L.Wood),nan,nan,201566,Russell Westbrook,OKC,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal
+119729,21500955,4,3:32,nan,nan,nan,491,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+119730,21500955,4,3:32,nan,Redick Free Throw 1 of 2 (21 PTS),100 - 114,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+119731,21500955,4,3:32,nan,Redick Free Throw 2 of 2 (22 PTS),101 - 114,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+119732,21500955,4,3:16,Roberson 1' Layup (11 PTS) (Durant 7 AST),nan,101 - 116,203460,Andre Roberson,OKC,201142,Kevin Durant,OKC,0,nan,nan,Made Shot ,nan
+119733,21500955,4,2:52,nan,MISS Paul 25' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119734,21500955,4,2:52,Westbrook REBOUND (Off:1 Def:9),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119735,21500955,4,2:34,Durant Lost Ball Turnover (P6.T16),Crawford STEAL (1 STL),nan,201142,Kevin Durant,OKC,2037,Jamal Crawford,LAC,0,nan,nan,Turnover ,Lost Ball
+119736,21500955,4,2:25,nan,Crawford Out of Bounds Lost Ball Turnover (P1.T10),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+119737,21500955,4,2:25,nan,SUB: Rivers FOR Jordan,nan,201599,DeAndre Jordan,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+119738,21500955,4,2:25,nan,SUB: Prigioni FOR Redick,nan,200755,JJ Redick,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Substitution ,nan
+119739,21500955,4,2:25,nan,SUB: Aldrich FOR Paul,nan,101108,Chris Paul,LAC,202332,Cole Aldrich,LAC,0,nan,nan,Substitution ,nan
+119740,21500955,4,2:25,nan,SUB: W. Johnson FOR Crawford,nan,2037,Jamal Crawford,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+119741,21500955,4,2:07,MISS Ibaka 16' Jump Shot,nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119742,21500955,4,2:06,Adams REBOUND (Off:3 Def:6),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119743,21500955,4,2:03,MISS Adams 1' Reverse Layup,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119744,21500955,4,2:03,Westbrook REBOUND (Off:2 Def:9),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119745,21500955,4,2:00,Adams  Dunk (9 PTS) (Westbrook 18 AST),nan,101 - 118,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+119746,21500955,4,1:47,nan,Green 5' Floating Jump Shot (20 PTS),103 - 118,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+119747,21500955,4,1:33,Roberson  Alley Oop Dunk (13 PTS) (Westbrook 19 AST),nan,103 - 120,203460,Andre Roberson,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+119748,21500955,4,1:18,nan,Green 25' 3PT Jump Shot (23 PTS) (W. Johnson 2 AST),106 - 120,201145,Jeff Green,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Made Shot ,nan
+119749,21500955,4,1:01,MISS Ibaka 21' Jump Shot,nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119750,21500955,4,0:59,nan,W. Johnson REBOUND (Off:0 Def:3),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119751,21500955,4,0:57,Westbrook Personal Take Foul (P2.PN) (L.Wood),nan,nan,201566,Russell Westbrook,OKC,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Personal Take
+119752,21500955,4,0:57,nan,Rivers Free Throw 1 of 2 (4 PTS),107 - 120,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+119753,21500955,4,0:57,SUB: McGary FOR Durant,nan,nan,201142,Kevin Durant,OKC,203956,Mitch McGary,OKC,0,nan,nan,Substitution ,nan
+119754,21500955,4,0:57,SUB: Mohammed FOR Ibaka,nan,nan,201586,Serge Ibaka,OKC,1737,Nazr Mohammed,OKC,0,nan,nan,Substitution ,nan
+119755,21500955,4,0:57,SUB: Singler FOR Adams,nan,nan,203500,Steven Adams,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+119756,21500955,4,0:57,SUB: Payne FOR Westbrook,nan,nan,201566,Russell Westbrook,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+119757,21500955,4,0:57,nan,SUB: Stepheson FOR Green,nan,201145,Jeff Green,LAC,1627293,Alex Stepheson,LAC,0,nan,nan,Substitution ,nan
+119758,21500955,4,0:57,nan,Rivers Free Throw 2 of 2 (5 PTS),108 - 120,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+119759,21500955,4,0:45,MISS McGary  3PT Jump Shot,nan,nan,203956,Mitch McGary,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119760,21500955,4,0:45,nan,Aldrich REBOUND (Off:0 Def:5),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119761,21500955,4,0:30,nan,MISS Rivers 18' Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119762,21500955,4,0:30,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119763,21500955,4,0:15,MISS Payne 19' Pullup Jump Shot,nan,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+119764,21500955,4,0:15,nan,Aldrich REBOUND (Off:0 Def:6),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+119765,21500955,4,0:00,nan,nan,108 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

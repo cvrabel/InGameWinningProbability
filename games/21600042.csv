@@ -1,0 +1,124 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+158322,21600042,4,12:00,nan,nan,84 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+158323,21600042,4,11:50,MISS Lowry 26' 3PT Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158324,21600042,4,11:50,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158325,21600042,4,11:32,Poeltl S.FOUL (P2.T1) (M.McCutchen),nan,nan,1627751,Jakob Poeltl,TOR,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Shooting
+158326,21600042,4,11:32,nan,Chandler Free Throw 1 of 2 (6 PTS),85 - 88,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158327,21600042,4,11:32,nan,MISS Chandler Free Throw 2 of 2,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158328,21600042,4,11:31,Patterson REBOUND (Off:2 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158329,21600042,4,11:11,nan,Chandler S.FOUL (P4.T1) (M.McCutchen),nan,201163,Wilson Chandler,DEN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+158330,21600042,4,11:11,Lowry Free Throw 1 of 2 (18 PTS),nan,85 - 89,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158331,21600042,4,11:11,nan,SUB: Nurkic FOR Gallinari,nan,201568,Danilo Gallinari,DEN,203994,Jusuf Nurkic,DEN,0,nan,nan,Substitution ,nan
+158332,21600042,4,11:11,MISS Lowry Free Throw 2 of 2,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158333,21600042,4,11:09,nan,Nurkic REBOUND (Off:4 Def:9),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158334,21600042,4,10:58,Poeltl BLOCK (2 BLK),MISS Murray 4' Driving Layup,nan,1627750,Jamal Murray,DEN,0,nan,nan,1627751,Jakob Poeltl,TOR,Missed Shot ,nan
+158335,21600042,4,10:57,Lowry REBOUND (Off:0 Def:3),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158336,21600042,4,10:51,MISS Patterson 25' 3PT Jump Shot,nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158337,21600042,4,10:51,nan,Chandler REBOUND (Off:0 Def:3),nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158338,21600042,4,10:41,RAPTORS T.Foul (Def. 3 Sec Poeltl ) (G.Zielinski),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+158339,21600042,4,10:41,nan,Murray Free Throw Technical (1 PTS),86 - 89,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+158340,21600042,4,10:37,Ross STEAL (1 STL),Nurkic Lost Ball Turnover (P1.T6),nan,203994,Jusuf Nurkic,DEN,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Lost Ball
+158341,21600042,4,10:35,nan,Nelson P.FOUL (P2.T2) (G.Zielinski),nan,2749,Jameer Nelson,DEN,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal
+158342,21600042,4,10:19,nan,Murray P.FOUL (P2.T3) (A.Smith),nan,1627750,Jamal Murray,DEN,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+158343,21600042,4,10:17,nan,Murray P.FOUL (P3.T4) (A.Smith),nan,1627750,Jamal Murray,DEN,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+158344,21600042,4,10:10,Joseph Offensive Charge Foul (P3.T2) (M.McCutchen),nan,nan,202709,Cory Joseph,TOR,1627750,Jamal Murray,DEN,0,nan,nan,Foul ,Offensive Charge
+158345,21600042,4,10:10,Joseph Foul Turnover (P1.T6),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+158346,21600042,4,9:45,nan,MISS Chandler 28' 3PT Jump Bank Shot,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158347,21600042,4,9:44,Lowry REBOUND (Off:0 Def:4),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158348,21600042,4,9:27,MISS Ross 24' Jump Shot,nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158349,21600042,4,9:27,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158350,21600042,4,9:27,nan,Nelson L.B.FOUL (P3.PN) (M.McCutchen),nan,2749,Jameer Nelson,DEN,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Loose Ball
+158351,21600042,4,9:27,Poeltl Free Throw 1 of 2 (1 PTS),nan,86 - 90,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158352,21600042,4,9:27,MISS Poeltl Free Throw 2 of 2,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158353,21600042,4,9:26,nan,Nurkic REBOUND (Off:4 Def:10),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158354,21600042,4,9:14,nan,Nelson 12' Driving Floating Jump Shot (8 PTS),88 - 90,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+158355,21600042,4,9:02,MISS Ross 25' 3PT Jump Shot,nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158356,21600042,4,9:01,nan,Faried REBOUND (Off:1 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158357,21600042,4,8:50,nan,Chandler 25' 3PT Jump Shot (9 PTS) (Murray 1 AST),91 - 90,201163,Wilson Chandler,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+158358,21600042,4,8:26,MISS Poeltl 1' Alley Oop Layup,Chandler BLOCK (1 BLK),nan,1627751,Jakob Poeltl,TOR,0,nan,nan,201163,Wilson Chandler,DEN,Missed Shot ,nan
+158359,21600042,4,8:25,nan,Murray REBOUND (Off:0 Def:2),nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158360,21600042,4,8:23,Joseph STEAL (1 STL),Murray Lost Ball Turnover (P1.T7),nan,1627750,Jamal Murray,DEN,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Lost Ball
+158361,21600042,4,8:11,MISS Lowry 2' Driving Hook Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158362,21600042,4,8:11,nan,Nurkic REBOUND (Off:4 Def:11),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158363,21600042,4,8:00,Patterson Personal Block Foul (P2.T3) (M.McCutchen),nan,nan,202335,Patrick Patterson,TOR,201163,Wilson Chandler,DEN,0,nan,nan,Foul ,Personal Block
+158364,21600042,4,8:00,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+158365,21600042,4,8:00,SUB: DeRozan FOR Ross,nan,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+158366,21600042,4,7:53,nan,Nelson 25' 3PT Pullup Jump Shot (11 PTS),94 - 90,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+158367,21600042,4,7:36,Lowry 4' Driving Layup (20 PTS),nan,94 - 92,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158368,21600042,4,7:21,nan,Nurkic 1' Cutting Layup Shot (11 PTS) (Murray 2 AST),96 - 92,203994,Jusuf Nurkic,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+158369,21600042,4,7:21,Poeltl S.FOUL (P3.T4) (M.McCutchen),nan,nan,1627751,Jakob Poeltl,TOR,203994,Jusuf Nurkic,DEN,0,nan,nan,Foul ,Shooting
+158370,21600042,4,7:21,nan,Nurkic Free Throw 1 of 1 (12 PTS),97 - 92,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+158371,21600042,4,6:58,nan,Nelson S.FOUL (P4.PN) (M.McCutchen),nan,2749,Jameer Nelson,DEN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+158372,21600042,4,6:58,Lowry Free Throw 1 of 2 (21 PTS),nan,97 - 93,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158373,21600042,4,6:58,MISS Lowry Free Throw 2 of 2,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158374,21600042,4,6:57,nan,Faried REBOUND (Off:1 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158375,21600042,4,6:38,nan,MISS Faried 7' Driving Hook Shot,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158376,21600042,4,6:37,Poeltl REBOUND (Off:0 Def:4),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158377,21600042,4,6:30,MISS Lowry 9' Jump Shot,Faried BLOCK (1 BLK),nan,200768,Kyle Lowry,TOR,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+158378,21600042,4,6:29,Poeltl REBOUND (Off:1 Def:4),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158379,21600042,4,6:28,MISS Poeltl 2' Putback Layup,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158380,21600042,4,6:27,nan,Faried REBOUND (Off:1 Def:4),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158381,21600042,4,6:20,nan,MISS Murray 1' Driving Layup,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158382,21600042,4,6:20,Joseph REBOUND (Off:1 Def:2),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158383,21600042,4,6:07,MISS Joseph 6' Driving Floating Jump Shot,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158384,21600042,4,6:06,nan,Nurkic REBOUND (Off:4 Def:12),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158385,21600042,4,5:56,nan,Nelson 8' Driving Floating Bank Jump Shot (13 PTS),99 - 93,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+158386,21600042,4,5:55,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158387,21600042,4,5:55,SUB: Valanciunas FOR Joseph,nan,nan,202709,Cory Joseph,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+158388,21600042,4,5:55,SUB: Carroll FOR Poeltl,nan,nan,1627751,Jakob Poeltl,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Substitution ,nan
+158389,21600042,4,5:55,nan,SUB: Gallinari FOR Faried,nan,202702,Kenneth Faried,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+158390,21600042,4,5:55,nan,SUB: Mudiay FOR Murray,nan,1627750,Jamal Murray,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+158391,21600042,4,5:33,Lowry 2' Driving Layup (23 PTS),nan,99 - 95,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158392,21600042,4,5:11,Patterson P.FOUL (P3.PN) (A.Smith),nan,nan,202335,Patrick Patterson,TOR,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+158393,21600042,4,5:02,Valanciunas BLOCK (1 BLK),MISS Nurkic 5' Driving Hook Shot,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,202685,Jonas Valanciunas,TOR,Missed Shot ,nan
+158394,21600042,4,5:01,Valanciunas REBOUND (Off:1 Def:4),nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158395,21600042,4,4:53,Lowry Lost Ball Turnover (P3.T7),Nelson STEAL (1 STL),nan,200768,Kyle Lowry,TOR,2749,Jameer Nelson,DEN,0,nan,nan,Turnover ,Lost Ball
+158396,21600042,4,4:44,nan,MISS Mudiay 4' Driving Finger Roll Layup,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158397,21600042,4,4:43,Valanciunas REBOUND (Off:1 Def:5),nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158398,21600042,4,4:26,DeRozan 3' Driving Finger Roll Layup (31 PTS),nan,99 - 97,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158399,21600042,4,4:26,nan,Nuggets Timeout: Regular (Reg.5 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158400,21600042,4,4:14,nan,MISS Gallinari 24' 3PT Jump Shot,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158401,21600042,4,4:14,nan,Mudiay REBOUND (Off:1 Def:5),nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158402,21600042,4,4:14,DeRozan STEAL (1 STL),Mudiay Bad Pass Turnover (P2.T8),nan,1626144,Emmanuel Mudiay,DEN,201942,DeMar DeRozan,TOR,0,nan,nan,Turnover ,Bad Pass
+158403,21600042,4,3:57,MISS DeRozan 4' Driving Floating Jump Shot,Nurkic BLOCK (5 BLK),nan,201942,DeMar DeRozan,TOR,0,nan,nan,203994,Jusuf Nurkic,DEN,Missed Shot ,nan
+158404,21600042,4,3:55,nan,Nurkic REBOUND (Off:4 Def:13),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158405,21600042,4,3:39,nan,MISS Mudiay 11' Pullup Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158406,21600042,4,3:39,Valanciunas REBOUND (Off:1 Def:6),nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158407,21600042,4,3:24,Lowry 4' Driving Layup (25 PTS),nan,99 - 99,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158408,21600042,4,3:10,nan,MISS Nelson 15' Pullup Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158409,21600042,4,3:10,nan,Nelson REBOUND (Off:1 Def:1),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158410,21600042,4,2:54,nan,Mudiay 5' Driving Hook Shot (16 PTS),101 - 99,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+158411,21600042,4,2:37,MISS Lowry 29' 3PT Pullup Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158412,21600042,4,2:36,Valanciunas REBOUND (Off:2 Def:6),nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158413,21600042,4,2:35,MISS Valanciunas 2' Tip Layup Shot,nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158414,21600042,4,2:34,Valanciunas REBOUND (Off:3 Def:6),nan,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158415,21600042,4,2:21,DeRozan 2' Driving Layup (33 PTS),nan,101 - 101,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158416,21600042,4,2:00,nan,MISS Chandler 25' 3PT Jump Shot,nan,201163,Wilson Chandler,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158417,21600042,4,2:00,Lowry REBOUND (Off:0 Def:5),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158418,21600042,4,1:36,Lowry 14' Step Back Jump Shot (27 PTS),nan,101 - 103,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158419,21600042,4,1:21,nan,MISS Nelson 11' Pullup Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158420,21600042,4,1:21,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158421,21600042,4,1:21,Valanciunas L.B.FOUL (P4.PN) (G.Zielinski),nan,nan,202685,Jonas Valanciunas,TOR,203994,Jusuf Nurkic,DEN,0,nan,nan,Foul ,Loose Ball
+158422,21600042,4,1:21,nan,MISS Nurkic Free Throw 1 of 2,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158423,21600042,4,1:21,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+158424,21600042,4,1:21,RAPTORS Timeout: Regular (Full 5 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158425,21600042,4,1:21,nan,Nurkic Free Throw 2 of 2 (13 PTS),102 - 103,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158426,21600042,4,1:07,MISS DeRozan 16' Pullup Jump Shot,nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158427,21600042,4,1:07,Patterson REBOUND (Off:3 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158428,21600042,4,0:45,Lowry 3' Driving Layup (29 PTS),nan,102 - 105,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+158429,21600042,4,0:45,nan,Nuggets Timeout: Regular (Reg.6 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158430,21600042,4,0:37,nan,MISS Gallinari 28' 3PT Jump Shot,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158431,21600042,4,0:36,DeRozan REBOUND (Off:2 Def:3),nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158432,21600042,4,0:34,RAPTORS Timeout: Short (Full 5 Short 1),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+158433,21600042,4,0:12,MISS Lowry 18' Fadeaway Jumper,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158434,21600042,4,0:12,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158435,21600042,4,0:12,RAPTORS Turnover: Shot Clock (T#8),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+158436,21600042,4,0:02,nan,MISS Mudiay 26' 3PT Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158437,21600042,4,0:01,nan,Nurkic REBOUND (Off:5 Def:13),nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158438,21600042,4,0:00,nan,MISS Nurkic  Tip Layup Shot,nan,203994,Jusuf Nurkic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158439,21600042,4,0:00,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158440,21600042,4,0:00,nan,nan,nan,573,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+158441,21600042,4,0:00,nan,SUB: Jokic FOR Mudiay,nan,1626144,Emmanuel Mudiay,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+158442,21600042,4,0:00,nan,MISS Gallinari 28' 3PT Jump Shot,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158443,21600042,4,0:00,nan,Nuggets Rebound,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158444,21600042,4,0:00,nan,nan,102 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

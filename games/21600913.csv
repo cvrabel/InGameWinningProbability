@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+265843,21600913,4,12:00,nan,nan,106 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+265844,21600913,4,11:47,MISS Hardaway Jr. 26' 3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265845,21600913,4,11:46,nan,Jefferson REBOUND (Off:0 Def:2),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265846,21600913,4,11:44,Ilyasova STEAL (1 STL),Jefferson Bad Pass Turnover (P2.T13),nan,2210,Richard Jefferson,CLE,101141,Ersan Ilyasova,ATL,0,nan,nan,Turnover ,Bad Pass
+265847,21600913,4,11:38,nan,Jefferson S.FOUL (P4.T1) (T.Maddox),nan,2210,Richard Jefferson,CLE,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Shooting
+265848,21600913,4,11:38,Schroder Free Throw 1 of 2 (10 PTS),nan,106 - 89,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265849,21600913,4,11:38,Schroder Free Throw 2 of 2 (11 PTS),nan,106 - 90,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265850,21600913,4,11:25,nan,MISS James  Alley Oop Layup,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265851,21600913,4,11:22,Prince REBOUND (Off:0 Def:2),nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265852,21600913,4,11:15,Schroder 2' Driving Layup (13 PTS),nan,106 - 92,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265853,21600913,4,11:00,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265854,21600913,4,10:59,Sefolosha REBOUND (Off:2 Def:3),nan,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265855,21600913,4,10:51,MISS Schroder 25' 3PT Running Pull-Up Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265856,21600913,4,10:50,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265857,21600913,4,10:30,nan,James  Driving Dunk (32 PTS) (D. Williams 7 AST),108 - 92,2544,LeBron James,CLE,101114,Deron Williams,CLE,0,nan,nan,Made Shot ,nan
+265858,21600913,4,10:01,MISS Prince 11' Pullup Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265859,21600913,4,10:00,Schroder REBOUND (Off:1 Def:1),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265860,21600913,4,9:58,MISS Schroder 1' Reverse Layup,Williams BLOCK (1 BLK),nan,203471,Dennis Schroder,ATL,0,nan,nan,202682,Derrick Williams,CLE,Missed Shot ,nan
+265861,21600913,4,9:57,nan,James REBOUND (Off:1 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265862,21600913,4,9:56,Prince S.FOUL (P1.T1) (T.Maddox),nan,nan,1627752,Taurean Prince,ATL,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+265863,21600913,4,9:56,nan,James Free Throw 1 of 2 (33 PTS),109 - 92,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265864,21600913,4,9:56,nan,MISS James Free Throw 2 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265865,21600913,4,9:56,Ilyasova REBOUND (Off:0 Def:4),nan,nan,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265866,21600913,4,9:41,Schroder 1' Driving Layup (15 PTS),nan,109 - 94,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265867,21600913,4,9:20,nan,Jefferson 1' Driving Reverse Layup (8 PTS) (James 6 AST),111 - 94,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+265868,21600913,4,9:03,MISS Hardaway Jr. 5' Hook Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265869,21600913,4,9:02,Hardaway Jr. REBOUND (Off:1 Def:0),nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265870,21600913,4,8:59,MISS Sefolosha 25' 3PT Jump Shot,nan,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265871,21600913,4,8:58,Ilyasova REBOUND (Off:1 Def:4),nan,nan,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265872,21600913,4,8:50,Ilyasova 8' Jump Bank Shot (6 PTS) (Sefolosha 5 AST),nan,111 - 96,101141,Ersan Ilyasova,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Made Shot ,nan
+265873,21600913,4,8:30,nan,MISS Jefferson 24' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265874,21600913,4,8:29,Hardaway Jr. REBOUND (Off:1 Def:1),nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265875,21600913,4,8:21,Schroder Out of Bounds Lost Ball Turnover (P5.T12),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+265876,21600913,4,8:21,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+265877,21600913,4,8:21,SUB: Bazemore FOR Prince,nan,nan,1627752,Taurean Prince,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+265878,21600913,4,8:02,nan,Williams 24' 3PT Jump Shot (9 PTS) (James 7 AST),114 - 96,202682,Derrick Williams,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+265879,21600913,4,7:42,Ilyasova 2' Driving Layup (8 PTS) (Schroder 7 AST),nan,114 - 98,101141,Ersan Ilyasova,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+265880,21600913,4,7:20,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265881,21600913,4,7:19,Ilyasova REBOUND (Off:1 Def:5),nan,nan,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265882,21600913,4,7:02,MISS Schroder 2' Driving Layup,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265883,21600913,4,6:59,nan,James REBOUND (Off:1 Def:10),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265884,21600913,4,6:47,nan,Jefferson 25' 3PT Jump Shot (11 PTS) (Korver 3 AST),117 - 98,2210,Richard Jefferson,CLE,2594,Kyle Korver,CLE,0,nan,nan,Made Shot ,nan
+265885,21600913,4,6:34,nan,Jefferson S.FOUL (P5.T2) (B.Forte),nan,2210,Richard Jefferson,CLE,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting
+265886,21600913,4,6:34,Bazemore Free Throw 1 of 2 (10 PTS),nan,117 - 99,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265887,21600913,4,6:34,SUB: Millsap FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+265888,21600913,4,6:34,Bazemore Free Throw 2 of 2 (11 PTS),nan,117 - 100,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265889,21600913,4,6:20,nan,MISS Jefferson  3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265890,21600913,4,6:18,Ilyasova REBOUND (Off:1 Def:6),nan,nan,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265891,21600913,4,6:12,nan,Korver S.FOUL (P2.T3) (Z.Zarba),nan,2594,Kyle Korver,CLE,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+265892,21600913,4,6:12,Millsap Free Throw 1 of 2 (16 PTS),nan,117 - 101,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265893,21600913,4,6:12,Millsap Free Throw 2 of 2 (17 PTS),nan,117 - 102,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265894,21600913,4,5:52,Bazemore BLOCK (1 BLK),MISS James 2' Driving Layup,nan,2544,LeBron James,CLE,0,nan,nan,203145,Kent Bazemore,ATL,Missed Shot ,nan
+265895,21600913,4,5:50,Bazemore REBOUND (Off:0 Def:3),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265896,21600913,4,5:50,nan,Jefferson Personal Take Foul (P6.T4) (Z.Zarba),nan,2210,Richard Jefferson,CLE,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal Take
+265897,21600913,4,5:50,HAWKS Timeout: Regular (Full 3 Short 1),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265898,21600913,4,5:50,nan,SUB: Irving FOR Williams,nan,202682,Derrick Williams,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+265899,21600913,4,5:50,nan,SUB: Thompson FOR Jefferson,nan,2210,Richard Jefferson,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+265900,21600913,4,5:40,Hardaway Jr.  Driving Dunk (27 PTS) (Sefolosha 6 AST),nan,117 - 104,203501,Tim Hardaway Jr.,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Made Shot ,nan
+265901,21600913,4,5:14,nan,James 19' Fadeaway Jumper (35 PTS),119 - 104,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+265902,21600913,4,5:00,nan,James P.FOUL (P4.PN) (T.Maddox),nan,2544,LeBron James,CLE,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Personal
+265903,21600913,4,5:00,Hardaway Jr. Free Throw 1 of 2 (28 PTS),nan,119 - 105,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265904,21600913,4,5:00,Hardaway Jr. Free Throw 2 of 2 (29 PTS),nan,119 - 106,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265905,21600913,4,4:38,nan,MISS Irving 25' 3PT Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265906,21600913,4,4:37,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265907,21600913,4,4:37,nan,Thompson L.B.FOUL (P3.PN) (T.Maddox),nan,202684,Tristan Thompson,CLE,101141,Ersan Ilyasova,ATL,0,nan,nan,Foul ,Loose Ball
+265908,21600913,4,4:37,Ilyasova Free Throw 1 of 2 (9 PTS),nan,119 - 107,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265909,21600913,4,4:37,Ilyasova Free Throw 2 of 2 (10 PTS),nan,119 - 108,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265910,21600913,4,4:24,nan,D. Williams Out of Bounds Lost Ball Turnover (P1.T14),nan,101114,Deron Williams,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+265911,21600913,4,4:17,Hardaway Jr. 2' Driving Layup (31 PTS) (Bazemore 5 AST),nan,119 - 110,203501,Tim Hardaway Jr.,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+265912,21600913,4,4:17,nan,D. Williams S.FOUL (P2.PN) (B.Forte),nan,101114,Deron Williams,CLE,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Shooting
+265913,21600913,4,4:17,nan,SUB: Shumpert FOR D. Williams,nan,101114,Deron Williams,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+265914,21600913,4,4:17,Hardaway Jr. Free Throw 1 of 1 (32 PTS),nan,119 - 111,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+265915,21600913,4,4:07,Bazemore S.FOUL (P1.T2) (T.Maddox),nan,nan,203145,Kent Bazemore,ATL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting
+265916,21600913,4,4:07,nan,Irving Free Throw 1 of 2 (34 PTS),120 - 111,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265917,21600913,4,4:07,nan,Irving Free Throw 2 of 2 (35 PTS),121 - 111,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265918,21600913,4,3:54,Millsap 12' Step Back Jump Shot (19 PTS),nan,121 - 113,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265919,21600913,4,3:33,nan,MISS Shumpert 25' 3PT Jump Shot,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265920,21600913,4,3:32,Ilyasova REBOUND (Off:1 Def:7),nan,nan,101141,Ersan Ilyasova,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265921,21600913,4,3:27,Hardaway Jr.  Running Dunk (34 PTS) (Ilyasova 1 AST),nan,121 - 115,203501,Tim Hardaway Jr.,ATL,101141,Ersan Ilyasova,ATL,0,nan,nan,Made Shot ,nan
+265922,21600913,4,3:00,nan,James 25' 3PT Step Back Jump Shot (38 PTS),124 - 115,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+265923,21600913,4,2:46,Millsap 6' Pullup Bank Shot (21 PTS),nan,124 - 117,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265924,21600913,4,2:46,nan,Thompson S.FOUL (P4.PN) (B.Forte),nan,202684,Tristan Thompson,CLE,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+265925,21600913,4,2:46,nan,Cavaliers Timeout: Regular (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265926,21600913,4,2:46,Millsap Free Throw 1 of 1 (22 PTS),nan,124 - 118,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+265927,21600913,4,2:28,nan,MISS James 24' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265928,21600913,4,2:26,Millsap REBOUND (Off:2 Def:6),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265929,21600913,4,2:21,MISS Hardaway Jr. 26' 3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265930,21600913,4,2:20,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265931,21600913,4,2:16,Bazemore 24' 3PT Jump Shot (14 PTS) (Ilyasova 2 AST),nan,124 - 121,203145,Kent Bazemore,ATL,101141,Ersan Ilyasova,ATL,0,nan,nan,Made Shot ,nan
+265932,21600913,4,1:47,Bazemore BLOCK (2 BLK),MISS Irving 16' Step Back Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,203145,Kent Bazemore,ATL,Missed Shot ,nan
+265933,21600913,4,1:44,Millsap REBOUND (Off:2 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265934,21600913,4,1:32,Millsap 14' Step Back Jump Shot (24 PTS) (Bazemore 6 AST),nan,124 - 123,200794,Paul Millsap,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+265935,21600913,4,1:17,nan,Korver 25' 3PT Jump Shot (9 PTS) (James 8 AST),127 - 123,2594,Kyle Korver,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+265936,21600913,4,1:17,nan,nan,nan,491,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+265937,21600913,4,1:10,MISS Hardaway Jr. 25' 3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265938,21600913,4,1:08,nan,James REBOUND (Off:1 Def:11),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265939,21600913,4,0:44,nan,MISS James 21' Step Back Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265940,21600913,4,0:42,Bazemore REBOUND (Off:0 Def:4),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265941,21600913,4,0:36,MISS Bazemore  Running Layup,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265942,21600913,4,0:33,nan,James REBOUND (Off:1 Def:12),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265943,21600913,4,0:28,nan,Irving 2' Driving Layup (37 PTS),129 - 123,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+265944,21600913,4,0:28,HAWKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265945,21600913,4,0:28,SUB: Schroder FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+265946,21600913,4,0:24,Millsap 24' 3PT Pullup Jump Shot (27 PTS) (Hardaway Jr. 2 AST),nan,129 - 126,200794,Paul Millsap,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+265947,21600913,4,0:24,Schroder Personal Take Foul (P3.T3) (Z.Zarba),nan,nan,203471,Dennis Schroder,ATL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+265948,21600913,4,0:23,Schroder Personal Take Foul (P4.PN) (Z.Zarba),nan,nan,203471,Dennis Schroder,ATL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+265949,21600913,4,0:23,nan,Irving Free Throw 1 of 2 (38 PTS),130 - 126,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265950,21600913,4,0:23,SUB: Sefolosha FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+265951,21600913,4,0:23,nan,Irving Free Throw 2 of 2 (39 PTS),131 - 126,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265952,21600913,4,0:23,HAWKS Timeout: Short (Full 4 Short 2),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+265953,21600913,4,0:23,SUB: Ilyasova FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,101141,Ersan Ilyasova,ATL,0,nan,nan,Substitution ,nan
+265954,21600913,4,0:20,Hardaway Jr. 2' Driving Layup (36 PTS) (Bazemore 7 AST),nan,131 - 128,203501,Tim Hardaway Jr.,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+265955,21600913,4,0:14,Ilyasova Personal Take Foul (P2.PN) (T.Maddox),nan,nan,101141,Ersan Ilyasova,ATL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+265956,21600913,4,0:14,nan,Irving Free Throw 1 of 2 (40 PTS),132 - 128,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265957,21600913,4,0:14,nan,Irving Free Throw 2 of 2 (41 PTS),133 - 128,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265958,21600913,4,0:09,Schroder  Running Layup (17 PTS),nan,133 - 130,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+265959,21600913,4,0:09,nan,Cavaliers Timeout: Short (Reg.5 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+265960,21600913,4,0:09,SUB: Sefolosha FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+265961,21600913,4,0:09,nan,SUB: Frye FOR Thompson,nan,202684,Tristan Thompson,CLE,101112,Channing Frye,CLE,0,nan,nan,Substitution ,nan
+265962,21600913,4,0:07,Millsap Personal Take Foul (P3.PN) (T.Maddox),nan,nan,200794,Paul Millsap,ATL,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Take
+265963,21600913,4,0:07,nan,Irving Free Throw 1 of 2 (42 PTS),134 - 130,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265964,21600913,4,0:07,nan,SUB: Thompson FOR Frye,nan,101112,Channing Frye,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+265965,21600913,4,0:07,SUB: Ilyasova FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,101141,Ersan Ilyasova,ATL,0,nan,nan,Substitution ,nan
+265966,21600913,4,0:07,nan,Irving Free Throw 2 of 2 (43 PTS),135 - 130,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265967,21600913,4,0:07,HAWKS Timeout: Short (Full 4 Short 3),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+265968,21600913,4,0:01,MISS Millsap 24' 3PT Pullup Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265969,21600913,4,0:01,nan,Shumpert REBOUND (Off:1 Def:2),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265970,21600913,4,0:00,nan,nan,135 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

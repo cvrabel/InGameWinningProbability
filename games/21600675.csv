@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+236374,21600675,4,12:00,nan,nan,89 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+236375,21600675,4,11:44,nan,Crawford 18' Jump Shot (24 PTS),91 - 89,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+236376,21600675,4,11:22,Covington 26' 3PT Jump Shot (12 PTS) (Rodriguez 6 AST),nan,91 - 92,203496,Robert Covington,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+236377,21600675,4,10:53,nan,Clippers Turnover: Shot Clock (T#12),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+236378,21600675,4,10:39,Rodriguez 1' Driving Finger Roll Layup (7 PTS),nan,91 - 94,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+236379,21600675,4,10:23,nan,Speights 26' 3PT Jump Shot (9 PTS) (Felton 3 AST),94 - 94,201578,Marreese Speights,LAC,101109,Raymond Felton,LAC,0,nan,nan,Made Shot ,nan
+236380,21600675,4,10:06,MISS Saric 5' Turnaround Hook Shot,nan,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236381,21600675,4,10:04,nan,Bass REBOUND (Off:1 Def:1),nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236382,21600675,4,9:54,Saric STEAL (1 STL),Crawford Bad Pass Turnover (P2.T13),nan,2037,Jamal Crawford,LAC,203967,Dario Saric,PHI,0,nan,nan,Turnover ,Bad Pass
+236383,21600675,4,9:49,Covington 2' Running Layup (14 PTS) (Rodriguez 7 AST),nan,94 - 96,203496,Robert Covington,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+236384,21600675,4,9:37,nan,Speights Out of Bounds Lost Ball Turnover (P1.T14),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+236385,21600675,4,9:37,SUB: Ilyasova FOR Saric,nan,nan,203967,Dario Saric,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+236386,21600675,4,9:37,nan,SUB: Jordan FOR Bass,nan,101138,Brandon Bass,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+236387,21600675,4,9:23,MISS Henderson 3' Jump Shot,nan,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236388,21600675,4,9:22,Noel REBOUND (Off:1 Def:5),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236389,21600675,4,9:21,Noel  Putback Dunk (15 PTS),nan,94 - 98,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+236390,21600675,4,8:56,nan,MISS Felton 27' 3PT Jump Shot,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236391,21600675,4,8:54,nan,Jordan REBOUND (Off:4 Def:11),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236392,21600675,4,8:49,Covington STEAL (2 STL),Speights Lost Ball Turnover (P2.T15),nan,201578,Marreese Speights,LAC,203496,Robert Covington,PHI,0,nan,nan,Turnover ,Lost Ball
+236393,21600675,4,8:45,Ilyasova 2' Running Reverse Layup (7 PTS) (Covington 2 AST),nan,94 - 100,101141,Ersan Ilyasova,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+236394,21600675,4,8:45,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+236395,21600675,4,8:45,nan,SUB: Redick FOR Felton,nan,101109,Raymond Felton,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+236396,21600675,4,8:45,nan,SUB: Griffin FOR Speights,nan,201578,Marreese Speights,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+236397,21600675,4,8:26,Ilyasova P.FOUL (P2.T1) (M.Lindsay),nan,nan,101141,Ersan Ilyasova,PHI,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+236398,21600675,4,8:21,Ilyasova S.FOUL (P3.T2) (A.Smith),nan,nan,101141,Ersan Ilyasova,PHI,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+236399,21600675,4,8:21,nan,MISS Griffin Free Throw 1 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236400,21600675,4,8:21,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+236401,21600675,4,8:21,nan,Griffin Free Throw 2 of 2 (10 PTS),95 - 100,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236402,21600675,4,8:01,MISS Rodriguez 5' Driving Floating Jump Shot,nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236403,21600675,4,8:00,nan,Jordan REBOUND (Off:4 Def:12),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236404,21600675,4,7:45,nan,Jordan 1' Reverse Layup (8 PTS) (Crawford 2 AST),97 - 100,201599,DeAndre Jordan,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+236405,21600675,4,7:32,MISS Rodriguez 24' 3PT Jump Shot,nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236406,21600675,4,7:31,nan,Jordan REBOUND (Off:4 Def:13),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236407,21600675,4,7:24,Henderson P.FOUL (P5.T3) (A.Smith),nan,nan,201945,Gerald Henderson,PHI,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+236408,21600675,4,7:08,nan,MISS Rivers 5' Driving Floating Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236409,21600675,4,7:07,nan,Jordan REBOUND (Off:5 Def:13),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236410,21600675,4,7:07,nan,Clippers Turnover: Shot Clock (T#16),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+236411,21600675,4,6:53,Henderson 18' Pullup Jump Shot (7 PTS) (Noel 4 AST),nan,97 - 102,201945,Gerald Henderson,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+236412,21600675,4,6:41,Ilyasova P.FOUL (P4.T4) (M.Lindsay),nan,nan,101141,Ersan Ilyasova,PHI,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+236413,21600675,4,6:41,SUB: Stauskas FOR Henderson,nan,nan,201945,Gerald Henderson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+236414,21600675,4,6:34,Noel BLOCK (2 BLK),MISS Redick 3' Layup,nan,200755,JJ Redick,LAC,0,nan,nan,203457,Nerlens Noel,PHI,Missed Shot ,nan
+236415,21600675,4,6:32,Covington REBOUND (Off:4 Def:3),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236416,21600675,4,6:29,nan,Redick P.FOUL (P2.T1) (S.Corbin),nan,200755,JJ Redick,LAC,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Personal
+236417,21600675,4,6:21,Noel  Driving Dunk (17 PTS),nan,97 - 104,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+236418,21600675,4,6:13,Stauskas Personal Take Foul (P2.PN) (A.Smith),nan,nan,203917,Nik Stauskas,PHI,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+236419,21600675,4,6:13,nan,Jordan Free Throw 1 of 2 (9 PTS),98 - 104,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236420,21600675,4,6:13,nan,MISS Jordan Free Throw 2 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236421,21600675,4,6:12,Stauskas REBOUND (Off:0 Def:1),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236422,21600675,4,6:02,Rodriguez 17' Pullup Jump Shot (9 PTS),nan,98 - 106,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+236423,21600675,4,6:01,nan,Clippers Timeout: Regular (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+236424,21600675,4,6:01,nan,nan,nan,473,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+236425,21600675,4,6:01,nan,SUB: Mbah a Moute FOR Jordan,nan,201599,DeAndre Jordan,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+236426,21600675,4,5:47,nan,MISS Mbah a Moute 25' 3PT Jump Shot,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236427,21600675,4,5:46,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236428,21600675,4,5:39,nan,MISS Crawford 7' Floating Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236429,21600675,4,5:37,Covington REBOUND (Off:4 Def:4),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236430,21600675,4,5:24,MISS Rodriguez 25' 3PT Jump Shot,nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236431,21600675,4,5:23,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236432,21600675,4,5:02,Noel STEAL (2 STL),Crawford Bad Pass Turnover (P3.T17),nan,2037,Jamal Crawford,LAC,203457,Nerlens Noel,PHI,0,nan,nan,Turnover ,Bad Pass
+236433,21600675,4,4:46,Ilyasova 25' 3PT Jump Shot (10 PTS) (Stauskas 2 AST),nan,98 - 109,101141,Ersan Ilyasova,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+236434,21600675,4,4:35,Ilyasova Personal Block Foul (P5.PN) (S.Corbin),nan,nan,101141,Ersan Ilyasova,PHI,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal Block
+236435,21600675,4,4:35,nan,Redick Free Throw 1 of 2 (19 PTS),99 - 109,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236436,21600675,4,4:35,SUB: Saric FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+236437,21600675,4,4:35,nan,MISS Redick Free Throw 2 of 2,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236438,21600675,4,4:34,Rodriguez REBOUND (Off:0 Def:3),nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236439,21600675,4,4:22,Noel Lost Ball Turnover (P1.T5),Griffin STEAL (1 STL),nan,203457,Nerlens Noel,PHI,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Lost Ball
+236440,21600675,4,4:18,nan,Griffin Double Dribble Turnover (P5.T18),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+236441,21600675,4,4:18,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+236442,21600675,4,3:53,Noel 1' Layup (19 PTS) (Saric 2 AST),nan,99 - 111,203457,Nerlens Noel,PHI,203967,Dario Saric,PHI,0,nan,nan,Made Shot ,nan
+236443,21600675,4,3:36,Noel P.FOUL (P3.PN) (S.Corbin),nan,nan,203457,Nerlens Noel,PHI,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+236444,21600675,4,3:36,nan,Griffin Free Throw 1 of 2 (11 PTS),100 - 111,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236445,21600675,4,3:36,SUB: McConnell FOR Rodriguez,nan,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+236446,21600675,4,3:36,nan,MISS Griffin Free Throw 2 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236447,21600675,4,3:35,Noel REBOUND (Off:1 Def:6),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236448,21600675,4,3:26,nan,Griffin P.FOUL (P2.T2) (A.Smith),nan,201933,Blake Griffin,LAC,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Personal
+236449,21600675,4,3:19,McConnell 2' Driving Layup (9 PTS) (Noel 5 AST),nan,100 - 113,204456,T.J. McConnell,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+236450,21600675,4,2:59,nan,Redick 26' 3PT Jump Shot (22 PTS) (Rivers 3 AST),103 - 113,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+236451,21600675,4,2:45,Saric 2' Cutting Layup Shot (14 PTS) (McConnell 10 AST),nan,103 - 115,203967,Dario Saric,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+236452,21600675,4,2:30,Noel Shooting Block Foul (P4.PN) (M.Lindsay),nan,nan,203457,Nerlens Noel,PHI,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting Block
+236453,21600675,4,2:30,nan,Griffin Free Throw 1 of 2 (12 PTS),104 - 115,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236454,21600675,4,2:30,nan,SUB: Jordan FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+236455,21600675,4,2:30,nan,MISS Griffin Free Throw 2 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236456,21600675,4,2:29,Saric REBOUND (Off:1 Def:7),nan,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236457,21600675,4,2:07,MISS McConnell 24' 3PT Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236458,21600675,4,2:05,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236459,21600675,4,1:43,Noel BLOCK (3 BLK),MISS Griffin 4' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,203457,Nerlens Noel,PHI,Missed Shot ,nan
+236460,21600675,4,1:42,nan,Jordan REBOUND (Off:6 Def:13),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236461,21600675,4,1:42,Covington S.FOUL (P5.PN) (A.Smith),nan,nan,203496,Robert Covington,PHI,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+236462,21600675,4,1:42,nan,MISS Jordan Free Throw 1 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236463,21600675,4,1:42,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+236464,21600675,4,1:42,nan,Jordan Free Throw 2 of 2 (10 PTS),105 - 115,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236465,21600675,4,1:17,MISS Saric 3' Driving Layup,nan,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236466,21600675,4,1:15,nan,Jordan REBOUND (Off:6 Def:14),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236467,21600675,4,1:08,Covington STEAL (3 STL),Griffin Bad Pass Turnover (P6.T19),nan,201933,Blake Griffin,LAC,203496,Robert Covington,PHI,0,nan,nan,Turnover ,Bad Pass
+236468,21600675,4,0:59,nan,Rivers P.FOUL (P4.T3) (S.Corbin),nan,203085,Austin Rivers,LAC,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Personal
+236469,21600675,4,0:59,nan,SUB: W. Johnson FOR Griffin,nan,201933,Blake Griffin,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+236470,21600675,4,0:59,SUB: Henderson FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Substitution ,nan
+236471,21600675,4,0:51,nan,Jordan P.FOUL (P3.PN) (S.Corbin),nan,201599,DeAndre Jordan,LAC,201945,Gerald Henderson,PHI,0,nan,nan,Foul ,Personal
+236472,21600675,4,0:51,Henderson Free Throw 1 of 2 (8 PTS),nan,105 - 116,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236473,21600675,4,0:51,Henderson Free Throw 2 of 2 (9 PTS),nan,105 - 117,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236474,21600675,4,0:51,nan,Clippers Timeout: Regular (Reg.6 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+236475,21600675,4,0:48,nan,Crawford  3PT Jump Shot (27 PTS) (Redick 1 AST),108 - 117,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+236476,21600675,4,0:45,nan,Rivers P.FOUL (P5.PN) (A.Smith),nan,203085,Austin Rivers,LAC,201945,Gerald Henderson,PHI,0,nan,nan,Foul ,Personal
+236477,21600675,4,0:45,Henderson Free Throw 1 of 2 (10 PTS),nan,108 - 118,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236478,21600675,4,0:45,Henderson Free Throw 2 of 2 (11 PTS),nan,108 - 119,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236479,21600675,4,0:45,nan,Clippers Timeout: Short (Reg.6 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+236480,21600675,4,0:41,nan,MISS Redick 30' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+236481,21600675,4,0:40,nan,W. Johnson REBOUND (Off:1 Def:4),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236482,21600675,4,0:39,nan,W. Johnson 7' Jump Shot (2 PTS),110 - 119,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+236483,21600675,4,0:38,nan,Redick P.FOUL (P3.PN) (A.Smith),nan,200755,JJ Redick,LAC,203967,Dario Saric,PHI,0,nan,nan,Foul ,Personal
+236484,21600675,4,0:38,Saric Free Throw 1 of 2 (15 PTS),nan,110 - 120,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+236485,21600675,4,0:38,Saric Free Throw 2 of 2 (16 PTS),nan,110 - 121,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+236486,21600675,4,0:29,Saric BLOCK (1 BLK),MISS Rivers 3' Layup,nan,203085,Austin Rivers,LAC,0,nan,nan,203967,Dario Saric,PHI,Missed Shot ,nan
+236487,21600675,4,0:27,Noel REBOUND (Off:1 Def:7),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+236488,21600675,4,0:00,76ERS Turnover: Shot Clock (T#6),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+236489,21600675,4,0:00,nan,nan,110 - 121,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

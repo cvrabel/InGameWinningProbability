@@ -1,0 +1,102 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+64993,21500520,4,12:00,nan,nan,77 - 95,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+64994,21500520,4,11:41,MISS Barnes 7' Turnaround Fadeaway Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64995,21500520,4,11:40,nan,Walker REBOUND (Off:2 Def:2),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64996,21500520,4,11:23,Iguodala S.FOUL (P2.T1) (M.Lindsay),nan,nan,2738,Andre Iguodala,GSW,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Shooting
+64997,21500520,4,11:23,nan,Hawes Free Throw 1 of 2 (3 PTS),78 - 95,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+64998,21500520,4,11:23,nan,Hawes Free Throw 2 of 2 (4 PTS),79 - 95,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+64999,21500520,4,11:02,Rush 13' Driving Bank Shot (10 PTS) (Barnes 1 AST),nan,79 - 97,201575,Brandon Rush,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+65000,21500520,4,10:49,nan,Hawes Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+65001,21500520,4,10:34,Barnes 17' Pullup Jump Shot (8 PTS) (Iguodala 4 AST),nan,79 - 99,203084,Harrison Barnes,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+65002,21500520,4,10:20,nan,MISS Walker 19' Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65003,21500520,4,10:19,Barnes REBOUND (Off:0 Def:1),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65004,21500520,4,10:10,Speights 15' Fadeaway Jumper (15 PTS) (Clark 3 AST),nan,79 - 101,201578,Marreese Speights,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+65005,21500520,4,10:07,nan,Hornets Timeout: Regular (Reg.5 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65006,21500520,4,9:53,Barnes BLOCK (1 BLK),MISS Kaminsky 7' Jump Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,203084,Harrison Barnes,GSW,Missed Shot ,nan
+65007,21500520,4,9:53,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65008,21500520,4,9:48,nan,MISS Walker 17' Step Back Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65009,21500520,4,9:48,Iguodala REBOUND (Off:0 Def:3),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65010,21500520,4,9:40,MISS Speights 16' Pullup Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65011,21500520,4,9:39,nan,Kaminsky REBOUND (Off:2 Def:2),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65012,21500520,4,9:27,nan,Lamb 12' Jump Shot (16 PTS),81 - 101,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65013,21500520,4,9:05,MISS Rush  3PT Jump Shot,nan,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65014,21500520,4,9:05,nan,Walker REBOUND (Off:2 Def:3),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65015,21500520,4,8:52,nan,Walker 2' Driving Reverse Layup (20 PTS) (Hawes 4 AST),83 - 101,202689,Kemba Walker,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+65016,21500520,4,8:26,MISS Speights 27' 3PT Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65017,21500520,4,8:25,nan,Roberts REBOUND (Off:0 Def:1),nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65018,21500520,4,8:07,nan,Kaminsky 7' Floating Jump Shot (6 PTS),85 - 101,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65019,21500520,4,8:04,WARRIORS Timeout: Regular (Full 3 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65020,21500520,4,8:04,SUB: Thompson FOR Rush,nan,nan,201575,Brandon Rush,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+65021,21500520,4,8:04,SUB: Green FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+65022,21500520,4,7:50,nan,Roberts P.FOUL (P2.T1) (J.Orr),nan,203148,Brian Roberts,CHA,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Personal
+65023,21500520,4,7:42,Speights 3 Second Violation Turnover (P1.T10),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+65024,21500520,4,7:18,nan,Hawes 10' Turnaround Hook Shot (6 PTS) (Lamb 1 AST),87 - 101,201150,Spencer Hawes,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+65025,21500520,4,7:02,SUB: Bogut FOR Speights,nan,nan,201578,Marreese Speights,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+65026,21500520,4,7:02,SUB: Curry FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+65027,21500520,4,7:00,MISS Thompson 16' Pullup Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65028,21500520,4,7:00,nan,Kaminsky REBOUND (Off:2 Def:3),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65029,21500520,4,6:41,nan,MISS Kaminsky 9' Jump Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65030,21500520,4,6:41,Clark REBOUND (Off:0 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65031,21500520,4,6:30,MISS Clark 2' Driving Layup,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65032,21500520,4,6:29,nan,Hawes REBOUND (Off:0 Def:4),nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65033,21500520,4,6:17,nan,MISS Hawes 6' Jump Shot,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65034,21500520,4,6:17,Green REBOUND (Off:2 Def:11),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65035,21500520,4,6:05,MISS Thompson 26' 3PT Pullup Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65036,21500520,4,6:03,nan,Walker REBOUND (Off:2 Def:4),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65037,21500520,4,5:56,Bogut P.FOUL (P1.T2) (M.Lindsay),nan,nan,101106,Andrew Bogut,GSW,203148,Brian Roberts,CHA,0,nan,nan,Foul ,Personal
+65038,21500520,4,5:42,nan,MISS Kaminsky 10' Turnaround Hook Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65039,21500520,4,5:42,Green REBOUND (Off:2 Def:12),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65040,21500520,4,5:34,Curry 26' 3PT Pullup Jump Shot (25 PTS) (Green 10 AST),nan,87 - 104,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+65041,21500520,4,5:09,nan,Lamb 18' Pullup Jump Shot (18 PTS),89 - 104,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65042,21500520,4,4:53,Curry 12' Floating Jump Shot (27 PTS),nan,89 - 106,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+65043,21500520,4,4:50,nan,Hornets Timeout: Regular (Reg.6 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65044,21500520,4,4:50,SUB: Barnes FOR Clark,nan,nan,203546,Ian Clark,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+65045,21500520,4,4:50,nan,SUB: Zeller FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+65046,21500520,4,4:50,nan,SUB: Lin FOR Hawes,nan,201150,Spencer Hawes,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Substitution ,nan
+65047,21500520,4,4:50,nan,SUB: Williams FOR Roberts,nan,203148,Brian Roberts,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+65048,21500520,4,4:31,nan,Lamb 11' Floating Jump Shot (20 PTS),91 - 106,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65049,21500520,4,4:18,MISS Thompson 10' Turnaround Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65050,21500520,4,4:16,nan,Zeller REBOUND (Off:2 Def:6),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65051,21500520,4,4:08,Barnes P.FOUL (P1.T3) (M.Lindsay),nan,nan,203084,Harrison Barnes,GSW,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+65052,21500520,4,4:04,nan,MISS Walker 26' 3PT Pullup Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65053,21500520,4,4:03,Green REBOUND (Off:2 Def:13),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65054,21500520,4,3:49,MISS Thompson 11' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65055,21500520,4,3:49,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65056,21500520,4,3:49,Bogut L.B.FOUL (P2.T4) (M.Lindsay),nan,nan,101106,Andrew Bogut,GSW,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Loose Ball
+65057,21500520,4,3:27,Bogut S.FOUL (P3.PN) (K.Mauer),nan,nan,101106,Andrew Bogut,GSW,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Shooting
+65058,21500520,4,3:27,nan,Lin Free Throw 1 of 2 (10 PTS),92 - 106,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65059,21500520,4,3:27,nan,Lin Free Throw 2 of 2 (11 PTS),93 - 106,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65060,21500520,4,3:04,MISS Curry 27' 3PT Pullup Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65061,21500520,4,3:04,nan,Zeller REBOUND (Off:2 Def:7),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65062,21500520,4,2:44,nan,MISS Williams 3' Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65063,21500520,4,2:42,nan,Zeller REBOUND (Off:3 Def:7),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65064,21500520,4,2:42,nan,MISS Zeller 2' Tip Layup Shot,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65065,21500520,4,2:41,Thompson REBOUND (Off:0 Def:3),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65066,21500520,4,2:34,MISS Curry 2' Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65067,21500520,4,2:34,nan,Walker REBOUND (Off:2 Def:5),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65068,21500520,4,2:18,nan,Walker 18' Pullup Jump Shot (22 PTS),95 - 106,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65069,21500520,4,1:55,MISS Curry 3' Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65070,21500520,4,1:55,nan,Williams REBOUND (Off:0 Def:5),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65071,21500520,4,1:52,nan,Lin 2' Driving Layup (13 PTS) (Walker 3 AST),97 - 106,202391,Jeremy Lin,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+65072,21500520,4,1:52,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65073,21500520,4,1:40,Curry 3' Driving Finger Roll Layup (29 PTS) (Barnes 2 AST),nan,97 - 108,201939,Stephen Curry,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+65074,21500520,4,1:40,nan,Zeller S.FOUL (P2.T2) (J.Orr),nan,203469,Cody Zeller,CHA,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+65075,21500520,4,1:40,Curry Free Throw 1 of 1 (30 PTS),nan,97 - 109,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+65076,21500520,4,1:32,Bogut S.FOUL (P4.PN) (J.Orr),nan,nan,101106,Andrew Bogut,GSW,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Shooting
+65077,21500520,4,1:32,nan,Zeller Free Throw 1 of 2 (7 PTS),98 - 109,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65078,21500520,4,1:32,nan,Zeller Free Throw 2 of 2 (8 PTS),99 - 109,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65079,21500520,4,1:22,Green Bad Pass Turnover (P2.T11),Lamb STEAL (3 STL),nan,203110,Draymond Green,GSW,203087,Jeremy Lamb,CHA,0,nan,nan,Turnover ,Bad Pass
+65080,21500520,4,1:18,nan,Lamb 11' Driving Bank Shot (22 PTS),101 - 109,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+65081,21500520,4,1:05,Green  Driving Dunk (13 PTS),nan,101 - 111,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+65082,21500520,4,1:05,WARRIORS Violation: Delay of game Violation,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+65083,21500520,4,0:56,nan,MISS Zeller 3' Driving Layup,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65084,21500520,4,0:55,Thompson REBOUND (Off:0 Def:4),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65085,21500520,4,0:42,MISS Curry 26' 3PT Fadeaway Jumper,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65086,21500520,4,0:40,nan,Lamb REBOUND (Off:0 Def:3),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65087,21500520,4,0:32,nan,MISS Lin 26' 3PT Jump Shot,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65088,21500520,4,0:31,Thompson REBOUND (Off:0 Def:5),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65089,21500520,4,0:17,MISS Thompson 26' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65090,21500520,4,0:16,nan,Williams REBOUND (Off:0 Def:6),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65091,21500520,4,0:02,nan,MISS Lamb 26' 3PT Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65092,21500520,4,0:02,Curry REBOUND (Off:0 Def:3),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65093,21500520,4,0:00,nan,nan,101 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

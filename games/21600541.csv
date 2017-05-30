@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+220024,21600541,4,12:00,nan,nan,70 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+220025,21600541,4,11:46,nan,MISS Barbosa 4' Driving Finger Roll Layup,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220026,21600541,4,11:45,nan,Len REBOUND (Off:5 Def:1),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220027,21600541,4,11:45,nan,MISS Len  Tip Layup Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220028,21600541,4,11:44,Harris REBOUND (Off:0 Def:3),nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220029,21600541,4,11:41,nan,Bender Shooting Block Foul (P1.T1) (D.Collins),nan,1627733,Dragan Bender,PHX,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting Block
+220030,21600541,4,11:41,Harris Free Throw 1 of 2 (11 PTS),nan,70 - 73,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220031,21600541,4,11:41,Harris Free Throw 2 of 2 (12 PTS),nan,70 - 74,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220032,21600541,4,11:27,nan,MISS Knight 17' Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220033,21600541,4,11:25,nan,Knight REBOUND (Off:2 Def:0),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220034,21600541,4,11:24,nan,Knight 3' Putback Layup (12 PTS),72 - 74,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220035,21600541,4,11:11,nan,Barbosa P.FOUL (P3.T2) (L.Holtkamp),nan,2571,Leandro Barbosa,PHX,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal
+220036,21600541,4,10:57,MISS Brussino 25' 3PT Pullup Bank Shot,nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220037,21600541,4,10:56,nan,Tucker REBOUND (Off:2 Def:3),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220038,21600541,4,10:40,nan,Len 9' Turnaround Jump Shot (12 PTS),74 - 74,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220039,21600541,4,10:20,Harris Bad Pass Turnover (P1.T8),Barbosa STEAL (1 STL),nan,2734,Devin Harris,DAL,2571,Leandro Barbosa,PHX,0,nan,nan,Turnover ,Bad Pass
+220040,21600541,4,10:20,Nowitzki C.P.FOUL (P4.T1) (Z.Zarba),nan,nan,1717,Dirk Nowitzki,DAL,2571,Leandro Barbosa,PHX,0,nan,nan,Foul ,Clear Path
+220041,21600541,4,10:20,nan,nan,nan,405,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+220042,21600541,4,10:20,nan,Barbosa Free Throw Clear Path 1 of 2 (4 PTS),75 - 74,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 1 of 2
+220043,21600541,4,10:20,SUB: D. Williams FOR Harris,nan,nan,2734,Devin Harris,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+220044,21600541,4,10:20,nan,Barbosa Free Throw Clear Path 2 of 2 (5 PTS),76 - 74,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 2 of 2
+220045,21600541,4,10:12,nan,Len OFF.Foul (P2) (Z.Zarba),nan,203458,Alex Len,PHX,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Offensive
+220046,21600541,4,10:12,nan,Len Foul Turnover (P1.T12),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+220047,21600541,4,9:51,MISS Nowitzki 25' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220048,21600541,4,9:51,nan,Len REBOUND (Off:5 Def:2),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220049,21600541,4,9:40,nan,Knight 24' 3PT Jump Shot (15 PTS),79 - 74,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220050,21600541,4,9:37,MAVERICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220051,21600541,4,9:37,SUB: Finney-Smith FOR Powell,nan,nan,203939,Dwight Powell,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+220052,21600541,4,9:37,SUB: Barnes FOR Brussino,nan,nan,1627852,Nicolas Brussino,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+220053,21600541,4,9:19,Curry  Driving Floating Jump Shot (12 PTS),nan,79 - 76,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220054,21600541,4,8:55,nan,Len  Layup (14 PTS) (Knight 2 AST),81 - 76,203458,Alex Len,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+220055,21600541,4,8:33,MISS Nowitzki 14' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220056,21600541,4,8:32,nan,Tucker REBOUND (Off:2 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220057,21600541,4,8:21,nan,Len Offensive Goaltending Turnover (P2.T13),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+220058,21600541,4,8:12,D. Williams 5' Driving Floating Jump Shot (12 PTS),nan,81 - 78,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220059,21600541,4,8:12,nan,Barbosa Shooting Block Foul (P4.T3) (Z.Zarba),nan,2571,Leandro Barbosa,PHX,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting Block
+220060,21600541,4,8:12,nan,SUB: Bledsoe FOR Barbosa,nan,2571,Leandro Barbosa,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+220061,21600541,4,8:12,D. Williams Free Throw 1 of 1 (13 PTS),nan,81 - 79,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+220062,21600541,4,7:49,nan,MISS Tucker 2' Reverse Layup,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220063,21600541,4,7:48,nan,Tucker REBOUND (Off:3 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220064,21600541,4,7:48,nan,Suns Turnover: Shot Clock (T#14),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+220065,21600541,4,7:36,D. Williams 2' Driving Finger Roll Layup (15 PTS),nan,81 - 81,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220066,21600541,4,7:33,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220067,21600541,4,7:33,SUB: Matthews FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+220068,21600541,4,7:33,nan,SUB: Booker FOR Len,nan,203458,Alex Len,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+220069,21600541,4,7:33,nan,SUB: Chandler FOR Bender,nan,1627733,Dragan Bender,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+220070,21600541,4,7:13,nan,MISS Booker 13' Pullup Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220071,21600541,4,7:12,D. Williams REBOUND (Off:0 Def:4),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220072,21600541,4,7:02,nan,Knight S.FOUL (P3.T4) (Z.Zarba),nan,202688,Brandon Knight,PHX,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting
+220073,21600541,4,7:02,D. Williams Free Throw 1 of 2 (16 PTS),nan,81 - 82,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220074,21600541,4,7:02,MISS D. Williams Free Throw 2 of 2,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220075,21600541,4,7:02,nan,Chandler REBOUND (Off:3 Def:11),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220076,21600541,4,6:52,nan,MISS Bledsoe 25' 3PT Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220077,21600541,4,6:51,nan,Chandler REBOUND (Off:4 Def:11),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220078,21600541,4,6:35,nan,Bledsoe 24' 3PT Jump Shot (17 PTS),84 - 82,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220079,21600541,4,6:19,D. Williams Traveling Turnover (P1.T9),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+220080,21600541,4,6:01,nan,MISS Bledsoe 8' Turnaround Bank Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220081,21600541,4,6:00,Barnes REBOUND (Off:1 Def:3),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220082,21600541,4,5:52,MISS D. Williams 25' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220083,21600541,4,5:51,Barnes REBOUND (Off:2 Def:3),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220084,21600541,4,5:48,Nowitzki 25' 3PT Jump Shot (13 PTS) (Barnes 2 AST),nan,84 - 85,1717,Dirk Nowitzki,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+220085,21600541,4,5:20,nan,Tucker 15' Step Back Jump Shot (2 PTS) (Bledsoe 6 AST),86 - 85,200782,PJ Tucker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+220086,21600541,4,4:55,MISS Nowitzki 15' Pullup Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220087,21600541,4,4:54,nan,Chandler REBOUND (Off:4 Def:12),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220088,21600541,4,4:37,nan,Tucker 2' Cutting Finger Roll Layup Shot (4 PTS) (Bledsoe 7 AST),88 - 85,200782,PJ Tucker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+220089,21600541,4,4:36,MAVERICKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220090,21600541,4,4:36,SUB: Bogut FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Substitution ,nan
+220091,21600541,4,4:26,nan,Tucker P.FOUL (P3.PN) (L.Holtkamp),nan,200782,PJ Tucker,PHX,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+220092,21600541,4,4:26,Matthews Free Throw 1 of 2 (8 PTS),nan,88 - 86,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220093,21600541,4,4:26,Matthews Free Throw 2 of 2 (9 PTS),nan,88 - 87,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220094,21600541,4,4:10,nan,Booker 25' 3PT Jump Shot (22 PTS) (Tucker 1 AST),91 - 87,1626164,Devin Booker,PHX,200782,PJ Tucker,PHX,0,nan,nan,Made Shot ,nan
+220095,21600541,4,3:43,D. Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+220096,21600541,4,3:33,Bogut STEAL (1 STL),Bledsoe Bad Pass Turnover (P3.T15),nan,202339,Eric Bledsoe,PHX,101106,Andrew Bogut,DAL,0,nan,nan,Turnover ,Bad Pass
+220097,21600541,4,3:27,Curry 3' Running Reverse Layup (14 PTS),nan,91 - 89,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220098,21600541,4,3:07,nan,Bledsoe 13' Driving Floating Jump Shot (19 PTS),93 - 89,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220099,21600541,4,2:53,D. Williams 19' Step Back Jump Shot (18 PTS),nan,93 - 91,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220100,21600541,4,2:35,nan,MISS Bledsoe 18' Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220101,21600541,4,2:33,Barnes REBOUND (Off:2 Def:4),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220102,21600541,4,2:24,D. Williams 19' Pullup Jump Shot (20 PTS),nan,93 - 93,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220103,21600541,4,2:12,nan,Suns Timeout: Regular (Reg.5 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220104,21600541,4,2:03,Bogut STEAL (2 STL),Booker Lost Ball Turnover (P4.T16),nan,1626164,Devin Booker,PHX,101106,Andrew Bogut,DAL,0,nan,nan,Turnover ,Lost Ball
+220105,21600541,4,1:39,MISS Matthews 25' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220106,21600541,4,1:37,nan,Booker REBOUND (Off:0 Def:2),nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220107,21600541,4,1:32,nan,MISS Knight 3' Running Layup,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220108,21600541,4,1:31,nan,Tucker REBOUND (Off:4 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220109,21600541,4,1:31,nan,MISS Tucker 1' Tip Layup Shot,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220110,21600541,4,1:30,nan,Tucker REBOUND (Off:5 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220111,21600541,4,1:14,nan,Bledsoe 25' 3PT Pullup Jump Shot (22 PTS),96 - 93,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220112,21600541,4,0:59,MISS Barnes 12' Pullup Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220113,21600541,4,0:58,nan,Chandler REBOUND (Off:4 Def:13),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220114,21600541,4,0:36,nan,Bledsoe 20' Jump Shot (24 PTS),98 - 93,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+220115,21600541,4,0:36,MAVERICKS Timeout: Regular (Full 6 Short 0),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220116,21600541,4,0:36,SUB: Nowitzki FOR Bogut,nan,nan,101106,Andrew Bogut,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+220117,21600541,4,0:29,MISS Matthews 25' 3PT Floating Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220118,21600541,4,0:28,nan,Chandler REBOUND (Off:4 Def:14),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220119,21600541,4,0:27,Curry Personal Take Foul (P4.T2) (D.Collins),nan,nan,203552,Seth Curry,DAL,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Personal Take
+220120,21600541,4,0:27,SUB: Finney-Smith FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+220121,21600541,4,0:23,Matthews Personal Take Foul (P2.PN) (L.Holtkamp),nan,nan,202083,Wesley Matthews,DAL,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal Take
+220122,21600541,4,0:23,nan,Bledsoe Free Throw 1 of 2 (25 PTS),99 - 93,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220123,21600541,4,0:23,SUB: Powell FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+220124,21600541,4,0:23,SUB: Nowitzki FOR Curry,nan,nan,203552,Seth Curry,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+220125,21600541,4,0:23,nan,Bledsoe Free Throw 2 of 2 (26 PTS),100 - 93,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220126,21600541,4,0:23,MAVERICKS Timeout: Short (Full 6 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+220127,21600541,4,0:23,SUB: Curry FOR Powell,nan,nan,203939,Dwight Powell,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+220128,21600541,4,0:18,D. Williams Bad Pass Turnover (P3.T11),Knight STEAL (1 STL),nan,101114,Deron Williams,DAL,202688,Brandon Knight,PHX,0,nan,nan,Turnover ,Bad Pass
+220129,21600541,4,0:17,Nowitzki Personal Take Foul (P5.PN) (Z.Zarba),nan,nan,1717,Dirk Nowitzki,DAL,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal Take
+220130,21600541,4,0:17,nan,Knight Free Throw 1 of 2 (16 PTS),101 - 93,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220131,21600541,4,0:17,SUB: Powell FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+220132,21600541,4,0:17,SUB: Brussino FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+220133,21600541,4,0:17,SUB: Jackson FOR D. Williams,nan,nan,101114,Deron Williams,DAL,203510,Pierre Jackson,DAL,0,nan,nan,Substitution ,nan
+220134,21600541,4,0:17,nan,SUB: Warren FOR Chandler,nan,2199,Tyson Chandler,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+220135,21600541,4,0:17,nan,Knight Free Throw 2 of 2 (17 PTS),102 - 93,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220136,21600541,4,0:06,Curry 6' Driving Bank Shot (16 PTS),nan,102 - 95,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220137,21600541,4,0:00,nan,nan,102 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

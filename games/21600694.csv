@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+238688,21600694,4,12:00,nan,nan,94 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+238689,21600694,4,11:44,Embiid 18' Jump Shot (20 PTS),nan,94 - 84,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238690,21600694,4,11:31,Embiid STEAL (3 STL),Capela Bad Pass Turnover (P4.T22),nan,203991,Clint Capela,HOU,203954,Joel Embiid,PHI,0,nan,nan,Turnover ,Bad Pass
+238691,21600694,4,11:18,Embiid 25' 3PT Jump Shot (23 PTS) (McConnell 7 AST),nan,94 - 87,203954,Joel Embiid,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+238692,21600694,4,10:57,nan,MISS Brewer 2' Driving Layup,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238693,21600694,4,10:56,Embiid REBOUND (Off:1 Def:4),nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238694,21600694,4,10:48,Embiid 26' 3PT Jump Shot (26 PTS) (Stauskas 2 AST),nan,94 - 90,203954,Joel Embiid,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+238695,21600694,4,10:47,nan,Rockets Timeout: Regular (Reg.4 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238696,21600694,4,10:47,nan,SUB: Anderson FOR Brewer,nan,201147,Corey Brewer,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+238697,21600694,4,10:47,nan,SUB: Nene FOR Capela,nan,203991,Clint Capela,HOU,2403,Nene,HOU,0,nan,nan,Substitution ,nan
+238698,21600694,4,10:32,McConnell S.FOUL (P4.T1) (M.Kogut),nan,nan,204456,T.J. McConnell,PHI,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting
+238699,21600694,4,10:32,nan,Beverley Free Throw 1 of 2 (4 PTS),95 - 90,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238700,21600694,4,10:32,SUB: Rodriguez FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+238701,21600694,4,10:32,nan,Beverley Free Throw 2 of 2 (5 PTS),96 - 90,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238702,21600694,4,10:16,Luwawu-Cabarrot Bad Pass Turnover (P3.T20),Ariza STEAL (4 STL),nan,1627789,Timothe Luwawu-Cabarrot,PHI,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+238703,21600694,4,10:14,Stauskas C.P.FOUL (P1.T2) (L.Holtkamp),nan,nan,203917,Nik Stauskas,PHI,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Clear Path
+238704,21600694,4,10:14,nan,nan,nan,442,Pervis Ellison,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+238705,21600694,4,10:14,nan,Ariza Free Throw Clear Path 1 of 2 (4 PTS),97 - 90,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 1 of 2
+238706,21600694,4,10:14,nan,Ariza Free Throw Clear Path 2 of 2 (5 PTS),98 - 90,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 2 of 2
+238707,21600694,4,10:00,nan,MISS Ariza 27' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238708,21600694,4,9:59,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238709,21600694,4,9:59,Ilyasova L.B.FOUL (P3.T3) (S.Foster),nan,nan,101141,Ersan Ilyasova,PHI,2403,Nene,HOU,0,nan,nan,Foul ,Loose Ball
+238710,21600694,4,9:59,SUB: Covington FOR Luwawu-Cabarrot,nan,nan,1627789,Timothe Luwawu-Cabarrot,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+238711,21600694,4,9:50,nan,Beverley 15' Driving Floating Jump Shot (7 PTS),100 - 90,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+238712,21600694,4,9:43,nan,Anderson P.FOUL (P3.T1) (M.Kogut),nan,201583,Ryan Anderson,HOU,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Personal
+238713,21600694,4,9:27,MISS Embiid 6' Running Jump Shot,nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238714,21600694,4,9:26,nan,Nene REBOUND (Off:2 Def:1),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238715,21600694,4,9:10,nan,MISS Anderson 25' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238716,21600694,4,9:09,Ilyasova REBOUND (Off:0 Def:3),nan,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238717,21600694,4,9:00,Ilyasova 7' Driving Floating Jump Shot (4 PTS) (Stauskas 3 AST),nan,100 - 92,101141,Ersan Ilyasova,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+238718,21600694,4,8:44,Rodriguez STEAL (2 STL),Beverley Lost Ball Turnover (P3.T23),nan,201976,Patrick Beverley,HOU,200771,Sergio Rodriguez,PHI,0,nan,nan,Turnover ,Lost Ball
+238719,21600694,4,8:44,nan,Nene L.B.FOUL (P4.T2) (S.Foster),nan,2403,Nene,HOU,200771,Sergio Rodriguez,PHI,0,nan,nan,Foul ,Loose Ball
+238720,21600694,4,8:30,Embiid 10' Turnaround Jump Shot (28 PTS),nan,100 - 94,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238721,21600694,4,8:30,nan,Nene S.FOUL (P5.T3) (S.Foster),nan,2403,Nene,HOU,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+238722,21600694,4,8:30,nan,SUB: Capela FOR Nene,nan,2403,Nene,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+238723,21600694,4,8:30,nan,SUB: Harden FOR Dekker,nan,1626155,Sam Dekker,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+238724,21600694,4,8:30,Embiid Free Throw 1 of 1 (29 PTS),nan,100 - 95,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+238725,21600694,4,8:19,nan,Harden 6' Driving Floating Jump Shot (36 PTS),102 - 95,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+238726,21600694,4,7:58,MISS Embiid 17' Step Back Jump Shot,nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238727,21600694,4,7:57,nan,Harden REBOUND (Off:1 Def:9),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238728,21600694,4,7:50,nan,Harden 2' Driving Finger Roll Layup (38 PTS),104 - 95,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+238729,21600694,4,7:44,76ERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238730,21600694,4,7:44,SUB: Noel FOR Embiid,nan,nan,203954,Joel Embiid,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+238731,21600694,4,7:22,MISS Stauskas 28' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238732,21600694,4,7:21,nan,Anderson REBOUND (Off:1 Def:4),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238733,21600694,4,7:05,nan,MISS Anderson 30' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238734,21600694,4,7:04,Covington REBOUND (Off:0 Def:4),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238735,21600694,4,6:57,Rodriguez 15' Pullup Jump Shot (8 PTS),nan,104 - 97,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238736,21600694,4,6:57,nan,Ariza S.FOUL (P3.T4) (S.Foster),nan,2772,Trevor Ariza,HOU,200771,Sergio Rodriguez,PHI,0,nan,nan,Foul ,Shooting
+238737,21600694,4,6:57,MISS Rodriguez Free Throw 1 of 1,nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+238738,21600694,4,6:56,nan,Harden REBOUND (Off:1 Def:10),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238739,21600694,4,6:34,nan,MISS Harden 20' Step Back Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238740,21600694,4,6:33,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238741,21600694,4,6:33,nan,Rockets Turnover: Shot Clock (T#24),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+238742,21600694,4,6:33,SUB: McConnell FOR Rodriguez,nan,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+238743,21600694,4,6:24,McConnell OFF.Foul (P5) (S.Foster),nan,nan,204456,T.J. McConnell,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Offensive
+238744,21600694,4,6:24,McConnell Foul Turnover (P3.T21),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+238745,21600694,4,6:24,SUB: Rodriguez FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+238746,21600694,4,6:09,nan,Harden Offensive Charge Foul (P4.PN) (S.Foster),nan,201935,James Harden,HOU,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Offensive Charge
+238747,21600694,4,6:09,nan,Harden Foul Turnover (P5.T25),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+238748,21600694,4,6:09,SUB: Saric FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+238749,21600694,4,5:57,nan,Beverley Shooting Block Foul (P4.PN) (L.Holtkamp),nan,201976,Patrick Beverley,HOU,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting Block
+238750,21600694,4,5:57,Covington Free Throw 1 of 2 (8 PTS),nan,104 - 98,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238751,21600694,4,5:57,Covington Free Throw 2 of 2 (9 PTS),nan,104 - 99,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238752,21600694,4,5:42,nan,MISS Anderson 26' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238753,21600694,4,5:41,nan,Capela REBOUND (Off:2 Def:4),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238754,21600694,4,5:32,nan,Harden 11' Driving Floating Jump Shot (40 PTS),106 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+238755,21600694,4,5:05,MISS Rodriguez 25' 3PT Jump Shot,nan,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238756,21600694,4,5:03,nan,Ariza REBOUND (Off:0 Def:4),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238757,21600694,4,4:58,nan,Capela  Running Dunk (17 PTS) (Harden 13 AST),108 - 99,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+238758,21600694,4,4:39,nan,Beverley P.FOUL (P5.PN) (M.Kogut),nan,201976,Patrick Beverley,HOU,203967,Dario Saric,PHI,0,nan,nan,Foul ,Personal
+238759,21600694,4,4:39,Saric Free Throw 1 of 2 (11 PTS),nan,108 - 100,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238760,21600694,4,4:39,SUB: Embiid FOR Noel,nan,nan,203457,Nerlens Noel,PHI,203954,Joel Embiid,PHI,0,nan,nan,Substitution ,nan
+238761,21600694,4,4:39,nan,SUB: Nene FOR Capela,nan,203991,Clint Capela,HOU,2403,Nene,HOU,0,nan,nan,Substitution ,nan
+238762,21600694,4,4:39,SUB: McConnell FOR Rodriguez,nan,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+238763,21600694,4,4:39,Saric Free Throw 2 of 2 (12 PTS),nan,108 - 101,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238764,21600694,4,4:29,Saric S.FOUL (P2.T4) (M.Kogut),nan,nan,203967,Dario Saric,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+238765,21600694,4,4:29,nan,Harden Free Throw 1 of 2 (41 PTS),109 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238766,21600694,4,4:29,SUB: Henderson FOR Saric,nan,nan,203967,Dario Saric,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Substitution ,nan
+238767,21600694,4,4:29,nan,Harden Free Throw 2 of 2 (42 PTS),110 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238768,21600694,4,4:18,McConnell 5' Driving Floating Jump Shot (11 PTS),nan,110 - 103,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238769,21600694,4,3:59,nan,MISS Harden 27' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238770,21600694,4,3:57,Embiid REBOUND (Off:1 Def:5),nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238771,21600694,4,3:47,McConnell 1' Driving Layup (13 PTS),nan,110 - 105,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238772,21600694,4,3:46,nan,Rockets Timeout: Regular (Reg.5 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238773,21600694,4,3:46,nan,SUB: Dekker FOR Beverley,nan,201976,Patrick Beverley,HOU,1626155,Sam Dekker,HOU,0,nan,nan,Substitution ,nan
+238774,21600694,4,3:29,nan,Harden 26' 3PT Jump Shot (45 PTS),113 - 105,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+238775,21600694,4,3:19,MISS Embiid 14' Pullup Jump Shot,nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238776,21600694,4,3:18,nan,Nene REBOUND (Off:2 Def:2),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238777,21600694,4,3:06,nan,Harden 9' Driving Floating Jump Shot (47 PTS) (Ariza 2 AST),115 - 105,201935,James Harden,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+238778,21600694,4,2:52,Covington Bad Pass Turnover (P3.T22),Harden STEAL (2 STL),nan,203496,Robert Covington,PHI,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+238779,21600694,4,2:48,Stauskas S.FOUL (P2.PN) (S.Foster),nan,nan,203917,Nik Stauskas,PHI,1626155,Sam Dekker,HOU,0,nan,nan,Foul ,Shooting
+238780,21600694,4,2:48,nan,Dekker Free Throw 1 of 2 (8 PTS),116 - 105,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238781,21600694,4,2:48,nan,Dekker Free Throw 2 of 2 (9 PTS),117 - 105,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238782,21600694,4,2:33,MISS Stauskas 2' Layup,Dekker BLOCK (1 BLK),nan,203917,Nik Stauskas,PHI,0,nan,nan,1626155,Sam Dekker,HOU,Missed Shot ,nan
+238783,21600694,4,2:31,nan,Nene REBOUND (Off:2 Def:3),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238784,21600694,4,2:27,nan,MISS Harden 6' Driving Floating Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238785,21600694,4,2:26,Henderson REBOUND (Off:0 Def:1),nan,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238786,21600694,4,2:21,nan,Dekker Shooting Block Foul (P4.PN) (S.Foster),nan,1626155,Sam Dekker,HOU,201945,Gerald Henderson,PHI,0,nan,nan,Foul ,Shooting Block
+238787,21600694,4,2:21,Henderson Free Throw 1 of 2 (10 PTS),nan,117 - 106,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238788,21600694,4,2:21,MISS Henderson Free Throw 2 of 2,nan,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238789,21600694,4,2:20,nan,Harden REBOUND (Off:1 Def:11),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238790,21600694,4,2:08,nan,MISS Harden 29' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238791,21600694,4,2:06,Covington REBOUND (Off:0 Def:5),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238792,21600694,4,1:59,MISS Stauskas 2' Driving Layup,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238793,21600694,4,1:57,nan,Nene REBOUND (Off:2 Def:4),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238794,21600694,4,1:40,nan,MISS Anderson  3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238795,21600694,4,1:38,Embiid REBOUND (Off:1 Def:6),nan,nan,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238796,21600694,4,1:30,Henderson  3PT Jump Shot (13 PTS),nan,117 - 109,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+238797,21600694,4,1:10,Embiid BLOCK (2 BLK),MISS Nene 1' Layup,nan,2403,Nene,HOU,0,nan,nan,203954,Joel Embiid,PHI,Missed Shot ,nan
+238798,21600694,4,1:09,Stauskas REBOUND (Off:0 Def:1),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238799,21600694,4,1:04,nan,Anderson S.FOUL (P4.PN) (L.Holtkamp),nan,201583,Ryan Anderson,HOU,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+238800,21600694,4,1:04,Covington Free Throw 1 of 2 (10 PTS),nan,117 - 110,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238801,21600694,4,1:04,MISS Covington Free Throw 2 of 2,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238802,21600694,4,1:02,Henderson REBOUND (Off:1 Def:1),nan,nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238803,21600694,4,0:52,Stauskas 1' Driving Reverse Layup (6 PTS) (Embiid 4 AST),nan,117 - 112,203917,Nik Stauskas,PHI,203954,Joel Embiid,PHI,0,nan,nan,Made Shot ,nan
+238804,21600694,4,0:52,nan,Rockets Timeout: Regular (Reg.6 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238805,21600694,4,0:52,nan,SUB: Beverley FOR Dekker,nan,1626155,Sam Dekker,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+238806,21600694,4,0:30,nan,MISS Beverley 26' 3PT Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238807,21600694,4,0:29,Stauskas REBOUND (Off:0 Def:2),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238808,21600694,4,0:18,MISS Embiid 27' 3PT Jump Shot,Nene BLOCK (1 BLK),nan,203954,Joel Embiid,PHI,0,nan,nan,2403,Nene,HOU,Missed Shot ,nan
+238809,21600694,4,0:16,nan,Ariza REBOUND (Off:0 Def:5),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238810,21600694,4,0:15,Stauskas P.FOUL (P3.PN) (L.Holtkamp),nan,nan,203917,Nik Stauskas,PHI,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Personal
+238811,21600694,4,0:15,nan,Ariza Free Throw 1 of 2 (6 PTS),118 - 112,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238812,21600694,4,0:15,nan,Ariza Free Throw 2 of 2 (7 PTS),119 - 112,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238813,21600694,4,0:15,76ERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238814,21600694,4,0:12,nan,Anderson S.FOUL (P5.PN) (S.Foster),nan,201583,Ryan Anderson,HOU,203954,Joel Embiid,PHI,0,nan,nan,Foul ,Shooting
+238815,21600694,4,0:12,Embiid Free Throw 1 of 3 (30 PTS),nan,119 - 113,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+238816,21600694,4,0:12,Embiid Free Throw 2 of 3 (31 PTS),nan,119 - 114,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+238817,21600694,4,0:12,Embiid Free Throw 3 of 3 (32 PTS),nan,119 - 115,203954,Joel Embiid,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+238818,21600694,4,0:11,Henderson P.FOUL (P2.PN) (L.Holtkamp),nan,nan,201945,Gerald Henderson,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+238819,21600694,4,0:11,nan,Harden Free Throw 1 of 2 (48 PTS),120 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238820,21600694,4,0:11,nan,Harden Free Throw 2 of 2 (49 PTS),121 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238821,21600694,4,0:11,76ERS Timeout: Short (Full 5 Short 3),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+238822,21600694,4,0:09,MISS Stauskas 25' 3PT Jump Shot,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238823,21600694,4,0:07,nan,Harden REBOUND (Off:1 Def:12),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238824,21600694,4,0:06,Stauskas P.FOUL (P4.PN) (L.Holtkamp),nan,nan,203917,Nik Stauskas,PHI,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+238825,21600694,4,0:06,nan,Harden Free Throw 1 of 2 (50 PTS),122 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238826,21600694,4,0:06,nan,Harden Free Throw 2 of 2 (51 PTS),123 - 115,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238827,21600694,4,0:02,Stauskas 28' 3PT Jump Shot (9 PTS) (McConnell 8 AST),nan,123 - 118,203917,Nik Stauskas,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+238828,21600694,4,0:00,nan,nan,123 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

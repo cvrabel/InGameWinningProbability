@@ -1,0 +1,116 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+149462,21501201,4,12:00,nan,nan,62 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+149463,21501201,4,11:40,Marjanovic S.FOUL (P1.T1) (S.Corbin),nan,nan,1626246,Boban Marjanovic,SAS,203084,Harrison Barnes,GSW,0,nan,nan,Foul ,Shooting
+149464,21501201,4,11:40,nan,Barnes Free Throw 1 of 2 (3 PTS),63 - 61,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149465,21501201,4,11:40,nan,MISS Barnes Free Throw 2 of 2,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149466,21501201,4,11:39,Anderson REBOUND (Off:0 Def:5),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149467,21501201,4,11:27,Marjanovic 2' Layup (2 PTS) (Ginobili 3 AST),nan,63 - 63,1626246,Boban Marjanovic,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+149468,21501201,4,11:27,nan,Livingston S.FOUL (P4.T1) (S.Corbin),nan,2733,Shaun Livingston,GSW,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Shooting
+149469,21501201,4,11:27,nan,SUB: Speights FOR Ezeli,nan,203105,Festus Ezeli,GSW,201578,Marreese Speights,GSW,0,nan,nan,Substitution ,nan
+149470,21501201,4,11:27,MISS Marjanovic Free Throw 1 of 1,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+149471,21501201,4,11:27,nan,Iguodala REBOUND (Off:0 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149472,21501201,4,11:11,nan,MISS Speights 15' Turnaround Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149473,21501201,4,11:10,Marjanovic REBOUND (Off:0 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149474,21501201,4,10:55,Ginobili Kicked Ball Violation Turnover (P1.T8),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Turnover ,Kicked Ball Violation
+149475,21501201,4,10:39,nan,Barnes 21' Pullup Jump Shot (5 PTS),65 - 63,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+149476,21501201,4,10:18,Martin 10' Floating Jump Shot (5 PTS),nan,65 - 65,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+149477,21501201,4,10:00,nan,MISS Clark 26' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149478,21501201,4,9:58,Martin REBOUND (Off:0 Def:3),nan,nan,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149479,21501201,4,9:46,MISS Anderson 8' Turnaround Bank Shot,nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149480,21501201,4,9:45,nan,Livingston REBOUND (Off:0 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149481,21501201,4,9:39,nan,Barnes 26' 3PT Jump Shot (8 PTS) (Livingston 3 AST),68 - 65,203084,Harrison Barnes,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+149482,21501201,4,9:38,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+149483,21501201,4,9:38,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+149484,21501201,4,9:15,MISS Mills 3' Driving Layup,Speights BLOCK (1 BLK),nan,201988,Patty Mills,SAS,0,nan,nan,201578,Marreese Speights,GSW,Missed Shot ,nan
+149485,21501201,4,9:13,Marjanovic REBOUND (Off:1 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149486,21501201,4,9:13,MISS Marjanovic 1' Putback Layup,Speights BLOCK (2 BLK),nan,1626246,Boban Marjanovic,SAS,0,nan,nan,201578,Marreese Speights,GSW,Missed Shot ,nan
+149487,21501201,4,9:13,Leonard REBOUND (Off:5 Def:5),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149488,21501201,4,9:13,nan,Speights Violation:Defensive Goaltending (M.McCutchen),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+149489,21501201,4,9:13,Leonard 1' Layup (13 PTS),nan,68 - 67,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+149490,21501201,4,8:57,nan,Speights 18' Fadeaway Jumper (4 PTS) (Iguodala 3 AST),70 - 67,201578,Marreese Speights,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+149491,21501201,4,8:41,Marjanovic  Cutting Dunk Shot (4 PTS) (Mills 2 AST),nan,70 - 69,1626246,Boban Marjanovic,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+149492,21501201,4,8:23,nan,MISS Speights 26' 3PT Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149493,21501201,4,8:22,Anderson REBOUND (Off:0 Def:6),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149494,21501201,4,8:13,MISS Leonard 23' Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149495,21501201,4,8:11,nan,Speights REBOUND (Off:0 Def:3),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149496,21501201,4,8:01,nan,MISS Barnes 15' Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149497,21501201,4,8:00,Mills REBOUND (Off:1 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149498,21501201,4,7:54,Martin Lost Ball Turnover (P2.T9),Clark STEAL (1 STL),nan,2755,Kevin Martin,SAS,203546,Ian Clark,GSW,0,nan,nan,Turnover ,Lost Ball
+149499,21501201,4,7:51,Mills S.FOUL (P2.T2) (M.McCutchen),nan,nan,201988,Patty Mills,SAS,203084,Harrison Barnes,GSW,0,nan,nan,Foul ,Shooting
+149500,21501201,4,7:51,nan,Barnes Free Throw 1 of 2 (9 PTS),71 - 69,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149501,21501201,4,7:51,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+149502,21501201,4,7:51,nan,SUB: Thompson FOR Iguodala,nan,2738,Andre Iguodala,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+149503,21501201,4,7:51,nan,MISS Barnes Free Throw 2 of 2,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149504,21501201,4,7:51,Anderson REBOUND (Off:0 Def:7),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149505,21501201,4,7:30,MISS Marjanovic 4' Hook Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149506,21501201,4,7:29,nan,Speights REBOUND (Off:0 Def:4),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149507,21501201,4,7:22,Parker Shooting Block Foul (P3.T3) (S.Corbin),nan,nan,2225,Tony Parker,SAS,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting Block
+149508,21501201,4,7:22,nan,Speights Free Throw 1 of 2 (5 PTS),72 - 69,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149509,21501201,4,7:22,SUB: Aldridge FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+149510,21501201,4,7:22,nan,SUB: Green FOR Clark,nan,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+149511,21501201,4,7:22,nan,Speights Free Throw 2 of 2 (6 PTS),73 - 69,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149512,21501201,4,7:10,MISS Parker 15' Pullup Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149513,21501201,4,7:09,nan,Speights REBOUND (Off:0 Def:5),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149514,21501201,4,6:56,nan,Thompson 24' 3PT Jump Shot (10 PTS) (Livingston 4 AST),76 - 69,202691,Klay Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+149515,21501201,4,6:40,Martin 17' Pullup Jump Shot (7 PTS) (Leonard 4 AST),nan,76 - 71,2755,Kevin Martin,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+149516,21501201,4,6:16,nan,Livingston 17' Turnaround Jump Shot (4 PTS),78 - 71,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+149517,21501201,4,5:54,Aldridge 7' Turnaround Bank Hook Shot (20 PTS) (Parker 3 AST),nan,78 - 73,200746,LaMarcus Aldridge,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+149518,21501201,4,5:47,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+149519,21501201,4,5:47,SUB: West FOR Marjanovic,nan,nan,1626246,Boban Marjanovic,SAS,2561,David West,SAS,0,nan,nan,Substitution ,nan
+149520,21501201,4,5:47,nan,SUB: Curry FOR Livingston,nan,2733,Shaun Livingston,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+149521,21501201,4,5:47,nan,SUB: Bogut FOR Speights,nan,201578,Marreese Speights,GSW,101106,Andrew Bogut,GSW,0,nan,nan,Substitution ,nan
+149522,21501201,4,5:47,nan,SUB: Iguodala FOR Barnes,nan,203084,Harrison Barnes,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+149523,21501201,4,5:37,Leonard BLOCK (2 BLK),MISS Iguodala  Layup,nan,2738,Andre Iguodala,GSW,0,nan,nan,202695,Kawhi Leonard,SAS,Missed Shot ,nan
+149524,21501201,4,5:37,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149525,21501201,4,5:30,nan,Curry 18' Jump Bank Shot (29 PTS) (Green 4 AST),80 - 73,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+149526,21501201,4,5:14,Martin Bad Pass Turnover (P3.T10),Curry STEAL (1 STL),nan,2755,Kevin Martin,SAS,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+149527,21501201,4,5:08,nan,Thompson  Running Dunk (12 PTS) (Curry 4 AST),82 - 73,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+149528,21501201,4,4:42,MISS Parker 20' Pullup Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149529,21501201,4,4:41,Aldridge REBOUND (Off:4 Def:6),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149530,21501201,4,4:39,Aldridge Bad Pass Turnover (P1.T11),Curry STEAL (2 STL),nan,200746,LaMarcus Aldridge,SAS,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+149531,21501201,4,4:25,Leonard S.FOUL (P3.T4) (B.Barnaky),nan,nan,202695,Kawhi Leonard,SAS,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+149532,21501201,4,4:25,nan,Curry Free Throw 1 of 2 (30 PTS),83 - 73,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149533,21501201,4,4:25,nan,Curry Free Throw 2 of 2 (31 PTS),84 - 73,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149534,21501201,4,4:09,Aldridge 15' Jump Shot (22 PTS) (Parker 4 AST),nan,84 - 75,200746,LaMarcus Aldridge,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+149535,21501201,4,3:53,Leonard BLOCK (3 BLK),MISS Iguodala 3' Cutting Layup Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,202695,Kawhi Leonard,SAS,Missed Shot ,nan
+149536,21501201,4,3:52,West REBOUND (Off:4 Def:6),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149537,21501201,4,3:50,West Bad Pass Turnover (P1.T12),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+149538,21501201,4,3:30,nan,MISS Curry 27' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149539,21501201,4,3:30,Leonard REBOUND (Off:5 Def:6),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149540,21501201,4,3:30,nan,Bogut L.B.FOUL (P2.T2) (S.Corbin),nan,101106,Andrew Bogut,GSW,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Loose Ball
+149541,21501201,4,3:17,Aldridge 17' Jump Shot (24 PTS) (Leonard 5 AST),nan,84 - 77,200746,LaMarcus Aldridge,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Made Shot ,nan
+149542,21501201,4,3:11,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+149543,21501201,4,3:11,nan,SUB: Barnes FOR Bogut,nan,101106,Andrew Bogut,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+149544,21501201,4,3:01,nan,Thompson 1' Driving Finger Roll Layup (14 PTS) (Curry 5 AST),86 - 77,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+149545,21501201,4,2:39,MISS Leonard 1' Driving Layup,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149546,21501201,4,2:38,Leonard REBOUND (Off:6 Def:6),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149547,21501201,4,2:35,MISS Leonard 9' Fadeaway Jumper,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149548,21501201,4,2:34,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149549,21501201,4,2:22,nan,Curry 2' Driving Finger Roll Layup (33 PTS),88 - 77,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+149550,21501201,4,2:09,Leonard 1' Alley Oop Layup (15 PTS) (West 3 AST),nan,88 - 79,202695,Kawhi Leonard,SAS,2561,David West,SAS,0,nan,nan,Made Shot ,nan
+149551,21501201,4,1:50,nan,MISS Barnes 26' 3PT Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149552,21501201,4,1:49,nan,Iguodala REBOUND (Off:1 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149553,21501201,4,1:34,nan,Curry 3' Driving Finger Roll Layup (35 PTS),90 - 79,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+149554,21501201,4,1:25,nan,Curry S.FOUL (P4.T3) (S.Corbin),nan,201939,Stephen Curry,GSW,2755,Kevin Martin,SAS,0,nan,nan,Foul ,Shooting
+149555,21501201,4,1:25,Martin Free Throw 1 of 2 (8 PTS),nan,90 - 80,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149556,21501201,4,1:25,SUB: Green FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+149557,21501201,4,1:25,SUB: Anderson FOR West,nan,nan,2561,David West,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+149558,21501201,4,1:25,Martin Free Throw 2 of 2 (9 PTS),nan,90 - 81,2755,Kevin Martin,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149559,21501201,4,1:06,nan,Warriors Timeout: Regular (Reg.6 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+149560,21501201,4,1:06,nan,SUB: Livingston FOR Barnes,nan,203084,Harrison Barnes,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+149561,21501201,4,1:02,nan,MISS Livingston 10' Hook Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149562,21501201,4,1:01,Anderson REBOUND (Off:0 Def:8),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149563,21501201,4,0:54,nan,Green S.FOUL (P4.PN) (S.Corbin),nan,203110,Draymond Green,GSW,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+149564,21501201,4,0:54,Leonard Free Throw 1 of 3 (16 PTS),nan,90 - 82,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+149565,21501201,4,0:54,Leonard Free Throw 2 of 3 (17 PTS),nan,90 - 83,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+149566,21501201,4,0:54,Leonard Free Throw 3 of 3 (18 PTS),nan,90 - 84,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+149567,21501201,4,0:33,nan,MISS Iguodala 1' Layup,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+149568,21501201,4,0:31,Leonard REBOUND (Off:6 Def:7),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149569,21501201,4,0:20,Leonard  Driving Dunk (20 PTS),nan,90 - 86,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+149570,21501201,4,0:20,nan,Warriors Timeout: Short (Reg.6 Short 2),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+149571,21501201,4,0:20,Parker P.FOUL (P4.PN) (B.Barnaky),nan,nan,2225,Tony Parker,SAS,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+149572,21501201,4,0:20,nan,Curry Free Throw 1 of 2 (36 PTS),91 - 86,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+149573,21501201,4,0:20,nan,Curry Free Throw 2 of 2 (37 PTS),92 - 86,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+149574,21501201,4,0:06,MISS Green 27' 3PT Pullup Jump Shot,Iguodala BLOCK (1 BLK),nan,201980,Danny Green,SAS,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+149575,21501201,4,0:04,nan,Curry REBOUND (Off:0 Def:5),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+149576,21501201,4,0:00,nan,nan,92 - 86,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

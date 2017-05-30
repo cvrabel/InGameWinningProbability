@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+60260,21500481,4,12:00,nan,nan,56 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+60261,21500481,4,11:45,nan,Teletovic 25' 3PT Jump Shot (7 PTS) (Tucker 3 AST),59 - 84,203141,Mirza Teletovic,PHX,200782,PJ Tucker,PHX,0,nan,nan,Made Shot ,nan
+60262,21500481,4,11:27,Mills 25' 3PT Jump Shot (7 PTS) (Diaw 2 AST),nan,59 - 87,201988,Patty Mills,SAS,2564,Boris Diaw,SAS,0,nan,nan,Made Shot ,nan
+60263,21500481,4,11:15,nan,MISS Teletovic 12' Driving Floating Bank Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60264,21500481,4,11:14,nan,Teletovic REBOUND (Off:1 Def:1),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60265,21500481,4,11:11,nan,Teletovic 1' Tip Layup Shot (9 PTS),61 - 87,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+60266,21500481,4,10:51,Diaw Bad Pass Turnover (P3.T9),Tucker STEAL (1 STL),nan,2564,Boris Diaw,SAS,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+60267,21500481,4,10:51,Bonner P.FOUL (P1.T1) (M.Ayotte),nan,nan,2588,Matt Bonner,SAS,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Personal
+60268,21500481,4,10:44,nan,Tucker 25' 3PT Jump Shot (5 PTS) (Goodwin 1 AST),64 - 87,200782,PJ Tucker,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+60269,21500481,4,10:31,Diaw 1' Reverse Layup (10 PTS) (Simmons 1 AST),nan,64 - 89,2564,Boris Diaw,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+60270,21500481,4,10:31,nan,Teletovic S.FOUL (P3.T1) (M.Ayotte),nan,203141,Mirza Teletovic,PHX,2564,Boris Diaw,SAS,0,nan,nan,Foul ,Shooting
+60271,21500481,4,10:31,Diaw Free Throw 1 of 1 (11 PTS),nan,64 - 90,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+60272,21500481,4,10:15,nan,Warren 13' Driving Floating Jump Shot (10 PTS) (Tucker 4 AST),66 - 90,203933,TJ Warren,PHX,200782,PJ Tucker,PHX,0,nan,nan,Made Shot ,nan
+60273,21500481,4,9:53,Simmons 1' Driving Layup (4 PTS),nan,66 - 92,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+60274,21500481,4,9:53,nan,Teletovic S.FOUL (P4.T2) (T.Washington),nan,203141,Mirza Teletovic,PHX,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+60275,21500481,4,9:53,Simmons Free Throw 1 of 1 (5 PTS),nan,66 - 93,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+60276,21500481,4,9:43,nan,MISS Teletovic 25' 3PT Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60277,21500481,4,9:42,Mills REBOUND (Off:0 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60278,21500481,4,9:26,MISS Bonner 24' 3PT Jump Shot,nan,nan,2588,Matt Bonner,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60279,21500481,4,9:26,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60280,21500481,4,9:26,nan,SUB: Leuer FOR Teletovic,nan,203141,Mirza Teletovic,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+60281,21500481,4,9:17,MISS Ginobili 11' Turnaround Hook Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60282,21500481,4,9:16,nan,Leuer REBOUND (Off:0 Def:5),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60283,21500481,4,9:09,Simmons S.FOUL (P1.T2) (T.Washington),nan,nan,203613,Jonathon Simmons,SAS,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+60284,21500481,4,9:09,nan,MISS Warren Free Throw 1 of 2,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60285,21500481,4,9:09,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+60286,21500481,4,9:09,SUB: Anderson FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+60287,21500481,4,9:09,nan,Warren Free Throw 2 of 2 (11 PTS),67 - 93,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60288,21500481,4,8:52,Diaw Lost Ball Turnover (P4.T10),Warren STEAL (1 STL),nan,2564,Boris Diaw,SAS,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Lost Ball
+60289,21500481,4,8:45,nan,MISS Goodwin 1' Layup,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60290,21500481,4,8:43,Anderson REBOUND (Off:0 Def:1),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60291,21500481,4,8:40,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+60292,21500481,4,8:40,nan,SUB: Len FOR Tucker,nan,200782,PJ Tucker,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+60293,21500481,4,8:29,Diaw 1' Finger Roll Layup (13 PTS),nan,67 - 95,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+60294,21500481,4,8:17,SUB: Marjanovic FOR Diaw,nan,nan,2564,Boris Diaw,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+60295,21500481,4,8:17,SUB: McCallum FOR Mills,nan,nan,201988,Patty Mills,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+60296,21500481,4,8:11,nan,MISS Len 17' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60297,21500481,4,8:11,Marjanovic REBOUND (Off:2 Def:5),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60298,21500481,4,7:50,MISS Marjanovic 13' Turnaround Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60299,21500481,4,7:50,nan,Warren REBOUND (Off:0 Def:2),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60300,21500481,4,7:36,nan,MISS Leuer 11' Turnaround Bank Hook Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60301,21500481,4,7:35,Marjanovic REBOUND (Off:2 Def:6),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60302,21500481,4,7:27,Anderson 14' Fadeaway Jumper (2 PTS),nan,67 - 97,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+60303,21500481,4,7:04,nan,MISS Warren 11' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60304,21500481,4,7:04,Marjanovic REBOUND (Off:2 Def:7),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60305,21500481,4,6:44,Anderson 18' Pullup Jump Shot (4 PTS) (McCallum 1 AST),nan,67 - 99,203937,Kyle Anderson,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+60306,21500481,4,6:26,Anderson BLOCK (1 BLK),MISS Warren 13' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,203937,Kyle Anderson,SAS,Missed Shot ,nan
+60307,21500481,4,6:26,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60308,21500481,4,6:26,nan,SUB: Weems FOR Leuer,nan,202720,Jon Leuer,PHX,201603,Sonny Weems,PHX,0,nan,nan,Substitution ,nan
+60309,21500481,4,6:08,nan,Len P.FOUL (P4.T3) (T.Washington),nan,203458,Alex Len,PHX,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Personal
+60310,21500481,4,6:01,Simmons 2' Driving Finger Roll Layup (7 PTS) (McCallum 2 AST),nan,67 - 101,203613,Jonathon Simmons,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+60311,21500481,4,5:47,nan,Cotton 17' Pullup Jump Shot (2 PTS),69 - 101,203955,Bryce Cotton,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+60312,21500481,4,5:28,Anderson 7' Driving Hook Shot (6 PTS) (McCallum 3 AST),nan,69 - 103,203937,Kyle Anderson,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+60313,21500481,4,5:28,nan,Cotton S.FOUL (P1.T4) (S.Anderson),nan,203955,Bryce Cotton,PHX,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Shooting
+60314,21500481,4,5:28,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+60315,21500481,4,5:28,nan,SUB: Jefferson FOR Warren,nan,203933,TJ Warren,PHX,203928,Cory Jefferson,PHX,0,nan,nan,Substitution ,nan
+60316,21500481,4,5:28,Anderson Free Throw 1 of 1 (7 PTS),nan,69 - 104,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+60317,21500481,4,5:16,nan,MISS Weems  3PT Jump Shot,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60318,21500481,4,5:15,nan,Len REBOUND (Off:1 Def:0),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60319,21500481,4,5:08,nan,MISS Goodwin 15' Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60320,21500481,4,5:08,Marjanovic REBOUND (Off:2 Def:8),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60321,21500481,4,5:08,nan,Jefferson P.FOUL (P1.PN) (T.Washington),nan,203928,Cory Jefferson,PHX,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Personal
+60322,21500481,4,5:08,Marjanovic Free Throw 1 of 2 (3 PTS),nan,69 - 105,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60323,21500481,4,5:08,Marjanovic Free Throw 2 of 2 (4 PTS),nan,69 - 106,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60324,21500481,4,4:48,Marjanovic S.FOUL (P2.T3) (S.Anderson),nan,nan,1626246,Boban Marjanovic,SAS,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+60325,21500481,4,4:48,nan,Goodwin Free Throw 1 of 2 (3 PTS),70 - 106,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60326,21500481,4,4:48,nan,Goodwin Free Throw 2 of 2 (4 PTS),71 - 106,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60327,21500481,4,4:37,McCallum Out of Bounds - Bad Pass Turnover Turnover (P1.T11),nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+60328,21500481,4,4:24,nan,MISS Len 9' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60329,21500481,4,4:23,Bonner REBOUND (Off:0 Def:1),nan,nan,2588,Matt Bonner,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60330,21500481,4,4:14,MISS Bonner 25' 3PT Jump Shot,nan,nan,2588,Matt Bonner,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60331,21500481,4,4:13,nan,Jefferson REBOUND (Off:0 Def:2),nan,203928,Cory Jefferson,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60332,21500481,4,4:00,nan,MISS Jefferson 24' 3PT Jump Shot,nan,203928,Cory Jefferson,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60333,21500481,4,3:59,Marjanovic REBOUND (Off:2 Def:9),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60334,21500481,4,3:38,Marjanovic  Dunk (6 PTS) (Simmons 2 AST),nan,71 - 108,1626246,Boban Marjanovic,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+60335,21500481,4,3:33,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+60336,21500481,4,3:20,nan,MISS Goodwin 1' Layup,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60337,21500481,4,3:19,Bonner REBOUND (Off:0 Def:2),nan,nan,2588,Matt Bonner,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60338,21500481,4,3:05,MISS Marjanovic 18' Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60339,21500481,4,3:05,nan,Jefferson REBOUND (Off:0 Def:3),nan,203928,Cory Jefferson,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60340,21500481,4,2:59,Anderson P.FOUL (P1.T4) (T.Washington),nan,nan,203937,Kyle Anderson,SAS,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Personal
+60341,21500481,4,2:50,nan,MISS Len 6' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60342,21500481,4,2:49,Simmons REBOUND (Off:0 Def:2),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60343,21500481,4,2:34,nan,Weems P.FOUL (P1.PN) (T.Washington),nan,201603,Sonny Weems,PHX,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Personal
+60344,21500481,4,2:34,MISS Marjanovic Free Throw 1 of 2,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60345,21500481,4,2:34,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+60346,21500481,4,2:34,Marjanovic Free Throw 2 of 2 (7 PTS),nan,71 - 109,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60347,21500481,4,2:16,nan,MISS Weems 11' Turnaround Fadeaway Shot,nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60348,21500481,4,2:15,nan,Len REBOUND (Off:2 Def:0),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60349,21500481,4,2:15,nan,MISS Len 2' Tip Layup Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60350,21500481,4,2:13,nan,Jefferson REBOUND (Off:1 Def:3),nan,203928,Cory Jefferson,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60351,21500481,4,2:13,nan,Jefferson 2' Tip Layup Shot (2 PTS),73 - 109,203928,Cory Jefferson,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+60352,21500481,4,1:48,Marjanovic Bad Pass Turnover (P1.T12),Cotton STEAL (2 STL),nan,1626246,Boban Marjanovic,SAS,203955,Bryce Cotton,PHX,0,nan,nan,Turnover ,Bad Pass
+60353,21500481,4,1:45,Simmons S.FOUL (P2.PN) (M.Ayotte),nan,nan,203613,Jonathon Simmons,SAS,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+60354,21500481,4,1:45,nan,Goodwin Free Throw 1 of 2 (5 PTS),74 - 109,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60355,21500481,4,1:45,nan,Goodwin Free Throw 2 of 2 (6 PTS),75 - 109,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60356,21500481,4,1:33,McCallum 18' Pullup Jump Shot (2 PTS),nan,75 - 111,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+60357,21500481,4,1:24,nan,Jefferson 15' Jump Shot (4 PTS) (Cotton 2 AST),77 - 111,203928,Cory Jefferson,PHX,203955,Bryce Cotton,PHX,0,nan,nan,Made Shot ,nan
+60358,21500481,4,1:11,Simmons Bad Pass Turnover (P1.T13),Cotton STEAL (3 STL),nan,203613,Jonathon Simmons,SAS,203955,Bryce Cotton,PHX,0,nan,nan,Turnover ,Bad Pass
+60359,21500481,4,1:06,nan,MISS Cotton 2' Layup,nan,203955,Bryce Cotton,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60360,21500481,4,1:05,nan,Goodwin REBOUND (Off:1 Def:0),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60361,21500481,4,1:04,nan,Goodwin 1' Tip Layup Shot (8 PTS),79 - 111,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+60362,21500481,4,0:48,MISS McCallum 16' Pullup Jump Shot,nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60363,21500481,4,0:47,nan,Weems REBOUND (Off:0 Def:2),nan,201603,Sonny Weems,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60364,21500481,4,0:36,nan,MISS Goodwin 19' Jump Shot,nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60365,21500481,4,0:35,Simmons REBOUND (Off:0 Def:3),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60366,21500481,4,0:18,nan,Jefferson S.FOUL (P2.PN) (S.Anderson),nan,203928,Cory Jefferson,PHX,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+60367,21500481,4,0:18,MISS Simmons Free Throw 1 of 2,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+60368,21500481,4,0:18,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+60369,21500481,4,0:18,Simmons Free Throw 2 of 2 (8 PTS),nan,79 - 112,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+60370,21500481,4,0:05,nan,MISS Len 16' Jump Shot,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+60371,21500481,4,0:04,Marjanovic REBOUND (Off:2 Def:10),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+60372,21500481,4,0:00,nan,nan,79 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

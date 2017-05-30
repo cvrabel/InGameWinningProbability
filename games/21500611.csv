@@ -1,0 +1,90 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+76020,21500611,4,12:00,nan,nan,58 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+76021,21500611,4,12:00,THUNDER Violation: Delay of game Violation,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+76022,21500611,4,11:40,Kanter 1' Reverse Layup (2 PTS),nan,58 - 77,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+76023,21500611,4,11:12,nan,Heat Turnover: Shot Clock (T#17),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+76024,21500611,4,11:00,Kanter Lost Ball Turnover (P1.T11),Stoudemire STEAL (1 STL),nan,202683,Enes Kanter,OKC,2405,Amar'e Stoudemire,MIA,0,nan,nan,Turnover ,Lost Ball
+76025,21500611,4,10:45,Singler S.FOUL (P1.T1) (D.Stafford),nan,nan,202713,Kyle Singler,OKC,2736,Luol Deng,MIA,0,nan,nan,Foul ,Shooting
+76026,21500611,4,10:45,nan,Deng Free Throw 1 of 2 (1 PTS),59 - 77,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+76027,21500611,4,10:45,nan,Deng Free Throw 2 of 2 (2 PTS),60 - 77,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+76028,21500611,4,10:28,MISS Roberson  3PT Jump Shot,nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76029,21500611,4,10:27,nan,Deng REBOUND (Off:0 Def:3),nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76030,21500611,4,10:17,nan,MISS Wade 17' Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76031,21500611,4,10:17,Waiters REBOUND (Off:0 Def:1),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76032,21500611,4,10:08,MISS Waiters 18' Jump Shot,nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76033,21500611,4,10:08,nan,Stoudemire REBOUND (Off:0 Def:1),nan,2405,Amar'e Stoudemire,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76034,21500611,4,9:51,nan,Wade Out of Bounds Lost Ball Turnover (P3.T18),nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+76035,21500611,4,9:30,Singler  3PT Jump Shot (3 PTS) (Waiters 1 AST),nan,60 - 80,202713,Kyle Singler,OKC,203079,Dion Waiters,OKC,0,nan,nan,Made Shot ,nan
+76036,21500611,4,9:03,nan,MISS Winslow  3PT Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76037,21500611,4,9:02,Singler REBOUND (Off:2 Def:2),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76038,21500611,4,8:55,MISS Payne 25' 3PT Pullup Jump Shot,nan,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76039,21500611,4,8:55,nan,Stoudemire REBOUND (Off:0 Def:2),nan,2405,Amar'e Stoudemire,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76040,21500611,4,8:53,Singler P.FOUL (P2.T2) (D.Stafford),nan,nan,202713,Kyle Singler,OKC,2405,Amar'e Stoudemire,MIA,0,nan,nan,Foul ,Personal
+76041,21500611,4,8:53,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+76042,21500611,4,8:53,nan,SUB: Johnson FOR Richardson,nan,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+76043,21500611,4,8:37,Kanter STEAL (1 STL),Stoudemire Lost Ball Turnover (P2.T19),nan,2405,Amar'e Stoudemire,MIA,202683,Enes Kanter,OKC,0,nan,nan,Turnover ,Lost Ball
+76044,21500611,4,8:32,Waiters 2' Layup (11 PTS) (Payne 1 AST),nan,60 - 82,203079,Dion Waiters,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+76045,21500611,4,8:18,nan,Johnson 24' 3PT Jump Shot (12 PTS) (Wade 3 AST),63 - 82,204020,Tyler Johnson,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+76046,21500611,4,8:04,Kanter 18' Jump Shot (4 PTS) (Payne 2 AST),nan,63 - 84,202683,Enes Kanter,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+76047,21500611,4,7:45,Payne STEAL (1 STL),Wade Lost Ball Turnover (P4.T20),nan,2548,Dwyane Wade,MIA,1626166,Cameron Payne,OKC,0,nan,nan,Turnover ,Lost Ball
+76048,21500611,4,7:34,Waiters 2' Driving Layup (13 PTS),nan,63 - 86,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+76049,21500611,4,7:34,nan,Wade S.FOUL (P1.T1) (D.Stafford),nan,2548,Dwyane Wade,MIA,203079,Dion Waiters,OKC,0,nan,nan,Foul ,Shooting
+76050,21500611,4,7:34,SUB: Westbrook FOR Payne,nan,nan,1626166,Cameron Payne,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+76051,21500611,4,7:34,nan,SUB: Bosh FOR Stoudemire,nan,2405,Amar'e Stoudemire,MIA,2547,Chris Bosh,MIA,0,nan,nan,Substitution ,nan
+76052,21500611,4,7:34,nan,SUB: Richardson FOR Wade,nan,2548,Dwyane Wade,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Substitution ,nan
+76053,21500611,4,7:34,Waiters Free Throw 1 of 1 (14 PTS),nan,63 - 87,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+76054,21500611,4,7:20,nan,MISS Bosh 13' Pullup Jump Shot,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76055,21500611,4,7:20,Westbrook REBOUND (Off:2 Def:6),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76056,21500611,4,7:04,Kanter Lost Ball Turnover (P2.T12),Bosh STEAL (2 STL),nan,202683,Enes Kanter,OKC,2547,Chris Bosh,MIA,0,nan,nan,Turnover ,Lost Ball
+76057,21500611,4,6:55,nan,MISS Johnson  3PT Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76058,21500611,4,6:55,Westbrook REBOUND (Off:2 Def:7),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76059,21500611,4,6:32,nan,Bosh S.FOUL (P2.T2) (D.Richardson),nan,2547,Chris Bosh,MIA,203079,Dion Waiters,OKC,0,nan,nan,Foul ,Shooting
+76060,21500611,4,6:32,Waiters Free Throw 1 of 2 (15 PTS),nan,63 - 88,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+76061,21500611,4,6:32,nan,SUB: Whiteside FOR Deng,nan,2736,Luol Deng,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+76062,21500611,4,6:32,Waiters Free Throw 2 of 2 (16 PTS),nan,63 - 89,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+76063,21500611,4,6:26,Westbrook P.FOUL (P2.T3) (D.Richardson),nan,nan,201566,Russell Westbrook,OKC,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+76064,21500611,4,6:15,nan,MISS Richardson 10' Pullup Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76065,21500611,4,6:14,nan,Whiteside REBOUND (Off:3 Def:7),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76066,21500611,4,6:11,nan,Whiteside 3' Hook Bank Shot (14 PTS),65 - 89,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+76067,21500611,4,5:54,Waiters Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+76068,21500611,4,5:54,THUNDER Timeout: Regular (Full 4 Short 0),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+76069,21500611,4,5:37,nan,Bosh 11' Turnaround Fadeaway (12 PTS),67 - 89,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+76070,21500611,4,5:15,MISS Westbrook 18' Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76071,21500611,4,5:14,nan,Winslow REBOUND (Off:1 Def:3),nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76072,21500611,4,4:53,nan,MISS Richardson 2' Driving Layup,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76073,21500611,4,4:52,Kanter REBOUND (Off:1 Def:1),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76074,21500611,4,4:49,Singler Out of Bounds Lost Ball Turnover (P1.T14),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+76075,21500611,4,4:49,SUB: Ibaka FOR Singler,nan,nan,202713,Kyle Singler,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+76076,21500611,4,4:29,nan,MISS Bosh 6' Turnaround Hook Shot,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76077,21500611,4,4:29,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76078,21500611,4,4:10,MISS Waiters 17' Step Back Jump Shot,nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76079,21500611,4,4:09,Westbrook REBOUND (Off:3 Def:7),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76080,21500611,4,3:59,MISS Westbrook 14' Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76081,21500611,4,3:59,nan,Whiteside REBOUND (Off:3 Def:8),nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76082,21500611,4,3:47,nan,Johnson 15' Pullup Jump Shot (14 PTS),69 - 89,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+76083,21500611,4,3:28,Ibaka 18' Jump Shot (19 PTS) (Roberson 1 AST),nan,69 - 91,201586,Serge Ibaka,OKC,203460,Andre Roberson,OKC,0,nan,nan,Made Shot ,nan
+76084,21500611,4,3:12,nan,MISS Winslow 19' Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76085,21500611,4,3:12,Ibaka REBOUND (Off:3 Def:4),nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76086,21500611,4,3:11,THUNDER Timeout: Regular (Full 5 Short 0),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+76087,21500611,4,3:11,SUB: Singler FOR Ibaka,nan,nan,201586,Serge Ibaka,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+76088,21500611,4,3:11,SUB: Payne FOR Westbrook,nan,nan,201566,Russell Westbrook,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+76089,21500611,4,3:11,nan,SUB: Haslem FOR Bosh,nan,2547,Chris Bosh,MIA,2617,Udonis Haslem,MIA,0,nan,nan,Substitution ,nan
+76090,21500611,4,3:11,nan,SUB: Stoudemire FOR Whiteside,nan,202355,Hassan Whiteside,MIA,2405,Amar'e Stoudemire,MIA,0,nan,nan,Substitution ,nan
+76091,21500611,4,3:01,Kanter 2' Layup (6 PTS) (Singler 1 AST),nan,69 - 93,202683,Enes Kanter,OKC,202713,Kyle Singler,OKC,0,nan,nan,Made Shot ,nan
+76092,21500611,4,2:34,nan,MISS Johnson 17' Step Back Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76093,21500611,4,2:33,Kanter REBOUND (Off:1 Def:2),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76094,21500611,4,2:23,Waiters  Driving Dunk (18 PTS),nan,69 - 95,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+76095,21500611,4,2:13,Payne Personal Take Foul (P2.T4) (B.Barnaky),nan,nan,1626166,Cameron Payne,OKC,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Personal Take
+76096,21500611,4,2:13,SUB: McGary FOR Roberson,nan,nan,203460,Andre Roberson,OKC,203956,Mitch McGary,OKC,0,nan,nan,Substitution ,nan
+76097,21500611,4,1:58,nan,Haslem Out of Bounds Lost Ball Turnover (P1.T21),nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+76098,21500611,4,1:38,MISS Waiters 19' Step Back Jump Shot,nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76099,21500611,4,1:38,nan,Winslow REBOUND (Off:1 Def:4),nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76100,21500611,4,1:29,Kanter BLOCK (1 BLK),MISS Winslow 3' Jump Shot,nan,1626159,Justise Winslow,MIA,0,nan,nan,202683,Enes Kanter,OKC,Missed Shot ,nan
+76101,21500611,4,1:29,Payne REBOUND (Off:1 Def:2),nan,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76102,21500611,4,1:14,McGary 12' Turnaround Fadeaway (2 PTS),nan,69 - 97,203956,Mitch McGary,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+76103,21500611,4,0:57,nan,Johnson 1' Reverse Layup (16 PTS) (Stoudemire 1 AST),71 - 97,204020,Tyler Johnson,MIA,2405,Amar'e Stoudemire,MIA,0,nan,nan,Made Shot ,nan
+76104,21500611,4,0:46,MISS McGary 24' 3PT Jump Shot,nan,nan,203956,Mitch McGary,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+76105,21500611,4,0:45,Kanter REBOUND (Off:2 Def:2),nan,nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+76106,21500611,4,0:44,Kanter 3' Hook Shot (8 PTS),nan,71 - 99,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+76107,21500611,4,0:22,nan,Richardson 25' 3PT Jump Shot (3 PTS) (Johnson 4 AST),74 - 99,1626196,Josh Richardson,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Made Shot ,nan
+76108,21500611,4,0:00,nan,nan,74 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

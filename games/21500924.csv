@@ -1,0 +1,146 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+115838,21500924,4,12:00,nan,nan,78 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+115839,21500924,4,11:42,MISS Dudley 18' Jump Shot,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115840,21500924,4,11:40,nan,Hill REBOUND (Off:1 Def:5),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115841,21500924,4,11:28,Nene STEAL (1 STL),Hill Lost Ball Turnover (P3.T7),nan,201941,Jordan Hill,IND,2403,Nene,WAS,0,nan,nan,Turnover ,Lost Ball
+115842,21500924,4,11:24,Dudley Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+115843,21500924,4,11:10,Dudley S.FOUL (P2.T1) (K.Cutler),nan,nan,201162,Jared Dudley,WAS,202730,Lavoy Allen,IND,0,nan,nan,Foul ,Shooting
+115844,21500924,4,11:10,nan,Allen Free Throw 1 of 2 (1 PTS),79 - 80,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115845,21500924,4,11:10,nan,Allen Free Throw 2 of 2 (2 PTS),80 - 80,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115846,21500924,4,10:51,Nene 8' Jump Bank Shot (7 PTS) (Temple 2 AST),nan,80 - 82,2403,Nene,WAS,202066,Garrett Temple,WAS,0,nan,nan,Made Shot ,nan
+115847,21500924,4,10:51,nan,Allen S.FOUL (P4.T1) (K.Fitzgerald),nan,202730,Lavoy Allen,IND,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+115848,21500924,4,10:51,nan,nan,nan,2345,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+115849,21500924,4,10:51,Anderson Free Throw Technical (9 PTS),nan,80 - 83,101187,Alan Anderson,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+115850,21500924,4,10:51,MISS Nene Free Throw 1 of 1,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+115851,21500924,4,10:49,nan,Hill REBOUND (Off:1 Def:6),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115852,21500924,4,10:31,nan,G. Hill 7' Floating Jump Shot (10 PTS),82 - 83,201588,George Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+115853,21500924,4,10:25,nan,S. Hill Violation:Defensive Goaltending (T.Washington),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+115854,21500924,4,10:25,Temple 5' Jump Shot (11 PTS),nan,82 - 85,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+115855,21500924,4,10:16,Temple P.FOUL (P3.T2) (K.Fitzgerald),nan,nan,202066,Garrett Temple,WAS,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Personal
+115856,21500924,4,10:16,SUB: Porter Jr. FOR Anderson,nan,nan,101187,Alan Anderson,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+115857,21500924,4,10:11,nan,Hill OFF.Foul (P5) (K.Fitzgerald),nan,201941,Jordan Hill,IND,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Offensive
+115858,21500924,4,10:11,nan,Hill Foul Turnover (P4.T8),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+115859,21500924,4,10:00,MISS Sessions 10' Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115860,21500924,4,9:59,nan,Allen REBOUND (Off:0 Def:3),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115861,21500924,4,9:40,Temple S.FOUL (P4.T3) (K.Cutler),nan,nan,202066,Garrett Temple,WAS,201588,George Hill,IND,0,nan,nan,Foul ,Shooting
+115862,21500924,4,9:40,nan,G. Hill Free Throw 1 of 2 (11 PTS),83 - 85,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115863,21500924,4,9:40,SUB: Mark Morris FOR Dudley,nan,nan,201162,Jared Dudley,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+115864,21500924,4,9:40,nan,G. Hill Free Throw 2 of 2 (12 PTS),84 - 85,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115865,21500924,4,9:25,MISS Temple 1' Layup,S. Hill BLOCK (1 BLK),nan,202066,Garrett Temple,WAS,0,nan,nan,203524,Solomon Hill,IND,Missed Shot ,nan
+115866,21500924,4,9:24,nan,S. Hill REBOUND (Off:1 Def:1),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115867,21500924,4,9:08,nan,MISS Hill 17' Jump Shot,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115868,21500924,4,9:08,Porter Jr. REBOUND (Off:1 Def:1),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115869,21500924,4,8:57,MISS Sessions 26' 3PT Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115870,21500924,4,8:56,Porter Jr. REBOUND (Off:2 Def:1),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115871,21500924,4,8:43,MISS Sessions 8' Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115872,21500924,4,8:42,nan,Stuckey REBOUND (Off:0 Def:2),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115873,21500924,4,8:20,Porter Jr. S.FOUL (P4.T4) (T.Washington),nan,nan,203490,Otto Porter Jr.,WAS,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+115874,21500924,4,8:20,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+115875,21500924,4,8:20,SUB: Wall FOR Temple,nan,nan,202066,Garrett Temple,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+115876,21500924,4,8:20,nan,SUB: Ellis FOR Stuckey,nan,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+115877,21500924,4,8:20,nan,SUB: George FOR S. Hill,nan,203524,Solomon Hill,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+115878,21500924,4,8:20,nan,Hill Free Throw 1 of 2 (7 PTS),85 - 85,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115879,21500924,4,8:20,nan,Hill Free Throw 2 of 2 (8 PTS),86 - 85,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115880,21500924,4,8:08,Nene 1' Driving Finger Roll Layup (9 PTS) (Wall 11 AST),nan,86 - 87,2403,Nene,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+115881,21500924,4,7:43,nan,MISS Ellis 5' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115882,21500924,4,7:42,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115883,21500924,4,7:42,nan,SUB: S. Hill FOR Hill,nan,201941,Jordan Hill,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+115884,21500924,4,7:34,nan,MISS George 24' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115885,21500924,4,7:33,Wall REBOUND (Off:0 Def:6),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115886,21500924,4,7:29,Wall Lost Ball Turnover (P7.T15),S. Hill STEAL (2 STL),nan,202322,John Wall,WAS,203524,Solomon Hill,IND,0,nan,nan,Turnover ,Lost Ball
+115887,21500924,4,7:11,nan,George 7' Turnaround Hook Shot (29 PTS),88 - 87,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+115888,21500924,4,6:46,MISS Wall 3' Layup,S. Hill BLOCK (2 BLK),nan,202322,John Wall,WAS,0,nan,nan,203524,Solomon Hill,IND,Missed Shot ,nan
+115889,21500924,4,6:46,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115890,21500924,4,6:46,WIZARDS Turnover: Shot Clock (T#16),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+115891,21500924,4,6:25,nan,MISS Ellis 20' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115892,21500924,4,6:24,nan,Allen REBOUND (Off:1 Def:3),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115893,21500924,4,6:21,nan,George OFF.Foul (P3) (T.Washington),nan,202331,Paul George,IND,202322,John Wall,WAS,0,nan,nan,Foul ,Offensive
+115894,21500924,4,6:21,nan,George Foul Turnover (P2.T9),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+115895,21500924,4,6:21,SUB: Anderson FOR Porter Jr.,nan,nan,203490,Otto Porter Jr.,WAS,101187,Alan Anderson,WAS,0,nan,nan,Substitution ,nan
+115896,21500924,4,6:21,SUB: Temple FOR Sessions,nan,nan,201196,Ramon Sessions,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+115897,21500924,4,6:21,nan,SUB: Mahinmi FOR G. Hill,nan,201588,George Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+115898,21500924,4,6:21,SUB: Gortat FOR Nene,nan,nan,2403,Nene,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+115899,21500924,4,6:08,MISS Mark Morris 17' Jump Shot,nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115900,21500924,4,6:07,nan,George REBOUND (Off:1 Def:4),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115901,21500924,4,5:55,nan,MISS George 19' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115902,21500924,4,5:54,Mark Morris REBOUND (Off:3 Def:3),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115903,21500924,4,5:46,MISS Anderson 27' 3PT Jump Shot,nan,nan,101187,Alan Anderson,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115904,21500924,4,5:45,nan,Ellis REBOUND (Off:0 Def:6),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115905,21500924,4,5:26,Anderson S.FOUL (P3.PN) (K.Fitzgerald),nan,nan,101187,Alan Anderson,WAS,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+115906,21500924,4,5:26,WIZARDS Timeout: Regular (Full 4 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115907,21500924,4,5:26,nan,George Free Throw 1 of 2 (30 PTS),89 - 87,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115908,21500924,4,5:26,nan,George Free Throw 2 of 2 (31 PTS),90 - 87,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115909,21500924,4,5:10,MISS Wall 18' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115910,21500924,4,5:10,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115911,21500924,4,5:10,nan,S. Hill L.B.FOUL (P2.T2) (K.Fitzgerald),nan,203524,Solomon Hill,IND,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Loose Ball
+115912,21500924,4,4:54,MISS Temple  3PT Jump Shot,nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115913,21500924,4,4:54,Gortat REBOUND (Off:7 Def:10),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115914,21500924,4,4:45,MISS Anderson 19' Jump Shot,nan,nan,101187,Alan Anderson,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115915,21500924,4,4:44,nan,Allen REBOUND (Off:1 Def:4),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115916,21500924,4,4:30,Wall P.FOUL (P3.PN) (K.Fitzgerald),nan,nan,202322,John Wall,WAS,203524,Solomon Hill,IND,0,nan,nan,Foul ,Personal
+115917,21500924,4,4:30,nan,S. Hill Free Throw 1 of 2 (3 PTS),91 - 87,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115918,21500924,4,4:30,nan,MISS S. Hill Free Throw 2 of 2,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115919,21500924,4,4:29,Mark Morris REBOUND (Off:3 Def:4),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115920,21500924,4,4:15,Wall 13' Pullup Bank Shot (20 PTS) (Gortat 2 AST),nan,91 - 89,202322,John Wall,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+115921,21500924,4,4:15,nan,S. Hill S.FOUL (P3.T3) (T.Washington),nan,203524,Solomon Hill,IND,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+115922,21500924,4,4:15,Wall Free Throw 1 of 1 (21 PTS),nan,91 - 90,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+115923,21500924,4,4:03,nan,MISS George 24' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115924,21500924,4,4:02,nan,S. Hill REBOUND (Off:2 Def:1),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115925,21500924,4,3:41,nan,MISS Ellis 30' 3PT Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115926,21500924,4,3:40,Anderson REBOUND (Off:0 Def:3),nan,nan,101187,Alan Anderson,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115927,21500924,4,3:36,Wall 2' Running Layup (23 PTS) (Anderson 4 AST),nan,91 - 92,202322,John Wall,WAS,101187,Alan Anderson,WAS,0,nan,nan,Made Shot ,nan
+115928,21500924,4,3:36,nan,Ellis S.FOUL (P2.T4) (K.Fitzgerald),nan,101145,Monta Ellis,IND,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+115929,21500924,4,3:36,nan,SUB: G. Hill FOR S. Hill,nan,203524,Solomon Hill,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+115930,21500924,4,3:36,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115931,21500924,4,3:36,Wall Free Throw 1 of 1 (24 PTS),nan,91 - 93,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+115932,21500924,4,3:20,Gortat STEAL (1 STL),G. Hill Lost Ball Turnover (P2.T10),nan,201588,George Hill,IND,101162,Marcin Gortat,WAS,0,nan,nan,Turnover ,Lost Ball
+115933,21500924,4,3:15,MISS Wall 2' Layup,G. Hill BLOCK (1 BLK),nan,202322,John Wall,WAS,0,nan,nan,201588,George Hill,IND,Missed Shot ,nan
+115934,21500924,4,3:15,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115935,21500924,4,3:06,Mark Morris 18' Jump Shot (14 PTS) (Wall 12 AST),nan,91 - 95,202693,Markieff Morris,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+115936,21500924,4,2:50,nan,George 27' 3PT Jump Shot (34 PTS) (G. Hill 5 AST),94 - 95,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+115937,21500924,4,2:29,MISS Wall 19' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115938,21500924,4,2:28,nan,George REBOUND (Off:1 Def:5),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115939,21500924,4,2:19,Mark Morris STEAL (1 STL),George Bad Pass Turnover (P3.T11),nan,202331,Paul George,IND,202693,Markieff Morris,WAS,0,nan,nan,Turnover ,Bad Pass
+115940,21500924,4,2:19,nan,Mahinmi P.FOUL (P5.PN) (K.Cutler),nan,101133,Ian Mahinmi,IND,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Personal
+115941,21500924,4,2:19,Gortat Free Throw 1 of 2 (7 PTS),nan,94 - 96,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115942,21500924,4,2:19,nan,SUB: Hill FOR Mahinmi,nan,101133,Ian Mahinmi,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+115943,21500924,4,2:19,Gortat Free Throw 2 of 2 (8 PTS),nan,94 - 97,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115944,21500924,4,2:03,nan,George 9' Pullup Jump Shot (36 PTS),96 - 97,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+115945,21500924,4,1:38,MISS Wall 27' 3PT Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115946,21500924,4,1:38,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115947,21500924,4,1:38,nan,nan,nan,524,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+115948,21500924,4,1:18,nan,MISS Allen 6' Jump Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115949,21500924,4,1:17,nan,Hill REBOUND (Off:2 Def:6),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115950,21500924,4,1:15,Temple STEAL (1 STL),Hill Bad Pass Turnover (P5.T12),nan,201941,Jordan Hill,IND,202066,Garrett Temple,WAS,0,nan,nan,Turnover ,Bad Pass
+115951,21500924,4,1:12,Temple Lost Ball Turnover (P1.T17),Ellis STEAL (4 STL),nan,202066,Garrett Temple,WAS,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Lost Ball
+115952,21500924,4,1:00,nan,MISS George 21' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115953,21500924,4,0:59,nan,Hill REBOUND (Off:3 Def:6),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115954,21500924,4,0:58,nan,Hill 8' Turnaround Hook Shot (10 PTS),98 - 97,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+115955,21500924,4,0:58,WIZARDS Timeout: Regular (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115956,21500924,4,0:58,nan,SUB: Mahinmi FOR Hill,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+115957,21500924,4,0:58,SUB: Sessions FOR Temple,nan,nan,202066,Garrett Temple,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Substitution ,nan
+115958,21500924,4,0:41,nan,Mahinmi S.FOUL (P6.PN) (K.Fitzgerald),nan,101133,Ian Mahinmi,IND,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+115959,21500924,4,0:41,nan,SUB: Hill FOR Mahinmi,nan,101133,Ian Mahinmi,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+115960,21500924,4,0:41,MISS Wall Free Throw 1 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115961,21500924,4,0:41,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+115962,21500924,4,0:41,SUB: Temple FOR Sessions,nan,nan,201196,Ramon Sessions,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+115963,21500924,4,0:41,SUB: Nene FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,2403,Nene,WAS,0,nan,nan,Substitution ,nan
+115964,21500924,4,0:41,Wall Free Throw 2 of 2 (25 PTS),nan,98 - 98,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115965,21500924,4,0:41,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+115966,21500924,4,0:31,nan,MISS George 15' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115967,21500924,4,0:31,Mark Morris REBOUND (Off:3 Def:5),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115968,21500924,4,0:21,WIZARDS Timeout: Short (Full 5 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+115969,21500924,4,0:10,nan,Allen S.FOUL (P5.PN) (T.Washington),nan,202730,Lavoy Allen,IND,2403,Nene,WAS,0,nan,nan,Foul ,Shooting
+115970,21500924,4,0:10,MISS Nene Free Throw 1 of 2,nan,nan,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115971,21500924,4,0:10,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+115972,21500924,4,0:10,Nene Free Throw 2 of 2 (10 PTS),nan,98 - 99,2403,Nene,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115973,21500924,4,0:10,nan,Pacers Timeout: Regular (Reg.5 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+115974,21500924,4,0:03,Anderson S.FOUL (P4.PN) (K.Cutler),nan,nan,101187,Alan Anderson,WAS,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+115975,21500924,4,0:03,nan,George Free Throw 1 of 2 (37 PTS),99 - 99,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+115976,21500924,4,0:03,nan,George Free Throw 2 of 2 (38 PTS),100 - 99,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+115977,21500924,4,0:03,WIZARDS Timeout: Short (Full 5 Short 3),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+115978,21500924,4,0:03,SUB: Dudley FOR Temple,nan,nan,202066,Garrett Temple,WAS,201162,Jared Dudley,WAS,0,nan,nan,Substitution ,nan
+115979,21500924,4,0:03,nan,SUB: S. Hill FOR Allen,nan,202730,Lavoy Allen,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+115980,21500924,4,0:00,MISS Wall 17' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+115981,21500924,4,0:00,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+115982,21500924,4,0:00,nan,nan,100 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

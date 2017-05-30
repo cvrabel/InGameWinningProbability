@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+77581,21500622,4,12:00,nan,nan,104 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+77582,21500622,4,11:48,Shumpert P.FOUL (P5.T1) (K.Mauer),nan,nan,202697,Iman Shumpert,CLE,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+77583,21500622,4,11:42,Cunningham S.FOUL (P1.T2) (K.Fitzgerald),nan,nan,203099,Jared Cunningham,CLE,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Shooting
+77584,21500622,4,11:42,nan,Barbosa Free Throw 1 of 2 (3 PTS),105 - 67,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77585,21500622,4,11:42,nan,Barbosa Free Throw 2 of 2 (4 PTS),106 - 67,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77586,21500622,4,11:29,Shumpert 15' Jump Shot (6 PTS) (Dellavedova 4 AST),nan,106 - 69,202697,Iman Shumpert,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+77587,21500622,4,11:10,nan,Iguodala 24' 3PT Jump Shot (17 PTS),109 - 69,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+77588,21500622,4,10:54,Shumpert Backcourt Turnover (P3.T14),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+77589,21500622,4,10:42,nan,Iguodala 25' 3PT Jump Shot (20 PTS) (Barbosa 3 AST),112 - 69,2738,Andre Iguodala,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+77590,21500622,4,10:42,CAVALIERS Timeout: Short (Full 3 Short 2),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+77591,21500622,4,10:26,Dellavedova 23' Jump Shot (8 PTS) (Cunningham 1 AST),nan,112 - 71,203521,Matthew Dellavedova,CLE,203099,Jared Cunningham,CLE,0,nan,nan,Made Shot ,nan
+77592,21500622,4,10:09,nan,Barnes 17' Jump Shot (9 PTS) (Livingston 3 AST),114 - 71,203084,Harrison Barnes,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+77593,21500622,4,9:46,Varejao Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+77594,21500622,4,9:46,nan,SUB: Rush FOR Iguodala,nan,2738,Andre Iguodala,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+77595,21500622,4,9:31,nan,nan,nan,2760,Anderson Varejao,CLE,203105,Festus Ezeli,GSW,0,nan,nan,Foul ,Double Personal
+77596,21500622,4,9:19,Varejao STEAL (1 STL),Ezeli Lost Ball Turnover (P2.T7),nan,203105,Festus Ezeli,GSW,2760,Anderson Varejao,CLE,0,nan,nan,Turnover ,Lost Ball
+77597,21500622,4,9:16,nan,Ezeli P.FOUL (P6.T1) (T.Maddox),nan,203105,Festus Ezeli,GSW,2760,Anderson Varejao,CLE,0,nan,nan,Foul ,Personal
+77598,21500622,4,9:16,nan,SUB: Speights FOR Ezeli,nan,203105,Festus Ezeli,GSW,201578,Marreese Speights,GSW,0,nan,nan,Substitution ,nan
+77599,21500622,4,9:08,MISS Dellavedova 15' Floating Jump Shot,nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77600,21500622,4,9:07,nan,Speights REBOUND (Off:0 Def:1),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77601,21500622,4,8:59,nan,MISS Barnes  3PT Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77602,21500622,4,8:59,Jefferson REBOUND (Off:0 Def:1),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77603,21500622,4,8:53,nan,Rush S.FOUL (P1.T2) (K.Fitzgerald),nan,201575,Brandon Rush,GSW,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Shooting
+77604,21500622,4,8:53,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+77605,21500622,4,8:53,nan,SUB: Clark FOR Barbosa,nan,2571,Leandro Barbosa,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+77606,21500622,4,8:53,Shumpert Free Throw 1 of 2 (7 PTS),nan,114 - 72,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77607,21500622,4,8:53,MISS Shumpert Free Throw 2 of 2,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77608,21500622,4,8:51,Cunningham REBOUND (Off:1 Def:0),nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77609,21500622,4,8:38,Cunningham  Dunk (2 PTS) (Dellavedova 5 AST),nan,114 - 74,203099,Jared Cunningham,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+77610,21500622,4,8:18,nan,MISS Speights 18' Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77611,21500622,4,8:17,Jefferson REBOUND (Off:0 Def:2),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77612,21500622,4,8:08,Shumpert  Driving Layup (9 PTS),nan,114 - 76,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+77613,21500622,4,8:08,nan,Barnes S.FOUL (P1.T3) (T.Maddox),nan,203084,Harrison Barnes,GSW,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Shooting
+77614,21500622,4,8:08,Shumpert Free Throw 1 of 1 (10 PTS),nan,114 - 77,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+77615,21500622,4,7:46,nan,Barnes 26' 3PT Jump Shot (12 PTS) (Clark 1 AST),117 - 77,203084,Harrison Barnes,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+77616,21500622,4,7:26,Cunningham 1' Cutting Layup Shot (4 PTS) (Varejao 1 AST),nan,117 - 79,203099,Jared Cunningham,CLE,2760,Anderson Varejao,CLE,0,nan,nan,Made Shot ,nan
+77617,21500622,4,7:15,nan,Speights 21' Jump Shot (2 PTS) (Livingston 4 AST),119 - 79,201578,Marreese Speights,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+77618,21500622,4,6:56,Dellavedova 25' 3PT Jump Shot (11 PTS),nan,119 - 82,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+77619,21500622,4,6:44,nan,Barnes Out of Bounds - Bad Pass Turnover Turnover (P2.T8),nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+77620,21500622,4,6:44,nan,SUB: Thompson FOR Barnes,nan,203084,Harrison Barnes,GSW,201574,Jason Thompson,GSW,0,nan,nan,Substitution ,nan
+77621,21500622,4,6:44,CAVALIERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+77622,21500622,4,6:33,nan,Thompson S.FOUL (P1.T4) (K.Mauer),nan,201574,Jason Thompson,GSW,2210,Richard Jefferson,CLE,0,nan,nan,Foul ,Shooting
+77623,21500622,4,6:33,Jefferson Free Throw 1 of 2 (2 PTS),nan,119 - 83,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77624,21500622,4,6:33,Jefferson Free Throw 2 of 2 (3 PTS),nan,119 - 84,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77625,21500622,4,6:21,nan,MISS Speights 16' Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77626,21500622,4,6:21,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77627,21500622,4,6:00,MISS Varejao 8' Turnaround Jump Shot,nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77628,21500622,4,5:59,nan,Thompson REBOUND (Off:0 Def:1),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77629,21500622,4,5:51,Shumpert P.FOUL (P6.T3) (K.Mauer),nan,nan,202697,Iman Shumpert,CLE,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Personal
+77630,21500622,4,5:51,nan,SUB: Barbosa FOR Livingston,nan,2733,Shaun Livingston,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Substitution ,nan
+77631,21500622,4,5:51,SUB: Jones FOR Shumpert,nan,nan,202697,Iman Shumpert,CLE,2592,James Jones,CLE,0,nan,nan,Substitution ,nan
+77632,21500622,4,5:43,Jones S.FOUL (P3.T4) (T.Maddox),nan,nan,2592,James Jones,CLE,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+77633,21500622,4,5:43,nan,Speights Free Throw 1 of 2 (3 PTS),120 - 84,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77634,21500622,4,5:43,nan,Speights Free Throw 2 of 2 (4 PTS),121 - 84,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77635,21500622,4,5:34,nan,Thompson P.FOUL (P2.PN) (T.Maddox),nan,201574,Jason Thompson,GSW,2760,Anderson Varejao,CLE,0,nan,nan,Foul ,Personal
+77636,21500622,4,5:34,nan,nan,nan,487,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+77637,21500622,4,5:34,Varejao Free Throw 1 of 2 (5 PTS),nan,121 - 85,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77638,21500622,4,5:34,MISS Varejao Free Throw 2 of 2,nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77639,21500622,4,5:32,nan,Rush REBOUND (Off:0 Def:1),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77640,21500622,4,5:19,nan,MISS Clark 14' Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77641,21500622,4,5:19,Jefferson REBOUND (Off:0 Def:3),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77642,21500622,4,5:08,Jefferson  3PT Jump Shot (6 PTS) (Varejao 2 AST),nan,121 - 88,2210,Richard Jefferson,CLE,2760,Anderson Varejao,CLE,0,nan,nan,Made Shot ,nan
+77643,21500622,4,4:50,nan,Barbosa 16' Jump Shot (6 PTS) (Thompson 1 AST),123 - 88,2571,Leandro Barbosa,GSW,201574,Jason Thompson,GSW,0,nan,nan,Made Shot ,nan
+77644,21500622,4,4:37,MISS Cunningham 6' Jump Bank Shot,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77645,21500622,4,4:35,nan,Clark REBOUND (Off:0 Def:2),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77646,21500622,4,4:29,nan,Rush 25' 3PT Jump Shot (3 PTS) (Clark 2 AST),126 - 88,201575,Brandon Rush,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+77647,21500622,4,4:16,Jones 16' Jump Shot (5 PTS) (Dellavedova 6 AST),nan,126 - 90,2592,James Jones,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+77648,21500622,4,3:54,Jefferson BLOCK (1 BLK),MISS Rush 3' Driving Layup,nan,201575,Brandon Rush,GSW,0,nan,nan,2210,Richard Jefferson,CLE,Missed Shot ,nan
+77649,21500622,4,3:54,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77650,21500622,4,3:51,nan,MISS Speights 17' Jump Shot,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77651,21500622,4,3:51,Cunningham REBOUND (Off:1 Def:1),nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77652,21500622,4,3:39,MISS Dellavedova 25' 3PT Jump Shot,nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77653,21500622,4,3:39,nan,Rush REBOUND (Off:0 Def:2),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77654,21500622,4,3:32,nan,MISS Rush 26' 3PT Jump Shot,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77655,21500622,4,3:31,Varejao REBOUND (Off:0 Def:2),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77656,21500622,4,3:22,MISS Jones 24' 3PT Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77657,21500622,4,3:20,nan,Thompson REBOUND (Off:0 Def:2),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77658,21500622,4,3:10,nan,MISS Clark 20' Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77659,21500622,4,3:10,Cunningham REBOUND (Off:1 Def:2),nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77660,21500622,4,3:04,nan,Barbosa P.FOUL (P1.PN) (K.Fitzgerald),nan,2571,Leandro Barbosa,GSW,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Personal
+77661,21500622,4,3:04,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+77662,21500622,4,3:04,Cunningham Free Throw 1 of 2 (5 PTS),nan,126 - 91,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77663,21500622,4,3:04,Cunningham Free Throw 2 of 2 (6 PTS),nan,126 - 92,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77664,21500622,4,2:49,Jones S.FOUL (P4.PN) (K.Mauer),nan,nan,2592,James Jones,CLE,201574,Jason Thompson,GSW,0,nan,nan,Foul ,Shooting
+77665,21500622,4,2:49,nan,Thompson Free Throw 1 of 2 (1 PTS),127 - 92,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77666,21500622,4,2:49,nan,MISS Thompson Free Throw 2 of 2,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77667,21500622,4,2:49,Dellavedova REBOUND (Off:0 Def:1),nan,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77668,21500622,4,2:40,Dellavedova Bad Pass Turnover (P1.T16),Barbosa STEAL (2 STL),nan,203521,Matthew Dellavedova,CLE,2571,Leandro Barbosa,GSW,0,nan,nan,Turnover ,Bad Pass
+77669,21500622,4,2:34,nan,Barbosa 2' Running Layup (8 PTS) (Rush 1 AST),129 - 92,2571,Leandro Barbosa,GSW,201575,Brandon Rush,GSW,0,nan,nan,Made Shot ,nan
+77670,21500622,4,2:18,Jones 25' 3PT Jump Shot (8 PTS) (Varejao 3 AST),nan,129 - 95,2592,James Jones,CLE,2760,Anderson Varejao,CLE,0,nan,nan,Made Shot ,nan
+77671,21500622,4,2:04,nan,Clark 26' 3PT Jump Shot (6 PTS) (Barbosa 4 AST),132 - 95,203546,Ian Clark,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+77672,21500622,4,1:40,MISS Jones 26' 3PT Jump Shot,nan,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77673,21500622,4,1:39,nan,Rush REBOUND (Off:0 Def:3),nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77674,21500622,4,1:28,nan,MISS Clark 27' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77675,21500622,4,1:28,Varejao REBOUND (Off:0 Def:3),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77676,21500622,4,1:17,Cunningham 2' Cutting Layup Shot (8 PTS) (Jones 1 AST),nan,132 - 97,203099,Jared Cunningham,CLE,2592,James Jones,CLE,0,nan,nan,Made Shot ,nan
+77677,21500622,4,0:59,nan,MISS Thompson 10' Step Back Jump Shot,nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77678,21500622,4,0:57,Varejao REBOUND (Off:0 Def:4),nan,nan,2760,Anderson Varejao,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77679,21500622,4,0:41,nan,Thompson S.FOUL (P3.PN) (T.Maddox),nan,201574,Jason Thompson,GSW,203099,Jared Cunningham,CLE,0,nan,nan,Foul ,Shooting
+77680,21500622,4,0:41,MISS Cunningham Free Throw 1 of 2,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+77681,21500622,4,0:41,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+77682,21500622,4,0:41,Cunningham Free Throw 2 of 2 (9 PTS),nan,132 - 98,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+77683,21500622,4,0:21,nan,MISS Clark 27' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77684,21500622,4,0:21,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77685,21500622,4,0:06,MISS Cunningham 25' 3PT Jump Shot,nan,nan,203099,Jared Cunningham,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+77686,21500622,4,0:06,nan,Thompson REBOUND (Off:0 Def:3),nan,201574,Jason Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+77687,21500622,4,0:00,nan,nan,132 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

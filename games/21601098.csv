@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+288076,21601098,4,12:00,nan,nan,74 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+288077,21601098,4,11:44,Porzingis STEAL (2 STL),Leuer Lost Ball Turnover (P2.T16),nan,202720,Jon Leuer,DET,204001,Kristaps Porzingis,NYK,0,nan,nan,Turnover ,Lost Ball
+288078,21601098,4,11:28,Baker 19' Jump Shot (2 PTS) (Porzingis 3 AST),nan,74 - 91,1627758,Ron Baker,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+288079,21601098,4,11:05,Kuzminskas P.FOUL (P2.T1) (M.Callahan),nan,nan,1627851,Mindaugas Kuzminskas,NYK,202720,Jon Leuer,DET,0,nan,nan,Foul ,Personal
+288080,21601098,4,10:52,nan,MISS Leuer 22' Jump Shot,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288081,21601098,4,10:51,Porzingis REBOUND (Off:0 Def:7),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288082,21601098,4,10:33,MISS Kuzminskas 7' Jump Shot,nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288083,21601098,4,10:32,nan,Leuer REBOUND (Off:1 Def:1),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288084,21601098,4,10:23,Kuzminskas Violation:Kicked Ball (D.Richardson),nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+288085,21601098,4,10:09,O'Quinn BLOCK (1 BLK),MISS Johnson 8' Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+288086,21601098,4,10:08,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288087,21601098,4,10:08,nan,Pistons Turnover: Shot Clock (T#17),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+288088,21601098,4,9:54,MISS O'Quinn 1' Layup,Leuer BLOCK (1 BLK),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,202720,Jon Leuer,DET,Missed Shot ,nan
+288089,21601098,4,9:53,nan,Udrih REBOUND (Off:0 Def:3),nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288090,21601098,4,9:42,Porzingis BLOCK (3 BLK),MISS Harris 3' Layup,nan,202699,Tobias Harris,DET,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+288091,21601098,4,9:41,Holiday REBOUND (Off:0 Def:1),nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288092,21601098,4,9:37,Holiday 25' 3PT Jump Shot (7 PTS) (Kuzminskas 4 AST),nan,74 - 94,203200,Justin Holiday,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Made Shot ,nan
+288093,21601098,4,9:36,nan,Pistons Timeout: Regular (Reg.5 Short 1),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+288094,21601098,4,9:20,nan,Harris 16' Jump Shot (10 PTS) (Udrih 1 AST),76 - 94,202699,Tobias Harris,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+288095,21601098,4,9:06,nan,Leuer P.FOUL (P3.T1) (M.Callahan),nan,202720,Jon Leuer,DET,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+288096,21601098,4,8:53,MISS Kuzminskas 28' 3PT Jump Shot,nan,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288097,21601098,4,8:52,nan,Baynes REBOUND (Off:2 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288098,21601098,4,8:42,nan,Udrih 1' Layup (6 PTS),78 - 94,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+288099,21601098,4,8:27,MISS Holiday 25' 3PT Jump Shot,nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288100,21601098,4,8:26,nan,Leuer REBOUND (Off:1 Def:2),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288101,21601098,4,8:15,nan,MISS Baynes 11' Jump Shot,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288102,21601098,4,8:14,Holiday REBOUND (Off:0 Def:2),nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288103,21601098,4,8:04,MISS Baker  3PT Jump Shot,nan,nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288104,21601098,4,8:03,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288105,21601098,4,7:51,nan,Baynes OFF.Foul (P1) (D.Richardson),nan,203382,Aron Baynes,DET,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Offensive
+288106,21601098,4,7:51,nan,Baynes Foul Turnover (P1.T18),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+288107,21601098,4,7:40,MISS Porzingis 25' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288108,21601098,4,7:39,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288109,21601098,4,7:25,nan,Harris  Driving Dunk (12 PTS) (Udrih 2 AST),80 - 94,202699,Tobias Harris,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+288110,21601098,4,7:03,Porzingis Bad Pass Turnover (P1.T11),Udrih STEAL (1 STL),nan,204001,Kristaps Porzingis,NYK,2757,Beno Udrih,DET,0,nan,nan,Turnover ,Bad Pass
+288111,21601098,4,6:56,nan,Johnson 25' 3PT Jump Shot (5 PTS) (Udrih 3 AST),83 - 94,1626169,Stanley Johnson,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+288112,21601098,4,6:55,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+288113,21601098,4,6:55,SUB: Anthony FOR Kuzminskas,nan,nan,1627851,Mindaugas Kuzminskas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+288114,21601098,4,6:55,SUB: Lee FOR Holiday,nan,nan,203200,Justin Holiday,NYK,201584,Courtney Lee,NYK,0,nan,nan,Substitution ,nan
+288115,21601098,4,6:55,SUB: Rose FOR Baker,nan,nan,1627758,Ron Baker,NYK,201565,Derrick Rose,NYK,0,nan,nan,Substitution ,nan
+288116,21601098,4,6:55,nan,SUB: Smith FOR Harris,nan,202699,Tobias Harris,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+288117,21601098,4,6:55,nan,SUB: Marc Morris FOR Udrih,nan,2757,Beno Udrih,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+288118,21601098,4,6:42,MISS Porzingis 18' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288119,21601098,4,6:41,nan,Smith REBOUND (Off:0 Def:5),nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288120,21601098,4,6:25,nan,MISS Johnson 26' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288121,21601098,4,6:24,nan,Baynes REBOUND (Off:3 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288122,21601098,4,6:18,nan,MISS Johnson 25' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288123,21601098,4,6:17,Lee REBOUND (Off:0 Def:5),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288124,21601098,4,6:08,MISS Lee 16' Jump Shot,Johnson BLOCK (1 BLK),nan,201584,Courtney Lee,NYK,0,nan,nan,1626169,Stanley Johnson,DET,Missed Shot ,nan
+288125,21601098,4,6:07,nan,Smith REBOUND (Off:0 Def:6),nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288126,21601098,4,5:58,nan,MISS Marc Morris 20' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288127,21601098,4,5:57,Lee REBOUND (Off:0 Def:6),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288128,21601098,4,5:34,MISS Anthony 22' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288129,21601098,4,5:33,nan,Baynes REBOUND (Off:3 Def:5),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288130,21601098,4,5:24,nan,Leuer 1' Reverse Layup (8 PTS) (Smith 5 AST),85 - 94,202720,Jon Leuer,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+288131,21601098,4,5:05,MISS O'Quinn 3' Layup,nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288132,21601098,4,5:04,O'Quinn REBOUND (Off:2 Def:4),nan,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288133,21601098,4,5:03,nan,Baynes P.FOUL (P2.T2) (B.Forte),nan,203382,Aron Baynes,DET,203124,Kyle O'Quinn,NYK,0,nan,nan,Foul ,Personal
+288134,21601098,4,5:03,SUB: Hernangomez FOR O'Quinn,nan,nan,203124,Kyle O'Quinn,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Substitution ,nan
+288135,21601098,4,4:53,Rose 1' Layup (22 PTS) (Hernangomez 2 AST),nan,85 - 96,201565,Derrick Rose,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Made Shot ,nan
+288136,21601098,4,4:34,nan,MISS Smith 9' Jump Shot,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288137,21601098,4,4:33,Rose REBOUND (Off:0 Def:4),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288138,21601098,4,4:23,nan,Marc Morris P.FOUL (P5.T3) (D.Richardson),nan,202694,Marcus Morris,DET,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Personal
+288139,21601098,4,4:23,nan,SUB: Drummond FOR Baynes,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+288140,21601098,4,4:16,Porzingis  Dunk (25 PTS) (Rose 5 AST),nan,85 - 98,204001,Kristaps Porzingis,NYK,201565,Derrick Rose,NYK,0,nan,nan,Made Shot ,nan
+288141,21601098,4,4:00,Porzingis S.FOUL (P3.T2) (D.Richardson),nan,nan,204001,Kristaps Porzingis,NYK,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+288142,21601098,4,4:00,nan,Marc Morris Free Throw 1 of 2 (19 PTS),86 - 98,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+288143,21601098,4,4:00,nan,SUB: Harris FOR Leuer,nan,202720,Jon Leuer,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+288144,21601098,4,4:00,nan,SUB: Caldwell-Pope FOR Johnson,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+288145,21601098,4,4:00,nan,Marc Morris Free Throw 2 of 2 (20 PTS),87 - 98,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+288146,21601098,4,3:51,Hernangomez 1' Layup (11 PTS) (Rose 6 AST),nan,87 - 100,1626195,Willy Hernangomez,NYK,201565,Derrick Rose,NYK,0,nan,nan,Made Shot ,nan
+288147,21601098,4,3:51,nan,Harris S.FOUL (P3.T4) (D.Richardson),nan,202699,Tobias Harris,DET,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Shooting
+288148,21601098,4,3:51,Hernangomez Free Throw 1 of 1 (12 PTS),nan,87 - 101,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+288149,21601098,4,3:36,Lee STEAL (2 STL),Caldwell-Pope Lost Ball Turnover (P3.T19),nan,203484,Kentavious Caldwell-Pope,DET,201584,Courtney Lee,NYK,0,nan,nan,Turnover ,Lost Ball
+288150,21601098,4,3:21,MISS Hernangomez 21' Jump Shot,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288151,21601098,4,3:20,nan,Marc Morris REBOUND (Off:0 Def:1),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288152,21601098,4,3:14,nan,MISS Marc Morris 14' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288153,21601098,4,3:13,Lee REBOUND (Off:0 Def:7),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288154,21601098,4,2:57,Rose 19' Jump Shot (24 PTS) (Lee 2 AST),nan,87 - 103,201565,Derrick Rose,NYK,201584,Courtney Lee,NYK,0,nan,nan,Made Shot ,nan
+288155,21601098,4,2:57,nan,Smith S.FOUL (P1.PN) (B.Forte),nan,202397,Ish Smith,DET,201565,Derrick Rose,NYK,0,nan,nan,Foul ,Shooting
+288156,21601098,4,2:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+288157,21601098,4,2:57,Rose Free Throw 1 of 1 (25 PTS),nan,87 - 104,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+288158,21601098,4,2:46,nan,MISS Caldwell-Pope 2' Driving Finger Roll Layup,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288159,21601098,4,2:45,nan,Drummond REBOUND (Off:4 Def:10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288160,21601098,4,2:44,Porzingis S.FOUL (P4.T3) (M.Callahan),nan,nan,204001,Kristaps Porzingis,NYK,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+288161,21601098,4,2:44,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+288162,21601098,4,2:44,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+288163,21601098,4,2:44,nan,MISS Drummond Free Throw 2 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+288164,21601098,4,2:44,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288165,21601098,4,2:44,Hernangomez L.B.FOUL (P2.T4) (D.Richardson),nan,nan,1626195,Willy Hernangomez,NYK,202694,Marcus Morris,DET,0,nan,nan,Foul ,Loose Ball
+288166,21601098,4,2:40,Lee S.FOUL (P2.PN) (M.Callahan),nan,nan,201584,Courtney Lee,NYK,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+288167,21601098,4,2:40,nan,Caldwell-Pope Free Throw 1 of 3 (7 PTS),88 - 104,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+288168,21601098,4,2:40,nan,Caldwell-Pope Free Throw 2 of 3 (8 PTS),89 - 104,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+288169,21601098,4,2:40,nan,Caldwell-Pope Free Throw 3 of 3 (9 PTS),90 - 104,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+288170,21601098,4,2:25,Hernangomez 2' Driving Layup (14 PTS),nan,90 - 106,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+288171,21601098,4,2:15,nan,Smith 13' Floating Jump Shot (15 PTS),92 - 106,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+288172,21601098,4,1:51,Rose 20' Jump Bank Shot (27 PTS) (Lee 3 AST),nan,92 - 108,201565,Derrick Rose,NYK,201584,Courtney Lee,NYK,0,nan,nan,Made Shot ,nan
+288173,21601098,4,1:44,nan,Caldwell-Pope 21' Jump Shot (11 PTS),94 - 108,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+288174,21601098,4,1:44,Lee S.FOUL (P3.PN) (B.Forte),nan,nan,201584,Courtney Lee,NYK,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+288175,21601098,4,1:44,nan,Caldwell-Pope Free Throw 1 of 1 (12 PTS),95 - 108,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+288176,21601098,4,1:20,KNICKS Turnover: Shot Clock (T#12),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+288177,21601098,4,1:20,SUB: Baker FOR Rose,nan,nan,201565,Derrick Rose,NYK,1627758,Ron Baker,NYK,0,nan,nan,Substitution ,nan
+288178,21601098,4,1:20,SUB: Kuzminskas FOR Anthony,nan,nan,2546,Carmelo Anthony,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Substitution ,nan
+288179,21601098,4,1:10,nan,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288180,21601098,4,1:09,nan,Drummond REBOUND (Off:5 Def:10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288181,21601098,4,1:08,Porzingis S.FOUL (P5.PN) (M.Callahan),nan,nan,204001,Kristaps Porzingis,NYK,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+288182,21601098,4,1:08,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+288183,21601098,4,1:08,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+288184,21601098,4,1:08,nan,MISS Drummond Free Throw 2 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+288185,21601098,4,1:07,nan,Caldwell-Pope REBOUND (Off:1 Def:1),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288186,21601098,4,1:07,nan,MISS Caldwell-Pope 1' Tip Layup Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288187,21601098,4,1:06,Porzingis REBOUND (Off:0 Def:8),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288188,21601098,4,1:01,nan,Marc Morris S.FOUL (P6.PN) (B.Forte),nan,202694,Marcus Morris,DET,1626195,Willy Hernangomez,NYK,0,nan,nan,Foul ,Shooting
+288189,21601098,4,1:01,nan,SUB: Johnson FOR Marc Morris,nan,202694,Marcus Morris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+288190,21601098,4,1:01,MISS Hernangomez Free Throw 1 of 2,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+288191,21601098,4,1:01,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+288192,21601098,4,1:01,SUB: Ndour FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,1626254,Maurice Ndour,NYK,0,nan,nan,Substitution ,nan
+288193,21601098,4,1:01,SUB: Randle FOR Lee,nan,nan,201584,Courtney Lee,NYK,1626184,Chasson Randle,NYK,0,nan,nan,Substitution ,nan
+288194,21601098,4,1:01,SUB: Vujacic FOR Kuzminskas,nan,nan,1627851,Mindaugas Kuzminskas,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Substitution ,nan
+288195,21601098,4,1:01,nan,SUB: Marjanovic FOR Harris,nan,202699,Tobias Harris,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+288196,21601098,4,1:01,nan,SUB: Udrih FOR Drummond,nan,203083,Andre Drummond,DET,2757,Beno Udrih,DET,0,nan,nan,Substitution ,nan
+288197,21601098,4,1:01,nan,SUB: Ellenson FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,1627740,Henry Ellenson,DET,0,nan,nan,Substitution ,nan
+288198,21601098,4,1:01,nan,SUB: Hilliard FOR Smith,nan,202397,Ish Smith,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+288199,21601098,4,1:01,Hernangomez Free Throw 2 of 2 (15 PTS),nan,95 - 109,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+288200,21601098,4,1:01,nan,Pistons Timeout: Short (Reg.5 Short 2),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+288201,21601098,4,1:01,SUB: Plumlee FOR Hernangomez,nan,nan,1626195,Willy Hernangomez,NYK,1627850,Marshall Plumlee,NYK,0,nan,nan,Substitution ,nan
+288202,21601098,4,0:53,nan,MISS Johnson 25' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288203,21601098,4,0:51,Ndour REBOUND (Off:0 Def:1),nan,nan,1626254,Maurice Ndour,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288204,21601098,4,0:33,MISS Vujacic  3PT Jump Shot,nan,nan,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+288205,21601098,4,0:32,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+288206,21601098,4,0:26,nan,Ellenson Out of Bounds - Bad Pass Turnover Turnover (P1.T20),nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+288207,21601098,4,0:08,Randle Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,1626184,Chasson Randle,NYK,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+288208,21601098,4,0:00,nan,nan,95 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

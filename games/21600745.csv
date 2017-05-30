@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+245121,21600745,4,12:00,nan,nan,104 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+245122,21600745,4,11:45,MISS Bass 3' Layup,McAdoo BLOCK (1 BLK),nan,101138,Brandon Bass,LAC,0,nan,nan,203949,James Michael McAdoo,GSW,Missed Shot ,nan
+245123,21600745,4,11:43,nan,McAdoo REBOUND (Off:3 Def:3),nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245124,21600745,4,11:37,nan,Thompson 7' Floating Jump Shot (16 PTS),106 - 87,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+245125,21600745,4,11:15,Crawford 27' 3PT Jump Shot (15 PTS),nan,106 - 90,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+245126,21600745,4,10:44,nan,Clark 2' Driving Layup (9 PTS),108 - 90,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+245127,21600745,4,10:25,MISS Crawford 3' Layup,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245128,21600745,4,10:24,Speights REBOUND (Off:2 Def:2),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245129,21600745,4,10:24,nan,McAdoo S.FOUL (P2.T1) (K.Mauer),nan,203949,James Michael McAdoo,GSW,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Shooting
+245130,21600745,4,10:24,Speights Free Throw 1 of 2 (7 PTS),nan,108 - 91,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245131,21600745,4,10:24,Speights Free Throw 2 of 2 (8 PTS),nan,108 - 92,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245132,21600745,4,10:03,nan,Iguodala 26' 3PT Jump Shot (8 PTS) (Durant 10 AST),111 - 92,2738,Andre Iguodala,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+245133,21600745,4,9:51,Crawford Lost Ball Turnover (P3.T14),Iguodala STEAL (3 STL),nan,2037,Jamal Crawford,LAC,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Lost Ball
+245134,21600745,4,9:48,nan,Iguodala 2' Running Reverse Layup (10 PTS) (Clark 2 AST),113 - 92,2738,Andre Iguodala,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+245135,21600745,4,9:33,nan,McAdoo S.FOUL (P3.T2) (K.Cutler),nan,203949,James Michael McAdoo,GSW,101109,Raymond Felton,LAC,0,nan,nan,Foul ,Shooting
+245136,21600745,4,9:33,Felton Free Throw 1 of 2 (9 PTS),nan,113 - 93,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245137,21600745,4,9:33,SUB: Griffin FOR Speights,nan,nan,201578,Marreese Speights,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+245138,21600745,4,9:33,SUB: Redick FOR Bass,nan,nan,101138,Brandon Bass,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+245139,21600745,4,9:33,MISS Felton Free Throw 2 of 2,nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245140,21600745,4,9:30,nan,McAdoo REBOUND (Off:3 Def:4),nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245141,21600745,4,9:10,nan,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P2.T8),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+245142,21600745,4,8:51,Griffin  Driving Dunk (29 PTS),nan,113 - 95,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+245143,21600745,4,8:43,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+245144,21600745,4,8:28,Griffin STEAL (3 STL),Thompson Bad Pass Turnover (P2.T9),nan,202691,Klay Thompson,GSW,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Bad Pass
+245145,21600745,4,8:24,MISS Redick 25' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245146,21600745,4,8:22,Griffin REBOUND (Off:4 Def:3),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245147,21600745,4,8:22,MISS Griffin  Tip Layup Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245148,21600745,4,8:16,nan,Iguodala REBOUND (Off:1 Def:3),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245149,21600745,4,8:06,Redick BLOCK (1 BLK),MISS Durant 10' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,200755,JJ Redick,LAC,Missed Shot ,nan
+245150,21600745,4,8:06,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245151,21600745,4,7:57,nan,McAdoo  Dunk (10 PTS) (Clark 3 AST),115 - 95,203949,James Michael McAdoo,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+245152,21600745,4,7:40,nan,Clark S.FOUL (P1.T3) (K.Cutler),nan,203546,Ian Clark,GSW,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+245153,21600745,4,7:40,Rivers Free Throw 1 of 2 (7 PTS),nan,115 - 96,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245154,21600745,4,7:40,MISS Rivers Free Throw 2 of 2,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245155,21600745,4,7:39,nan,Durant REBOUND (Off:0 Def:8),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245156,21600745,4,7:18,nan,MISS Clark 9' Pullup Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245157,21600745,4,7:18,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245158,21600745,4,7:12,nan,MISS Durant 26' 3PT Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245159,21600745,4,7:10,nan,McAdoo REBOUND (Off:4 Def:4),nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245160,21600745,4,7:06,nan,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P3.T10),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+245161,21600745,4,7:02,nan,McAdoo S.FOUL (P4.T4) (K.Mauer),nan,203949,James Michael McAdoo,GSW,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+245162,21600745,4,7:02,Griffin Free Throw 1 of 2 (30 PTS),nan,115 - 97,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245163,21600745,4,7:02,nan,SUB: Curry FOR Thompson,nan,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+245164,21600745,4,7:02,nan,SUB: McCaw FOR Iguodala,nan,2738,Andre Iguodala,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+245165,21600745,4,7:02,Griffin Free Throw 2 of 2 (31 PTS),nan,115 - 98,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245166,21600745,4,6:46,Griffin BLOCK (1 BLK),MISS McAdoo 4' Jump Shot,nan,203949,James Michael McAdoo,GSW,0,nan,nan,201933,Blake Griffin,LAC,Missed Shot ,nan
+245167,21600745,4,6:43,Redick REBOUND (Off:0 Def:2),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245168,21600745,4,6:39,MISS Redick 2' Driving Layup,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245169,21600745,4,6:34,Griffin REBOUND (Off:5 Def:3),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245170,21600745,4,6:34,MISS Rivers 1' Driving Layup,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245171,21600745,4,6:34,Rivers REBOUND (Off:1 Def:3),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245172,21600745,4,6:34,nan,Clark S.FOUL (P2.PN) (K.Cutler),nan,203546,Ian Clark,GSW,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+245173,21600745,4,6:34,Rivers Free Throw 1 of 2 (8 PTS),nan,115 - 99,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245174,21600745,4,6:34,SUB: Bass FOR Griffin,nan,nan,201933,Blake Griffin,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+245175,21600745,4,6:34,SUB: W. Johnson FOR Felton,nan,nan,101109,Raymond Felton,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+245176,21600745,4,6:34,Rivers Free Throw 2 of 2 (9 PTS),nan,115 - 100,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245177,21600745,4,6:16,nan,Curry 3' Cutting Layup Shot (26 PTS) (Clark 4 AST),117 - 100,201939,Stephen Curry,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+245178,21600745,4,5:58,MISS W. Johnson 9' Pullup Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245179,21600745,4,5:56,nan,McAdoo REBOUND (Off:4 Def:5),nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245180,21600745,4,5:39,nan,Clark 3' Cutting Layup Shot (11 PTS) (Curry 9 AST),119 - 100,203546,Ian Clark,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+245181,21600745,4,5:28,Crawford 28' 3PT Pullup Jump Shot (18 PTS),nan,119 - 103,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+245182,21600745,4,5:14,nan,Curry 27' 3PT Pullup Jump Shot (29 PTS),122 - 103,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+245183,21600745,4,5:02,Bass 19' Jump Shot (4 PTS) (Rivers 5 AST),nan,122 - 105,101138,Brandon Bass,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+245184,21600745,4,4:46,Redick STEAL (2 STL),Curry Bad Pass Turnover (P4.T11),nan,201939,Stephen Curry,GSW,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Bad Pass
+245185,21600745,4,4:40,Bass 3' Floating Jump Shot (6 PTS) (Redick 3 AST),nan,122 - 107,101138,Brandon Bass,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+245186,21600745,4,4:40,nan,Durant S.FOUL (P3.PN) (M.Smith),nan,201142,Kevin Durant,GSW,101138,Brandon Bass,LAC,0,nan,nan,Foul ,Shooting
+245187,21600745,4,4:40,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+245188,21600745,4,4:40,SUB: Speights FOR Redick,nan,nan,200755,JJ Redick,LAC,201578,Marreese Speights,LAC,0,nan,nan,Substitution ,nan
+245189,21600745,4,4:40,nan,SUB: Thompson FOR Durant,nan,201142,Kevin Durant,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+245190,21600745,4,4:40,nan,SUB: Looney FOR Clark,nan,203546,Ian Clark,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+245191,21600745,4,4:40,nan,SUB: Iguodala FOR McAdoo,nan,203949,James Michael McAdoo,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+245192,21600745,4,4:40,Bass Free Throw 1 of 1 (7 PTS),nan,122 - 108,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+245193,21600745,4,4:27,Bass P.FOUL (P2.T1) (M.Smith),nan,nan,101138,Brandon Bass,LAC,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+245194,21600745,4,4:16,nan,MISS Iguodala 26' 3PT Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245195,21600745,4,4:15,Crawford REBOUND (Off:0 Def:2),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245196,21600745,4,4:11,Crawford Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+245197,21600745,4,3:56,nan,Thompson 2' Driving Layup (18 PTS),124 - 108,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+245198,21600745,4,3:42,MISS Speights 26' 3PT Jump Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245199,21600745,4,3:41,nan,Looney REBOUND (Off:2 Def:1),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245200,21600745,4,3:27,nan,MISS Curry 26' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245201,21600745,4,3:26,Speights REBOUND (Off:2 Def:3),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245202,21600745,4,3:22,Rivers 2' Running Layup (11 PTS) (Speights 2 AST),nan,124 - 110,203085,Austin Rivers,LAC,201578,Marreese Speights,LAC,0,nan,nan,Made Shot ,nan
+245203,21600745,4,3:08,nan,MISS Curry 19' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245204,21600745,4,3:06,Speights REBOUND (Off:2 Def:4),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245205,21600745,4,2:58,Rivers 3' Driving Layup (13 PTS),nan,124 - 112,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+245206,21600745,4,2:37,CLIPPERS Timeout: Regular (Full 3 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+245207,21600745,4,2:37,nan,SUB: Durant FOR Looney,nan,1626172,Kevon Looney,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+245208,21600745,4,2:35,W. Johnson STEAL (1 STL),McCaw Bad Pass Turnover (P1.T12),nan,1627775,Patrick McCaw,GSW,202325,Wesley Johnson,LAC,0,nan,nan,Turnover ,Bad Pass
+245209,21600745,4,2:31,Rivers  Running Dunk (15 PTS) (Speights 3 AST),nan,124 - 114,203085,Austin Rivers,LAC,201578,Marreese Speights,LAC,0,nan,nan,Made Shot ,nan
+245210,21600745,4,2:13,Crawford BLOCK (1 BLK),MISS Thompson 4' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,2037,Jamal Crawford,LAC,Missed Shot ,nan
+245211,21600745,4,2:12,Bass REBOUND (Off:0 Def:2),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245212,21600745,4,1:55,Crawford 26' 3PT Jump Shot (21 PTS) (Rivers 6 AST),nan,124 - 117,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+245213,21600745,4,1:35,nan,Durant 26' 3PT Jump Shot (26 PTS) (McCaw 6 AST),127 - 117,201142,Kevin Durant,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Made Shot ,nan
+245214,21600745,4,1:27,Rivers 2' Driving Finger Roll Layup (17 PTS),nan,127 - 119,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+245215,21600745,4,1:07,nan,Thompson 25' 3PT Jump Shot (21 PTS) (Curry 10 AST),130 - 119,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+245216,21600745,4,1:02,nan,Iguodala Personal Block Foul (P1.PN) (M.Smith),nan,2738,Andre Iguodala,GSW,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Personal Block
+245217,21600745,4,1:02,MISS Rivers Free Throw 1 of 2,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+245218,21600745,4,1:02,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+245219,21600745,4,1:02,SUB: Mbah a Moute FOR Speights,nan,nan,201578,Marreese Speights,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+245220,21600745,4,1:02,Rivers Free Throw 2 of 2 (18 PTS),nan,130 - 120,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+245221,21600745,4,0:40,nan,MISS Thompson 25' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245222,21600745,4,0:39,Mbah a Moute REBOUND (Off:0 Def:2),nan,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245223,21600745,4,0:32,MISS Crawford 27' 3PT Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245224,21600745,4,0:30,nan,Thompson REBOUND (Off:3 Def:3),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245225,21600745,4,0:26,Mbah a Moute Personal Take Foul (P1.T2) (K.Cutler),nan,nan,201601,Luc Mbah a Moute,LAC,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal Take
+245226,21600745,4,0:26,nan,SUB: Looney FOR Durant,nan,201142,Kevin Durant,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+245227,21600745,4,0:11,nan,Iguodala 26' 3PT Jump Shot (13 PTS) (Curry 11 AST),133 - 120,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+245228,21600745,4,0:04,MISS Rivers 20' Pullup Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+245229,21600745,4,0:00,nan,Thompson REBOUND (Off:3 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+245230,21600745,4,0:00,nan,nan,133 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

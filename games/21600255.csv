@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+184879,21600255,4,12:00,nan,nan,88 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+184880,21600255,4,11:50,Lee P.FOUL (P2.T1) (T.Washington),nan,nan,201584,Courtney Lee,NYK,201627,Anthony Morrow,OKC,0,nan,nan,Foul ,Personal
+184881,21600255,4,11:41,nan,MISS Lauvergne 18' Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184882,21600255,4,11:40,Holiday REBOUND (Off:0 Def:3),nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184883,21600255,4,11:17,MISS Porzingis 20' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184884,21600255,4,11:16,nan,Christon REBOUND (Off:0 Def:1),nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184885,21600255,4,11:03,nan,Morrow 25' 3PT Jump Shot (14 PTS) (Christon 4 AST),91 - 81,201627,Anthony Morrow,OKC,203902,Semaj Christon,OKC,0,nan,nan,Made Shot ,nan
+184886,21600255,4,10:46,MISS Hernangomez 6' Hook Shot,nan,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184887,21600255,4,10:44,nan,Kanter REBOUND (Off:3 Def:3),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184888,21600255,4,10:32,Porzingis S.FOUL (P2.T2) (T.Washington),nan,nan,204001,Kristaps Porzingis,NYK,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Shooting
+184889,21600255,4,10:32,nan,MISS Grant Free Throw 1 of 2,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184890,21600255,4,10:32,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184891,21600255,4,10:32,nan,MISS Grant Free Throw 2 of 2,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184892,21600255,4,10:31,Holiday REBOUND (Off:0 Def:4),nan,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184893,21600255,4,10:14,MISS Porzingis 12' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184894,21600255,4,10:13,nan,Lauvergne REBOUND (Off:0 Def:4),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184895,21600255,4,10:06,nan,Kanter Traveling Turnover (P1.T10),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+184896,21600255,4,9:46,MISS Lee 8' Jump Shot,nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184897,21600255,4,9:46,nan,Kanter REBOUND (Off:3 Def:4),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184898,21600255,4,9:28,nan,Lauvergne Out of Bounds - Bad Pass Turnover Turnover (P1.T11),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+184899,21600255,4,9:28,SUB: Rose FOR Jennings,nan,nan,201943,Brandon Jennings,NYK,201565,Derrick Rose,NYK,0,nan,nan,Substitution ,nan
+184900,21600255,4,9:05,Rose 19' Jump Shot (26 PTS),nan,91 - 83,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+184901,21600255,4,8:52,nan,MISS Lauvergne 19' Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184902,21600255,4,8:52,nan,Kanter REBOUND (Off:4 Def:4),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184903,21600255,4,8:50,nan,Kanter 1' Layup (21 PTS),93 - 83,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184904,21600255,4,8:32,Porzingis 17' Jump Shot (16 PTS) (Hernangomez 3 AST),nan,93 - 85,204001,Kristaps Porzingis,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Made Shot ,nan
+184905,21600255,4,8:16,Hernangomez STEAL (2 STL),Grant Bad Pass Turnover (P2.T12),nan,203924,Jerami Grant,OKC,1626195,Willy Hernangomez,NYK,0,nan,nan,Turnover ,Bad Pass
+184906,21600255,4,8:12,Hernangomez 2' Driving Layup (8 PTS),nan,93 - 87,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+184907,21600255,4,8:12,nan,Thunder Timeout: Regular (Reg.4 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184908,21600255,4,8:12,SUB: Noah FOR Hernangomez,nan,nan,1626195,Willy Hernangomez,NYK,201149,Joakim Noah,NYK,0,nan,nan,Substitution ,nan
+184909,21600255,4,8:12,nan,SUB: Westbrook FOR Kanter,nan,202683,Enes Kanter,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+184910,21600255,4,8:12,nan,SUB: Adams FOR Christon,nan,203902,Semaj Christon,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+184911,21600255,4,8:12,nan,SUB: Oladipo FOR Grant,nan,203924,Jerami Grant,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Substitution ,nan
+184912,21600255,4,7:53,nan,Oladipo 14' Jump Shot (8 PTS),95 - 87,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184913,21600255,4,7:31,Rose 9' Fadeaway Jumper (28 PTS),nan,95 - 89,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+184914,21600255,4,7:18,Porzingis BLOCK (5 BLK),MISS Adams 3' Jump Shot,nan,203500,Steven Adams,OKC,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+184915,21600255,4,7:17,nan,Adams REBOUND (Off:3 Def:5),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184916,21600255,4,7:12,nan,Adams  Dunk (14 PTS) (Lauvergne 1 AST),97 - 89,203500,Steven Adams,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Made Shot ,nan
+184917,21600255,4,6:53,MISS Rose 1' Layup,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184918,21600255,4,6:52,Rose REBOUND (Off:2 Def:3),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184919,21600255,4,6:52,Rose 2' Tip Layup Shot (30 PTS),nan,97 - 91,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+184920,21600255,4,6:41,nan,Westbrook 13' Pullup Jump Shot (23 PTS),99 - 91,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184921,21600255,4,6:25,MISS Rose 5' Jump Shot,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184922,21600255,4,6:25,nan,Lauvergne REBOUND (Off:0 Def:5),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184923,21600255,4,6:13,Noah STEAL (1 STL),Adams Lost Ball Turnover (P1.T13),nan,203500,Steven Adams,OKC,201149,Joakim Noah,NYK,0,nan,nan,Turnover ,Lost Ball
+184924,21600255,4,6:04,Porzingis 24' 3PT Jump Shot (19 PTS) (Rose 4 AST),nan,99 - 94,204001,Kristaps Porzingis,NYK,201565,Derrick Rose,NYK,0,nan,nan,Made Shot ,nan
+184925,21600255,4,5:46,nan,MISS Morrow 25' 3PT Jump Shot,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184926,21600255,4,5:45,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184927,21600255,4,5:45,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+184928,21600255,4,5:45,SUB: Anthony FOR Holiday,nan,nan,203200,Justin Holiday,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+184929,21600255,4,5:45,nan,SUB: Kanter FOR Lauvergne,nan,203530,Joffrey Lauvergne,OKC,202683,Enes Kanter,OKC,0,nan,nan,Substitution ,nan
+184930,21600255,4,5:45,nan,SUB: Roberson FOR Morrow,nan,201627,Anthony Morrow,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+184931,21600255,4,5:39,nan,MISS Westbrook 16' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184932,21600255,4,5:39,Lee REBOUND (Off:0 Def:2),nan,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184933,21600255,4,5:18,Porzingis  Driving Dunk (21 PTS) (Anthony 2 AST),nan,99 - 96,204001,Kristaps Porzingis,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+184934,21600255,4,5:06,nan,MISS Westbrook 16' Pullup Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184935,21600255,4,5:04,nan,Adams REBOUND (Off:4 Def:5),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184936,21600255,4,4:52,Noah S.FOUL (P5.T3) (S.Twardoski),nan,nan,201149,Joakim Noah,NYK,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Shooting
+184937,21600255,4,4:52,nan,Westbrook Free Throw 1 of 2 (24 PTS),100 - 96,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184938,21600255,4,4:52,nan,Westbrook Free Throw 2 of 2 (25 PTS),101 - 96,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184939,21600255,4,4:37,MISS Porzingis 25' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184940,21600255,4,4:37,Anthony REBOUND (Off:1 Def:7),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184941,21600255,4,4:27,Lee 25' 3PT Jump Shot (13 PTS) (Noah 4 AST),nan,101 - 99,201584,Courtney Lee,NYK,201149,Joakim Noah,NYK,0,nan,nan,Made Shot ,nan
+184942,21600255,4,4:11,Noah BLOCK (4 BLK),MISS Westbrook 2' Layup,nan,201566,Russell Westbrook,OKC,0,nan,nan,201149,Joakim Noah,NYK,Missed Shot ,nan
+184943,21600255,4,4:09,Rose REBOUND (Off:2 Def:4),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184944,21600255,4,4:03,Rose Bad Pass Turnover (P1.T4),Westbrook STEAL (2 STL),nan,201565,Derrick Rose,NYK,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+184945,21600255,4,4:01,nan,Westbrook Step Out of Bounds Turnover (P7.T14),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+184946,21600255,4,3:54,MISS Rose 8' Jump Shot,Oladipo BLOCK (1 BLK),nan,201565,Derrick Rose,NYK,0,nan,nan,203506,Victor Oladipo,OKC,Missed Shot ,nan
+184947,21600255,4,3:53,nan,Westbrook REBOUND (Off:5 Def:11),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184948,21600255,4,3:47,nan,Roberson 24' 3PT Jump Shot (10 PTS) (Westbrook 14 AST),104 - 99,203460,Andre Roberson,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+184949,21600255,4,3:46,KNICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184950,21600255,4,3:34,nan,Roberson P.FOUL (P3.T1) (S.Twardoski),nan,203460,Andre Roberson,OKC,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal
+184951,21600255,4,3:26,nan,Kanter S.FOUL (P4.T2) (T.Washington),nan,202683,Enes Kanter,OKC,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+184952,21600255,4,3:26,Anthony Free Throw 1 of 2 (15 PTS),nan,104 - 100,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184953,21600255,4,3:26,Anthony Free Throw 2 of 2 (16 PTS),nan,104 - 101,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184954,21600255,4,3:13,nan,Westbrook 5' Jump Shot (27 PTS),106 - 101,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184955,21600255,4,2:58,Porzingis Bad Pass Turnover (P2.T5),Roberson STEAL (1 STL),nan,204001,Kristaps Porzingis,NYK,203460,Andre Roberson,OKC,0,nan,nan,Turnover ,Bad Pass
+184956,21600255,4,2:45,nan,MISS Westbrook 18' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184957,21600255,4,2:44,nan,Kanter REBOUND (Off:5 Def:4),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184958,21600255,4,2:44,nan,Kanter 1' Tip Layup Shot (23 PTS),108 - 101,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184959,21600255,4,2:19,MISS Rose 1' Layup,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184960,21600255,4,2:18,Noah REBOUND (Off:3 Def:0),nan,nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184961,21600255,4,2:18,MISS Noah 1' Tip Layup Shot,nan,nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184962,21600255,4,2:16,nan,Adams REBOUND (Off:4 Def:6),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184963,21600255,4,2:12,nan,Kanter 1' Layup (25 PTS) (Oladipo 4 AST),110 - 101,202683,Enes Kanter,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Made Shot ,nan
+184964,21600255,4,1:49,nan,Roberson S.FOUL (P4.T3) (J.Tiven),nan,203460,Andre Roberson,OKC,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+184965,21600255,4,1:49,Anthony Free Throw 1 of 2 (17 PTS),nan,110 - 102,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184966,21600255,4,1:49,Anthony Free Throw 2 of 2 (18 PTS),nan,110 - 103,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184967,21600255,4,1:37,Anthony BLOCK (1 BLK),MISS Kanter  Layup,nan,202683,Enes Kanter,OKC,0,nan,nan,2546,Carmelo Anthony,NYK,Missed Shot ,nan
+184968,21600255,4,1:36,nan,Roberson REBOUND (Off:1 Def:2),nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184969,21600255,4,1:36,nan,MISS Roberson 1' Putback Layup,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184970,21600255,4,1:35,nan,Kanter REBOUND (Off:6 Def:4),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184971,21600255,4,1:34,nan,Kanter 1' Tip Layup Shot (27 PTS),112 - 103,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+184972,21600255,4,1:34,KNICKS Timeout: Short (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+184973,21600255,4,1:23,MISS Anthony 1' Layup,Kanter BLOCK (3 BLK),nan,2546,Carmelo Anthony,NYK,0,nan,nan,202683,Enes Kanter,OKC,Missed Shot ,nan
+184974,21600255,4,1:22,Jump Ball Anthony vs. Roberson: Tip to Adams,nan,nan,2546,Carmelo Anthony,NYK,203460,Andre Roberson,OKC,203500,Steven Adams,OKC,Jump Ball ,nan
+184975,21600255,4,1:22,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184976,21600255,4,1:01,nan,MISS Westbrook 4' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184977,21600255,4,1:00,Rose REBOUND (Off:2 Def:5),nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184978,21600255,4,0:51,MISS Rose 24' 3PT Jump Shot,nan,nan,201565,Derrick Rose,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184979,21600255,4,0:51,nan,Westbrook REBOUND (Off:5 Def:12),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184980,21600255,4,0:29,nan,MISS Westbrook 4' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184981,21600255,4,0:29,Anthony REBOUND (Off:1 Def:8),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184982,21600255,4,0:20,MISS Anthony 26' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184983,21600255,4,0:19,nan,Oladipo REBOUND (Off:0 Def:4),nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184984,21600255,4,0:00,nan,nan,112 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

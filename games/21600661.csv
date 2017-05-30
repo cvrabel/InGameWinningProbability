@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+234744,21600661,4,12:00,nan,nan,92 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+234745,21600661,4,11:36,nan,Iguodala  3PT Jump Shot (5 PTS) (Green 4 AST),95 - 74,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+234746,21600661,4,11:17,MISS Gordon 24' 3PT Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234747,21600661,4,11:17,nan,Iguodala REBOUND (Off:0 Def:4),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234748,21600661,4,11:14,nan,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P2.T15),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+234749,21600661,4,11:05,MISS Hezonja 26' 3PT Pullup Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234750,21600661,4,11:04,nan,Iguodala REBOUND (Off:0 Def:5),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234751,21600661,4,10:54,Gordon P.FOUL (P3.T1) (S.Foster),nan,nan,203932,Aaron Gordon,ORL,201580,JaVale McGee,GSW,0,nan,nan,Foul ,Personal
+234752,21600661,4,10:50,nan,MISS Thompson 17' Step Back Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234753,21600661,4,10:49,nan,McCaw REBOUND (Off:1 Def:0),nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234754,21600661,4,10:49,nan,McCaw  Tip Dunk Shot (2 PTS),97 - 74,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+234755,21600661,4,10:34,nan,McGee S.FOUL (P1.T1) (S.Foster),nan,201580,JaVale McGee,GSW,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Shooting
+234756,21600661,4,10:34,Biyombo Free Throw 1 of 2 (7 PTS),nan,97 - 75,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234757,21600661,4,10:34,MISS Biyombo Free Throw 2 of 2,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234758,21600661,4,10:32,nan,Green REBOUND (Off:4 Def:5),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234759,21600661,4,10:20,nan,MISS Iguodala 24' 3PT Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234760,21600661,4,10:20,Biyombo REBOUND (Off:2 Def:5),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234761,21600661,4,10:16,nan,Green P.FOUL (P3.T2) (S.Foster),nan,203110,Draymond Green,GSW,201145,Jeff Green,ORL,0,nan,nan,Foul ,Personal
+234762,21600661,4,10:14,Hezonja Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+234763,21600661,4,9:58,nan,MISS Thompson  3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234764,21600661,4,9:58,Biyombo REBOUND (Off:2 Def:6),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234765,21600661,4,9:46,Green Bad Pass Turnover (P2.T10),Iguodala STEAL (1 STL),nan,201145,Jeff Green,ORL,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Bad Pass
+234766,21600661,4,9:37,nan,MISS Green 26' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234767,21600661,4,9:37,Green REBOUND (Off:2 Def:1),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234768,21600661,4,9:13,MISS Biyombo 16' Turnaround Jump Shot,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234769,21600661,4,9:12,nan,Iguodala REBOUND (Off:0 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234770,21600661,4,9:01,nan,McGee  Dunk (10 PTS) (Iguodala 4 AST),99 - 75,201580,JaVale McGee,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+234771,21600661,4,9:01,MAGIC Timeout: Regular (Full 4 Short 2),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234772,21600661,4,9:01,SUB: Vucevic FOR Biyombo,nan,nan,202687,Bismack Biyombo,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+234773,21600661,4,9:01,SUB: Payton FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+234774,21600661,4,8:51,MISS Payton 7' Floating Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234775,21600661,4,8:51,nan,Green REBOUND (Off:4 Def:6),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234776,21600661,4,8:35,nan,McGee  Alley Oop Dunk (12 PTS) (Thompson 1 AST),101 - 75,201580,JaVale McGee,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+234777,21600661,4,8:22,MISS Watson 17' Pullup Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234778,21600661,4,8:22,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234779,21600661,4,8:22,Green L.B.FOUL (P1.T2) (S.Foster),nan,nan,201145,Jeff Green,ORL,203110,Draymond Green,GSW,0,nan,nan,Foul ,Loose Ball
+234780,21600661,4,8:06,nan,MISS Thompson 16' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234781,21600661,4,8:05,nan,McGee REBOUND (Off:3 Def:1),nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234782,21600661,4,8:05,Vucevic S.FOUL (P2.T3) (S.Anderson),nan,nan,202696,Nikola Vucevic,ORL,201580,JaVale McGee,GSW,0,nan,nan,Foul ,Shooting
+234783,21600661,4,8:05,nan,MISS McGee Free Throw 1 of 2,nan,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234784,21600661,4,8:05,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+234785,21600661,4,8:05,nan,McGee Free Throw 2 of 2 (13 PTS),102 - 75,201580,JaVale McGee,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234786,21600661,4,7:46,Payton 1' Driving Reverse Layup (18 PTS),nan,102 - 77,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+234787,21600661,4,7:24,nan,SUB: Jones FOR McGee,nan,201580,JaVale McGee,GSW,1627745,Damian Jones,GSW,0,nan,nan,Substitution ,nan
+234788,21600661,4,7:24,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234789,21600661,4,7:20,nan,McCaw 25' 3PT Pullup Jump Shot (5 PTS) (Iguodala 5 AST),105 - 77,1627775,Patrick McCaw,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+234790,21600661,4,7:01,nan,Iguodala Violation:Defensive Goaltending (S.Anderson),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+234791,21600661,4,7:01,Payton 2' Driving Finger Roll Layup (20 PTS),nan,105 - 79,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+234792,21600661,4,6:42,nan,MISS Jones 1' Layup,nan,1627745,Damian Jones,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234793,21600661,4,6:42,Vucevic REBOUND (Off:1 Def:3),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234794,21600661,4,6:36,Green 25' 3PT Running Jump Shot (12 PTS) (Payton 10 AST),nan,105 - 82,201145,Jeff Green,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+234795,21600661,4,6:17,nan,Jones OFF.Foul (P1) (S.Foster),nan,1627745,Damian Jones,GSW,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Offensive
+234796,21600661,4,6:17,nan,Jones Foul Turnover (P1.T16),nan,1627745,Damian Jones,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+234797,21600661,4,6:04,Payton 25' 3PT Jump Shot (23 PTS) (Gordon 5 AST),nan,105 - 85,203901,Elfrid Payton,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+234798,21600661,4,5:46,nan,Thompson Out of Bounds - Bad Pass Turnover Turnover (P3.T17),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+234799,21600661,4,5:33,MISS Green 24' 3PT Jump Shot,nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234800,21600661,4,5:33,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234801,21600661,4,5:33,nan,SUB: Durant FOR Green,nan,203110,Draymond Green,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+234802,21600661,4,5:10,Vucevic STEAL (2 STL),Iguodala Bad Pass Turnover (P3.T18),nan,2738,Andre Iguodala,GSW,202696,Nikola Vucevic,ORL,0,nan,nan,Turnover ,Bad Pass
+234803,21600661,4,5:04,Payton Bad Pass Turnover (P2.T11),Durant STEAL (3 STL),nan,203901,Elfrid Payton,ORL,201142,Kevin Durant,GSW,0,nan,nan,Turnover ,Bad Pass
+234804,21600661,4,4:58,nan,Thompson 27' 3PT Running Jump Shot (18 PTS) (Durant 6 AST),108 - 85,202691,Klay Thompson,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+234805,21600661,4,4:39,MISS Gordon 16' Fadeaway Jumper,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234806,21600661,4,4:39,nan,Jones REBOUND (Off:0 Def:1),nan,1627745,Damian Jones,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234807,21600661,4,4:29,nan,Thompson  3PT Jump Shot (21 PTS),111 - 85,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+234808,21600661,4,4:29,MAGIC Timeout: Regular (Full 5 Short 2),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+234809,21600661,4,4:29,SUB: Hezonja FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+234810,21600661,4,4:29,SUB: Rudez FOR Payton,nan,nan,203901,Elfrid Payton,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Substitution ,nan
+234811,21600661,4,4:29,SUB: Biyombo FOR Green,nan,nan,201145,Jeff Green,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+234812,21600661,4,4:29,SUB: Brown FOR Gordon,nan,nan,203932,Aaron Gordon,ORL,1626148,Anthony Brown,ORL,0,nan,nan,Substitution ,nan
+234813,21600661,4,4:27,nan,SUB: Clark FOR Durant,nan,201142,Kevin Durant,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+234814,21600661,4,4:27,nan,SUB: McAdoo FOR Thompson,nan,202691,Klay Thompson,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+234815,21600661,4,4:12,Hezonja Bad Pass Turnover (P2.T12),Jones STEAL (1 STL),nan,1626209,Mario Hezonja,ORL,1627745,Damian Jones,GSW,0,nan,nan,Turnover ,Bad Pass
+234816,21600661,4,3:58,nan,MISS McCaw 13' Pullup Jump Shot,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234817,21600661,4,3:56,Biyombo REBOUND (Off:2 Def:7),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234818,21600661,4,3:47,Biyombo 2' Layup (9 PTS) (Rudez 1 AST),nan,111 - 87,202687,Bismack Biyombo,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Made Shot ,nan
+234819,21600661,4,3:47,nan,McAdoo S.FOUL (P1.T3) (R.Garretson),nan,203949,James Michael McAdoo,GSW,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Shooting
+234820,21600661,4,3:47,Biyombo Free Throw 1 of 1 (10 PTS),nan,111 - 88,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+234821,21600661,4,3:33,Hezonja STEAL (2 STL),McCaw Bad Pass Turnover (P1.T19),nan,1627775,Patrick McCaw,GSW,1626209,Mario Hezonja,ORL,0,nan,nan,Turnover ,Bad Pass
+234822,21600661,4,3:31,nan,McCaw Violation:Defensive Goaltending (S.Foster),nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+234823,21600661,4,3:31,Hezonja 1' Running Layup (7 PTS),nan,111 - 90,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+234824,21600661,4,3:15,nan,MISS Iguodala 20' Pullup Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234825,21600661,4,3:15,Brown REBOUND (Off:0 Def:1),nan,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234826,21600661,4,2:56,MISS Rudez 25' 3PT Jump Shot,nan,nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234827,21600661,4,2:55,Biyombo REBOUND (Off:3 Def:7),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234828,21600661,4,2:50,MISS Hezonja 24' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234829,21600661,4,2:47,Brown REBOUND (Off:1 Def:1),nan,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234830,21600661,4,2:41,nan,Jones S.FOUL (P2.T4) (S.Anderson),nan,1627745,Damian Jones,GSW,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Shooting
+234831,21600661,4,2:41,Watson Free Throw 1 of 2 (9 PTS),nan,111 - 91,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234832,21600661,4,2:41,nan,SUB: Looney FOR Iguodala,nan,2738,Andre Iguodala,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+234833,21600661,4,2:41,Watson Free Throw 2 of 2 (10 PTS),nan,111 - 92,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234834,21600661,4,2:25,nan,MISS McCaw 2' Driving Layup,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234835,21600661,4,2:25,Biyombo REBOUND (Off:3 Def:8),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234836,21600661,4,2:18,MISS Watson 26' 3PT Running Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234837,21600661,4,2:16,nan,Looney REBOUND (Off:0 Def:2),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234838,21600661,4,2:05,nan,McCaw  3PT Jump Shot (8 PTS) (Clark 2 AST),114 - 92,1627775,Patrick McCaw,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+234839,21600661,4,1:46,MISS Brown 19' Pullup Jump Shot,nan,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234840,21600661,4,1:44,Brown REBOUND (Off:2 Def:1),nan,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234841,21600661,4,1:41,Brown 15' Pullup Jump Shot (2 PTS),nan,114 - 94,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+234842,21600661,4,1:28,nan,MISS McCaw 26' 3PT Jump Shot,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234843,21600661,4,1:26,Biyombo REBOUND (Off:3 Def:9),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234844,21600661,4,1:15,Biyombo 11' Turnaround Jump Shot (12 PTS) (Rudez 2 AST),nan,114 - 96,202687,Bismack Biyombo,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Made Shot ,nan
+234845,21600661,4,0:56,Biyombo BLOCK (3 BLK),MISS Clark 1' Layup,nan,203546,Ian Clark,GSW,0,nan,nan,202687,Bismack Biyombo,ORL,Missed Shot ,nan
+234846,21600661,4,0:56,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234847,21600661,4,0:54,Brown P.FOUL (P1.T4) (S.Anderson),nan,nan,1626148,Anthony Brown,ORL,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+234848,21600661,4,0:49,nan,Clark 11' Floating Jump Shot (7 PTS),116 - 96,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+234849,21600661,4,0:38,MISS Hezonja 18' Pullup Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+234850,21600661,4,0:37,Biyombo REBOUND (Off:4 Def:9),nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234851,21600661,4,0:37,nan,Looney S.FOUL (P2.PN) (S.Anderson),nan,1626172,Kevon Looney,GSW,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Shooting
+234852,21600661,4,0:37,MISS Biyombo Free Throw 1 of 2,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+234853,21600661,4,0:37,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+234854,21600661,4,0:37,MISS Biyombo Free Throw 2 of 2,nan,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+234855,21600661,4,0:36,nan,Looney REBOUND (Off:0 Def:3),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234856,21600661,4,0:31,nan,McCaw 1' Running Layup (10 PTS),118 - 96,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+234857,21600661,4,0:10,MISS Hezonja 2' Driving Reverse Layup,McAdoo BLOCK (1 BLK),nan,1626209,Mario Hezonja,ORL,0,nan,nan,203949,James Michael McAdoo,GSW,Missed Shot ,nan
+234858,21600661,4,0:10,Watson REBOUND (Off:1 Def:1),nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+234859,21600661,4,0:10,Watson 2' Tip Layup Shot (12 PTS),nan,118 - 98,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+234860,21600661,4,0:00,nan,nan,118 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

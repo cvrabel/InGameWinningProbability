@@ -1,0 +1,106 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+189345,21600290,4,12:00,nan,nan,99 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+189346,21600290,4,11:41,MISS Gallinari 14' Turnaround Jump Shot,nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189347,21600290,4,11:39,nan,Dekker REBOUND (Off:1 Def:2),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189348,21600290,4,11:20,nan,MISS Gordon 28' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189349,21600290,4,11:18,Faried REBOUND (Off:8 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189350,21600290,4,11:04,MISS Mudiay 25' 3PT Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189351,21600290,4,11:03,nan,Harrell REBOUND (Off:0 Def:2),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189352,21600290,4,10:56,Murray S.FOUL (P1.T1) (B.Taylor),nan,nan,1627750,Jamal Murray,DEN,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Shooting
+189353,21600290,4,10:56,nan,Gordon Free Throw 1 of 2 (15 PTS),100 - 84,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189354,21600290,4,10:56,nan,MISS Gordon Free Throw 2 of 2,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189355,21600290,4,10:54,Hernangomez REBOUND (Off:0 Def:2),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189356,21600290,4,10:32,MISS Mudiay 25' 3PT Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189357,21600290,4,10:31,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189358,21600290,4,10:27,MISS Murray 27' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189359,21600290,4,10:26,nan,Beverley REBOUND (Off:1 Def:2),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189360,21600290,4,10:23,nan,Dekker  Dunk (13 PTS) (Beverley 4 AST),102 - 84,1626155,Sam Dekker,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+189361,21600290,4,10:23,NUGGETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189362,21600290,4,10:23,SUB: Chandler FOR Murray,nan,nan,1627750,Jamal Murray,DEN,201163,Wilson Chandler,DEN,0,nan,nan,Substitution ,nan
+189363,21600290,4,10:23,SUB: Barton FOR Hernangomez,nan,nan,1627823,Juan Hernangomez,DEN,203115,Will Barton,DEN,0,nan,nan,Substitution ,nan
+189364,21600290,4,10:04,Gallinari 24' 3PT Jump Shot (13 PTS) (Barton 5 AST),nan,102 - 87,201568,Danilo Gallinari,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+189365,21600290,4,9:48,nan,Harrell 6' Driving Hook Shot (6 PTS) (Gordon 4 AST),104 - 87,1626149,Montrezl Harrell,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+189366,21600290,4,9:34,Chandler Lost Ball Turnover (P2.T16),Gordon STEAL (1 STL),nan,201163,Wilson Chandler,DEN,201569,Eric Gordon,HOU,0,nan,nan,Turnover ,Lost Ball
+189367,21600290,4,9:14,nan,Gordon 26' 3PT Jump Shot (18 PTS),107 - 87,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189368,21600290,4,9:14,NUGGETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189369,21600290,4,9:14,nan,SUB: Harden FOR Gordon,nan,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+189370,21600290,4,8:52,Gallinari 24' 3PT Step Back Jump Shot (16 PTS),nan,107 - 90,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189371,21600290,4,8:37,nan,Harrell 6' Running Jump Shot (8 PTS),109 - 90,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189372,21600290,4,8:26,MISS Barton 3' Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189373,21600290,4,8:25,Faried REBOUND (Off:9 Def:2),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189374,21600290,4,8:21,Faried 2' Putback Layup (14 PTS),nan,109 - 92,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189375,21600290,4,8:02,nan,Dekker  Dunk (15 PTS) (Beverley 5 AST),111 - 92,1626155,Sam Dekker,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+189376,21600290,4,7:44,MISS Faried 5' Hook Shot,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189377,21600290,4,7:43,nan,Harrell REBOUND (Off:0 Def:3),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189378,21600290,4,7:36,Gallinari S.FOUL (P1.T2) (D.Crawford),nan,nan,201568,Danilo Gallinari,DEN,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting
+189379,21600290,4,7:36,nan,Beverley Free Throw 1 of 2 (9 PTS),112 - 92,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+189380,21600290,4,7:36,nan,SUB: Ariza FOR Harrell,nan,1626149,Montrezl Harrell,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+189381,21600290,4,7:36,nan,SUB: Capela FOR Brewer,nan,201147,Corey Brewer,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+189382,21600290,4,7:36,SUB: Nurkic FOR Faried,nan,nan,202702,Kenneth Faried,DEN,203994,Jusuf Nurkic,DEN,0,nan,nan,Substitution ,nan
+189383,21600290,4,7:36,SUB: Gee FOR Chandler,nan,nan,201163,Wilson Chandler,DEN,202087,Alonzo Gee,DEN,0,nan,nan,Substitution ,nan
+189384,21600290,4,7:36,nan,MISS Beverley Free Throw 2 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+189385,21600290,4,7:36,Gallinari REBOUND (Off:2 Def:3),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189386,21600290,4,7:20,MISS Barton 25' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189387,21600290,4,7:19,nan,Capela REBOUND (Off:2 Def:5),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189388,21600290,4,7:08,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189389,21600290,4,7:08,Barton REBOUND (Off:2 Def:4),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189390,21600290,4,7:03,Barton 7' Running Jump Shot (12 PTS),nan,112 - 94,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189391,21600290,4,6:37,nan,MISS Beverley 25' 3PT Step Back Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189392,21600290,4,6:35,Barton REBOUND (Off:2 Def:5),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189393,21600290,4,6:29,Barton 3' Running Layup (14 PTS),nan,112 - 96,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189394,21600290,4,6:06,nan,Beverley 6' Floating Jump Shot (11 PTS),114 - 96,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189395,21600290,4,5:56,Barton 26' 3PT Jump Shot (17 PTS) (Nurkic 1 AST),nan,114 - 99,203115,Will Barton,DEN,203994,Jusuf Nurkic,DEN,0,nan,nan,Made Shot ,nan
+189396,21600290,4,5:37,nan,Harden 14' Jump Shot (17 PTS),116 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189397,21600290,4,5:28,MISS Mudiay 26' 3PT Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189398,21600290,4,5:26,nan,Ariza REBOUND (Off:2 Def:5),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189399,21600290,4,5:21,nan,Capela  Dunk (13 PTS) (Harden 9 AST),118 - 99,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+189400,21600290,4,5:21,NUGGETS Timeout: Regular (Full 6 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+189401,21600290,4,5:21,nan,SUB: Anderson FOR Beverley,nan,201976,Patrick Beverley,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+189402,21600290,4,5:21,SUB: Nelson FOR Gallinari,nan,nan,201568,Danilo Gallinari,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+189403,21600290,4,5:05,MISS Mudiay 2' Driving Layup,Capela BLOCK (1 BLK),nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+189404,21600290,4,5:02,nan,Anderson REBOUND (Off:2 Def:3),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189405,21600290,4,4:52,Nurkic STEAL (2 STL),Harden Bad Pass Turnover (P5.T12),nan,201935,James Harden,HOU,203994,Jusuf Nurkic,DEN,0,nan,nan,Turnover ,Bad Pass
+189406,21600290,4,4:44,MISS Mudiay 25' 3PT Jump Shot,nan,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189407,21600290,4,4:43,nan,Anderson REBOUND (Off:2 Def:4),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189408,21600290,4,4:25,nan,Harden 26' 3PT Jump Shot (20 PTS),121 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189409,21600290,4,4:25,SUB: Arthur FOR Nurkic,nan,nan,203994,Jusuf Nurkic,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Substitution ,nan
+189410,21600290,4,4:25,SUB: Beasley FOR Barton,nan,nan,203115,Will Barton,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Substitution ,nan
+189411,21600290,4,4:25,SUB: Murray FOR Mudiay,nan,nan,1626144,Emmanuel Mudiay,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Substitution ,nan
+189412,21600290,4,4:25,nan,SUB: McDaniels FOR Dekker,nan,1626155,Sam Dekker,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+189413,21600290,4,4:03,Murray 2' Layup (2 PTS),nan,121 - 101,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189414,21600290,4,4:03,nan,Rockets Timeout: No Timeout (Reg.3 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,No Timeout
+189415,21600290,4,4:03,nan,SUB: Wiltjer FOR Ariza,nan,2772,Trevor Ariza,HOU,1627787,Kyle Wiltjer,HOU,0,nan,nan,Substitution ,nan
+189416,21600290,4,4:03,nan,SUB: Dekker FOR Anderson,nan,201583,Ryan Anderson,HOU,1626155,Sam Dekker,HOU,0,nan,nan,Substitution ,nan
+189417,21600290,4,4:03,SUB: Miller FOR Nelson,nan,nan,2749,Jameer Nelson,DEN,2034,Mike Miller,DEN,0,nan,nan,Substitution ,nan
+189418,21600290,4,4:03,SUB: Hernangomez FOR Gee,nan,nan,202087,Alonzo Gee,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Substitution ,nan
+189419,21600290,4,3:52,Murray P.FOUL (P2.T3) (L.Richardson),nan,nan,1627750,Jamal Murray,DEN,203909,KJ McDaniels,HOU,0,nan,nan,Foul ,Personal
+189420,21600290,4,3:52,nan,SUB: Ennis FOR Harden,nan,201935,James Harden,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Substitution ,nan
+189421,21600290,4,3:45,nan,Dekker  Reverse Dunk (17 PTS) (Capela 1 AST),123 - 101,1626155,Sam Dekker,HOU,203991,Clint Capela,HOU,0,nan,nan,Made Shot ,nan
+189422,21600290,4,3:25,MISS Hernangomez 24' 3PT Jump Shot,nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189423,21600290,4,3:24,nan,Wiltjer REBOUND (Off:0 Def:1),nan,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189424,21600290,4,3:05,nan,MISS McDaniels 7' Jump Shot,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189425,21600290,4,3:03,Arthur REBOUND (Off:2 Def:2),nan,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189426,21600290,4,2:53,MISS Murray 25' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189427,21600290,4,2:52,nan,Capela REBOUND (Off:2 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189428,21600290,4,2:42,nan,MISS Ennis 7' Jump Shot,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189429,21600290,4,2:41,Miller REBOUND (Off:0 Def:1),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189430,21600290,4,2:29,Beasley 26' 3PT Jump Shot (3 PTS) (Murray 1 AST),nan,123 - 104,1627736,Malik Beasley,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+189431,21600290,4,2:19,nan,MISS McDaniels 2' Reverse Layup,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189432,21600290,4,2:18,Hernangomez REBOUND (Off:0 Def:3),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189433,21600290,4,2:06,Arthur 2' Cutting Layup Shot (6 PTS) (Miller 1 AST),nan,123 - 106,201589,Darrell Arthur,DEN,2034,Mike Miller,DEN,0,nan,nan,Made Shot ,nan
+189434,21600290,4,1:49,nan,MISS Ennis 5' Jump Shot,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189435,21600290,4,1:48,Miller REBOUND (Off:0 Def:2),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189436,21600290,4,1:40,Arthur 18' Jump Shot (8 PTS) (Miller 2 AST),nan,123 - 108,201589,Darrell Arthur,DEN,2034,Mike Miller,DEN,0,nan,nan,Made Shot ,nan
+189437,21600290,4,1:29,nan,McDaniels  Driving Dunk (2 PTS),125 - 108,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189438,21600290,4,1:17,MISS Beasley 24' 3PT Jump Shot,nan,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189439,21600290,4,1:16,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189440,21600290,4,1:03,Beasley STEAL (1 STL),Ennis Bad Pass Turnover (P1.T13),nan,203898,Tyler Ennis,HOU,1627736,Malik Beasley,DEN,0,nan,nan,Turnover ,Bad Pass
+189441,21600290,4,1:01,Beasley  Dunk (5 PTS),nan,125 - 110,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+189442,21600290,4,0:44,nan,Wiltjer 25' 3PT Jump Shot (3 PTS),128 - 110,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+189443,21600290,4,0:34,MISS Hernangomez 2' Driving Layup,nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189444,21600290,4,0:33,nan,Capela REBOUND (Off:2 Def:7),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189445,21600290,4,0:09,nan,MISS Dekker 24' 3PT Jump Shot,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189446,21600290,4,0:08,Hernangomez REBOUND (Off:0 Def:4),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189447,21600290,4,0:00,MISS Murray 12' Running Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+189448,21600290,4,0:00,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+189449,21600290,4,0:00,nan,nan,128 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

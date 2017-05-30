@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+202811,21600399,4,12:00,nan,nan,69 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+202812,21600399,4,11:46,Grant P.FOUL (P2.T1) (J.Tiven),nan,nan,203924,Jerami Grant,OKC,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+202813,21600399,4,11:32,nan,MISS Barbosa 22' Pullup Jump Shot,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202814,21600399,4,11:31,Collison REBOUND (Off:0 Def:2),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202815,21600399,4,11:14,nan,Bender S.FOUL (P1.T1) (J.Tiven),nan,1627733,Dragan Bender,PHX,2555,Nick Collison,OKC,0,nan,nan,Foul ,Shooting
+202816,21600399,4,11:14,Collison Free Throw 1 of 2 (3 PTS),nan,69 - 90,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202817,21600399,4,11:14,MISS Collison Free Throw 2 of 2,nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202818,21600399,4,11:13,nan,Dudley REBOUND (Off:0 Def:3),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202819,21600399,4,11:04,Christon P.FOUL (P2.T2) (J.Tiven),nan,nan,203902,Semaj Christon,OKC,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal
+202820,21600399,4,11:00,Collison Violation:Defensive Goaltending (D.Taylor),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+202821,21600399,4,11:00,nan,Dudley 2' Layup (7 PTS),71 - 90,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202822,21600399,4,11:00,Abrines S.FOUL (P1.T3) (D.Taylor),nan,nan,203518,Alex Abrines,OKC,201162,Jared Dudley,PHX,0,nan,nan,Foul ,Shooting
+202823,21600399,4,11:00,nan,Dudley Free Throw 1 of 1 (8 PTS),72 - 90,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+202824,21600399,4,10:40,Collison 2' Reverse Layup (5 PTS),nan,72 - 92,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202825,21600399,4,10:28,nan,Knight 2' Driving Layup (2 PTS),74 - 92,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202826,21600399,4,10:28,Christon S.FOUL (P3.T4) (J.Tiven),nan,nan,203902,Semaj Christon,OKC,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+202827,21600399,4,10:28,nan,Knight Free Throw 1 of 1 (3 PTS),75 - 92,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+202828,21600399,4,10:18,nan,Dudley Violation:Kicked Ball (J.Tiven),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+202829,21600399,4,10:16,nan,Bender Shooting Block Foul (P2.T2) (J.Tiven),nan,1627733,Dragan Bender,PHX,202713,Kyle Singler,OKC,0,nan,nan,Foul ,Shooting Block
+202830,21600399,4,10:16,Singler Free Throw 1 of 2 (3 PTS),nan,75 - 93,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202831,21600399,4,10:16,Singler Free Throw 2 of 2 (4 PTS),nan,75 - 94,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202832,21600399,4,10:02,nan,Knight 25' 3PT Jump Shot (6 PTS) (Dudley 1 AST),78 - 94,202688,Brandon Knight,PHX,201162,Jared Dudley,PHX,0,nan,nan,Made Shot ,nan
+202833,21600399,4,9:41,MISS Grant 4' Turnaround Jump Shot,nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202834,21600399,4,9:39,Collison REBOUND (Off:1 Def:2),nan,nan,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202835,21600399,4,9:39,Collison 2' Layup (7 PTS),nan,78 - 96,2555,Nick Collison,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202836,21600399,4,9:31,nan,MISS Knight 1' Driving Layup,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202837,21600399,4,9:31,Christon REBOUND (Off:0 Def:4),nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202838,21600399,4,9:08,MISS Christon 18' Pullup Jump Shot,nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202839,21600399,4,9:08,nan,Bender REBOUND (Off:0 Def:1),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202840,21600399,4,8:59,nan,Knight 2' Driving Layup (8 PTS),80 - 96,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202841,21600399,4,8:44,Christon Out of Bounds - Bad Pass Turnover Turnover (P1.T10),nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+202842,21600399,4,8:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+202843,21600399,4,8:44,nan,SUB: Bledsoe FOR Warren,nan,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+202844,21600399,4,8:44,nan,SUB: Booker FOR Bender,nan,1627733,Dragan Bender,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+202845,21600399,4,8:44,SUB: Roberson FOR Collison,nan,nan,2555,Nick Collison,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+202846,21600399,4,8:44,SUB: Adams FOR Singler,nan,nan,202713,Kyle Singler,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+202847,21600399,4,8:44,SUB: Westbrook FOR Abrines,nan,nan,203518,Alex Abrines,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+202848,21600399,4,8:36,nan,Barbosa  Driving Layup (2 PTS),82 - 96,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202849,21600399,4,8:22,Westbrook 4' Driving Floating Jump Shot (25 PTS),nan,82 - 98,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202850,21600399,4,8:22,nan,Knight S.FOUL (P3.T3) (D.Taylor),nan,202688,Brandon Knight,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Shooting
+202851,21600399,4,8:22,Westbrook Free Throw 1 of 1 (26 PTS),nan,82 - 99,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+202852,21600399,4,8:12,nan,MISS Barbosa 1' Driving Layup,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202853,21600399,4,8:12,Westbrook REBOUND (Off:0 Def:10),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202854,21600399,4,8:05,Christon 3' Driving Layup (7 PTS) (Westbrook 18 AST),nan,82 - 101,203902,Semaj Christon,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+202855,21600399,4,7:47,Adams STEAL (2 STL),Dudley Bad Pass Turnover (P2.T15),nan,201162,Jared Dudley,PHX,203500,Steven Adams,OKC,0,nan,nan,Turnover ,Bad Pass
+202856,21600399,4,7:27,Westbrook Out of Bounds Lost Ball Turnover (P3.T11),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+202857,21600399,4,7:27,nan,SUB: Tucker FOR Barbosa,nan,2571,Leandro Barbosa,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+202858,21600399,4,7:27,nan,SUB: Chandler FOR Dudley,nan,201162,Jared Dudley,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+202859,21600399,4,7:20,Roberson P.FOUL (P3.PN) (J.Phillips),nan,nan,203460,Andre Roberson,OKC,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+202860,21600399,4,7:20,nan,Booker Free Throw 1 of 2 (27 PTS),83 - 101,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202861,21600399,4,7:20,nan,Booker Free Throw 2 of 2 (28 PTS),84 - 101,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202862,21600399,4,7:09,Adams  Reverse Layup (14 PTS) (Westbrook 19 AST),nan,84 - 103,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+202863,21600399,4,6:51,nan,Tucker 1' Reverse Layup (5 PTS) (Booker 5 AST),86 - 103,200782,PJ Tucker,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+202864,21600399,4,6:33,Westbrook Bad Pass Turnover (P4.T12),Booker STEAL (1 STL),nan,201566,Russell Westbrook,OKC,1626164,Devin Booker,PHX,0,nan,nan,Turnover ,Bad Pass
+202865,21600399,4,6:22,Roberson STEAL (3 STL),Booker Bad Pass Turnover (P5.T16),nan,1626164,Devin Booker,PHX,203460,Andre Roberson,OKC,0,nan,nan,Turnover ,Bad Pass
+202866,21600399,4,6:13,Adams 1' Reverse Layup (16 PTS) (Westbrook 20 AST),nan,86 - 105,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+202867,21600399,4,6:07,nan,Suns Timeout: Regular (Reg.5 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+202868,21600399,4,6:07,SUB: Morrow FOR Christon,nan,nan,203902,Semaj Christon,OKC,201627,Anthony Morrow,OKC,0,nan,nan,Substitution ,nan
+202869,21600399,4,6:04,Adams P.FOUL (P4.PN) (J.Phillips),nan,nan,203500,Steven Adams,OKC,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+202870,21600399,4,6:04,nan,Bledsoe Free Throw 1 of 2 (11 PTS),87 - 105,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202871,21600399,4,6:04,nan,Bledsoe Free Throw 2 of 2 (12 PTS),88 - 105,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202872,21600399,4,5:42,MISS Adams 1' Layup,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202873,21600399,4,5:42,nan,Chandler REBOUND (Off:2 Def:6),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202874,21600399,4,5:31,nan,MISS Booker 9' Pullup Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202875,21600399,4,5:31,Grant REBOUND (Off:0 Def:4),nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202876,21600399,4,5:25,Roberson  Cutting Dunk Shot (11 PTS) (Adams 2 AST),nan,88 - 107,203460,Andre Roberson,OKC,203500,Steven Adams,OKC,0,nan,nan,Made Shot ,nan
+202877,21600399,4,5:08,Westbrook STEAL (2 STL),Booker Bad Pass Turnover (P6.T17),nan,1626164,Devin Booker,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+202878,21600399,4,5:05,Westbrook Step Out of Bounds Turnover (P5.T13),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+202879,21600399,4,4:50,nan,MISS Tucker 3' Jump Shot,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202880,21600399,4,4:50,nan,Chandler REBOUND (Off:3 Def:6),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202881,21600399,4,4:50,nan,Chandler  Putback Dunk (10 PTS),90 - 107,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202882,21600399,4,4:25,MISS Westbrook 17' Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202883,21600399,4,4:25,nan,Bledsoe REBOUND (Off:0 Def:3),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202884,21600399,4,4:11,nan,MISS Knight 4' Floating Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202885,21600399,4,4:11,Westbrook REBOUND (Off:0 Def:11),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202886,21600399,4,4:05,Grant  Dunk (7 PTS) (Westbrook 21 AST),nan,90 - 109,203924,Jerami Grant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+202887,21600399,4,4:04,nan,Suns Timeout: Regular (Reg.6 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+202888,21600399,4,4:04,nan,SUB: Chriss FOR Tucker,nan,200782,PJ Tucker,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+202889,21600399,4,4:04,nan,SUB: Ulis FOR Chandler,nan,2199,Tyson Chandler,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+202890,21600399,4,4:04,nan,SUB: Bender FOR Bledsoe,nan,202339,Eric Bledsoe,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Substitution ,nan
+202891,21600399,4,4:04,nan,SUB: Warren FOR Knight,nan,202688,Brandon Knight,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+202892,21600399,4,3:45,nan,Ulis 1' Running Reverse Layup (2 PTS),92 - 109,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202893,21600399,4,3:34,nan,Warren S.FOUL (P1.T4) (J.Phillips),nan,203933,TJ Warren,PHX,203500,Steven Adams,OKC,0,nan,nan,Foul ,Shooting
+202894,21600399,4,3:34,MISS Adams Free Throw 1 of 2,nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202895,21600399,4,3:34,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202896,21600399,4,3:34,Adams Free Throw 2 of 2 (17 PTS),nan,92 - 110,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202897,21600399,4,3:18,nan,Booker 24' 3PT Jump Shot (31 PTS) (Ulis 1 AST),95 - 110,1626164,Devin Booker,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+202898,21600399,4,2:59,MISS Roberson 25' 3PT Jump Shot,nan,nan,203460,Andre Roberson,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202899,21600399,4,2:58,nan,Bender REBOUND (Off:0 Def:2),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202900,21600399,4,2:50,nan,MISS Booker 25' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202901,21600399,4,2:49,Adams REBOUND (Off:4 Def:3),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202902,21600399,4,2:33,Adams  Cutting Dunk Shot (19 PTS) (Westbrook 22 AST),nan,95 - 112,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+202903,21600399,4,2:26,Westbrook Personal Take Foul (P3.PN) (D.Taylor),nan,nan,201566,Russell Westbrook,OKC,1627755,Tyler Ulis,PHX,0,nan,nan,Foul ,Personal Take
+202904,21600399,4,2:26,nan,MISS Ulis Free Throw 1 of 2,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202905,21600399,4,2:26,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202906,21600399,4,2:26,nan,SUB: Williams FOR Booker,nan,1626164,Devin Booker,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+202907,21600399,4,2:26,SUB: Sabonis FOR Roberson,nan,nan,203460,Andre Roberson,OKC,1627734,Domantas Sabonis,OKC,0,nan,nan,Substitution ,nan
+202908,21600399,4,2:26,SUB: Christon FOR Adams,nan,nan,203500,Steven Adams,OKC,203902,Semaj Christon,OKC,0,nan,nan,Substitution ,nan
+202909,21600399,4,2:26,SUB: Singler FOR Westbrook,nan,nan,201566,Russell Westbrook,OKC,202713,Kyle Singler,OKC,0,nan,nan,Substitution ,nan
+202910,21600399,4,2:26,nan,Ulis Free Throw 2 of 2 (3 PTS),96 - 112,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202911,21600399,4,2:14,MISS Christon 13' Jump Shot,nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202912,21600399,4,2:14,nan,Chriss REBOUND (Off:3 Def:4),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202913,21600399,4,2:02,nan,Chriss Step Out of Bounds Turnover (P3.T18),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+202914,21600399,4,1:48,MISS Sabonis 2' Layup,Warren BLOCK (1 BLK),nan,1627734,Domantas Sabonis,OKC,0,nan,nan,203933,TJ Warren,PHX,Missed Shot ,nan
+202915,21600399,4,1:48,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202916,21600399,4,1:48,SUB: Abrines FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+202917,21600399,4,1:42,MISS Sabonis 20' Jump Shot,nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202918,21600399,4,1:42,nan,Bender REBOUND (Off:0 Def:3),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202919,21600399,4,1:29,Grant S.FOUL (P3.PN) (J.Tiven),nan,nan,203924,Jerami Grant,OKC,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Shooting
+202920,21600399,4,1:29,nan,MISS Chriss Free Throw 1 of 2,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202921,21600399,4,1:29,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202922,21600399,4,1:29,nan,Chriss Free Throw 2 of 2 (8 PTS),97 - 112,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202923,21600399,4,1:17,nan,Williams P.FOUL (P1.PN) (J.Phillips),nan,1626210,Alan Williams,PHX,1627734,Domantas Sabonis,OKC,0,nan,nan,Foul ,Personal
+202924,21600399,4,1:17,MISS Sabonis Free Throw 1 of 2,nan,nan,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202925,21600399,4,1:17,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202926,21600399,4,1:17,Sabonis Free Throw 2 of 2 (9 PTS),nan,97 - 113,1627734,Domantas Sabonis,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202927,21600399,4,1:03,nan,MISS Williams 6' Jump Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202928,21600399,4,1:02,nan,Williams REBOUND (Off:1 Def:0),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202929,21600399,4,1:01,nan,MISS Williams 2' Layup,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202930,21600399,4,1:00,nan,Williams REBOUND (Off:2 Def:0),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202931,21600399,4,1:00,nan,Williams 1' Tip Layup Shot (2 PTS),99 - 113,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202932,21600399,4,0:38,MISS Sabonis 1' Driving Layup,Bender BLOCK (2 BLK),nan,1627734,Domantas Sabonis,OKC,0,nan,nan,1627733,Dragan Bender,PHX,Missed Shot ,nan
+202933,21600399,4,0:35,Abrines REBOUND (Off:1 Def:0),nan,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202934,21600399,4,0:35,MISS Abrines 25' 3PT Jump Shot,nan,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202935,21600399,4,0:34,Grant REBOUND (Off:1 Def:4),nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202936,21600399,4,0:34,nan,Chriss S.FOUL (P2.PN) (D.Taylor),nan,1627737,Marquese Chriss,PHX,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Shooting
+202937,21600399,4,0:34,Grant Free Throw 1 of 2 (8 PTS),nan,99 - 114,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202938,21600399,4,0:34,MISS Grant Free Throw 2 of 2,nan,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202939,21600399,4,0:33,nan,Chriss REBOUND (Off:3 Def:5),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202940,21600399,4,0:24,nan,Ulis 18' Pullup Jump Shot (5 PTS),101 - 114,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+202941,21600399,4,0:01,MISS Christon 31' 3PT Jump Shot,nan,nan,203902,Semaj Christon,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202942,21600399,4,0:00,THUNDER Rebound,nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202943,21600399,4,0:00,THUNDER Turnover: Shot Clock (T#14),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+202944,21600399,4,0:00,nan,MISS Ulis 57' 3PT Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202945,21600399,4,0:00,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202946,21600399,4,0:00,nan,nan,101 - 114,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

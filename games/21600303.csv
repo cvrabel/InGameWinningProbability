@@ -1,0 +1,138 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+190968,21600303,4,12:00,nan,nan,83 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+190969,21600303,4,11:47,nan,Jefferson P.FOUL (P2.T1) (J.Tiven),nan,2744,Al Jefferson,IND,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Personal
+190970,21600303,4,11:38,MISS Redick 3' Layup,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190971,21600303,4,11:37,Speights REBOUND (Off:2 Def:1),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190972,21600303,4,11:37,MISS Speights 1' Tip Layup Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190973,21600303,4,11:34,nan,Stuckey REBOUND (Off:0 Def:3),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190974,21600303,4,11:29,nan,Stuckey 2' Running Layup (16 PTS),85 - 69,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+190975,21600303,4,11:13,MISS Speights 26' 3PT Jump Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190976,21600303,4,11:12,nan,Robinson III REBOUND (Off:0 Def:1),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190977,21600303,4,10:56,nan,Jefferson 5' Turnaround Jump Shot (5 PTS),87 - 69,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+190978,21600303,4,10:56,Speights S.FOUL (P5.T1) (J.Tiven),nan,nan,201578,Marreese Speights,LAC,2744,Al Jefferson,IND,0,nan,nan,Foul ,Shooting
+190979,21600303,4,10:56,SUB: Jordan FOR Speights,nan,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+190980,21600303,4,10:56,nan,Jefferson Free Throw 1 of 1 (6 PTS),88 - 69,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+190981,21600303,4,10:44,MISS Crawford 19' Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190982,21600303,4,10:43,Felton REBOUND (Off:2 Def:0),nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190983,21600303,4,10:38,Crawford 19' Pullup Jump Shot (9 PTS),nan,88 - 71,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+190984,21600303,4,10:18,nan,MISS Miles 26' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190985,21600303,4,10:17,Jordan REBOUND (Off:3 Def:8),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190986,21600303,4,10:12,MISS Redick 27' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190987,21600303,4,10:12,nan,Jefferson REBOUND (Off:0 Def:4),nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190988,21600303,4,9:51,nan,Miles 24' 3PT Jump Shot (12 PTS) (Stuckey 2 AST),91 - 71,101139,CJ Miles,IND,201155,Rodney Stuckey,IND,0,nan,nan,Made Shot ,nan
+190989,21600303,4,9:38,nan,Robinson III S.FOUL (P2.T2) (J.Tiven),nan,203922,Glenn Robinson III,IND,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+190990,21600303,4,9:38,Crawford Free Throw 1 of 2 (10 PTS),nan,91 - 72,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+190991,21600303,4,9:38,SUB: Paul FOR Felton,nan,nan,101109,Raymond Felton,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+190992,21600303,4,9:38,Crawford Free Throw 2 of 2 (11 PTS),nan,91 - 73,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+190993,21600303,4,9:20,nan,MISS Ellis 3' Layup,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190994,21600303,4,9:19,Redick REBOUND (Off:0 Def:1),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190995,21600303,4,9:09,Crawford Out of Bounds - Bad Pass Turnover Turnover (P2.T18),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+190996,21600303,4,9:09,SUB: Griffin FOR Rivers,nan,nan,203085,Austin Rivers,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+190997,21600303,4,8:56,nan,MISS Stuckey 20' Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+190998,21600303,4,8:55,Jordan REBOUND (Off:3 Def:9),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+190999,21600303,4,8:37,Griffin 1' Reverse Layup (19 PTS) (Paul 9 AST),nan,91 - 75,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+191000,21600303,4,8:34,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191001,21600303,4,8:34,nan,SUB: Teague FOR Ellis,nan,101145,Monta Ellis,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+191002,21600303,4,8:34,nan,SUB: Young FOR Robinson III,nan,203922,Glenn Robinson III,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+191003,21600303,4,8:34,nan,SUB: George FOR Miles,nan,101139,CJ Miles,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+191004,21600303,4,8:17,nan,Young 6' Turnaround Hook Shot (12 PTS) (Stuckey 3 AST),93 - 75,201152,Thaddeus Young,IND,201155,Rodney Stuckey,IND,0,nan,nan,Made Shot ,nan
+191005,21600303,4,7:52,Paul 28' 3PT Jump Shot (7 PTS) (Redick 1 AST),nan,93 - 78,101108,Chris Paul,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+191006,21600303,4,7:29,Jordan STEAL (2 STL),Stuckey Bad Pass Turnover (P2.T8),nan,201155,Rodney Stuckey,IND,201599,DeAndre Jordan,LAC,0,nan,nan,Turnover ,Bad Pass
+191007,21600303,4,7:16,Crawford 7' Running Jump Shot (13 PTS) (Griffin 5 AST),nan,93 - 80,2037,Jamal Crawford,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+191008,21600303,4,7:16,nan,George S.FOUL (P3.T3) (J.Tiven),nan,202331,Paul George,IND,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+191009,21600303,4,7:16,Crawford Free Throw 1 of 1 (14 PTS),nan,93 - 81,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+191010,21600303,4,7:06,nan,Young 2' Cutting Layup Shot (14 PTS) (George 5 AST),95 - 81,201152,Thaddeus Young,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+191011,21600303,4,7:06,Griffin S.FOUL (P2.T2) (J.Tiven),nan,nan,201933,Blake Griffin,LAC,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Shooting
+191012,21600303,4,7:06,nan,SUB: Turner FOR Jefferson,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+191013,21600303,4,7:06,nan,Young Free Throw 1 of 1 (15 PTS),96 - 81,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+191014,21600303,4,7:01,nan,Young P.FOUL (P4.T4) (B.Taylor),nan,201152,Thaddeus Young,IND,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+191015,21600303,4,6:59,nan,Teague P.FOUL (P3.PN) (B.Taylor),nan,201952,Jeff Teague,IND,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+191016,21600303,4,6:59,Paul Free Throw 1 of 2 (8 PTS),nan,96 - 82,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191017,21600303,4,6:59,Paul Free Throw 2 of 2 (9 PTS),nan,96 - 83,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191018,21600303,4,6:44,Griffin STEAL (1 STL),George Lost Ball Turnover (P2.T9),nan,202331,Paul George,IND,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Lost Ball
+191019,21600303,4,6:40,Griffin 2' Reverse Layup (21 PTS) (Paul 10 AST),nan,96 - 85,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+191020,21600303,4,6:40,nan,George S.FOUL (P4.PN) (J.Tiven),nan,202331,Paul George,IND,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+191021,21600303,4,6:40,Griffin Free Throw 1 of 1 (22 PTS),nan,96 - 86,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+191022,21600303,4,6:28,nan,Young 2' Alley Oop Layup (17 PTS) (Turner 2 AST),98 - 86,201152,Thaddeus Young,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+191023,21600303,4,6:02,Redick Bad Pass Turnover (P2.T19),George STEAL (3 STL),nan,200755,JJ Redick,LAC,202331,Paul George,IND,0,nan,nan,Turnover ,Bad Pass
+191024,21600303,4,5:46,nan,MISS Stuckey 18' Pullup Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191025,21600303,4,5:43,Redick REBOUND (Off:0 Def:2),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191026,21600303,4,5:42,nan,Stuckey P.FOUL (P3.PN) (J.Tiven),nan,201155,Rodney Stuckey,IND,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+191027,21600303,4,5:42,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+191028,21600303,4,5:42,nan,SUB: Ellis FOR Stuckey,nan,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+191029,21600303,4,5:42,Jordan Free Throw 1 of 2 (5 PTS),nan,98 - 87,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191030,21600303,4,5:42,Jordan Free Throw 2 of 2 (6 PTS),nan,98 - 88,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191031,21600303,4,5:29,Crawford P.FOUL (P2.T3) (J.Tiven),nan,nan,2037,Jamal Crawford,LAC,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Personal
+191032,21600303,4,5:17,Redick P.FOUL (P4.T4) (B.Taylor),nan,nan,200755,JJ Redick,LAC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+191033,21600303,4,5:03,nan,MISS Young 5' Hook Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191034,21600303,4,5:00,Jordan REBOUND (Off:3 Def:10),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191035,21600303,4,4:59,nan,Teague P.FOUL (P4.PN) (T.Brothers),nan,201952,Jeff Teague,IND,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+191036,21600303,4,4:59,MISS Jordan Free Throw 1 of 2,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191037,21600303,4,4:59,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+191038,21600303,4,4:59,Jordan Free Throw 2 of 2 (7 PTS),nan,98 - 89,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191039,21600303,4,4:42,nan,MISS George 18' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191040,21600303,4,4:41,Crawford REBOUND (Off:0 Def:2),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191041,21600303,4,4:25,MISS Crawford 26' 3PT Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191042,21600303,4,4:24,nan,George REBOUND (Off:0 Def:6),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191043,21600303,4,4:01,nan,Pacers Turnover: Shot Clock (T#10),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+191044,21600303,4,3:51,Paul 14' Pullup Jump Shot (11 PTS),nan,98 - 91,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+191045,21600303,4,3:51,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+191046,21600303,4,3:51,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+191047,21600303,4,3:38,nan,MISS Teague 3' Floating Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191048,21600303,4,3:36,Redick REBOUND (Off:0 Def:3),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191049,21600303,4,3:29,Griffin 2' Cutting Layup Shot (24 PTS) (Paul 11 AST),nan,98 - 93,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+191050,21600303,4,3:10,nan,Teague 2' Driving Reverse Layup (13 PTS),100 - 93,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+191051,21600303,4,3:04,CLIPPERS Timeout: Regular (Full 4 Short 2),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191052,21600303,4,3:04,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+191053,21600303,4,2:47,Griffin Poss Lost Ball Turnover (P3.T20),Teague STEAL (3 STL),nan,201933,Blake Griffin,LAC,201952,Jeff Teague,IND,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+191054,21600303,4,2:42,nan,Turner  Running Dunk (9 PTS) (Teague 3 AST),102 - 93,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+191055,21600303,4,2:24,Paul 27' 3PT Jump Shot (14 PTS),nan,102 - 96,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+191056,21600303,4,2:08,Redick S.FOUL (P5.PN) (J.Tiven),nan,nan,200755,JJ Redick,LAC,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting
+191057,21600303,4,2:08,nan,Ellis Free Throw 1 of 2 (14 PTS),103 - 96,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191058,21600303,4,2:08,nan,MISS Ellis Free Throw 2 of 2,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191059,21600303,4,2:05,Jordan REBOUND (Off:3 Def:11),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191060,21600303,4,1:53,nan,Turner S.FOUL (P1.PN) (J.Tiven),nan,1626167,Myles Turner,IND,101108,Chris Paul,LAC,0,nan,nan,Foul ,Shooting
+191061,21600303,4,1:53,Paul Free Throw 1 of 2 (15 PTS),nan,103 - 97,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191062,21600303,4,1:53,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+191063,21600303,4,1:53,SUB: Rivers FOR Redick,nan,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+191064,21600303,4,1:53,Paul Free Throw 2 of 2 (16 PTS),nan,103 - 98,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191065,21600303,4,1:38,Griffin S.FOUL (P3.PN) (T.Brothers),nan,nan,201933,Blake Griffin,LAC,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+191066,21600303,4,1:38,nan,Turner Free Throw 1 of 2 (10 PTS),104 - 98,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191067,21600303,4,1:38,nan,MISS Turner Free Throw 2 of 2,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191068,21600303,4,1:38,Griffin REBOUND (Off:3 Def:12),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191069,21600303,4,1:38,CLIPPERS Timeout: Short (Full 4 Short 3),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+191070,21600303,4,1:38,SUB: Redick FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+191071,21600303,4,1:38,SUB: Crawford FOR Rivers,nan,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+191072,21600303,4,1:26,MISS Redick 26' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191073,21600303,4,1:26,Jordan REBOUND (Off:4 Def:11),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191074,21600303,4,1:26,Jordan  Dunk (9 PTS),nan,104 - 100,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+191075,21600303,4,1:26,nan,George S.FOUL (P5.PN) (T.Brothers),nan,202331,Paul George,IND,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+191076,21600303,4,1:26,SUB: Rivers FOR Redick,nan,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+191077,21600303,4,1:26,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+191078,21600303,4,1:26,MISS Jordan Free Throw 1 of 1,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+191079,21600303,4,1:24,Griffin REBOUND (Off:4 Def:12),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191080,21600303,4,1:24,MISS Griffin 2' Tip Layup Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191081,21600303,4,1:21,nan,Ellis REBOUND (Off:0 Def:4),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191082,21600303,4,1:00,nan,George 25' 3PT Jump Shot (16 PTS) (Turner 3 AST),107 - 100,202331,Paul George,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+191083,21600303,4,1:00,CLIPPERS Timeout: Regular (Full 5 Short 3),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191084,21600303,4,1:00,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+191085,21600303,4,1:00,SUB: Redick FOR Rivers,nan,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+191086,21600303,4,0:49,MISS Griffin 23' Jump Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191087,21600303,4,0:48,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191088,21600303,4,0:48,Jordan L.B.FOUL (P1.PN) (T.Brothers),nan,nan,201599,DeAndre Jordan,LAC,1626167,Myles Turner,IND,0,nan,nan,Foul ,Loose Ball
+191089,21600303,4,0:48,nan,Turner Free Throw 1 of 2 (11 PTS),108 - 100,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191090,21600303,4,0:48,SUB: Speights FOR Jordan,nan,nan,201599,DeAndre Jordan,LAC,201578,Marreese Speights,LAC,0,nan,nan,Substitution ,nan
+191091,21600303,4,0:48,nan,Turner Free Throw 2 of 2 (12 PTS),109 - 100,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191092,21600303,4,0:41,MISS Paul 27' 3PT Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+191093,21600303,4,0:40,nan,George REBOUND (Off:0 Def:7),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+191094,21600303,4,0:34,Redick Violation:Kicked Ball (T.Brothers),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+191095,21600303,4,0:34,nan,Pacers Timeout: Regular (Reg.5 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+191096,21600303,4,0:34,SUB: Rivers FOR Speights,nan,nan,201578,Marreese Speights,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+191097,21600303,4,0:34,nan,SUB: Miles FOR Young,nan,201152,Thaddeus Young,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+191098,21600303,4,0:30,Crawford Personal Take Foul (P3.PN) (J.Tiven),nan,nan,2037,Jamal Crawford,LAC,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal Take
+191099,21600303,4,0:30,nan,Teague Free Throw 1 of 2 (14 PTS),110 - 100,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+191100,21600303,4,0:30,nan,SUB: Young FOR Turner,nan,1626167,Myles Turner,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+191101,21600303,4,0:30,nan,Teague Free Throw 2 of 2 (15 PTS),111 - 100,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+191102,21600303,4,0:24,Paul 4' Running Layup (18 PTS),nan,111 - 102,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+191103,21600303,4,0:00,nan,Pacers Turnover: Shot Clock (T#11),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+191104,21600303,4,0:00,nan,nan,111 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+136358,21501093,4,12:00,nan,nan,79 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+136359,21501093,4,11:35,MISS Stuckey 19' Pullup Jump Shot,McDaniels BLOCK (1 BLK),nan,201155,Rodney Stuckey,IND,0,nan,nan,203909,KJ McDaniels,HOU,Missed Shot ,nan
+136360,21501093,4,11:33,nan,Howard REBOUND (Off:3 Def:7),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136361,21501093,4,11:23,nan,MISS Ariza 27' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136362,21501093,4,11:22,Allen REBOUND (Off:2 Def:4),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136363,21501093,4,11:07,Lawson Bad Pass Turnover (P1.T10),Harden STEAL (1 STL),nan,201951,Ty Lawson,IND,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+136364,21501093,4,11:02,nan,Harden  Running Finger Roll Layup (27 PTS),81 - 81,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136365,21501093,4,10:46,Allen Bad Pass Turnover (P2.T11),Ariza STEAL (1 STL),nan,202730,Lavoy Allen,IND,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+136366,21501093,4,10:44,nan,Ariza  Driving Dunk (10 PTS),83 - 81,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136367,21501093,4,10:44,PACERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+136368,21501093,4,10:29,Lawson Bad Pass Turnover (P2.T12),nan,nan,201951,Ty Lawson,IND,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+136369,21501093,4,10:18,nan,Beasley 1' Driving Layup (9 PTS),85 - 81,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136370,21501093,4,9:52,MISS Miles 27' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136371,21501093,4,9:51,Mahinmi REBOUND (Off:4 Def:5),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136372,21501093,4,9:51,nan,Howard Violation:Defensive Goaltending (M.Callahan),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+136373,21501093,4,9:51,Mahinmi 2' Hook Shot (11 PTS),nan,85 - 83,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+136374,21501093,4,9:35,nan,MISS Beasley 19' Jump Shot,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136375,21501093,4,9:35,Stuckey REBOUND (Off:0 Def:1),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136376,21501093,4,9:26,MISS Mahinmi 2' Layup,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136377,21501093,4,9:25,nan,Beasley REBOUND (Off:1 Def:3),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136378,21501093,4,9:10,nan,Ariza 2' Driving Layup (12 PTS),87 - 83,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136379,21501093,4,8:57,Mahinmi 2' Cutting Layup Shot (13 PTS) (Lawson 5 AST),nan,87 - 85,101133,Ian Mahinmi,IND,201951,Ty Lawson,IND,0,nan,nan,Made Shot ,nan
+136380,21501093,4,8:41,nan,McDaniels Traveling Turnover (P1.T11),nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+136381,21501093,4,8:41,SUB: G. Hill FOR Lawson,nan,nan,201951,Ty Lawson,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+136382,21501093,4,8:41,SUB: Ellis FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+136383,21501093,4,8:41,SUB: George FOR Allen,nan,nan,202730,Lavoy Allen,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+136384,21501093,4,8:41,SUB: S. Hill FOR Miles,nan,nan,101139,CJ Miles,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+136385,21501093,4,8:23,Ellis 21' Pullup Jump Shot (18 PTS) (Mahinmi 4 AST),nan,87 - 87,101145,Monta Ellis,IND,101133,Ian Mahinmi,IND,0,nan,nan,Made Shot ,nan
+136386,21501093,4,8:02,nan,Harden 27' 3PT Pullup Jump Shot (30 PTS),90 - 87,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136387,21501093,4,7:34,MISS Ellis 29' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136388,21501093,4,7:32,nan,Beasley REBOUND (Off:1 Def:4),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136389,21501093,4,7:18,nan,MISS Beasley 16' Turnaround Fadeaway Shot,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136390,21501093,4,7:18,George REBOUND (Off:1 Def:8),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136391,21501093,4,7:09,MISS G. Hill 25' 3PT Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136392,21501093,4,7:09,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136393,21501093,4,7:09,nan,SUB: Brewer FOR McDaniels,nan,203909,KJ McDaniels,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+136394,21501093,4,6:57,nan,Ariza 20' Step Back Jump Shot (14 PTS),92 - 87,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136395,21501093,4,6:41,nan,Rockets T.Foul (Def. 3 Sec Beasley ) (J.Orr),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+136396,21501093,4,6:41,George Free Throw Technical (22 PTS),nan,92 - 88,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+136397,21501093,4,6:41,nan,SUB: Beverley FOR Beasley,nan,201563,Michael Beasley,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+136398,21501093,4,6:41,nan,SUB: Capela FOR Howard,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+136399,21501093,4,6:29,MISS Mahinmi 3' Layup,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136400,21501093,4,6:27,S. Hill REBOUND (Off:2 Def:1),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136401,21501093,4,6:27,S. Hill  Tip Layup Shot (2 PTS),nan,92 - 90,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+136402,21501093,4,6:09,G. Hill P.FOUL (P3.T1) (D.Collins),nan,nan,201588,George Hill,IND,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+136403,21501093,4,6:03,nan,Harden Out of Bounds - Bad Pass Turnover Turnover (P3.T12),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+136404,21501093,4,5:50,George  3PT Jump Shot (25 PTS) (Ellis 7 AST),nan,92 - 93,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+136405,21501093,4,5:36,nan,Harden 1' Driving Layup (32 PTS),94 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+136406,21501093,4,5:23,nan,Capela S.FOUL (P5.T1) (M.Callahan),nan,203991,Clint Capela,HOU,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Shooting
+136407,21501093,4,5:23,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+136408,21501093,4,5:23,MISS Mahinmi Free Throw 1 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+136409,21501093,4,5:23,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+136410,21501093,4,5:23,Mahinmi Free Throw 2 of 2 (14 PTS),nan,94 - 94,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+136411,21501093,4,5:02,G. Hill S.FOUL (P4.T2) (M.Callahan),nan,nan,201588,George Hill,IND,203991,Clint Capela,HOU,0,nan,nan,Foul ,Shooting
+136412,21501093,4,5:02,nan,Capela Free Throw 1 of 2 (9 PTS),95 - 94,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+136413,21501093,4,5:02,nan,MISS Capela Free Throw 2 of 2,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+136414,21501093,4,5:02,Ellis REBOUND (Off:2 Def:3),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136415,21501093,4,4:47,Ellis 17' Pullup Jump Shot (20 PTS),nan,95 - 96,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+136416,21501093,4,4:23,S. Hill STEAL (2 STL),Harden Lost Ball Turnover (P4.T13),nan,201935,James Harden,HOU,203524,Solomon Hill,IND,0,nan,nan,Turnover ,Lost Ball
+136417,21501093,4,4:23,Jump Ball S. Hill vs. Harden: Tip to Mahinmi,nan,nan,203524,Solomon Hill,IND,201935,James Harden,HOU,101133,Ian Mahinmi,IND,Jump Ball ,nan
+136418,21501093,4,4:01,Mahinmi  Dunk (16 PTS) (S. Hill 2 AST),nan,95 - 98,101133,Ian Mahinmi,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+136419,21501093,4,3:39,nan,MISS Brewer 24' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136420,21501093,4,3:38,S. Hill REBOUND (Off:2 Def:2),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136421,21501093,4,3:28,Mahinmi  Cutting Dunk Shot (18 PTS) (S. Hill 3 AST),nan,95 - 100,101133,Ian Mahinmi,IND,203524,Solomon Hill,IND,0,nan,nan,Made Shot ,nan
+136422,21501093,4,3:26,nan,Rockets Timeout: Regular (Reg.5 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+136423,21501093,4,3:26,nan,SUB: Beasley FOR Beverley,nan,201976,Patrick Beverley,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+136424,21501093,4,3:26,nan,SUB: Howard FOR Capela,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+136425,21501093,4,3:16,Mahinmi S.FOUL (P2.T3) (J.Orr),nan,nan,101133,Ian Mahinmi,IND,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+136426,21501093,4,3:16,nan,MISS Harden Free Throw 1 of 3,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+136427,21501093,4,3:16,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+136428,21501093,4,3:16,nan,Harden Free Throw 2 of 3 (33 PTS),96 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+136429,21501093,4,3:16,nan,Harden Free Throw 3 of 3 (34 PTS),97 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+136430,21501093,4,3:03,MISS Ellis  Driving Reverse Layup,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136431,21501093,4,3:03,nan,Beasley REBOUND (Off:1 Def:5),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136432,21501093,4,2:53,Ellis STEAL (3 STL),Harden Lost Ball Turnover (P5.T14),nan,201935,James Harden,HOU,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Lost Ball
+136433,21501093,4,2:38,Mahinmi Bad Pass Turnover (P2.T13),Brewer STEAL (2 STL),nan,101133,Ian Mahinmi,IND,201147,Corey Brewer,HOU,0,nan,nan,Turnover ,Bad Pass
+136434,21501093,4,2:33,Mahinmi S.FOUL (P3.T4) (D.Collins),nan,nan,101133,Ian Mahinmi,IND,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+136435,21501093,4,2:33,nan,Brewer Free Throw 1 of 2 (7 PTS),98 - 100,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+136436,21501093,4,2:33,nan,Brewer Free Throw 2 of 2 (8 PTS),99 - 100,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+136437,21501093,4,2:22,MISS George 27' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136438,21501093,4,2:21,Mahinmi REBOUND (Off:5 Def:5),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136439,21501093,4,2:04,Ellis 21' Pullup Jump Shot (22 PTS) (G. Hill 3 AST),nan,99 - 102,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+136440,21501093,4,1:42,nan,MISS Ariza 26' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136441,21501093,4,1:41,Ellis REBOUND (Off:2 Def:4),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136442,21501093,4,1:25,MISS G. Hill  3PT Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136443,21501093,4,1:24,Mahinmi REBOUND (Off:6 Def:5),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136444,21501093,4,1:06,MISS Ellis 22' Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136445,21501093,4,1:04,nan,Harden REBOUND (Off:0 Def:6),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136446,21501093,4,0:56,nan,MISS Brewer 24' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136447,21501093,4,0:55,nan,Beasley REBOUND (Off:2 Def:5),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136448,21501093,4,0:48,nan,MISS Ariza  3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136449,21501093,4,0:47,George REBOUND (Off:1 Def:9),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136450,21501093,4,0:42,nan,Ariza P.FOUL (P1.T2) (M.Callahan),nan,2772,Trevor Ariza,HOU,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal
+136451,21501093,4,0:42,PACERS Timeout: Short (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+136452,21501093,4,0:42,nan,SUB: McDaniels FOR Beasley,nan,201563,Michael Beasley,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+136453,21501093,4,0:23,MISS Ellis 26' 3PT Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136454,21501093,4,0:22,nan,Harden REBOUND (Off:0 Def:7),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136455,21501093,4,0:17,nan,MISS Harden 27' 3PT Pullup Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136456,21501093,4,0:16,George REBOUND (Off:1 Def:10),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136457,21501093,4,0:11,nan,McDaniels P.FOUL (P1.PN) (M.Callahan),nan,203909,KJ McDaniels,HOU,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal
+136458,21501093,4,0:11,Mahinmi Free Throw 1 of 2 (19 PTS),nan,99 - 103,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+136459,21501093,4,0:11,nan,SUB: Beasley FOR Brewer,nan,201147,Corey Brewer,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+136460,21501093,4,0:11,MISS Mahinmi Free Throw 2 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+136461,21501093,4,0:11,nan,Harden REBOUND (Off:0 Def:8),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136462,21501093,4,0:11,nan,Rockets Timeout: Regular (Reg.6 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+136463,21501093,4,0:11,nan,SUB: Terry FOR McDaniels,nan,203909,KJ McDaniels,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+136464,21501093,4,0:06,nan,Howard  Cutting Dunk Shot (11 PTS) (Harden 8 AST),101 - 103,2730,Dwight Howard,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+136465,21501093,4,0:06,nan,Ariza Personal Take Foul (P2.PN) (J.Orr),nan,2772,Trevor Ariza,HOU,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Take
+136466,21501093,4,0:06,MISS Ellis Free Throw 1 of 2,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+136467,21501093,4,0:06,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+136468,21501093,4,0:06,Ellis Free Throw 2 of 2 (23 PTS),nan,101 - 104,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+136469,21501093,4,0:06,nan,Rockets Timeout: Short (Reg.6 Short 2),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+136470,21501093,4,0:06,nan,nan,nan,202331,Paul George,IND,201935,James Harden,HOU,0,nan,nan,Foul ,Double Personal
+136471,21501093,4,0:00,nan,MISS Terry 26' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+136472,21501093,4,0:00,S. Hill REBOUND (Off:2 Def:3),nan,nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+136473,21501093,4,0:00,nan,nan,101 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

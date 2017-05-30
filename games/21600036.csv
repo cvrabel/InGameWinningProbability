@@ -1,0 +1,134 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+157500,21600036,4,12:00,nan,nan,81 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+157501,21600036,4,11:48,Tucker Bad Pass Turnover (P1.T10),Durant STEAL (2 STL),nan,200782,PJ Tucker,PHX,201142,Kevin Durant,GSW,0,nan,nan,Turnover ,Bad Pass
+157502,21600036,4,11:48,Len L.B.FOUL (P3.T1) (E.Malloy),nan,nan,203458,Alex Len,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Loose Ball
+157503,21600036,4,11:38,Len STEAL (1 STL),Durant Bad Pass Turnover (P4.T14),nan,201142,Kevin Durant,GSW,203458,Alex Len,PHX,0,nan,nan,Turnover ,Bad Pass
+157504,21600036,4,11:34,nan,Clark S.FOUL (P3.T1) (E.Malloy),nan,203546,Ian Clark,GSW,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+157505,21600036,4,11:34,Knight Free Throw 1 of 2 (8 PTS),nan,81 - 79,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157506,21600036,4,11:34,Knight Free Throw 2 of 2 (9 PTS),nan,81 - 80,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157507,21600036,4,11:27,nan,Looney OFF.Foul (P2) (G.Petraitis),nan,1626172,Kevon Looney,GSW,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Offensive
+157508,21600036,4,11:27,nan,Looney Foul Turnover (P1.T15),nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+157509,21600036,4,11:15,Jump Ball Len vs. Looney: Tip to Tucker,nan,nan,203458,Alex Len,PHX,1626172,Kevon Looney,GSW,200782,PJ Tucker,PHX,Jump Ball ,nan
+157510,21600036,4,11:09,MISS Knight 20' Pullup Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157511,21600036,4,11:08,nan,Clark REBOUND (Off:0 Def:2),nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157512,21600036,4,10:56,Len BLOCK (2 BLK),MISS Looney  Dunk,nan,1626172,Kevon Looney,GSW,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+157513,21600036,4,10:55,Len REBOUND (Off:1 Def:6),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157514,21600036,4,10:47,Barbosa 18' Pullup Jump Shot (6 PTS),nan,81 - 82,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+157515,21600036,4,10:26,nan,Looney 3' Reverse Layup (2 PTS) (Durant 4 AST),83 - 82,1626172,Kevon Looney,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+157516,21600036,4,10:26,Len S.FOUL (P4.T2) (E.Malloy),nan,nan,203458,Alex Len,PHX,1626172,Kevon Looney,GSW,0,nan,nan,Foul ,Shooting
+157517,21600036,4,10:26,nan,MISS Looney Free Throw 1 of 1,nan,1626172,Kevon Looney,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+157518,21600036,4,10:25,Len REBOUND (Off:1 Def:7),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157519,21600036,4,10:15,Len 1' Cutting Layup Shot (4 PTS) (Barbosa 2 AST),nan,83 - 84,203458,Alex Len,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Made Shot ,nan
+157520,21600036,4,10:00,Len BLOCK (3 BLK),MISS Curry 7' Driving Floating Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+157521,21600036,4,9:59,Chriss REBOUND (Off:1 Def:3),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157522,21600036,4,9:55,Knight Bad Pass Turnover (P3.T11),Durant STEAL (3 STL),nan,202688,Brandon Knight,PHX,201142,Kevin Durant,GSW,0,nan,nan,Turnover ,Bad Pass
+157523,21600036,4,9:51,nan,MISS Curry 2' Running Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157524,21600036,4,9:49,nan,Iguodala REBOUND (Off:1 Def:1),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157525,21600036,4,9:48,nan,Iguodala 1' Putback Layup (4 PTS),85 - 84,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+157526,21600036,4,9:23,MISS Len 17' Jump Shot,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157527,21600036,4,9:22,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157528,21600036,4,9:22,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+157529,21600036,4,9:22,SUB: Booker FOR Len,nan,nan,203458,Alex Len,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+157530,21600036,4,9:22,nan,SUB: Pachulia FOR Iguodala,nan,2738,Andre Iguodala,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+157531,21600036,4,9:22,nan,SUB: Thompson FOR Looney,nan,1626172,Kevon Looney,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+157532,21600036,4,8:59,Tucker S.FOUL (P1.T3) (E.Malloy),nan,nan,200782,PJ Tucker,PHX,2585,Zaza Pachulia,GSW,0,nan,nan,Foul ,Shooting
+157533,21600036,4,8:59,nan,Pachulia Free Throw 1 of 2 (4 PTS),86 - 84,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157534,21600036,4,8:59,nan,Pachulia Free Throw 2 of 2 (5 PTS),87 - 84,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157535,21600036,4,8:45,nan,Thompson P.FOUL (P3.T2) (E.Malloy),nan,202691,Klay Thompson,GSW,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+157536,21600036,4,8:45,SUB: Bledsoe FOR Tucker,nan,nan,200782,PJ Tucker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+157537,21600036,4,8:35,MISS Chriss 1' Driving Reverse Layup,nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157538,21600036,4,8:34,Barbosa REBOUND (Off:1 Def:2),nan,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157539,21600036,4,8:33,nan,Pachulia S.FOUL (P1.T3) (N.Buchert),nan,2585,Zaza Pachulia,GSW,2571,Leandro Barbosa,PHX,0,nan,nan,Foul ,Shooting
+157540,21600036,4,8:33,Barbosa Free Throw 1 of 2 (7 PTS),nan,87 - 85,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157541,21600036,4,8:33,nan,SUB: Green FOR Pachulia,nan,2585,Zaza Pachulia,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+157542,21600036,4,8:33,nan,SUB: Iguodala FOR Durant,nan,201142,Kevin Durant,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+157543,21600036,4,8:33,SUB: Len FOR Chriss,nan,nan,1627737,Marquese Chriss,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+157544,21600036,4,8:33,MISS Barbosa Free Throw 2 of 2,nan,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157545,21600036,4,8:33,nan,Thompson REBOUND (Off:0 Def:3),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157546,21600036,4,8:17,nan,MISS Green 5' Driving Floating Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157547,21600036,4,8:17,Bledsoe REBOUND (Off:0 Def:2),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157548,21600036,4,8:11,MISS Barbosa 1' Layup,nan,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157549,21600036,4,8:10,nan,Thompson REBOUND (Off:0 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157550,21600036,4,8:05,nan,Thompson 2' Running Layup (12 PTS) (Curry 3 AST),89 - 85,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+157551,21600036,4,7:50,MISS Knight 18' Pullup Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157552,21600036,4,7:48,Knight REBOUND (Off:1 Def:0),nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157553,21600036,4,7:47,MISS Knight 2' Putback Layup,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157554,21600036,4,7:45,nan,Thompson REBOUND (Off:0 Def:5),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157555,21600036,4,7:30,Knight P.FOUL (P3.T4) (N.Buchert),nan,nan,202688,Brandon Knight,PHX,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+157556,21600036,4,7:30,SUB: Warren FOR Knight,nan,nan,202688,Brandon Knight,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+157557,21600036,4,7:16,nan,MISS Clark 27' 3PT Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157558,21600036,4,7:16,Bledsoe REBOUND (Off:0 Def:3),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157559,21600036,4,7:03,Len 3' Layup (6 PTS) (Bledsoe 5 AST),nan,89 - 87,203458,Alex Len,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+157560,21600036,4,6:49,nan,Thompson 2' Cutting Layup Shot (14 PTS) (Green 8 AST),91 - 87,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+157561,21600036,4,6:24,Booker 15' Step Back Jump Shot (5 PTS),nan,91 - 89,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+157562,21600036,4,6:05,nan,Thompson Traveling Turnover (P2.T16),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Traveling
+157563,21600036,4,6:05,nan,SUB: Durant FOR Clark,nan,203546,Ian Clark,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+157564,21600036,4,5:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+157565,21600036,4,5:47,SUB: Dudley FOR Len,nan,nan,203458,Alex Len,PHX,201162,Jared Dudley,PHX,0,nan,nan,Substitution ,nan
+157566,21600036,4,5:47,SUB: Chandler FOR Barbosa,nan,nan,2571,Leandro Barbosa,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+157567,21600036,4,5:42,MISS Chandler 5' Hook Shot,nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157568,21600036,4,5:41,nan,Green REBOUND (Off:1 Def:11),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157569,21600036,4,5:27,nan,Curry 19' Jump Shot (26 PTS),93 - 89,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+157570,21600036,4,5:04,Booker 21' Pullup Jump Shot (7 PTS),nan,93 - 91,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+157571,21600036,4,4:40,nan,MISS Curry  3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157572,21600036,4,4:40,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157573,21600036,4,4:38,nan,Durant 16' Jump Shot (28 PTS) (Green 9 AST),95 - 91,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+157574,21600036,4,4:27,Booker Bad Pass Turnover (P2.T12),Durant STEAL (4 STL),nan,1626164,Devin Booker,PHX,201142,Kevin Durant,GSW,0,nan,nan,Turnover ,Bad Pass
+157575,21600036,4,4:27,Dudley C.P.FOUL (P2.PN) (G.Petraitis),nan,nan,201162,Jared Dudley,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Clear Path
+157576,21600036,4,4:27,nan,nan,nan,537,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+157577,21600036,4,4:27,nan,Durant Free Throw Clear Path 1 of 2 (29 PTS),96 - 91,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 1 of 2
+157578,21600036,4,4:27,nan,Durant Free Throw Clear Path 2 of 2 (30 PTS),97 - 91,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Clear Path 2 of 2
+157579,21600036,4,4:14,nan,MISS Thompson 26' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157580,21600036,4,4:13,Warren REBOUND (Off:3 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157581,21600036,4,3:52,MISS Booker 11' Floating Jump Shot,Green BLOCK (2 BLK),nan,1626164,Devin Booker,PHX,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+157582,21600036,4,3:51,nan,Thompson REBOUND (Off:0 Def:6),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157583,21600036,4,3:26,nan,MISS Iguodala 24' 3PT Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157584,21600036,4,3:26,Chandler REBOUND (Off:3 Def:14),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157585,21600036,4,3:22,nan,Curry S.FOUL (P5.T4) (E.Malloy),nan,201939,Stephen Curry,GSW,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+157586,21600036,4,3:22,MISS Bledsoe Free Throw 1 of 2,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157587,21600036,4,3:22,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+157588,21600036,4,3:22,Bledsoe Free Throw 2 of 2 (19 PTS),nan,97 - 92,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157589,21600036,4,3:01,nan,MISS Thompson 6' Turnaround Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157590,21600036,4,3:00,Dudley REBOUND (Off:1 Def:1),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157591,21600036,4,2:45,MISS Warren 26' 3PT Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157592,21600036,4,2:45,nan,Curry REBOUND (Off:0 Def:1),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157593,21600036,4,2:26,nan,MISS Green 27' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157594,21600036,4,2:25,Bledsoe REBOUND (Off:0 Def:4),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157595,21600036,4,2:19,SUNS Timeout: Regular (Full 4 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+157596,21600036,4,2:10,MISS Bledsoe 2' Layup,Green BLOCK (3 BLK),nan,202339,Eric Bledsoe,PHX,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+157597,21600036,4,2:10,Jump Ball Bledsoe vs. Green: Tip to Curry,nan,nan,202339,Eric Bledsoe,PHX,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,Jump Ball ,nan
+157598,21600036,4,2:10,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157599,21600036,4,1:51,Dudley S.FOUL (P3.PN) (N.Buchert),nan,nan,201162,Jared Dudley,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+157600,21600036,4,1:51,nan,Durant Free Throw 1 of 2 (31 PTS),98 - 92,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157601,21600036,4,1:51,nan,Durant Free Throw 2 of 2 (32 PTS),99 - 92,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157602,21600036,4,1:35,MISS Booker  Driving Layup,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157603,21600036,4,1:34,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157604,21600036,4,1:30,Warren 11' Driving Floating Jump Shot (24 PTS) (Dudley 3 AST),nan,99 - 94,203933,TJ Warren,PHX,201162,Jared Dudley,PHX,0,nan,nan,Made Shot ,nan
+157605,21600036,4,1:30,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+157606,21600036,4,1:19,nan,Durant  Alley Oop Layup (34 PTS) (Iguodala 4 AST),101 - 94,201142,Kevin Durant,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+157607,21600036,4,1:19,Warren S.FOUL (P5.PN) (G.Petraitis),nan,nan,203933,TJ Warren,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+157608,21600036,4,1:19,nan,Durant Free Throw 1 of 1 (35 PTS),102 - 94,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+157609,21600036,4,1:12,Bledsoe 1' Driving Layup (21 PTS),nan,102 - 96,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+157610,21600036,4,0:53,nan,MISS Thompson 24' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157611,21600036,4,0:53,Bledsoe REBOUND (Off:0 Def:5),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157612,21600036,4,0:48,Warren 1' Running Layup (26 PTS) (Bledsoe 6 AST),nan,102 - 98,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+157613,21600036,4,0:25,Booker BLOCK (1 BLK),MISS Curry 17' Turnaround Fadeaway Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,1626164,Devin Booker,PHX,Missed Shot ,nan
+157614,21600036,4,0:24,Chandler REBOUND (Off:3 Def:15),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157615,21600036,4,0:14,Dudley  Driving Layup (9 PTS),nan,102 - 100,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+157616,21600036,4,0:12,Dudley Personal Take Foul (P4.PN) (E.Malloy),nan,nan,201162,Jared Dudley,PHX,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal Take
+157617,21600036,4,0:12,nan,Curry Free Throw 1 of 2 (27 PTS),103 - 100,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157618,21600036,4,0:12,SUB: Len FOR Dudley,nan,nan,201162,Jared Dudley,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+157619,21600036,4,0:12,nan,Curry Free Throw 2 of 2 (28 PTS),104 - 100,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157620,21600036,4,0:12,SUNS Timeout: Regular (Full 5 Short 0),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+157621,21600036,4,0:12,SUB: Dudley FOR Len,nan,nan,203458,Alex Len,PHX,201162,Jared Dudley,PHX,0,nan,nan,Substitution ,nan
+157622,21600036,4,0:09,MISS Warren 3' Driving Finger Roll Layup,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157623,21600036,4,0:08,nan,Green REBOUND (Off:1 Def:12),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157624,21600036,4,0:07,Chandler Personal Take Foul (P3.PN) (G.Petraitis),nan,nan,2199,Tyson Chandler,PHX,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal Take
+157625,21600036,4,0:07,nan,Durant Free Throw 1 of 2 (36 PTS),105 - 100,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+157626,21600036,4,0:07,SUB: Len FOR Dudley,nan,nan,201162,Jared Dudley,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+157627,21600036,4,0:07,nan,Durant Free Throw 2 of 2 (37 PTS),106 - 100,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+157628,21600036,4,0:07,SUNS Timeout: Short (Full 5 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+157629,21600036,4,0:07,SUB: Dudley FOR Len,nan,nan,203458,Alex Len,PHX,201162,Jared Dudley,PHX,0,nan,nan,Substitution ,nan
+157630,21600036,4,0:04,MISS Booker 25' 3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+157631,21600036,4,0:03,nan,Iguodala REBOUND (Off:1 Def:2),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+157632,21600036,4,0:00,nan,nan,106 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

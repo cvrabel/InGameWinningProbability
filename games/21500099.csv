@@ -1,0 +1,104 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+12629,21500099,4,12:00,nan,nan,71 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+12630,21500099,4,11:43,nan,Frye Personal Block Foul (P4.T1) (T.Washington),nan,101112,Channing Frye,ORL,101145,Monta Ellis,IND,0,nan,nan,Foul ,Personal Block
+12631,21500099,4,11:36,Turner 21' Pullup Jump Shot (10 PTS) (Ellis 4 AST),nan,71 - 74,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+12632,21500099,4,11:22,Turner S.FOUL (P2.T1) (S.Corbin),nan,nan,1626167,Myles Turner,IND,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Shooting
+12633,21500099,4,11:22,nan,Fournier Free Throw 1 of 2 (15 PTS),72 - 74,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12634,21500099,4,11:22,nan,MISS Fournier Free Throw 2 of 2,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12635,21500099,4,11:22,Hill REBOUND (Off:2 Def:4),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12636,21500099,4,10:58,MISS Ellis 30' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12637,21500099,4,10:56,nan,Frye REBOUND (Off:1 Def:3),nan,101112,Channing Frye,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12638,21500099,4,10:52,nan,Gordon Offensive Charge Foul (P2.T2) (T.Washington),nan,203932,Aaron Gordon,ORL,201978,Chase Budinger,IND,0,nan,nan,Foul ,Offensive Charge
+12639,21500099,4,10:52,nan,Gordon Foul Turnover (P2.T15),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+12640,21500099,4,10:28,MISS Hill 18' Jump Shot,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12641,21500099,4,10:27,nan,Frye REBOUND (Off:1 Def:4),nan,101112,Channing Frye,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12642,21500099,4,10:08,nan,MISS Watson  3PT Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12643,21500099,4,10:07,Budinger REBOUND (Off:0 Def:2),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12644,21500099,4,9:59,nan,Gordon P.FOUL (P3.T3) (S.Corbin),nan,203932,Aaron Gordon,ORL,1626167,Myles Turner,IND,0,nan,nan,Foul ,Personal
+12645,21500099,4,9:46,MISS Ellis 13' Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12646,21500099,4,9:46,nan,Frye REBOUND (Off:1 Def:5),nan,101112,Channing Frye,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12647,21500099,4,9:36,nan,MISS Gordon  Dunk,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12648,21500099,4,9:35,Budinger REBOUND (Off:0 Def:3),nan,nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12649,21500099,4,9:27,Budinger 26' 3PT Jump Shot (3 PTS) (Robinson III 1 AST),nan,72 - 77,201978,Chase Budinger,IND,203922,Glenn Robinson III,IND,0,nan,nan,Made Shot ,nan
+12650,21500099,4,9:12,Budinger S.FOUL (P2.T2) (T.Washington),nan,nan,201978,Chase Budinger,IND,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Shooting
+12651,21500099,4,9:12,nan,MISS Gordon Free Throw 1 of 2,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12652,21500099,4,9:12,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+12653,21500099,4,9:12,nan,Gordon Free Throw 2 of 2 (4 PTS),73 - 77,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12654,21500099,4,9:00,nan,Gordon S.FOUL (P4.T4) (T.Washington),nan,203932,Aaron Gordon,ORL,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+12655,21500099,4,9:00,Hill Free Throw 1 of 2 (6 PTS),nan,73 - 78,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12656,21500099,4,9:00,MISS Hill Free Throw 2 of 2,nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12657,21500099,4,9:00,nan,Frye REBOUND (Off:1 Def:6),nan,101112,Channing Frye,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12658,21500099,4,8:48,nan,MISS Fournier 25' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12659,21500099,4,8:47,Hill REBOUND (Off:2 Def:5),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12660,21500099,4,8:34,Turner Bad Pass Turnover (P2.T16),Payton STEAL (2 STL),nan,1626167,Myles Turner,IND,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Bad Pass
+12661,21500099,4,8:19,nan,Watson 20' Jump Shot (4 PTS) (Gordon 2 AST),75 - 78,201228,C.J. Watson,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+12662,21500099,4,7:58,Hill Lost Ball Turnover (P3.T17),Payton STEAL (3 STL),nan,201941,Jordan Hill,IND,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Lost Ball
+12663,21500099,4,7:51,nan,Fournier 27' 3PT Jump Shot (18 PTS) (Watson 2 AST),78 - 78,203095,Evan Fournier,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+12664,21500099,4,7:50,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12665,21500099,4,7:50,SUB: George FOR Turner,nan,nan,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+12666,21500099,4,7:50,SUB: Mahinmi FOR Robinson III,nan,nan,203922,Glenn Robinson III,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+12667,21500099,4,7:44,Hill Bad Pass Turnover (P4.T18),nan,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+12668,21500099,4,7:28,nan,Frye 25' 3PT Jump Shot (14 PTS) (Payton 6 AST),81 - 78,101112,Channing Frye,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+12669,21500099,4,7:02,MISS Mahinmi 19' Jump Shot,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12670,21500099,4,7:00,nan,Frye REBOUND (Off:1 Def:7),nan,101112,Channing Frye,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12671,21500099,4,6:48,SUB: Miles FOR Hill,nan,nan,201941,Jordan Hill,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+12672,21500099,4,6:48,SUB: G. Hill FOR Ellis,nan,nan,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+12673,21500099,4,6:48,Mahinmi STEAL (1 STL),Gordon Lost Ball Turnover (P3.T16),nan,203932,Aaron Gordon,ORL,101133,Ian Mahinmi,IND,0,nan,nan,Turnover ,Lost Ball
+12674,21500099,4,6:48,Jump Ball Mahinmi vs. Gordon: Tip to G. Hill,nan,nan,101133,Ian Mahinmi,IND,203932,Aaron Gordon,ORL,201588,George Hill,IND,Jump Ball ,nan
+12675,21500099,4,6:28,Mahinmi  Layup (6 PTS) (Budinger 1 AST),nan,81 - 80,101133,Ian Mahinmi,IND,201978,Chase Budinger,IND,0,nan,nan,Made Shot ,nan
+12676,21500099,4,6:02,nan,Magic Turnover: Shot Clock (T#17),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+12677,21500099,4,5:52,George 27' 3PT Jump Shot (25 PTS) (Budinger 2 AST),nan,81 - 83,202331,Paul George,IND,201978,Chase Budinger,IND,0,nan,nan,Made Shot ,nan
+12678,21500099,4,5:40,Miles STEAL (1 STL),Frye Lost Ball Turnover (P1.T18),nan,101112,Channing Frye,ORL,101139,CJ Miles,IND,0,nan,nan,Turnover ,Lost Ball
+12679,21500099,4,5:39,nan,Frye P.FOUL (P5.PN) (C.Blair),nan,101112,Channing Frye,ORL,101139,CJ Miles,IND,0,nan,nan,Foul ,Personal
+12680,21500099,4,5:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+12681,21500099,4,5:39,nan,SUB: Oladipo FOR Gordon,nan,203932,Aaron Gordon,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Substitution ,nan
+12682,21500099,4,5:39,nan,SUB: Harris FOR Watson,nan,201228,C.J. Watson,ORL,202699,Tobias Harris,ORL,0,nan,nan,Substitution ,nan
+12683,21500099,4,5:22,Budinger 24' 3PT Jump Shot (6 PTS) (George 5 AST),nan,81 - 86,201978,Chase Budinger,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+12684,21500099,4,5:04,Budinger STEAL (1 STL),Frye Bad Pass Turnover (P2.T19),nan,101112,Channing Frye,ORL,201978,Chase Budinger,IND,0,nan,nan,Turnover ,Bad Pass
+12685,21500099,4,5:00,G. Hill  Cutting Dunk Shot (18 PTS) (George 6 AST),nan,81 - 88,201588,George Hill,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+12686,21500099,4,4:43,nan,MISS Oladipo 9' Floating Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12687,21500099,4,4:43,Mahinmi REBOUND (Off:2 Def:6),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12688,21500099,4,4:22,MISS George 19' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12689,21500099,4,4:21,George REBOUND (Off:2 Def:2),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12690,21500099,4,4:20,nan,Oladipo S.FOUL (P3.PN) (C.Blair),nan,203506,Victor Oladipo,ORL,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+12691,21500099,4,4:20,George Free Throw 1 of 2 (26 PTS),nan,81 - 89,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12692,21500099,4,4:20,nan,SUB: Dedmon FOR Frye,nan,101112,Channing Frye,ORL,203473,Dewayne Dedmon,ORL,0,nan,nan,Substitution ,nan
+12693,21500099,4,4:20,SUB: Ellis FOR Budinger,nan,nan,201978,Chase Budinger,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+12694,21500099,4,4:20,George Free Throw 2 of 2 (27 PTS),nan,81 - 90,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12695,21500099,4,4:02,nan,MISS Payton 18' Pullup Jump Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12696,21500099,4,4:01,Ellis REBOUND (Off:0 Def:4),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12697,21500099,4,3:51,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12698,21500099,4,3:51,nan,Dedmon REBOUND (Off:2 Def:6),nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12699,21500099,4,3:34,nan,MISS Oladipo 14' Step Back Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12700,21500099,4,3:33,Miles REBOUND (Off:0 Def:1),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12701,21500099,4,3:14,MISS George 27' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12702,21500099,4,3:13,nan,Dedmon REBOUND (Off:2 Def:7),nan,203473,Dewayne Dedmon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12703,21500099,4,3:06,nan,Magic Timeout: Regular (Reg.4 Short 0),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12704,21500099,4,2:58,nan,MISS Harris 5' Jump Shot,nan,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12705,21500099,4,2:57,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12706,21500099,4,2:35,Mahinmi 6' Hook Shot (8 PTS) (George 7 AST),nan,81 - 92,101133,Ian Mahinmi,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+12707,21500099,4,2:19,Mahinmi Violation:Kicked Ball (.),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+12708,21500099,4,2:13,G. Hill STEAL (2 STL),Payton Bad Pass Turnover (P3.T20),nan,203901,Elfrid Payton,ORL,201588,George Hill,IND,0,nan,nan,Turnover ,Bad Pass
+12709,21500099,4,2:11,PACERS Timeout: Short (Full 4 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+12710,21500099,4,2:11,nan,SUB: Napier FOR Dedmon,nan,203473,Dewayne Dedmon,ORL,203894,Shabazz Napier,ORL,0,nan,nan,Substitution ,nan
+12711,21500099,4,1:55,MISS George 19' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12712,21500099,4,1:55,nan,Fournier REBOUND (Off:0 Def:2),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12713,21500099,4,1:42,nan,Fournier 26' 3PT Jump Shot (21 PTS) (Payton 7 AST),84 - 92,203095,Evan Fournier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+12714,21500099,4,1:22,G. Hill 25' 3PT Pullup Jump Shot (21 PTS),nan,84 - 95,201588,George Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+12715,21500099,4,1:22,nan,Magic Timeout: Regular (Reg.5 Short 0),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+12716,21500099,4,1:22,nan,Oladipo Bad Pass Turnover (P4.T21),nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+12717,21500099,4,1:22,nan,Payton P.FOUL (P1.PN) (C.Blair),nan,203901,Elfrid Payton,ORL,201588,George Hill,IND,0,nan,nan,Foul ,Personal
+12718,21500099,4,1:22,G. Hill Free Throw 1 of 2 (22 PTS),nan,84 - 96,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+12719,21500099,4,1:22,G. Hill Free Throw 2 of 2 (23 PTS),nan,84 - 97,201588,George Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+12720,21500099,4,1:15,Miles STEAL (2 STL),Payton Lost Ball Turnover (P4.T22),nan,203901,Elfrid Payton,ORL,101139,CJ Miles,IND,0,nan,nan,Turnover ,Lost Ball
+12721,21500099,4,0:52,MISS George 25' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12722,21500099,4,0:51,nan,Napier REBOUND (Off:0 Def:1),nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12723,21500099,4,0:44,nan,MISS Napier 26' 3PT Jump Shot,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12724,21500099,4,0:44,Miles REBOUND (Off:0 Def:2),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12725,21500099,4,0:22,MISS G. Hill 20' Pullup Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12726,21500099,4,0:21,nan,Oladipo REBOUND (Off:0 Def:7),nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12727,21500099,4,0:14,nan,MISS Oladipo 28' 3PT Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12728,21500099,4,0:13,nan,Napier REBOUND (Off:1 Def:1),nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12729,21500099,4,0:06,nan,MISS Oladipo  3PT Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+12730,21500099,4,0:05,Mahinmi REBOUND (Off:2 Def:7),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+12731,21500099,4,0:00,nan,nan,84 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+150151,21501207,4,12:00,nan,nan,103 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+150152,21501207,4,11:39,nan,MISS Brewer  3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150153,21501207,4,11:38,Bjelica REBOUND (Off:2 Def:6),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150154,21501207,4,11:21,MISS Towns 10' Jump Shot,Capela BLOCK (1 BLK),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+150155,21501207,4,11:19,nan,Terry REBOUND (Off:0 Def:2),nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150156,21501207,4,11:18,nan,Brewer 1' Driving Layup (2 PTS) (Terry 2 AST),105 - 74,201147,Corey Brewer,HOU,1891,Jason Terry,HOU,0,nan,nan,Made Shot ,nan
+150157,21501207,4,11:18,Jones S.FOUL (P3.T1) (E.Lewis),nan,nan,1626145,Tyus Jones,MIN,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+150158,21501207,4,11:18,nan,MISS Brewer Free Throw 1 of 1,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+150159,21501207,4,11:17,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150160,21501207,4,11:09,nan,Brewer S.FOUL (P1.T1) (E.Lewis),nan,201147,Corey Brewer,HOU,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Shooting
+150161,21501207,4,11:09,Bjelica Free Throw 1 of 2 (8 PTS),nan,105 - 75,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150162,21501207,4,11:09,Bjelica Free Throw 2 of 2 (9 PTS),nan,105 - 76,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150163,21501207,4,10:50,nan,MISS Beverley 21' Step Back Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150164,21501207,4,10:49,Jones REBOUND (Off:0 Def:2),nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150165,21501207,4,10:43,nan,Smith P.FOUL (P4.T2) (E.Lewis),nan,2746,Josh Smith,HOU,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+150166,21501207,4,10:39,nan,Smith S.FOUL (P5.T3) (K.Lane),nan,2746,Josh Smith,HOU,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+150167,21501207,4,10:39,Muhammad Free Throw 1 of 2 (10 PTS),nan,105 - 77,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150168,21501207,4,10:39,Muhammad Free Throw 2 of 2 (11 PTS),nan,105 - 78,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150169,21501207,4,10:24,nan,Smith 25' 3PT Jump Shot (11 PTS) (Brewer 3 AST),108 - 78,2746,Josh Smith,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+150170,21501207,4,10:05,Muhammad 2' Cutting Layup Shot (13 PTS) (Bjelica 1 AST),nan,108 - 80,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+150171,21501207,4,9:40,nan,MISS Terry 25' 3PT Step Back Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150172,21501207,4,9:39,Bjelica REBOUND (Off:2 Def:7),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150173,21501207,4,9:33,Muhammad 24' 3PT Jump Shot (16 PTS) (Prince 1 AST),nan,108 - 83,203498,Shabazz Muhammad,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Made Shot ,nan
+150174,21501207,4,9:09,Bjelica S.FOUL (P4.T2) (E.Lewis),nan,nan,202357,Nemanja Bjelica,MIN,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting
+150175,21501207,4,9:09,nan,Beverley Free Throw 1 of 2 (8 PTS),109 - 83,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150176,21501207,4,9:09,nan,MISS Beverley Free Throw 2 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150177,21501207,4,9:08,nan,Beverley REBOUND (Off:1 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150178,21501207,4,9:06,Bjelica S.FOUL (P5.T3) (B.Kennedy),nan,nan,202357,Nemanja Bjelica,MIN,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Shooting
+150179,21501207,4,9:06,nan,MISS Beverley Free Throw 1 of 2,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150180,21501207,4,9:06,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+150181,21501207,4,9:06,nan,Beverley Free Throw 2 of 2 (9 PTS),110 - 83,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150182,21501207,4,8:52,Towns 17' Jump Shot (10 PTS) (Prince 2 AST),nan,110 - 85,1626157,Karl-Anthony Towns,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Made Shot ,nan
+150183,21501207,4,8:35,nan,MISS Terry 25' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150184,21501207,4,8:34,Bjelica REBOUND (Off:2 Def:8),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150185,21501207,4,8:18,Bjelica 2' Cutting Finger Roll Layup Shot (11 PTS) (Prince 3 AST),nan,110 - 87,202357,Nemanja Bjelica,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Made Shot ,nan
+150186,21501207,4,7:54,nan,Capela 5' Hook Shot (6 PTS) (Smith 2 AST),112 - 87,203991,Clint Capela,HOU,2746,Josh Smith,HOU,0,nan,nan,Made Shot ,nan
+150187,21501207,4,7:42,nan,Capela Violation:Defensive Goaltending (K.Lane),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+150188,21501207,4,7:42,Muhammad 5' Turnaround Jump Shot (18 PTS),nan,112 - 89,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+150189,21501207,4,7:26,nan,Beverley 2' Driving Finger Roll Layup (11 PTS),114 - 89,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+150190,21501207,4,7:12,Towns 15' Jump Shot (12 PTS),nan,114 - 91,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+150191,21501207,4,7:00,nan,Capela 5' Hook Shot (8 PTS) (Smith 3 AST),116 - 91,203991,Clint Capela,HOU,2746,Josh Smith,HOU,0,nan,nan,Made Shot ,nan
+150192,21501207,4,7:00,TIMBERWOLVES Timeout: Regular (Full 4 Short 2),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+150193,21501207,4,7:00,SUB: Payne FOR Towns,nan,nan,1626157,Karl-Anthony Towns,MIN,203940,Adreian Payne,MIN,0,nan,nan,Substitution ,nan
+150194,21501207,4,7:00,SUB: Rudez FOR Prince,nan,nan,2419,Tayshaun Prince,MIN,204014,Damjan Rudez,MIN,0,nan,nan,Substitution ,nan
+150195,21501207,4,6:49,MISS Jones 3' Driving Layup,nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150196,21501207,4,6:48,Bjelica REBOUND (Off:3 Def:8),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150197,21501207,4,6:47,MISS Bjelica 3' Layup,Beverley BLOCK (2 BLK),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,201976,Patrick Beverley,HOU,Missed Shot ,nan
+150198,21501207,4,6:46,nan,Beverley REBOUND (Off:1 Def:4),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150199,21501207,4,6:39,nan,MISS Smith 25' 3PT Jump Shot,nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150200,21501207,4,6:37,nan,Capela REBOUND (Off:2 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150201,21501207,4,6:33,nan,Capela 6' Hook Shot (10 PTS),118 - 91,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+150202,21501207,4,6:19,Bjelica Lost Ball Turnover (P1.T12),Beverley STEAL (1 STL),nan,202357,Nemanja Bjelica,MIN,201976,Patrick Beverley,HOU,0,nan,nan,Turnover ,Lost Ball
+150203,21501207,4,6:12,Jones STEAL (1 STL),Brewer Bad Pass Turnover (P2.T13),nan,201147,Corey Brewer,HOU,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Bad Pass
+150204,21501207,4,6:09,nan,Smith S.FOUL (P6.T4) (B.Kennedy),nan,2746,Josh Smith,HOU,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+150205,21501207,4,6:09,nan,SUB: Motiejunas FOR Smith,nan,2746,Josh Smith,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+150206,21501207,4,6:09,MISS Muhammad Free Throw 1 of 2,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150207,21501207,4,6:09,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+150208,21501207,4,6:09,MISS Muhammad Free Throw 2 of 2,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150209,21501207,4,6:08,nan,Capela REBOUND (Off:2 Def:7),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150210,21501207,4,6:00,nan,Terry 24' 3PT Jump Shot (6 PTS) (Brewer 4 AST),121 - 91,1891,Jason Terry,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+150211,21501207,4,5:48,MISS Payne 19' Jump Shot,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150212,21501207,4,5:47,nan,Capela REBOUND (Off:2 Def:8),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150213,21501207,4,5:35,nan,MISS Capela 2' Layup,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150214,21501207,4,5:33,Payne REBOUND (Off:0 Def:1),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150215,21501207,4,5:29,Payne Lost Ball Turnover (P1.T13),Capela STEAL (1 STL),nan,203940,Adreian Payne,MIN,203991,Clint Capela,HOU,0,nan,nan,Turnover ,Lost Ball
+150216,21501207,4,5:29,nan,Capela Offensive Charge Foul (P2.PN) (B.Kennedy),nan,203991,Clint Capela,HOU,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Offensive Charge
+150217,21501207,4,5:29,nan,Capela Foul Turnover (P1.T14),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+150218,21501207,4,5:29,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+150219,21501207,4,5:29,nan,SUB: Goudelock FOR Motiejunas,nan,202700,Donatas Motiejunas,HOU,202726,Andrew Goudelock,HOU,0,nan,nan,Substitution ,nan
+150220,21501207,4,5:29,nan,SUB: Jones FOR Beverley,nan,201976,Patrick Beverley,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+150221,21501207,4,5:29,nan,SUB: Beasley FOR Brewer,nan,201147,Corey Brewer,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+150222,21501207,4,5:29,nan,SUB: McDaniels FOR Capela,nan,203991,Clint Capela,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+150223,21501207,4,5:20,MISS Jones 6' Floating Jump Shot,nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150224,21501207,4,5:18,Bjelica REBOUND (Off:4 Def:8),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150225,21501207,4,5:03,nan,Jones S.FOUL (P1.PN) (K.Lane),nan,203093,Terrence Jones,HOU,203940,Adreian Payne,MIN,0,nan,nan,Foul ,Shooting
+150226,21501207,4,5:03,MISS Payne Free Throw 1 of 2,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150227,21501207,4,5:03,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+150228,21501207,4,5:03,MISS Payne Free Throw 2 of 2,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150229,21501207,4,5:03,nan,Beasley REBOUND (Off:0 Def:1),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150230,21501207,4,4:54,Jones STEAL (2 STL),Beasley Bad Pass Turnover (P1.T15),nan,201563,Michael Beasley,HOU,1626145,Tyus Jones,MIN,0,nan,nan,Turnover ,Bad Pass
+150231,21501207,4,4:42,Bjelica Bad Pass Turnover (P2.T14),McDaniels STEAL (1 STL),nan,202357,Nemanja Bjelica,MIN,203909,KJ McDaniels,HOU,0,nan,nan,Turnover ,Bad Pass
+150232,21501207,4,4:33,nan,Beasley 13' Pullup Jump Shot (2 PTS),123 - 91,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+150233,21501207,4,4:33,Jones S.FOUL (P4.T4) (E.Lewis),nan,nan,1626145,Tyus Jones,MIN,201563,Michael Beasley,HOU,0,nan,nan,Foul ,Shooting
+150234,21501207,4,4:33,nan,Beasley Free Throw 1 of 1 (3 PTS),124 - 91,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+150235,21501207,4,4:19,MISS Muhammad 18' Pullup Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150236,21501207,4,4:17,Payne REBOUND (Off:1 Def:1),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150237,21501207,4,4:17,MISS Payne 1' Tip Layup Shot,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150238,21501207,4,4:16,Payne REBOUND (Off:2 Def:1),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150239,21501207,4,4:16,Payne  Tip Layup Shot (2 PTS),nan,124 - 93,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+150240,21501207,4,4:02,nan,MISS McDaniels 26' 3PT Jump Shot,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150241,21501207,4,4:01,Bjelica REBOUND (Off:4 Def:9),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150242,21501207,4,4:01,TIMBERWOLVES Timeout: Regular (Full 5 Short 2),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+150243,21501207,4,3:45,nan,Jones P.FOUL (P2.PN) (E.Lewis),nan,203093,Terrence Jones,HOU,203940,Adreian Payne,MIN,0,nan,nan,Foul ,Personal
+150244,21501207,4,3:45,MISS Payne Free Throw 1 of 2,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150245,21501207,4,3:45,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+150246,21501207,4,3:45,Payne Free Throw 2 of 2 (3 PTS),nan,124 - 94,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150247,21501207,4,3:26,nan,Goudelock 12' Turnaround Jump Shot (2 PTS),126 - 94,202726,Andrew Goudelock,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+150248,21501207,4,3:09,nan,Jones P.FOUL (P3.PN) (B.Kennedy),nan,203093,Terrence Jones,HOU,203940,Adreian Payne,MIN,0,nan,nan,Foul ,Personal
+150249,21501207,4,3:09,Payne Free Throw 1 of 2 (4 PTS),nan,126 - 95,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150250,21501207,4,3:09,Payne Free Throw 2 of 2 (5 PTS),nan,126 - 96,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150251,21501207,4,2:57,nan,Jones 1' Layup (2 PTS) (Beasley 1 AST),128 - 96,203093,Terrence Jones,HOU,201563,Michael Beasley,HOU,0,nan,nan,Made Shot ,nan
+150252,21501207,4,2:46,MISS Rudez 25' 3PT Jump Shot,nan,nan,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150253,21501207,4,2:45,nan,Beasley REBOUND (Off:0 Def:2),nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150254,21501207,4,2:31,nan,MISS McDaniels 11' Turnaround Jump Shot,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150255,21501207,4,2:30,nan,Jones REBOUND (Off:1 Def:0),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150256,21501207,4,2:26,nan,MISS Jones 15' Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150257,21501207,4,2:26,Bjelica REBOUND (Off:4 Def:10),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150258,21501207,4,2:18,Muhammad 1' Driving Layup (20 PTS) (Jones 5 AST),nan,128 - 98,203498,Shabazz Muhammad,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+150259,21501207,4,2:04,Payne STEAL (3 STL),Jones Bad Pass Turnover (P1.T16),nan,203093,Terrence Jones,HOU,203940,Adreian Payne,MIN,0,nan,nan,Turnover ,Bad Pass
+150260,21501207,4,1:59,Muhammad  Running Dunk (22 PTS),nan,128 - 100,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+150261,21501207,4,1:45,Payne S.FOUL (P1.PN) (B.Kennedy),nan,nan,203940,Adreian Payne,MIN,201563,Michael Beasley,HOU,0,nan,nan,Foul ,Shooting
+150262,21501207,4,1:45,nan,Beasley Free Throw 1 of 2 (4 PTS),129 - 100,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150263,21501207,4,1:45,SUB: Smith FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,202962,Greg Smith,MIN,0,nan,nan,Substitution ,nan
+150264,21501207,4,1:45,nan,MISS Beasley Free Throw 2 of 2,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150265,21501207,4,1:45,Payne REBOUND (Off:2 Def:2),nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150266,21501207,4,1:25,MISS Payne 4' Jump Shot,nan,nan,203940,Adreian Payne,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150267,21501207,4,1:24,nan,Jones REBOUND (Off:1 Def:1),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150268,21501207,4,1:18,nan,MISS Goudelock 24' 3PT Jump Shot,nan,202726,Andrew Goudelock,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150269,21501207,4,1:17,Jones REBOUND (Off:0 Def:3),nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150270,21501207,4,1:10,Payne 2' Driving Layup (7 PTS) (Muhammad 2 AST),nan,129 - 102,203940,Adreian Payne,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Made Shot ,nan
+150271,21501207,4,0:59,Muhammad STEAL (1 STL),Goudelock Bad Pass Turnover (P1.T17),nan,202726,Andrew Goudelock,HOU,203498,Shabazz Muhammad,MIN,0,nan,nan,Turnover ,Bad Pass
+150272,21501207,4,0:55,nan,Beasley S.FOUL (P1.PN) (B.Kennedy),nan,201563,Michael Beasley,HOU,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+150273,21501207,4,0:55,Muhammad Free Throw 1 of 2 (23 PTS),nan,129 - 103,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+150274,21501207,4,0:55,MISS Muhammad Free Throw 2 of 2,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+150275,21501207,4,0:53,nan,McDaniels REBOUND (Off:0 Def:1),nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150276,21501207,4,0:49,nan,McDaniels Discontinue Dribble Turnover (P1.T18),nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Turnover ,Discontinue Dribble
+150277,21501207,4,0:27,MISS Muhammad 24' 3PT Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150278,21501207,4,0:26,Smith REBOUND (Off:1 Def:1),nan,nan,202962,Greg Smith,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150279,21501207,4,0:22,Jones 16' Jump Shot (2 PTS) (Smith 1 AST),nan,129 - 105,1626145,Tyus Jones,MIN,202962,Greg Smith,MIN,0,nan,nan,Made Shot ,nan
+150280,21501207,4,0:00,nan,nan,129 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

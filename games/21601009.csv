@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+277462,21601009,4,12:00,nan,nan,74 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+277463,21601009,4,11:39,MISS Valentine 25' 3PT Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277464,21601009,4,11:38,nan,Daniels REBOUND (Off:1 Def:2),nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277465,21601009,4,11:16,nan,MISS Daniels 28' 3PT Jump Shot,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277466,21601009,4,11:15,Butler REBOUND (Off:2 Def:4),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277467,21601009,4,11:05,MISS Butler 6' Floating Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277468,21601009,4,11:04,nan,Randolph REBOUND (Off:4 Def:4),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277469,21601009,4,10:48,nan,Wright 1' Reverse Layup (4 PTS) (Randolph 2 AST),76 - 71,201148,Brandan Wright,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+277470,21601009,4,10:27,MISS Carter-Williams 8' Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277471,21601009,4,10:27,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277472,21601009,4,10:27,Felicio L.B.FOUL (P1.T1) (J.Capers),nan,nan,1626245,Cristiano Felicio,CHI,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+277473,21601009,4,10:27,SUB: Wade FOR Butler,nan,nan,202710,Jimmy Butler,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Substitution ,nan
+277474,21601009,4,10:17,Carter-Williams P.FOUL (P2.T2) (J.Capers),nan,nan,203487,Michael Carter-Williams,CHI,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+277475,21601009,4,10:12,Carter-Williams STEAL (2 STL),Conley Lost Ball Turnover (P3.T8),nan,201144,Mike Conley,MEM,203487,Michael Carter-Williams,CHI,0,nan,nan,Turnover ,Lost Ball
+277476,21601009,4,10:08,Valentine 2' Driving Layup (5 PTS) (Carter-Williams 1 AST),nan,76 - 73,1627756,Denzel Valentine,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+277477,21601009,4,9:46,nan,MISS Wright 9' Hook Shot,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277478,21601009,4,9:44,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277479,21601009,4,9:42,Carter-Williams P.FOUL (P3.T3) (J.Capers),nan,nan,203487,Michael Carter-Williams,CHI,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+277480,21601009,4,9:37,Valentine P.FOUL (P1.T4) (D.Guthrie),nan,nan,1627756,Denzel Valentine,CHI,203584,Troy Daniels,MEM,0,nan,nan,Foul ,Personal
+277481,21601009,4,9:25,nan,MISS Ennis III 27' 3PT Jump Shot,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277482,21601009,4,9:23,nan,Wright REBOUND (Off:2 Def:2),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277483,21601009,4,9:21,nan,MISS Daniels 25' 3PT Jump Shot,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277484,21601009,4,9:20,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277485,21601009,4,9:10,Mirotic S.FOUL (P3.PN) (J.Capers),nan,nan,202703,Nikola Mirotic,CHI,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+277486,21601009,4,9:10,nan,Conley Free Throw 1 of 2 (21 PTS),77 - 73,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277487,21601009,4,9:10,nan,Conley Free Throw 2 of 2 (22 PTS),78 - 73,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277488,21601009,4,8:51,Valentine 24' 3PT Jump Shot (8 PTS) (Wade 4 AST),nan,78 - 76,1627756,Denzel Valentine,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+277489,21601009,4,8:35,nan,Wright OFF.Foul (P3) (J.Capers),nan,201148,Brandan Wright,MEM,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Offensive
+277490,21601009,4,8:35,nan,Wright Foul Turnover (P1.T9),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+277491,21601009,4,8:35,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277492,21601009,4,8:35,SUB: Butler FOR Wade,nan,nan,2548,Dwyane Wade,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+277493,21601009,4,8:35,nan,SUB: Carter FOR Daniels,nan,203584,Troy Daniels,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+277494,21601009,4,8:11,MISS Carter-Williams 22' Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277495,21601009,4,8:11,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277496,21601009,4,8:11,BULLS Turnover: Shot Clock (T#5),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+277497,21601009,4,7:57,Valentine STEAL (1 STL),Carter Bad Pass Turnover (P1.T10),nan,1713,Vince Carter,MEM,1627756,Denzel Valentine,CHI,0,nan,nan,Turnover ,Bad Pass
+277498,21601009,4,7:52,MISS Valentine 2' Running Layup,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277499,21601009,4,7:51,Butler REBOUND (Off:3 Def:4),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277500,21601009,4,7:48,MISS Butler 14' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277501,21601009,4,7:47,Mirotic REBOUND (Off:1 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277502,21601009,4,7:36,nan,Randolph S.FOUL (P1.T1) (J.Orr),nan,2216,Zach Randolph,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+277503,21601009,4,7:36,Butler Free Throw 1 of 2 (14 PTS),nan,78 - 77,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277504,21601009,4,7:36,nan,SUB: Gasol FOR Wright,nan,201148,Brandan Wright,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+277505,21601009,4,7:36,MISS Butler Free Throw 2 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277506,21601009,4,7:35,nan,Gasol REBOUND (Off:0 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277507,21601009,4,7:16,nan,MISS Gasol 7' Turnaround Fadeaway Bank Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277508,21601009,4,7:15,Valentine REBOUND (Off:0 Def:4),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277509,21601009,4,6:57,MISS Butler 20' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277510,21601009,4,6:56,nan,Randolph REBOUND (Off:4 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277511,21601009,4,6:35,nan,MISS Carter  3PT Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277512,21601009,4,6:34,Valentine REBOUND (Off:0 Def:5),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277513,21601009,4,6:26,nan,Ennis III P.FOUL (P3.T2) (J.Orr),nan,203516,James Ennis III,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+277514,21601009,4,6:26,nan,SUB: Allen FOR Ennis III,nan,203516,James Ennis III,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+277515,21601009,4,6:26,SUB: Rondo FOR Carter-Williams,nan,nan,203487,Michael Carter-Williams,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Substitution ,nan
+277516,21601009,4,6:15,MISS Mirotic 26' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277517,21601009,4,6:14,nan,Carter REBOUND (Off:1 Def:1),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277518,21601009,4,6:06,nan,Randolph 2' Layup (8 PTS) (Gasol 6 AST),80 - 77,2216,Zach Randolph,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+277519,21601009,4,5:46,Mirotic 26' 3PT Jump Shot (11 PTS) (Valentine 2 AST),nan,80 - 80,202703,Nikola Mirotic,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+277520,21601009,4,5:24,nan,Gasol 25' 3PT Jump Shot (19 PTS) (Conley 5 AST),83 - 80,201188,Marc Gasol,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+277521,21601009,4,5:09,Mirotic Lost Ball Turnover (P2.T6),Conley STEAL (1 STL),nan,202703,Nikola Mirotic,CHI,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Lost Ball
+277522,21601009,4,4:59,nan,MISS Gasol 26' 3PT Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277523,21601009,4,4:58,Valentine REBOUND (Off:0 Def:6),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277524,21601009,4,4:50,MISS Rondo 19' Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277525,21601009,4,4:49,Felicio REBOUND (Off:1 Def:1),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277526,21601009,4,4:46,Mirotic 25' 3PT Jump Shot (14 PTS) (Felicio 2 AST),nan,83 - 83,202703,Nikola Mirotic,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+277527,21601009,4,4:20,nan,Gasol 3' Driving Layup (21 PTS) (Randolph 3 AST),85 - 83,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+277528,21601009,4,4:20,Mirotic S.FOUL (P4.PN) (J.Capers),nan,nan,202703,Nikola Mirotic,CHI,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+277529,21601009,4,4:20,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277530,21601009,4,4:20,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+277531,21601009,4,4:20,SUB: Lopez FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+277532,21601009,4,4:20,nan,Gasol Free Throw 1 of 1 (22 PTS),86 - 83,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+277533,21601009,4,4:10,nan,Conley P.FOUL (P3.T3) (J.Capers),nan,201144,Mike Conley,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+277534,21601009,4,3:56,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277535,21601009,4,3:55,nan,Carter REBOUND (Off:1 Def:2),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277536,21601009,4,3:41,nan,Conley 24' 3PT Jump Shot (25 PTS),89 - 83,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+277537,21601009,4,3:31,Valentine  3PT Jump Shot (11 PTS) (Rondo 8 AST),nan,89 - 86,1627756,Denzel Valentine,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+277538,21601009,4,3:08,nan,Gasol 13' Turnaround Fadeaway (24 PTS) (Conley 6 AST),91 - 86,201188,Marc Gasol,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+277539,21601009,4,2:54,MISS Mirotic 11' Driving Hook Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277540,21601009,4,2:53,nan,Green REBOUND (Off:1 Def:6),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277541,21601009,4,2:32,nan,Conley Out of Bounds - Bad Pass Turnover Turnover (P4.T11),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+277542,21601009,4,2:32,nan,Grizzlies Timeout: Regular (Reg.4 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277543,21601009,4,2:15,MISS Mirotic 25' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277544,21601009,4,2:14,Rondo REBOUND (Off:2 Def:3),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277545,21601009,4,2:09,Rondo 24' 3PT Jump Shot (17 PTS) (Mirotic 2 AST),nan,91 - 89,200765,Rajon Rondo,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+277546,21601009,4,1:45,nan,Allen  Dunk (10 PTS) (Gasol 7 AST),93 - 89,2754,Tony Allen,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+277547,21601009,4,1:30,MISS Rondo 25' 3PT Pullup Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277548,21601009,4,1:29,nan,Gasol REBOUND (Off:0 Def:6),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277549,21601009,4,1:12,nan,Gasol 25' 3PT Jump Shot (27 PTS) (Conley 7 AST),96 - 89,201188,Marc Gasol,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+277550,21601009,4,1:12,BULLS Timeout: Regular (Full 5 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+277551,21601009,4,0:59,MISS Mirotic 25' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277552,21601009,4,0:59,Rondo REBOUND (Off:3 Def:3),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277553,21601009,4,0:59,nan,Carter P.FOUL (P1.T4) (J.Orr),nan,1713,Vince Carter,MEM,200765,Rajon Rondo,CHI,0,nan,nan,Foul ,Personal
+277554,21601009,4,0:50,MISS Butler 26' 3PT Fadeaway Jumper,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277555,21601009,4,0:49,nan,Conley REBOUND (Off:0 Def:9),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277556,21601009,4,0:43,Rondo Personal Take Foul (P4.PN) (D.Guthrie),nan,nan,200765,Rajon Rondo,CHI,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal Take
+277557,21601009,4,0:43,nan,Conley Free Throw 1 of 2 (26 PTS),97 - 89,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+277558,21601009,4,0:43,nan,Conley Free Throw 2 of 2 (27 PTS),98 - 89,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+277559,21601009,4,0:43,BULLS Timeout: Short (Full 5 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+277560,21601009,4,0:43,nan,SUB: Ennis III FOR Conley,nan,201144,Mike Conley,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+277561,21601009,4,0:36,MISS Mirotic 25' 3PT Jump Shot,Green BLOCK (1 BLK),nan,202703,Nikola Mirotic,CHI,0,nan,nan,203210,JaMychal Green,MEM,Missed Shot ,nan
+277562,21601009,4,0:35,nan,Allen REBOUND (Off:3 Def:3),nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277563,21601009,4,0:27,Mirotic BLOCK (2 BLK),MISS Green 3' Layup,nan,203210,JaMychal Green,MEM,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+277564,21601009,4,0:25,nan,Ennis III REBOUND (Off:1 Def:3),nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277565,21601009,4,0:19,nan,MISS Green 25' 3PT Jump Shot,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277566,21601009,4,0:17,Valentine REBOUND (Off:0 Def:7),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277567,21601009,4,0:09,MISS Valentine 25' 3PT Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+277568,21601009,4,0:08,Mirotic REBOUND (Off:2 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+277569,21601009,4,0:04,Lopez 16' Jump Shot (8 PTS) (Valentine 3 AST),nan,98 - 91,201577,Robin Lopez,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+277570,21601009,4,0:00,nan,nan,98 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

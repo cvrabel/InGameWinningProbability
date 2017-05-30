@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+244039,21600736,4,12:00,nan,nan,69 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+244040,21600736,4,11:35,MISS Nowitzki 13' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244041,21600736,4,11:34,nan,Saric REBOUND (Off:1 Def:3),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244042,21600736,4,11:22,nan,MISS Saric 26' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244043,21600736,4,11:21,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244044,21600736,4,11:04,Mejri  Alley Oop Dunk (8 PTS) (Curry 6 AST),nan,69 - 83,1626257,Salah Mejri,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+244045,21600736,4,10:49,nan,MISS Rodriguez 24' 3PT Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244046,21600736,4,10:48,nan,Saric REBOUND (Off:2 Def:3),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244047,21600736,4,10:43,Finney-Smith BLOCK (1 BLK),MISS Saric 2' Putback Layup,nan,203967,Dario Saric,PHI,0,nan,nan,1627827,Dorian Finney-Smith,DAL,Missed Shot ,nan
+244048,21600736,4,10:41,nan,Ilyasova REBOUND (Off:1 Def:8),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244049,21600736,4,10:40,nan,MISS Ilyasova 1' Putback Layup,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244050,21600736,4,10:39,Mejri REBOUND (Off:7 Def:8),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244051,21600736,4,10:25,MISS Curry 24' 3PT Jump Shot,nan,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244052,21600736,4,10:24,Mejri REBOUND (Off:8 Def:8),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244053,21600736,4,10:24,Mejri  Putback Dunk (10 PTS),nan,69 - 85,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+244054,21600736,4,10:24,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244055,21600736,4,10:12,Mejri S.FOUL (P2.T1) (C.Blair),nan,nan,1626257,Salah Mejri,DAL,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Shooting
+244056,21600736,4,10:12,nan,MISS Okafor Free Throw 1 of 2,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244057,21600736,4,10:12,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+244058,21600736,4,10:12,nan,Okafor Free Throw 2 of 2 (12 PTS),70 - 85,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244059,21600736,4,10:01,Mejri  Cutting Dunk Shot (12 PTS) (Ferrell 3 AST),nan,70 - 87,1626257,Salah Mejri,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+244060,21600736,4,9:46,nan,MISS Rodriguez 25' 3PT Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244061,21600736,4,9:45,Mejri REBOUND (Off:8 Def:9),nan,nan,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244062,21600736,4,9:33,nan,Stauskas S.FOUL (P3.T1) (K.Lane),nan,203917,Nik Stauskas,PHI,203552,Seth Curry,DAL,0,nan,nan,Foul ,Shooting
+244063,21600736,4,9:33,Curry Free Throw 1 of 2 (17 PTS),nan,70 - 88,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244064,21600736,4,9:33,nan,SUB: McConnell FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+244065,21600736,4,9:33,nan,SUB: Henderson FOR Saric,nan,203967,Dario Saric,PHI,201945,Gerald Henderson,PHI,0,nan,nan,Substitution ,nan
+244066,21600736,4,9:33,Curry Free Throw 2 of 2 (18 PTS),nan,70 - 89,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244067,21600736,4,9:22,nan,Okafor  Cutting Dunk Shot (14 PTS) (Stauskas 2 AST),72 - 89,1626143,Jahlil Okafor,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+244068,21600736,4,8:57,Mejri  Driving Dunk (14 PTS),nan,72 - 91,1626257,Salah Mejri,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+244069,21600736,4,8:41,nan,MISS Ilyasova 24' 3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244070,21600736,4,8:40,Nowitzki REBOUND (Off:0 Def:5),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244071,21600736,4,8:33,MISS Nowitzki 24' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244072,21600736,4,8:33,nan,Ilyasova REBOUND (Off:1 Def:9),nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244073,21600736,4,8:26,nan,MISS Ilyasova 25' 3PT Jump Shot,nan,101141,Ersan Ilyasova,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244074,21600736,4,8:23,Finney-Smith REBOUND (Off:0 Def:1),nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244075,21600736,4,8:13,MISS Ferrell 18' Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244076,21600736,4,8:12,nan,Stauskas REBOUND (Off:0 Def:3),nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244077,21600736,4,8:01,nan,Okafor 1' Layup (16 PTS),74 - 91,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+244078,21600736,4,8:01,MAVERICKS Timeout: Regular (Full 4 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244079,21600736,4,8:01,SUB: Harris FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+244080,21600736,4,8:01,SUB: Barnes FOR Ferrell,nan,nan,1627812,Yogi Ferrell,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+244081,21600736,4,8:01,nan,SUB: Noel FOR Okafor,nan,1626143,Jahlil Okafor,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+244082,21600736,4,7:43,Mejri  Cutting Dunk Shot (16 PTS) (Harris 3 AST),nan,74 - 93,1626257,Salah Mejri,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+244083,21600736,4,7:25,Barnes STEAL (2 STL),Stauskas Lost Ball Turnover (P1.T11),nan,203917,Nik Stauskas,PHI,203084,Harrison Barnes,DAL,0,nan,nan,Turnover ,Lost Ball
+244084,21600736,4,7:22,Curry 1' Running Layup (20 PTS) (Finney-Smith 1 AST),nan,74 - 95,203552,Seth Curry,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+244085,21600736,4,7:22,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244086,21600736,4,7:22,SUB: Ferrell FOR Harris,nan,nan,2734,Devin Harris,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Substitution ,nan
+244087,21600736,4,7:16,Barnes P.FOUL (P2.T2) (K.Lane),nan,nan,203084,Harrison Barnes,DAL,101141,Ersan Ilyasova,PHI,0,nan,nan,Foul ,Personal
+244088,21600736,4,7:02,nan,McConnell 5' Driving Floating Bank Jump Shot (6 PTS),76 - 95,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+244089,21600736,4,6:49,nan,Ilyasova P.FOUL (P1.T2) (K.Lane),nan,101141,Ersan Ilyasova,PHI,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+244090,21600736,4,6:43,MISS Ferrell 16' Pullup Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244091,21600736,4,6:41,nan,Henderson REBOUND (Off:1 Def:2),nan,201945,Gerald Henderson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244092,21600736,4,6:32,nan,MISS Noel 15' Step Back Jump Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244093,21600736,4,6:31,Barnes REBOUND (Off:2 Def:5),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244094,21600736,4,6:22,nan,Ilyasova Personal Block Foul (P2.T3) (K.Lane),nan,101141,Ersan Ilyasova,PHI,203552,Seth Curry,DAL,0,nan,nan,Foul ,Personal Block
+244095,21600736,4,6:22,SUB: Powell FOR Mejri,nan,nan,1626257,Salah Mejri,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+244096,21600736,4,6:22,nan,SUB: Randle FOR Stauskas,nan,203917,Nik Stauskas,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Substitution ,nan
+244097,21600736,4,6:22,nan,SUB: Holmes FOR Noel,nan,203457,Nerlens Noel,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+244098,21600736,4,6:14,Curry 10' Jump Shot (22 PTS),nan,76 - 97,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+244099,21600736,4,6:06,nan,McConnell 2' Running Layup (8 PTS),78 - 97,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+244100,21600736,4,5:48,nan,Randle P.FOUL (P1.T4) (C.Blair),nan,1626184,Chasson Randle,PHI,203552,Seth Curry,DAL,0,nan,nan,Foul ,Personal
+244101,21600736,4,5:48,nan,SUB: Luwawu-Cabarrot FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+244102,21600736,4,5:48,nan,SUB: Saric FOR McConnell,nan,204456,T.J. McConnell,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+244103,21600736,4,5:40,Powell 24' 3PT Jump Shot (3 PTS) (Ferrell 4 AST),nan,78 - 100,203939,Dwight Powell,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+244104,21600736,4,5:27,nan,Randle 13' Pullup Jump Shot (2 PTS) (Luwawu-Cabarrot 2 AST),80 - 100,1626184,Chasson Randle,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Made Shot ,nan
+244105,21600736,4,5:12,Powell Lost Ball Turnover (P1.T10),Randle STEAL (1 STL),nan,203939,Dwight Powell,DAL,1626184,Chasson Randle,PHI,0,nan,nan,Turnover ,Lost Ball
+244106,21600736,4,5:05,Ferrell STEAL (1 STL),Randle Bad Pass Turnover (P1.T12),nan,1626184,Chasson Randle,PHI,1627812,Yogi Ferrell,DAL,0,nan,nan,Turnover ,Bad Pass
+244107,21600736,4,4:58,MISS Barnes 26' 3PT Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244108,21600736,4,4:56,Powell REBOUND (Off:1 Def:1),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244109,21600736,4,4:53,MISS Ferrell 24' 3PT Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244110,21600736,4,4:52,nan,Saric REBOUND (Off:2 Def:4),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244111,21600736,4,4:39,nan,Randle 24' 3PT Jump Shot (5 PTS),83 - 100,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+244112,21600736,4,4:31,MAVERICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+244113,21600736,4,4:31,SUB: Anderson FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+244114,21600736,4,4:31,SUB: Brussino FOR Curry,nan,nan,203552,Seth Curry,DAL,1627852,Nicolas Brussino,DAL,0,nan,nan,Substitution ,nan
+244115,21600736,4,4:31,nan,SUB: Stauskas FOR Henderson,nan,201945,Gerald Henderson,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+244116,21600736,4,4:18,Powell 3' Reverse Layup (5 PTS) (Ferrell 5 AST),nan,83 - 102,203939,Dwight Powell,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+244117,21600736,4,4:08,Powell Shooting Block Foul (P3.T3) (J.Goble),nan,nan,203939,Dwight Powell,DAL,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting Block
+244118,21600736,4,4:08,nan,MISS Saric Free Throw 1 of 2,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244119,21600736,4,4:08,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+244120,21600736,4,4:08,nan,MISS Saric Free Throw 2 of 2,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244121,21600736,4,4:07,Anderson REBOUND (Off:0 Def:1),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244122,21600736,4,3:49,MISS Ferrell 26' 3PT Jump Shot,nan,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244123,21600736,4,3:48,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:4),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244124,21600736,4,3:40,Powell BLOCK (1 BLK),MISS Luwawu-Cabarrot 3' Layup,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,203939,Dwight Powell,DAL,Missed Shot ,nan
+244125,21600736,4,3:38,Anderson REBOUND (Off:0 Def:2),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244126,21600736,4,3:30,Anderson 24' 3PT Jump Shot (3 PTS) (Finney-Smith 2 AST),nan,83 - 105,1626147,Justin Anderson,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Made Shot ,nan
+244127,21600736,4,3:12,nan,Randle 7' Driving Bank Shot (7 PTS),85 - 105,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+244128,21600736,4,3:12,Ferrell S.FOUL (P2.T4) (J.Goble),nan,nan,1627812,Yogi Ferrell,DAL,1626184,Chasson Randle,PHI,0,nan,nan,Foul ,Shooting
+244129,21600736,4,3:12,nan,Randle Free Throw 1 of 1 (8 PTS),86 - 105,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+244130,21600736,4,2:59,MISS Brussino 14' Jump Shot,nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244131,21600736,4,2:58,nan,Randle REBOUND (Off:0 Def:2),nan,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244132,21600736,4,2:49,Powell STEAL (1 STL),Stauskas Lost Ball Turnover (P2.T13),nan,203917,Nik Stauskas,PHI,203939,Dwight Powell,DAL,0,nan,nan,Turnover ,Lost Ball
+244133,21600736,4,2:41,nan,Luwawu-Cabarrot S.FOUL (P5.PN) (J.Goble),nan,1627789,Timothe Luwawu-Cabarrot,PHI,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Foul ,Shooting
+244134,21600736,4,2:41,MISS Finney-Smith Free Throw 1 of 2,nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244135,21600736,4,2:41,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+244136,21600736,4,2:41,Finney-Smith Free Throw 2 of 2 (5 PTS),nan,86 - 106,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244137,21600736,4,2:28,nan,Luwawu-Cabarrot 1' Reverse Layup (7 PTS) (Randle 1 AST),88 - 106,1627789,Timothe Luwawu-Cabarrot,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Made Shot ,nan
+244138,21600736,4,2:14,nan,Holmes Violation:Kicked Ball (K.Lane),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+244139,21600736,4,2:08,nan,Randle S.FOUL (P2.PN) (C.Blair),nan,1626184,Chasson Randle,PHI,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Shooting
+244140,21600736,4,2:08,Powell Free Throw 1 of 2 (6 PTS),nan,88 - 107,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244141,21600736,4,2:08,MISS Powell Free Throw 2 of 2,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244142,21600736,4,2:07,Anderson REBOUND (Off:1 Def:2),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244143,21600736,4,2:05,Anderson Bad Pass Turnover (P1.T11),Saric STEAL (1 STL),nan,1626147,Justin Anderson,DAL,203967,Dario Saric,PHI,0,nan,nan,Turnover ,Bad Pass
+244144,21600736,4,1:54,nan,Stauskas 25' 3PT Jump Shot (8 PTS) (Saric 2 AST),91 - 107,203917,Nik Stauskas,PHI,203967,Dario Saric,PHI,0,nan,nan,Made Shot ,nan
+244145,21600736,4,1:53,nan,Randle P.FOUL (P3.PN) (C.Blair),nan,1626184,Chasson Randle,PHI,1627812,Yogi Ferrell,DAL,0,nan,nan,Foul ,Personal
+244146,21600736,4,1:53,Ferrell Free Throw 1 of 2 (10 PTS),nan,91 - 108,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244147,21600736,4,1:53,Ferrell Free Throw 2 of 2 (11 PTS),nan,91 - 109,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244148,21600736,4,1:44,nan,Holmes  Finger Roll Layup (2 PTS) (Randle 2 AST),93 - 109,1626158,Richaun Holmes,PHI,1626184,Chasson Randle,PHI,0,nan,nan,Made Shot ,nan
+244149,21600736,4,1:21,Anderson 1' Driving Layup (5 PTS),nan,93 - 111,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+244150,21600736,4,1:13,nan,MISS Randle 24' 3PT Jump Shot,nan,1626184,Chasson Randle,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244151,21600736,4,1:12,Anderson REBOUND (Off:1 Def:3),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244152,21600736,4,1:03,MISS Powell  Layup,Holmes BLOCK (1 BLK),nan,203939,Dwight Powell,DAL,0,nan,nan,1626158,Richaun Holmes,PHI,Missed Shot ,nan
+244153,21600736,4,1:01,nan,Saric REBOUND (Off:2 Def:5),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244154,21600736,4,0:54,nan,MISS Saric 24' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244155,21600736,4,0:53,Powell REBOUND (Off:1 Def:2),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244156,21600736,4,0:34,MISS Anderson 25' 3PT Jump Shot,nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+244157,21600736,4,0:33,Brussino REBOUND (Off:1 Def:0),nan,nan,1627852,Nicolas Brussino,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+244158,21600736,4,0:25,Anderson 6' Driving Bank Shot (7 PTS),nan,93 - 113,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+244159,21600736,4,0:14,Powell S.FOUL (P4.PN) (J.Goble),nan,nan,203939,Dwight Powell,DAL,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+244160,21600736,4,0:14,nan,Saric Free Throw 1 of 2 (9 PTS),94 - 113,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+244161,21600736,4,0:14,nan,Saric Free Throw 2 of 2 (10 PTS),95 - 113,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+244162,21600736,4,0:00,nan,nan,95 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

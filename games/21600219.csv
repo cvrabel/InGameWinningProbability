@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+180604,21600219,4,12:00,nan,nan,90 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+180605,21600219,4,11:46,nan,Joseph 2' Cutting Layup Shot (17 PTS) (Lowry 7 AST),92 - 74,202709,Cory Joseph,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+180606,21600219,4,11:25,Harden Bad Pass Turnover (P9.T21),Patterson STEAL (2 STL),nan,201935,James Harden,HOU,202335,Patrick Patterson,TOR,0,nan,nan,Turnover ,Bad Pass
+180607,21600219,4,11:14,nan,MISS Patterson 25' 3PT Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180608,21600219,4,11:13,Harden REBOUND (Off:0 Def:5),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180609,21600219,4,10:51,Gordon 4' Driving Finger Roll Layup (7 PTS),nan,92 - 76,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+180610,21600219,4,10:37,nan,Nogueira OFF.Foul (P1) (B.Adams),nan,203512,Lucas Nogueira,TOR,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive
+180611,21600219,4,10:37,nan,Nogueira Foul Turnover (P1.T13),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+180612,21600219,4,10:23,MISS Gordon 27' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180613,21600219,4,10:22,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180614,21600219,4,10:16,nan,Nogueira OFF.Foul (P2) (B.Adams),nan,203512,Lucas Nogueira,TOR,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive
+180615,21600219,4,10:16,nan,Nogueira Foul Turnover (P2.T14),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+180616,21600219,4,10:08,nan,Nogueira S.FOUL (P3.T1) (B.Adams),nan,203512,Lucas Nogueira,TOR,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+180617,21600219,4,10:08,Harden Free Throw 1 of 2 (18 PTS),nan,92 - 77,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180618,21600219,4,10:08,Harden Free Throw 2 of 2 (19 PTS),nan,92 - 78,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180619,21600219,4,9:55,nan,Ross  Cutting Dunk Shot (12 PTS) (Nogueira 2 AST),94 - 78,203082,Terrence Ross,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Made Shot ,nan
+180620,21600219,4,9:49,Harden Bad Pass Turnover (P10.T22),Ross STEAL (1 STL),nan,201935,James Harden,HOU,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Bad Pass
+180621,21600219,4,9:41,nan,MISS Lowry 4' Jump Bank Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180622,21600219,4,9:39,Harden REBOUND (Off:0 Def:6),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180623,21600219,4,9:20,Beverley Lost Ball Turnover (P2.T23),Patterson STEAL (3 STL),nan,201976,Patrick Beverley,HOU,202335,Patrick Patterson,TOR,0,nan,nan,Turnover ,Lost Ball
+180624,21600219,4,9:20,Harden Personal Block Foul (P4.T1) (B.Adams),nan,nan,201935,James Harden,HOU,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal Block
+180625,21600219,4,9:20,SUB: Anderson FOR Dekker,nan,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+180626,21600219,4,9:09,Anderson S.FOUL (P3.T2) (B.Adams),nan,nan,201583,Ryan Anderson,HOU,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Shooting
+180627,21600219,4,9:09,nan,Patterson Free Throw 1 of 2 (4 PTS),95 - 78,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180628,21600219,4,9:09,nan,Patterson Free Throw 2 of 2 (5 PTS),96 - 78,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180629,21600219,4,8:56,Harden 26' 3PT Jump Shot (22 PTS) (Gordon 2 AST),nan,96 - 81,201935,James Harden,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+180630,21600219,4,8:30,nan,MISS Joseph 19' Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180631,21600219,4,8:28,Beverley REBOUND (Off:1 Def:4),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180632,21600219,4,8:21,MISS Gordon 19' Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180633,21600219,4,8:20,Capela REBOUND (Off:3 Def:3),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180634,21600219,4,8:15,Harden Bad Pass Turnover (P11.T24),Nogueira STEAL (1 STL),nan,201935,James Harden,HOU,203512,Lucas Nogueira,TOR,0,nan,nan,Turnover ,Bad Pass
+180635,21600219,4,8:11,nan,Ross  Running Dunk (14 PTS),98 - 81,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+180636,21600219,4,7:55,Beverley Out of Bounds Lost Ball Turnover (P3.T25),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+180637,21600219,4,7:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+180638,21600219,4,7:31,nan,Raptors Turnover: Shot Clock (T#15),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+180639,21600219,4,7:18,Harden 3' Driving Layup (24 PTS),nan,98 - 83,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+180640,21600219,4,6:58,nan,MISS Lowry 28' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180641,21600219,4,6:56,Beverley REBOUND (Off:1 Def:5),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180642,21600219,4,6:49,Anderson 30' 3PT Jump Shot (10 PTS) (Harden 12 AST),nan,98 - 86,201583,Ryan Anderson,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+180643,21600219,4,6:28,nan,MISS Lowry 20' Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180644,21600219,4,6:28,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180645,21600219,4,6:28,nan,Nogueira L.B.FOUL (P4.T2) (M.Ayotte),nan,203512,Lucas Nogueira,TOR,203991,Clint Capela,HOU,0,nan,nan,Foul ,Loose Ball
+180646,21600219,4,6:28,nan,SUB: DeRozan FOR Ross,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+180647,21600219,4,6:28,nan,SUB: Valanciunas FOR Nogueira,nan,203512,Lucas Nogueira,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+180648,21600219,4,6:03,ROCKETS Turnover: Shot Clock (T#26),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+180649,21600219,4,5:51,Capela BLOCK (4 BLK),MISS DeRozan 7' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+180650,21600219,4,5:49,nan,Joseph REBOUND (Off:1 Def:1),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180651,21600219,4,5:39,nan,MISS DeRozan 19' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180652,21600219,4,5:36,Beverley REBOUND (Off:1 Def:6),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180653,21600219,4,5:32,Gordon 4' Driving Layup (9 PTS) (Harden 13 AST),nan,98 - 88,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+180654,21600219,4,5:32,nan,Raptors Timeout: Regular (Reg.3 Short 0),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180655,21600219,4,5:32,SUB: Harrell FOR Anderson,nan,nan,201583,Ryan Anderson,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+180656,21600219,4,5:32,SUB: Ariza FOR Capela,nan,nan,203991,Clint Capela,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+180657,21600219,4,5:32,nan,SUB: Carroll FOR Joseph,nan,202709,Cory Joseph,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Substitution ,nan
+180658,21600219,4,5:15,nan,MISS Lowry 27' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180659,21600219,4,5:14,nan,Valanciunas REBOUND (Off:4 Def:10),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180660,21600219,4,5:13,nan,Valanciunas 2' Reverse Layup (13 PTS),100 - 88,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+180661,21600219,4,5:04,Beverley 26' 3PT Jump Shot (10 PTS) (Harden 14 AST),nan,100 - 91,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+180662,21600219,4,4:55,nan,Valanciunas OFF.Foul (P2) (B.Spooner),nan,202685,Jonas Valanciunas,TOR,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive
+180663,21600219,4,4:55,nan,Valanciunas Foul Turnover (P5.T16),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+180664,21600219,4,4:45,MISS Gordon 26' 3PT Jump Shot,Carroll BLOCK (2 BLK),nan,201569,Eric Gordon,HOU,0,nan,nan,201960,DeMarre Carroll,TOR,Missed Shot ,nan
+180665,21600219,4,4:44,Beverley REBOUND (Off:2 Def:6),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180666,21600219,4,4:40,MISS Gordon 25' 3PT Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180667,21600219,4,4:39,nan,Valanciunas REBOUND (Off:4 Def:11),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180668,21600219,4,4:37,Beverley P.FOUL (P3.T3) (B.Spooner),nan,nan,201976,Patrick Beverley,HOU,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+180669,21600219,4,4:18,nan,Lowry 18' Pullup Jump Shot (15 PTS),102 - 91,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+180670,21600219,4,4:07,Harden 1' Driving Layup (26 PTS),nan,102 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+180671,21600219,4,3:45,nan,MISS Valanciunas 8' Jump Shot,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180672,21600219,4,3:44,nan,Valanciunas REBOUND (Off:5 Def:11),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180673,21600219,4,3:41,nan,Valanciunas 3' Putback Layup (15 PTS),104 - 93,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+180674,21600219,4,3:18,MISS Ariza  3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180675,21600219,4,3:17,Beverley REBOUND (Off:3 Def:6),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180676,21600219,4,3:06,MISS Harden 6' Jump Shot,Carroll BLOCK (3 BLK),nan,201935,James Harden,HOU,0,nan,nan,201960,DeMarre Carroll,TOR,Missed Shot ,nan
+180677,21600219,4,3:04,Ariza REBOUND (Off:2 Def:0),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180678,21600219,4,3:02,MISS Ariza 26' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180679,21600219,4,3:02,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180680,21600219,4,3:02,nan,Patterson L.B.FOUL (P3.T3) (B.Spooner),nan,202335,Patrick Patterson,TOR,201935,James Harden,HOU,0,nan,nan,Foul ,Loose Ball
+180681,21600219,4,3:02,SUB: Capela FOR Harrell,nan,nan,1626149,Montrezl Harrell,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+180682,21600219,4,3:02,SUB: Anderson FOR Gordon,nan,nan,201569,Eric Gordon,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+180683,21600219,4,2:56,Anderson 27' 3PT Jump Shot (13 PTS) (Harden 15 AST),nan,104 - 96,201583,Ryan Anderson,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+180684,21600219,4,2:30,nan,Carroll 12' Driving Floating Jump Shot (13 PTS) (Patterson 1 AST),106 - 96,201960,DeMarre Carroll,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+180685,21600219,4,2:18,Harden 26' 3PT Pullup Jump Shot (29 PTS),nan,106 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+180686,21600219,4,1:56,nan,Carroll 24' 3PT Jump Shot (16 PTS) (Lowry 8 AST),109 - 99,201960,DeMarre Carroll,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+180687,21600219,4,1:49,MISS Anderson 26' 3PT Jump Shot,nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180688,21600219,4,1:47,Beverley REBOUND (Off:4 Def:6),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180689,21600219,4,1:36,Harden Bad Pass Turnover (P12.T27),Patterson STEAL (4 STL),nan,201935,James Harden,HOU,202335,Patrick Patterson,TOR,0,nan,nan,Turnover ,Bad Pass
+180690,21600219,4,1:31,nan,Carroll  Running Dunk (18 PTS) (Lowry 9 AST),111 - 99,201960,DeMarre Carroll,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+180691,21600219,4,1:30,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+180692,21600219,4,1:08,Beverley Traveling Turnover (P4.T28),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Traveling
+180693,21600219,4,1:01,Beverley P.FOUL (P4.T4) (B.Adams),nan,nan,201976,Patrick Beverley,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+180694,21600219,4,1:01,SUB: Dekker FOR Harden,nan,nan,201935,James Harden,HOU,1626155,Sam Dekker,HOU,0,nan,nan,Substitution ,nan
+180695,21600219,4,0:45,nan,MISS Lowry 30' 3PT Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+180696,21600219,4,0:44,nan,Patterson REBOUND (Off:1 Def:4),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+180697,21600219,4,0:28,nan,Carroll 13' Floating Jump Shot (20 PTS) (DeRozan 9 AST),113 - 99,201960,DeMarre Carroll,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+180698,21600219,4,0:18,Ariza 26' 3PT Jump Shot (11 PTS) (Dekker 3 AST),nan,113 - 102,2772,Trevor Ariza,HOU,1626155,Sam Dekker,HOU,0,nan,nan,Made Shot ,nan
+180699,21600219,4,0:00,Beverley P.FOUL (P5.PN) (B.Spooner),nan,nan,201976,Patrick Beverley,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+180700,21600219,4,0:00,nan,nan,nan,511,Melvin Booker,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+180701,21600219,4,0:00,nan,Lowry Free Throw 1 of 2 (16 PTS),114 - 102,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+180702,21600219,4,0:00,nan,Lowry Free Throw 2 of 2 (17 PTS),115 - 102,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+180703,21600219,4,0:00,nan,nan,115 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

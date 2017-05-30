@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+184770,21600254,4,12:00,nan,nan,71 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+184771,21600254,4,11:40,MISS Joseph 4' Driving Layup,McConnell BLOCK (1 BLK),nan,202709,Cory Joseph,TOR,0,nan,nan,204456,T.J. McConnell,PHI,Missed Shot ,nan
+184772,21600254,4,11:40,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184773,21600254,4,11:26,nan,MISS Saric 21' Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184774,21600254,4,11:25,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184775,21600254,4,11:09,nan,Stauskas 24' 3PT Jump Shot (9 PTS) (Saric 3 AST),74 - 91,203917,Nik Stauskas,PHI,203967,Dario Saric,PHI,0,nan,nan,Made Shot ,nan
+184776,21600254,4,10:45,Ross 19' Pullup Jump Shot (9 PTS),nan,74 - 93,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+184777,21600254,4,10:37,Joseph S.FOUL (P3.T1) (C.Blair),nan,nan,202709,Cory Joseph,TOR,203967,Dario Saric,PHI,0,nan,nan,Foul ,Shooting
+184778,21600254,4,10:37,nan,MISS Saric Free Throw 1 of 2,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184779,21600254,4,10:37,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184780,21600254,4,10:37,nan,SUB: Rodriguez FOR McConnell,nan,204456,T.J. McConnell,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Substitution ,nan
+184781,21600254,4,10:37,nan,MISS Saric Free Throw 2 of 2,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184782,21600254,4,10:36,Joseph REBOUND (Off:0 Def:4),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184783,21600254,4,10:13,Ross 12' Turnaround Fadeaway (11 PTS),nan,74 - 95,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+184784,21600254,4,10:00,nan,Stauskas 4' Cutting Layup Shot (11 PTS) (Saric 4 AST),76 - 95,203917,Nik Stauskas,PHI,203967,Dario Saric,PHI,0,nan,nan,Made Shot ,nan
+184785,21600254,4,9:56,nan,Thompson P.FOUL (P1.T1) (J.Williams),nan,203138,Hollis Thompson,PHI,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+184786,21600254,4,9:56,nan,SUB: Okafor FOR Holmes,nan,1626158,Richaun Holmes,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+184787,21600254,4,9:50,MISS Joseph 20' Pullup Jump Shot,nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184788,21600254,4,9:50,nan,Thompson REBOUND (Off:1 Def:1),nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184789,21600254,4,9:40,nan,Okafor 3' Layup (13 PTS) (Rodriguez 6 AST),78 - 95,1626143,Jahlil Okafor,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+184790,21600254,4,9:15,Joseph 3' Cutting Finger Roll Layup Shot (8 PTS) (Lowry 6 AST),nan,78 - 97,202709,Cory Joseph,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+184791,21600254,4,9:03,Nogueira P.FOUL (P1.T2) (C.Blair),nan,nan,203512,Lucas Nogueira,TOR,1626143,Jahlil Okafor,PHI,0,nan,nan,Foul ,Personal
+184792,21600254,4,9:03,nan,SUB: Luwawu-Cabarrot FOR Stauskas,nan,203917,Nik Stauskas,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Substitution ,nan
+184793,21600254,4,9:03,nan,SUB: Covington FOR Thompson,nan,203138,Hollis Thompson,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+184794,21600254,4,8:47,nan,76ers Turnover: Shot Clock (T#9),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+184795,21600254,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+184796,21600254,4,8:35,Ross 24' 3PT Jump Shot (14 PTS) (Lowry 7 AST),nan,78 - 100,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+184797,21600254,4,8:10,nan,Okafor 4' Cutting Layup Shot (15 PTS) (Rodriguez 7 AST),80 - 100,1626143,Jahlil Okafor,PHI,200771,Sergio Rodriguez,PHI,0,nan,nan,Made Shot ,nan
+184798,21600254,4,8:00,Lowry 26' 3PT Pullup Jump Shot (21 PTS),nan,80 - 103,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+184799,21600254,4,7:47,Patterson STEAL (2 STL),Covington Bad Pass Turnover (P2.T10),nan,203496,Robert Covington,PHI,202335,Patrick Patterson,TOR,0,nan,nan,Turnover ,Bad Pass
+184800,21600254,4,7:43,MISS Joseph 2' Running Layup,Luwawu-Cabarrot BLOCK (1 BLK),nan,202709,Cory Joseph,TOR,0,nan,nan,1627789,Timothe Luwawu-Cabarrot,PHI,Missed Shot ,nan
+184801,21600254,4,7:43,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184802,21600254,4,7:43,nan,SUB: Ilyasova FOR Saric,nan,203967,Dario Saric,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Substitution ,nan
+184803,21600254,4,7:40,Ross 16' Jump Shot (16 PTS) (Lowry 8 AST),nan,80 - 105,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+184804,21600254,4,7:14,nan,MISS Rodriguez 8' Jump Shot,nan,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184805,21600254,4,7:14,nan,Covington REBOUND (Off:2 Def:3),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184806,21600254,4,7:13,nan,Covington Offensive Charge Foul (P4.T2) (L.Richardson),nan,203496,Robert Covington,PHI,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Offensive Charge
+184807,21600254,4,7:13,nan,Covington Foul Turnover (P3.T11),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+184808,21600254,4,7:13,nan,SUB: Holmes FOR Okafor,nan,1626143,Jahlil Okafor,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+184809,21600254,4,7:04,nan,Luwawu-Cabarrot S.FOUL (P1.T3) (L.Richardson),nan,1627789,Timothe Luwawu-Cabarrot,PHI,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Shooting
+184810,21600254,4,7:04,Ross Free Throw 1 of 3 (17 PTS),nan,80 - 106,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+184811,21600254,4,7:04,Ross Free Throw 2 of 3 (18 PTS),nan,80 - 107,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+184812,21600254,4,7:04,Ross Free Throw 3 of 3 (19 PTS),nan,80 - 108,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+184813,21600254,4,6:54,nan,Covington 26' 3PT Jump Shot (20 PTS) (Ilyasova 3 AST),83 - 108,203496,Robert Covington,PHI,101141,Ersan Ilyasova,PHI,0,nan,nan,Made Shot ,nan
+184814,21600254,4,6:38,Lowry Bad Pass Turnover (P3.T7),Luwawu-Cabarrot STEAL (1 STL),nan,200768,Kyle Lowry,TOR,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Turnover ,Bad Pass
+184815,21600254,4,6:24,nan,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184816,21600254,4,6:24,Lowry REBOUND (Off:0 Def:4),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184817,21600254,4,6:12,Lowry 25' 3PT Jump Shot (24 PTS),nan,83 - 111,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+184818,21600254,4,6:12,nan,76ers Timeout: Regular (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184819,21600254,4,6:12,SUB: Powell FOR Lowry,nan,nan,200768,Kyle Lowry,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+184820,21600254,4,6:12,SUB: Siakam FOR Patterson,nan,nan,202335,Patrick Patterson,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+184821,21600254,4,6:12,nan,SUB: Stauskas FOR Ilyasova,nan,101141,Ersan Ilyasova,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+184822,21600254,4,5:57,nan,76ers Timeout: Regular (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184823,21600254,4,5:50,nan,MISS Stauskas 4' Driving Finger Roll Layup,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184824,21600254,4,5:50,Nogueira REBOUND (Off:2 Def:2),nan,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184825,21600254,4,5:32,Joseph Lost Ball Turnover (P1.T8),Rodriguez STEAL (2 STL),nan,202709,Cory Joseph,TOR,200771,Sergio Rodriguez,PHI,0,nan,nan,Turnover ,Lost Ball
+184826,21600254,4,5:28,Joseph STEAL (1 STL),Rodriguez Lost Ball Turnover (P4.T12),nan,200771,Sergio Rodriguez,PHI,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Lost Ball
+184827,21600254,4,5:22,Ross 26' 3PT Jump Shot (22 PTS) (Powell 1 AST),nan,83 - 114,203082,Terrence Ross,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+184828,21600254,4,5:01,nan,Rodriguez 13' Pullup Jump Shot (11 PTS),85 - 114,200771,Sergio Rodriguez,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+184829,21600254,4,4:40,Powell Out of Bounds Lost Ball Turnover (P1.T9),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,1627789,Timothe Luwawu-Cabarrot,PHI,Turnover ,Out of Bounds Lost Ball Turnover
+184830,21600254,4,4:40,nan,SUB: McConnell FOR Covington,nan,203496,Robert Covington,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+184831,21600254,4,4:40,nan,SUB: Saric FOR Rodriguez,nan,200771,Sergio Rodriguez,PHI,203967,Dario Saric,PHI,0,nan,nan,Substitution ,nan
+184832,21600254,4,4:27,nan,Holmes 1' Alley Oop Layup (11 PTS) (Stauskas 2 AST),87 - 114,1626158,Richaun Holmes,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+184833,21600254,4,4:10,Nogueira Bad Pass Turnover (P1.T10),McConnell STEAL (1 STL),nan,203512,Lucas Nogueira,TOR,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+184834,21600254,4,4:05,nan,McConnell  Running Layup (4 PTS),89 - 114,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+184835,21600254,4,3:45,Siakam 5' Driving Hook Shot (9 PTS) (Powell 2 AST),nan,89 - 116,1627783,Pascal Siakam,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+184836,21600254,4,3:34,Powell P.FOUL (P2.T3) (L.Richardson),nan,nan,1626181,Norman Powell,TOR,203917,Nik Stauskas,PHI,0,nan,nan,Foul ,Personal
+184837,21600254,4,3:34,SUB: Poeltl FOR Nogueira,nan,nan,203512,Lucas Nogueira,TOR,1627751,Jakob Poeltl,TOR,0,nan,nan,Substitution ,nan
+184838,21600254,4,3:34,SUB: VanVleet FOR Joseph,nan,nan,202709,Cory Joseph,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Substitution ,nan
+184839,21600254,4,3:34,SUB: Caboclo FOR Ross,nan,nan,203082,Terrence Ross,TOR,203998,Bruno Caboclo,TOR,0,nan,nan,Substitution ,nan
+184840,21600254,4,3:17,nan,76ers Turnover: Shot Clock (T#13),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+184841,21600254,4,2:53,MISS Powell 21' Step Back Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184842,21600254,4,2:53,nan,Luwawu-Cabarrot REBOUND (Off:0 Def:1),nan,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184843,21600254,4,2:36,nan,MISS Saric 24' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184844,21600254,4,2:35,Siakam REBOUND (Off:0 Def:2),nan,nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184845,21600254,4,2:27,nan,McConnell P.FOUL (P3.T4) (L.Richardson),nan,204456,T.J. McConnell,PHI,1627832,Fred VanVleet,TOR,0,nan,nan,Foul ,Personal
+184846,21600254,4,2:21,nan,McConnell S.FOUL (P4.PN) (L.Richardson),nan,204456,T.J. McConnell,PHI,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+184847,21600254,4,2:21,Powell Free Throw 1 of 2 (4 PTS),nan,89 - 117,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184848,21600254,4,2:21,Powell Free Throw 2 of 2 (5 PTS),nan,89 - 118,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184849,21600254,4,2:06,Caboclo STEAL (1 STL),McConnell Lost Ball Turnover (P1.T14),nan,204456,T.J. McConnell,PHI,203998,Bruno Caboclo,TOR,0,nan,nan,Turnover ,Lost Ball
+184850,21600254,4,2:02,Siakam  Running Alley Oop Dunk Shot (11 PTS) (Powell 3 AST),nan,89 - 120,1627783,Pascal Siakam,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+184851,21600254,4,2:02,nan,76ers Timeout: Regular (Reg.6 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+184852,21600254,4,1:48,nan,Saric 25' 3PT Jump Shot (7 PTS) (Luwawu-Cabarrot 1 AST),92 - 120,203967,Dario Saric,PHI,1627789,Timothe Luwawu-Cabarrot,PHI,0,nan,nan,Made Shot ,nan
+184853,21600254,4,1:39,Poeltl Lost Ball Turnover (P1.T11),McConnell STEAL (2 STL),nan,1627751,Jakob Poeltl,TOR,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Lost Ball
+184854,21600254,4,1:34,Poeltl S.FOUL (P1.T4) (L.Richardson),nan,nan,1627751,Jakob Poeltl,TOR,204456,T.J. McConnell,PHI,0,nan,nan,Foul ,Shooting
+184855,21600254,4,1:34,nan,McConnell Free Throw 1 of 2 (5 PTS),93 - 120,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184856,21600254,4,1:34,nan,McConnell Free Throw 2 of 2 (6 PTS),94 - 120,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184857,21600254,4,1:17,nan,Holmes P.FOUL (P3.PN) (C.Blair),nan,1626158,Richaun Holmes,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Personal
+184858,21600254,4,1:17,MISS Poeltl Free Throw 1 of 2,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184859,21600254,4,1:17,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184860,21600254,4,1:17,MISS Poeltl Free Throw 2 of 2,nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184861,21600254,4,1:16,nan,Holmes REBOUND (Off:4 Def:5),nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184862,21600254,4,1:01,Siakam STEAL (1 STL),Saric Lost Ball Turnover (P2.T15),nan,203967,Dario Saric,PHI,1627783,Pascal Siakam,TOR,0,nan,nan,Turnover ,Lost Ball
+184863,21600254,4,0:55,Siakam Bad Pass Turnover (P1.T12),Holmes STEAL (2 STL),nan,1627783,Pascal Siakam,TOR,1626158,Richaun Holmes,PHI,0,nan,nan,Turnover ,Bad Pass
+184864,21600254,4,0:51,Powell STEAL (1 STL),Holmes Bad Pass Turnover (P2.T16),nan,1626158,Richaun Holmes,PHI,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Bad Pass
+184865,21600254,4,0:46,MISS Powell 3' Driving Layup,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184866,21600254,4,0:46,Poeltl REBOUND (Off:1 Def:0),nan,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184867,21600254,4,0:46,nan,Stauskas S.FOUL (P2.PN) (J.Williams),nan,203917,Nik Stauskas,PHI,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Shooting
+184868,21600254,4,0:46,Poeltl Free Throw 1 of 2 (1 PTS),nan,94 - 121,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184869,21600254,4,0:46,Poeltl Free Throw 2 of 2 (2 PTS),nan,94 - 122,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184870,21600254,4,0:38,Siakam P.FOUL (P2.PN) (J.Williams),nan,nan,1627783,Pascal Siakam,TOR,203967,Dario Saric,PHI,0,nan,nan,Foul ,Personal
+184871,21600254,4,0:38,nan,MISS Saric Free Throw 1 of 2,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+184872,21600254,4,0:38,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+184873,21600254,4,0:38,nan,Saric Free Throw 2 of 2 (8 PTS),95 - 122,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+184874,21600254,4,0:24,MISS VanVleet 7' Driving Floating Bank Jump Shot,nan,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184875,21600254,4,0:23,nan,Saric REBOUND (Off:1 Def:3),nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184876,21600254,4,0:15,nan,MISS Saric 26' 3PT Jump Shot,nan,203967,Dario Saric,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+184877,21600254,4,0:15,Caboclo REBOUND (Off:0 Def:1),nan,nan,203998,Bruno Caboclo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+184878,21600254,4,0:00,nan,nan,95 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

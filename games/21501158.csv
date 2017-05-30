@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+144282,21501158,4,12:00,nan,nan,65 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+144283,21501158,4,11:38,MISS Green 6' Jump Shot,Mirotic BLOCK (1 BLK),nan,203210,JaMychal Green,MEM,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+144284,21501158,4,11:37,nan,Mirotic REBOUND (Off:2 Def:3),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144285,21501158,4,11:15,Green STEAL (3 STL),Brooks Bad Pass Turnover (P3.T14),nan,201166,Aaron Brooks,CHI,203210,JaMychal Green,MEM,0,nan,nan,Turnover ,Bad Pass
+144286,21501158,4,11:03,Carter 13' Fadeaway Jumper (14 PTS),nan,65 - 85,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+144287,21501158,4,10:48,nan,Mirotic  3PT Jump Shot (12 PTS) (Brooks 4 AST),68 - 85,202703,Nikola Mirotic,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Made Shot ,nan
+144288,21501158,4,10:28,Martin 6' Jump Shot (7 PTS),nan,68 - 87,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+144289,21501158,4,10:12,nan,Mirotic Offensive Charge Foul (P2.T1) (S.Wall),nan,202703,Nikola Mirotic,CHI,1626185,Jarell Martin,MEM,0,nan,nan,Foul ,Offensive Charge
+144290,21501158,4,10:12,nan,Mirotic Foul Turnover (P2.T15),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+144291,21501158,4,10:05,nan,Mirotic S.FOUL (P3.T2) (B.Barnaky),nan,202703,Nikola Mirotic,CHI,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Shooting
+144292,21501158,4,10:05,Green Free Throw 1 of 2 (5 PTS),nan,68 - 88,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144293,21501158,4,10:05,nan,SUB: Rose FOR Brooks,nan,201166,Aaron Brooks,CHI,201565,Derrick Rose,CHI,0,nan,nan,Substitution ,nan
+144294,21501158,4,10:05,Green Free Throw 2 of 2 (6 PTS),nan,68 - 89,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144295,21501158,4,9:48,nan,MISS McDermott 14' Pullup Jump Shot,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144296,21501158,4,9:45,Munford REBOUND (Off:0 Def:2),nan,nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144297,21501158,4,9:37,nan,McDermott P.FOUL (P3.T3) (D.Stafford),nan,203926,Doug McDermott,CHI,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+144298,21501158,4,9:30,MISS Green 19' Jump Shot,nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144299,21501158,4,9:29,nan,McDermott REBOUND (Off:0 Def:1),nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144300,21501158,4,9:26,Carter S.FOUL (P1.T1) (D.Stafford),nan,nan,1713,Vince Carter,MEM,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+144301,21501158,4,9:26,nan,Mirotic Free Throw 1 of 2 (13 PTS),69 - 89,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144302,21501158,4,9:26,SUB: Randolph FOR Martin,nan,nan,1626185,Jarell Martin,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+144303,21501158,4,9:26,nan,Mirotic Free Throw 2 of 2 (14 PTS),70 - 89,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144304,21501158,4,9:19,nan,Felicio P.FOUL (P1.T4) (D.Stafford),nan,1626245,Cristiano Felicio,CHI,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Personal
+144305,21501158,4,9:06,MISS Randolph 20' Fadeaway Jumper,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144306,21501158,4,9:03,nan,Mirotic REBOUND (Off:2 Def:4),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144307,21501158,4,9:01,Carter STEAL (2 STL),Holiday Bad Pass Turnover (P2.T16),nan,203200,Justin Holiday,CHI,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Bad Pass
+144308,21501158,4,8:55,MISS Munford 2' Running Layup,Holiday BLOCK (1 BLK),nan,204098,Xavier Munford,MEM,0,nan,nan,203200,Justin Holiday,CHI,Missed Shot ,nan
+144309,21501158,4,8:55,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144310,21501158,4,8:55,nan,SUB: Butler FOR Holiday,nan,203200,Justin Holiday,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+144311,21501158,4,8:45,nan,Mirotic S.FOUL (P4.PN) (D.Stafford),nan,202703,Nikola Mirotic,CHI,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Shooting
+144312,21501158,4,8:45,Green Free Throw 1 of 2 (7 PTS),nan,70 - 90,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144313,21501158,4,8:45,SUB: Allen FOR Carter,nan,nan,1713,Vince Carter,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+144314,21501158,4,8:45,Green Free Throw 2 of 2 (8 PTS),nan,70 - 91,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144315,21501158,4,8:29,nan,McDermott  3PT Jump Shot (5 PTS) (Butler 1 AST),73 - 91,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+144316,21501158,4,8:07,MISS Allen 3' Driving Layup,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144317,21501158,4,8:04,nan,Felicio REBOUND (Off:0 Def:4),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144318,21501158,4,7:53,nan,MISS Butler 25' 3PT Jump Shot,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144319,21501158,4,7:52,Munford REBOUND (Off:0 Def:3),nan,nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144320,21501158,4,7:41,MISS Green 19' Jump Shot,nan,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144321,21501158,4,7:40,nan,Felicio REBOUND (Off:0 Def:5),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144322,21501158,4,7:32,nan,McDermott 1' Reverse Layup (7 PTS) (Mirotic 2 AST),75 - 91,203926,Doug McDermott,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+144323,21501158,4,7:14,Randolph Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+144324,21501158,4,7:14,SUB: Farmar FOR Munford,nan,nan,204098,Xavier Munford,MEM,200770,Jordan Farmar,MEM,0,nan,nan,Substitution ,nan
+144325,21501158,4,7:06,Allen S.FOUL (P2.T2) (B.Barnaky),nan,nan,2754,Tony Allen,MEM,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+144326,21501158,4,7:06,nan,MISS Felicio Free Throw 1 of 2,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144327,21501158,4,7:06,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+144328,21501158,4,7:06,nan,MISS Felicio Free Throw 2 of 2,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144329,21501158,4,7:05,Barnes REBOUND (Off:0 Def:6),nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144330,21501158,4,6:52,MISS Allen 4' Turnaround Jump Shot,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144331,21501158,4,6:50,nan,Mirotic REBOUND (Off:2 Def:5),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144332,21501158,4,6:42,nan,Rose 8' Driving Floating Jump Shot (12 PTS),77 - 91,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+144333,21501158,4,6:42,GRIZZLIES Timeout: Regular (Full 4 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+144334,21501158,4,6:21,nan,McDermott S.FOUL (P4.PN) (D.Stafford),nan,203926,Doug McDermott,CHI,2754,Tony Allen,MEM,0,nan,nan,Foul ,Shooting
+144335,21501158,4,6:21,MISS Allen Free Throw 1 of 2,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144336,21501158,4,6:21,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+144337,21501158,4,6:21,MISS Allen Free Throw 2 of 2,nan,nan,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144338,21501158,4,6:21,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144339,21501158,4,6:06,nan,Mirotic 27' 3PT Jump Shot (17 PTS) (Rose 6 AST),80 - 91,202703,Nikola Mirotic,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+144340,21501158,4,5:50,nan,Felicio S.FOUL (P2.PN) (S.Wall),nan,1626245,Cristiano Felicio,CHI,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Shooting
+144341,21501158,4,5:50,Randolph Free Throw 1 of 2 (22 PTS),nan,80 - 92,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144342,21501158,4,5:50,Randolph Free Throw 2 of 2 (23 PTS),nan,80 - 93,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144343,21501158,4,5:41,Randolph S.FOUL (P2.T3) (S.Wall),nan,nan,2216,Zach Randolph,MEM,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+144344,21501158,4,5:41,nan,Felicio Free Throw 1 of 2 (1 PTS),81 - 93,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144345,21501158,4,5:41,SUB: Carter FOR Green,nan,nan,203210,JaMychal Green,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+144346,21501158,4,5:41,nan,SUB: Gasol FOR McDermott,nan,203926,Doug McDermott,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+144347,21501158,4,5:41,nan,Felicio Free Throw 2 of 2 (2 PTS),82 - 93,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144348,21501158,4,5:31,Allen Bad Pass Turnover (P2.T11),Mirotic STEAL (1 STL),nan,2754,Tony Allen,MEM,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Bad Pass
+144349,21501158,4,5:22,nan,MISS Rose 24' 3PT Running Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144350,21501158,4,5:21,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144351,21501158,4,5:21,nan,Felicio L.B.FOUL (P3.PN) (S.Wall),nan,1626245,Cristiano Felicio,CHI,2440,Matt Barnes,MEM,0,nan,nan,Foul ,Loose Ball
+144352,21501158,4,5:21,nan,nan,nan,450,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+144353,21501158,4,5:21,Barnes Free Throw 1 of 2 (15 PTS),nan,82 - 94,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144354,21501158,4,5:21,SUB: Andersen FOR Allen,nan,nan,2754,Tony Allen,MEM,2365,Chris Andersen,MEM,0,nan,nan,Substitution ,nan
+144355,21501158,4,5:21,Barnes Free Throw 2 of 2 (16 PTS),nan,82 - 95,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144356,21501158,4,5:11,nan,MISS Mirotic 25' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144357,21501158,4,5:10,nan,Butler REBOUND (Off:1 Def:1),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144358,21501158,4,5:08,Andersen STEAL (1 STL),Gasol Bad Pass Turnover (P2.T17),nan,2200,Pau Gasol,CHI,2365,Chris Andersen,MEM,0,nan,nan,Turnover ,Bad Pass
+144359,21501158,4,4:44,MISS Farmar 11' Floating Jump Shot,nan,nan,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144360,21501158,4,4:44,Randolph REBOUND (Off:5 Def:5),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144361,21501158,4,4:44,Randolph 2' Putback Layup (25 PTS),nan,82 - 97,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+144362,21501158,4,4:44,nan,Bulls Timeout: Regular (Reg.4 Short 0),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+144363,21501158,4,4:44,nan,SUB: McDermott FOR Felicio,nan,1626245,Cristiano Felicio,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+144364,21501158,4,4:29,nan,Butler 3' Driving Layup (2 PTS) (Rose 7 AST),84 - 97,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+144365,21501158,4,4:04,Andersen 2' Alley Oop Layup (4 PTS) (Randolph 4 AST),nan,84 - 99,2365,Chris Andersen,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+144366,21501158,4,3:50,Barnes S.FOUL (P2.T4) (S.Wall),nan,nan,2440,Matt Barnes,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+144367,21501158,4,3:50,nan,MISS Butler Free Throw 1 of 2,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144368,21501158,4,3:50,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+144369,21501158,4,3:50,nan,Butler Free Throw 2 of 2 (3 PTS),85 - 99,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144370,21501158,4,3:33,Randolph 6' Pullup Jump Shot (27 PTS),nan,85 - 101,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+144371,21501158,4,3:20,Farmar STEAL (1 STL),Gasol Lost Ball Turnover (P3.T18),nan,2200,Pau Gasol,CHI,200770,Jordan Farmar,MEM,0,nan,nan,Turnover ,Lost Ball
+144372,21501158,4,2:58,MISS Carter  3PT Jump Shot,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144373,21501158,4,2:57,nan,Gasol REBOUND (Off:1 Def:9),nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144374,21501158,4,2:46,nan,MISS Rose 14' Step Back Jump Shot,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144375,21501158,4,2:44,Barnes REBOUND (Off:0 Def:7),nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144376,21501158,4,2:24,MISS Randolph 24' 3PT Jump Shot,nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144377,21501158,4,2:24,nan,Rose REBOUND (Off:2 Def:3),nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144378,21501158,4,2:18,nan,Butler  Running Dunk (5 PTS) (Rose 8 AST),87 - 101,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+144379,21501158,4,1:59,MISS Carter 20' Jump Shot,Gasol BLOCK (4 BLK),nan,1713,Vince Carter,MEM,0,nan,nan,2200,Pau Gasol,CHI,Missed Shot ,nan
+144380,21501158,4,1:58,nan,Mirotic REBOUND (Off:2 Def:6),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144381,21501158,4,1:56,nan,Rose Out of Bounds - Bad Pass Turnover Turnover (P5.T19),nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+144382,21501158,4,1:56,GRIZZLIES Timeout: Regular (Full 5 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+144383,21501158,4,1:45,Carter  3PT Jump Shot (17 PTS) (Farmar 4 AST),nan,87 - 104,1713,Vince Carter,MEM,200770,Jordan Farmar,MEM,0,nan,nan,Made Shot ,nan
+144384,21501158,4,1:28,nan,MISS Gasol 7' Hook Shot,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144385,21501158,4,1:26,Carter REBOUND (Off:2 Def:3),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144386,21501158,4,1:02,MISS Barnes 25' 3PT Jump Shot,nan,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144387,21501158,4,1:01,nan,Butler REBOUND (Off:1 Def:2),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144388,21501158,4,0:52,nan,Butler Out of Bounds - Bad Pass Turnover Turnover (P2.T20),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+144389,21501158,4,0:35,Farmar 7' Driving Floating Bank Jump Shot (13 PTS),nan,87 - 106,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+144390,21501158,4,0:23,Carter BLOCK (1 BLK),MISS Gasol 3' Layup,nan,2200,Pau Gasol,CHI,0,nan,nan,1713,Vince Carter,MEM,Missed Shot ,nan
+144391,21501158,4,0:22,nan,Butler REBOUND (Off:2 Def:2),nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144392,21501158,4,0:22,nan,Mirotic 26' 3PT Jump Shot (20 PTS) (Butler 2 AST),90 - 106,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+144393,21501158,4,0:20,nan,Gasol Personal Take Foul (P2.PN) (S.Wall),nan,2200,Pau Gasol,CHI,200770,Jordan Farmar,MEM,0,nan,nan,Foul ,Personal Take
+144394,21501158,4,0:20,Farmar Free Throw 1 of 2 (14 PTS),nan,90 - 107,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144395,21501158,4,0:20,SUB: Hollins FOR Randolph,nan,nan,2216,Zach Randolph,MEM,200797,Ryan Hollins,MEM,0,nan,nan,Substitution ,nan
+144396,21501158,4,0:20,SUB: Munford FOR Barnes,nan,nan,2440,Matt Barnes,MEM,204098,Xavier Munford,MEM,0,nan,nan,Substitution ,nan
+144397,21501158,4,0:20,SUB: Martin FOR Andersen,nan,nan,2365,Chris Andersen,MEM,1626185,Jarell Martin,MEM,0,nan,nan,Substitution ,nan
+144398,21501158,4,0:20,SUB: Cotton FOR Carter,nan,nan,1713,Vince Carter,MEM,203955,Bryce Cotton,MEM,0,nan,nan,Substitution ,nan
+144399,21501158,4,0:20,nan,SUB: Holiday FOR Rose,nan,201565,Derrick Rose,CHI,203200,Justin Holiday,CHI,0,nan,nan,Substitution ,nan
+144400,21501158,4,0:20,Farmar Free Throw 2 of 2 (15 PTS),nan,90 - 108,200770,Jordan Farmar,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144401,21501158,4,0:05,nan,Gasol  Cutting Dunk Shot (17 PTS) (Mirotic 3 AST),92 - 108,2200,Pau Gasol,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+144402,21501158,4,0:00,nan,nan,92 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

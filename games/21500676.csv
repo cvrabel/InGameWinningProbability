@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+84513,21500676,4,12:00,nan,nan,74 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+84514,21500676,4,11:49,Ellis S.FOUL (P1.T1) (D.Jones),nan,nan,101145,Monta Ellis,IND,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+84515,21500676,4,11:49,nan,MISS Crawford Free Throw 1 of 2,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+84516,21500676,4,11:49,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+84517,21500676,4,11:49,nan,Crawford Free Throw 2 of 2 (8 PTS),75 - 72,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+84518,21500676,4,11:42,nan,Prigioni P.FOUL (P2.T1) (R.Garretson),nan,203143,Pablo Prigioni,LAC,1626202,Joe Young,IND,0,nan,nan,Foul ,Personal
+84519,21500676,4,11:42,Young Bad Pass Turnover (P3.T11),Prigioni STEAL (2 STL),nan,1626202,Joe Young,IND,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Bad Pass
+84520,21500676,4,11:41,nan,Prigioni 1' Layup (2 PTS),77 - 72,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84521,21500676,4,11:36,Young OFF.Foul (P1) (R.Garretson),nan,nan,1626202,Joe Young,IND,203143,Pablo Prigioni,LAC,0,nan,nan,Foul ,Offensive
+84522,21500676,4,11:36,Young Foul Turnover (P4.T12),nan,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+84523,21500676,4,11:36,SUB: Robinson III FOR Young,nan,nan,1626202,Joe Young,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+84524,21500676,4,11:26,nan,MISS Paul  3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84525,21500676,4,11:26,Ellis REBOUND (Off:0 Def:2),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84526,21500676,4,11:22,nan,Prigioni P.FOUL (P3.T2) (J.VanDuyne),nan,203143,Pablo Prigioni,LAC,101139,CJ Miles,IND,0,nan,nan,Foul ,Personal
+84527,21500676,4,11:07,MISS George 1' Layup,Jordan BLOCK (2 BLK),nan,202331,Paul George,IND,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+84528,21500676,4,11:06,nan,Crawford REBOUND (Off:0 Def:2),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84529,21500676,4,11:04,nan,Crawford Bad Pass Turnover (P1.T11),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+84530,21500676,4,10:48,MISS Turner 18' Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84531,21500676,4,10:48,nan,Rivers REBOUND (Off:0 Def:3),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84532,21500676,4,10:41,nan,MISS Jordan 3' Alley Oop Dunk,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84533,21500676,4,10:40,Miles REBOUND (Off:0 Def:5),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84534,21500676,4,10:39,Miles Lost Ball Turnover (P2.T13),Paul STEAL (1 STL),nan,101139,CJ Miles,IND,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Lost Ball
+84535,21500676,4,10:36,nan,Paul 3' Floating Jump Shot (17 PTS),79 - 72,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84536,21500676,4,10:36,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+84537,21500676,4,10:36,SUB: G. Hill FOR Robinson III,nan,nan,203922,Glenn Robinson III,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+84538,21500676,4,10:17,MISS George 5' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84539,21500676,4,10:16,nan,Jordan REBOUND (Off:2 Def:12),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84540,21500676,4,10:11,nan,MISS Crawford 16' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84541,21500676,4,10:10,nan,Prigioni REBOUND (Off:1 Def:2),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84542,21500676,4,9:58,nan,MISS Prigioni 26' 3PT Jump Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84543,21500676,4,9:58,George REBOUND (Off:2 Def:8),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84544,21500676,4,9:49,MISS Miles 24' 3PT Jump Shot,Crawford BLOCK (1 BLK),nan,101139,CJ Miles,IND,0,nan,nan,2037,Jamal Crawford,LAC,Missed Shot ,nan
+84545,21500676,4,9:48,nan,Jordan REBOUND (Off:2 Def:13),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84546,21500676,4,9:39,nan,Paul Offensive Charge Foul (P2.T3) (R.Garretson),nan,101108,Chris Paul,LAC,101139,CJ Miles,IND,0,nan,nan,Foul ,Offensive Charge
+84547,21500676,4,9:39,nan,Paul Foul Turnover (P4.T12),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+84548,21500676,4,9:26,MISS Ellis 5' Driving Hook Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84549,21500676,4,9:25,nan,Prigioni REBOUND (Off:1 Def:3),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84550,21500676,4,9:11,nan,Prigioni Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+84551,21500676,4,8:52,MISS Miles 9' Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84552,21500676,4,8:51,Miles REBOUND (Off:1 Def:5),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84553,21500676,4,8:48,MISS Miles 4' Hook Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84554,21500676,4,8:48,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84555,21500676,4,8:48,SUB: Mahinmi FOR Turner,nan,nan,1626167,Myles Turner,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+84556,21500676,4,8:41,George Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+84557,21500676,4,8:23,nan,MISS Crawford 25' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84558,21500676,4,8:22,Ellis REBOUND (Off:0 Def:3),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84559,21500676,4,8:13,MISS George 18' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84560,21500676,4,8:13,nan,Jordan REBOUND (Off:2 Def:14),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84561,21500676,4,7:59,nan,Clippers Timeout: Regular (Reg.4 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+84562,21500676,4,7:50,nan,MISS Rivers 1' Driving Layup,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84563,21500676,4,7:50,Miles REBOUND (Off:1 Def:6),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84564,21500676,4,7:42,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84565,21500676,4,7:41,Mahinmi REBOUND (Off:5 Def:2),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84566,21500676,4,7:36,Miles Out of Bounds Lost Ball Turnover (P3.T15),nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+84567,21500676,4,7:16,nan,Paul 19' Pullup Jump Shot (19 PTS),81 - 72,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84568,21500676,4,6:49,MISS G. Hill 15' Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84569,21500676,4,6:48,nan,Prigioni REBOUND (Off:1 Def:4),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84570,21500676,4,6:35,nan,MISS Rivers  3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84571,21500676,4,6:34,George REBOUND (Off:2 Def:9),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84572,21500676,4,6:27,George 1' Driving Reverse Layup (23 PTS),nan,81 - 74,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+84573,21500676,4,6:06,George P.FOUL (P2.T2) (R.Garretson),nan,nan,202331,Paul George,IND,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+84574,21500676,4,6:06,nan,SUB: Redick FOR Prigioni,nan,203143,Pablo Prigioni,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+84575,21500676,4,6:06,SUB: Allen FOR Miles,nan,nan,101139,CJ Miles,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+84576,21500676,4,5:56,nan,MISS Paul 16' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84577,21500676,4,5:54,nan,Jordan REBOUND (Off:3 Def:14),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84578,21500676,4,5:54,nan,MISS Jordan 1' Tip Layup Shot,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84579,21500676,4,5:53,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84580,21500676,4,5:40,George 17' Jump Bank Shot (25 PTS),nan,81 - 76,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+84581,21500676,4,5:22,Mahinmi S.FOUL (P2.T3) (D.Jones),nan,nan,101133,Ian Mahinmi,IND,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+84582,21500676,4,5:22,nan,MISS Redick Free Throw 1 of 2,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+84583,21500676,4,5:22,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+84584,21500676,4,5:22,nan,SUB: Pierce FOR Crawford,nan,2037,Jamal Crawford,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+84585,21500676,4,5:22,nan,Redick Free Throw 2 of 2 (19 PTS),82 - 76,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+84586,21500676,4,5:11,George 25' 3PT Jump Shot (28 PTS) (G. Hill 2 AST),nan,82 - 79,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+84587,21500676,4,4:53,nan,MISS Redick 25' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84588,21500676,4,4:52,Mahinmi REBOUND (Off:5 Def:3),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84589,21500676,4,4:39,MISS Allen 5' Hook Shot,Jordan BLOCK (3 BLK),nan,202730,Lavoy Allen,IND,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+84590,21500676,4,4:37,nan,Rivers REBOUND (Off:0 Def:4),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84591,21500676,4,4:26,nan,Pierce Bad Pass Turnover (P2.T14),nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+84592,21500676,4,4:15,MISS George 15' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84593,21500676,4,4:14,Mahinmi REBOUND (Off:6 Def:3),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84594,21500676,4,4:13,MISS Mahinmi 2' Jump Shot,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84595,21500676,4,4:13,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84596,21500676,4,4:07,nan,Paul S.FOUL (P3.T4) (D.Jones),nan,101108,Chris Paul,LAC,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Shooting
+84597,21500676,4,4:07,MISS Mahinmi Free Throw 1 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+84598,21500676,4,4:07,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+84599,21500676,4,4:07,MISS Mahinmi Free Throw 2 of 2,nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+84600,21500676,4,4:07,nan,Jordan REBOUND (Off:3 Def:15),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84601,21500676,4,3:52,nan,Paul 10' Running Jump Shot (21 PTS),84 - 79,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84602,21500676,4,3:35,Ellis 3' Driving Finger Roll Layup (6 PTS),nan,84 - 81,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+84603,21500676,4,3:21,George Personal Block Foul (P3.T4) (J.VanDuyne),nan,nan,202331,Paul George,IND,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal Block
+84604,21500676,4,3:08,nan,Paul 26' 3PT Pullup Jump Shot (24 PTS),87 - 81,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84605,21500676,4,2:57,nan,Rivers P.FOUL (P2.PN) (J.VanDuyne),nan,203085,Austin Rivers,LAC,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+84606,21500676,4,2:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+84607,21500676,4,2:50,Ellis Out of Bounds Lost Ball Turnover (P3.T16),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+84608,21500676,4,2:28,nan,MISS Paul 27' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84609,21500676,4,2:27,Ellis REBOUND (Off:0 Def:4),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84610,21500676,4,2:17,Mahinmi 1' Dunk (12 PTS) (George 3 AST),nan,87 - 83,101133,Ian Mahinmi,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+84611,21500676,4,1:57,nan,MISS Redick 10' Running Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84612,21500676,4,1:57,nan,Jordan REBOUND (Off:4 Def:15),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84613,21500676,4,1:57,Mahinmi P.FOUL (P3.PN) (D.Jones),nan,nan,101133,Ian Mahinmi,IND,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+84614,21500676,4,1:57,nan,MISS Jordan Free Throw 1 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+84615,21500676,4,1:57,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+84616,21500676,4,1:57,nan,SUB: Mbah a Moute FOR Redick,nan,200755,JJ Redick,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+84617,21500676,4,1:57,nan,Jordan Free Throw 2 of 2 (9 PTS),88 - 83,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+84618,21500676,4,1:43,G. Hill 25' 3PT Jump Shot (15 PTS) (Ellis 4 AST),nan,88 - 86,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+84619,21500676,4,1:43,nan,Clippers Timeout: Regular (Reg.5 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+84620,21500676,4,1:43,nan,SUB: Redick FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+84621,21500676,4,1:43,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+84622,21500676,4,1:22,Ellis S.FOUL (P2.PN) (J.VanDuyne),nan,nan,101145,Monta Ellis,IND,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+84623,21500676,4,1:22,nan,Crawford Free Throw 1 of 2 (9 PTS),89 - 86,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+84624,21500676,4,1:22,nan,SUB: Mbah a Moute FOR Redick,nan,200755,JJ Redick,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+84625,21500676,4,1:22,nan,MISS Crawford Free Throw 2 of 2,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+84626,21500676,4,1:21,Mahinmi REBOUND (Off:6 Def:4),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84627,21500676,4,0:54,MISS G. Hill 21' Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84628,21500676,4,0:54,nan,Paul REBOUND (Off:1 Def:5),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84629,21500676,4,0:44,nan,Clippers Timeout: Short (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+84630,21500676,4,0:44,nan,SUB: Redick FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+84631,21500676,4,0:33,nan,Paul 19' Pullup Jump Shot (26 PTS),91 - 86,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+84632,21500676,4,0:33,PACERS Timeout: Short (Full 4 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+84633,21500676,4,0:33,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+84634,21500676,4,0:33,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+84635,21500676,4,0:33,SUB: Hill FOR Mahinmi,nan,nan,101133,Ian Mahinmi,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+84636,21500676,4,0:28,George 25' 3PT Jump Shot (31 PTS) (Ellis 5 AST),nan,91 - 89,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+84637,21500676,4,0:28,nan,Clippers Timeout: Short (Reg.5 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+84638,21500676,4,0:28,nan,nan,nan,527,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+84639,21500676,4,0:28,nan,SUB: Redick FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+84640,21500676,4,0:28,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+84641,21500676,4,0:28,SUB: Mahinmi FOR Hill,nan,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+84642,21500676,4,0:05,nan,MISS Pierce 26' 3PT Jump Shot,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+84643,21500676,4,0:02,nan,Crawford REBOUND (Off:1 Def:2),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+84644,21500676,4,0:02,nan,Redick Backcourt Turnover (P2.T15),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+84645,21500676,4,0:02,PACERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+84646,21500676,4,0:02,nan,SUB: Mbah a Moute FOR Redick,nan,200755,JJ Redick,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+84647,21500676,4,0:02,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+84648,21500676,4,0:02,SUB: Miles FOR Mahinmi,nan,nan,101133,Ian Mahinmi,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+84649,21500676,4,0:02,PACERS Timeout: Short (Full 5 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+84650,21500676,4,0:00,nan,nan,nan,547,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+84651,21500676,4,0:00,G. Hill Bad Pass Turnover (P2.T17),Rivers STEAL (2 STL),nan,201588,George Hill,IND,203085,Austin Rivers,LAC,0,nan,nan,Turnover ,Bad Pass
+84652,21500676,4,0:00,nan,nan,nan,554,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+84653,21500676,4,0:00,nan,nan,91 - 89,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

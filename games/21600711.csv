@@ -1,0 +1,345 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+240664,21600711,4,12:00,nan,nan,81 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+240665,21600711,4,11:43,nan,O'Quinn OFF.Foul (P2) (S.Foster),nan,203124,Kyle O'Quinn,NYK,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Offensive
+240666,21600711,4,11:43,nan,O'Quinn Foul Turnover (P1.T6),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+240667,21600711,4,11:29,MISS Humphries 7' Hook Shot,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240668,21600711,4,11:26,nan,Baker REBOUND (Off:0 Def:1),nan,1627758,Ron Baker,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240669,21600711,4,11:18,nan,Holiday  3PT Jump Shot (3 PTS) (Baker 2 AST),84 - 83,203200,Justin Holiday,NYK,1627758,Ron Baker,NYK,0,nan,nan,Made Shot ,nan
+240670,21600711,4,11:03,Millsap Traveling Turnover (P2.T9),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+240671,21600711,4,10:43,nan,O'Quinn 1' Reverse Layup (2 PTS) (Holiday 2 AST),86 - 83,203124,Kyle O'Quinn,NYK,203200,Justin Holiday,NYK,0,nan,nan,Made Shot ,nan
+240672,21600711,4,10:32,nan,Porzingis P.FOUL (P3.T1) (C.Blair),nan,204001,Kristaps Porzingis,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+240673,21600711,4,10:20,nan,O'Quinn S.FOUL (P3.T2) (S.Foster),nan,203124,Kyle O'Quinn,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+240674,21600711,4,10:20,Millsap Free Throw 1 of 2 (20 PTS),nan,86 - 84,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240675,21600711,4,10:20,Millsap Free Throw 2 of 2 (21 PTS),nan,86 - 85,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240676,21600711,4,10:11,Delaney STEAL (2 STL),Baker Bad Pass Turnover (P1.T7),nan,1627758,Ron Baker,NYK,1627098,Malcolm Delaney,ATL,0,nan,nan,Turnover ,Bad Pass
+240677,21600711,4,10:08,nan,Porzingis S.FOUL (P4.T3) (C.Blair),nan,204001,Kristaps Porzingis,NYK,1627098,Malcolm Delaney,ATL,0,nan,nan,Foul ,Shooting
+240678,21600711,4,10:08,Delaney Free Throw 1 of 2 (1 PTS),nan,86 - 86,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240679,21600711,4,10:08,Delaney Free Throw 2 of 2 (2 PTS),nan,86 - 87,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240680,21600711,4,9:55,nan,Porzingis 15' Turnaround Jump Shot (15 PTS) (Kuzminskas 3 AST),88 - 87,204001,Kristaps Porzingis,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Made Shot ,nan
+240681,21600711,4,9:37,MISS Millsap 1' Driving Layup,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240682,21600711,4,9:36,Humphries REBOUND (Off:1 Def:0),nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240683,21600711,4,9:36,MISS Humphries 2' Putback Layup,nan,nan,2743,Kris Humphries,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240684,21600711,4,9:34,nan,O'Quinn REBOUND (Off:1 Def:8),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240685,21600711,4,9:29,nan,Porzingis Offensive Charge Foul (P5.T4) (C.Blair),nan,204001,Kristaps Porzingis,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Offensive Charge
+240686,21600711,4,9:29,nan,Porzingis Foul Turnover (P2.T8),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+240687,21600711,4,9:29,nan,SUB: Hernangomez FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Substitution ,nan
+240688,21600711,4,9:19,Hardaway Jr. Traveling Turnover (P1.T10),nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+240689,21600711,4,8:59,nan,MISS Hernangomez 2' Driving Layup,nan,1626195,Willy Hernangomez,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240690,21600711,4,8:59,nan,O'Quinn REBOUND (Off:2 Def:8),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240691,21600711,4,8:59,nan,MISS O'Quinn 2' Tip Layup Shot,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240692,21600711,4,8:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+240693,21600711,4,8:59,SUB: Muscala FOR Humphries,nan,nan,2743,Kris Humphries,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+240694,21600711,4,8:59,Jump Ball Millsap vs. O'Quinn: Tip to Muscala,nan,nan,200794,Paul Millsap,ATL,203124,Kyle O'Quinn,NYK,203488,Mike Muscala,ATL,Jump Ball ,nan
+240695,21600711,4,8:59,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240696,21600711,4,8:39,Delaney 20' Pullup Jump Shot (4 PTS),nan,88 - 89,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240697,21600711,4,8:19,nan,MISS Holiday 24' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240698,21600711,4,8:17,Millsap REBOUND (Off:3 Def:6),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240699,21600711,4,8:05,MISS Delaney 21' Pullup Jump Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240700,21600711,4,8:03,nan,Holiday REBOUND (Off:1 Def:4),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240701,21600711,4,7:45,nan,MISS O'Quinn 19' Jump Shot,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240702,21600711,4,7:43,Delaney REBOUND (Off:0 Def:2),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240703,21600711,4,7:31,Hardaway Jr. 1' Driving Layup (11 PTS) (Millsap 6 AST),nan,88 - 91,203501,Tim Hardaway Jr.,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+240704,21600711,4,7:31,nan,Hernangomez S.FOUL (P1.PN) (M.Smith),nan,1626195,Willy Hernangomez,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Shooting
+240705,21600711,4,7:31,nan,SUB: Anthony FOR O'Quinn,nan,203124,Kyle O'Quinn,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+240706,21600711,4,7:31,nan,SUB: Noah FOR Baker,nan,1627758,Ron Baker,NYK,201149,Joakim Noah,NYK,0,nan,nan,Substitution ,nan
+240707,21600711,4,7:31,nan,SUB: Jennings FOR Holiday,nan,203200,Justin Holiday,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Substitution ,nan
+240708,21600711,4,7:31,nan,SUB: Lee FOR Hernangomez,nan,1626195,Willy Hernangomez,NYK,201584,Courtney Lee,NYK,0,nan,nan,Substitution ,nan
+240709,21600711,4,7:31,SUB: Bazemore FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+240710,21600711,4,7:31,SUB: Schroder FOR Dunleavy,nan,nan,2399,Mike Dunleavy,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+240711,21600711,4,7:31,Hardaway Jr. Free Throw 1 of 1 (12 PTS),nan,88 - 92,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+240712,21600711,4,7:13,nan,MISS Jennings 1' Driving Layup,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240713,21600711,4,7:11,Millsap REBOUND (Off:3 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240714,21600711,4,7:09,Hardaway Jr. 3' Running Jump Shot (14 PTS) (Schroder 10 AST),nan,88 - 94,203501,Tim Hardaway Jr.,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240715,21600711,4,7:09,nan,Lee S.FOUL (P2.PN) (C.Blair),nan,201584,Courtney Lee,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Shooting
+240716,21600711,4,7:09,Hardaway Jr. Free Throw 1 of 1 (15 PTS),nan,88 - 95,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+240717,21600711,4,6:55,Hardaway Jr. Shooting Block Foul (P3.T1) (C.Blair),nan,nan,203501,Tim Hardaway Jr.,ATL,201149,Joakim Noah,NYK,0,nan,nan,Foul ,Shooting Block
+240718,21600711,4,6:55,nan,Noah Free Throw 1 of 2 (5 PTS),89 - 95,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240719,21600711,4,6:55,nan,Noah Free Throw 2 of 2 (6 PTS),90 - 95,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240720,21600711,4,6:40,MISS Millsap 17' Turnaround Fadeaway Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240721,21600711,4,6:37,nan,Kuzminskas REBOUND (Off:0 Def:2),nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240722,21600711,4,6:24,nan,Kuzminskas 2' Layup (11 PTS) (Noah 5 AST),92 - 95,1627851,Mindaugas Kuzminskas,NYK,201149,Joakim Noah,NYK,0,nan,nan,Made Shot ,nan
+240723,21600711,4,6:08,MISS Millsap 25' 3PT Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240724,21600711,4,6:05,nan,Lee REBOUND (Off:1 Def:4),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240725,21600711,4,5:45,nan,MISS Anthony 24' 3PT Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240726,21600711,4,5:44,Muscala REBOUND (Off:0 Def:5),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240727,21600711,4,5:33,Hardaway Jr. 19' Pullup Jump Shot (17 PTS) (Schroder 11 AST),nan,92 - 97,203501,Tim Hardaway Jr.,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240728,21600711,4,5:18,HAWKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240729,21600711,4,5:18,SUB: Howard FOR Muscala,nan,nan,203488,Mike Muscala,ATL,2730,Dwight Howard,ATL,0,nan,nan,Substitution ,nan
+240730,21600711,4,5:16,nan,MISS Anthony 18' Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240731,21600711,4,5:14,Schroder REBOUND (Off:1 Def:3),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240732,21600711,4,4:59,MISS Hardaway Jr. 25' 3PT Pullup Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240733,21600711,4,4:59,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240734,21600711,4,4:59,Howard L.B.FOUL (P5.T2) (S.Foster),nan,nan,2730,Dwight Howard,ATL,201149,Joakim Noah,NYK,0,nan,nan,Foul ,Loose Ball
+240735,21600711,4,4:40,nan,Anthony Out of Bounds Lost Ball Turnover (P2.T9),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+240736,21600711,4,4:29,nan,Noah S.FOUL (P4.PN) (S.Foster),nan,201149,Joakim Noah,NYK,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Shooting
+240737,21600711,4,4:29,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240738,21600711,4,4:29,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+240739,21600711,4,4:29,nan,SUB: Porzingis FOR Kuzminskas,nan,1627851,Mindaugas Kuzminskas,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+240740,21600711,4,4:29,MISS Howard Free Throw 2 of 2,nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240741,21600711,4,4:28,nan,Anthony REBOUND (Off:0 Def:4),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240742,21600711,4,4:03,nan,Knicks Turnover: Shot Clock (T#10),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+240743,21600711,4,3:52,Schroder Lost Ball Turnover (P4.T11),Jennings STEAL (1 STL),nan,203471,Dennis Schroder,ATL,201943,Brandon Jennings,NYK,0,nan,nan,Turnover ,Lost Ball
+240744,21600711,4,3:52,Schroder Personal Block Foul (P2.T3) (S.Foster),nan,nan,203471,Dennis Schroder,ATL,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal Block
+240745,21600711,4,3:37,nan,Anthony 16' Turnaround Jump Shot (30 PTS) (Jennings 8 AST),94 - 97,2546,Carmelo Anthony,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+240746,21600711,4,3:19,MISS Schroder 4' Driving Layup,Porzingis BLOCK (3 BLK),nan,203471,Dennis Schroder,ATL,0,nan,nan,204001,Kristaps Porzingis,NYK,Missed Shot ,nan
+240747,21600711,4,3:15,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240748,21600711,4,3:03,nan,Anthony 21' Pullup Jump Shot (32 PTS) (Jennings 9 AST),96 - 97,2546,Carmelo Anthony,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+240749,21600711,4,2:41,MISS Bazemore 25' 3PT Step Back Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240750,21600711,4,2:39,nan,Jennings REBOUND (Off:0 Def:2),nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240751,21600711,4,2:31,nan,Jennings 25' 3PT Jump Shot (12 PTS) (Lee 2 AST),99 - 97,201943,Brandon Jennings,NYK,201584,Courtney Lee,NYK,0,nan,nan,Made Shot ,nan
+240752,21600711,4,2:31,HAWKS Timeout: Short (Full 4 Short 2),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240753,21600711,4,2:31,nan,Knicks Timeout: Regular (Reg.4 Short 0),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240754,21600711,4,2:31,nan,nan,nan,507,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+240755,21600711,4,2:11,Millsap 1' Driving Finger Roll Layup (23 PTS) (Hardaway Jr. 7 AST),nan,99 - 99,200794,Paul Millsap,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+240756,21600711,4,1:48,nan,Anthony OFF.Foul (P2) (S.Foster),nan,2546,Carmelo Anthony,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Offensive
+240757,21600711,4,1:48,nan,Anthony Foul Turnover (P3.T11),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+240758,21600711,4,1:30,MISS Schroder 2' Driving Layup,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240759,21600711,4,1:30,Howard REBOUND (Off:3 Def:5),nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240760,21600711,4,1:30,nan,Porzingis P.FOUL (P6.PN) (S.Foster),nan,204001,Kristaps Porzingis,NYK,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Personal
+240761,21600711,4,1:30,nan,SUB: Holiday FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,203200,Justin Holiday,NYK,0,nan,nan,Substitution ,nan
+240762,21600711,4,1:30,Howard Free Throw 1 of 2 (12 PTS),nan,99 - 100,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240763,21600711,4,1:30,Howard Free Throw 2 of 2 (13 PTS),nan,99 - 101,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240764,21600711,4,1:17,Millsap Personal Block Foul (P2.T4) (M.Smith),nan,nan,200794,Paul Millsap,ATL,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal Block
+240765,21600711,4,1:03,nan,Holiday  3PT Jump Shot (6 PTS) (Anthony 3 AST),102 - 101,203200,Justin Holiday,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+240766,21600711,4,0:54,MISS Millsap 10' Driving Floating Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240767,21600711,4,0:51,Millsap REBOUND (Off:4 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240768,21600711,4,0:45,Howard  Alley Oop Dunk (15 PTS) (Schroder 12 AST),nan,102 - 103,2730,Dwight Howard,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240769,21600711,4,0:45,nan,Knicks Timeout: Regular (Reg.5 Short 0),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240770,21600711,4,0:30,nan,MISS Anthony 18' Pullup Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240771,21600711,4,0:27,Howard REBOUND (Off:3 Def:6),nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240772,21600711,4,0:16,HAWKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240773,21600711,4,0:16,SUB: Muscala FOR Howard,nan,nan,2730,Dwight Howard,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+240774,21600711,4,0:12,MISS Hardaway Jr. 2' Driving Layup,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240775,21600711,4,0:10,Millsap REBOUND (Off:5 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240776,21600711,4,0:10,nan,Lee Personal Take Foul (P3.PN) (M.Smith),nan,201584,Courtney Lee,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Personal Take
+240777,21600711,4,0:10,Hardaway Jr. Free Throw 1 of 2 (18 PTS),nan,102 - 104,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240778,21600711,4,0:10,MISS Hardaway Jr. Free Throw 2 of 2,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240779,21600711,4,0:09,nan,Noah REBOUND (Off:5 Def:6),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240780,21600711,4,0:09,nan,Knicks Timeout: Short (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240781,21600711,4,0:09,SUB: Howard FOR Muscala,nan,nan,203488,Mike Muscala,ATL,2730,Dwight Howard,ATL,0,nan,nan,Substitution ,nan
+240782,21600711,4,0:09,nan,SUB: Kuzminskas FOR Noah,nan,201149,Joakim Noah,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Substitution ,nan
+240783,21600711,4,0:09,SUB: Delaney FOR Howard,nan,nan,2730,Dwight Howard,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Substitution ,nan
+240784,21600711,4,0:09,Bazemore Violation:Kicked Ball (.),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+240785,21600711,4,0:02,nan,Anthony 2' Driving Layup (34 PTS),104 - 104,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240786,21600711,4,0:02,HAWKS Timeout: Short (Full 5 Short 3),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240787,21600711,4,0:02,SUB: Dunleavy FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+240788,21600711,4,0:02,nan,SUB: Noah FOR Kuzminskas,nan,1627851,Mindaugas Kuzminskas,NYK,201149,Joakim Noah,NYK,0,nan,nan,Substitution ,nan
+240789,21600711,4,0:02,nan,Knicks Timeout: Short (Reg.5 Short 2),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240790,21600711,4,0:01,MISS Millsap 8' Driving Hook Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240791,21600711,4,0:00,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240792,21600711,4,0:00,nan,nan,104 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+240793,21600711,5,5:00,nan,nan,104 - 104,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+240794,21600711,5,5:00,Jump Ball Howard vs. Noah: Tip to Jennings,nan,nan,2730,Dwight Howard,ATL,201149,Joakim Noah,NYK,201943,Brandon Jennings,NYK,Jump Ball ,nan
+240795,21600711,5,4:45,nan,MISS Anthony 15' Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240796,21600711,5,4:44,Bazemore REBOUND (Off:1 Def:5),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240797,21600711,5,4:26,Bazemore 16' Pullup Jump Shot (16 PTS) (Millsap 7 AST),nan,104 - 106,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+240798,21600711,5,4:05,Millsap P.FOUL (P3.T1) (S.Foster),nan,nan,200794,Paul Millsap,ATL,201149,Joakim Noah,NYK,0,nan,nan,Foul ,Personal
+240799,21600711,5,3:55,nan,Lee 16' Pullup Jump Shot (12 PTS),106 - 106,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240800,21600711,5,3:35,nan,Lee S.FOUL (P4.T1) (S.Foster),nan,201584,Courtney Lee,NYK,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Shooting
+240801,21600711,5,3:35,Schroder Free Throw 1 of 2 (15 PTS),nan,106 - 107,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240802,21600711,5,3:35,Schroder Free Throw 2 of 2 (16 PTS),nan,106 - 108,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240803,21600711,5,3:16,nan,MISS Lee 18' Step Back Jump Shot,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240804,21600711,5,3:15,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240805,21600711,5,3:12,nan,MISS Jennings 25' 3PT Step Back Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240806,21600711,5,3:11,nan,Noah REBOUND (Off:6 Def:6),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240807,21600711,5,2:56,nan,MISS Anthony 17' Turnaround Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240808,21600711,5,2:54,Bazemore REBOUND (Off:1 Def:6),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240809,21600711,5,2:36,MISS Schroder 8' Driving Floating Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240810,21600711,5,2:35,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240811,21600711,5,2:17,nan,Holiday 25' 3PT Jump Shot (9 PTS) (Anthony 4 AST),109 - 108,203200,Justin Holiday,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+240812,21600711,5,1:54,MISS Hardaway Jr. 25' 3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240813,21600711,5,1:52,nan,Lee REBOUND (Off:1 Def:5),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240814,21600711,5,1:29,nan,Anthony 16' Turnaround Jump Shot (36 PTS),111 - 108,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240815,21600711,5,1:29,HAWKS Timeout: Regular (Full 6 Short 3),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240816,21600711,5,1:22,MISS Hardaway Jr. 8' Floating Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240817,21600711,5,1:18,nan,Anthony REBOUND (Off:0 Def:5),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240818,21600711,5,1:04,nan,MISS Anthony 24' 3PT Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240819,21600711,5,1:02,Howard REBOUND (Off:3 Def:7),nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240820,21600711,5,0:53,Howard 2' Alley Oop Layup (17 PTS) (Hardaway Jr. 8 AST),nan,111 - 110,2730,Dwight Howard,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+240821,21600711,5,0:53,nan,Noah S.FOUL (P5.T2) (S.Foster),nan,201149,Joakim Noah,NYK,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Shooting
+240822,21600711,5,0:53,MISS Howard Free Throw 1 of 1,nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+240823,21600711,5,0:53,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240824,21600711,5,0:53,nan,Anthony L.B.FOUL (P3.PN) (M.Smith),nan,2546,Carmelo Anthony,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Loose Ball
+240825,21600711,5,0:53,Hardaway Jr. Free Throw 1 of 2 (19 PTS),nan,111 - 111,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240826,21600711,5,0:53,MISS Hardaway Jr. Free Throw 2 of 2,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240827,21600711,5,0:52,nan,Noah REBOUND (Off:6 Def:7),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240828,21600711,5,0:32,nan,MISS Anthony 18' Fadeaway Jumper,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240829,21600711,5,0:32,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240830,21600711,5,0:32,Jump Ball Howard vs. Noah: Tip to Schroder,nan,nan,2730,Dwight Howard,ATL,201149,Joakim Noah,NYK,203471,Dennis Schroder,ATL,Jump Ball ,nan
+240831,21600711,5,0:32,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+240832,21600711,5,0:32,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+240833,21600711,5,0:31,HAWKS Timeout: Short (Full 6 Short 4),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240834,21600711,5,0:31,SUB: Dunleavy FOR Howard,nan,nan,2730,Dwight Howard,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+240835,21600711,5,0:22,Schroder 3' Driving Layup (18 PTS),nan,111 - 113,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240836,21600711,5,0:22,nan,Knicks Timeout: Regular (Reg.6 Short 2),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240837,21600711,5,0:22,SUB: Howard FOR Dunleavy,nan,nan,2399,Mike Dunleavy,ATL,2730,Dwight Howard,ATL,0,nan,nan,Substitution ,nan
+240838,21600711,5,0:06,nan,Anthony 18' Pullup Jump Shot (38 PTS),113 - 113,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240839,21600711,5,0:06,HAWKS Timeout: Short (Full 6 Short 5),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240840,21600711,5,0:06,SUB: Dunleavy FOR Bazemore,nan,nan,203145,Kent Bazemore,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+240841,21600711,5,0:06,nan,Knicks Timeout: Short (Reg.6 Short 3),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240842,21600711,5,0:01,MISS Schroder 25' 3PT Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240843,21600711,5,0:01,Howard REBOUND (Off:4 Def:7),nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240844,21600711,5,0:01,MISS Howard 1' Putback Layup,nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240845,21600711,5,0:00,nan,Lee REBOUND (Off:1 Def:6),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240846,21600711,5,0:00,nan,nan,113 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+240847,21600711,6,5:00,nan,nan,113 - 113,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+240848,21600711,6,5:00,Jump Ball Howard vs. Noah: Tip to Millsap,nan,nan,2730,Dwight Howard,ATL,201149,Joakim Noah,NYK,200794,Paul Millsap,ATL,Jump Ball ,nan
+240849,21600711,6,4:55,nan,Holiday S.FOUL (P2.T1) (S.Foster),nan,203200,Justin Holiday,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+240850,21600711,6,4:55,Millsap Free Throw 1 of 2 (24 PTS),nan,113 - 114,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240851,21600711,6,4:55,Millsap Free Throw 2 of 2 (25 PTS),nan,113 - 115,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240852,21600711,6,4:39,nan,Anthony 21' Pullup Jump Shot (40 PTS),115 - 115,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240853,21600711,6,4:24,Howard  Dunk (19 PTS) (Schroder 13 AST),nan,115 - 117,2730,Dwight Howard,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240854,21600711,6,4:03,nan,MISS Anthony 15' Pullup Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240855,21600711,6,3:59,Howard REBOUND (Off:4 Def:8),nan,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240856,21600711,6,3:43,Schroder Lost Ball Turnover (P5.T12),Noah STEAL (3 STL),nan,203471,Dennis Schroder,ATL,201149,Joakim Noah,NYK,0,nan,nan,Turnover ,Lost Ball
+240857,21600711,6,3:20,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240858,21600711,6,3:19,Bazemore REBOUND (Off:1 Def:7),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240859,21600711,6,3:05,nan,Anthony P.FOUL (P4.T2) (C.Blair),nan,2546,Carmelo Anthony,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+240860,21600711,6,3:00,MISS Hardaway Jr. 25' 3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240861,21600711,6,2:58,Bazemore REBOUND (Off:2 Def:7),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240862,21600711,6,2:57,MISS Bazemore  Putback Layup,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240863,21600711,6,2:56,nan,Lee REBOUND (Off:1 Def:7),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240864,21600711,6,2:51,nan,MISS Lee 2' Driving Layup,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240865,21600711,6,2:48,nan,Noah REBOUND (Off:7 Def:7),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240866,21600711,6,2:47,nan,MISS Noah 1' Tip Layup Shot,nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240867,21600711,6,2:46,Millsap REBOUND (Off:5 Def:8),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240868,21600711,6,2:32,nan,Anthony L.B.FOUL (P5.T3) (M.Smith),nan,2546,Carmelo Anthony,NYK,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Loose Ball
+240869,21600711,6,2:20,Millsap 18' Step Back Jump Shot (27 PTS) (Schroder 14 AST),nan,115 - 119,200794,Paul Millsap,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240870,21600711,6,2:04,Howard P.FOUL (P6.T1) (S.Foster),nan,nan,2730,Dwight Howard,ATL,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+240871,21600711,6,2:04,SUB: Muscala FOR Howard,nan,nan,2730,Dwight Howard,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+240872,21600711,6,1:55,nan,Anthony 24' 3PT Pullup Jump Shot (43 PTS),118 - 119,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240873,21600711,6,1:37,nan,Jennings P.FOUL (P5.PN) (M.Smith),nan,201943,Brandon Jennings,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+240874,21600711,6,1:37,Millsap Free Throw 1 of 2 (28 PTS),nan,118 - 120,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240875,21600711,6,1:37,Millsap Free Throw 2 of 2 (29 PTS),nan,118 - 121,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240876,21600711,6,1:15,nan,Anthony 18' Step Back Jump Shot (45 PTS),120 - 121,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240877,21600711,6,0:58,MISS Millsap 25' 3PT Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240878,21600711,6,0:56,nan,Anthony REBOUND (Off:0 Def:6),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240879,21600711,6,0:33,nan,MISS Anthony 25' 3PT Pullup Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240880,21600711,6,0:24,Millsap REBOUND (Off:5 Def:9),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240881,21600711,6,0:12,Schroder 1' Driving Layup (20 PTS),nan,120 - 123,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240882,21600711,6,0:12,nan,Anthony S.FOUL (P6.PN) (M.Smith),nan,2546,Carmelo Anthony,NYK,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Shooting
+240883,21600711,6,0:12,nan,SUB: O'Quinn FOR Anthony,nan,2546,Carmelo Anthony,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+240884,21600711,6,0:12,MISS Schroder Free Throw 1 of 1,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+240885,21600711,6,0:12,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240886,21600711,6,0:12,nan,Knicks Timeout: Regular (Reg.7 Short 3),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240887,21600711,6,0:12,SUB: Delaney FOR Muscala,nan,nan,203488,Mike Muscala,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Substitution ,nan
+240888,21600711,6,0:12,nan,SUB: Kuzminskas FOR Noah,nan,201149,Joakim Noah,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Substitution ,nan
+240889,21600711,6,0:11,Millsap P.FOUL (P4.T2) (C.Blair),nan,nan,200794,Paul Millsap,ATL,201943,Brandon Jennings,NYK,0,nan,nan,Foul ,Personal
+240890,21600711,6,0:11,nan,Knicks Timeout: Short (Reg.7 Short 4),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240891,21600711,6,0:01,nan,Lee 26' 3PT Pullup Jump Shot (15 PTS),123 - 123,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240892,21600711,6,0:01,HAWKS Timeout: Regular (Full 7 Short 5),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240893,21600711,6,0:01,SUB: Muscala FOR Bazemore,nan,nan,203145,Kent Bazemore,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+240894,21600711,6,0:01,SUB: Dunleavy FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+240895,21600711,6,0:01,nan,SUB: Noah FOR O'Quinn,nan,203124,Kyle O'Quinn,NYK,201149,Joakim Noah,NYK,0,nan,nan,Substitution ,nan
+240896,21600711,6,0:01,nan,Knicks Timeout: Short (Reg.7 Short 5),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240897,21600711,6,0:01,MISS Hardaway Jr. 25' 3PT Jump Shot,Lee BLOCK (1 BLK),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,201584,Courtney Lee,NYK,Missed Shot ,nan
+240898,21600711,6,0:00,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240899,21600711,6,0:00,nan,nan,123 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+240900,21600711,7,5:00,nan,nan,123 - 123,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+240901,21600711,7,5:00,Jump Ball Muscala vs. Noah: Tip to Holiday,nan,nan,203488,Mike Muscala,ATL,201149,Joakim Noah,NYK,203200,Justin Holiday,NYK,Jump Ball ,nan
+240902,21600711,7,4:36,nan,Holiday  3PT Pullup Jump Shot (12 PTS) (Jennings 10 AST),126 - 123,203200,Justin Holiday,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+240903,21600711,7,4:14,MISS Schroder 20' Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240904,21600711,7,4:11,Millsap REBOUND (Off:6 Def:9),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240905,21600711,7,4:07,MISS Hardaway Jr.  3PT Jump Shot,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240906,21600711,7,4:06,nan,Holiday REBOUND (Off:1 Def:5),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240907,21600711,7,4:00,nan,Noah OFF.Foul (P6) (C.Blair),nan,201149,Joakim Noah,NYK,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Offensive
+240908,21600711,7,4:00,nan,Noah Foul Turnover (P1.T12),nan,201149,Joakim Noah,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+240909,21600711,7,4:00,nan,SUB: O'Quinn FOR Noah,nan,201149,Joakim Noah,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Substitution ,nan
+240910,21600711,7,3:51,MISS Muscala 24' 3PT Jump Shot,nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240911,21600711,7,3:49,Millsap REBOUND (Off:7 Def:9),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240912,21600711,7,3:45,Millsap 1' Putback Layup (31 PTS),nan,126 - 125,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240913,21600711,7,3:28,nan,MISS Jennings 17' Step Back Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240914,21600711,7,3:26,Millsap REBOUND (Off:7 Def:10),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240915,21600711,7,3:13,MISS Millsap 2' Driving Layup,O'Quinn BLOCK (1 BLK),nan,200794,Paul Millsap,ATL,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+240916,21600711,7,3:13,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240917,21600711,7,3:06,Schroder Lost Ball Turnover (P6.T13),O'Quinn STEAL (1 STL),nan,203471,Dennis Schroder,ATL,203124,Kyle O'Quinn,NYK,0,nan,nan,Turnover ,Lost Ball
+240918,21600711,7,2:57,nan,MISS Kuzminskas 25' 3PT Running Jump Shot,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240919,21600711,7,2:54,Hardaway Jr. REBOUND (Off:0 Def:5),nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240920,21600711,7,2:43,Millsap 24' 3PT Jump Shot (34 PTS) (Schroder 15 AST),nan,126 - 128,200794,Paul Millsap,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+240921,21600711,7,2:23,nan,MISS O'Quinn 20' Jump Shot,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240922,21600711,7,2:21,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240923,21600711,7,2:15,nan,Knicks Timeout: Short (Reg.7 Short 6),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240924,21600711,7,2:03,nan,MISS Holiday 25' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240925,21600711,7,2:01,Muscala REBOUND (Off:0 Def:6),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240926,21600711,7,1:52,Millsap Bad Pass Turnover (P3.T14),Lee STEAL (2 STL),nan,200794,Paul Millsap,ATL,201584,Courtney Lee,NYK,0,nan,nan,Turnover ,Bad Pass
+240927,21600711,7,1:44,nan,Kuzminskas 8' Floating Jump Shot (13 PTS) (Jennings 11 AST),128 - 128,1627851,Mindaugas Kuzminskas,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Made Shot ,nan
+240928,21600711,7,1:22,MISS Schroder  Driving Reverse Layup,O'Quinn BLOCK (2 BLK),nan,203471,Dennis Schroder,ATL,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+240929,21600711,7,1:19,nan,Jennings REBOUND (Off:0 Def:3),nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240930,21600711,7,1:14,nan,MISS Holiday 24' 3PT Jump Shot,nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240931,21600711,7,1:13,Muscala REBOUND (Off:0 Def:7),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240932,21600711,7,1:00,nan,Lee P.FOUL (P5.T1) (M.Smith),nan,201584,Courtney Lee,NYK,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal
+240933,21600711,7,0:48,MISS Schroder 2' Driving Layup,O'Quinn BLOCK (3 BLK),nan,203471,Dennis Schroder,ATL,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+240934,21600711,7,0:47,Muscala REBOUND (Off:1 Def:7),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240935,21600711,7,0:47,nan,nan,nan,732,Ashraf Amaya,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+240936,21600711,7,0:31,MISS Millsap 25' 3PT Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240937,21600711,7,0:29,nan,Kuzminskas REBOUND (Off:0 Def:3),nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240938,21600711,7,0:28,nan,Knicks Timeout: Regular (Reg.8 Short 6),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240939,21600711,7,0:09,Hardaway Jr. S.FOUL (P4.T1) (S.Foster),nan,nan,203501,Tim Hardaway Jr.,ATL,201584,Courtney Lee,NYK,0,nan,nan,Foul ,Shooting
+240940,21600711,7,0:09,nan,Lee Free Throw 1 of 2 (16 PTS),129 - 128,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240941,21600711,7,0:09,nan,Lee Free Throw 2 of 2 (17 PTS),130 - 128,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240942,21600711,7,0:03,Schroder 1' Driving Layup (22 PTS),nan,130 - 130,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240943,21600711,7,0:03,nan,Knicks Timeout: Short (Reg.8 Short 7),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240944,21600711,7,0:01,nan,MISS Lee 21' Pullup Jump Shot,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240945,21600711,7,0:00,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240946,21600711,7,0:00,nan,nan,130 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+240947,21600711,8,5:00,nan,nan,130 - 130,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+240948,21600711,8,5:00,Jump Ball Millsap vs. O'Quinn: Tip to Muscala,nan,nan,200794,Paul Millsap,ATL,203124,Kyle O'Quinn,NYK,203488,Mike Muscala,ATL,Jump Ball ,nan
+240949,21600711,8,4:45,MISS Bazemore 1' Driving Layup,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240950,21600711,8,4:44,nan,O'Quinn REBOUND (Off:2 Def:9),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240951,21600711,8,4:37,nan,MISS Kuzminskas  3PT Jump Shot,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240952,21600711,8,4:37,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240953,21600711,8,4:37,nan,O'Quinn L.B.FOUL (P4.T1) (C.Blair),nan,203124,Kyle O'Quinn,NYK,203488,Mike Muscala,ATL,0,nan,nan,Foul ,Loose Ball
+240954,21600711,8,4:25,MISS Millsap 1' Cutting Layup Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240955,21600711,8,4:25,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240956,21600711,8,4:12,MISS Delaney 3' Driving Bank Shot,nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240957,21600711,8,4:11,nan,Holiday REBOUND (Off:1 Def:6),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240958,21600711,8,4:02,nan,Jennings 26' 3PT Running Pull-Up Jump Shot (15 PTS),133 - 130,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240959,21600711,8,3:43,Bazemore  3PT Jump Shot (19 PTS) (Delaney 2 AST),nan,133 - 133,203145,Kent Bazemore,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Made Shot ,nan
+240960,21600711,8,3:24,nan,Holiday 24' 3PT Jump Shot (15 PTS) (Kuzminskas 4 AST),136 - 133,203200,Justin Holiday,NYK,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,Made Shot ,nan
+240961,21600711,8,3:10,Bazemore 25' 3PT Jump Shot (22 PTS) (Muscala 2 AST),nan,136 - 136,203145,Kent Bazemore,ATL,203488,Mike Muscala,ATL,0,nan,nan,Made Shot ,nan
+240962,21600711,8,2:56,nan,Jennings  3PT Step Back Jump Shot (18 PTS),139 - 136,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+240963,21600711,8,2:39,MISS Schroder 25' 3PT Step Back Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240964,21600711,8,2:36,nan,O'Quinn REBOUND (Off:2 Def:10),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240965,21600711,8,2:36,nan,Knicks Timeout: Short (Reg.8 Short 8),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+240966,21600711,8,2:36,SUB: Hardaway Jr. FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Substitution ,nan
+240967,21600711,8,2:19,nan,MISS O'Quinn 1' Layup,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240968,21600711,8,2:15,Millsap REBOUND (Off:7 Def:11),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240969,21600711,8,2:00,MISS Millsap 17' Step Back Jump Shot,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240970,21600711,8,1:57,nan,Kuzminskas REBOUND (Off:0 Def:4),nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240971,21600711,8,1:45,nan,MISS Kuzminskas 25' 3PT Jump Shot,nan,1627851,Mindaugas Kuzminskas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240972,21600711,8,1:43,Bazemore REBOUND (Off:2 Def:8),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240973,21600711,8,1:38,Bazemore  Driving Layup (24 PTS),nan,139 - 138,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240974,21600711,8,1:23,nan,MISS Jennings 10' Driving Floating Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240975,21600711,8,1:23,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240976,21600711,8,1:23,nan,O'Quinn L.B.FOUL (P5.T2) (S.Foster),nan,203124,Kyle O'Quinn,NYK,203488,Mike Muscala,ATL,0,nan,nan,Foul ,Loose Ball
+240977,21600711,8,1:14,nan,O'Quinn S.FOUL (P6.PN) (M.Smith),nan,203124,Kyle O'Quinn,NYK,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+240978,21600711,8,1:14,nan,SUB: Hernangomez FOR O'Quinn,nan,203124,Kyle O'Quinn,NYK,1626195,Willy Hernangomez,NYK,0,nan,nan,Substitution ,nan
+240979,21600711,8,1:14,Millsap Free Throw 1 of 2 (35 PTS),nan,139 - 139,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240980,21600711,8,1:14,MISS Millsap Free Throw 2 of 2,nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+240981,21600711,8,1:12,nan,Holiday REBOUND (Off:1 Def:7),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240982,21600711,8,1:12,Jump Ball Millsap vs. Holiday: Tip to Lee,nan,nan,200794,Paul Millsap,ATL,203200,Justin Holiday,NYK,201584,Courtney Lee,NYK,Jump Ball ,nan
+240983,21600711,8,0:45,nan,MISS Jennings 24' 3PT Jump Shot,nan,201943,Brandon Jennings,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240984,21600711,8,0:45,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240985,21600711,8,0:45,nan,Knicks Turnover: Shot Clock (T#13),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+240986,21600711,8,0:29,MISS Hardaway Jr. 2' Driving Layup,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+240987,21600711,8,0:27,Millsap REBOUND (Off:8 Def:11),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+240988,21600711,8,0:27,Millsap 1' Putback Layup (37 PTS),nan,139 - 141,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+240989,21600711,8,0:27,nan,Knicks Timeout: Regular (Reg.9 Short 8),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240990,21600711,8,0:14,nan,Lee Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+240991,21600711,8,0:14,HAWKS Timeout: Regular (Full 8 Short 5),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+240992,21600711,8,0:14,nan,SUB: Baker FOR Jennings,nan,201943,Brandon Jennings,NYK,1627758,Ron Baker,NYK,0,nan,nan,Substitution ,nan
+240993,21600711,8,0:14,SUB: Schroder FOR Bazemore,nan,nan,203145,Kent Bazemore,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+240994,21600711,8,0:14,SUB: Dunleavy FOR Muscala,nan,nan,203488,Mike Muscala,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+240995,21600711,8,0:10,nan,Hernangomez Personal Take Foul (P2.PN) (S.Foster),nan,1626195,Willy Hernangomez,NYK,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Personal Take
+240996,21600711,8,0:10,Schroder Free Throw 1 of 2 (23 PTS),nan,139 - 142,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+240997,21600711,8,0:10,SUB: Muscala FOR Dunleavy,nan,nan,2399,Mike Dunleavy,ATL,203488,Mike Muscala,ATL,0,nan,nan,Substitution ,nan
+240998,21600711,8,0:10,SUB: Bazemore FOR Hardaway Jr.,nan,nan,203501,Tim Hardaway Jr.,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+240999,21600711,8,0:10,MISS Schroder Free Throw 2 of 2,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241000,21600711,8,0:07,nan,Holiday REBOUND (Off:1 Def:8),nan,203200,Justin Holiday,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241001,21600711,8,0:07,nan,Knicks Timeout: Short (Reg.9 Short 9),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+241002,21600711,8,0:07,nan,SUB: Jennings FOR Kuzminskas,nan,1627851,Mindaugas Kuzminskas,NYK,201943,Brandon Jennings,NYK,0,nan,nan,Substitution ,nan
+241003,21600711,8,0:04,nan,MISS Lee 25' 3PT Pullup Jump Shot,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241004,21600711,8,0:02,nan,Lee REBOUND (Off:2 Def:7),nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241005,21600711,8,0:02,nan,MISS Lee 24' 3PT Step Back Jump Shot,nan,201584,Courtney Lee,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241006,21600711,8,0:00,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241007,21600711,8,0:00,nan,nan,139 - 142,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

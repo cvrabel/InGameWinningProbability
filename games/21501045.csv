@@ -1,0 +1,109 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+130578,21501045,4,12:00,nan,nan,56 - 66,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+130579,21501045,4,11:39,MISS Lawson 20' Jump Shot,nan,nan,201951,Ty Lawson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130580,21501045,4,11:37,nan,Grant REBOUND (Off:1 Def:2),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130581,21501045,4,11:24,Lawson P.FOUL (P1.T1) (N.Buchert),nan,nan,201951,Ty Lawson,IND,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Personal
+130582,21501045,4,11:11,nan,MISS Canaan 28' 3PT Jump Shot,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130583,21501045,4,11:09,nan,Noel REBOUND (Off:1 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130584,21501045,4,11:07,Allen S.FOUL (P2.T2) (H.Workman),nan,nan,202730,Lavoy Allen,IND,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+130585,21501045,4,11:07,nan,Noel Free Throw 1 of 2 (7 PTS),57 - 66,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+130586,21501045,4,11:07,nan,Noel Free Throw 2 of 2 (8 PTS),58 - 66,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+130587,21501045,4,10:43,Miles 27' 3PT Step Back Jump Shot (6 PTS),nan,58 - 69,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+130588,21501045,4,10:29,nan,MISS Thompson 27' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130589,21501045,4,10:28,Allen REBOUND (Off:1 Def:4),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130590,21501045,4,10:21,Stuckey Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+130591,21501045,4,10:10,nan,MISS Noel 12' Floating Jump Shot,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130592,21501045,4,10:10,Stuckey REBOUND (Off:0 Def:2),nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130593,21501045,4,9:59,Stuckey 1' Cutting Layup Shot (5 PTS) (Lawson 2 AST),nan,58 - 71,201155,Rodney Stuckey,IND,201951,Ty Lawson,IND,0,nan,nan,Made Shot ,nan
+130594,21501045,4,9:40,nan,Thompson 4' Driving Bank Shot (12 PTS),60 - 71,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+130595,21501045,4,9:20,Hill Lost Ball Turnover (P1.T14),Smith STEAL (3 STL),nan,201941,Jordan Hill,IND,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Lost Ball
+130596,21501045,4,9:18,Lawson P.FOUL (P2.T3) (S.Foster),nan,nan,201951,Ty Lawson,IND,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+130597,21501045,4,9:05,Miles P.FOUL (P2.T4) (N.Buchert),nan,nan,101139,CJ Miles,IND,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Personal
+130598,21501045,4,9:05,nan,76ers Timeout: Regular (Reg.4 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+130599,21501045,4,8:53,nan,Smith 19' Step Back Jump Shot (2 PTS),62 - 71,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+130600,21501045,4,8:28,nan,Noel S.FOUL (P4.T1) (S.Foster),nan,203457,Nerlens Noel,PHI,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting
+130601,21501045,4,8:28,MISS Stuckey Free Throw 1 of 2,nan,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+130602,21501045,4,8:28,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+130603,21501045,4,8:28,Stuckey Free Throw 2 of 2 (6 PTS),nan,62 - 72,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+130604,21501045,4,8:04,nan,Canaan 1' Driving Layup (15 PTS),64 - 72,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+130605,21501045,4,7:42,Stuckey 24' 3PT Jump Shot (9 PTS) (Allen 1 AST),nan,64 - 75,201155,Rodney Stuckey,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+130606,21501045,4,7:21,nan,MISS Smith 6' Jump Shot,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130607,21501045,4,7:20,nan,Smith REBOUND (Off:3 Def:5),nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130608,21501045,4,7:15,nan,MISS Smith 1' Driving Reverse Layup,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130609,21501045,4,7:15,nan,Noel REBOUND (Off:2 Def:6),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130610,21501045,4,7:15,Allen S.FOUL (P3.PN) (S.Foster),nan,nan,202730,Lavoy Allen,IND,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+130611,21501045,4,7:15,nan,MISS Noel Free Throw 1 of 2,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+130612,21501045,4,7:15,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+130613,21501045,4,7:15,SUB: George FOR Stuckey,nan,nan,201155,Rodney Stuckey,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+130614,21501045,4,7:15,SUB: Mahinmi FOR Hill,nan,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+130615,21501045,4,7:15,nan,SUB: Landry FOR Grant,nan,203924,Jerami Grant,PHI,201171,Carl Landry,PHI,0,nan,nan,Substitution ,nan
+130616,21501045,4,7:15,nan,MISS Noel Free Throw 2 of 2,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+130617,21501045,4,7:15,Mahinmi REBOUND (Off:2 Def:6),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130618,21501045,4,6:52,Mahinmi 8' Hook Shot (12 PTS),nan,64 - 77,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+130619,21501045,4,6:35,George STEAL (2 STL),Smith Bad Pass Turnover (P1.T14),nan,202397,Ish Smith,PHI,202331,Paul George,IND,0,nan,nan,Turnover ,Bad Pass
+130620,21501045,4,6:35,nan,Smith L.B.FOUL (P2.T2) (H.Workman),nan,202397,Ish Smith,PHI,202331,Paul George,IND,0,nan,nan,Foul ,Loose Ball
+130621,21501045,4,6:35,nan,nan,nan,399,Sean Rooks,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+130622,21501045,4,6:29,Mahinmi OFF.Foul (P2) (S.Foster),nan,nan,101133,Ian Mahinmi,IND,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Offensive
+130623,21501045,4,6:29,Mahinmi Foul Turnover (P4.T15),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+130624,21501045,4,6:29,nan,SUB: McConnell FOR Smith,nan,202397,Ish Smith,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+130625,21501045,4,6:29,SUB: G. Hill FOR Lawson,nan,nan,201951,Ty Lawson,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+130626,21501045,4,6:29,SUB: Ellis FOR Miles,nan,nan,101139,CJ Miles,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+130627,21501045,4,6:19,nan,McConnell 17' Pullup Jump Shot (4 PTS),66 - 77,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+130628,21501045,4,6:09,MISS G. Hill 26' 3PT Pullup Jump Shot,nan,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130629,21501045,4,6:08,nan,Thompson REBOUND (Off:1 Def:4),nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130630,21501045,4,6:01,nan,Canaan Traveling Turnover (P2.T15),nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+130631,21501045,4,5:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+130632,21501045,4,5:43,SUB: Turner FOR Allen,nan,nan,202730,Lavoy Allen,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+130633,21501045,4,5:40,George 26' 3PT Jump Shot (11 PTS) (Ellis 5 AST),nan,66 - 80,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+130634,21501045,4,5:13,nan,Thompson 26' 3PT Jump Shot (15 PTS) (McConnell 4 AST),69 - 80,203138,Hollis Thompson,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+130635,21501045,4,4:48,MISS Ellis 26' 3PT Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130636,21501045,4,4:47,nan,Landry REBOUND (Off:1 Def:5),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130637,21501045,4,4:25,nan,MISS Canaan 24' 3PT Pullup Jump Shot,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130638,21501045,4,4:24,George REBOUND (Off:0 Def:5),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130639,21501045,4,4:18,Ellis 2' Turnaround Jump Shot (10 PTS),nan,69 - 82,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+130640,21501045,4,4:17,nan,76ers Timeout: Regular (Reg.5 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+130641,21501045,4,4:17,nan,SUB: Grant FOR Noel,nan,203457,Nerlens Noel,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+130642,21501045,4,4:17,nan,SUB: Smith FOR Canaan,nan,203477,Isaiah Canaan,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+130643,21501045,4,3:59,Turner BLOCK (3 BLK),MISS Thompson 1' Driving Layup,nan,203138,Hollis Thompson,PHI,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+130644,21501045,4,3:58,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130645,21501045,4,3:36,MISS Turner 20' Jump Shot,nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130646,21501045,4,3:36,nan,Thompson REBOUND (Off:1 Def:5),nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130647,21501045,4,3:25,nan,MISS Smith 11' Fadeaway Jumper,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130648,21501045,4,3:24,Mahinmi REBOUND (Off:2 Def:7),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130649,21501045,4,3:01,MISS Ellis 21' Pullup Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130650,21501045,4,3:00,nan,Landry REBOUND (Off:1 Def:6),nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130651,21501045,4,2:52,Turner P.FOUL (P3.PN) (N.Buchert),nan,nan,1626167,Myles Turner,IND,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Personal
+130652,21501045,4,2:52,nan,Grant Free Throw 1 of 2 (11 PTS),70 - 82,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+130653,21501045,4,2:52,nan,MISS Grant Free Throw 2 of 2,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+130654,21501045,4,2:52,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130655,21501045,4,2:52,nan,Landry L.B.FOUL (P3.T3) (S.Foster),nan,201171,Carl Landry,PHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Loose Ball
+130656,21501045,4,2:44,nan,Landry P.FOUL (P4.T4) (S.Foster),nan,201171,Carl Landry,PHI,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Personal
+130657,21501045,4,2:33,nan,Thompson S.FOUL (P2.PN) (H.Workman),nan,203138,Hollis Thompson,PHI,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+130658,21501045,4,2:33,George Free Throw 1 of 2 (12 PTS),nan,70 - 83,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+130659,21501045,4,2:33,George Free Throw 2 of 2 (13 PTS),nan,70 - 84,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+130660,21501045,4,2:33,nan,76ers Timeout: Regular (Reg.6 Short 1),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+130661,21501045,4,2:33,nan,SUB: Canaan FOR Landry,nan,201171,Carl Landry,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+130662,21501045,4,2:24,nan,Grant 3' Layup (13 PTS) (Smith 4 AST),72 - 84,203924,Jerami Grant,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+130663,21501045,4,2:24,George S.FOUL (P3.PN) (H.Workman),nan,nan,202331,Paul George,IND,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+130664,21501045,4,2:24,SUB: S. Hill FOR Turner,nan,nan,1626167,Myles Turner,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+130665,21501045,4,2:24,nan,Grant Free Throw 1 of 1 (14 PTS),73 - 84,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+130666,21501045,4,2:18,George  Alley Oop Dunk (15 PTS) (G. Hill 3 AST),nan,73 - 86,202331,Paul George,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+130667,21501045,4,2:07,nan,Smith 1' Driving Layup (4 PTS),75 - 86,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+130668,21501045,4,2:07,G. Hill AWAY.FROM.PLAY.FOUL (P2.PN) (N.Buchert),nan,nan,201588,George Hill,IND,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Away From Play
+130669,21501045,4,2:07,nan,MISS Grant Free Throw 1 of 1,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+130670,21501045,4,2:04,Ellis REBOUND (Off:0 Def:2),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130671,21501045,4,1:45,Ellis  3PT Jump Shot (13 PTS) (G. Hill 4 AST),nan,75 - 89,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+130672,21501045,4,1:33,nan,McConnell Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+130673,21501045,4,1:13,MISS George 26' 3PT Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130674,21501045,4,1:12,nan,Smith REBOUND (Off:3 Def:6),nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130675,21501045,4,1:00,nan,MISS Smith 19' Pullup Jump Shot,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130676,21501045,4,0:59,George REBOUND (Off:0 Def:6),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130677,21501045,4,0:41,G. Hill 1' Driving Finger Roll Layup (12 PTS),nan,75 - 91,201588,George Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+130678,21501045,4,0:34,nan,MISS Thompson 24' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130679,21501045,4,0:33,Mahinmi REBOUND (Off:2 Def:8),nan,nan,101133,Ian Mahinmi,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130680,21501045,4,0:10,MISS George 33' 3PT Pullup Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130681,21501045,4,0:09,nan,Grant REBOUND (Off:1 Def:3),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130682,21501045,4,0:06,George Violation:Kicked Ball (.),nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+130683,21501045,4,0:00,nan,MISS Grant 28' 3PT Jump Shot,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+130684,21501045,4,0:00,Ellis REBOUND (Off:0 Def:3),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+130685,21501045,4,0:00,nan,nan,75 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+30536,21500244,4,12:00,nan,nan,76 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+30537,21500244,4,11:49,McCollum Lost Ball Turnover (P1.T10),Clarkson STEAL (4 STL),nan,203468,CJ McCollum,POR,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Lost Ball
+30538,21500244,4,11:46,Leonard S.FOUL (P1.T1) (T.Ford),nan,nan,203086,Meyers Leonard,POR,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Shooting
+30539,21500244,4,11:46,nan,Bass Free Throw 1 of 2 (2 PTS),77 - 84,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30540,21500244,4,11:46,nan,Bass Free Throw 2 of 2 (3 PTS),78 - 84,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30541,21500244,4,11:22,Harkless 3' Driving Finger Roll Layup (5 PTS),nan,78 - 86,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+30542,21500244,4,11:03,nan,MISS Bryant 25' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30543,21500244,4,11:03,Davis REBOUND (Off:0 Def:4),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30544,21500244,4,10:47,Leonard 1' Reverse Layup (7 PTS) (Davis 1 AST),nan,78 - 88,203086,Meyers Leonard,POR,202334,Ed Davis,POR,0,nan,nan,Made Shot ,nan
+30545,21500244,4,10:30,nan,MISS Young 17' Pullup Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30546,21500244,4,10:29,Leonard REBOUND (Off:1 Def:5),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30547,21500244,4,10:19,MISS McCollum 22' Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30548,21500244,4,10:19,nan,Nance Jr. REBOUND (Off:1 Def:2),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30549,21500244,4,10:09,McCollum STEAL (1 STL),Clarkson Lost Ball Turnover (P2.T9),nan,203903,Jordan Clarkson,LAL,203468,CJ McCollum,POR,0,nan,nan,Turnover ,Lost Ball
+30550,21500244,4,10:06,Davis Bad Pass Turnover (P1.T11),Nance Jr. STEAL (2 STL),nan,202334,Ed Davis,POR,1626204,Larry Nance Jr.,LAL,0,nan,nan,Turnover ,Bad Pass
+30551,21500244,4,10:03,nan,MISS Young 25' 3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30552,21500244,4,10:03,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30553,21500244,4,9:43,McCollum 14' Pullup Jump Shot (21 PTS),nan,78 - 90,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+30554,21500244,4,9:14,nan,MISS Clarkson 24' 3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30555,21500244,4,9:13,Crabbe REBOUND (Off:0 Def:2),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30556,21500244,4,9:08,nan,Bass S.FOUL (P2.T1) (T.Ford),nan,101138,Brandon Bass,LAL,202334,Ed Davis,POR,0,nan,nan,Foul ,Shooting
+30557,21500244,4,9:08,MISS Davis Free Throw 1 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30558,21500244,4,9:08,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+30559,21500244,4,9:08,nan,SUB: Randle FOR Young,nan,201156,Nick Young,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+30560,21500244,4,9:08,nan,SUB: Russell FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+30561,21500244,4,9:08,Davis Free Throw 2 of 2 (4 PTS),nan,78 - 91,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30562,21500244,4,8:55,nan,Bryant 20' Jump Shot (21 PTS) (Randle 3 AST),80 - 91,977,Kobe Bryant,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+30563,21500244,4,8:40,Crabbe 1' Driving Reverse Layup (9 PTS) (Leonard 2 AST),nan,80 - 93,203459,Allen Crabbe,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+30564,21500244,4,8:24,nan,Bass 22' Jump Shot (5 PTS) (Russell 5 AST),82 - 93,101138,Brandon Bass,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+30565,21500244,4,8:11,Crabbe Lost Ball Turnover (P2.T12),Randle STEAL (1 STL),nan,203459,Allen Crabbe,POR,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+30566,21500244,4,8:08,nan,Clarkson 1' Running Layup (18 PTS),84 - 93,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+30567,21500244,4,7:49,Harkless  Dunk (7 PTS) (Davis 2 AST),nan,84 - 95,203090,Maurice Harkless,POR,202334,Ed Davis,POR,0,nan,nan,Made Shot ,nan
+30568,21500244,4,7:47,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+30569,21500244,4,7:47,SUB: Lillard FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+30570,21500244,4,7:38,nan,MISS Randle 15' Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30571,21500244,4,7:37,Lillard REBOUND (Off:1 Def:3),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30572,21500244,4,7:27,Lillard Bad Pass Turnover (P5.T13),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+30573,21500244,4,7:14,nan,MISS Bryant 28' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30574,21500244,4,7:13,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30575,21500244,4,7:13,Davis P.FOUL (P2.T2) (T.Ford),nan,nan,202334,Ed Davis,POR,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Personal
+30576,21500244,4,7:13,nan,SUB: World Peace FOR Bryant,nan,977,Kobe Bryant,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+30577,21500244,4,7:13,SUB: Plumlee FOR Davis,nan,nan,202334,Ed Davis,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+30578,21500244,4,7:13,SUB: Aminu FOR Leonard,nan,nan,203086,Meyers Leonard,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+30579,21500244,4,7:07,nan,Russell 25' 3PT Jump Shot (14 PTS) (Randle 4 AST),87 - 95,1626156,D'Angelo Russell,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+30580,21500244,4,6:51,McCollum 2' Cutting Layup Shot (23 PTS) (Plumlee 3 AST),nan,87 - 97,203468,CJ McCollum,POR,203486,Mason Plumlee,POR,0,nan,nan,Made Shot ,nan
+30581,21500244,4,6:31,nan,MISS Clarkson 16' Pullup Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30582,21500244,4,6:29,Aminu REBOUND (Off:1 Def:5),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30583,21500244,4,6:20,MISS Aminu  3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30584,21500244,4,6:19,Harkless REBOUND (Off:4 Def:1),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30585,21500244,4,6:15,nan,Bass Violation:Kicked Ball (R.Mott),nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+30586,21500244,4,6:15,nan,SUB: Hibbert FOR Bass,nan,101138,Brandon Bass,LAL,201579,Roy Hibbert,LAL,0,nan,nan,Substitution ,nan
+30587,21500244,4,6:08,McCollum 7' Turnaround Jump Shot (25 PTS) (Plumlee 4 AST),nan,87 - 99,203468,CJ McCollum,POR,203486,Mason Plumlee,POR,0,nan,nan,Made Shot ,nan
+30588,21500244,4,5:41,nan,MISS Clarkson 5' Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30589,21500244,4,5:37,nan,World Peace REBOUND (Off:2 Def:2),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30590,21500244,4,5:37,nan,MISS World Peace 2' Tip Layup Shot,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30591,21500244,4,5:36,McCollum REBOUND (Off:0 Def:2),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30592,21500244,4,5:30,Plumlee Lost Ball Turnover (P3.T14),Randle STEAL (2 STL),nan,203486,Mason Plumlee,POR,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+30593,21500244,4,5:18,nan,Randle 7' Turnaround Hook Shot (12 PTS),89 - 99,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+30594,21500244,4,5:01,MISS Lillard 21' Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30595,21500244,4,5:01,nan,World Peace REBOUND (Off:2 Def:3),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30596,21500244,4,4:44,nan,MISS Randle 6' Driving Floating Jump Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30597,21500244,4,4:42,nan,Randle REBOUND (Off:1 Def:5),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30598,21500244,4,4:42,nan,Randle 1' Tip Layup Shot (14 PTS),91 - 99,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+30599,21500244,4,4:23,MISS Plumlee 10' Floating Jump Shot,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30600,21500244,4,4:22,Plumlee REBOUND (Off:2 Def:0),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30601,21500244,4,4:13,MISS Lillard 26' 3PT Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30602,21500244,4,4:12,nan,Russell REBOUND (Off:0 Def:4),nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30603,21500244,4,4:05,nan,MISS Russell 21' Pullup Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30604,21500244,4,4:04,Aminu REBOUND (Off:1 Def:6),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30605,21500244,4,3:56,Lillard 3' Driving Floating Bank Jump Shot (26 PTS),nan,91 - 101,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+30606,21500244,4,3:54,nan,Lakers Timeout: Short (Reg.4 Short 2),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+30607,21500244,4,3:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+30608,21500244,4,3:54,nan,SUB: Bryant FOR World Peace,nan,1897,Metta World Peace,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+30609,21500244,4,3:50,Lillard P.FOUL (P2.T3) (T.Ford),nan,nan,203081,Damian Lillard,POR,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Personal
+30610,21500244,4,3:35,nan,MISS Bryant 20' Fadeaway Jumper,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30611,21500244,4,3:34,Aminu REBOUND (Off:1 Def:7),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30612,21500244,4,3:16,MISS McCollum 8' Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30613,21500244,4,3:16,Plumlee REBOUND (Off:3 Def:0),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30614,21500244,4,3:16,nan,Hibbert P.FOUL (P2.T2) (M.Callahan),nan,201579,Roy Hibbert,LAL,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Personal
+30615,21500244,4,3:10,MISS Lillard 3' Cutting Layup Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30616,21500244,4,3:10,nan,Hibbert REBOUND (Off:1 Def:4),nan,201579,Roy Hibbert,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30617,21500244,4,2:45,nan,Randle 4' Pullup Jump Shot (16 PTS),93 - 101,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+30618,21500244,4,2:27,McCollum 24' 3PT Jump Shot (28 PTS) (Lillard 7 AST),nan,93 - 104,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+30619,21500244,4,2:11,Plumlee S.FOUL (P5.T4) (T.Ford),nan,nan,203486,Mason Plumlee,POR,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Shooting
+30620,21500244,4,2:11,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+30621,21500244,4,2:11,nan,Clarkson Free Throw 1 of 2 (19 PTS),94 - 104,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30622,21500244,4,2:11,nan,MISS Clarkson Free Throw 2 of 2,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30623,21500244,4,2:09,Harkless REBOUND (Off:4 Def:2),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30624,21500244,4,1:53,nan,Hibbert S.FOUL (P3.T3) (T.Ford),nan,201579,Roy Hibbert,LAL,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+30625,21500244,4,1:53,Plumlee Free Throw 1 of 2 (6 PTS),nan,94 - 105,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30626,21500244,4,1:53,MISS Plumlee Free Throw 2 of 2,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30627,21500244,4,1:50,Aminu REBOUND (Off:2 Def:7),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30628,21500244,4,1:33,Lillard 3' Driving Floating Bank Jump Shot (28 PTS),nan,94 - 107,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+30629,21500244,4,1:33,nan,Hibbert S.FOUL (P4.PN) (M.Callahan),nan,201579,Roy Hibbert,LAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+30630,21500244,4,1:33,Lillard Free Throw 1 of 1 (29 PTS),nan,94 - 108,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+30631,21500244,4,1:20,nan,MISS Bryant 10' Turnaround Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30632,21500244,4,1:19,Plumlee REBOUND (Off:3 Def:1),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30633,21500244,4,1:00,MISS Lillard 21' Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30634,21500244,4,0:58,nan,Hibbert REBOUND (Off:1 Def:5),nan,201579,Roy Hibbert,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30635,21500244,4,0:51,Harkless S.FOUL (P1.PN) (M.Callahan),nan,nan,203090,Maurice Harkless,POR,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+30636,21500244,4,0:51,nan,MISS Randle Free Throw 1 of 2,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+30637,21500244,4,0:51,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+30638,21500244,4,0:51,SUB: Connaughton FOR Plumlee,nan,nan,203486,Mason Plumlee,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+30639,21500244,4,0:51,SUB: Frazier FOR McCollum,nan,nan,203468,CJ McCollum,POR,204025,Tim Frazier,POR,0,nan,nan,Substitution ,nan
+30640,21500244,4,0:51,SUB: Vonleh FOR Lillard,nan,nan,203081,Damian Lillard,POR,203943,Noah Vonleh,POR,0,nan,nan,Substitution ,nan
+30641,21500244,4,0:51,SUB: Alexander FOR Aminu,nan,nan,202329,Al-Farouq Aminu,POR,1626146,Cliff Alexander,POR,0,nan,nan,Substitution ,nan
+30642,21500244,4,0:51,nan,SUB: Bass FOR Bryant,nan,977,Kobe Bryant,LAL,101138,Brandon Bass,LAL,0,nan,nan,Substitution ,nan
+30643,21500244,4,0:51,nan,SUB: World Peace FOR Hibbert,nan,201579,Roy Hibbert,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+30644,21500244,4,0:51,nan,MISS Randle Free Throw 2 of 2,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+30645,21500244,4,0:50,Harkless REBOUND (Off:4 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30646,21500244,4,0:34,Vonleh Lost Ball Turnover (P1.T15),Randle STEAL (3 STL),nan,203943,Noah Vonleh,POR,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+30647,21500244,4,0:28,nan,MISS Clarkson 24' 3PT Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+30648,21500244,4,0:28,Harkless REBOUND (Off:4 Def:4),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+30649,21500244,4,0:17,Alexander Lost Ball Turnover (P1.T16),World Peace STEAL (2 STL),nan,1626146,Cliff Alexander,POR,1897,Metta World Peace,LAL,0,nan,nan,Turnover ,Lost Ball
+30650,21500244,4,0:13,nan,Russell 2' Running Layup (16 PTS) (World Peace 1 AST),96 - 108,1626156,D'Angelo Russell,LAL,1897,Metta World Peace,LAL,0,nan,nan,Made Shot ,nan
+30651,21500244,4,0:00,nan,nan,96 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

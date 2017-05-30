@@ -1,0 +1,232 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+255694,21600830,4,12:00,nan,nan,75 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+255695,21600830,4,11:47,Vonleh P.FOUL (P5.T1) (M.McCutchen),nan,nan,203943,Noah Vonleh,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Personal
+255696,21600830,4,11:39,nan,Bazemore Out of Bounds Lost Ball Turnover (P3.T7),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+255697,21600830,4,11:25,nan,Delaney P.FOUL (P1.T1) (M.McCutchen),nan,1627098,Malcolm Delaney,ATL,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Personal
+255698,21600830,4,11:16,McCollum 26' 3PT Step Back Jump Shot (14 PTS),nan,75 - 77,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255699,21600830,4,11:06,Vonleh BLOCK (1 BLK),MISS Delaney 2' Driving Layup,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,203943,Noah Vonleh,POR,Missed Shot ,nan
+255700,21600830,4,11:04,Davis REBOUND (Off:5 Def:3),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255701,21600830,4,10:57,McCollum 22' Pullup Jump Shot (16 PTS),nan,75 - 79,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255702,21600830,4,10:39,nan,Bazemore 2' Driving Finger Roll Layup (4 PTS),77 - 79,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+255703,21600830,4,10:23,Crabbe OFF.Foul (P1) (M.McCutchen),nan,nan,203459,Allen Crabbe,POR,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Offensive
+255704,21600830,4,10:23,Crabbe Foul Turnover (P1.T10),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+255705,21600830,4,10:23,SUB: Harkless FOR Napier,nan,nan,203894,Shabazz Napier,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+255706,21600830,4,10:12,Davis BLOCK (1 BLK),MISS Bazemore 3' Driving Layup,nan,203145,Kent Bazemore,ATL,0,nan,nan,202334,Ed Davis,POR,Missed Shot ,nan
+255707,21600830,4,10:11,McCollum REBOUND (Off:2 Def:5),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255708,21600830,4,10:04,MISS McCollum 25' 3PT Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255709,21600830,4,10:02,nan,Prince REBOUND (Off:0 Def:3),nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255710,21600830,4,9:57,McCollum Shooting Block Foul (P1.T2) (D.Taylor),nan,nan,203468,CJ McCollum,POR,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting Block
+255711,21600830,4,9:57,nan,Bazemore Free Throw 1 of 2 (5 PTS),78 - 79,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255712,21600830,4,9:57,nan,Bazemore Free Throw 2 of 2 (6 PTS),79 - 79,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255713,21600830,4,9:43,MISS Crabbe 21' Pullup Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255714,21600830,4,9:42,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255715,21600830,4,9:42,nan,Muscala L.B.FOUL (P2.T2) (M.McCutchen),nan,203488,Mike Muscala,ATL,203943,Noah Vonleh,POR,0,nan,nan,Foul ,Loose Ball
+255716,21600830,4,9:42,SUB: Leonard FOR Davis,nan,nan,202334,Ed Davis,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+255717,21600830,4,9:30,MISS Leonard  3PT Jump Shot,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255718,21600830,4,9:29,nan,Howard REBOUND (Off:3 Def:10),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255719,21600830,4,9:18,nan,MISS Prince  3PT Jump Shot,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255720,21600830,4,9:16,Vonleh REBOUND (Off:0 Def:4),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255721,21600830,4,9:10,nan,Prince P.FOUL (P2.T3) (K.Lane),nan,1627752,Taurean Prince,ATL,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Personal
+255722,21600830,4,9:02,nan,Delaney S.FOUL (P2.T4) (D.Taylor),nan,1627098,Malcolm Delaney,ATL,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+255723,21600830,4,9:02,McCollum Free Throw 1 of 2 (17 PTS),nan,79 - 80,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255724,21600830,4,9:02,nan,SUB: Millsap FOR Muscala,nan,203488,Mike Muscala,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+255725,21600830,4,9:02,McCollum Free Throw 2 of 2 (18 PTS),nan,79 - 81,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255726,21600830,4,8:52,Harkless Violation:Kicked Ball (D.Taylor),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+255727,21600830,4,8:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+255728,21600830,4,8:42,nan,MISS Millsap 10' Fadeaway Jumper,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255729,21600830,4,8:42,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255730,21600830,4,8:42,nan,Howard P.FOUL (P2.PN) (M.McCutchen),nan,2730,Dwight Howard,ATL,203086,Meyers Leonard,POR,0,nan,nan,Foul ,Personal
+255731,21600830,4,8:42,MISS Leonard Free Throw 1 of 2,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255732,21600830,4,8:42,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255733,21600830,4,8:42,SUB: Lillard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+255734,21600830,4,8:42,MISS Leonard Free Throw 2 of 2,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255735,21600830,4,8:42,nan,Howard REBOUND (Off:3 Def:11),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255736,21600830,4,8:23,nan,MISS Delaney  3PT Pullup Jump Shot,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255737,21600830,4,8:23,Crabbe REBOUND (Off:0 Def:3),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255738,21600830,4,8:15,MISS Lillard 4' Driving Floating Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255739,21600830,4,8:13,nan,Bazemore REBOUND (Off:1 Def:4),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255740,21600830,4,8:13,Vonleh P.FOUL (P6.T3) (K.Lane),nan,nan,203943,Noah Vonleh,POR,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal
+255741,21600830,4,8:13,nan,SUB: Schroder FOR Prince,nan,1627752,Taurean Prince,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+255742,21600830,4,8:13,SUB: Aminu FOR Vonleh,nan,nan,203943,Noah Vonleh,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Substitution ,nan
+255743,21600830,4,8:04,nan,MISS Schroder 2' Driving Reverse Layup,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255744,21600830,4,8:03,Aminu REBOUND (Off:1 Def:9),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255745,21600830,4,7:41,Harkless 25' 3PT Jump Shot (13 PTS) (Crabbe 2 AST),nan,79 - 84,203090,Maurice Harkless,POR,203459,Allen Crabbe,POR,0,nan,nan,Made Shot ,nan
+255746,21600830,4,7:27,nan,SUB: Hardaway Jr. FOR Delaney,nan,1627098,Malcolm Delaney,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Substitution ,nan
+255747,21600830,4,7:24,nan,Schroder 12' Jump Shot (20 PTS) (Hardaway Jr. 4 AST),81 - 84,203471,Dennis Schroder,ATL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Made Shot ,nan
+255748,21600830,4,7:06,Lillard Bad Pass Turnover (P2.T11),Hardaway Jr. STEAL (1 STL),nan,203081,Damian Lillard,POR,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Turnover ,Bad Pass
+255749,21600830,4,7:01,nan,MISS Schroder 1' Running Layup,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255750,21600830,4,7:00,Leonard REBOUND (Off:2 Def:4),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255751,21600830,4,6:44,Harkless  Dunk (15 PTS) (Lillard 4 AST),nan,81 - 86,203090,Maurice Harkless,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+255752,21600830,4,6:27,Leonard P.FOUL (P4.T4) (M.McCutchen),nan,nan,203086,Meyers Leonard,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Personal
+255753,21600830,4,6:12,nan,MISS Millsap 9' Driving Floating Bank Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255754,21600830,4,6:12,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255755,21600830,4,6:12,Leonard L.B.FOUL (P5.PN) (M.McCutchen),nan,nan,203086,Meyers Leonard,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Loose Ball
+255756,21600830,4,6:12,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255757,21600830,4,6:12,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255758,21600830,4,6:12,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255759,21600830,4,6:12,SUB: McCollum FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+255760,21600830,4,6:12,SUB: Davis FOR Leonard,nan,nan,203086,Meyers Leonard,POR,202334,Ed Davis,POR,0,nan,nan,Substitution ,nan
+255761,21600830,4,6:12,nan,SUB: Prince FOR Millsap,nan,200794,Paul Millsap,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+255762,21600830,4,6:12,nan,Howard Free Throw 2 of 2 (14 PTS),82 - 86,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255763,21600830,4,5:50,MISS McCollum 23' Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255764,21600830,4,5:49,nan,Schroder REBOUND (Off:0 Def:3),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255765,21600830,4,5:44,nan,MISS Hardaway Jr. 3' Running Layup,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255766,21600830,4,5:44,Aminu REBOUND (Off:1 Def:10),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255767,21600830,4,5:21,MISS Aminu 16' Pullup Jump Shot,Bazemore BLOCK (2 BLK),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,203145,Kent Bazemore,ATL,Missed Shot ,nan
+255768,21600830,4,5:21,Aminu REBOUND (Off:2 Def:10),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255769,21600830,4,5:21,TRAIL BLAZERS Turnover: Shot Clock (T#12),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+255770,21600830,4,5:05,nan,Hardaway Jr. 19' Pullup Jump Shot (19 PTS) (Howard 1 AST),84 - 86,203501,Tim Hardaway Jr.,ATL,2730,Dwight Howard,ATL,0,nan,nan,Made Shot ,nan
+255771,21600830,4,4:49,MISS Harkless  3PT Jump Shot,nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255772,21600830,4,4:46,Davis REBOUND (Off:6 Def:3),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255773,21600830,4,4:42,McCollum 1' Cutting Layup Shot (20 PTS) (Davis 3 AST),nan,84 - 88,203468,CJ McCollum,POR,202334,Ed Davis,POR,0,nan,nan,Made Shot ,nan
+255774,21600830,4,4:29,nan,MISS Schroder 16' Pullup Jump Shot,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255775,21600830,4,4:28,nan,Howard REBOUND (Off:4 Def:11),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255776,21600830,4,4:28,Davis S.FOUL (P2.PN) (K.Lane),nan,nan,202334,Ed Davis,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Shooting
+255777,21600830,4,4:28,nan,Howard Free Throw 1 of 2 (15 PTS),85 - 88,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255778,21600830,4,4:28,nan,SUB: Millsap FOR Bazemore,nan,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+255779,21600830,4,4:28,nan,MISS Howard Free Throw 2 of 2,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255780,21600830,4,4:27,Aminu REBOUND (Off:2 Def:11),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255781,21600830,4,4:03,TRAIL BLAZERS Turnover: Shot Clock (T#13),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+255782,21600830,4,4:03,nan,SUB: Bazemore FOR Howard,nan,2730,Dwight Howard,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+255783,21600830,4,3:54,nan,MISS Schroder 24' 3PT Pullup Jump Shot,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255784,21600830,4,3:54,Davis REBOUND (Off:6 Def:4),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255785,21600830,4,3:42,MISS Lillard 26' 3PT Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255786,21600830,4,3:41,nan,Schroder REBOUND (Off:0 Def:4),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255787,21600830,4,3:34,nan,Schroder Out of Bounds Lost Ball Turnover (P2.T8),nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+255788,21600830,4,3:19,nan,Bazemore S.FOUL (P3.PN) (M.McCutchen),nan,203145,Kent Bazemore,ATL,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+255789,21600830,4,3:19,McCollum Free Throw 1 of 2 (21 PTS),nan,85 - 89,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255790,21600830,4,3:19,McCollum Free Throw 2 of 2 (22 PTS),nan,85 - 90,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255791,21600830,4,3:17,nan,Hawks Timeout: Regular (Reg.4 Short 0),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255792,21600830,4,3:11,nan,MISS Millsap  3PT Jump Shot,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255793,21600830,4,3:11,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255794,21600830,4,3:11,nan,Prince L.B.FOUL (P3.PN) (K.Lane),nan,1627752,Taurean Prince,ATL,202334,Ed Davis,POR,0,nan,nan,Foul ,Loose Ball
+255795,21600830,4,3:11,MISS Davis Free Throw 1 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255796,21600830,4,3:11,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255797,21600830,4,3:11,MISS Davis Free Throw 2 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255798,21600830,4,3:10,nan,Hardaway Jr. REBOUND (Off:0 Def:6),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255799,21600830,4,3:04,nan,Hardaway Jr. 24' 3PT Jump Shot (22 PTS) (Schroder 4 AST),88 - 90,203501,Tim Hardaway Jr.,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+255800,21600830,4,3:04,McCollum AWAY.FROM.PLAY.FOUL (P2.PN) (M.McCutchen),nan,nan,203468,CJ McCollum,POR,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Away From Play
+255801,21600830,4,3:04,nan,nan,nan,528,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+255802,21600830,4,3:04,nan,MISS Bazemore Free Throw 1 of 1,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+255803,21600830,4,3:02,Davis REBOUND (Off:6 Def:5),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255804,21600830,4,2:44,Aminu Lost Ball Turnover (P2.T14),Millsap STEAL (2 STL),nan,202329,Al-Farouq Aminu,POR,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Lost Ball
+255805,21600830,4,2:26,nan,MISS Bazemore 2' Reverse Layup,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255806,21600830,4,2:25,Harkless REBOUND (Off:2 Def:2),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255807,21600830,4,2:16,nan,Prince S.FOUL (P4.PN) (K.Lane),nan,1627752,Taurean Prince,ATL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+255808,21600830,4,2:16,Lillard Free Throw 1 of 2 (17 PTS),nan,88 - 91,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255809,21600830,4,2:16,Lillard Free Throw 2 of 2 (18 PTS),nan,88 - 92,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255810,21600830,4,2:09,Davis P.FOUL (P3.PN) (K.Lane),nan,nan,202334,Ed Davis,POR,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+255811,21600830,4,2:09,nan,Millsap Free Throw 1 of 2 (14 PTS),89 - 92,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255812,21600830,4,2:09,nan,SUB: Howard FOR Prince,nan,1627752,Taurean Prince,ATL,2730,Dwight Howard,ATL,0,nan,nan,Substitution ,nan
+255813,21600830,4,2:09,nan,Millsap Free Throw 2 of 2 (15 PTS),90 - 92,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255814,21600830,4,2:04,nan,Bazemore Personal Take Foul (P4.PN) (M.McCutchen),nan,203145,Kent Bazemore,ATL,202334,Ed Davis,POR,0,nan,nan,Foul ,Personal Take
+255815,21600830,4,2:04,Davis Free Throw 1 of 2 (9 PTS),nan,90 - 93,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255816,21600830,4,2:04,MISS Davis Free Throw 2 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255817,21600830,4,2:03,nan,Howard REBOUND (Off:4 Def:12),nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255818,21600830,4,2:03,Lillard Personal Take Foul (P2.PN) (K.Lane),nan,nan,203081,Damian Lillard,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Personal Take
+255819,21600830,4,2:03,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255820,21600830,4,2:03,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255821,21600830,4,2:03,nan,Howard Free Throw 2 of 2 (16 PTS),91 - 93,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255822,21600830,4,1:53,McCollum  Driving Layup (24 PTS),nan,91 - 95,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255823,21600830,4,1:45,Davis Shooting Block Foul (P4.PN) (M.McCutchen),nan,nan,202334,Ed Davis,POR,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting Block
+255824,21600830,4,1:45,nan,MISS Bazemore Free Throw 1 of 2,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255825,21600830,4,1:45,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255826,21600830,4,1:45,nan,MISS Bazemore Free Throw 2 of 2,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255827,21600830,4,1:44,nan,Millsap REBOUND (Off:1 Def:6),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255828,21600830,4,1:40,nan,Hardaway Jr. 24' 3PT Jump Shot (25 PTS) (Millsap 4 AST),94 - 95,203501,Tim Hardaway Jr.,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+255829,21600830,4,1:21,MISS Lillard 19' Fadeaway Jumper,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255830,21600830,4,1:20,nan,Millsap REBOUND (Off:1 Def:7),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255831,21600830,4,0:55,nan,MISS Hardaway Jr. 22' Jump Shot,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255832,21600830,4,0:53,Harkless REBOUND (Off:2 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255833,21600830,4,0:36,nan,Bazemore P.FOUL (P5.PN) (D.Taylor),nan,203145,Kent Bazemore,ATL,202334,Ed Davis,POR,0,nan,nan,Foul ,Personal
+255834,21600830,4,0:36,MISS Davis Free Throw 1 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255835,21600830,4,0:36,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+255836,21600830,4,0:36,nan,SUB: Prince FOR Schroder,nan,203471,Dennis Schroder,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+255837,21600830,4,0:36,MISS Davis Free Throw 2 of 2,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255838,21600830,4,0:34,Harkless REBOUND (Off:3 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255839,21600830,4,0:34,MISS Harkless 1' Tip Layup Shot,nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255840,21600830,4,0:34,Harkless REBOUND (Off:4 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255841,21600830,4,0:34,Harkless 1' Tip Layup Shot (17 PTS),nan,94 - 97,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255842,21600830,4,0:34,nan,Hawks Timeout: Regular (Reg.5 Short 0),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255843,21600830,4,0:34,nan,SUB: Schroder FOR Prince,nan,1627752,Taurean Prince,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+255844,21600830,4,0:28,Aminu S.FOUL (P2.PN) (K.Lane),nan,nan,202329,Al-Farouq Aminu,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Shooting
+255845,21600830,4,0:28,nan,Howard Free Throw 1 of 2 (17 PTS),95 - 97,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255846,21600830,4,0:28,nan,MISS Howard Free Throw 2 of 2,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255847,21600830,4,0:27,Aminu REBOUND (Off:2 Def:12),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255848,21600830,4,0:27,TRAIL BLAZERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255849,21600830,4,0:27,nan,SUB: Prince FOR Howard,nan,2730,Dwight Howard,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+255850,21600830,4,0:27,SUB: Connaughton FOR Davis,nan,nan,202334,Ed Davis,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+255851,21600830,4,0:27,SUB: Crabbe FOR Harkless,nan,nan,203090,Maurice Harkless,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+255852,21600830,4,0:03,MISS McCollum 22' Pullup Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255853,21600830,4,0:02,Connaughton REBOUND (Off:2 Def:1),nan,nan,1626192,Pat Connaughton,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255854,21600830,4,0:02,MISS Connaughton 3' Tip Layup Shot,nan,nan,1626192,Pat Connaughton,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255855,21600830,4,0:02,nan,Prince REBOUND (Off:0 Def:4),nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255856,21600830,4,0:02,nan,Hawks Timeout: Short (Reg.5 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+255857,21600830,4,0:02,SUB: Harkless FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+255858,21600830,4,0:02,nan,SUB: Dunleavy FOR Prince,nan,1627752,Taurean Prince,ATL,2399,Mike Dunleavy,ATL,0,nan,nan,Substitution ,nan
+255859,21600830,4,0:02,SUB: Crabbe FOR Connaughton,nan,nan,1626192,Pat Connaughton,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+255860,21600830,4,0:00,nan,Millsap 5' Driving Floating Jump Shot (17 PTS),97 - 97,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+255861,21600830,4,0:00,nan,nan,nan,608,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+255862,21600830,4,0:00,nan,nan,97 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+255863,21600830,5,5:00,nan,nan,97 - 97,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+255864,21600830,5,5:00,Jump Ball Davis vs. Howard: Tip to McCollum,nan,nan,202334,Ed Davis,POR,2730,Dwight Howard,ATL,203468,CJ McCollum,POR,Jump Ball ,nan
+255865,21600830,5,4:40,Davis 3' Hook Shot (11 PTS) (Aminu 2 AST),nan,97 - 99,202334,Ed Davis,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Made Shot ,nan
+255866,21600830,5,4:24,nan,MISS Schroder 19' Pullup Jump Shot,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255867,21600830,5,4:23,Davis REBOUND (Off:6 Def:6),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255868,21600830,5,4:15,Lillard 31' 3PT Pullup Jump Shot (21 PTS),nan,97 - 102,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+255869,21600830,5,3:52,nan,MISS Howard  Alley Oop Dunk,nan,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255870,21600830,5,3:52,Lillard REBOUND (Off:1 Def:5),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255871,21600830,5,3:42,MISS Aminu  3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255872,21600830,5,3:41,nan,Hardaway Jr. REBOUND (Off:0 Def:7),nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255873,21600830,5,3:32,nan,MISS Hardaway Jr. 26' 3PT Jump Shot,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255874,21600830,5,3:31,Davis REBOUND (Off:6 Def:7),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255875,21600830,5,3:14,McCollum 9' Driving Floating Jump Shot (26 PTS) (Harkless 2 AST),nan,97 - 104,203468,CJ McCollum,POR,203090,Maurice Harkless,POR,0,nan,nan,Made Shot ,nan
+255876,21600830,5,2:58,Davis S.FOUL (P5.T1) (M.McCutchen),nan,nan,202334,Ed Davis,POR,2730,Dwight Howard,ATL,0,nan,nan,Foul ,Shooting
+255877,21600830,5,2:58,nan,Howard Free Throw 1 of 2 (18 PTS),98 - 104,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255878,21600830,5,2:58,nan,SUB: Prince FOR Bazemore,nan,203145,Kent Bazemore,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+255879,21600830,5,2:58,nan,Howard Free Throw 2 of 2 (19 PTS),99 - 104,2730,Dwight Howard,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255880,21600830,5,2:35,MISS Lillard 19' Step Back Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255881,21600830,5,2:33,nan,Millsap REBOUND (Off:1 Def:8),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255882,21600830,5,2:24,Davis S.FOUL (P6.T2) (K.Lane),nan,nan,202334,Ed Davis,POR,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+255883,21600830,5,2:24,SUB: Leonard FOR Davis,nan,nan,202334,Ed Davis,POR,203086,Meyers Leonard,POR,0,nan,nan,Substitution ,nan
+255884,21600830,5,2:24,nan,SUB: Bazemore FOR Howard,nan,2730,Dwight Howard,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+255885,21600830,5,2:24,nan,Millsap Free Throw 1 of 2 (18 PTS),100 - 104,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255886,21600830,5,2:24,nan,Millsap Free Throw 2 of 2 (19 PTS),101 - 104,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255887,21600830,5,2:08,MISS Lillard 15' Step Back Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255888,21600830,5,2:06,nan,Bazemore REBOUND (Off:1 Def:5),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255889,21600830,5,1:49,Harkless STEAL (1 STL),Millsap Lost Ball Turnover (P1.T9),nan,200794,Paul Millsap,ATL,203090,Maurice Harkless,POR,0,nan,nan,Turnover ,Lost Ball
+255890,21600830,5,1:29,Aminu Offensive Charge Foul (P3.T3) (K.Lane),nan,nan,202329,Al-Farouq Aminu,POR,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Offensive Charge
+255891,21600830,5,1:29,Aminu Foul Turnover (P3.T15),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+255892,21600830,5,1:29,SUB: Crabbe FOR Leonard,nan,nan,203086,Meyers Leonard,POR,203459,Allen Crabbe,POR,0,nan,nan,Substitution ,nan
+255893,21600830,5,1:12,nan,Schroder 2' Driving Layup (22 PTS),103 - 104,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+255894,21600830,5,0:57,MISS Crabbe 14' Turnaround Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255895,21600830,5,0:56,nan,Prince REBOUND (Off:0 Def:5),nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255896,21600830,5,0:40,nan,Bazemore 1' Layup (8 PTS) (Millsap 5 AST),105 - 104,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+255897,21600830,5,0:40,TRAIL BLAZERS Timeout: Regular (Full 6 Short 1),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255898,21600830,5,0:32,MISS Aminu 25' 3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255899,21600830,5,0:30,Aminu REBOUND (Off:3 Def:12),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255900,21600830,5,0:26,MISS Harkless 2' Cutting Layup Shot,Bazemore BLOCK (3 BLK),nan,203090,Maurice Harkless,POR,0,nan,nan,203145,Kent Bazemore,ATL,Missed Shot ,nan
+255901,21600830,5,0:26,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255902,21600830,5,0:26,TRAIL BLAZERS Timeout: Short (Full 6 Short 2),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+255903,21600830,5,0:14,MISS McCollum 3' Driving Floating Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255904,21600830,5,0:13,Harkless REBOUND (Off:5 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255905,21600830,5,0:13,MISS McCollum 2' Tip Layup Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255906,21600830,5,0:13,Harkless REBOUND (Off:6 Def:3),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255907,21600830,5,0:12,MISS Harkless 2' Tip Layup Shot,nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+255908,21600830,5,0:12,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+255909,21600830,5,0:12,nan,Prince L.B.FOUL (P5.T1) (K.Lane),nan,1627752,Taurean Prince,ATL,203090,Maurice Harkless,POR,0,nan,nan,Foul ,Loose Ball
+255910,21600830,5,0:12,TRAIL BLAZERS Timeout: Short (Full 6 Short 3),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+255911,21600830,5,0:06,Lillard Bad Pass Turnover (P3.T16),Prince STEAL (2 STL),nan,203081,Damian Lillard,POR,1627752,Taurean Prince,ATL,0,nan,nan,Turnover ,Bad Pass
+255912,21600830,5,0:06,Crabbe P.FOUL (P2.PN) (K.Lane),nan,nan,203459,Allen Crabbe,POR,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Personal
+255913,21600830,5,0:06,nan,Hawks Timeout: Regular (Reg.6 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+255914,21600830,5,0:06,nan,SUB: Delaney FOR Prince,nan,1627752,Taurean Prince,ATL,1627098,Malcolm Delaney,ATL,0,nan,nan,Substitution ,nan
+255915,21600830,5,0:05,Crabbe Personal Take Foul (P3.PN) (K.Lane),nan,nan,203459,Allen Crabbe,POR,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal Take
+255916,21600830,5,0:05,nan,Millsap Free Throw 1 of 2 (20 PTS),106 - 104,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255917,21600830,5,0:05,nan,SUB: Prince FOR Delaney,nan,1627098,Malcolm Delaney,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+255918,21600830,5,0:05,SUB: Connaughton FOR Harkless,nan,nan,203090,Maurice Harkless,POR,1626192,Pat Connaughton,POR,0,nan,nan,Substitution ,nan
+255919,21600830,5,0:05,nan,Millsap Free Throw 2 of 2 (21 PTS),107 - 104,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255920,21600830,5,0:03,Connaughton Bad Pass Turnover (P2.T17),Prince STEAL (3 STL),nan,1626192,Pat Connaughton,POR,1627752,Taurean Prince,ATL,0,nan,nan,Turnover ,Bad Pass
+255921,21600830,5,0:02,Connaughton S.FOUL (P3.PN) (M.McCutchen),nan,nan,1626192,Pat Connaughton,POR,1627752,Taurean Prince,ATL,0,nan,nan,Foul ,Shooting
+255922,21600830,5,0:02,nan,Prince Free Throw 1 of 2 (4 PTS),108 - 104,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+255923,21600830,5,0:02,nan,Prince Free Throw 2 of 2 (5 PTS),109 - 104,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+255924,21600830,5,0:00,nan,nan,109 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

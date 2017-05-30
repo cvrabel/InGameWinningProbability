@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+268034,21600930,4,12:00,nan,nan,90 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+268035,21600930,4,11:44,nan,MISS Gordon 26' 3PT Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268036,21600930,4,11:43,Beal REBOUND (Off:1 Def:2),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268037,21600930,4,11:32,nan,Watson P.FOUL (P3.T1) (P.Fraher),nan,201228,C.J. Watson,ORL,101133,Ian Mahinmi,WAS,0,nan,nan,Foul ,Personal
+268038,21600930,4,11:23,Satoransky 25' 3PT Jump Shot (3 PTS) (Beal 2 AST),nan,90 - 82,203107,Tomas Satoransky,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+268039,21600930,4,11:23,nan,nan,nan,417,Sam Mitchell,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+268040,21600930,4,11:04,WIZARDS T.Foul (Def. 3 Sec Mahinmi ) (R.Mott),nan,nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+268041,21600930,4,11:04,nan,MISS Green Free Throw Technical,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+268042,21600930,4,11:04,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+268043,21600930,4,10:57,nan,Hezonja 1' Driving Reverse Layup (12 PTS),92 - 82,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+268044,21600930,4,10:44,Satoransky 9' Driving Floating Jump Shot (5 PTS) (Beal 3 AST),nan,92 - 84,203107,Tomas Satoransky,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+268045,21600930,4,10:16,nan,Augustin 1' Driving Finger Roll Layup (8 PTS),94 - 84,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+268046,21600930,4,10:06,Beal OFF.Foul (P1) (R.Mott),nan,nan,203078,Bradley Beal,WAS,201571,D.J. Augustin,ORL,0,nan,nan,Foul ,Offensive
+268047,21600930,4,10:06,Beal Foul Turnover (P1.T12),nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+268048,21600930,4,10:01,nan,Gordon Offensive Charge Foul (P3.T2) (C.Washington),nan,203932,Aaron Gordon,ORL,101133,Ian Mahinmi,WAS,0,nan,nan,Foul ,Offensive Charge
+268049,21600930,4,10:01,nan,Gordon Foul Turnover (P2.T11),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+268050,21600930,4,9:49,Bogdanovic 29' 3PT Jump Shot (15 PTS) (Jennings 5 AST),nan,94 - 87,202711,Bojan Bogdanovic,WAS,201943,Brandon Jennings,WAS,0,nan,nan,Made Shot ,nan
+268051,21600930,4,9:30,nan,MISS Hezonja 27' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268052,21600930,4,9:29,Mahinmi REBOUND (Off:1 Def:3),nan,nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268053,21600930,4,9:17,Mahinmi 6' Turnaround Hook Shot (4 PTS) (Jennings 6 AST),nan,94 - 89,101133,Ian Mahinmi,WAS,201943,Brandon Jennings,WAS,0,nan,nan,Made Shot ,nan
+268054,21600930,4,9:17,nan,Magic Timeout: Regular (Reg.4 Short 0),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+268055,21600930,4,9:17,nan,SUB: Biyombo FOR Gordon,nan,203932,Aaron Gordon,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Substitution ,nan
+268056,21600930,4,9:17,nan,SUB: Ross FOR Hezonja,nan,1626209,Mario Hezonja,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+268057,21600930,4,8:54,nan,Green 18' Jump Shot (12 PTS) (Augustin 4 AST),96 - 89,201145,Jeff Green,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+268058,21600930,4,8:34,MISS Jennings 27' 3PT Jump Shot,nan,nan,201943,Brandon Jennings,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268059,21600930,4,8:33,nan,Green REBOUND (Off:0 Def:2),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268060,21600930,4,8:22,Mahinmi STEAL (1 STL),Watson Bad Pass Turnover (P1.T12),nan,201228,C.J. Watson,ORL,101133,Ian Mahinmi,WAS,0,nan,nan,Turnover ,Bad Pass
+268061,21600930,4,8:15,Jennings 2' Running Layup (2 PTS),nan,96 - 91,201943,Brandon Jennings,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+268062,21600930,4,7:48,nan,MISS Green 19' Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268063,21600930,4,7:47,Bogdanovic REBOUND (Off:0 Def:1),nan,nan,202711,Bojan Bogdanovic,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268064,21600930,4,7:35,Bogdanovic 28' 3PT Jump Shot (18 PTS) (Jennings 7 AST),nan,96 - 94,202711,Bojan Bogdanovic,WAS,201943,Brandon Jennings,WAS,0,nan,nan,Made Shot ,nan
+268065,21600930,4,7:23,Bogdanovic P.FOUL (P1.T1) (P.Fraher),nan,nan,202711,Bojan Bogdanovic,WAS,201145,Jeff Green,ORL,0,nan,nan,Foul ,Personal
+268066,21600930,4,7:23,nan,SUB: Payton FOR Augustin,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+268067,21600930,4,7:23,nan,SUB: Fournier FOR Watson,nan,201228,C.J. Watson,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+268068,21600930,4,7:23,SUB: Wall FOR Satoransky,nan,nan,203107,Tomas Satoransky,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+268069,21600930,4,7:12,nan,MISS Ross 25' 3PT Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268070,21600930,4,7:12,Mahinmi REBOUND (Off:1 Def:4),nan,nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268071,21600930,4,7:02,MISS Bogdanovic 27' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268072,21600930,4,7:01,nan,Biyombo REBOUND (Off:4 Def:8),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268073,21600930,4,6:52,Mahinmi STEAL (2 STL),Ross Bad Pass Turnover (P1.T13),nan,203082,Terrence Ross,ORL,101133,Ian Mahinmi,WAS,0,nan,nan,Turnover ,Bad Pass
+268074,21600930,4,6:47,nan,Biyombo Violation:Defensive Goaltending (R.Mott),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+268075,21600930,4,6:47,Wall  Driving Layup (18 PTS),nan,96 - 96,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+268076,21600930,4,6:47,nan,Payton S.FOUL (P1.T3) (R.Mott),nan,203901,Elfrid Payton,ORL,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+268077,21600930,4,6:47,Wall Free Throw 1 of 1 (19 PTS),nan,96 - 97,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+268078,21600930,4,6:35,Mahinmi P.FOUL (P1.T2) (C.Washington),nan,nan,101133,Ian Mahinmi,WAS,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal
+268079,21600930,4,6:21,nan,Ross 31' 3PT Jump Shot (15 PTS) (Biyombo 1 AST),99 - 97,203082,Terrence Ross,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Made Shot ,nan
+268080,21600930,4,5:54,MISS Wall 19' Jump Shot,Payton BLOCK (1 BLK),nan,202322,John Wall,WAS,0,nan,nan,203901,Elfrid Payton,ORL,Missed Shot ,nan
+268081,21600930,4,5:52,nan,Ross REBOUND (Off:0 Def:4),nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268082,21600930,4,5:41,Mahinmi S.FOUL (P2.T3) (R.Mott),nan,nan,101133,Ian Mahinmi,WAS,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Shooting
+268083,21600930,4,5:41,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+268084,21600930,4,5:41,SUB: Mark Morris FOR Mahinmi,nan,nan,101133,Ian Mahinmi,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+268085,21600930,4,5:41,SUB: Porter Jr. FOR Jennings,nan,nan,201943,Brandon Jennings,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+268086,21600930,4,5:41,nan,MISS Payton Free Throw 1 of 2,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268087,21600930,4,5:41,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+268088,21600930,4,5:41,nan,Payton Free Throw 2 of 2 (15 PTS),100 - 97,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268089,21600930,4,5:29,nan,Ross P.FOUL (P4.T4) (R.Mott),nan,203082,Terrence Ross,ORL,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Personal
+268090,21600930,4,5:15,Beal 29' 3PT Jump Shot (26 PTS) (Wall 8 AST),nan,100 - 100,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+268091,21600930,4,4:58,Beal BLOCK (1 BLK),MISS Ross 1' Layup,nan,203082,Terrence Ross,ORL,0,nan,nan,203078,Bradley Beal,WAS,Missed Shot ,nan
+268092,21600930,4,4:58,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268093,21600930,4,4:53,Porter Jr. STEAL (1 STL),Fournier Bad Pass Turnover (P2.T14),nan,203095,Evan Fournier,ORL,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Bad Pass
+268094,21600930,4,4:40,MISS Wall 21' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268095,21600930,4,4:38,nan,Biyombo REBOUND (Off:4 Def:9),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268096,21600930,4,4:20,nan,MISS Green 1' Layup,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268097,21600930,4,4:20,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268098,21600930,4,4:20,nan,SUB: Gordon FOR Green,nan,201145,Jeff Green,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+268099,21600930,4,4:17,nan,Fournier 24' 3PT Jump Shot (15 PTS) (Payton 3 AST),103 - 100,203095,Evan Fournier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+268100,21600930,4,3:59,Beal 5' Fadeaway Jumper (28 PTS) (Wall 9 AST),nan,103 - 102,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+268101,21600930,4,3:39,nan,Ross 14' Fadeaway Jumper (17 PTS),105 - 102,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+268102,21600930,4,3:22,Bogdanovic  3PT Jump Shot (21 PTS) (Beal 4 AST),nan,105 - 105,202711,Bojan Bogdanovic,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+268103,21600930,4,3:06,nan,Ross 25' 3PT Jump Shot (20 PTS) (Gordon 3 AST),108 - 105,203082,Terrence Ross,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+268104,21600930,4,2:44,Beal 2' Driving Layup (30 PTS),nan,108 - 107,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+268105,21600930,4,2:29,Bogdanovic S.FOUL (P2.T4) (P.Fraher),nan,nan,202711,Bojan Bogdanovic,WAS,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Shooting
+268106,21600930,4,2:29,WIZARDS Timeout: Regular (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+268107,21600930,4,2:29,nan,Gordon Free Throw 1 of 2 (14 PTS),109 - 107,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268108,21600930,4,2:29,nan,Gordon Free Throw 2 of 2 (15 PTS),110 - 107,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268109,21600930,4,2:08,MISS Beal 24' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268110,21600930,4,2:07,nan,Biyombo REBOUND (Off:4 Def:10),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268111,21600930,4,1:50,Beal STEAL (2 STL),Ross Lost Ball Turnover (P2.T15),nan,203082,Terrence Ross,ORL,203078,Bradley Beal,WAS,0,nan,nan,Turnover ,Lost Ball
+268112,21600930,4,1:47,nan,Ross S.FOUL (P5.PN) (R.Mott),nan,203082,Terrence Ross,ORL,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+268113,21600930,4,1:47,Beal Free Throw 1 of 2 (31 PTS),nan,110 - 108,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268114,21600930,4,1:47,Beal Free Throw 2 of 2 (32 PTS),nan,110 - 109,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268115,21600930,4,1:33,nan,MISS Fournier 27' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268116,21600930,4,1:32,nan,Biyombo REBOUND (Off:5 Def:10),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268117,21600930,4,1:32,Porter Jr. S.FOUL (P2.PN) (P.Fraher),nan,nan,203490,Otto Porter Jr.,WAS,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Shooting
+268118,21600930,4,1:32,nan,Biyombo Free Throw 1 of 2 (14 PTS),111 - 109,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+268119,21600930,4,1:32,nan,MISS Biyombo Free Throw 2 of 2,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+268120,21600930,4,1:31,Mark Morris REBOUND (Off:0 Def:1),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268121,21600930,4,1:19,MISS Beal 22' Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268122,21600930,4,1:18,Mark Morris REBOUND (Off:1 Def:1),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268123,21600930,4,1:15,MISS Mark Morris 2' Layup,nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268124,21600930,4,1:15,Bogdanovic REBOUND (Off:1 Def:1),nan,nan,202711,Bojan Bogdanovic,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268125,21600930,4,1:14,WIZARDS Timeout: Short (Full 5 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+268126,21600930,4,1:14,nan,SUB: Green FOR Biyombo,nan,202687,Bismack Biyombo,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+268127,21600930,4,1:06,Bogdanovic 27' 3PT Jump Shot (24 PTS) (Wall 10 AST),nan,111 - 112,202711,Bojan Bogdanovic,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+268128,21600930,4,1:06,nan,Magic Timeout: Short (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+268129,21600930,4,0:57,nan,Fournier 1' Driving Reverse Layup (17 PTS),113 - 112,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+268130,21600930,4,0:57,Mark Morris S.FOUL (P4.PN) (C.Washington),nan,nan,202693,Markieff Morris,WAS,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Shooting
+268131,21600930,4,0:57,nan,Fournier Free Throw 1 of 1 (18 PTS),114 - 112,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+268132,21600930,4,0:46,Bogdanovic 24' 3PT Jump Shot (27 PTS) (Porter Jr. 1 AST),nan,114 - 115,202711,Bojan Bogdanovic,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Made Shot ,nan
+268133,21600930,4,0:46,nan,Magic Timeout: Short (Reg.4 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+268134,21600930,4,0:30,Wall BLOCK (1 BLK),MISS Gordon 5' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,202322,John Wall,WAS,Missed Shot ,nan
+268135,21600930,4,0:26,Wall REBOUND (Off:0 Def:6),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268136,21600930,4,0:05,MISS Wall 14' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268137,21600930,4,0:03,nan,Gordon REBOUND (Off:5 Def:6),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268138,21600930,4,0:00,nan,MISS Gordon 7' Floating Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+268139,21600930,4,0:00,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+268140,21600930,4,0:00,nan,nan,114 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,140 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+10229,21500081,4,12:00,nan,nan,89 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+10230,21500081,4,12:00,PELICANS Too Many Players Tech Foul,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Foul ,Too Many Players Technical
+10231,21500081,4,12:00,nan,Korver Free Throw Technical (13 PTS),90 - 79,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+10232,21500081,4,12:00,nan,nan,nan,1243,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+10233,21500081,4,12:00,nan,Korver Free Throw Technical (14 PTS),91 - 79,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+10234,21500081,4,11:51,nan,Horford OFF.Foul (P2) (M.Smith),nan,201143,Al Horford,ATL,202397,Ish Smith,NOP,0,nan,nan,Foul ,Offensive
+10235,21500081,4,11:51,nan,Horford Foul Turnover (P2.T11),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Turnover ,Foul
+10236,21500081,4,11:37,Gordon Offensive Charge Foul (P4.T1) (S.Twardoski),nan,nan,201569,Eric Gordon,NOP,203200,Justin Holiday,ATL,0,nan,nan,Foul ,Offensive Charge
+10237,21500081,4,11:37,Gordon Foul Turnover (P1.T8),nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+10238,21500081,4,11:18,nan,Horford 2' Cutting Layup Shot (10 PTS) (Scott 1 AST),93 - 79,201143,Al Horford,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+10239,21500081,4,11:00,MISS Anderson 24' 3PT Jump Shot,nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10240,21500081,4,11:00,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10241,21500081,4,11:00,SUB: Holiday FOR Gordon,nan,nan,201569,Eric Gordon,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+10242,21500081,4,10:46,nan,Korver 25' 3PT Jump Shot (17 PTS) (Horford 3 AST),96 - 79,2594,Kyle Korver,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+10243,21500081,4,10:26,Cunningham 2' Cutting Layup Shot (7 PTS) (Holiday 7 AST),nan,96 - 81,201967,Dante Cunningham,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+10244,21500081,4,10:26,nan,Horford S.FOUL (P3.T1) (S.Twardoski),nan,201143,Al Horford,ATL,201967,Dante Cunningham,NOP,0,nan,nan,Foul ,Shooting
+10245,21500081,4,10:26,SUB: Davis FOR Anderson,nan,nan,201583,Ryan Anderson,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+10246,21500081,4,10:26,Cunningham Free Throw 1 of 1 (8 PTS),nan,96 - 82,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+10247,21500081,4,10:13,Smith STEAL (2 STL),Schroder Bad Pass Turnover (P1.T12),nan,203471,Dennis Schroder,ATL,202397,Ish Smith,NOP,0,nan,nan,Turnover ,Bad Pass
+10248,21500081,4,10:09,Davis 3' Layup (28 PTS) (Smith 11 AST),nan,96 - 84,203076,Anthony Davis,NOP,202397,Ish Smith,NOP,0,nan,nan,Made Shot ,nan
+10249,21500081,4,10:09,nan,Holiday S.FOUL (P2.T2) (M.Smith),nan,203200,Justin Holiday,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+10250,21500081,4,10:09,Davis Free Throw 1 of 1 (29 PTS),nan,96 - 85,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+10251,21500081,4,9:56,nan,Korver 16' Pullup Jump Shot (19 PTS) (Horford 4 AST),98 - 85,2594,Kyle Korver,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+10252,21500081,4,9:41,Davis Lost Ball Turnover (P1.T9),Korver STEAL (2 STL),nan,203076,Anthony Davis,NOP,2594,Kyle Korver,ATL,0,nan,nan,Turnover ,Lost Ball
+10253,21500081,4,9:37,Holiday STEAL (1 STL),Scott Bad Pass Turnover (P1.T13),nan,203118,Mike Scott,ATL,201950,Jrue Holiday,NOP,0,nan,nan,Turnover ,Bad Pass
+10254,21500081,4,9:33,nan,Korver S.FOUL (P1.T3) (S.Twardoski),nan,2594,Kyle Korver,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+10255,21500081,4,9:33,Davis Free Throw 1 of 2 (30 PTS),nan,98 - 86,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10256,21500081,4,9:33,nan,SUB: Teague FOR Schroder,nan,203471,Dennis Schroder,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+10257,21500081,4,9:33,Davis Free Throw 2 of 2 (31 PTS),nan,98 - 87,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10258,21500081,4,9:12,nan,MISS Horford 20' Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10259,21500081,4,9:12,Holiday REBOUND (Off:0 Def:1),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10260,21500081,4,9:00,MISS Davis 9' Turnaround Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10261,21500081,4,8:57,nan,Holiday REBOUND (Off:0 Def:2),nan,203200,Justin Holiday,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10262,21500081,4,8:52,Davis S.FOUL (P3.T2) (S.Twardoski),nan,nan,203076,Anthony Davis,NOP,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Shooting
+10263,21500081,4,8:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+10264,21500081,4,8:52,SUB: Anderson FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Substitution ,nan
+10265,21500081,4,8:52,SUB: Gordon FOR Holiday,nan,nan,201950,Jrue Holiday,NOP,201569,Eric Gordon,NOP,0,nan,nan,Substitution ,nan
+10266,21500081,4,8:52,nan,Teague Free Throw 1 of 2 (11 PTS),99 - 87,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10267,21500081,4,8:52,nan,Teague Free Throw 2 of 2 (12 PTS),100 - 87,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10268,21500081,4,8:36,Davis 8' Turnaround Jump Shot (33 PTS) (Gordon 2 AST),nan,100 - 89,203076,Anthony Davis,NOP,201569,Eric Gordon,NOP,0,nan,nan,Made Shot ,nan
+10269,21500081,4,8:36,nan,Horford S.FOUL (P4.T4) (S.Twardoski),nan,201143,Al Horford,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+10270,21500081,4,8:36,Davis Free Throw 1 of 1 (34 PTS),nan,100 - 90,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+10271,21500081,4,8:18,nan,MISS Teague 24' 3PT Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10272,21500081,4,8:18,Davis REBOUND (Off:1 Def:7),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10273,21500081,4,7:57,PELICANS Turnover: Shot Clock (T#10),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+10274,21500081,4,7:57,nan,SUB: Splitter FOR Horford,nan,201143,Al Horford,ATL,201168,Tiago Splitter,ATL,0,nan,nan,Substitution ,nan
+10275,21500081,4,7:45,nan,Holiday 2' Alley Oop Layup (4 PTS) (Korver 5 AST),102 - 90,203200,Justin Holiday,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+10276,21500081,4,7:30,Smith 19' Pullup Jump Shot (6 PTS) (Anderson 2 AST),nan,102 - 92,202397,Ish Smith,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+10277,21500081,4,7:10,Davis BLOCK (2 BLK),MISS Splitter 6' Jump Shot,nan,201168,Tiago Splitter,ATL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+10278,21500081,4,7:10,Anderson REBOUND (Off:0 Def:2),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10279,21500081,4,6:59,nan,Korver S.FOUL (P2.PN) (D.Collins),nan,2594,Kyle Korver,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+10280,21500081,4,6:59,Davis Free Throw 1 of 2 (35 PTS),nan,102 - 93,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10281,21500081,4,6:59,SUB: Holiday FOR Babbitt,nan,nan,202337,Luke Babbitt,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+10282,21500081,4,6:59,Davis Free Throw 2 of 2 (36 PTS),nan,102 - 94,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10283,21500081,4,6:44,Gordon STEAL (1 STL),Scott Bad Pass Turnover (P2.T14),nan,203118,Mike Scott,ATL,201569,Eric Gordon,NOP,0,nan,nan,Turnover ,Bad Pass
+10284,21500081,4,6:41,Gordon 2' Layup (19 PTS),nan,102 - 96,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+10285,21500081,4,6:41,nan,Hawks Timeout: Regular (Reg.3 Short 0),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+10286,21500081,4,6:41,nan,SUB: Bazemore FOR Korver,nan,2594,Kyle Korver,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+10287,21500081,4,6:41,nan,SUB: Millsap FOR Scott,nan,203118,Mike Scott,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+10288,21500081,4,6:26,Davis S.FOUL (P4.T3) (D.Collins),nan,nan,203076,Anthony Davis,NOP,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+10289,21500081,4,6:26,nan,Millsap Free Throw 1 of 2 (18 PTS),103 - 96,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10290,21500081,4,6:26,nan,Millsap Free Throw 2 of 2 (19 PTS),104 - 96,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10291,21500081,4,6:13,Davis 25' 3PT Jump Shot (39 PTS) (Holiday 8 AST),nan,104 - 99,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+10292,21500081,4,5:51,Davis BLOCK (3 BLK),MISS Holiday 3' Jump Shot,nan,203200,Justin Holiday,ATL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+10293,21500081,4,5:49,Gordon REBOUND (Off:0 Def:2),nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10294,21500081,4,5:45,nan,Bazemore S.FOUL (P3.PN) (M.Smith),nan,203145,Kent Bazemore,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+10295,21500081,4,5:45,Davis Free Throw 1 of 2 (40 PTS),nan,104 - 100,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10296,21500081,4,5:45,Davis Free Throw 2 of 2 (41 PTS),nan,104 - 101,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10297,21500081,4,5:32,Anderson BLOCK (1 BLK),MISS Teague 1' Driving Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,201583,Ryan Anderson,NOP,Missed Shot ,nan
+10298,21500081,4,5:32,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10299,21500081,4,5:28,nan,MISS Teague 12' Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10300,21500081,4,5:28,nan,Millsap REBOUND (Off:1 Def:10),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10301,21500081,4,5:28,Smith P.FOUL (P2.T4) (D.Collins),nan,nan,202397,Ish Smith,NOP,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal
+10302,21500081,4,5:28,nan,SUB: Horford FOR Splitter,nan,201168,Tiago Splitter,ATL,201143,Al Horford,ATL,0,nan,nan,Substitution ,nan
+10303,21500081,4,5:23,nan,Horford 20' Jump Shot (12 PTS) (Teague 7 AST),106 - 101,201143,Al Horford,ATL,201952,Jeff Teague,ATL,0,nan,nan,Made Shot ,nan
+10304,21500081,4,4:56,MISS Davis 17' Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10305,21500081,4,4:56,Anderson REBOUND (Off:1 Def:2),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10306,21500081,4,4:51,Gordon 2' Driving Layup (21 PTS) (Anderson 3 AST),nan,106 - 103,201569,Eric Gordon,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+10307,21500081,4,4:51,nan,Millsap S.FOUL (P4.PN) (S.Twardoski),nan,200794,Paul Millsap,ATL,201569,Eric Gordon,NOP,0,nan,nan,Foul ,Shooting
+10308,21500081,4,4:51,nan,SUB: Korver FOR Holiday,nan,203200,Justin Holiday,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+10309,21500081,4,4:51,Gordon Free Throw 1 of 1 (22 PTS),nan,106 - 104,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+10310,21500081,4,4:31,nan,MISS Bazemore 2' Finger Roll Layup,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10311,21500081,4,4:30,Davis REBOUND (Off:1 Def:8),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10312,21500081,4,4:25,MISS Gordon 24' 3PT Jump Shot,nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10313,21500081,4,4:24,Anderson REBOUND (Off:2 Def:2),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10314,21500081,4,4:24,Anderson  Putback Dunk (10 PTS),nan,106 - 106,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+10315,21500081,4,4:00,nan,MISS Teague 24' 3PT Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10316,21500081,4,4:00,nan,Horford REBOUND (Off:1 Def:3),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10317,21500081,4,3:56,nan,Horford 2' Layup (14 PTS),108 - 106,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+10318,21500081,4,3:37,MISS Anderson 25' 3PT Jump Shot,Millsap BLOCK (1 BLK),nan,201583,Ryan Anderson,NOP,0,nan,nan,200794,Paul Millsap,ATL,Missed Shot ,nan
+10319,21500081,4,3:37,Davis REBOUND (Off:2 Def:8),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10320,21500081,4,3:37,nan,Horford P.FOUL (P5.PN) (D.Collins),nan,201143,Al Horford,ATL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+10321,21500081,4,3:37,Davis Free Throw 1 of 2 (42 PTS),nan,108 - 107,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10322,21500081,4,3:37,Davis Free Throw 2 of 2 (43 PTS),nan,108 - 108,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10323,21500081,4,3:26,nan,Korver 25' 3PT Jump Shot (22 PTS) (Bazemore 4 AST),111 - 108,2594,Kyle Korver,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+10324,21500081,4,3:08,Holiday Bad Pass Turnover (P6.T11),Korver STEAL (3 STL),nan,201950,Jrue Holiday,NOP,2594,Kyle Korver,ATL,0,nan,nan,Turnover ,Bad Pass
+10325,21500081,4,3:03,nan,Teague 2' Layup (14 PTS),113 - 108,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+10326,21500081,4,2:54,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+10327,21500081,4,2:39,MISS Smith 25' 3PT Jump Shot,nan,nan,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10328,21500081,4,2:39,nan,Korver REBOUND (Off:0 Def:7),nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10329,21500081,4,2:22,Gordon BLOCK (1 BLK),MISS Teague 2' Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,201569,Eric Gordon,NOP,Missed Shot ,nan
+10330,21500081,4,2:22,nan,Teague REBOUND (Off:1 Def:1),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10331,21500081,4,2:22,Davis S.FOUL (P5.PN) (D.Collins),nan,nan,203076,Anthony Davis,NOP,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Shooting
+10332,21500081,4,2:22,nan,Teague Free Throw 1 of 2 (15 PTS),114 - 108,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10333,21500081,4,2:22,nan,Teague Free Throw 2 of 2 (16 PTS),115 - 108,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10334,21500081,4,2:03,MISS Davis 9' Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10335,21500081,4,2:02,nan,Millsap REBOUND (Off:1 Def:11),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10336,21500081,4,1:44,nan,Teague Out of Bounds - Bad Pass Turnover Turnover (P3.T15),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+10337,21500081,4,1:44,PELICANS Timeout: Regular (Full 6 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+10338,21500081,4,1:34,Smith 3' Driving Reverse Layup (8 PTS),nan,115 - 110,202397,Ish Smith,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+10339,21500081,4,1:15,Gordon S.FOUL (P5.PN) (S.Twardoski),nan,nan,201569,Eric Gordon,NOP,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+10340,21500081,4,1:15,nan,Millsap Free Throw 1 of 2 (20 PTS),116 - 110,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10341,21500081,4,1:15,nan,Millsap Free Throw 2 of 2 (21 PTS),117 - 110,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10342,21500081,4,1:08,Holiday 25' 3PT Jump Shot (4 PTS) (Anderson 4 AST),nan,117 - 113,201950,Jrue Holiday,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+10343,21500081,4,0:51,Anderson BLOCK (2 BLK),MISS Teague 2' Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,201583,Ryan Anderson,NOP,Missed Shot ,nan
+10344,21500081,4,0:51,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10345,21500081,4,0:51,nan,nan,nan,529,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+10346,21500081,4,0:51,SUB: Babbitt FOR Smith,nan,nan,202397,Ish Smith,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Substitution ,nan
+10347,21500081,4,0:35,MISS Gordon 28' 3PT Jump Shot,nan,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+10348,21500081,4,0:34,nan,Horford REBOUND (Off:1 Def:4),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10349,21500081,4,0:29,Babbitt Personal Take Foul (P4.PN) (S.Twardoski),nan,nan,202337,Luke Babbitt,NOP,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal Take
+10350,21500081,4,0:29,nan,Teague Free Throw 1 of 2 (17 PTS),118 - 113,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10351,21500081,4,0:29,nan,Teague Free Throw 2 of 2 (18 PTS),119 - 113,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10352,21500081,4,0:29,PELICANS Timeout: Short (Full 6 Short 1),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+10353,21500081,4,0:28,Babbitt Bad Pass Turnover (P1.T12),Millsap STEAL (2 STL),nan,202337,Luke Babbitt,NOP,200794,Paul Millsap,ATL,0,nan,nan,Turnover ,Bad Pass
+10354,21500081,4,0:28,Anderson Personal Take Foul (P3.PN) (S.Twardoski),nan,nan,201583,Ryan Anderson,NOP,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Personal Take
+10355,21500081,4,0:28,nan,MISS Millsap Free Throw 1 of 2,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10356,21500081,4,0:28,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+10357,21500081,4,0:28,nan,SUB: Holiday FOR Korver,nan,2594,Kyle Korver,ATL,203200,Justin Holiday,ATL,0,nan,nan,Substitution ,nan
+10358,21500081,4,0:28,nan,Millsap Free Throw 2 of 2 (22 PTS),120 - 113,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10359,21500081,4,0:22,Babbitt  Driving Dunk (13 PTS),nan,120 - 115,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+10360,21500081,4,0:21,Babbitt Personal Take Foul (P5.PN) (S.Twardoski),nan,nan,202337,Luke Babbitt,NOP,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal Take
+10361,21500081,4,0:21,nan,Teague Free Throw 1 of 2 (19 PTS),121 - 115,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+10362,21500081,4,0:21,nan,SUB: Scott FOR Millsap,nan,200794,Paul Millsap,ATL,203118,Mike Scott,ATL,0,nan,nan,Substitution ,nan
+10363,21500081,4,0:21,nan,SUB: Patterson FOR Horford,nan,201143,Al Horford,ATL,203934,Lamar Patterson,ATL,0,nan,nan,Substitution ,nan
+10364,21500081,4,0:21,nan,MISS Teague Free Throw 2 of 2,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+10365,21500081,4,0:20,Anderson REBOUND (Off:2 Def:3),nan,nan,201583,Ryan Anderson,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+10366,21500081,4,0:15,Holiday Bad Pass Turnover (P7.T13),Bazemore STEAL (3 STL),nan,201950,Jrue Holiday,NOP,203145,Kent Bazemore,ATL,0,nan,nan,Turnover ,Bad Pass
+10367,21500081,4,0:00,nan,nan,121 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

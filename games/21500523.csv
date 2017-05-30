@@ -1,0 +1,216 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+65335,21500523,4,12:00,nan,nan,70 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+65336,21500523,4,11:44,nan,Curry OFF.Foul (P3) (R.Garretson),nan,203552,Seth Curry,SAC,200826,J.J. Barea,DAL,0,nan,nan,Foul ,Offensive
+65337,21500523,4,11:44,nan,Curry Foul Turnover (P1.T13),nan,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+65338,21500523,4,11:33,nan,Anderson S.FOUL (P1.T1) (J.Williams),nan,202341,James Anderson,SAC,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+65339,21500523,4,11:33,Nowitzki Free Throw 1 of 2 (11 PTS),nan,70 - 79,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65340,21500523,4,11:33,MISS Nowitzki Free Throw 2 of 2,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65341,21500523,4,11:31,nan,Gay REBOUND (Off:0 Def:3),nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65342,21500523,4,11:10,nan,Gay 14' Jump Shot (17 PTS) (Anderson 1 AST),72 - 79,200752,Rudy Gay,SAC,202341,James Anderson,SAC,0,nan,nan,Made Shot ,nan
+65343,21500523,4,10:57,MISS Nowitzki 24' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65344,21500523,4,10:56,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65345,21500523,4,10:56,nan,SUB: Cousins FOR Anderson,nan,202341,James Anderson,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Substitution ,nan
+65346,21500523,4,10:44,MISS Nowitzki 21' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65347,21500523,4,10:43,nan,Belinelli REBOUND (Off:0 Def:4),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65348,21500523,4,10:36,nan,Koufos OFF.Foul (P2) (J.Williams),nan,201585,Kosta Koufos,SAC,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Offensive
+65349,21500523,4,10:36,nan,Koufos Foul Turnover (P2.T14),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+65350,21500523,4,10:24,MISS Barea 11' Driving Floating Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65351,21500523,4,10:23,nan,Belinelli REBOUND (Off:0 Def:5),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65352,21500523,4,10:23,McGee L.B.FOUL (P2.T1) (A.Smith),nan,nan,201580,JaVale McGee,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Loose Ball
+65353,21500523,4,10:23,SUB: Pachulia FOR McGee,nan,nan,201580,JaVale McGee,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+65354,21500523,4,10:11,nan,MISS Curry 24' 3PT Floating Jump Shot,nan,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65355,21500523,4,10:10,Pachulia REBOUND (Off:4 Def:7),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65356,21500523,4,10:02,Felton Lost Ball Turnover (P2.T13),Belinelli STEAL (3 STL),nan,101109,Raymond Felton,DAL,201158,Marco Belinelli,SAC,0,nan,nan,Turnover ,Lost Ball
+65357,21500523,4,10:02,Felton P.FOUL (P1.T2) (J.Williams),nan,nan,101109,Raymond Felton,DAL,201585,Kosta Koufos,SAC,0,nan,nan,Foul ,Personal
+65358,21500523,4,10:02,SUB: D. Williams FOR Felton,nan,nan,101109,Raymond Felton,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+65359,21500523,4,9:46,nan,Gay  Layup (19 PTS) (Cousins 3 AST),74 - 79,200752,Rudy Gay,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Made Shot ,nan
+65360,21500523,4,9:31,Pachulia Bad Pass Turnover (P3.T14),Cousins STEAL (5 STL),nan,2585,Zaza Pachulia,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Turnover ,Bad Pass
+65361,21500523,4,9:29,Nowitzki P.FOUL (P2.T3) (R.Garretson),nan,nan,1717,Dirk Nowitzki,DAL,201158,Marco Belinelli,SAC,0,nan,nan,Foul ,Personal
+65362,21500523,4,9:24,nan,Belinelli 24' 3PT Jump Shot (8 PTS) (Curry 1 AST),77 - 79,201158,Marco Belinelli,SAC,203552,Seth Curry,SAC,0,nan,nan,Made Shot ,nan
+65363,21500523,4,9:03,Barea 24' 3PT Jump Shot (7 PTS),nan,77 - 82,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65364,21500523,4,8:43,nan,Cousins Out of Bounds Lost Ball Turnover (P6.T15),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+65365,21500523,4,8:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+65366,21500523,4,8:43,SUB: Parsons FOR Harris,nan,nan,2734,Devin Harris,DAL,202718,Chandler Parsons,DAL,0,nan,nan,Substitution ,nan
+65367,21500523,4,8:34,Barea Bad Pass Turnover (P2.T15),Curry STEAL (2 STL),nan,200826,J.J. Barea,DAL,203552,Seth Curry,SAC,0,nan,nan,Turnover ,Bad Pass
+65368,21500523,4,8:27,nan,Gay  3PT Jump Shot (22 PTS) (Belinelli 2 AST),80 - 82,200752,Rudy Gay,SAC,201158,Marco Belinelli,SAC,0,nan,nan,Made Shot ,nan
+65369,21500523,4,8:05,MISS Nowitzki 15' Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65370,21500523,4,8:04,nan,Cousins REBOUND (Off:1 Def:8),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65371,21500523,4,7:48,nan,Cousins OFF.Foul (P2) (J.Williams),nan,202326,DeMarcus Cousins,SAC,202718,Chandler Parsons,DAL,0,nan,nan,Foul ,Offensive
+65372,21500523,4,7:48,nan,Cousins Foul Turnover (P7.T16),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+65373,21500523,4,7:35,MISS D. Williams 16' Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65374,21500523,4,7:34,nan,Koufos REBOUND (Off:1 Def:3),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65375,21500523,4,7:19,nan,MISS Curry 3' Driving Reverse Layup,nan,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65376,21500523,4,7:18,Pachulia REBOUND (Off:4 Def:8),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65377,21500523,4,7:09,Barea Bad Pass Turnover (P3.T16),Cousins STEAL (6 STL),nan,200826,J.J. Barea,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Turnover ,Bad Pass
+65378,21500523,4,7:00,Pachulia P.FOUL (P4.T4) (J.Williams),nan,nan,2585,Zaza Pachulia,DAL,200752,Rudy Gay,SAC,0,nan,nan,Foul ,Personal
+65379,21500523,4,7:00,nan,nan,nan,420,Jayson Williams,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+65380,21500523,4,7:00,SUB: Matthews FOR Barea,nan,nan,200826,J.J. Barea,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+65381,21500523,4,7:00,nan,SUB: Collison FOR Koufos,nan,201585,Kosta Koufos,SAC,201954,Darren Collison,SAC,0,nan,nan,Substitution ,nan
+65382,21500523,4,6:49,nan,MISS Gay 13' Jump Shot,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65383,21500523,4,6:48,Parsons REBOUND (Off:1 Def:4),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65384,21500523,4,6:31,nan,Collison S.FOUL (P1.T2) (A.Smith),nan,201954,Darren Collison,SAC,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting
+65385,21500523,4,6:31,MISS D. Williams Free Throw 1 of 2,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65386,21500523,4,6:31,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+65387,21500523,4,6:31,D. Williams Free Throw 2 of 2 (14 PTS),nan,80 - 83,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65388,21500523,4,6:15,nan,Cousins  Driving Finger Roll Layup (22 PTS),82 - 83,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65389,21500523,4,5:53,MISS Nowitzki 13' Turnaround Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65390,21500523,4,5:53,Pachulia REBOUND (Off:5 Def:8),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65391,21500523,4,5:53,nan,Curry S.FOUL (P4.T3) (J.Williams),nan,203552,Seth Curry,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Shooting
+65392,21500523,4,5:53,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65393,21500523,4,5:53,SUB: Felton FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+65394,21500523,4,5:53,MISS Pachulia Free Throw 1 of 2,nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65395,21500523,4,5:53,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+65396,21500523,4,5:53,Pachulia Free Throw 2 of 2 (7 PTS),nan,82 - 84,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65397,21500523,4,5:36,Pachulia STEAL (3 STL),Cousins Lost Ball Turnover (P8.T17),nan,202326,DeMarcus Cousins,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Turnover ,Lost Ball
+65398,21500523,4,5:21,MISS Matthews 24' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65399,21500523,4,5:20,nan,Belinelli REBOUND (Off:0 Def:6),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65400,21500523,4,5:08,nan,MISS Cousins 24' 3PT Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65401,21500523,4,5:07,Parsons REBOUND (Off:1 Def:5),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65402,21500523,4,4:42,MISS Matthews 22' Step Back Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65403,21500523,4,4:41,nan,Belinelli REBOUND (Off:0 Def:7),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65404,21500523,4,4:21,nan,Gay 13' Turnaround Jump Shot (24 PTS),84 - 84,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65405,21500523,4,4:05,MISS D. Williams 24' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65406,21500523,4,4:04,nan,Cousins REBOUND (Off:1 Def:9),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65407,21500523,4,3:47,nan,Cousins 1' Driving Finger Roll Layup (24 PTS),86 - 84,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65408,21500523,4,3:46,MAVERICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65409,21500523,4,3:46,SUB: Nowitzki FOR Parsons,nan,nan,202718,Chandler Parsons,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+65410,21500523,4,3:28,Matthews 9' Driving Floating Jump Shot (17 PTS) (Nowitzki 1 AST),nan,86 - 86,202083,Wesley Matthews,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+65411,21500523,4,3:09,nan,MISS Cousins 10' Turnaround Hook Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65412,21500523,4,3:08,Nowitzki REBOUND (Off:0 Def:2),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65413,21500523,4,2:53,MISS Pachulia 14' Jump Shot,nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65414,21500523,4,2:53,nan,Gay REBOUND (Off:0 Def:4),nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65415,21500523,4,2:45,nan,Gay 20' Pullup Jump Shot (26 PTS),88 - 86,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65416,21500523,4,2:31,Nowitzki 24' 3PT Jump Shot (14 PTS) (D. Williams 2 AST),nan,88 - 89,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+65417,21500523,4,2:06,nan,Collison 1' Driving Finger Roll Layup (10 PTS) (Cousins 4 AST),90 - 89,201954,Darren Collison,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Made Shot ,nan
+65418,21500523,4,1:46,Nowitzki 17' Fadeaway Jumper (16 PTS) (Matthews 4 AST),nan,90 - 91,1717,Dirk Nowitzki,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+65419,21500523,4,1:29,Pachulia STEAL (4 STL),Cousins Lost Ball Turnover (P9.T18),nan,202326,DeMarcus Cousins,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Turnover ,Lost Ball
+65420,21500523,4,1:29,nan,Cousins L.B.FOUL (P3.T4) (J.Williams),nan,202326,DeMarcus Cousins,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Loose Ball
+65421,21500523,4,1:13,MISS D. Williams 1' Driving Layup,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65422,21500523,4,1:11,nan,Cousins REBOUND (Off:1 Def:10),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65423,21500523,4,0:52,nan,MISS Cousins 16' Pullup Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65424,21500523,4,0:51,Nowitzki REBOUND (Off:0 Def:3),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65425,21500523,4,0:48,Matthews 1' Running Layup (19 PTS) (Nowitzki 2 AST),nan,90 - 93,202083,Wesley Matthews,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+65426,21500523,4,0:48,nan,Curry S.FOUL (P5.PN) (A.Smith),nan,203552,Seth Curry,SAC,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Shooting
+65427,21500523,4,0:48,Matthews Free Throw 1 of 1 (20 PTS),nan,90 - 94,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+65428,21500523,4,0:48,nan,Kings Timeout: Regular (Reg.4 Short 0),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65429,21500523,4,0:48,SUB: Harris FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+65430,21500523,4,0:45,nan,Belinelli 24' 3PT Step Back Jump Shot (11 PTS) (Collison 9 AST),93 - 94,201158,Marco Belinelli,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+65431,21500523,4,0:45,MAVERICKS Timeout: Short (Full 5 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+65432,21500523,4,0:45,SUB: Nowitzki FOR Harris,nan,nan,2734,Devin Harris,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+65433,21500523,4,0:45,nan,SUB: Anderson FOR Belinelli,nan,201158,Marco Belinelli,SAC,202341,James Anderson,SAC,0,nan,nan,Substitution ,nan
+65434,21500523,4,0:24,Nowitzki 10' Driving Floating Jump Shot (18 PTS),nan,93 - 96,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65435,21500523,4,0:24,nan,Kings Timeout: Short (Reg.4 Short 1),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+65436,21500523,4,0:24,SUB: Harris FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+65437,21500523,4,0:24,nan,SUB: Belinelli FOR Anderson,nan,202341,James Anderson,SAC,201158,Marco Belinelli,SAC,0,nan,nan,Substitution ,nan
+65438,21500523,4,0:21,nan,MISS Belinelli 24' 3PT Turnaround Jump Shot,nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65439,21500523,4,0:20,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65440,21500523,4,0:20,nan,nan,nan,495,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+65441,21500523,4,0:13,nan,Belinelli  3PT Step Back Jump Shot (14 PTS) (Curry 2 AST),96 - 96,201158,Marco Belinelli,SAC,203552,Seth Curry,SAC,0,nan,nan,Made Shot ,nan
+65442,21500523,4,0:13,MAVERICKS Timeout: Regular (Full 6 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65443,21500523,4,0:13,SUB: Nowitzki FOR Pachulia,nan,nan,2585,Zaza Pachulia,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+65444,21500523,4,0:13,nan,SUB: Anderson FOR Belinelli,nan,201158,Marco Belinelli,SAC,202341,James Anderson,SAC,0,nan,nan,Substitution ,nan
+65445,21500523,4,0:02,D. Williams 2' Driving Finger Roll Layup (16 PTS),nan,96 - 98,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65446,21500523,4,0:02,nan,Kings Timeout: Short (Reg.4 Short 2),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+65447,21500523,4,0:02,SUB: Pachulia FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+65448,21500523,4,0:02,nan,SUB: Belinelli FOR Anderson,nan,202341,James Anderson,SAC,201158,Marco Belinelli,SAC,0,nan,nan,Substitution ,nan
+65449,21500523,4,0:00,nan,Cousins 1' Driving Layup (26 PTS) (Belinelli 3 AST),98 - 98,202326,DeMarcus Cousins,SAC,201158,Marco Belinelli,SAC,0,nan,nan,Made Shot ,nan
+65450,21500523,4,0:00,nan,nan,nan,509,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+65451,21500523,4,0:00,nan,nan,98 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+65452,21500523,5,5:00,nan,nan,98 - 98,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+65453,21500523,5,5:00,Jump Ball McGee vs. Cousins: Tip to Belinelli,nan,nan,201580,JaVale McGee,DAL,202326,DeMarcus Cousins,SAC,201158,Marco Belinelli,SAC,Jump Ball ,nan
+65454,21500523,5,4:45,nan,MISS Belinelli 24' 3PT Jump Shot,nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65455,21500523,5,4:44,McGee REBOUND (Off:4 Def:7),nan,nan,201580,JaVale McGee,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65456,21500523,5,4:32,MISS D. Williams  3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65457,21500523,5,4:31,nan,Belinelli REBOUND (Off:0 Def:8),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65458,21500523,5,4:23,D. Williams S.FOUL (P3.T1) (J.Williams),nan,nan,101114,Deron Williams,DAL,201954,Darren Collison,SAC,0,nan,nan,Foul ,Shooting
+65459,21500523,5,4:23,nan,Collison Free Throw 1 of 2 (11 PTS),99 - 98,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65460,21500523,5,4:23,SUB: Pachulia FOR McGee,nan,nan,201580,JaVale McGee,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+65461,21500523,5,4:23,nan,Collison Free Throw 2 of 2 (12 PTS),100 - 98,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65462,21500523,5,4:09,MISS Matthews 6' Driving Bank Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65463,21500523,5,4:08,nan,Cousins REBOUND (Off:1 Def:11),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65464,21500523,5,3:49,nan,MISS Cousins 19' Step Back Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65465,21500523,5,3:49,Felton REBOUND (Off:0 Def:7),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65466,21500523,5,3:40,Felton Offensive Charge Foul (P2.T2) (J.Williams),nan,nan,101109,Raymond Felton,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Offensive Charge
+65467,21500523,5,3:40,Felton Foul Turnover (P3.T17),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+65468,21500523,5,3:40,SUB: Barea FOR Felton,nan,nan,101109,Raymond Felton,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+65469,21500523,5,3:22,nan,MISS Cousins 2' Driving Layup,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65470,21500523,5,3:21,nan,Cousins REBOUND (Off:2 Def:11),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65471,21500523,5,3:14,nan,Collison 19' Pullup Jump Shot (14 PTS),102 - 98,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65472,21500523,5,3:01,D. Williams 6' Driving Bank Shot (18 PTS),nan,102 - 100,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65473,21500523,5,2:35,nan,MISS Belinelli 26' 3PT Jump Shot,nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65474,21500523,5,2:34,Pachulia REBOUND (Off:5 Def:9),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65475,21500523,5,2:15,MISS Barea  3PT Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65476,21500523,5,2:14,Pachulia REBOUND (Off:6 Def:9),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65477,21500523,5,2:14,nan,Cousins L.B.FOUL (P4.T1) (J.Williams),nan,202326,DeMarcus Cousins,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Loose Ball
+65478,21500523,5,2:14,nan,Kings Timeout: Regular (Reg.5 Short 2),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65479,21500523,5,2:03,MISS Barea 12' Driving Floating Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65480,21500523,5,2:02,nan,Cousins REBOUND (Off:2 Def:12),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65481,21500523,5,1:48,nan,Gay 20' Fadeaway Jumper (28 PTS),104 - 100,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65482,21500523,5,1:35,MISS Barea 25' 3PT Jump Shot,nan,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65483,21500523,5,1:34,nan,Gay REBOUND (Off:0 Def:5),nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65484,21500523,5,1:27,nan,MISS Belinelli 24' 3PT Jump Shot,nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65485,21500523,5,1:26,nan,Cousins REBOUND (Off:3 Def:12),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65486,21500523,5,1:20,nan,MISS Collison 25' 3PT Jump Shot,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65487,21500523,5,1:19,Pachulia REBOUND (Off:6 Def:10),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65488,21500523,5,1:10,Pachulia 1' Layup (9 PTS) (Nowitzki 3 AST),nan,104 - 102,2585,Zaza Pachulia,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+65489,21500523,5,0:48,nan,MISS Gay 9' Fadeaway Jumper,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65490,21500523,5,0:48,Nowitzki REBOUND (Off:0 Def:4),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65491,21500523,5,0:30,Nowitzki 12' Turnaround Jump Shot (20 PTS),nan,104 - 104,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65492,21500523,5,0:30,nan,Kings Timeout: Regular (Reg.6 Short 2),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65493,21500523,5,0:30,SUB: Harris FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+65494,21500523,5,0:30,SUB: Felton FOR Barea,nan,nan,200826,J.J. Barea,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+65495,21500523,5,0:09,Pachulia STEAL (5 STL),Cousins Lost Ball Turnover (P10.T19),nan,202326,DeMarcus Cousins,SAC,2585,Zaza Pachulia,DAL,0,nan,nan,Turnover ,Lost Ball
+65496,21500523,5,0:09,MAVERICKS Timeout: Regular (Full 7 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65497,21500523,5,0:09,SUB: Nowitzki FOR Pachulia,nan,nan,2585,Zaza Pachulia,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+65498,21500523,5,0:09,nan,SUB: Anderson FOR Belinelli,nan,201158,Marco Belinelli,SAC,202341,James Anderson,SAC,0,nan,nan,Substitution ,nan
+65499,21500523,5,0:09,nan,SUB: Acy FOR Curry,nan,203552,Seth Curry,SAC,203112,Quincy Acy,SAC,0,nan,nan,Substitution ,nan
+65500,21500523,5,0:02,MISS Nowitzki 27' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65501,21500523,5,0:01,nan,Acy REBOUND (Off:3 Def:3),nan,203112,Quincy Acy,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65502,21500523,5,0:01,nan,Kings Timeout: Short (Reg.6 Short 3),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+65503,21500523,5,0:01,nan,SUB: Curry FOR Acy,nan,203112,Quincy Acy,SAC,203552,Seth Curry,SAC,0,nan,nan,Substitution ,nan
+65504,21500523,5,0:01,nan,SUB: Belinelli FOR Anderson,nan,202341,James Anderson,SAC,201158,Marco Belinelli,SAC,0,nan,nan,Substitution ,nan
+65505,21500523,5,0:01,SUB: Pachulia FOR Felton,nan,nan,101109,Raymond Felton,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+65506,21500523,5,0:01,nan,MISS Curry 20' Jump Shot,nan,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65507,21500523,5,0:00,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65508,21500523,5,0:00,nan,nan,104 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+65509,21500523,6,5:00,nan,nan,104 - 104,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+65510,21500523,6,5:00,Jump Ball McGee vs. Cousins: Tip to Collison,nan,nan,201580,JaVale McGee,DAL,202326,DeMarcus Cousins,SAC,201954,Darren Collison,SAC,Jump Ball ,nan
+65511,21500523,6,4:44,McGee P.FOUL (P3.T1) (A.Smith),nan,nan,201580,JaVale McGee,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Personal
+65512,21500523,6,4:44,SUB: Pachulia FOR McGee,nan,nan,201580,JaVale McGee,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+65513,21500523,6,4:36,nan,MISS Gay 22' Jump Shot,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65514,21500523,6,4:35,nan,Belinelli REBOUND (Off:1 Def:8),nan,201158,Marco Belinelli,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65515,21500523,6,4:23,Nowitzki S.FOUL (P3.T2) (J.Williams),nan,nan,1717,Dirk Nowitzki,DAL,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Shooting
+65516,21500523,6,4:23,nan,Cousins Free Throw 1 of 2 (27 PTS),105 - 104,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+65517,21500523,6,4:23,nan,Cousins Free Throw 2 of 2 (28 PTS),106 - 104,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+65518,21500523,6,4:08,D. Williams 2' Driving Layup (20 PTS),nan,106 - 106,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65519,21500523,6,4:08,nan,Cousins S.FOUL (P5.T1) (J.Williams),nan,202326,DeMarcus Cousins,SAC,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting
+65520,21500523,6,4:08,MISS D. Williams Free Throw 1 of 1,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+65521,21500523,6,4:07,nan,Cousins REBOUND (Off:3 Def:13),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65522,21500523,6,3:49,nan,Cousins 21' Jump Shot (30 PTS) (Collison 10 AST),108 - 106,202326,DeMarcus Cousins,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+65523,21500523,6,3:30,Felton 25' 3PT Jump Shot (5 PTS) (D. Williams 3 AST),nan,108 - 109,101109,Raymond Felton,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+65524,21500523,6,3:12,nan,Cousins 24' 3PT Jump Shot (33 PTS) (Collison 11 AST),111 - 109,202326,DeMarcus Cousins,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+65525,21500523,6,2:50,MISS D. Williams 15' Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65526,21500523,6,2:48,nan,Collison REBOUND (Off:0 Def:3),nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65527,21500523,6,2:35,nan,Cousins 5' Hook Shot (35 PTS),113 - 109,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+65528,21500523,6,2:35,MAVERICKS Timeout: Regular (Full 8 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65529,21500523,6,2:35,nan,SUB: Anderson FOR Curry,nan,203552,Seth Curry,SAC,202341,James Anderson,SAC,0,nan,nan,Substitution ,nan
+65530,21500523,6,2:15,MISS D. Williams 7' Turnaround Bank Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65531,21500523,6,2:14,nan,Cousins REBOUND (Off:3 Def:14),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65532,21500523,6,1:56,nan,MISS Cousins 14' Turnaround Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65533,21500523,6,1:55,Pachulia REBOUND (Off:6 Def:11),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65534,21500523,6,1:37,MISS Pachulia  Cutting Layup Shot,Cousins BLOCK (1 BLK),nan,2585,Zaza Pachulia,DAL,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+65535,21500523,6,1:36,nan,Collison REBOUND (Off:0 Def:4),nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65536,21500523,6,1:20,nan,Gay 24' 3PT Jump Shot (31 PTS) (Collison 12 AST),116 - 109,200752,Rudy Gay,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+65537,21500523,6,1:20,MAVERICKS Timeout: Regular (Full 9 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+65538,21500523,6,1:16,D. Williams 1' Driving Layup (22 PTS),nan,116 - 111,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+65539,21500523,6,0:54,nan,MISS Cousins 24' 3PT Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65540,21500523,6,0:53,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65541,21500523,6,0:33,nan,MISS Collison 18' Jump Shot,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+65542,21500523,6,0:32,Nowitzki REBOUND (Off:0 Def:5),nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+65543,21500523,6,0:26,Nowitzki 25' 3PT Step Back Jump Shot (23 PTS) (D. Williams 4 AST),nan,116 - 114,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+65544,21500523,6,0:02,nan,Kings Turnover: Shot Clock (T#20),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+65545,21500523,6,0:02,MAVERICKS Timeout: Short (Full 9 Short 3),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+65546,21500523,6,0:02,SUB: Harris FOR Pachulia,nan,nan,2585,Zaza Pachulia,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+65547,21500523,6,0:00,D. Williams  3PT Jump Shot (25 PTS) (Harris 2 AST),nan,116 - 117,101114,Deron Williams,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+65548,21500523,6,0:00,nan,nan,nan,630,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+65549,21500523,6,0:00,nan,nan,116 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

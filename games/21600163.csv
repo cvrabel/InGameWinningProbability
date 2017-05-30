@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+173423,21600163,4,12:00,nan,nan,70 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+173424,21600163,4,11:43,nan,Teletovic 25' 3PT Jump Shot (8 PTS) (Antetokounmpo 5 AST),73 - 84,203141,Mirza Teletovic,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+173425,21600163,4,11:27,nan,Teletovic Shooting Block Foul (P2.T1) (L.Holtkamp),nan,203141,Mirza Teletovic,MIL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Shooting Block
+173426,21600163,4,11:27,Hardaway Jr. Free Throw 1 of 2 (11 PTS),nan,73 - 85,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173427,21600163,4,11:27,Hardaway Jr. Free Throw 2 of 2 (12 PTS),nan,73 - 86,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173428,21600163,4,11:02,nan,Bucks Turnover: Shot Clock (T#12),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+173429,21600163,4,10:48,Prince Bad Pass Turnover (P2.T11),Parker STEAL (2 STL),nan,1627752,Taurean Prince,ATL,203953,Jabari Parker,MIL,0,nan,nan,Turnover ,Bad Pass
+173430,21600163,4,10:47,nan,Antetokounmpo Step Out of Bounds Turnover (P3.T13),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+173431,21600163,4,10:38,MISS Prince 25' 3PT Jump Shot,nan,nan,1627752,Taurean Prince,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173432,21600163,4,10:35,nan,Parker REBOUND (Off:1 Def:4),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173433,21600163,4,10:29,nan,MISS Parker 19' Running Pull-Up Jump Shot,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173434,21600163,4,10:28,Muscala REBOUND (Off:1 Def:3),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173435,21600163,4,10:15,Muscala Bad Pass Turnover (P1.T12),Vaughn STEAL (1 STL),nan,203488,Mike Muscala,ATL,1626173,Rashad Vaughn,MIL,0,nan,nan,Turnover ,Bad Pass
+173436,21600163,4,10:09,nan,MISS Vaughn 24' 3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173437,21600163,4,10:06,Delaney REBOUND (Off:0 Def:4),nan,nan,1627098,Malcolm Delaney,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173438,21600163,4,10:04,Delaney Bad Pass Turnover (P3.T13),Antetokounmpo STEAL (1 STL),nan,1627098,Malcolm Delaney,ATL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+173439,21600163,4,10:01,nan,Teletovic 25' 3PT Jump Shot (11 PTS) (Antetokounmpo 6 AST),76 - 86,203141,Mirza Teletovic,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+173440,21600163,4,9:45,nan,Teletovic Shooting Block Foul (P3.T2) (T.Brothers),nan,203141,Mirza Teletovic,MIL,203501,Tim Hardaway Jr.,ATL,0,nan,nan,Foul ,Shooting Block
+173441,21600163,4,9:45,Hardaway Jr. Free Throw 1 of 2 (13 PTS),nan,76 - 87,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173442,21600163,4,9:45,SUB: Bazemore FOR Millsap,nan,nan,200794,Paul Millsap,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+173443,21600163,4,9:45,MISS Hardaway Jr. Free Throw 2 of 2,nan,nan,203501,Tim Hardaway Jr.,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173444,21600163,4,9:43,nan,Vaughn REBOUND (Off:0 Def:1),nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173445,21600163,4,9:33,nan,Parker  Dunk (19 PTS) (Antetokounmpo 7 AST),78 - 87,203953,Jabari Parker,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+173446,21600163,4,9:12,MISS Bazemore 25' 3PT Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173447,21600163,4,9:10,nan,Parker REBOUND (Off:1 Def:5),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173448,21600163,4,9:06,nan,Teletovic 25' 3PT Running Jump Shot (14 PTS) (Parker 2 AST),81 - 87,203141,Mirza Teletovic,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+173449,21600163,4,9:06,HAWKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173450,21600163,4,9:06,SUB: Schroder FOR Prince,nan,nan,1627752,Taurean Prince,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+173451,21600163,4,9:06,SUB: Millsap FOR Delaney,nan,nan,1627098,Malcolm Delaney,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+173452,21600163,4,8:43,MISS Bazemore 2' Driving Layup,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173453,21600163,4,8:41,nan,Antetokounmpo REBOUND (Off:3 Def:10),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173454,21600163,4,8:35,nan,MISS Vaughn  3PT Jump Shot,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173455,21600163,4,8:33,Bazemore REBOUND (Off:0 Def:3),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173456,21600163,4,8:23,Millsap Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+173457,21600163,4,8:04,nan,MISS Antetokounmpo 5' Hook Shot,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173458,21600163,4,8:02,nan,Antetokounmpo REBOUND (Off:4 Def:10),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173459,21600163,4,8:02,nan,Antetokounmpo 1' Tip Layup Shot (18 PTS),83 - 87,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173460,21600163,4,7:49,Schroder 13' Pullup Jump Shot (10 PTS),nan,83 - 89,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173461,21600163,4,7:25,nan,MISS Parker 4' Hook Shot,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173462,21600163,4,7:25,nan,Parker REBOUND (Off:2 Def:5),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173463,21600163,4,7:25,Bazemore S.FOUL (P3.T1) (L.Holtkamp),nan,nan,203145,Kent Bazemore,ATL,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Shooting
+173464,21600163,4,7:25,nan,Parker Free Throw 1 of 2 (20 PTS),84 - 89,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173465,21600163,4,7:25,nan,SUB: Snell FOR Vaughn,nan,1626173,Rashad Vaughn,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+173466,21600163,4,7:25,SUB: Korver FOR Hardaway Jr.,nan,nan,203501,Tim Hardaway Jr.,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+173467,21600163,4,7:25,nan,Parker Free Throw 2 of 2 (21 PTS),85 - 89,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173468,21600163,4,7:15,nan,Teletovic S.FOUL (P4.T3) (L.Holtkamp),nan,203141,Mirza Teletovic,MIL,203488,Mike Muscala,ATL,0,nan,nan,Foul ,Shooting
+173469,21600163,4,7:15,MISS Muscala Free Throw 1 of 2,nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173470,21600163,4,7:15,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173471,21600163,4,7:15,Muscala Free Throw 2 of 2 (14 PTS),nan,85 - 90,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173472,21600163,4,6:59,nan,Brogdon 7' Pullup Bank Shot (4 PTS) (Parker 3 AST),87 - 90,1627763,Malcolm Brogdon,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+173473,21600163,4,6:42,Korver  3PT Jump Shot (6 PTS) (Schroder 6 AST),nan,87 - 93,2594,Kyle Korver,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+173474,21600163,4,6:24,nan,Antetokounmpo  Driving Finger Roll Layup (20 PTS) (Brogdon 2 AST),89 - 93,203507,Giannis Antetokounmpo,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+173475,21600163,4,6:06,MISS Korver 25' 3PT Jump Shot,nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173476,21600163,4,6:05,nan,Brogdon REBOUND (Off:0 Def:2),nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173477,21600163,4,5:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+173478,21600163,4,5:47,Millsap S.FOUL (P3.T2) (T.Brown),nan,nan,200794,Paul Millsap,ATL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+173479,21600163,4,5:47,nan,MISS Antetokounmpo Free Throw 1 of 2,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173480,21600163,4,5:47,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+173481,21600163,4,5:47,nan,MISS Antetokounmpo Free Throw 2 of 2,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173482,21600163,4,5:45,Bazemore REBOUND (Off:0 Def:4),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173483,21600163,4,5:33,MISS Bazemore  Cutting Layup Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173484,21600163,4,5:31,nan,Teletovic REBOUND (Off:0 Def:3),nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173485,21600163,4,5:24,Korver BLOCK (2 BLK),MISS Antetokounmpo 2' Driving Layup,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,2594,Kyle Korver,ATL,Missed Shot ,nan
+173486,21600163,4,5:22,Korver REBOUND (Off:0 Def:5),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173487,21600163,4,5:22,nan,Brogdon S.FOUL (P3.T4) (T.Brown),nan,1627763,Malcolm Brogdon,MIL,203471,Dennis Schroder,ATL,0,nan,nan,Foul ,Shooting
+173488,21600163,4,5:22,Schroder Free Throw 1 of 2 (11 PTS),nan,89 - 94,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173489,21600163,4,5:22,Schroder Free Throw 2 of 2 (12 PTS),nan,89 - 95,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173490,21600163,4,5:14,nan,MISS Brogdon 22' Pullup Jump Shot,nan,1627763,Malcolm Brogdon,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173491,21600163,4,5:11,Korver REBOUND (Off:0 Def:6),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173492,21600163,4,5:01,Muscala 17' Jump Shot (16 PTS) (Schroder 7 AST),nan,89 - 97,203488,Mike Muscala,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+173493,21600163,4,4:42,nan,Snell 25' 3PT Jump Shot (11 PTS) (Brogdon 3 AST),92 - 97,203503,Tony Snell,MIL,1627763,Malcolm Brogdon,MIL,0,nan,nan,Made Shot ,nan
+173494,21600163,4,4:18,Korver 34' 3PT Jump Shot (9 PTS) (Muscala 3 AST),nan,92 - 100,2594,Kyle Korver,ATL,203488,Mike Muscala,ATL,0,nan,nan,Made Shot ,nan
+173495,21600163,4,3:54,Korver S.FOUL (P2.T3) (T.Brown),nan,nan,2594,Kyle Korver,ATL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+173496,21600163,4,3:54,nan,Antetokounmpo Free Throw 1 of 2 (21 PTS),93 - 100,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173497,21600163,4,3:54,nan,SUB: Dellavedova FOR Brogdon,nan,1627763,Malcolm Brogdon,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+173498,21600163,4,3:54,nan,Antetokounmpo Free Throw 2 of 2 (22 PTS),94 - 100,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173499,21600163,4,3:41,MISS Muscala  3PT Jump Shot,nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173500,21600163,4,3:39,Bazemore REBOUND (Off:1 Def:4),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173501,21600163,4,3:26,MISS Schroder 24' 3PT Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173502,21600163,4,3:24,nan,Snell REBOUND (Off:2 Def:2),nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173503,21600163,4,3:11,nan,MISS Parker 11' Pullup Jump Shot,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173504,21600163,4,3:09,Muscala REBOUND (Off:1 Def:4),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173505,21600163,4,2:49,Muscala Lost Ball Turnover (P2.T15),Parker STEAL (3 STL),nan,203488,Mike Muscala,ATL,203953,Jabari Parker,MIL,0,nan,nan,Turnover ,Lost Ball
+173506,21600163,4,2:40,nan,MISS Snell 24' 3PT Jump Shot,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173507,21600163,4,2:40,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173508,21600163,4,2:40,nan,Bucks Timeout: Regular (Reg.4 Short 1),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173509,21600163,4,2:30,nan,MISS Teletovic 24' 3PT Jump Shot,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173510,21600163,4,2:29,Millsap REBOUND (Off:0 Def:7),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173511,21600163,4,2:12,MISS Schroder 18' Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173512,21600163,4,2:10,nan,Parker REBOUND (Off:2 Def:6),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173513,21600163,4,1:54,nan,Teletovic OFF.Foul (P5) (T.Brown),nan,203141,Mirza Teletovic,MIL,203488,Mike Muscala,ATL,0,nan,nan,Foul ,Offensive
+173514,21600163,4,1:54,nan,Teletovic Foul Turnover (P2.T14),nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+173515,21600163,4,1:37,Millsap 16' Fadeaway Jumper (19 PTS),nan,94 - 102,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173516,21600163,4,1:31,Schroder P.FOUL (P1.T4) (T.Brown),nan,nan,203471,Dennis Schroder,ATL,203521,Matthew Dellavedova,MIL,0,nan,nan,Foul ,Personal
+173517,21600163,4,1:24,nan,Parker 4' Driving Floating Jump Shot (23 PTS),96 - 102,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173518,21600163,4,1:07,MISS Muscala 1' Layup,Antetokounmpo BLOCK (2 BLK),nan,203488,Mike Muscala,ATL,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+173519,21600163,4,1:04,nan,Teletovic REBOUND (Off:0 Def:4),nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173520,21600163,4,1:04,nan,Bucks Timeout: Regular (Reg.5 Short 1),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173521,21600163,4,1:01,nan,MISS Teletovic 24' 3PT Jump Shot,nan,203141,Mirza Teletovic,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173522,21600163,4,0:59,Millsap REBOUND (Off:0 Def:8),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173523,21600163,4,0:41,Muscala Out of Bounds - Bad Pass Turnover Turnover (P3.T16),nan,nan,203488,Mike Muscala,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+173524,21600163,4,0:41,nan,Bucks Timeout: Short (Reg.5 Short 2),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+173525,21600163,4,0:37,nan,Antetokounmpo  Driving Dunk (24 PTS),98 - 102,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173526,21600163,4,0:22,Millsap 1' Floating Jump Shot (21 PTS) (Schroder 8 AST),nan,98 - 104,200794,Paul Millsap,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+173527,21600163,4,0:22,nan,Bucks Timeout: Short (Reg.5 Short 3),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+173528,21600163,4,0:21,nan,Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+173529,21600163,4,0:21,nan,Parker Personal Take Foul (P3.PN) (T.Brothers),nan,203953,Jabari Parker,MIL,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Personal Take
+173530,21600163,4,0:21,Bazemore Free Throw 1 of 2 (12 PTS),nan,98 - 105,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173531,21600163,4,0:21,SUB: Prince FOR Muscala,nan,nan,203488,Mike Muscala,ATL,1627752,Taurean Prince,ATL,0,nan,nan,Substitution ,nan
+173532,21600163,4,0:21,MISS Bazemore Free Throw 2 of 2,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173533,21600163,4,0:19,nan,Antetokounmpo REBOUND (Off:4 Def:11),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173534,21600163,4,0:11,nan,Antetokounmpo 2' Driving Finger Roll Layup (26 PTS),100 - 105,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+173535,21600163,4,0:02,nan,Parker Personal Take Foul (P4.PN) (L.Holtkamp),nan,203953,Jabari Parker,MIL,2594,Kyle Korver,ATL,0,nan,nan,Foul ,Personal Take
+173536,21600163,4,0:02,Korver Free Throw 1 of 2 (10 PTS),nan,100 - 106,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173537,21600163,4,0:02,Korver Free Throw 2 of 2 (11 PTS),nan,100 - 107,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173538,21600163,4,0:00,nan,nan,100 - 107,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+173539,21600163,4,0:00,nan,nan,100 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

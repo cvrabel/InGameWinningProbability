@@ -1,0 +1,135 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+194992,21600335,4,12:00,nan,nan,82 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+194993,21600335,4,11:51,Lyles OFF.Foul (P2) (M.McCutchen),nan,nan,1626168,Trey Lyles,UTA,203546,Ian Clark,GSW,0,nan,nan,Foul ,Offensive
+194994,21600335,4,11:51,Lyles Foul Turnover (P2.T11),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+194995,21600335,4,11:36,nan,Thompson OFF.Foul (P3) (M.Boland),nan,202691,Klay Thompson,GSW,204060,Joe Ingles,UTA,0,nan,nan,Foul ,Offensive
+194996,21600335,4,11:36,nan,Thompson Foul Turnover (P3.T15),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+194997,21600335,4,11:36,SUB: Gobert FOR Diaw,nan,nan,2564,Boris Diaw,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+194998,21600335,4,11:17,MISS Lyles 3' Turnaround Hook Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+194999,21600335,4,11:16,nan,Thompson REBOUND (Off:2 Def:3),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195000,21600335,4,11:09,nan,MISS Durant 15' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195001,21600335,4,11:08,Gobert REBOUND (Off:2 Def:8),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195002,21600335,4,10:52,Mack 8' Driving Floating Jump Shot (13 PTS),nan,82 - 72,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+195003,21600335,4,10:31,nan,MISS Durant 6' Fadeaway Jumper,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195004,21600335,4,10:30,Mack REBOUND (Off:0 Def:1),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195005,21600335,4,10:22,Mack 2' Driving Layup (15 PTS),nan,82 - 74,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+195006,21600335,4,10:04,nan,MISS Iguodala 24' 3PT Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195007,21600335,4,10:04,Gobert REBOUND (Off:2 Def:9),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195008,21600335,4,9:57,MISS Exum 1' Driving Reverse Layup,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195009,21600335,4,9:56,nan,Durant REBOUND (Off:0 Def:10),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195010,21600335,4,9:42,nan,Thompson 21' Jump Shot (10 PTS),84 - 74,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+195011,21600335,4,9:24,nan,West P.FOUL (P2.T1) (A.Smith),nan,2561,David West,GSW,204060,Joe Ingles,UTA,0,nan,nan,Foul ,Personal
+195012,21600335,4,9:24,SUB: Johnson FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+195013,21600335,4,9:18,nan,Thompson S.FOUL (P4.T2) (M.McCutchen),nan,202691,Klay Thompson,GSW,202714,Shelvin Mack,UTA,0,nan,nan,Foul ,Shooting
+195014,21600335,4,9:18,Mack Free Throw 1 of 2 (16 PTS),nan,84 - 75,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195015,21600335,4,9:18,Mack Free Throw 2 of 2 (17 PTS),nan,84 - 76,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195016,21600335,4,9:04,nan,MISS Thompson 20' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195017,21600335,4,9:04,Gobert REBOUND (Off:2 Def:10),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195018,21600335,4,8:51,Ingles 25' 3PT Jump Shot (16 PTS) (Mack 4 AST),nan,84 - 79,204060,Joe Ingles,UTA,202714,Shelvin Mack,UTA,0,nan,nan,Made Shot ,nan
+195019,21600335,4,8:39,Ingles S.FOUL (P3.T1) (A.Smith),nan,nan,204060,Joe Ingles,UTA,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+195020,21600335,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195021,21600335,4,8:39,nan,Durant Free Throw 1 of 3 (11 PTS),85 - 79,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+195022,21600335,4,8:39,nan,Durant Free Throw 2 of 3 (12 PTS),86 - 79,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+195023,21600335,4,8:39,nan,Durant Free Throw 3 of 3 (13 PTS),87 - 79,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+195024,21600335,4,8:21,MISS Ingles 1' Driving Reverse Layup,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195025,21600335,4,8:21,nan,Iguodala REBOUND (Off:2 Def:3),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195026,21600335,4,8:16,nan,West OFF.Foul (P3) (M.McCutchen),nan,2561,David West,GSW,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Offensive
+195027,21600335,4,8:16,nan,West Foul Turnover (P1.T16),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+195028,21600335,4,8:16,nan,West T.FOUL (P3.T2) (M.McCutchen),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+195029,21600335,4,8:16,Johnson Free Throw Technical (13 PTS),nan,87 - 80,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+195030,21600335,4,7:52,MISS Johnson 24' 3PT Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195031,21600335,4,7:52,nan,Thompson REBOUND (Off:2 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195032,21600335,4,7:46,Exum P.FOUL (P3.T2) (M.Boland),nan,nan,203957,Dante Exum,UTA,2561,David West,GSW,0,nan,nan,Foul ,Personal
+195033,21600335,4,7:46,SUB: Diaw FOR Ingles,nan,nan,204060,Joe Ingles,UTA,2564,Boris Diaw,UTA,0,nan,nan,Substitution ,nan
+195034,21600335,4,7:36,nan,MISS Thompson 19' Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195035,21600335,4,7:35,Gobert REBOUND (Off:2 Def:11),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195036,21600335,4,7:21,nan,SUB: Pachulia FOR West,nan,2561,David West,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+195037,21600335,4,7:12,MISS Mack 7' Floating Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195038,21600335,4,7:12,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195039,21600335,4,6:54,nan,MISS Clark 21' Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195040,21600335,4,6:53,Johnson REBOUND (Off:1 Def:3),nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195041,21600335,4,6:42,MISS Johnson 5' Floating Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195042,21600335,4,6:40,nan,Durant REBOUND (Off:0 Def:11),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195043,21600335,4,6:37,Diaw Shooting Block Foul (P1.T3) (A.Smith),nan,nan,2564,Boris Diaw,UTA,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting Block
+195044,21600335,4,6:37,nan,Durant Free Throw 1 of 2 (14 PTS),88 - 80,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195045,21600335,4,6:37,nan,MISS Durant Free Throw 2 of 2,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195046,21600335,4,6:36,Gobert REBOUND (Off:2 Def:12),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195047,21600335,4,6:20,Gobert Offensive Goaltending Turnover (P1.T12),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+195048,21600335,4,6:04,nan,Durant  Driving Dunk (16 PTS),90 - 80,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+195049,21600335,4,6:04,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195050,21600335,4,6:04,SUB: Ingles FOR Johnson,nan,nan,2207,Joe Johnson,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+195051,21600335,4,6:04,nan,SUB: Green FOR Iguodala,nan,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+195052,21600335,4,6:04,nan,SUB: Curry FOR Thompson,nan,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+195053,21600335,4,5:42,Diaw Lost Ball Turnover (P4.T13),Clark STEAL (1 STL),nan,2564,Boris Diaw,UTA,203546,Ian Clark,GSW,0,nan,nan,Turnover ,Lost Ball
+195054,21600335,4,5:26,nan,MISS Curry 20' Pullup Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195055,21600335,4,5:25,Gobert REBOUND (Off:2 Def:13),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195056,21600335,4,5:12,MISS Mack 24' 3PT Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195057,21600335,4,5:12,nan,Green REBOUND (Off:2 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195058,21600335,4,5:01,nan,Durant  Reverse Dunk (18 PTS) (Green 7 AST),92 - 80,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+195059,21600335,4,4:38,Ingles 25' 3PT Jump Shot (19 PTS) (Diaw 3 AST),nan,92 - 83,204060,Joe Ingles,UTA,2564,Boris Diaw,UTA,0,nan,nan,Made Shot ,nan
+195060,21600335,4,4:20,nan,Clark 27' 3PT Jump Shot (3 PTS) (Green 8 AST),95 - 83,203546,Ian Clark,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+195061,21600335,4,4:02,Gobert 3' Finger Roll Layup (13 PTS) (Exum 5 AST),nan,95 - 85,203497,Rudy Gobert,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+195062,21600335,4,3:50,Ingles P.FOUL (P4.T4) (M.McCutchen),nan,nan,204060,Joe Ingles,UTA,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+195063,21600335,4,3:50,SUB: Lyles FOR Diaw,nan,nan,2564,Boris Diaw,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+195064,21600335,4,3:41,nan,MISS Clark 7' Driving Floating Bank Jump Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195065,21600335,4,3:40,Lyles REBOUND (Off:1 Def:4),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195066,21600335,4,3:32,Ingles Bad Pass Turnover (P2.T14),Green STEAL (4 STL),nan,204060,Joe Ingles,UTA,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+195067,21600335,4,3:26,nan,MISS Curry 24' 3PT Running Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195068,21600335,4,3:25,Ingles REBOUND (Off:0 Def:4),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195069,21600335,4,3:22,Gobert  Running Dunk (15 PTS) (Ingles 2 AST),nan,95 - 87,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+195070,21600335,4,2:54,nan,Clark 24' 3PT Jump Shot (6 PTS) (Durant 4 AST),98 - 87,203546,Ian Clark,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+195071,21600335,4,2:45,Gobert Lost Ball Turnover (P2.T15),Durant STEAL (1 STL),nan,203497,Rudy Gobert,UTA,201142,Kevin Durant,GSW,0,nan,nan,Turnover ,Lost Ball
+195072,21600335,4,2:43,nan,Durant  Running Dunk (20 PTS),100 - 87,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+195073,21600335,4,2:43,Lyles S.FOUL (P3.PN) (M.Boland),nan,nan,1626168,Trey Lyles,UTA,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Shooting
+195074,21600335,4,2:43,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195075,21600335,4,2:43,nan,Durant Free Throw 1 of 1 (21 PTS),101 - 87,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+195076,21600335,4,2:34,MISS Ingles 24' 3PT Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195077,21600335,4,2:34,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195078,21600335,4,2:34,Lyles L.B.FOUL (P4.PN) (M.Boland),nan,nan,1626168,Trey Lyles,UTA,203110,Draymond Green,GSW,0,nan,nan,Foul ,Loose Ball
+195079,21600335,4,2:34,nan,MISS Green Free Throw 1 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195080,21600335,4,2:34,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+195081,21600335,4,2:34,nan,MISS Green Free Throw 2 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195082,21600335,4,2:33,Gobert REBOUND (Off:2 Def:14),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195083,21600335,4,2:26,nan,Curry S.FOUL (P2.T3) (M.Boland),nan,201939,Stephen Curry,GSW,202714,Shelvin Mack,UTA,0,nan,nan,Foul ,Shooting
+195084,21600335,4,2:26,Mack Free Throw 1 of 2 (18 PTS),nan,101 - 88,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195085,21600335,4,2:26,Mack Free Throw 2 of 2 (19 PTS),nan,101 - 89,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195086,21600335,4,2:06,Mack STEAL (2 STL),Curry Bad Pass Turnover (P3.T17),nan,201939,Stephen Curry,GSW,202714,Shelvin Mack,UTA,0,nan,nan,Turnover ,Bad Pass
+195087,21600335,4,1:46,MISS Mack 25' 3PT Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195088,21600335,4,1:46,Lyles REBOUND (Off:2 Def:4),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195089,21600335,4,1:37,MISS Mack 3' Layup,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195090,21600335,4,1:37,Exum REBOUND (Off:1 Def:2),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195091,21600335,4,1:34,MISS Exum 24' 3PT Jump Shot,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195092,21600335,4,1:33,nan,Curry REBOUND (Off:0 Def:4),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195093,21600335,4,1:29,nan,Curry 2' Running Layup (24 PTS),103 - 89,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+195094,21600335,4,1:17,Gobert  Dunk (17 PTS) (Ingles 3 AST),nan,103 - 91,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+195095,21600335,4,1:17,nan,Pachulia S.FOUL (P4.T4) (A.Smith),nan,2585,Zaza Pachulia,GSW,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Shooting
+195096,21600335,4,1:17,Gobert Free Throw 1 of 1 (18 PTS),nan,103 - 92,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+195097,21600335,4,1:05,Gobert S.FOUL (P2.PN) (A.Smith),nan,nan,203497,Rudy Gobert,UTA,2585,Zaza Pachulia,GSW,0,nan,nan,Foul ,Shooting
+195098,21600335,4,1:05,nan,MISS Pachulia Free Throw 1 of 2,nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195099,21600335,4,1:05,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+195100,21600335,4,1:05,nan,MISS Pachulia Free Throw 2 of 2,nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195101,21600335,4,1:05,Ingles REBOUND (Off:0 Def:5),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195102,21600335,4,1:05,JAZZ Timeout: Regular (Full 5 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+195103,21600335,4,1:05,nan,SUB: McCaw FOR Pachulia,nan,2585,Zaza Pachulia,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+195104,21600335,4,0:58,Gobert  Dunk (20 PTS) (Lyles 2 AST),nan,103 - 94,203497,Rudy Gobert,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Made Shot ,nan
+195105,21600335,4,0:49,Mack P.FOUL (P3.PN) (M.McCutchen),nan,nan,202714,Shelvin Mack,UTA,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+195106,21600335,4,0:49,nan,MISS Green Free Throw 1 of 2,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195107,21600335,4,0:49,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+195108,21600335,4,0:49,nan,Green Free Throw 2 of 2 (13 PTS),104 - 94,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195109,21600335,4,0:49,JAZZ Timeout: Short (Full 5 Short 2),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+195110,21600335,4,0:45,MISS Lyles 25' 3PT Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195111,21600335,4,0:44,nan,Curry REBOUND (Off:0 Def:5),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195112,21600335,4,0:23,nan,MISS Durant 14' Jump Shot,nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+195113,21600335,4,0:23,Gobert REBOUND (Off:2 Def:15),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+195114,21600335,4,0:15,Lyles  3PT Jump Shot (9 PTS) (Mack 5 AST),nan,104 - 97,1626168,Trey Lyles,UTA,202714,Shelvin Mack,UTA,0,nan,nan,Made Shot ,nan
+195115,21600335,4,0:09,Exum P.FOUL (P4.PN) (M.Boland),nan,nan,203957,Dante Exum,UTA,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+195116,21600335,4,0:09,nan,Curry Free Throw 1 of 2 (25 PTS),105 - 97,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195117,21600335,4,0:09,nan,Durant T.FOUL (P1.T4) (M.McCutchen),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+195118,21600335,4,0:09,Ingles Free Throw Technical (20 PTS),nan,105 - 98,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+195119,21600335,4,0:09,nan,Curry Free Throw 2 of 2 (26 PTS),106 - 98,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195120,21600335,4,0:09,JAZZ Timeout: Short (Full 5 Short 3),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+195121,21600335,4,0:03,nan,Durant P.FOUL (P2.PN) (M.McCutchen),nan,201142,Kevin Durant,GSW,204060,Joe Ingles,UTA,0,nan,nan,Foul ,Personal
+195122,21600335,4,0:03,MISS Ingles Free Throw 1 of 2,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+195123,21600335,4,0:03,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+195124,21600335,4,0:03,Ingles Free Throw 2 of 2 (21 PTS),nan,106 - 99,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+195125,21600335,4,0:00,nan,nan,106 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

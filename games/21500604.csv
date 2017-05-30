@@ -1,0 +1,154 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+75151,21500604,4,12:00,nan,nan,83 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+75152,21500604,4,11:43,Dudley Bad Pass Turnover (P3.T10),Jerebko STEAL (1 STL),nan,201162,Jared Dudley,WAS,201973,Jonas Jerebko,BOS,0,nan,nan,Turnover ,Bad Pass
+75153,21500604,4,11:37,nan,Bradley 18' Pullup Jump Shot (4 PTS) (Smart 2 AST),85 - 86,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+75154,21500604,4,11:17,Sessions Traveling Turnover (P1.T11),nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+75155,21500604,4,10:57,nan,MISS Jerebko 24' 3PT Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75156,21500604,4,10:56,Neal REBOUND (Off:0 Def:3),nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75157,21500604,4,10:48,Wall Bad Pass Turnover (P5.T12),Smart STEAL (1 STL),nan,202322,John Wall,WAS,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+75158,21500604,4,10:36,nan,MISS Jerebko  3PT Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75159,21500604,4,10:36,Wall REBOUND (Off:0 Def:5),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75160,21500604,4,10:28,Dudley 19' Jump Shot (12 PTS) (Wall 10 AST),nan,85 - 88,201162,Jared Dudley,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+75161,21500604,4,10:16,Neal P.FOUL (P2.T1) (T.Brothers),nan,nan,202390,Gary Neal,WAS,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+75162,21500604,4,10:09,Gortat S.FOUL (P4.T2) (J.Tiven),nan,nan,101162,Marcin Gortat,WAS,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+75163,21500604,4,10:09,nan,Olynyk Free Throw 1 of 2 (8 PTS),86 - 88,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75164,21500604,4,10:09,nan,Olynyk Free Throw 2 of 2 (9 PTS),87 - 88,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75165,21500604,4,9:55,Wall 17' Fadeaway Jumper (28 PTS),nan,87 - 90,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+75166,21500604,4,9:45,nan,MISS Smart 10' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75167,21500604,4,9:44,nan,Turner REBOUND (Off:2 Def:1),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75168,21500604,4,9:38,nan,MISS Bradley 23' Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75169,21500604,4,9:36,nan,Jerebko REBOUND (Off:2 Def:2),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75170,21500604,4,9:36,nan,Jerebko 2' Tip Layup Shot (3 PTS),89 - 90,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+75171,21500604,4,9:36,WIZARDS Timeout: Regular (Full 4 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75172,21500604,4,9:24,Wall Lost Ball Turnover (P6.T13),Bradley STEAL (2 STL),nan,202322,John Wall,WAS,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+75173,21500604,4,9:20,Gortat BLOCK (2 BLK),MISS Bradley 1' Layup,nan,202340,Avery Bradley,BOS,0,nan,nan,101162,Marcin Gortat,WAS,Missed Shot ,nan
+75174,21500604,4,9:19,nan,Jerebko REBOUND (Off:3 Def:2),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75175,21500604,4,9:18,nan,MISS Jerebko  Layup,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75176,21500604,4,9:18,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75177,21500604,4,9:14,nan,MISS Olynyk  3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75178,21500604,4,9:13,nan,Jerebko REBOUND (Off:4 Def:2),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75179,21500604,4,9:10,nan,Olynyk 1' Alley Oop Layup (11 PTS) (Turner 4 AST),91 - 90,203482,Kelly Olynyk,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+75180,21500604,4,8:51,nan,Smart S.FOUL (P3.T1) (T.Brothers),nan,203935,Marcus Smart,BOS,201196,Ramon Sessions,WAS,0,nan,nan,Foul ,Shooting
+75181,21500604,4,8:51,Sessions Free Throw 1 of 2 (3 PTS),nan,91 - 91,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75182,21500604,4,8:51,Sessions Free Throw 2 of 2 (4 PTS),nan,91 - 92,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75183,21500604,4,8:38,Gortat STEAL (1 STL),Smart Lost Ball Turnover (P3.T15),nan,203935,Marcus Smart,BOS,101162,Marcin Gortat,WAS,0,nan,nan,Turnover ,Lost Ball
+75184,21500604,4,8:33,Wall  Driving Dunk (30 PTS) (Gortat 1 AST),nan,91 - 94,202322,John Wall,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+75185,21500604,4,8:12,nan,Jerebko 1' Layup (5 PTS) (Turner 5 AST),93 - 94,201973,Jonas Jerebko,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+75186,21500604,4,7:46,MISS Dudley 26' 3PT Jump Shot,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75187,21500604,4,7:46,nan,Olynyk REBOUND (Off:0 Def:2),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75188,21500604,4,7:34,nan,MISS Turner 1' Layup,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75189,21500604,4,7:33,nan,Olynyk REBOUND (Off:1 Def:2),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75190,21500604,4,7:31,nan,MISS Olynyk 3' Layup,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75191,21500604,4,7:31,Wall REBOUND (Off:0 Def:6),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75192,21500604,4,7:27,Sessions 25' 3PT Pullup Jump Shot (7 PTS) (Wall 11 AST),nan,93 - 97,201196,Ramon Sessions,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+75193,21500604,4,7:25,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75194,21500604,4,7:09,Dudley S.FOUL (P4.T3) (T.Brothers),nan,nan,201162,Jared Dudley,WAS,202323,Evan Turner,BOS,0,nan,nan,Foul ,Shooting
+75195,21500604,4,7:09,nan,Turner Free Throw 1 of 2 (5 PTS),94 - 97,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75196,21500604,4,7:09,nan,SUB: Crowder FOR Smart,nan,203935,Marcus Smart,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+75197,21500604,4,7:09,nan,SUB: Thomas FOR Jerebko,nan,201973,Jonas Jerebko,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+75198,21500604,4,7:09,nan,Turner Free Throw 2 of 2 (6 PTS),95 - 97,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75199,21500604,4,6:53,Dudley 19' Jump Shot (14 PTS) (Wall 12 AST),nan,95 - 99,201162,Jared Dudley,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+75200,21500604,4,6:38,nan,MISS Crowder 25' 3PT Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75201,21500604,4,6:37,Gortat REBOUND (Off:3 Def:7),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75202,21500604,4,6:23,Sessions 5' Floating Jump Shot (9 PTS) (Dudley 3 AST),nan,95 - 101,201196,Ramon Sessions,WAS,201162,Jared Dudley,WAS,0,nan,nan,Made Shot ,nan
+75203,21500604,4,6:05,nan,Crowder 9' Floating Jump Shot (18 PTS) (Bradley 4 AST),97 - 101,203109,Jae Crowder,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+75204,21500604,4,5:47,MISS Wall 18' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75205,21500604,4,5:46,nan,Turner REBOUND (Off:2 Def:2),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75206,21500604,4,5:32,nan,Crowder 21' Jump Shot (20 PTS) (Olynyk 1 AST),99 - 101,203109,Jae Crowder,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+75207,21500604,4,5:06,Gortat 11' Fadeaway Jumper (16 PTS) (Sessions 2 AST),nan,99 - 103,101162,Marcin Gortat,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Made Shot ,nan
+75208,21500604,4,4:53,Sessions S.FOUL (P2.T4) (J.Tiven),nan,nan,201196,Ramon Sessions,WAS,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+75209,21500604,4,4:53,nan,Thomas Free Throw 1 of 2 (25 PTS),100 - 103,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75210,21500604,4,4:53,nan,SUB: Sullinger FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Substitution ,nan
+75211,21500604,4,4:53,nan,Thomas Free Throw 2 of 2 (26 PTS),101 - 103,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75212,21500604,4,4:42,nan,Bradley S.FOUL (P2.T2) (T.Brothers),nan,202340,Avery Bradley,BOS,201162,Jared Dudley,WAS,0,nan,nan,Foul ,Shooting
+75213,21500604,4,4:42,MISS Dudley Free Throw 1 of 2,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75214,21500604,4,4:42,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+75215,21500604,4,4:42,Dudley Free Throw 2 of 2 (15 PTS),nan,101 - 104,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75216,21500604,4,4:25,nan,Bradley 1' Driving Layup (6 PTS) (Sullinger 2 AST),103 - 104,202340,Avery Bradley,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+75217,21500604,4,4:20,SUB: Temple FOR Neal,nan,nan,202390,Gary Neal,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+75218,21500604,4,4:11,nan,Thomas P.FOUL (P2.T3) (T.Brothers),nan,202738,Isaiah Thomas,BOS,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Personal
+75219,21500604,4,4:04,MISS Sessions 8' Jump Shot,nan,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75220,21500604,4,4:04,Gortat REBOUND (Off:4 Def:7),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75221,21500604,4,4:04,MISS Gortat 2' Layup,nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75222,21500604,4,4:04,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75223,21500604,4,4:04,nan,Sullinger L.B.FOUL (P6.T4) (J.Tiven),nan,203096,Jared Sullinger,BOS,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Loose Ball
+75224,21500604,4,4:04,nan,SUB: Johnson FOR Sullinger,nan,203096,Jared Sullinger,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+75225,21500604,4,3:55,MISS Dudley 26' 3PT Jump Shot,nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75226,21500604,4,3:54,Wall REBOUND (Off:1 Def:6),nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75227,21500604,4,3:50,MISS Wall 15' Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75228,21500604,4,3:50,nan,Turner REBOUND (Off:2 Def:3),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75229,21500604,4,3:50,Dudley L.B.FOUL (P5.PN) (J.Tiven),nan,nan,201162,Jared Dudley,WAS,101161,Amir Johnson,BOS,0,nan,nan,Foul ,Loose Ball
+75230,21500604,4,3:50,nan,Johnson Free Throw 1 of 2 (3 PTS),104 - 104,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75231,21500604,4,3:50,nan,Johnson Free Throw 2 of 2 (4 PTS),105 - 104,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75232,21500604,4,3:26,WIZARDS Turnover: Shot Clock (T#14),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+75233,21500604,4,3:04,nan,MISS Bradley 26' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75234,21500604,4,3:03,Dudley REBOUND (Off:3 Def:3),nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75235,21500604,4,2:51,MISS Temple 27' 3PT Jump Shot,nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75236,21500604,4,2:50,nan,Thomas REBOUND (Off:0 Def:2),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75237,21500604,4,2:40,Temple P.FOUL (P3.PN) (T.Brothers),nan,nan,202066,Garrett Temple,WAS,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+75238,21500604,4,2:40,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+75239,21500604,4,2:40,SUB: Neal FOR Temple,nan,nan,202066,Garrett Temple,WAS,202390,Gary Neal,WAS,0,nan,nan,Substitution ,nan
+75240,21500604,4,2:40,nan,Thomas Free Throw 1 of 2 (27 PTS),106 - 104,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75241,21500604,4,2:40,nan,Thomas Free Throw 2 of 2 (28 PTS),107 - 104,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75242,21500604,4,2:29,Gortat 4' Driving Bank Shot (18 PTS) (Wall 13 AST),nan,107 - 106,101162,Marcin Gortat,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+75243,21500604,4,2:11,nan,Johnson  Dunk (6 PTS) (Crowder 5 AST),109 - 106,101161,Amir Johnson,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+75244,21500604,4,1:56,MISS Neal 27' 3PT Jump Shot,nan,nan,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75245,21500604,4,1:55,nan,Thomas REBOUND (Off:0 Def:3),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75246,21500604,4,1:38,nan,Thomas 19' Fadeaway Jumper (30 PTS) (Johnson 1 AST),111 - 106,202738,Isaiah Thomas,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+75247,21500604,4,1:38,WIZARDS Timeout: Regular (Full 5 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75248,21500604,4,1:38,nan,SUB: Smart FOR Thomas,nan,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+75249,21500604,4,1:27,MISS Wall 1' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75250,21500604,4,1:25,Dudley REBOUND (Off:4 Def:3),nan,nan,201162,Jared Dudley,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75251,21500604,4,1:23,Neal 5' Floating Jump Shot (9 PTS) (Dudley 4 AST),nan,111 - 108,202390,Gary Neal,WAS,201162,Jared Dudley,WAS,0,nan,nan,Made Shot ,nan
+75252,21500604,4,1:15,nan,Celtics Timeout: Short (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+75253,21500604,4,1:15,SUB: Nene FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,2403,Nene,WAS,0,nan,nan,Substitution ,nan
+75254,21500604,4,1:15,SUB: Temple FOR Neal,nan,nan,202390,Gary Neal,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+75255,21500604,4,1:15,nan,SUB: Thomas FOR Smart,nan,203935,Marcus Smart,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+75256,21500604,4,1:15,nan,SUB: Olynyk FOR Johnson,nan,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+75257,21500604,4,1:14,Wall STEAL (7 STL),Turner Lost Ball Turnover (P3.T16),nan,202323,Evan Turner,BOS,202322,John Wall,WAS,0,nan,nan,Turnover ,Lost Ball
+75258,21500604,4,1:11,Wall  Running Dunk (32 PTS),nan,111 - 110,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+75259,21500604,4,0:50,Temple BLOCK (1 BLK),MISS Thomas 4' Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,202066,Garrett Temple,WAS,Missed Shot ,nan
+75260,21500604,4,0:48,nan,Thomas REBOUND (Off:1 Def:3),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75261,21500604,4,0:43,nan,MISS Bradley 27' 3PT Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75262,21500604,4,0:42,nan,Crowder REBOUND (Off:2 Def:6),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75263,21500604,4,0:34,nan,Celtics Timeout: Short (Reg.4 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+75264,21500604,4,0:34,nan,SUB: Johnson FOR Olynyk,nan,203482,Kelly Olynyk,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+75265,21500604,4,0:30,nan,Bradley 27' 3PT Jump Shot (9 PTS) (Crowder 6 AST),114 - 110,202340,Avery Bradley,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+75266,21500604,4,0:30,nan,nan,nan,587,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+75267,21500604,4,0:30,WIZARDS Timeout: Short (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+75268,21500604,4,0:30,nan,SUB: Smart FOR Turner,nan,202323,Evan Turner,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+75269,21500604,4,0:30,SUB: Neal FOR Temple,nan,nan,202066,Garrett Temple,WAS,202390,Gary Neal,WAS,0,nan,nan,Substitution ,nan
+75270,21500604,4,0:22,nan,Johnson S.FOUL (P5.PN) (J.Tiven),nan,101161,Amir Johnson,BOS,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+75271,21500604,4,0:22,nan,nan,nan,593,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+75272,21500604,4,0:22,MISS Wall Free Throw 1 of 3,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+75273,21500604,4,0:22,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+75274,21500604,4,0:22,nan,Crowder T.FOUL (P1.PN) (T.Brothers),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Foul ,Technical
+75275,21500604,4,0:22,Neal Free Throw Technical (10 PTS),nan,114 - 111,202390,Gary Neal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+75276,21500604,4,0:22,Wall Free Throw 2 of 3 (33 PTS),nan,114 - 112,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+75277,21500604,4,0:22,SUB: Temple FOR Neal,nan,nan,202390,Gary Neal,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+75278,21500604,4,0:22,Wall Free Throw 3 of 3 (34 PTS),nan,114 - 113,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+75279,21500604,4,0:21,Dudley Personal Take Foul (P6.PN) (T.Brothers),nan,nan,201162,Jared Dudley,WAS,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Take
+75280,21500604,4,0:21,SUB: Neal FOR Dudley,nan,nan,201162,Jared Dudley,WAS,202390,Gary Neal,WAS,0,nan,nan,Substitution ,nan
+75281,21500604,4,0:21,nan,Thomas Free Throw 1 of 2 (31 PTS),115 - 113,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75282,21500604,4,0:21,nan,Thomas Free Throw 2 of 2 (32 PTS),116 - 113,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75283,21500604,4,0:21,WIZARDS Timeout: Short (Full 5 Short 2),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+75284,21500604,4,0:15,nan,Smart Personal Block Foul (P4.PN) (T.Ford),nan,203935,Marcus Smart,BOS,202322,John Wall,WAS,0,nan,nan,Foul ,Personal Block
+75285,21500604,4,0:15,Wall Free Throw 1 of 2 (35 PTS),nan,116 - 114,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75286,21500604,4,0:15,SUB: Oubre Jr. FOR Neal,nan,nan,202390,Gary Neal,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+75287,21500604,4,0:15,Wall Free Throw 2 of 2 (36 PTS),nan,116 - 115,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75288,21500604,4,0:15,Oubre Jr. Personal Take Foul (P3.PN) (J.Tiven),nan,nan,1626162,Kelly Oubre Jr.,WAS,101161,Amir Johnson,BOS,0,nan,nan,Foul ,Personal Take
+75289,21500604,4,0:15,nan,Johnson Free Throw 1 of 2 (7 PTS),117 - 115,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75290,21500604,4,0:15,SUB: Neal FOR Oubre Jr.,nan,nan,1626162,Kelly Oubre Jr.,WAS,202390,Gary Neal,WAS,0,nan,nan,Substitution ,nan
+75291,21500604,4,0:15,nan,MISS Johnson Free Throw 2 of 2,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75292,21500604,4,0:13,Temple REBOUND (Off:1 Def:2),nan,nan,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75293,21500604,4,0:13,nan,Smart P.FOUL (P5.PN) (T.Ford),nan,203935,Marcus Smart,BOS,202066,Garrett Temple,WAS,0,nan,nan,Foul ,Personal
+75294,21500604,4,0:13,Temple Free Throw 1 of 2 (11 PTS),nan,117 - 116,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75295,21500604,4,0:13,Temple Free Throw 2 of 2 (12 PTS),nan,117 - 117,202066,Garrett Temple,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75296,21500604,4,0:13,nan,Celtics Timeout: Regular (Reg.5 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75297,21500604,4,0:13,nan,SUB: Olynyk FOR Johnson,nan,101161,Amir Johnson,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+75298,21500604,4,0:13,SUB: Oubre Jr. FOR Neal,nan,nan,202390,Gary Neal,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+75299,21500604,4,0:03,nan,Crowder  Layup (22 PTS) (Smart 3 AST),119 - 117,203109,Jae Crowder,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+75300,21500604,4,0:00,MISS Wall 2' Layup,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75301,21500604,4,0:00,WIZARDS Rebound,nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75302,21500604,4,0:00,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+75303,21500604,4,0:00,nan,nan,119 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,140 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+153625,21600006,4,12:00,nan,nan,81 - 97,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+153626,21600006,4,11:39,nan,Harris 2' Driving Layup (11 PTS) (Scola 3 AST),83 - 97,203925,Joe Harris,BKN,2449,Luis Scola,BKN,0,nan,nan,Made Shot ,nan
+153627,21600006,4,11:14,Zeller 2' Cutting Layup Shot (7 PTS) (Bradley 5 AST),nan,83 - 99,203092,Tyler Zeller,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+153628,21600006,4,11:01,Jerebko STEAL (3 STL),Scola Bad Pass Turnover (P2.T15),nan,2449,Luis Scola,BKN,201973,Jonas Jerebko,BOS,0,nan,nan,Turnover ,Bad Pass
+153629,21600006,4,11:01,nan,Scola P.FOUL (P3.T1) (J.Orr),nan,2449,Luis Scola,BKN,201973,Jonas Jerebko,BOS,0,nan,nan,Foul ,Personal
+153630,21600006,4,10:35,Jerebko 5' Driving Floating Jump Shot (4 PTS),nan,83 - 101,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+153631,21600006,4,10:26,nan,MISS Kilpatrick 24' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153632,21600006,4,10:25,Zeller REBOUND (Off:1 Def:2),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153633,21600006,4,10:12,Rozier 21' Jump Shot (5 PTS),nan,83 - 103,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+153634,21600006,4,10:01,Zeller BLOCK (1 BLK),MISS Harris 3' Layup,nan,203925,Joe Harris,BKN,0,nan,nan,203092,Tyler Zeller,BOS,Missed Shot ,nan
+153635,21600006,4,10:01,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153636,21600006,4,9:54,Zeller BLOCK (2 BLK),MISS Hamilton 4' Jump Shot,nan,203120,Justin Hamilton,BKN,0,nan,nan,203092,Tyler Zeller,BOS,Missed Shot ,nan
+153637,21600006,4,9:53,nan,Hamilton REBOUND (Off:5 Def:1),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153638,21600006,4,9:49,nan,MISS Harris 25' 3PT Jump Shot,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153639,21600006,4,9:48,Jerebko REBOUND (Off:0 Def:1),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153640,21600006,4,9:37,Brown  Cutting Dunk Shot (7 PTS) (Jerebko 1 AST),nan,83 - 105,1627759,Jaylen Brown,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+153641,21600006,4,9:37,nan,Nets Timeout: Regular (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153642,21600006,4,9:13,nan,Kilpatrick 9' Driving Floating Jump Shot (13 PTS) (Vasquez 3 AST),85 - 105,203930,Sean Kilpatrick,BKN,202349,Greivis Vasquez,BKN,0,nan,nan,Made Shot ,nan
+153643,21600006,4,8:53,Brown 13' Turnaround Fadeaway Bank Jump Shot (9 PTS),nan,85 - 107,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+153644,21600006,4,8:40,nan,Scola 7' Turnaround Jump Shot (5 PTS) (Hamilton 2 AST),87 - 107,2449,Luis Scola,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Made Shot ,nan
+153645,21600006,4,8:19,Bradley 25' 3PT Jump Shot (15 PTS) (Jerebko 2 AST),nan,87 - 110,202340,Avery Bradley,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+153646,21600006,4,7:57,Brown BLOCK (2 BLK),MISS Harris 5' Jump Shot,nan,203925,Joe Harris,BKN,0,nan,nan,1627759,Jaylen Brown,BOS,Missed Shot ,nan
+153647,21600006,4,7:56,nan,Hamilton REBOUND (Off:6 Def:1),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153648,21600006,4,7:50,nan,Harris 5' Jump Shot (13 PTS),89 - 110,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153649,21600006,4,7:36,Zeller 18' Jump Shot (9 PTS) (Jerebko 3 AST),nan,89 - 112,203092,Tyler Zeller,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+153650,21600006,4,7:17,nan,Scola  3PT Jump Shot (8 PTS) (Harris 2 AST),92 - 112,2449,Luis Scola,BKN,203925,Joe Harris,BKN,0,nan,nan,Made Shot ,nan
+153651,21600006,4,7:08,nan,Vasquez P.FOUL (P3.T2) (J.Orr),nan,202349,Greivis Vasquez,BKN,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Personal
+153652,21600006,4,7:08,nan,SUB: Lopez FOR Scola,nan,2449,Luis Scola,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+153653,21600006,4,7:08,SUB: Green FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,101123,Gerald Green,BOS,0,nan,nan,Substitution ,nan
+153654,21600006,4,7:08,nan,SUB: Lin FOR Harris,nan,203925,Joe Harris,BKN,202391,Jeremy Lin,BKN,0,nan,nan,Substitution ,nan
+153655,21600006,4,6:51,MISS Bradley 1' Driving Reverse Layup,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153656,21600006,4,6:51,nan,Hamilton REBOUND (Off:6 Def:2),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153657,21600006,4,6:42,nan,Lin 1' Driving Layup (17 PTS),94 - 112,202391,Jeremy Lin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153658,21600006,4,6:42,Bradley S.FOUL (P4.T1) (B.Forte),nan,nan,202340,Avery Bradley,BOS,202391,Jeremy Lin,BKN,0,nan,nan,Foul ,Shooting
+153659,21600006,4,6:42,nan,Lin Free Throw 1 of 1 (18 PTS),95 - 112,202391,Jeremy Lin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+153660,21600006,4,6:27,Green 7' Turnaround Bank Shot (9 PTS) (Zeller 3 AST),nan,95 - 114,101123,Gerald Green,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+153661,21600006,4,6:14,nan,MISS Kilpatrick 7' Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153662,21600006,4,6:13,Bradley REBOUND (Off:2 Def:4),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153663,21600006,4,5:56,MISS Jerebko 28' 3PT Jump Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153664,21600006,4,5:54,Zeller REBOUND (Off:2 Def:2),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153665,21600006,4,5:41,Zeller  Cutting Dunk Shot (11 PTS) (Green 2 AST),nan,95 - 116,203092,Tyler Zeller,BOS,101123,Gerald Green,BOS,0,nan,nan,Made Shot ,nan
+153666,21600006,4,5:28,nan,Hamilton  Cutting Dunk Shot (19 PTS) (Kilpatrick 2 AST),97 - 116,203120,Justin Hamilton,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+153667,21600006,4,5:28,Green S.FOUL (P1.T2) (M.Davis),nan,nan,101123,Gerald Green,BOS,203120,Justin Hamilton,BKN,0,nan,nan,Foul ,Shooting
+153668,21600006,4,5:28,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+153669,21600006,4,5:28,SUB: Brown FOR Bradley,nan,nan,202340,Avery Bradley,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Substitution ,nan
+153670,21600006,4,5:28,nan,SUB: Bogdanovic FOR Kilpatrick,nan,203930,Sean Kilpatrick,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+153671,21600006,4,5:28,nan,SUB: Hollis-Jefferson FOR Vasquez,nan,202349,Greivis Vasquez,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+153672,21600006,4,5:28,nan,MISS Hamilton Free Throw 1 of 1,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+153673,21600006,4,5:27,Brown REBOUND (Off:0 Def:2),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153674,21600006,4,5:10,MISS Jerebko 7' Driving Bank Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153675,21600006,4,5:09,nan,Hamilton REBOUND (Off:6 Def:3),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153676,21600006,4,5:04,nan,MISS Lin 25' 3PT Pullup Jump Shot,nan,202391,Jeremy Lin,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153677,21600006,4,5:03,Green REBOUND (Off:0 Def:4),nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153678,21600006,4,4:45,MISS Brown 15' Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153679,21600006,4,4:44,nan,Hamilton REBOUND (Off:6 Def:4),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153680,21600006,4,4:42,Rozier P.FOUL (P2.T3) (M.Davis),nan,nan,1626179,Terry Rozier,BOS,202391,Jeremy Lin,BKN,0,nan,nan,Foul ,Personal
+153681,21600006,4,4:42,nan,SUB: Booker FOR Hamilton,nan,203120,Justin Hamilton,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+153682,21600006,4,4:30,Zeller S.FOUL (P2.T4) (J.Orr),nan,nan,203092,Tyler Zeller,BOS,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+153683,21600006,4,4:30,nan,Lopez Free Throw 1 of 2 (6 PTS),98 - 116,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153684,21600006,4,4:30,nan,Lopez Free Throw 2 of 2 (7 PTS),99 - 116,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153685,21600006,4,4:18,Zeller 20' Jump Shot (13 PTS) (Rozier 3 AST),nan,99 - 118,203092,Tyler Zeller,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+153686,21600006,4,4:07,Brown S.FOUL (P1.PN) (J.Orr),nan,nan,1627759,Jaylen Brown,BOS,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+153687,21600006,4,4:07,nan,Hollis-Jefferson Free Throw 1 of 2 (4 PTS),100 - 118,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153688,21600006,4,4:07,nan,Hollis-Jefferson Free Throw 2 of 2 (5 PTS),101 - 118,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153689,21600006,4,3:57,MISS Rozier 6' Jump Shot,Lin BLOCK (1 BLK),nan,1626179,Terry Rozier,BOS,0,nan,nan,202391,Jeremy Lin,BKN,Missed Shot ,nan
+153690,21600006,4,3:57,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153691,21600006,4,3:57,nan,SUB: McCullough FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,1626191,Chris McCullough,BKN,0,nan,nan,Substitution ,nan
+153692,21600006,4,3:57,nan,SUB: Whitehead FOR Lopez,nan,201572,Brook Lopez,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+153693,21600006,4,3:57,nan,SUB: Harris FOR Lin,nan,202391,Jeremy Lin,BKN,203925,Joe Harris,BKN,0,nan,nan,Substitution ,nan
+153694,21600006,4,3:51,MISS Green 8' Jump Shot,Harris BLOCK (1 BLK),nan,101123,Gerald Green,BOS,0,nan,nan,203925,Joe Harris,BKN,Missed Shot ,nan
+153695,21600006,4,3:50,Green REBOUND (Off:1 Def:4),nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153696,21600006,4,3:47,MISS Green 5' Fadeaway Jumper,nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153697,21600006,4,3:46,nan,Harris REBOUND (Off:0 Def:3),nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153698,21600006,4,3:37,nan,McCullough 11' Driving Floating Jump Shot (2 PTS),103 - 118,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153699,21600006,4,3:32,Jerebko Out of Bounds - Bad Pass Turnover Turnover (P1.T15),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+153700,21600006,4,3:26,nan,Harris 25' 3PT Jump Shot (16 PTS) (Booker 5 AST),106 - 118,203925,Joe Harris,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+153701,21600006,4,3:25,CELTICS Timeout: Regular (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153702,21600006,4,3:17,nan,Whitehead P.FOUL (P1.T3) (M.Davis),nan,1627785,Isaiah Whitehead,BKN,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Personal
+153703,21600006,4,3:06,Green Traveling Turnover (P1.T16),nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+153704,21600006,4,2:56,nan,Booker 1' Driving Layup (6 PTS) (Harris 3 AST),108 - 118,202344,Trevor Booker,BKN,203925,Joe Harris,BKN,0,nan,nan,Made Shot ,nan
+153705,21600006,4,2:40,MISS Green 24' 3PT Jump Shot,nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153706,21600006,4,2:39,nan,Bogdanovic REBOUND (Off:1 Def:3),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153707,21600006,4,2:31,Jerebko STEAL (4 STL),Harris Bad Pass Turnover (P3.T16),nan,203925,Joe Harris,BKN,201973,Jonas Jerebko,BOS,0,nan,nan,Turnover ,Bad Pass
+153708,21600006,4,2:26,MISS Rozier 4' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153709,21600006,4,2:23,nan,Harris REBOUND (Off:0 Def:4),nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153710,21600006,4,2:19,nan,MISS Bogdanovic 1' Layup,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153711,21600006,4,2:17,nan,McCullough REBOUND (Off:1 Def:0),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153712,21600006,4,2:10,nan,Bogdanovic  Layup (16 PTS),110 - 118,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153713,21600006,4,2:07,CELTICS Timeout: Short (Full 4 Short 2),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153714,21600006,4,2:07,SUB: Bradley FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+153715,21600006,4,2:07,SUB: Thomas FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+153716,21600006,4,2:07,SUB: Crowder FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+153717,21600006,4,2:07,SUB: Horford FOR Green,nan,nan,101123,Gerald Green,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+153718,21600006,4,2:07,SUB: Johnson FOR Zeller,nan,nan,203092,Tyler Zeller,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+153719,21600006,4,1:47,MISS Crowder 28' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153720,21600006,4,1:46,nan,Whitehead REBOUND (Off:0 Def:1),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153721,21600006,4,1:37,nan,MISS Bogdanovic 21' Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153722,21600006,4,1:36,Thomas REBOUND (Off:0 Def:6),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153723,21600006,4,1:18,MISS Bradley 19' Jump Shot,Harris BLOCK (2 BLK),nan,202340,Avery Bradley,BOS,0,nan,nan,203925,Joe Harris,BKN,Missed Shot ,nan
+153724,21600006,4,1:17,Bradley REBOUND (Off:3 Def:4),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153725,21600006,4,1:16,MISS Bradley 1' Layup,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153726,21600006,4,1:15,Bradley REBOUND (Off:4 Def:4),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153727,21600006,4,1:14,Bradley  Putback Layup (17 PTS),nan,110 - 120,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+153728,21600006,4,1:14,nan,Nets Timeout: Short (Reg.4 Short 2),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153729,21600006,4,1:10,nan,MISS McCullough 22' Jump Shot,nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153730,21600006,4,1:09,nan,Bogdanovic REBOUND (Off:2 Def:3),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153731,21600006,4,1:08,nan,Bogdanovic  Putback Layup (18 PTS),112 - 120,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153732,21600006,4,1:05,Crowder Bad Pass Turnover (P2.T17),Booker STEAL (3 STL),nan,203109,Jae Crowder,BOS,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Bad Pass
+153733,21600006,4,1:04,nan,Booker  Driving Dunk (8 PTS),114 - 120,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+153734,21600006,4,1:04,CELTICS Timeout: Short (Full 4 Short 3),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153735,21600006,4,0:55,MISS Thomas 3' Driving Finger Roll Layup,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153736,21600006,4,0:54,Horford REBOUND (Off:1 Def:4),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153737,21600006,4,0:52,Horford Step Out of Bounds Turnover (P2.T18),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+153738,21600006,4,0:52,nan,nan,nan,541,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+153739,21600006,4,0:52,SUB: Rozier FOR Johnson,nan,nan,101161,Amir Johnson,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+153740,21600006,4,0:46,nan,Bogdanovic 27' 3PT Jump Shot (21 PTS) (Whitehead 1 AST),117 - 120,202711,Bojan Bogdanovic,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+153741,21600006,4,0:29,Thomas Bad Pass Turnover (P3.T19),Harris STEAL (2 STL),nan,202738,Isaiah Thomas,BOS,203925,Joe Harris,BKN,0,nan,nan,Turnover ,Bad Pass
+153742,21600006,4,0:20,nan,MISS Bogdanovic 26' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153743,21600006,4,0:19,nan,McCullough REBOUND (Off:2 Def:0),nan,1626191,Chris McCullough,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153744,21600006,4,0:17,nan,Nets Timeout: Regular (Reg.5 Short 2),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+153745,21600006,4,0:17,nan,SUB: Lopez FOR Booker,nan,202344,Trevor Booker,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+153746,21600006,4,0:17,nan,SUB: Hamilton FOR McCullough,nan,1626191,Chris McCullough,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+153747,21600006,4,0:17,nan,SUB: Lin FOR Whitehead,nan,1627785,Isaiah Whitehead,BKN,202391,Jeremy Lin,BKN,0,nan,nan,Substitution ,nan
+153748,21600006,4,0:15,nan,MISS Hamilton  3PT Jump Shot,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153749,21600006,4,0:13,Bradley REBOUND (Off:4 Def:5),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153750,21600006,4,0:13,nan,Bogdanovic Personal Take Foul (P2.T4) (M.Davis),nan,202711,Bojan Bogdanovic,BKN,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Personal Take
+153751,21600006,4,0:13,nan,SUB: Booker FOR Lopez,nan,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+153752,21600006,4,0:13,nan,SUB: Hollis-Jefferson FOR Bogdanovic,nan,202711,Bojan Bogdanovic,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+153753,21600006,4,0:13,nan,SUB: Whitehead FOR Lin,nan,202391,Jeremy Lin,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+153754,21600006,4,0:11,nan,Hollis-Jefferson Personal Take Foul (P1.PN) (M.Davis),nan,1626178,Rondae Hollis-Jefferson,BKN,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Take
+153755,21600006,4,0:11,Thomas Free Throw 1 of 2 (24 PTS),nan,117 - 121,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+153756,21600006,4,0:11,nan,SUB: Lopez FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+153757,21600006,4,0:11,Thomas Free Throw 2 of 2 (25 PTS),nan,117 - 122,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+153758,21600006,4,0:11,nan,Nets Timeout: Short (Reg.5 Short 3),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+153759,21600006,4,0:07,nan,MISS Harris 27' 3PT Jump Shot,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153760,21600006,4,0:06,nan,Lopez REBOUND (Off:2 Def:3),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153761,21600006,4,0:01,nan,MISS Harris 26' 3PT Jump Shot,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+153762,21600006,4,0:01,Crowder REBOUND (Off:0 Def:5),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+153763,21600006,4,0:00,nan,nan,117 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

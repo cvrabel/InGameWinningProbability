@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+102876,21500821,4,12:00,nan,nan,81 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+102877,21500821,4,11:48,Rubio P.FOUL (P2.T1) (R.Mott),nan,nan,201937,Ricky Rubio,MIN,204038,Langston Galloway,NYK,0,nan,nan,Foul ,Personal
+102878,21500821,4,11:42,nan,Williams 17' Jump Shot (4 PTS) (Thomas 1 AST),83 - 61,202682,Derrick Williams,NYK,202498,Lance Thomas,NYK,0,nan,nan,Made Shot ,nan
+102879,21500821,4,11:24,MISS Towns 1' Layup,O'Quinn BLOCK (2 BLK),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+102880,21500821,4,11:22,nan,Afflalo REBOUND (Off:0 Def:4),nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102881,21500821,4,11:11,nan,Thomas  Cutting Dunk Shot (11 PTS) (O'Quinn 2 AST),85 - 61,202498,Lance Thomas,NYK,203124,Kyle O'Quinn,NYK,0,nan,nan,Made Shot ,nan
+102882,21500821,4,10:55,LaVine 19' Pullup Jump Shot (8 PTS) (Towns 2 AST),nan,85 - 63,203897,Zach LaVine,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+102883,21500821,4,10:28,Martin STEAL (1 STL),Afflalo Lost Ball Turnover (P3.T12),nan,201167,Arron Afflalo,NYK,2755,Kevin Martin,MIN,0,nan,nan,Turnover ,Lost Ball
+102884,21500821,4,10:24,Towns 1' Layup (21 PTS) (Rubio 14 AST),nan,85 - 65,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+102885,21500821,4,10:24,nan,O'Quinn S.FOUL (P3.T1) (E.Dalen),nan,203124,Kyle O'Quinn,NYK,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+102886,21500821,4,10:24,Towns Free Throw 1 of 1 (22 PTS),nan,85 - 66,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+102887,21500821,4,10:07,nan,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+102888,21500821,4,9:51,Rubio 24' 3PT Jump Shot (6 PTS) (Towns 3 AST),nan,85 - 69,201937,Ricky Rubio,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+102889,21500821,4,9:25,nan,MISS Williams 16' Turnaround Jump Shot,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102890,21500821,4,9:23,Towns REBOUND (Off:2 Def:5),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102891,21500821,4,9:14,nan,Afflalo S.FOUL (P1.T2) (R.Mott),nan,201167,Arron Afflalo,NYK,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Shooting
+102892,21500821,4,9:14,Rubio Free Throw 1 of 2 (7 PTS),nan,85 - 70,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102893,21500821,4,9:14,nan,SUB: Anthony FOR Thomas,nan,202498,Lance Thomas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+102894,21500821,4,9:14,Rubio Free Throw 2 of 2 (8 PTS),nan,85 - 71,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102895,21500821,4,8:56,nan,Anthony 15' Pullup Jump Shot (22 PTS),87 - 71,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102896,21500821,4,8:46,MISS Rubio 15' Fadeaway Jumper,nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102897,21500821,4,8:44,nan,Galloway REBOUND (Off:0 Def:4),nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102898,21500821,4,8:38,nan,Galloway 10' Floating Jump Shot (4 PTS) (Afflalo 3 AST),89 - 71,204038,Langston Galloway,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+102899,21500821,4,8:16,MISS Towns 1' Finger Roll Layup,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102900,21500821,4,8:14,Towns REBOUND (Off:3 Def:5),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102901,21500821,4,8:14,Towns 1' Tip Layup Shot (24 PTS),nan,89 - 73,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102902,21500821,4,7:56,nan,MISS O'Quinn 13' Jump Shot,nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102903,21500821,4,7:54,Muhammad REBOUND (Off:0 Def:2),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102904,21500821,4,7:45,MISS Towns 9' Jump Shot,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102905,21500821,4,7:44,nan,O'Quinn REBOUND (Off:0 Def:1),nan,203124,Kyle O'Quinn,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102906,21500821,4,7:26,nan,MISS Anthony 15' Jump Shot,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102907,21500821,4,7:25,Martin REBOUND (Off:1 Def:2),nan,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102908,21500821,4,7:17,MISS Muhammad 2' Reverse Layup,O'Quinn BLOCK (3 BLK),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,203124,Kyle O'Quinn,NYK,Missed Shot ,nan
+102909,21500821,4,7:15,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102910,21500821,4,7:15,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102911,21500821,4,7:15,SUB: Wiggins FOR Martin,nan,nan,2755,Kevin Martin,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+102912,21500821,4,7:15,nan,SUB: Calderon FOR Afflalo,nan,201167,Arron Afflalo,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+102913,21500821,4,7:15,nan,SUB: Lopez FOR O'Quinn,nan,203124,Kyle O'Quinn,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+102914,21500821,4,7:07,MISS Towns 19' Jump Shot,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102915,21500821,4,7:06,nan,Anthony REBOUND (Off:2 Def:7),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102916,21500821,4,6:49,nan,Galloway 14' Pullup Jump Shot (6 PTS),91 - 73,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102917,21500821,4,6:30,Wiggins 24' 3PT Jump Shot (16 PTS) (Towns 4 AST),nan,91 - 76,203952,Andrew Wiggins,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+102918,21500821,4,6:13,nan,MISS Galloway 25' 3PT Jump Shot,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102919,21500821,4,6:12,Wiggins REBOUND (Off:1 Def:4),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102920,21500821,4,6:03,Wiggins 1' Driving Finger Roll Layup (18 PTS),nan,91 - 78,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102921,21500821,4,5:43,nan,Anthony 20' Pullup Jump Shot (24 PTS),93 - 78,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102922,21500821,4,5:23,MISS LaVine 25' 3PT Jump Shot,nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102923,21500821,4,5:21,nan,Lopez REBOUND (Off:7 Def:8),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102924,21500821,4,5:01,nan,MISS Calderon 24' 3PT Jump Shot,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102925,21500821,4,5:00,Muhammad REBOUND (Off:0 Def:3),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102926,21500821,4,4:52,LaVine 14' Pullup Bank Shot (10 PTS),nan,93 - 80,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102927,21500821,4,4:40,Wiggins P.FOUL (P1.T2) (T.Ford),nan,nan,203952,Andrew Wiggins,MIN,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Personal
+102928,21500821,4,4:40,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102929,21500821,4,4:40,nan,SUB: Afflalo FOR Galloway,nan,204038,Langston Galloway,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Substitution ,nan
+102930,21500821,4,4:40,nan,SUB: Thomas FOR Williams,nan,202682,Derrick Williams,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+102931,21500821,4,4:30,nan,Anthony 17' Pullup Jump Shot (26 PTS),95 - 80,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102932,21500821,4,4:16,MISS Wiggins 17' Pullup Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102933,21500821,4,4:15,nan,Anthony REBOUND (Off:2 Def:8),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102934,21500821,4,3:58,nan,Anthony 18' Step Back Jump Shot (28 PTS),97 - 80,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102935,21500821,4,3:38,Wiggins  Driving Dunk (20 PTS),nan,97 - 82,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102936,21500821,4,3:28,nan,Lopez OFF.Foul (P2) (E.Dalen),nan,201577,Robin Lopez,NYK,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Offensive
+102937,21500821,4,3:28,nan,Lopez Foul Turnover (P4.T14),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+102938,21500821,4,3:20,nan,Lopez S.FOUL (P3.T3) (T.Ford),nan,201577,Robin Lopez,NYK,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+102939,21500821,4,3:20,Wiggins Free Throw 1 of 2 (21 PTS),nan,97 - 83,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102940,21500821,4,3:20,Wiggins Free Throw 2 of 2 (22 PTS),nan,97 - 84,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102941,21500821,4,3:03,Rubio STEAL (2 STL),Calderon Bad Pass Turnover (P2.T15),nan,101181,Jose Calderon,NYK,201937,Ricky Rubio,MIN,0,nan,nan,Turnover ,Bad Pass
+102942,21500821,4,2:59,LaVine  Running Dunk (12 PTS) (Rubio 15 AST),nan,97 - 86,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+102943,21500821,4,2:42,Wiggins S.FOUL (P2.T3) (T.Ford),nan,nan,203952,Andrew Wiggins,MIN,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+102944,21500821,4,2:42,nan,Knicks Timeout: Regular (Reg.4 Short 0),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102945,21500821,4,2:42,nan,Anthony Free Throw 1 of 2 (29 PTS),98 - 86,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102946,21500821,4,2:42,nan,Anthony Free Throw 2 of 2 (30 PTS),99 - 86,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102947,21500821,4,2:33,MISS LaVine 27' 3PT Jump Shot,nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102948,21500821,4,2:32,nan,Anthony REBOUND (Off:2 Def:9),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102949,21500821,4,2:09,nan,Lopez 9' Turnaround Hook Shot (24 PTS),101 - 86,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102950,21500821,4,1:57,nan,Lopez S.FOUL (P4.T4) (E.Dalen),nan,201577,Robin Lopez,NYK,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+102951,21500821,4,1:57,Wiggins Free Throw 1 of 2 (23 PTS),nan,101 - 87,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102952,21500821,4,1:57,Wiggins Free Throw 2 of 2 (24 PTS),nan,101 - 88,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102953,21500821,4,1:35,nan,MISS Afflalo 1' Driving Layup,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102954,21500821,4,1:34,nan,Lopez REBOUND (Off:8 Def:8),nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102955,21500821,4,1:34,nan,Lopez 1' Tip Layup Shot (26 PTS),103 - 88,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+102956,21500821,4,1:23,Muhammad 7' Hook Shot (18 PTS),nan,103 - 90,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102957,21500821,4,1:12,Rubio STEAL (3 STL),Lopez Lost Ball Turnover (P5.T16),nan,201577,Robin Lopez,NYK,201937,Ricky Rubio,MIN,0,nan,nan,Turnover ,Lost Ball
+102958,21500821,4,1:11,nan,Lopez P.FOUL (P5.PN) (T.Ford),nan,201577,Robin Lopez,NYK,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal
+102959,21500821,4,1:11,Rubio Free Throw 1 of 2 (9 PTS),nan,103 - 91,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102960,21500821,4,1:11,MISS Rubio Free Throw 2 of 2,nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102961,21500821,4,1:10,nan,Thomas REBOUND (Off:1 Def:4),nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102962,21500821,4,0:52,nan,MISS Thomas  3PT Jump Shot,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102963,21500821,4,0:51,LaVine REBOUND (Off:0 Def:5),nan,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102964,21500821,4,0:46,LaVine  Running Layup (14 PTS),nan,103 - 93,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+102965,21500821,4,0:24,Wiggins STEAL (2 STL),Anthony Lost Ball Turnover (P2.T17),nan,2546,Carmelo Anthony,NYK,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Lost Ball
+102966,21500821,4,0:21,Muhammad  Dunk (20 PTS) (Rubio 16 AST),nan,103 - 95,203498,Shabazz Muhammad,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+102967,21500821,4,0:00,nan,nan,103 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

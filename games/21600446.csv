@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+208699,21600446,4,12:00,nan,nan,88 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+208700,21600446,4,11:46,nan,West S.FOUL (P2.T1) (J.Capers),nan,2561,David West,GSW,202699,Tobias Harris,DET,0,nan,nan,Foul ,Shooting
+208701,21600446,4,11:46,Harris Free Throw 1 of 2 (20 PTS),nan,88 - 85,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208702,21600446,4,11:46,Harris Free Throw 2 of 2 (21 PTS),nan,88 - 86,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208703,21600446,4,11:37,Johnson STEAL (1 STL),Thompson Bad Pass Turnover (P3.T17),nan,202691,Klay Thompson,GSW,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+208704,21600446,4,11:35,nan,Durant S.FOUL (P4.T2) (B.Taylor),nan,201142,Kevin Durant,GSW,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+208705,21600446,4,11:35,MISS Johnson Free Throw 1 of 2,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208706,21600446,4,11:35,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+208707,21600446,4,11:35,Johnson Free Throw 2 of 2 (4 PTS),nan,88 - 87,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208708,21600446,4,11:23,Johnson P.FOUL (P1.T1) (J.Capers),nan,nan,1626169,Stanley Johnson,DET,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+208709,21600446,4,11:15,nan,Livingston 1' Layup (4 PTS) (West 3 AST),90 - 87,2733,Shaun Livingston,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+208710,21600446,4,10:56,Caldwell-Pope  Driving Layup (18 PTS),nan,90 - 89,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+208711,21600446,4,10:47,nan,Durant Step Out of Bounds Turnover (P3.T18),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+208712,21600446,4,10:21,MISS Smith 16' Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208713,21600446,4,10:21,Baynes REBOUND (Off:1 Def:0),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208714,21600446,4,10:18,Baynes 1' Layup (4 PTS),nan,90 - 91,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+208715,21600446,4,10:07,nan,MISS Livingston 11' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208716,21600446,4,10:06,Harris REBOUND (Off:0 Def:6),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208717,21600446,4,10:04,Smith Lost Ball Turnover (P2.T11),Livingston STEAL (2 STL),nan,202397,Ish Smith,DET,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Lost Ball
+208718,21600446,4,10:04,Smith P.FOUL (P1.T2) (B.Taylor),nan,nan,202397,Ish Smith,DET,201142,Kevin Durant,GSW,0,nan,nan,Foul ,Personal
+208719,21600446,4,9:51,nan,MISS Thompson 24' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208720,21600446,4,9:51,Harris REBOUND (Off:0 Def:7),nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208721,21600446,4,9:42,Baynes 1' Layup (6 PTS) (Smith 3 AST),nan,90 - 93,203382,Aron Baynes,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+208722,21600446,4,9:42,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+208723,21600446,4,9:30,Johnson STEAL (2 STL),Iguodala Bad Pass Turnover (P2.T19),nan,2738,Andre Iguodala,GSW,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+208724,21600446,4,9:24,Harris  Dunk (23 PTS) (Johnson 1 AST),nan,90 - 95,202699,Tobias Harris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+208725,21600446,4,9:01,nan,West 18' Jump Shot (4 PTS) (Livingston 1 AST),92 - 95,2561,David West,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+208726,21600446,4,8:35,PISTONS Turnover: Shot Clock (T#12),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+208727,21600446,4,8:35,nan,SUB: Clark FOR Iguodala,nan,2738,Andre Iguodala,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+208728,21600446,4,8:20,nan,Durant 10' Jump Shot (27 PTS) (Clark 1 AST),94 - 95,201142,Kevin Durant,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+208729,21600446,4,8:05,MISS Harris 26' 3PT Jump Shot,nan,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208730,21600446,4,8:05,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208731,21600446,4,8:05,SUB: Marc Morris FOR Harris,nan,nan,202699,Tobias Harris,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+208732,21600446,4,7:50,nan,Durant 15' Running Jump Shot (29 PTS) (Livingston 2 AST),96 - 95,201142,Kevin Durant,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+208733,21600446,4,7:35,MISS Marc Morris 18' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208734,21600446,4,7:35,Caldwell-Pope REBOUND (Off:1 Def:0),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208735,21600446,4,7:24,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208736,21600446,4,7:24,nan,Durant REBOUND (Off:0 Def:7),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208737,21600446,4,7:19,Marc Morris STEAL (2 STL),Durant Bad Pass Turnover (P4.T20),nan,201142,Kevin Durant,GSW,202694,Marcus Morris,DET,0,nan,nan,Turnover ,Bad Pass
+208738,21600446,4,7:14,nan,Durant S.FOUL (P5.T3) (T.Brown),nan,201142,Kevin Durant,GSW,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+208739,21600446,4,7:14,Johnson Free Throw 1 of 2 (5 PTS),nan,96 - 96,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208740,21600446,4,7:14,nan,SUB: Green FOR Durant,nan,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+208741,21600446,4,7:14,SUB: Leuer FOR Caldwell-Pope,nan,nan,203484,Kentavious Caldwell-Pope,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+208742,21600446,4,7:14,MISS Johnson Free Throw 2 of 2,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208743,21600446,4,7:12,nan,Livingston REBOUND (Off:0 Def:1),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208744,21600446,4,6:56,nan,West 17' Jump Shot (6 PTS) (Thompson 1 AST),98 - 96,2561,David West,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+208745,21600446,4,6:39,Smith 25' 3PT Jump Shot (9 PTS),nan,98 - 99,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+208746,21600446,4,6:24,nan,Clark 1' Layup (4 PTS) (West 4 AST),100 - 99,203546,Ian Clark,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+208747,21600446,4,6:03,MISS Marc Morris 16' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208748,21600446,4,6:03,Baynes REBOUND (Off:2 Def:0),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208749,21600446,4,5:59,MISS Baynes 1' Tip Layup Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208750,21600446,4,5:58,nan,Green REBOUND (Off:0 Def:8),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208751,21600446,4,5:50,nan,Clark  Layup (6 PTS) (West 5 AST),102 - 99,203546,Ian Clark,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+208752,21600446,4,5:29,MISS Johnson 25' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208753,21600446,4,5:28,nan,Green REBOUND (Off:0 Def:9),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208754,21600446,4,5:18,Johnson STEAL (3 STL),Clark Bad Pass Turnover (P1.T21),nan,203546,Ian Clark,GSW,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+208755,21600446,4,5:10,MISS Smith 14' Pullup Jump Shot,nan,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208756,21600446,4,5:08,Leuer REBOUND (Off:1 Def:6),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208757,21600446,4,5:02,nan,West P.FOUL (P3.T4) (J.Capers),nan,2561,David West,GSW,202397,Ish Smith,DET,0,nan,nan,Foul ,Personal
+208758,21600446,4,5:02,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+208759,21600446,4,5:02,SUB: Jackson FOR Smith,nan,nan,202397,Ish Smith,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+208760,21600446,4,5:02,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+208761,21600446,4,5:02,nan,SUB: Pachulia FOR Thompson,nan,202691,Klay Thompson,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+208762,21600446,4,5:02,nan,SUB: Curry FOR West,nan,2561,David West,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+208763,21600446,4,5:02,nan,SUB: Iguodala FOR Livingston,nan,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+208764,21600446,4,5:02,SUB: Caldwell-Pope FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+208765,21600446,4,4:53,Caldwell-Pope 1' Layup (20 PTS) (Jackson 5 AST),nan,102 - 101,203484,Kentavious Caldwell-Pope,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+208766,21600446,4,4:25,Marc Morris STEAL (3 STL),Curry Bad Pass Turnover (P5.T22),nan,201939,Stephen Curry,GSW,202694,Marcus Morris,DET,0,nan,nan,Turnover ,Bad Pass
+208767,21600446,4,4:11,Caldwell-Pope 26' 3PT Jump Shot (23 PTS) (Jackson 6 AST),nan,102 - 104,203484,Kentavious Caldwell-Pope,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+208768,21600446,4,3:48,nan,Curry  Driving Layup (20 PTS),104 - 104,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+208769,21600446,4,3:32,Jackson Bad Pass Turnover (P5.T13),Curry STEAL (2 STL),nan,202704,Reggie Jackson,DET,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+208770,21600446,4,3:20,nan,MISS Green 17' Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208771,21600446,4,3:20,nan,Pachulia REBOUND (Off:3 Def:5),nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208772,21600446,4,3:14,nan,Curry 26' 3PT Jump Shot (23 PTS),107 - 104,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+208773,21600446,4,3:08,PISTONS Timeout: Regular (Full 4 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+208774,21600446,4,3:08,SUB: Johnson FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+208775,21600446,4,3:08,SUB: Harris FOR Leuer,nan,nan,202720,Jon Leuer,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+208776,21600446,4,3:08,nan,SUB: Durant FOR Clark,nan,203546,Ian Clark,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+208777,21600446,4,2:54,Harris 26' 3PT Jump Shot (26 PTS) (Johnson 2 AST),nan,107 - 107,202699,Tobias Harris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+208778,21600446,4,2:34,nan,MISS Curry 17' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208779,21600446,4,2:33,Drummond REBOUND (Off:0 Def:9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208780,21600446,4,2:24,nan,Iguodala S.FOUL (P1.PN) (B.Taylor),nan,2738,Andre Iguodala,GSW,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+208781,21600446,4,2:24,Jackson Free Throw 1 of 2 (15 PTS),nan,107 - 108,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208782,21600446,4,2:24,nan,SUB: Thompson FOR Pachulia,nan,2585,Zaza Pachulia,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+208783,21600446,4,2:24,MISS Jackson Free Throw 2 of 2,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208784,21600446,4,2:23,nan,Durant REBOUND (Off:0 Def:8),nan,201142,Kevin Durant,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208785,21600446,4,2:00,nan,MISS Green 25' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208786,21600446,4,2:00,nan,Iguodala REBOUND (Off:1 Def:2),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208787,21600446,4,1:56,nan,Durant 26' 3PT Jump Shot (32 PTS) (Iguodala 2 AST),110 - 108,201142,Kevin Durant,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+208788,21600446,4,1:40,nan,Green S.FOUL (P3.PN) (J.Capers),nan,203110,Draymond Green,GSW,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+208789,21600446,4,1:40,Jackson Free Throw 1 of 2 (16 PTS),nan,110 - 109,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208790,21600446,4,1:40,nan,Clark Timeout:Short,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Timeout ,Short
+208791,21600446,4,1:40,Jackson Free Throw 2 of 2 (17 PTS),nan,110 - 110,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208792,21600446,4,1:31,nan,Green  Dunk (5 PTS) (Thompson 2 AST),112 - 110,203110,Draymond Green,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+208793,21600446,4,1:09,MISS Caldwell-Pope 26' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208794,21600446,4,1:09,Johnson REBOUND (Off:1 Def:2),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208795,21600446,4,1:04,Johnson Bad Pass Turnover (P1.T14),Thompson STEAL (1 STL),nan,1626169,Stanley Johnson,DET,202691,Klay Thompson,GSW,0,nan,nan,Turnover ,Bad Pass
+208796,21600446,4,0:53,nan,Thompson 17' Pullup Jump Shot (14 PTS) (Curry 7 AST),114 - 110,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+208797,21600446,4,0:53,PISTONS Timeout: Regular (Full 5 Short 1),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+208798,21600446,4,0:40,Caldwell-Pope 17' Jump Shot (25 PTS),nan,114 - 112,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+208799,21600446,4,0:22,nan,Thompson 27' 3PT Jump Shot (17 PTS) (Curry 8 AST),117 - 112,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+208800,21600446,4,0:22,nan,nan,nan,516,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+208801,21600446,4,0:17,nan,Green P.FOUL (P4.PN) (T.Brown),nan,203110,Draymond Green,GSW,203083,Andre Drummond,DET,0,nan,nan,Foul ,Personal
+208802,21600446,4,0:17,MISS Drummond Free Throw 1 of 2,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208803,21600446,4,0:17,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+208804,21600446,4,0:17,SUB: Leuer FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+208805,21600446,4,0:17,Drummond Free Throw 2 of 2 (15 PTS),nan,117 - 113,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208806,21600446,4,0:14,Caldwell-Pope P.FOUL (P3.T3) (B.Taylor),nan,nan,203484,Kentavious Caldwell-Pope,DET,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+208807,21600446,4,0:14,SUB: Johnson FOR Harris,nan,nan,202699,Tobias Harris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+208808,21600446,4,0:14,nan,Green Bad Pass Turnover (P4.T23),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+208809,21600446,4,0:14,nan,nan,nan,526,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+208810,21600446,4,0:14,SUB: Harris FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+208811,21600446,4,0:14,SUB: Baynes FOR Drummond,nan,nan,203083,Andre Drummond,DET,203382,Aron Baynes,DET,0,nan,nan,Substitution ,nan
+208812,21600446,4,0:03,MISS Caldwell-Pope 26' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208813,21600446,4,0:02,nan,Curry REBOUND (Off:0 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208814,21600446,4,0:02,Harris P.FOUL (P3.PN) (T.Brown),nan,nan,202699,Tobias Harris,DET,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+208815,21600446,4,0:02,nan,Curry Free Throw 1 of 2 (24 PTS),118 - 113,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+208816,21600446,4,0:02,nan,Curry Free Throw 2 of 2 (25 PTS),119 - 113,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+208817,21600446,4,0:00,MISS Caldwell-Pope 55' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+208818,21600446,4,0:00,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+208819,21600446,4,0:00,nan,nan,119 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

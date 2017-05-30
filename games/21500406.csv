@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+51071,21500406,4,12:00,nan,nan,70 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+51072,21500406,4,11:45,Leuer S.FOUL (P2.T1) (L.Richardson),nan,nan,202720,Jon Leuer,PHX,203487,Michael Carter-Williams,MIL,0,nan,nan,Foul ,Shooting
+51073,21500406,4,11:45,nan,MISS Carter-Williams Free Throw 1 of 2,nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51074,21500406,4,11:45,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51075,21500406,4,11:45,nan,Carter-Williams Free Throw 2 of 2 (16 PTS),71 - 71,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51076,21500406,4,11:31,Leuer 11' Turnaround Jump Shot (6 PTS),nan,71 - 73,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+51077,21500406,4,11:13,nan,Carter-Williams 1' Driving Layup (18 PTS),73 - 73,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+51078,21500406,4,10:58,nan,Henson S.FOUL (P2.T1) (L.Richardson),nan,203089,John Henson,MIL,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+51079,21500406,4,10:58,MISS Leuer Free Throw 1 of 2,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51080,21500406,4,10:58,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51081,21500406,4,10:58,MISS Leuer Free Throw 2 of 2,nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51082,21500406,4,10:57,nan,Mayo REBOUND (Off:0 Def:4),nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51083,21500406,4,10:42,nan,MISS O'Bryant III 17' Jump Shot,nan,203948,Johnny O'Bryant III,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51084,21500406,4,10:41,Booker REBOUND (Off:0 Def:2),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51085,21500406,4,10:34,nan,Vaughn S.FOUL (P1.T2) (T.Washington),nan,1626173,Rashad Vaughn,MIL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+51086,21500406,4,10:34,Booker Free Throw 1 of 2 (2 PTS),nan,73 - 74,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51087,21500406,4,10:34,SUB: Chandler FOR Len,nan,nan,203458,Alex Len,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+51088,21500406,4,10:34,Booker Free Throw 2 of 2 (3 PTS),nan,73 - 75,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51089,21500406,4,10:26,Warren P.FOUL (P1.T2) (T.Washington),nan,nan,203933,TJ Warren,PHX,201564,O.J. Mayo,MIL,0,nan,nan,Foul ,Personal
+51090,21500406,4,10:18,Warren S.FOUL (P2.T3) (C.Blair),nan,nan,203933,TJ Warren,PHX,203089,John Henson,MIL,0,nan,nan,Foul ,Shooting
+51091,21500406,4,10:18,nan,MISS Henson Free Throw 1 of 2,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51092,21500406,4,10:18,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+51093,21500406,4,10:18,nan,MISS Henson Free Throw 2 of 2,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51094,21500406,4,10:17,Leuer REBOUND (Off:0 Def:4),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51095,21500406,4,9:58,Booker 1' Reverse Layup (5 PTS),nan,73 - 77,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+51096,21500406,4,9:45,Booker STEAL (2 STL),O'Bryant III Bad Pass Turnover (P2.T12),nan,203948,Johnny O'Bryant III,MIL,1626164,Devin Booker,PHX,0,nan,nan,Turnover ,Bad Pass
+51097,21500406,4,9:42,nan,Carter-Williams S.FOUL (P3.T3) (C.Blair),nan,203487,Michael Carter-Williams,MIL,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+51098,21500406,4,9:42,Warren Free Throw 1 of 2 (15 PTS),nan,73 - 78,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51099,21500406,4,9:42,nan,SUB: Parker FOR O'Bryant III,nan,203948,Johnny O'Bryant III,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+51100,21500406,4,9:42,Warren Free Throw 2 of 2 (16 PTS),nan,73 - 79,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51101,21500406,4,9:28,nan,MISS Carter-Williams 25' 3PT Jump Shot,nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51102,21500406,4,9:27,nan,Parker REBOUND (Off:2 Def:2),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51103,21500406,4,9:13,nan,MISS Vaughn 2' Driving Layup,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51104,21500406,4,9:11,nan,Henson REBOUND (Off:2 Def:4),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51105,21500406,4,9:11,nan,Henson  Tip Layup Shot (8 PTS),75 - 79,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+51106,21500406,4,8:56,nan,Parker P.FOUL (P2.T4) (C.Blair),nan,203953,Jabari Parker,MIL,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Personal
+51107,21500406,4,8:56,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+51108,21500406,4,8:56,nan,SUB: Middleton FOR Carter-Williams,nan,203487,Michael Carter-Williams,MIL,203114,Khris Middleton,MIL,0,nan,nan,Substitution ,nan
+51109,21500406,4,8:50,Booker Lost Ball Turnover (P1.T18),Henson STEAL (1 STL),nan,1626164,Devin Booker,PHX,203089,John Henson,MIL,0,nan,nan,Turnover ,Lost Ball
+51110,21500406,4,8:28,nan,Parker  Cutting Dunk Shot (7 PTS) (Middleton 7 AST),77 - 79,203953,Jabari Parker,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+51111,21500406,4,8:02,MISS Booker  3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51112,21500406,4,8:02,Leuer REBOUND (Off:1 Def:4),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51113,21500406,4,7:58,MISS Price 14' Floating Jump Shot,Henson BLOCK (4 BLK),nan,101179,Ronnie Price,PHX,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+51114,21500406,4,7:57,Leuer REBOUND (Off:2 Def:4),nan,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51115,21500406,4,7:50,nan,Middleton Personal Take Foul (P4.PN) (C.Blair),nan,203114,Khris Middleton,MIL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal Take
+51116,21500406,4,7:50,Booker Free Throw 1 of 2 (6 PTS),nan,77 - 80,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51117,21500406,4,7:50,Booker Free Throw 2 of 2 (7 PTS),nan,77 - 81,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51118,21500406,4,7:37,Chandler BLOCK (1 BLK),MISS Middleton 2' Driving Layup,nan,203114,Khris Middleton,MIL,0,nan,nan,2199,Tyson Chandler,PHX,Missed Shot ,nan
+51119,21500406,4,7:37,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51120,21500406,4,7:32,Booker STEAL (3 STL),Vaughn Lost Ball Turnover (P1.T13),nan,1626173,Rashad Vaughn,MIL,1626164,Devin Booker,PHX,0,nan,nan,Turnover ,Lost Ball
+51121,21500406,4,7:28,nan,Mayo FLAGRANT.FOUL.TYPE1 (P2.PN) (L.Richardson),nan,201564,O.J. Mayo,MIL,203933,TJ Warren,PHX,0,nan,nan,Foul ,Flagrant Type 1
+51122,21500406,4,7:28,nan,nan,nan,449,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+51123,21500406,4,7:28,Warren Free Throw Flagrant 1 of 2 (17 PTS),nan,77 - 82,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+51124,21500406,4,7:28,Warren Free Throw Flagrant 2 of 2 (18 PTS),nan,77 - 83,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+51125,21500406,4,7:19,Leuer 25' 3PT Jump Shot (9 PTS) (Booker 2 AST),nan,77 - 86,202720,Jon Leuer,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+51126,21500406,4,7:01,nan,Mayo 1' Finger Roll Layup (12 PTS) (Henson 1 AST),79 - 86,201564,O.J. Mayo,MIL,203089,John Henson,MIL,0,nan,nan,Made Shot ,nan
+51127,21500406,4,6:43,MISS Warren 15' Step Back Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51128,21500406,4,6:41,nan,Mayo REBOUND (Off:0 Def:5),nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51129,21500406,4,6:30,nan,Vaughn 27' 3PT Jump Shot (3 PTS) (Mayo 4 AST),82 - 86,1626173,Rashad Vaughn,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+51130,21500406,4,6:11,MISS Booker 27' 3PT Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51131,21500406,4,6:11,nan,Parker REBOUND (Off:2 Def:3),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51132,21500406,4,5:54,Price P.FOUL (P4.T4) (T.Washington),nan,nan,101179,Ronnie Price,PHX,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal
+51133,21500406,4,5:54,SUNS Timeout: Regular (Full 4 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51134,21500406,4,5:54,SUB: Bledsoe FOR Booker,nan,nan,1626164,Devin Booker,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+51135,21500406,4,5:49,nan,Middleton 26' 3PT Jump Shot (18 PTS) (Henson 2 AST),85 - 86,203114,Khris Middleton,MIL,203089,John Henson,MIL,0,nan,nan,Made Shot ,nan
+51136,21500406,4,5:29,MISS Warren 13' Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51137,21500406,4,5:29,nan,Parker REBOUND (Off:2 Def:4),nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51138,21500406,4,5:07,nan,Vaughn 24' 3PT Jump Shot (6 PTS) (Parker 1 AST),88 - 86,1626173,Rashad Vaughn,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+51139,21500406,4,4:50,Bledsoe 6' Floating Jump Shot (16 PTS),nan,88 - 88,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+51140,21500406,4,4:30,nan,MISS Mayo 26' 3PT Step Back Jump Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51141,21500406,4,4:29,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51142,21500406,4,4:29,SUB: Tucker FOR Warren,nan,nan,203933,TJ Warren,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+51143,21500406,4,4:20,Chandler Out of Bounds - Bad Pass Turnover Turnover (P2.T19),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+51144,21500406,4,4:20,SUB: Knight FOR Price,nan,nan,101179,Ronnie Price,PHX,202688,Brandon Knight,PHX,0,nan,nan,Substitution ,nan
+51145,21500406,4,4:20,nan,SUB: Monroe FOR Henson,nan,203089,John Henson,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+51146,21500406,4,4:03,nan,Middleton  Driving Layup (20 PTS),90 - 88,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+51147,21500406,4,3:40,MISS Knight 14' Pullup Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51148,21500406,4,3:36,nan,Monroe REBOUND (Off:0 Def:2),nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51149,21500406,4,3:22,nan,Middleton Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+51150,21500406,4,3:13,Chandler OFF.Foul (P2) (T.Washington),nan,nan,2199,Tyson Chandler,PHX,201564,O.J. Mayo,MIL,0,nan,nan,Foul ,Offensive
+51151,21500406,4,3:13,Chandler Foul Turnover (P3.T20),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+51152,21500406,4,3:00,nan,Middleton 22' Jump Shot (22 PTS) (Monroe 4 AST),92 - 88,203114,Khris Middleton,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+51153,21500406,4,2:48,Tucker 24' 3PT Jump Shot (12 PTS) (Knight 4 AST),nan,92 - 91,200782,PJ Tucker,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+51154,21500406,4,2:24,nan,MISS Middleton 26' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51155,21500406,4,2:24,Chandler REBOUND (Off:1 Def:4),nan,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51156,21500406,4,2:18,nan,Bucks Timeout: Regular (Reg.4 Short 1),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51157,21500406,4,2:00,Knight 4' Floating Jump Shot (9 PTS),nan,92 - 93,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+51158,21500406,4,1:49,Chandler S.FOUL (P3.PN) (T.Washington),nan,nan,2199,Tyson Chandler,PHX,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Shooting
+51159,21500406,4,1:49,nan,Monroe Free Throw 1 of 2 (11 PTS),93 - 93,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51160,21500406,4,1:49,nan,SUB: Carter-Williams FOR Vaughn,nan,1626173,Rashad Vaughn,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Substitution ,nan
+51161,21500406,4,1:49,nan,MISS Monroe Free Throw 2 of 2,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51162,21500406,4,1:49,Tucker REBOUND (Off:1 Def:5),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51163,21500406,4,1:32,Bledsoe 18' Pullup Jump Shot (18 PTS),nan,93 - 95,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+51164,21500406,4,1:13,nan,Carter-Williams 7' Floating Jump Shot (20 PTS) (Mayo 5 AST),95 - 95,203487,Michael Carter-Williams,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+51165,21500406,4,0:54,MISS Knight 20' Jump Shot,nan,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51166,21500406,4,0:54,Tucker REBOUND (Off:2 Def:5),nan,nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51167,21500406,4,0:35,MISS Bledsoe 1' Layup,Mayo BLOCK (1 BLK),nan,202339,Eric Bledsoe,PHX,0,nan,nan,201564,O.J. Mayo,MIL,Missed Shot ,nan
+51168,21500406,4,0:34,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51169,21500406,4,0:34,nan,nan,nan,510,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+51170,21500406,4,0:20,nan,Monroe  Layup (13 PTS),97 - 95,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+51171,21500406,4,0:20,SUNS Timeout: Regular (Full 5 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+51172,21500406,4,0:20,SUB: Teletovic FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+51173,21500406,4,0:20,nan,SUB: Henson FOR Parker,nan,203953,Jabari Parker,MIL,203089,John Henson,MIL,0,nan,nan,Substitution ,nan
+51174,21500406,4,0:20,nan,SUB: O'Bryant III FOR Monroe,nan,202328,Greg Monroe,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Substitution ,nan
+51175,21500406,4,0:07,MISS Bledsoe 4' Jump Shot,Carter-Williams BLOCK (1 BLK),nan,202339,Eric Bledsoe,PHX,0,nan,nan,203487,Michael Carter-Williams,MIL,Missed Shot ,nan
+51176,21500406,4,0:05,nan,Carter-Williams REBOUND (Off:1 Def:8),nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51177,21500406,4,0:05,Leuer Personal Take Foul (P3.PN) (T.Washington),nan,nan,202720,Jon Leuer,PHX,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal Take
+51178,21500406,4,0:05,nan,Middleton Free Throw 1 of 2 (23 PTS),98 - 95,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51179,21500406,4,0:05,SUB: Chandler FOR Teletovic,nan,nan,203141,Mirza Teletovic,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+51180,21500406,4,0:05,SUB: Len FOR Leuer,nan,nan,202720,Jon Leuer,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+51181,21500406,4,0:05,nan,Middleton Free Throw 2 of 2 (24 PTS),99 - 95,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51182,21500406,4,0:05,SUNS Timeout: Short (Full 5 Short 3),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+51183,21500406,4,0:05,SUB: Leuer FOR Tucker,nan,nan,200782,PJ Tucker,PHX,202720,Jon Leuer,PHX,0,nan,nan,Substitution ,nan
+51184,21500406,4,0:05,SUB: Booker FOR Chandler,nan,nan,2199,Tyson Chandler,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+51185,21500406,4,0:05,SUB: Teletovic FOR Len,nan,nan,203458,Alex Len,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Substitution ,nan
+51186,21500406,4,0:05,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P4.T21),nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+51187,21500406,4,0:03,Booker Personal Take Foul (P1.PN) (T.Washington),nan,nan,1626164,Devin Booker,PHX,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Personal Take
+51188,21500406,4,0:03,nan,Middleton Free Throw 1 of 2 (25 PTS),100 - 95,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+51189,21500406,4,0:03,nan,Middleton Free Throw 2 of 2 (26 PTS),101 - 95,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+51190,21500406,4,0:00,MISS Bledsoe 39' 3PT Jump Shot,nan,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+51191,21500406,4,0:00,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+51192,21500406,4,0:00,nan,nan,101 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

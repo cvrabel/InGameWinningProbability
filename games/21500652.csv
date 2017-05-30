@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+81484,21500652,4,12:00,nan,nan,75 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+81485,21500652,4,11:47,nan,Turner 14' Jump Shot (17 PTS) (Budinger 3 AST),77 - 88,1626167,Myles Turner,IND,201978,Chase Budinger,IND,0,nan,nan,Made Shot ,nan
+81486,21500652,4,11:36,Livingston OFF.Foul (P1) (J.Orr),nan,nan,2733,Shaun Livingston,GSW,101139,CJ Miles,IND,0,nan,nan,Foul ,Offensive
+81487,21500652,4,11:36,Livingston Foul Turnover (P1.T14),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+81488,21500652,4,11:12,nan,MISS Miles 28' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81489,21500652,4,11:11,nan,Allen REBOUND (Off:2 Def:1),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81490,21500652,4,11:09,nan,Allen  Putback Dunk (5 PTS),79 - 88,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+81491,21500652,4,10:49,MISS Iguodala 24' 3PT Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81492,21500652,4,10:48,nan,Allen REBOUND (Off:2 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81493,21500652,4,10:42,nan,Young 1' Driving Layup (13 PTS),81 - 88,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+81494,21500652,4,10:42,Barnes S.FOUL (P4.T1) (J.Tiven),nan,nan,203084,Harrison Barnes,GSW,1626202,Joe Young,IND,0,nan,nan,Foul ,Shooting
+81495,21500652,4,10:42,nan,Young Free Throw 1 of 1 (14 PTS),82 - 88,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+81496,21500652,4,10:27,nan,Budinger S.FOUL (P2.T1) (R.Mott),nan,201978,Chase Budinger,IND,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Shooting
+81497,21500652,4,10:27,MISS Iguodala Free Throw 1 of 2,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81498,21500652,4,10:27,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+81499,21500652,4,10:27,Iguodala Free Throw 2 of 2 (10 PTS),nan,82 - 89,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81500,21500652,4,10:14,nan,Turner OFF.Foul (P2) (R.Mott),nan,1626167,Myles Turner,IND,203084,Harrison Barnes,GSW,0,nan,nan,Foul ,Offensive
+81501,21500652,4,10:14,nan,Turner Foul Turnover (P1.T9),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+81502,21500652,4,10:01,Barbosa 17' Jump Shot (10 PTS) (Ezeli 1 AST),nan,82 - 91,2571,Leandro Barbosa,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Made Shot ,nan
+81503,21500652,4,9:37,nan,Young Step Out of Bounds Turnover (P3.T10),nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+81504,21500652,4,9:21,MISS Barnes 20' Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81505,21500652,4,9:21,nan,Budinger REBOUND (Off:1 Def:2),nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81506,21500652,4,9:12,nan,MISS Miles 26' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81507,21500652,4,9:11,nan,Turner REBOUND (Off:3 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81508,21500652,4,9:07,nan,MISS Turner 4' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81509,21500652,4,9:05,nan,Allen REBOUND (Off:3 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81510,21500652,4,9:05,nan,MISS Allen 2' Tip Layup Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81511,21500652,4,9:04,nan,Allen REBOUND (Off:4 Def:2),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81512,21500652,4,9:03,nan,Turner 1' Layup (19 PTS) (Allen 2 AST),84 - 91,1626167,Myles Turner,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+81513,21500652,4,8:55,Barbosa 1' Running Layup (12 PTS) (Livingston 1 AST),nan,84 - 93,2571,Leandro Barbosa,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+81514,21500652,4,8:55,nan,Young S.FOUL (P3.T2) (J.Tiven),nan,1626202,Joe Young,IND,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Shooting
+81515,21500652,4,8:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+81516,21500652,4,8:55,SUB: Green FOR Barnes,nan,nan,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+81517,21500652,4,8:55,SUB: Thompson FOR Ezeli,nan,nan,203105,Festus Ezeli,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+81518,21500652,4,8:55,nan,SUB: George FOR Miles,nan,101139,CJ Miles,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+81519,21500652,4,8:55,nan,SUB: Ellis FOR Budinger,nan,201978,Chase Budinger,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+81520,21500652,4,8:55,Barbosa Free Throw 1 of 1 (13 PTS),nan,84 - 94,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+81521,21500652,4,8:44,Green P.FOUL (P2.T2) (J.Tiven),nan,nan,203110,Draymond Green,GSW,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+81522,21500652,4,8:31,nan,MISS Ellis 2' Finger Roll Layup,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81523,21500652,4,8:30,Green REBOUND (Off:0 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81524,21500652,4,8:19,Barbosa OFF.Foul (P2) (R.Mott),nan,nan,2571,Leandro Barbosa,GSW,202331,Paul George,IND,0,nan,nan,Foul ,Offensive
+81525,21500652,4,8:19,Barbosa Foul Turnover (P3.T15),nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+81526,21500652,4,7:55,nan,Turner 1' Reverse Layup (21 PTS) (Young 5 AST),86 - 94,1626167,Myles Turner,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+81527,21500652,4,7:39,nan,Allen S.FOUL (P2.T3) (R.Mott),nan,202730,Lavoy Allen,IND,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+81528,21500652,4,7:39,Livingston Free Throw 1 of 2 (3 PTS),nan,86 - 95,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81529,21500652,4,7:39,SUB: Curry FOR Barbosa,nan,nan,2571,Leandro Barbosa,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+81530,21500652,4,7:39,Livingston Free Throw 2 of 2 (4 PTS),nan,86 - 96,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81531,21500652,4,7:28,Green S.FOUL (P3.T3) (J.Orr),nan,nan,203110,Draymond Green,GSW,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+81532,21500652,4,7:28,nan,Turner Free Throw 1 of 2 (22 PTS),87 - 96,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81533,21500652,4,7:28,nan,Turner Free Throw 2 of 2 (23 PTS),88 - 96,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81534,21500652,4,7:09,MISS Iguodala 18' Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81535,21500652,4,7:09,Green REBOUND (Off:1 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81536,21500652,4,7:09,MISS Green 3' Tip Layup Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81537,21500652,4,7:07,Green REBOUND (Off:2 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81538,21500652,4,7:07,Green 1' Tip Layup Shot (17 PTS),nan,88 - 98,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+81539,21500652,4,6:53,Iguodala S.FOUL (P3.T4) (J.Tiven),nan,nan,2738,Andre Iguodala,GSW,202331,Paul George,IND,0,nan,nan,Foul ,Shooting
+81540,21500652,4,6:53,nan,George Free Throw 1 of 2 (10 PTS),89 - 98,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81541,21500652,4,6:53,SUB: Barnes FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+81542,21500652,4,6:53,nan,MISS George Free Throw 2 of 2,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81543,21500652,4,6:52,Barnes REBOUND (Off:4 Def:7),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81544,21500652,4,6:42,nan,George P.FOUL (P5.T4) (R.Mott),nan,202331,Paul George,IND,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+81545,21500652,4,6:42,nan,SUB: Robinson III FOR George,nan,202331,Paul George,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+81546,21500652,4,6:32,Curry 2' Cutting Layup Shot (29 PTS) (Barnes 4 AST),nan,89 - 100,201939,Stephen Curry,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+81547,21500652,4,6:17,nan,Robinson III 7' Running Jump Shot (2 PTS) (Young 6 AST),91 - 100,203922,Glenn Robinson III,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+81548,21500652,4,6:01,MISS Thompson 27' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81549,21500652,4,6:00,nan,Turner REBOUND (Off:3 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81550,21500652,4,5:43,nan,Turner 2' Layup (25 PTS) (Ellis 2 AST),93 - 100,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+81551,21500652,4,5:31,Curry 13' Floating Jump Shot (31 PTS),nan,93 - 102,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+81552,21500652,4,5:19,nan,MISS Young 19' Jump Shot,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81553,21500652,4,5:18,Livingston REBOUND (Off:0 Def:1),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81554,21500652,4,5:10,nan,Turner Violation:Defensive Goaltending (R.Mott),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+81555,21500652,4,5:10,Green 2' Layup (19 PTS) (Livingston 2 AST),nan,93 - 104,203110,Draymond Green,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+81556,21500652,4,5:00,nan,Ellis 26' 3PT Jump Shot (18 PTS) (Young 7 AST),96 - 104,101145,Monta Ellis,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+81557,21500652,4,4:43,Livingston  Dunk (6 PTS) (Thompson 3 AST),nan,96 - 106,2733,Shaun Livingston,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+81558,21500652,4,4:21,Green STEAL (3 STL),Robinson III Lost Ball Turnover (P1.T11),nan,203922,Glenn Robinson III,IND,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+81559,21500652,4,4:16,Curry 25' 3PT Jump Shot (34 PTS) (Green 2 AST),nan,96 - 109,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+81560,21500652,4,4:15,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+81561,21500652,4,4:15,nan,SUB: George FOR Young,nan,1626202,Joe Young,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+81562,21500652,4,4:15,nan,SUB: Miles FOR Turner,nan,1626167,Myles Turner,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+81563,21500652,4,4:15,nan,SUB: S. Hill FOR Allen,nan,202730,Lavoy Allen,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+81564,21500652,4,3:56,Green S.FOUL (P4.PN) (J.Orr),nan,nan,203110,Draymond Green,GSW,203922,Glenn Robinson III,IND,0,nan,nan,Foul ,Shooting
+81565,21500652,4,3:56,nan,Robinson III Free Throw 1 of 2 (3 PTS),97 - 109,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81566,21500652,4,3:56,SUB: Iguodala FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+81567,21500652,4,3:56,nan,Robinson III Free Throw 2 of 2 (4 PTS),98 - 109,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81568,21500652,4,3:45,MISS Barnes 18' Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81569,21500652,4,3:44,nan,Robinson III REBOUND (Off:1 Def:3),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81570,21500652,4,3:38,Green STEAL (4 STL),Ellis Lost Ball Turnover (P1.T12),nan,101145,Monta Ellis,IND,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Lost Ball
+81571,21500652,4,3:26,Curry  3PT Jump Shot (37 PTS) (Barnes 5 AST),nan,98 - 112,201939,Stephen Curry,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+81572,21500652,4,3:25,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+81573,21500652,4,3:11,nan,MISS Robinson III 24' 3PT Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81574,21500652,4,3:10,Thompson REBOUND (Off:1 Def:2),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81575,21500652,4,2:57,MISS Green  Layup,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81576,21500652,4,2:55,Green REBOUND (Off:3 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81577,21500652,4,2:51,MISS Barnes 5' Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81578,21500652,4,2:48,nan,S. Hill REBOUND (Off:1 Def:4),nan,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81579,21500652,4,2:44,Iguodala STEAL (1 STL),Ellis Lost Ball Turnover (P2.T13),nan,101145,Monta Ellis,IND,2738,Andre Iguodala,GSW,0,nan,nan,Turnover ,Lost Ball
+81580,21500652,4,2:40,Iguodala Bad Pass Turnover (P4.T16),George STEAL (2 STL),nan,2738,Andre Iguodala,GSW,202331,Paul George,IND,0,nan,nan,Turnover ,Bad Pass
+81581,21500652,4,2:34,nan,MISS George 2' Layup,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81582,21500652,4,2:32,Curry REBOUND (Off:2 Def:8),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81583,21500652,4,2:26,Curry 1' Driving Layup (39 PTS) (Thompson 4 AST),nan,98 - 114,201939,Stephen Curry,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+81584,21500652,4,2:02,nan,S. Hill 8' Turnaround Fadeaway (8 PTS),100 - 114,203524,Solomon Hill,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+81585,21500652,4,1:50,Green Lost Ball Turnover (P3.T17),George STEAL (3 STL),nan,203110,Draymond Green,GSW,202331,Paul George,IND,0,nan,nan,Turnover ,Lost Ball
+81586,21500652,4,1:46,nan,George 1' Driving Layup (12 PTS) (Ellis 3 AST),102 - 114,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+81587,21500652,4,1:46,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+81588,21500652,4,1:46,nan,SUB: Turner FOR S. Hill,nan,203524,Solomon Hill,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+81589,21500652,4,1:30,Green  Dunk (21 PTS) (Curry 12 AST),nan,102 - 116,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+81590,21500652,4,1:30,nan,Turner S.FOUL (P3.PN) (J.Orr),nan,1626167,Myles Turner,IND,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+81591,21500652,4,1:30,Green Free Throw 1 of 1 (22 PTS),nan,102 - 117,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+81592,21500652,4,1:18,Barnes S.FOUL (P5.PN) (R.Mott),nan,nan,203084,Harrison Barnes,GSW,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+81593,21500652,4,1:18,nan,Turner Free Throw 1 of 2 (26 PTS),103 - 117,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81594,21500652,4,1:18,SUB: Clark FOR Green,nan,nan,203110,Draymond Green,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+81595,21500652,4,1:18,SUB: Rush FOR Curry,nan,nan,201939,Stephen Curry,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+81596,21500652,4,1:18,SUB: Speights FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,201578,Marreese Speights,GSW,0,nan,nan,Substitution ,nan
+81597,21500652,4,1:18,nan,SUB: S. Hill FOR George,nan,202331,Paul George,IND,203524,Solomon Hill,IND,0,nan,nan,Substitution ,nan
+81598,21500652,4,1:18,nan,SUB: Young FOR Ellis,nan,101145,Monta Ellis,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+81599,21500652,4,1:18,nan,Turner Free Throw 2 of 2 (27 PTS),104 - 117,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81600,21500652,4,1:05,Clark 1' Cutting Layup Shot (2 PTS) (Speights 2 AST),nan,104 - 119,203546,Ian Clark,GSW,201578,Marreese Speights,GSW,0,nan,nan,Made Shot ,nan
+81601,21500652,4,0:53,nan,Turner 13' Jump Shot (29 PTS) (Young 8 AST),106 - 119,1626167,Myles Turner,IND,1626202,Joe Young,IND,0,nan,nan,Made Shot ,nan
+81602,21500652,4,0:41,MISS Barnes 25' 3PT Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81603,21500652,4,0:41,nan,Miles REBOUND (Off:3 Def:3),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81604,21500652,4,0:34,Speights S.FOUL (P3.PN) (J.Tiven),nan,nan,201578,Marreese Speights,GSW,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+81605,21500652,4,0:34,nan,Turner Free Throw 1 of 2 (30 PTS),107 - 119,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81606,21500652,4,0:34,nan,Turner Free Throw 2 of 2 (31 PTS),108 - 119,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81607,21500652,4,0:14,Speights 27' 3PT Jump Shot (3 PTS) (Thompson 5 AST),nan,108 - 122,201578,Marreese Speights,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+81608,21500652,4,0:06,Clark P.FOUL (P1.PN) (R.Mott),nan,nan,203546,Ian Clark,GSW,1626202,Joe Young,IND,0,nan,nan,Foul ,Personal
+81609,21500652,4,0:06,nan,Young Free Throw 1 of 2 (15 PTS),109 - 122,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81610,21500652,4,0:06,nan,Young Free Throw 2 of 2 (16 PTS),110 - 122,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81611,21500652,4,0:00,nan,nan,110 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

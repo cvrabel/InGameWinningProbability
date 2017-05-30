@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+91221,21500730,4,12:00,nan,nan,70 - 65,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+91222,21500730,4,11:49,Porzingis OFF.Foul (P3) (P.Fraher),nan,nan,204001,Kristaps Porzingis,NYK,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Offensive
+91223,21500730,4,11:49,Porzingis Foul Turnover (P3.T17),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+91224,21500730,4,11:31,nan,MISS Turner 12' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91225,21500730,4,11:29,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91226,21500730,4,11:20,nan,MISS Olynyk 5' Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91227,21500730,4,11:18,nan,Olynyk REBOUND (Off:2 Def:1),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91228,21500730,4,11:16,nan,Olynyk 2' Layup (4 PTS),72 - 65,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91229,21500730,4,10:53,MISS Afflalo  3PT Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91230,21500730,4,10:50,nan,Olynyk REBOUND (Off:2 Def:2),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91231,21500730,4,10:38,Thomas S.FOUL (P1.T1) (L.Richardson),nan,nan,202498,Lance Thomas,NYK,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+91232,21500730,4,10:38,nan,Olynyk Free Throw 1 of 2 (5 PTS),73 - 65,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+91233,21500730,4,10:38,nan,Olynyk Free Throw 2 of 2 (6 PTS),74 - 65,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+91234,21500730,4,10:26,MISS Vujacic 2' Layup,Bradley BLOCK (1 BLK),nan,2756,Sasha Vujacic,NYK,0,nan,nan,202340,Avery Bradley,BOS,Missed Shot ,nan
+91235,21500730,4,10:24,nan,Zeller REBOUND (Off:3 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91236,21500730,4,10:17,nan,Zeller 2' Layup (10 PTS) (Smart 2 AST),76 - 65,203092,Tyler Zeller,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+91237,21500730,4,10:16,KNICKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+91238,21500730,4,10:16,SUB: Lopez FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+91239,21500730,4,10:16,SUB: Williams FOR Grant,nan,nan,1626170,Jerian Grant,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+91240,21500730,4,10:05,Vujacic 25' 3PT Jump Shot (10 PTS) (Williams 1 AST),nan,76 - 68,2756,Sasha Vujacic,NYK,202682,Derrick Williams,NYK,0,nan,nan,Made Shot ,nan
+91241,21500730,4,9:48,nan,MISS Zeller 2' Layup,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91242,21500730,4,9:46,nan,Zeller REBOUND (Off:4 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91243,21500730,4,9:45,nan,Zeller 1' Putback Layup (12 PTS),78 - 68,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91244,21500730,4,9:20,Lopez 4' Hook Shot (15 PTS),nan,78 - 70,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+91245,21500730,4,9:07,nan,Olynyk 25' 3PT Jump Shot (9 PTS) (Bradley 4 AST),81 - 70,203482,Kelly Olynyk,BOS,202340,Avery Bradley,BOS,0,nan,nan,Made Shot ,nan
+91246,21500730,4,8:45,Williams 18' Jump Shot (4 PTS) (Lopez 2 AST),nan,81 - 72,202682,Derrick Williams,NYK,201577,Robin Lopez,NYK,0,nan,nan,Made Shot ,nan
+91247,21500730,4,8:33,nan,Bradley OFF.Foul (P2) (L.Richardson),nan,202340,Avery Bradley,BOS,2756,Sasha Vujacic,NYK,0,nan,nan,Foul ,Offensive
+91248,21500730,4,8:33,nan,Bradley Foul Turnover (P1.T8),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+91249,21500730,4,8:17,MISS Williams 1' Layup,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91250,21500730,4,8:15,Williams REBOUND (Off:1 Def:1),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91251,21500730,4,8:14,Williams 2' Layup (6 PTS),nan,81 - 74,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+91252,21500730,4,7:56,nan,MISS Bradley 19' Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91253,21500730,4,7:54,Thomas REBOUND (Off:0 Def:2),nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91254,21500730,4,7:44,nan,Smart P.FOUL (P3.T1) (S.Wall),nan,203935,Marcus Smart,BOS,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Personal
+91255,21500730,4,7:37,Afflalo  3PT Jump Shot (16 PTS) (Vujacic 1 AST),nan,81 - 77,201167,Arron Afflalo,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Made Shot ,nan
+91256,21500730,4,7:35,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+91257,21500730,4,7:35,SUB: Anthony FOR Thomas,nan,nan,202498,Lance Thomas,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+91258,21500730,4,7:18,nan,MISS Bradley 19' Jump Shot,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91259,21500730,4,7:17,nan,Zeller REBOUND (Off:5 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91260,21500730,4,7:13,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91261,21500730,4,7:12,Lopez REBOUND (Off:11 Def:2),nan,nan,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91262,21500730,4,6:52,MISS Afflalo 8' Turnaround Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91263,21500730,4,6:51,nan,Zeller REBOUND (Off:5 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91264,21500730,4,6:42,nan,Turner 9' Jump Shot (10 PTS),83 - 77,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91265,21500730,4,6:22,MISS Anthony 11' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91266,21500730,4,6:21,nan,Olynyk REBOUND (Off:2 Def:3),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91267,21500730,4,6:11,nan,Turner 14' Jump Shot (12 PTS),85 - 77,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91268,21500730,4,5:52,nan,Bradley S.FOUL (P3.T2) (P.Fraher),nan,202340,Avery Bradley,BOS,2756,Sasha Vujacic,NYK,0,nan,nan,Foul ,Shooting
+91269,21500730,4,5:52,Vujacic Free Throw 1 of 3 (11 PTS),nan,85 - 78,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+91270,21500730,4,5:52,Vujacic Free Throw 2 of 3 (12 PTS),nan,85 - 79,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+91271,21500730,4,5:52,nan,SUB: Thomas FOR Smart,nan,203935,Marcus Smart,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+91272,21500730,4,5:52,SUB: Thomas FOR Williams,nan,nan,202682,Derrick Williams,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+91273,21500730,4,5:52,Vujacic Free Throw 3 of 3 (13 PTS),nan,85 - 80,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+91274,21500730,4,5:35,nan,Olynyk 2' Layup (11 PTS) (Turner 3 AST),87 - 80,203482,Kelly Olynyk,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+91275,21500730,4,5:20,nan,Zeller S.FOUL (P2.T3) (L.Richardson),nan,203092,Tyler Zeller,BOS,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Shooting
+91276,21500730,4,5:20,MISS Thomas Free Throw 1 of 2,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+91277,21500730,4,5:20,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+91278,21500730,4,5:20,SUB: Galloway FOR Vujacic,nan,nan,2756,Sasha Vujacic,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+91279,21500730,4,5:20,Thomas Free Throw 2 of 2 (6 PTS),nan,87 - 81,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+91280,21500730,4,5:08,nan,Turner 14' Jump Shot (14 PTS),89 - 81,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91281,21500730,4,4:52,nan,Bradley P.FOUL (P4.T4) (P.Fraher),nan,202340,Avery Bradley,BOS,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Personal
+91282,21500730,4,4:52,nan,SUB: Smart FOR Bradley,nan,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+91283,21500730,4,4:37,MISS Anthony 21' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91284,21500730,4,4:35,Galloway REBOUND (Off:1 Def:8),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91285,21500730,4,4:32,MISS Afflalo 24' 3PT Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91286,21500730,4,4:30,nan,Turner REBOUND (Off:0 Def:6),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91287,21500730,4,4:18,nan,MISS Turner 9' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91288,21500730,4,4:18,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91289,21500730,4,4:18,Anthony L.B.FOUL (P4.T2) (S.Wall),nan,nan,2546,Carmelo Anthony,NYK,203092,Tyler Zeller,BOS,0,nan,nan,Foul ,Loose Ball
+91290,21500730,4,4:11,Anthony P.FOUL (P5.T3) (L.Richardson),nan,nan,2546,Carmelo Anthony,NYK,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Personal
+91291,21500730,4,4:02,nan,MISS Zeller 15' Jump Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91292,21500730,4,4:00,nan,Turner REBOUND (Off:1 Def:6),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91293,21500730,4,3:56,nan,MISS Thomas 2' Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91294,21500730,4,3:55,nan,Zeller REBOUND (Off:6 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91295,21500730,4,3:55,nan,Zeller  Layup (14 PTS),91 - 81,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91296,21500730,4,3:43,MISS Thomas 22' Jump Shot,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91297,21500730,4,3:41,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91298,21500730,4,3:41,nan,Zeller S.FOUL (P3.PN) (L.Richardson),nan,203092,Tyler Zeller,BOS,201577,Robin Lopez,NYK,0,nan,nan,Foul ,Shooting
+91299,21500730,4,3:41,Lopez Free Throw 1 of 2 (16 PTS),nan,91 - 82,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+91300,21500730,4,3:41,Lopez Free Throw 2 of 2 (17 PTS),nan,91 - 83,201577,Robin Lopez,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+91301,21500730,4,3:29,nan,Zeller 4' Jump Shot (16 PTS) (Turner 4 AST),93 - 83,203092,Tyler Zeller,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+91302,21500730,4,3:27,KNICKS Timeout: Regular (Full 5 Short 0),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+91303,21500730,4,3:27,SUB: Porzingis FOR Thomas,nan,nan,202498,Lance Thomas,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+91304,21500730,4,3:13,Porzingis 4' Running Jump Shot (8 PTS) (Anthony 4 AST),nan,93 - 85,204001,Kristaps Porzingis,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+91305,21500730,4,2:49,nan,MISS Smart 25' 3PT Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91306,21500730,4,2:47,Anthony REBOUND (Off:1 Def:12),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91307,21500730,4,2:41,MISS Porzingis 26' 3PT Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91308,21500730,4,2:40,nan,Thomas REBOUND (Off:0 Def:5),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91309,21500730,4,2:36,nan,Olynyk 1' Layup (13 PTS) (Thomas 8 AST),95 - 85,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+91310,21500730,4,2:18,Porzingis 9' Jump Shot (10 PTS),nan,95 - 87,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+91311,21500730,4,1:59,nan,MISS Turner 17' Jump Shot,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91312,21500730,4,1:57,nan,Turner REBOUND (Off:2 Def:6),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91313,21500730,4,1:55,nan,MISS Zeller 6' Hook Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91314,21500730,4,1:54,Anthony REBOUND (Off:1 Def:13),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91315,21500730,4,1:43,MISS Galloway 18' Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91316,21500730,4,1:41,nan,Turner REBOUND (Off:2 Def:7),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91317,21500730,4,1:22,nan,MISS Turner 1' Layup,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91318,21500730,4,1:20,nan,Zeller REBOUND (Off:7 Def:3),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91319,21500730,4,1:17,Porzingis STEAL (1 STL),Zeller Bad Pass Turnover (P2.T9),nan,203092,Tyler Zeller,BOS,204001,Kristaps Porzingis,NYK,0,nan,nan,Turnover ,Bad Pass
+91320,21500730,4,1:14,MISS Anthony 25' 3PT Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91321,21500730,4,1:13,nan,Turner REBOUND (Off:2 Def:8),nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91322,21500730,4,0:57,nan,Thomas 11' Fadeaway Jumper (20 PTS),97 - 87,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+91323,21500730,4,0:47,MISS Afflalo 24' 3PT Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+91324,21500730,4,0:47,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+91325,21500730,4,0:47,Anthony L.B.FOUL (P6.T4) (P.Fraher),nan,nan,2546,Carmelo Anthony,NYK,202323,Evan Turner,BOS,0,nan,nan,Foul ,Loose Ball
+91326,21500730,4,0:47,SUB: Thomas FOR Anthony,nan,nan,2546,Carmelo Anthony,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+91327,21500730,4,0:27,nan,Thomas Traveling Turnover (P2.T10),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+91328,21500730,4,0:21,Afflalo 1' Driving Layup (18 PTS),nan,97 - 89,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+91329,21500730,4,0:00,nan,nan,97 - 89,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

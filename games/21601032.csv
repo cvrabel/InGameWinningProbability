@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+280186,21601032,4,12:00,nan,nan,64 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+280187,21601032,4,11:45,Portis Violation:Kicked Ball (.),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+280188,21601032,4,11:36,nan,Burks Backcourt Turnover (P2.T13),nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+280189,21601032,4,11:31,MISS Carter-Williams 8' Floating Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280190,21601032,4,11:31,nan,Withey REBOUND (Off:0 Def:3),nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280191,21601032,4,11:14,nan,G. Hill 7' Driving Floating Jump Shot (13 PTS),66 - 61,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+280192,21601032,4,10:56,Portis 10' Jump Shot (15 PTS),nan,66 - 63,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+280193,21601032,4,10:38,nan,MISS Diaw 3' Driving Layup,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280194,21601032,4,10:37,Carter-Williams REBOUND (Off:0 Def:2),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280195,21601032,4,10:27,Portis 9' Jump Shot (17 PTS),nan,66 - 65,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+280196,21601032,4,10:02,nan,MISS Diaw 20' Jump Shot,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280197,21601032,4,10:01,nan,Ingles REBOUND (Off:1 Def:2),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280198,21601032,4,9:53,nan,Burks 26' 3PT Jump Shot (10 PTS) (Ingles 3 AST),69 - 65,202692,Alec Burks,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+280199,21601032,4,9:37,Portis 21' Pullup Jump Shot (19 PTS) (Valentine 3 AST),nan,69 - 67,1626171,Bobby Portis,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+280200,21601032,4,9:15,Valentine S.FOUL (P4.T1) (B.Forte),nan,nan,1627756,Denzel Valentine,CHI,203481,Jeff Withey,UTA,0,nan,nan,Foul ,Shooting
+280201,21601032,4,9:15,nan,Withey Free Throw 1 of 2 (1 PTS),70 - 67,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280202,21601032,4,9:15,SUB: Lauvergne FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,203530,Joffrey Lauvergne,CHI,0,nan,nan,Substitution ,nan
+280203,21601032,4,9:15,nan,SUB: Johnson FOR Diaw,nan,2564,Boris Diaw,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+280204,21601032,4,9:15,nan,Withey Free Throw 2 of 2 (2 PTS),71 - 67,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280205,21601032,4,8:59,Carter-Williams 3' Driving Layup (4 PTS) (Lauvergne 1 AST),nan,71 - 69,203487,Michael Carter-Williams,CHI,203530,Joffrey Lauvergne,CHI,0,nan,nan,Made Shot ,nan
+280206,21601032,4,8:35,nan,Ingles 21' Pullup Jump Shot (10 PTS) (Johnson 2 AST),73 - 69,204060,Joe Ingles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Made Shot ,nan
+280207,21601032,4,8:23,Valentine 25' 3PT Jump Shot (5 PTS) (Carter-Williams 3 AST),nan,73 - 72,1627756,Denzel Valentine,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+280208,21601032,4,8:15,nan,Jazz Timeout: Regular (Reg.4 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280209,21601032,4,8:15,nan,SUB: Gobert FOR Burks,nan,202692,Alec Burks,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+280210,21601032,4,8:15,nan,SUB: Hayward FOR Withey,nan,203481,Jeff Withey,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+280211,21601032,4,8:08,nan,MISS G. Hill 25' 3PT Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280212,21601032,4,8:07,Valentine REBOUND (Off:0 Def:6),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280213,21601032,4,7:50,MISS Valentine 7' Turnaround Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280214,21601032,4,7:49,nan,Johnson REBOUND (Off:2 Def:3),nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280215,21601032,4,7:27,Lauvergne STEAL (1 STL),G. Hill Lost Ball Turnover (P3.T14),nan,201588,George Hill,UTA,203530,Joffrey Lauvergne,CHI,0,nan,nan,Turnover ,Lost Ball
+280216,21601032,4,7:21,Valentine 25' 3PT Jump Shot (8 PTS) (Carter-Williams 4 AST),nan,73 - 75,1627756,Denzel Valentine,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+280217,21601032,4,6:58,nan,MISS Johnson 26' 3PT Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280218,21601032,4,6:57,Valentine REBOUND (Off:0 Def:7),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280219,21601032,4,6:54,Portis  Cutting Dunk Shot (21 PTS) (Valentine 4 AST),nan,73 - 77,1626171,Bobby Portis,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+280220,21601032,4,6:51,nan,Jazz Timeout: Regular (Reg.5 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280221,21601032,4,6:51,SUB: Butler FOR Zipser,nan,nan,1627835,Paul Zipser,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+280222,21601032,4,6:51,nan,SUB: Exum FOR G. Hill,nan,201588,George Hill,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+280223,21601032,4,6:27,nan,Johnson 11' Fadeaway Jumper (8 PTS),75 - 77,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+280224,21601032,4,6:04,MISS Butler 27' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280225,21601032,4,6:03,nan,Exum REBOUND (Off:0 Def:4),nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280226,21601032,4,5:55,Butler S.FOUL (P1.T2) (B.Spooner),nan,nan,202710,Jimmy Butler,CHI,203957,Dante Exum,UTA,0,nan,nan,Foul ,Shooting
+280227,21601032,4,5:55,nan,MISS Exum Free Throw 1 of 2,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280228,21601032,4,5:55,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+280229,21601032,4,5:55,nan,MISS Exum Free Throw 2 of 2,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280230,21601032,4,5:55,Valentine REBOUND (Off:0 Def:8),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280231,21601032,4,5:32,Carter-Williams 16' Pullup Jump Shot (6 PTS) (Butler 6 AST),nan,75 - 79,203487,Michael Carter-Williams,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+280232,21601032,4,5:17,nan,MISS Hayward 25' 3PT Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280233,21601032,4,5:17,Lauvergne REBOUND (Off:0 Def:1),nan,nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280234,21601032,4,5:04,MISS Butler 16' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280235,21601032,4,5:03,nan,Hayward REBOUND (Off:2 Def:3),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280236,21601032,4,4:57,nan,Gobert 2' Layup (9 PTS) (Ingles 4 AST),77 - 79,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+280237,21601032,4,4:36,MISS Lauvergne 2' Layup,Gobert BLOCK (5 BLK),nan,203530,Joffrey Lauvergne,CHI,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+280238,21601032,4,4:35,Valentine REBOUND (Off:1 Def:8),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280239,21601032,4,4:32,Valentine  3PT Jump Shot (11 PTS),nan,77 - 82,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+280240,21601032,4,4:16,nan,Gobert 3' Cutting Layup Shot (11 PTS) (Ingles 5 AST),79 - 82,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+280241,21601032,4,3:58,Butler 2' Cutting Layup Shot (20 PTS) (Lauvergne 2 AST),nan,79 - 84,202710,Jimmy Butler,CHI,203530,Joffrey Lauvergne,CHI,0,nan,nan,Made Shot ,nan
+280242,21601032,4,3:58,nan,Gobert S.FOUL (P3.T1) (B.Spooner),nan,203497,Rudy Gobert,UTA,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+280243,21601032,4,3:58,nan,SUB: G. Hill FOR Exum,nan,203957,Dante Exum,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+280244,21601032,4,3:58,Butler Free Throw 1 of 1 (21 PTS),nan,79 - 85,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+280245,21601032,4,3:34,nan,G. Hill 14' Driving Floating Jump Shot (15 PTS),81 - 85,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+280246,21601032,4,3:08,MISS Portis 15' Pullup Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280247,21601032,4,3:07,nan,Hayward REBOUND (Off:2 Def:4),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280248,21601032,4,2:57,nan,Gobert 2' Layup (13 PTS) (Hayward 2 AST),83 - 85,203497,Rudy Gobert,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+280249,21601032,4,2:51,BULLS Timeout: Regular (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280250,21601032,4,2:51,SUB: Lopez FOR Lauvergne,nan,nan,203530,Joffrey Lauvergne,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+280251,21601032,4,2:36,Lopez 8' Jump Shot (12 PTS) (Butler 7 AST),nan,83 - 87,201577,Robin Lopez,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+280252,21601032,4,2:20,nan,MISS G. Hill 13' Driving Floating Jump Shot,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280253,21601032,4,2:19,Portis REBOUND (Off:1 Def:4),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280254,21601032,4,2:01,Carter-Williams 5' Driving Bank Shot (8 PTS),nan,83 - 89,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+280255,21601032,4,2:01,nan,Gobert S.FOUL (P4.T2) (B.Forte),nan,203497,Rudy Gobert,UTA,203487,Michael Carter-Williams,CHI,0,nan,nan,Foul ,Shooting
+280256,21601032,4,2:01,Carter-Williams Free Throw 1 of 1 (9 PTS),nan,83 - 90,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+280257,21601032,4,1:40,nan,MISS Johnson 3' Driving Layup,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280258,21601032,4,1:39,nan,Johnson REBOUND (Off:3 Def:3),nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280259,21601032,4,1:34,nan,MISS Ingles 25' 3PT Jump Shot,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280260,21601032,4,1:33,Valentine REBOUND (Off:1 Def:9),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280261,21601032,4,1:21,nan,Gobert S.FOUL (P5.T3) (J.Goble),nan,203497,Rudy Gobert,UTA,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+280262,21601032,4,1:21,Butler Free Throw 1 of 2 (22 PTS),nan,83 - 91,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280263,21601032,4,1:21,Butler Free Throw 2 of 2 (23 PTS),nan,83 - 92,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280264,21601032,4,1:14,nan,G. Hill 3' Driving Layup (17 PTS),85 - 92,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+280265,21601032,4,1:14,Carter-Williams S.FOUL (P3.T3) (J.Goble),nan,nan,203487,Michael Carter-Williams,CHI,201588,George Hill,UTA,0,nan,nan,Foul ,Shooting
+280266,21601032,4,1:14,nan,G. Hill Free Throw 1 of 1 (18 PTS),86 - 92,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+280267,21601032,4,0:58,Carter-Williams Bad Pass Turnover (P2.T10),Hayward STEAL (4 STL),nan,203487,Michael Carter-Williams,CHI,202330,Gordon Hayward,UTA,0,nan,nan,Turnover ,Bad Pass
+280268,21601032,4,0:53,Butler STEAL (3 STL),Hayward Lost Ball Turnover (P4.T15),nan,202330,Gordon Hayward,UTA,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Lost Ball
+280269,21601032,4,0:44,nan,Ingles P.FOUL (P3.PN) (J.Goble),nan,204060,Joe Ingles,UTA,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Personal
+280270,21601032,4,0:44,Portis Free Throw 1 of 2 (22 PTS),nan,86 - 93,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280271,21601032,4,0:44,MISS Portis Free Throw 2 of 2,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280272,21601032,4,0:44,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280273,21601032,4,0:44,nan,Gobert L.B.FOUL (P6.PN) (B.Spooner),nan,203497,Rudy Gobert,UTA,201577,Robin Lopez,CHI,0,nan,nan,Foul ,Loose Ball
+280274,21601032,4,0:44,nan,SUB: Diaw FOR Gobert,nan,203497,Rudy Gobert,UTA,2564,Boris Diaw,UTA,0,nan,nan,Substitution ,nan
+280275,21601032,4,0:44,Lopez Free Throw 1 of 2 (13 PTS),nan,86 - 94,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+280276,21601032,4,0:44,Lopez Free Throw 2 of 2 (14 PTS),nan,86 - 95,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+280277,21601032,4,0:44,nan,Jazz Timeout: Regular (Reg.6 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+280278,21601032,4,0:43,SUB: Lauvergne FOR Lopez,nan,nan,201577,Robin Lopez,CHI,203530,Joffrey Lauvergne,CHI,0,nan,nan,Substitution ,nan
+280279,21601032,4,0:39,nan,MISS Hayward  3PT Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280280,21601032,4,0:39,Valentine REBOUND (Off:1 Def:10),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280281,21601032,4,0:30,BULLS Turnover: 8 Second Violation (T#11),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,8 Second Violation
+280282,21601032,4,0:20,nan,MISS Ingles 26' 3PT Pullup Jump Shot,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+280283,21601032,4,0:20,Valentine REBOUND (Off:1 Def:11),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+280284,21601032,4,0:00,nan,nan,86 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

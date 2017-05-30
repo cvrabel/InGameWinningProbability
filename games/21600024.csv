@@ -1,0 +1,126 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+155996,21600024,4,12:00,nan,nan,65 - 65,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+155997,21600024,4,11:41,Favors Lost Ball Turnover (P5.T12),Deng STEAL (2 STL),nan,202324,Derrick Favors,UTA,2736,Luol Deng,LAL,0,nan,nan,Turnover ,Lost Ball
+155998,21600024,4,11:22,Favors STEAL (2 STL),Randle Lost Ball Turnover (P2.T14),nan,203944,Julius Randle,LAL,202324,Derrick Favors,UTA,0,nan,nan,Turnover ,Lost Ball
+155999,21600024,4,11:17,Exum Out of Bounds Lost Ball Turnover (P1.T13),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+156000,21600024,4,11:06,SUB: Hood FOR Exum,nan,nan,203957,Dante Exum,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+156001,21600024,4,11:01,nan,MISS Randle 3' Jump Bank Shot,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156002,21600024,4,11:00,nan,Russell REBOUND (Off:2 Def:1),nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156003,21600024,4,10:47,nan,Clarkson Step Out of Bounds Turnover (P3.T15),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+156004,21600024,4,10:30,MISS Mack 3' Jump Shot,Randle BLOCK (1 BLK),nan,202714,Shelvin Mack,UTA,0,nan,nan,203944,Julius Randle,LAL,Missed Shot ,nan
+156005,21600024,4,10:29,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156006,21600024,4,10:21,Lyles 25' 3PT Jump Shot (6 PTS) (Favors 2 AST),nan,65 - 68,1626168,Trey Lyles,UTA,202324,Derrick Favors,UTA,0,nan,nan,Made Shot ,nan
+156007,21600024,4,10:01,nan,Randle  Dunk (5 PTS) (Russell 4 AST),67 - 68,203944,Julius Randle,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+156008,21600024,4,9:46,nan,Randle S.FOUL (P2.T1) (P.Fraher),nan,203944,Julius Randle,LAL,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+156009,21600024,4,9:46,Favors Free Throw 1 of 2 (14 PTS),nan,67 - 69,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156010,21600024,4,9:46,SUB: G. Hill FOR Ingles,nan,nan,204060,Joe Ingles,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+156011,21600024,4,9:46,Favors Free Throw 2 of 2 (15 PTS),nan,67 - 70,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156012,21600024,4,9:32,Hood STEAL (1 STL),Williams Bad Pass Turnover (P1.T16),nan,101150,Lou Williams,LAL,203918,Rodney Hood,UTA,0,nan,nan,Turnover ,Bad Pass
+156013,21600024,4,9:28,Mack 2' Running Layup (6 PTS),nan,67 - 72,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156014,21600024,4,9:10,nan,Williams  3PT Jump Shot (15 PTS) (Russell 5 AST),70 - 72,101150,Lou Williams,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+156015,21600024,4,8:48,MISS Lyles 15' Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156016,21600024,4,8:47,nan,Russell REBOUND (Off:2 Def:2),nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156017,21600024,4,8:41,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+156018,21600024,4,8:41,nan,nan,nan,453,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+156019,21600024,4,8:41,SUB: Gobert FOR Favors,nan,nan,202324,Derrick Favors,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+156020,21600024,4,8:41,nan,SUB: Mozgov FOR Randle,nan,203944,Julius Randle,LAL,202389,Timofey Mozgov,LAL,0,nan,nan,Substitution ,nan
+156021,21600024,4,8:32,nan,Russell 24' 3PT Jump Shot (5 PTS) (Williams 3 AST),73 - 72,1626156,D'Angelo Russell,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+156022,21600024,4,8:17,MISS Lyles 24' 3PT Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156023,21600024,4,8:16,nan,Mozgov REBOUND (Off:1 Def:5),nan,202389,Timofey Mozgov,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156024,21600024,4,8:04,nan,Deng 24' 3PT Jump Shot (10 PTS) (Williams 4 AST),76 - 72,2736,Luol Deng,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+156025,21600024,4,7:39,nan,Clarkson S.FOUL (P2.T2) (G.Petraitis),nan,203903,Jordan Clarkson,LAL,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Shooting
+156026,21600024,4,7:39,Hood Free Throw 1 of 2 (14 PTS),nan,76 - 73,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156027,21600024,4,7:39,SUB: Johnson FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,2207,Joe Johnson,UTA,0,nan,nan,Substitution ,nan
+156028,21600024,4,7:39,Hood Free Throw 2 of 2 (15 PTS),nan,76 - 74,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156029,21600024,4,7:24,nan,MISS Clarkson 18' Fadeaway Jumper,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156030,21600024,4,7:24,Mack REBOUND (Off:0 Def:3),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156031,21600024,4,7:04,G. Hill 24' 3PT Jump Shot (16 PTS) (Hood 1 AST),nan,76 - 77,201588,George Hill,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+156032,21600024,4,6:48,nan,MISS Williams 19' Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156033,21600024,4,6:47,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156034,21600024,4,6:47,Mack L.B.FOUL (P1.T1) (P.Fraher),nan,nan,202714,Shelvin Mack,UTA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Loose Ball
+156035,21600024,4,6:47,nan,SUB: Young FOR Williams,nan,101150,Lou Williams,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+156036,21600024,4,6:42,nan,MISS Russell 13' Pullup Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156037,21600024,4,6:41,Hood REBOUND (Off:0 Def:5),nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156038,21600024,4,6:31,Mack 13' Floating Jump Shot (8 PTS),nan,76 - 79,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156039,21600024,4,6:17,nan,MISS Deng 24' 3PT Jump Shot,nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156040,21600024,4,6:16,Hood REBOUND (Off:0 Def:6),nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156041,21600024,4,6:07,MISS Hood 15' Pullup Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156042,21600024,4,6:05,Gobert REBOUND (Off:5 Def:4),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156043,21600024,4,6:05,Gobert 1' Tip Layup Shot (11 PTS),nan,76 - 81,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156044,21600024,4,5:40,nan,MISS Russell 11' Floating Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156045,21600024,4,5:39,Gobert REBOUND (Off:5 Def:5),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156046,21600024,4,5:18,Johnson 9' Floating Jump Shot (8 PTS),nan,76 - 83,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156047,21600024,4,5:18,nan,Lakers Timeout: Regular (Reg.5 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+156048,21600024,4,5:18,nan,SUB: Randle FOR Mozgov,nan,202389,Timofey Mozgov,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+156049,21600024,4,5:18,SUB: Exum FOR Hood,nan,nan,203918,Rodney Hood,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+156050,21600024,4,5:01,nan,MISS Deng 6' Jump Shot,nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156051,21600024,4,5:00,nan,Randle REBOUND (Off:1 Def:1),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156052,21600024,4,5:00,Mack P.FOUL (P2.T2) (G.Petraitis),nan,nan,202714,Shelvin Mack,UTA,203944,Julius Randle,LAL,0,nan,nan,Foul ,Personal
+156053,21600024,4,5:00,nan,SUB: Williams FOR Clarkson,nan,203903,Jordan Clarkson,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+156054,21600024,4,4:55,G. Hill S.FOUL (P4.T3) (P.Fraher),nan,nan,201588,George Hill,UTA,201156,Nick Young,LAL,0,nan,nan,Foul ,Shooting
+156055,21600024,4,4:55,nan,Young Free Throw 1 of 3 (11 PTS),77 - 83,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+156056,21600024,4,4:55,nan,Young Free Throw 2 of 3 (12 PTS),78 - 83,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+156057,21600024,4,4:55,nan,Young Free Throw 3 of 3 (13 PTS),79 - 83,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+156058,21600024,4,4:41,nan,Young P.FOUL (P2.T3) (P.Fraher),nan,201156,Nick Young,LAL,202714,Shelvin Mack,UTA,0,nan,nan,Foul ,Personal
+156059,21600024,4,4:31,MISS Mack 26' 3PT Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156060,21600024,4,4:31,nan,Randle REBOUND (Off:1 Def:2),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156061,21600024,4,4:22,nan,Russell 2' Layup (7 PTS) (Williams 5 AST),81 - 83,1626156,D'Angelo Russell,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+156062,21600024,4,4:08,G. Hill 2' Reverse Layup (18 PTS),nan,81 - 85,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156063,21600024,4,4:08,nan,Randle S.FOUL (P3.T4) (B.Spooner),nan,203944,Julius Randle,LAL,201588,George Hill,UTA,0,nan,nan,Foul ,Shooting
+156064,21600024,4,4:08,MISS G. Hill Free Throw 1 of 1,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+156065,21600024,4,4:07,nan,Deng REBOUND (Off:1 Def:9),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156066,21600024,4,3:48,nan,MISS Young 22' Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156067,21600024,4,3:47,Johnson REBOUND (Off:2 Def:5),nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156068,21600024,4,3:37,G. Hill 3' Driving Layup (20 PTS),nan,81 - 87,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+156069,21600024,4,3:24,nan,MISS Russell 25' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156070,21600024,4,3:23,Mack REBOUND (Off:0 Def:4),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156071,21600024,4,3:19,SUB: Hood FOR Exum,nan,nan,203957,Dante Exum,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+156072,21600024,4,3:09,MISS G. Hill 1' Driving Finger Roll Layup,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156073,21600024,4,3:07,Gobert REBOUND (Off:6 Def:5),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156074,21600024,4,3:07,MISS Gobert 1' Tip Layup Shot,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156075,21600024,4,3:03,nan,Randle REBOUND (Off:1 Def:3),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156076,21600024,4,3:02,nan,Deng Offensive Charge Foul (P2.PN) (B.Spooner),nan,2736,Luol Deng,LAL,201588,George Hill,UTA,0,nan,nan,Foul ,Offensive Charge
+156077,21600024,4,3:02,nan,Deng Foul Turnover (P1.T17),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+156078,21600024,4,3:02,JAZZ Timeout: Regular (Full 4 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+156079,21600024,4,2:50,nan,Young P.FOUL (P3.PN) (G.Petraitis),nan,201156,Nick Young,LAL,201588,George Hill,UTA,0,nan,nan,Foul ,Personal
+156080,21600024,4,2:50,MISS G. Hill Free Throw 1 of 2,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156081,21600024,4,2:50,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+156082,21600024,4,2:50,G. Hill Free Throw 2 of 2 (21 PTS),nan,81 - 88,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156083,21600024,4,2:37,Gobert S.FOUL (P2.T4) (G.Petraitis),nan,nan,203497,Rudy Gobert,UTA,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+156084,21600024,4,2:37,nan,Williams Free Throw 1 of 2 (16 PTS),82 - 88,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156085,21600024,4,2:37,nan,Williams Free Throw 2 of 2 (17 PTS),83 - 88,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156086,21600024,4,2:17,Johnson 24' 3PT Jump Shot (11 PTS) (G. Hill 3 AST),nan,83 - 91,2207,Joe Johnson,UTA,201588,George Hill,UTA,0,nan,nan,Made Shot ,nan
+156087,21600024,4,2:04,G. Hill BLOCK (1 BLK),MISS Williams 10' Floating Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,201588,George Hill,UTA,Missed Shot ,nan
+156088,21600024,4,2:04,G. Hill REBOUND (Off:0 Def:3),nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156089,21600024,4,1:42,MISS Johnson 26' 3PT Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156090,21600024,4,1:41,nan,Deng REBOUND (Off:1 Def:10),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156091,21600024,4,1:33,nan,Russell 21' Jump Shot (9 PTS),85 - 91,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+156092,21600024,4,1:10,MISS G. Hill 1' Finger Roll Layup,Randle BLOCK (2 BLK),nan,201588,George Hill,UTA,0,nan,nan,203944,Julius Randle,LAL,Missed Shot ,nan
+156093,21600024,4,1:09,nan,Russell REBOUND (Off:2 Def:3),nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156094,21600024,4,1:06,nan,Deng 2' Running Layup (12 PTS) (Williams 6 AST),87 - 91,2736,Luol Deng,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+156095,21600024,4,1:06,JAZZ Timeout: Regular (Full 5 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+156096,21600024,4,0:47,Hood OFF.Foul (P4) (B.Spooner),nan,nan,203918,Rodney Hood,UTA,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Offensive
+156097,21600024,4,0:47,Hood Foul Turnover (P1.T14),nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+156098,21600024,4,0:40,nan,MISS Russell 24' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156099,21600024,4,0:39,Gobert REBOUND (Off:6 Def:6),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156100,21600024,4,0:34,nan,Young P.FOUL (P4.PN) (B.Spooner),nan,201156,Nick Young,LAL,201588,George Hill,UTA,0,nan,nan,Foul ,Personal
+156101,21600024,4,0:34,G. Hill Free Throw 1 of 2 (22 PTS),nan,87 - 92,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156102,21600024,4,0:34,G. Hill Free Throw 2 of 2 (23 PTS),nan,87 - 93,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156103,21600024,4,0:25,nan,Randle 3' Driving Layup (7 PTS),89 - 93,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+156104,21600024,4,0:22,nan,Randle P.FOUL (P4.PN) (B.Spooner),nan,203944,Julius Randle,LAL,202714,Shelvin Mack,UTA,0,nan,nan,Foul ,Personal
+156105,21600024,4,0:22,MISS Mack Free Throw 1 of 2,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156106,21600024,4,0:22,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+156107,21600024,4,0:22,Mack Free Throw 2 of 2 (9 PTS),nan,89 - 94,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156108,21600024,4,0:17,nan,nan,nan,569,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+156109,21600024,4,0:11,nan,MISS Young 25' 3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156110,21600024,4,0:09,nan,Deng REBOUND (Off:2 Def:10),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156111,21600024,4,0:07,nan,MISS Deng 24' 3PT Jump Shot,nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156112,21600024,4,0:06,Gobert REBOUND (Off:6 Def:7),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156113,21600024,4,0:04,nan,Young P.FOUL (P5.PN) (B.Spooner),nan,201156,Nick Young,LAL,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal
+156114,21600024,4,0:04,Gobert Free Throw 1 of 2 (12 PTS),nan,89 - 95,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+156115,21600024,4,0:04,Gobert Free Throw 2 of 2 (13 PTS),nan,89 - 96,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+156116,21600024,4,0:04,nan,Lakers Timeout: Regular (Reg.6 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+156117,21600024,4,0:04,SUB: Ingles FOR Gobert,nan,nan,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+156118,21600024,4,0:01,nan,MISS Williams 27' 3PT Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+156119,21600024,4,0:00,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+156120,21600024,4,0:00,nan,nan,89 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

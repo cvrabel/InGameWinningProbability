@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+260901,21600873,4,12:00,nan,nan,76 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+260902,21600873,4,11:45,nan,MISS Hamilton 9' Jump Shot,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260903,21600873,4,11:45,Green REBOUND (Off:0 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260904,21600873,4,11:39,MISS Green 9' Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260905,21600873,4,11:38,Green REBOUND (Off:1 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260906,21600873,4,11:31,MISS Thompson 21' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260907,21600873,4,11:31,nan,Dinwiddie REBOUND (Off:0 Def:5),nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260908,21600873,4,11:27,West BLOCK (2 BLK),MISS Booker 3' Jump Shot,nan,202344,Trevor Booker,BKN,0,nan,nan,2561,David West,GSW,Missed Shot ,nan
+260909,21600873,4,11:26,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260910,21600873,4,11:16,nan,MISS Whitehead 1' Layup,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260911,21600873,4,11:15,nan,Kilpatrick REBOUND (Off:1 Def:7),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260912,21600873,4,11:14,nan,MISS Kilpatrick  Tip Layup Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260913,21600873,4,11:12,nan,Whitehead REBOUND (Off:1 Def:2),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260914,21600873,4,11:12,Iguodala BLOCK (1 BLK),MISS Whitehead 2' Layup,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+260915,21600873,4,11:12,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260916,21600873,4,11:02,nan,MISS Whitehead 11' Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260917,21600873,4,11:02,West REBOUND (Off:0 Def:1),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260918,21600873,4,10:44,MISS Thompson 18' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260919,21600873,4,10:44,nan,Kilpatrick REBOUND (Off:1 Def:8),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260920,21600873,4,10:33,nan,MISS Booker 14' Jump Shot,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260921,21600873,4,10:32,West REBOUND (Off:0 Def:2),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260922,21600873,4,10:25,nan,Hamilton P.FOUL (P2.T1) (M.Kogut),nan,203120,Justin Hamilton,BKN,2561,David West,GSW,0,nan,nan,Foul ,Personal
+260923,21600873,4,10:25,West T.FOUL (P1.T0) (M.Kogut),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+260924,21600873,4,10:25,nan,MISS Dinwiddie Free Throw Technical,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+260925,21600873,4,10:25,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+260926,21600873,4,10:25,nan,SUB: Lopez FOR Hamilton,nan,203120,Justin Hamilton,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+260927,21600873,4,10:25,SUB: McAdoo FOR Green,nan,nan,203110,Draymond Green,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+260928,21600873,4,10:15,West 16' Jump Shot (2 PTS) (Iguodala 7 AST),nan,76 - 93,2561,David West,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+260929,21600873,4,10:05,nan,Whitehead Out of Bounds - Bad Pass Turnover Turnover (P3.T15),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+260930,21600873,4,9:49,MISS Livingston 13' Fadeaway Jumper,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260931,21600873,4,9:49,nan,Lopez REBOUND (Off:0 Def:2),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260932,21600873,4,9:36,West S.FOUL (P2.T1) (M.Kogut),nan,nan,2561,David West,GSW,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Shooting
+260933,21600873,4,9:36,nan,Whitehead Free Throw 1 of 2 (7 PTS),77 - 93,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+260934,21600873,4,9:36,nan,MISS Whitehead Free Throw 2 of 2,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+260935,21600873,4,9:34,Iguodala REBOUND (Off:0 Def:2),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260936,21600873,4,9:19,MISS Iguodala  3PT Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260937,21600873,4,9:18,nan,Whitehead REBOUND (Off:1 Def:3),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260938,21600873,4,9:13,nan,Kilpatrick 2' Running Layup (15 PTS) (Whitehead 3 AST),79 - 93,203930,Sean Kilpatrick,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+260939,21600873,4,9:13,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+260940,21600873,4,8:58,MISS Thompson 27' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260941,21600873,4,8:58,McAdoo REBOUND (Off:1 Def:0),nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260942,21600873,4,8:57,nan,Booker S.FOUL (P1.T2) (Z.Zarba),nan,202344,Trevor Booker,BKN,203949,James Michael McAdoo,GSW,0,nan,nan,Foul ,Shooting
+260943,21600873,4,8:57,MISS McAdoo Free Throw 1 of 2,nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+260944,21600873,4,8:57,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+260945,21600873,4,8:57,MISS McAdoo Free Throw 2 of 2,nan,nan,203949,James Michael McAdoo,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+260946,21600873,4,8:56,nan,Lopez REBOUND (Off:0 Def:3),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260947,21600873,4,8:42,nan,Whitehead  Driving Dunk (9 PTS) (Lopez 4 AST),81 - 93,1627785,Isaiah Whitehead,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+260948,21600873,4,8:30,MISS Livingston 14' Fadeaway Jumper,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260949,21600873,4,8:30,nan,Kilpatrick REBOUND (Off:1 Def:9),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260950,21600873,4,8:12,Iguodala BLOCK (2 BLK),MISS Kilpatrick 7' Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+260951,21600873,4,8:12,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260952,21600873,4,8:04,nan,MISS Kilpatrick 52' 3PT Jump Shot,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260953,21600873,4,8:04,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260954,21600873,4,8:04,nan,Nets Turnover: Shot Clock (T#16),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+260955,21600873,4,7:45,Livingston 14' Turnaround Fadeaway (6 PTS),nan,81 - 95,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+260956,21600873,4,7:35,nan,Booker 1' Cutting Finger Roll Layup Shot (8 PTS) (Kilpatrick 2 AST),83 - 95,202344,Trevor Booker,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+260957,21600873,4,7:11,MISS West 19' Jump Shot,nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260958,21600873,4,7:11,nan,Whitehead REBOUND (Off:1 Def:4),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260959,21600873,4,6:59,West BLOCK (3 BLK),MISS Booker 3' Reverse Layup,nan,202344,Trevor Booker,BKN,0,nan,nan,2561,David West,GSW,Missed Shot ,nan
+260960,21600873,4,6:58,West REBOUND (Off:0 Def:3),nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260961,21600873,4,6:54,McAdoo  Running Dunk (6 PTS) (Iguodala 8 AST),nan,83 - 97,203949,James Michael McAdoo,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+260962,21600873,4,6:54,nan,Nets Timeout: Regular (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+260963,21600873,4,6:54,SUB: Clark FOR Thompson,nan,nan,202691,Klay Thompson,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+260964,21600873,4,6:54,SUB: Curry FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+260965,21600873,4,6:54,nan,SUB: Foye FOR Kilpatrick,nan,203930,Sean Kilpatrick,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+260966,21600873,4,6:54,nan,SUB: Harris FOR Whitehead,nan,1627785,Isaiah Whitehead,BKN,203925,Joe Harris,BKN,0,nan,nan,Substitution ,nan
+260967,21600873,4,6:41,West S.FOUL (P3.T2) (Z.Zarba),nan,nan,2561,David West,GSW,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+260968,21600873,4,6:41,nan,MISS Lopez Free Throw 1 of 2,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+260969,21600873,4,6:41,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+260970,21600873,4,6:41,nan,Lopez Free Throw 2 of 2 (6 PTS),84 - 97,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+260971,21600873,4,6:18,Livingston Lost Ball Turnover (P1.T11),Lopez STEAL (1 STL),nan,2733,Shaun Livingston,GSW,201572,Brook Lopez,BKN,0,nan,nan,Turnover ,Lost Ball
+260972,21600873,4,6:14,nan,Dinwiddie  Running Dunk (11 PTS) (Lopez 5 AST),86 - 97,203915,Spencer Dinwiddie,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+260973,21600873,4,5:54,MISS West 16' Jump Shot,nan,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260974,21600873,4,5:52,nan,Booker REBOUND (Off:2 Def:6),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260975,21600873,4,5:43,nan,Lopez 26' 3PT Jump Shot (9 PTS) (Dinwiddie 5 AST),89 - 97,201572,Brook Lopez,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+260976,21600873,4,5:21,Curry 22' Step Back Jump Shot (21 PTS),nan,89 - 99,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+260977,21600873,4,5:10,West S.FOUL (P4.T3) (M.Kogut),nan,nan,2561,David West,GSW,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+260978,21600873,4,5:10,nan,Dinwiddie Free Throw 1 of 3 (12 PTS),90 - 99,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+260979,21600873,4,5:10,nan,Dinwiddie Free Throw 2 of 3 (13 PTS),91 - 99,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+260980,21600873,4,5:10,SUB: Pachulia FOR West,nan,nan,2561,David West,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Substitution ,nan
+260981,21600873,4,5:10,nan,MISS Dinwiddie Free Throw 3 of 3,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+260982,21600873,4,5:09,Pachulia REBOUND (Off:1 Def:8),nan,nan,2585,Zaza Pachulia,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260983,21600873,4,4:45,MISS Curry 3' Driving Reverse Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260984,21600873,4,4:45,nan,Lopez REBOUND (Off:0 Def:4),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260985,21600873,4,4:38,nan,MISS Dinwiddie 2' Running Layup,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260986,21600873,4,4:38,Livingston REBOUND (Off:0 Def:2),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260987,21600873,4,4:24,MISS Clark 25' 3PT Pullup Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260988,21600873,4,4:23,nan,Foye REBOUND (Off:0 Def:3),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260989,21600873,4,4:13,nan,MISS Lopez 27' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260990,21600873,4,4:13,nan,Booker REBOUND (Off:3 Def:6),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260991,21600873,4,4:02,Curry STEAL (3 STL),Foye Bad Pass Turnover (P2.T17),nan,200751,Randy Foye,BKN,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+260992,21600873,4,4:01,nan,Dinwiddie P.FOUL (P5.T3) (Z.Zarba),nan,203915,Spencer Dinwiddie,BKN,2585,Zaza Pachulia,GSW,0,nan,nan,Foul ,Personal
+260993,21600873,4,4:01,SUB: Iguodala FOR McAdoo,nan,nan,203949,James Michael McAdoo,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+260994,21600873,4,4:01,SUB: McCaw FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+260995,21600873,4,4:01,nan,SUB: Kilpatrick FOR Dinwiddie,nan,203915,Spencer Dinwiddie,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+260996,21600873,4,3:47,MISS Curry 26' 3PT Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260997,21600873,4,3:47,nan,Booker REBOUND (Off:3 Def:7),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260998,21600873,4,3:40,nan,MISS Foye  3PT Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260999,21600873,4,3:40,McCaw REBOUND (Off:0 Def:4),nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261000,21600873,4,3:31,MISS Clark 26' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261001,21600873,4,3:31,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261002,21600873,4,3:31,Pachulia L.B.FOUL (P5.T4) (M.Kogut),nan,nan,2585,Zaza Pachulia,GSW,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Loose Ball
+261003,21600873,4,3:31,nan,SUB: Whitehead FOR Foye,nan,200751,Randy Foye,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+261004,21600873,4,3:21,nan,MISS Lopez 4' Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261005,21600873,4,3:20,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261006,21600873,4,3:20,nan,Booker L.B.FOUL (P2.T4) (P.Fraher),nan,202344,Trevor Booker,BKN,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Loose Ball
+261007,21600873,4,3:20,SUB: Thompson FOR Clark,nan,nan,203546,Ian Clark,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+261008,21600873,4,2:59,Curry 3' Driving Finger Roll Layup (23 PTS),nan,91 - 101,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+261009,21600873,4,2:59,nan,Lopez S.FOUL (P3.PN) (M.Kogut),nan,201572,Brook Lopez,BKN,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+261010,21600873,4,2:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+261011,21600873,4,2:59,Curry Free Throw 1 of 1 (24 PTS),nan,91 - 102,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+261012,21600873,4,2:45,nan,MISS Lopez 2' Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261013,21600873,4,2:45,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261014,21600873,4,2:31,Curry 26' 3PT Pullup Jump Shot (27 PTS) (Thompson 4 AST),nan,91 - 105,201939,Stephen Curry,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+261015,21600873,4,2:20,nan,MISS Whitehead 8' Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261016,21600873,4,2:20,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261017,21600873,4,2:20,SUB: Weber FOR Curry,nan,nan,201939,Stephen Curry,GSW,1627362,Briante Weber,GSW,0,nan,nan,Substitution ,nan
+261018,21600873,4,2:04,McCaw 25' 3PT Jump Shot (9 PTS) (Pachulia 3 AST),nan,91 - 108,1627775,Patrick McCaw,GSW,2585,Zaza Pachulia,GSW,0,nan,nan,Made Shot ,nan
+261019,21600873,4,1:47,nan,MISS Whitehead 4' Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261020,21600873,4,1:46,Weber REBOUND (Off:0 Def:1),nan,nan,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261021,21600873,4,1:39,Weber 1' Cutting Layup Shot (2 PTS) (Iguodala 9 AST),nan,91 - 110,1627362,Briante Weber,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+261022,21600873,4,1:39,nan,Nets Timeout: Regular (Reg.5 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+261023,21600873,4,1:39,nan,SUB: Hamilton FOR Harris,nan,203925,Joe Harris,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+261024,21600873,4,1:39,nan,SUB: McDaniels FOR Lopez,nan,201572,Brook Lopez,BKN,203909,KJ McDaniels,BKN,0,nan,nan,Substitution ,nan
+261025,21600873,4,1:39,SUB: Clark FOR Pachulia,nan,nan,2585,Zaza Pachulia,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+261026,21600873,4,1:39,SUB: Looney FOR Thompson,nan,nan,202691,Klay Thompson,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+261027,21600873,4,1:39,SUB: McAdoo FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,203949,James Michael McAdoo,GSW,0,nan,nan,Substitution ,nan
+261028,21600873,4,1:22,nan,Booker 5' Hook Shot (10 PTS) (Whitehead 4 AST),93 - 110,202344,Trevor Booker,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+261029,21600873,4,1:06,MISS McCaw 26' 3PT Jump Shot,nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261030,21600873,4,1:06,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261031,21600873,4,0:53,Weber STEAL (1 STL),Whitehead Bad Pass Turnover (P4.T18),nan,1627785,Isaiah Whitehead,BKN,1627362,Briante Weber,GSW,0,nan,nan,Turnover ,Bad Pass
+261032,21600873,4,0:48,Weber 17' Running Jump Shot (4 PTS),nan,93 - 112,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+261033,21600873,4,0:33,nan,Booker 1' Reverse Layup (12 PTS),95 - 112,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+261034,21600873,4,0:16,MISS Weber 29' 3PT Jump Shot,nan,nan,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+261035,21600873,4,0:15,nan,Hamilton REBOUND (Off:2 Def:2),nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+261036,21600873,4,0:00,nan,nan,95 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

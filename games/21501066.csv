@@ -1,0 +1,125 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+132989,21501066,4,12:00,nan,nan,72 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+132990,21501066,4,11:42,Barbosa STEAL (2 STL),Crawford Lost Ball Turnover (P1.T8),nan,2037,Jamal Crawford,LAC,2571,Leandro Barbosa,GSW,0,nan,nan,Turnover ,Lost Ball
+132991,21501066,4,11:38,nan,Redick S.FOUL (P3.T1) (M.Smith),nan,200755,JJ Redick,LAC,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Shooting
+132992,21501066,4,11:38,Barbosa Free Throw 1 of 2 (6 PTS),nan,72 - 82,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132993,21501066,4,11:38,Barbosa Free Throw 2 of 2 (7 PTS),nan,72 - 83,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132994,21501066,4,11:28,nan,MISS Redick 5' Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132995,21501066,4,11:27,Speights REBOUND (Off:0 Def:3),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132996,21501066,4,11:19,MISS Speights 26' 3PT Jump Shot,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132997,21501066,4,11:19,nan,Aldrich REBOUND (Off:1 Def:1),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132998,21501066,4,11:02,nan,Aldrich 4' Hook Shot (2 PTS) (Rivers 1 AST),74 - 83,202332,Cole Aldrich,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+132999,21501066,4,10:47,Thompson 26' 3PT Jump Shot (19 PTS) (Livingston 2 AST),nan,74 - 86,202691,Klay Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+133000,21501066,4,10:31,Speights BLOCK (2 BLK),MISS Rivers 6' Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,201578,Marreese Speights,GSW,Missed Shot ,nan
+133001,21501066,4,10:30,Thompson REBOUND (Off:0 Def:3),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133002,21501066,4,10:24,Thompson Out of Bounds - Bad Pass Turnover Turnover (P3.T10),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+133003,21501066,4,10:14,nan,MISS Redick 26' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133004,21501066,4,10:13,Barnes REBOUND (Off:0 Def:3),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133005,21501066,4,9:54,Livingston Lost Ball Turnover (P2.T11),Crawford STEAL (2 STL),nan,2733,Shaun Livingston,GSW,2037,Jamal Crawford,LAC,0,nan,nan,Turnover ,Lost Ball
+133006,21501066,4,9:48,nan,MISS Crawford 4' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133007,21501066,4,9:48,Barnes REBOUND (Off:0 Def:4),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133008,21501066,4,9:42,MISS Livingston 7' Jump Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133009,21501066,4,9:40,Speights REBOUND (Off:1 Def:3),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133010,21501066,4,9:39,MISS Speights 2' Layup,Aldrich BLOCK (2 BLK),nan,201578,Marreese Speights,GSW,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+133011,21501066,4,9:37,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133012,21501066,4,9:37,Jump Ball Speights vs. Aldrich: Tip to,nan,nan,201578,Marreese Speights,GSW,202332,Cole Aldrich,LAC,1610612744,nan,nan,Jump Ball ,nan
+133013,21501066,4,9:32,Thompson 25' 3PT Jump Shot (22 PTS) (Livingston 3 AST),nan,74 - 89,202691,Klay Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+133014,21501066,4,9:14,nan,MISS Green 9' Turnaround Hook Shot,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133015,21501066,4,9:13,Barnes REBOUND (Off:0 Def:5),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133016,21501066,4,9:06,nan,Aldrich S.FOUL (P1.T2) (M.Smith),nan,202332,Cole Aldrich,LAC,201578,Marreese Speights,GSW,0,nan,nan,Foul ,Shooting
+133017,21501066,4,9:06,Speights Free Throw 1 of 2 (4 PTS),nan,74 - 90,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133018,21501066,4,9:06,nan,SUB: Jordan FOR Aldrich,nan,202332,Cole Aldrich,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+133019,21501066,4,9:06,nan,SUB: Paul FOR Green,nan,201145,Jeff Green,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+133020,21501066,4,9:06,MISS Speights Free Throw 2 of 2,nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133021,21501066,4,9:05,nan,Jordan REBOUND (Off:2 Def:17),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133022,21501066,4,8:48,nan,Rivers 26' 3PT Jump Shot (10 PTS) (Crawford 6 AST),77 - 90,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+133023,21501066,4,8:41,WARRIORS Timeout: Regular (Full 4 Short 1),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133024,21501066,4,8:41,nan,nan,nan,420,Jayson Williams,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+133025,21501066,4,8:41,SUB: Curry FOR Barbosa,nan,nan,2571,Leandro Barbosa,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+133026,21501066,4,8:41,SUB: Green FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+133027,21501066,4,8:36,nan,Crawford P.FOUL (P1.T3) (M.Smith),nan,2037,Jamal Crawford,LAC,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal
+133028,21501066,4,8:25,MISS Thompson 24' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133029,21501066,4,8:22,Speights REBOUND (Off:2 Def:3),nan,nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133030,21501066,4,8:19,MISS Thompson  3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133031,21501066,4,8:19,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133032,21501066,4,8:19,Speights L.B.FOUL (P2.T1) (K.Cutler),nan,nan,201578,Marreese Speights,GSW,200755,JJ Redick,LAC,0,nan,nan,Foul ,Loose Ball
+133033,21501066,4,8:07,nan,Jordan 2' Driving Layup (19 PTS),79 - 90,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+133034,21501066,4,7:55,MISS Thompson 12' Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133035,21501066,4,7:55,nan,Jordan REBOUND (Off:2 Def:18),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133036,21501066,4,7:45,Speights S.FOUL (P3.T2) (M.Smith),nan,nan,201578,Marreese Speights,GSW,101108,Chris Paul,LAC,0,nan,nan,Foul ,Shooting
+133037,21501066,4,7:45,nan,Paul Free Throw 1 of 2 (10 PTS),80 - 90,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133038,21501066,4,7:45,nan,Paul Free Throw 2 of 2 (11 PTS),81 - 90,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133039,21501066,4,7:32,MISS Thompson 4' Jump Shot,Jordan BLOCK (2 BLK),nan,202691,Klay Thompson,GSW,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+133040,21501066,4,7:31,nan,Redick REBOUND (Off:1 Def:4),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133041,21501066,4,7:20,Thompson P.FOUL (P2.T3) (Z.Zarba),nan,nan,202691,Klay Thompson,GSW,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Personal
+133042,21501066,4,7:20,nan,Rivers Free Throw 1 of 2 (11 PTS),82 - 90,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133043,21501066,4,7:20,SUB: Rush FOR Speights,nan,nan,201578,Marreese Speights,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+133044,21501066,4,7:20,nan,Rivers Free Throw 2 of 2 (12 PTS),83 - 90,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133045,21501066,4,7:11,Thompson 2' Cutting Layup Shot (24 PTS) (Green 4 AST),nan,83 - 92,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+133046,21501066,4,7:11,nan,Redick S.FOUL (P4.T4) (K.Cutler),nan,200755,JJ Redick,LAC,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+133047,21501066,4,7:11,Thompson Free Throw 1 of 1 (25 PTS),nan,83 - 93,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+133048,21501066,4,6:58,Curry STEAL (3 STL),Paul Lost Ball Turnover (P3.T9),nan,101108,Chris Paul,LAC,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Lost Ball
+133049,21501066,4,6:52,MISS Curry 2' Running Layup,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133050,21501066,4,6:52,nan,Paul REBOUND (Off:1 Def:5),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133051,21501066,4,6:40,nan,MISS Paul 17' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133052,21501066,4,6:39,Curry REBOUND (Off:0 Def:4),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133053,21501066,4,6:34,Thompson 2' Running Layup (27 PTS) (Curry 3 AST),nan,83 - 95,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+133054,21501066,4,6:34,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133055,21501066,4,6:19,Curry P.FOUL (P2.T4) (Z.Zarba),nan,nan,201939,Stephen Curry,GSW,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+133056,21501066,4,6:09,nan,Crawford 8' Floating Jump Shot (12 PTS),85 - 95,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+133057,21501066,4,5:49,Thompson 2' Driving Finger Roll Layup (29 PTS),nan,85 - 97,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+133058,21501066,4,5:32,nan,Redick 1' Driving Layup (9 PTS),87 - 97,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+133059,21501066,4,5:22,Green 1' Driving Layup (11 PTS) (Curry 4 AST),nan,87 - 99,203110,Draymond Green,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+133060,21501066,4,5:22,nan,Paul S.FOUL (P4.PN) (Z.Zarba),nan,101108,Chris Paul,LAC,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+133061,21501066,4,5:22,nan,Clippers Timeout: Regular (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+133062,21501066,4,5:22,Green Free Throw 1 of 1 (12 PTS),nan,87 - 100,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+133063,21501066,4,5:13,Green STEAL (2 STL),Crawford Bad Pass Turnover (P2.T10),nan,2037,Jamal Crawford,LAC,203110,Draymond Green,GSW,0,nan,nan,Turnover ,Bad Pass
+133064,21501066,4,4:54,MISS Rush  3PT Jump Shot,nan,nan,201575,Brandon Rush,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133065,21501066,4,4:54,nan,Rivers REBOUND (Off:0 Def:3),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133066,21501066,4,4:44,nan,MISS Crawford 18' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133067,21501066,4,4:43,Green REBOUND (Off:1 Def:10),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133068,21501066,4,4:29,Green OFF.Foul (P4) (Z.Zarba),nan,nan,203110,Draymond Green,GSW,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Offensive
+133069,21501066,4,4:29,Green Foul Turnover (P4.T12),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Turnover ,Foul
+133070,21501066,4,4:29,SUB: Livingston FOR Rush,nan,nan,201575,Brandon Rush,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Substitution ,nan
+133071,21501066,4,4:10,nan,MISS Paul 26' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133072,21501066,4,4:09,Barnes REBOUND (Off:0 Def:6),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133073,21501066,4,4:00,nan,Jordan P.FOUL (P5.PN) (Z.Zarba),nan,201599,DeAndre Jordan,LAC,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+133074,21501066,4,4:00,Curry Free Throw 1 of 2 (24 PTS),nan,87 - 101,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133075,21501066,4,4:00,Curry Free Throw 2 of 2 (25 PTS),nan,87 - 102,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133076,21501066,4,3:42,nan,Rivers 12' Floating Jump Shot (14 PTS) (Paul 8 AST),89 - 102,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+133077,21501066,4,3:27,Curry 27' 3PT Jump Shot (28 PTS),nan,89 - 105,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+133078,21501066,4,3:16,Curry P.FOUL (P3.PN) (Z.Zarba),nan,nan,201939,Stephen Curry,GSW,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+133079,21501066,4,3:16,Curry T.FOUL (P3.PN) (Z.Zarba),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Foul ,Technical
+133080,21501066,4,3:16,nan,Paul Free Throw Technical (12 PTS),90 - 105,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+133081,21501066,4,3:16,nan,MISS Paul Free Throw 1 of 2,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133082,21501066,4,3:16,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+133083,21501066,4,3:16,nan,Paul Free Throw 2 of 2 (13 PTS),91 - 105,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133084,21501066,4,2:56,MISS Curry 24' 3PT Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133085,21501066,4,2:54,Livingston REBOUND (Off:3 Def:2),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133086,21501066,4,2:53,nan,Redick P.FOUL (P5.PN) (K.Cutler),nan,200755,JJ Redick,LAC,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Personal
+133087,21501066,4,2:53,Livingston Free Throw 1 of 2 (11 PTS),nan,91 - 106,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+133088,21501066,4,2:53,nan,SUB: Prigioni FOR Paul,nan,101108,Chris Paul,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Substitution ,nan
+133089,21501066,4,2:53,nan,SUB: W. Johnson FOR Jordan,nan,201599,DeAndre Jordan,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+133090,21501066,4,2:53,MISS Livingston Free Throw 2 of 2,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+133091,21501066,4,2:52,nan,Crawford REBOUND (Off:0 Def:1),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133092,21501066,4,2:30,nan,MISS Crawford 10' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133093,21501066,4,2:29,Green REBOUND (Off:1 Def:11),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133094,21501066,4,2:29,nan,Crawford T.FOUL (P1.PN) (Z.Zarba),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Foul ,Technical
+133095,21501066,4,2:29,Curry Free Throw Technical (29 PTS),nan,91 - 107,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+133096,21501066,4,2:29,nan,SUB: Green FOR Crawford,nan,2037,Jamal Crawford,LAC,201145,Jeff Green,LAC,0,nan,nan,Substitution ,nan
+133097,21501066,4,2:29,nan,SUB: Ayres FOR Redick,nan,200755,JJ Redick,LAC,201965,Jeff Ayres,LAC,0,nan,nan,Substitution ,nan
+133098,21501066,4,2:08,MISS Barnes 26' 3PT Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133099,21501066,4,2:06,nan,Rivers REBOUND (Off:0 Def:4),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133100,21501066,4,2:00,nan,Prigioni 24' 3PT Jump Shot (3 PTS) (Rivers 2 AST),94 - 107,203143,Pablo Prigioni,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+133101,21501066,4,1:40,MISS Thompson 16' Turnaround Fadeaway Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133102,21501066,4,1:40,nan,Green REBOUND (Off:0 Def:3),nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133103,21501066,4,1:24,nan,MISS Green 13' Jump Shot,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133104,21501066,4,1:23,Thompson REBOUND (Off:0 Def:4),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133105,21501066,4,1:08,Curry 1' Driving Layup (31 PTS),nan,94 - 109,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+133106,21501066,4,0:57,nan,MISS Prigioni 10' Jump Bank Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+133107,21501066,4,0:57,nan,Ayres REBOUND (Off:1 Def:0),nan,201965,Jeff Ayres,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+133108,21501066,4,0:56,nan,Ayres 2' Putback Layup (2 PTS),96 - 109,201965,Jeff Ayres,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+133109,21501066,4,0:41,Curry 1' Driving Layup (33 PTS),nan,96 - 111,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+133110,21501066,4,0:32,nan,Rivers 18' Pullup Jump Shot (16 PTS),98 - 111,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+133111,21501066,4,0:18,Thompson 26' 3PT Fadeaway Jumper (32 PTS) (Curry 5 AST),nan,98 - 114,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+133112,21501066,4,0:00,nan,nan,98 - 114,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

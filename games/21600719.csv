@@ -1,0 +1,158 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+241829,21600719,4,12:00,nan,nan,77 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+241830,21600719,4,11:44,Reed S.FOUL (P2.T1) (S.Anderson),nan,nan,203186,Willie Reed,MIA,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+241831,21600719,4,11:44,nan,Dinwiddie Free Throw 1 of 2 (7 PTS),78 - 84,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241832,21600719,4,11:44,nan,Dinwiddie Free Throw 2 of 2 (8 PTS),79 - 84,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241833,21600719,4,11:21,nan,Foye S.FOUL (P2.T1) (S.Anderson),nan,200751,Randy Foye,BKN,1627855,Okaro White,MIA,0,nan,nan,Foul ,Shooting
+241834,21600719,4,11:21,White Free Throw 1 of 2 (6 PTS),nan,79 - 85,1627855,Okaro White,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241835,21600719,4,11:21,White Free Throw 2 of 2 (7 PTS),nan,79 - 86,1627855,Okaro White,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241836,21600719,4,11:15,White S.FOUL (P1.T2) (S.Anderson),nan,nan,1627855,Okaro White,MIA,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+241837,21600719,4,11:15,nan,Hollis-Jefferson Free Throw 1 of 2 (3 PTS),80 - 86,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241838,21600719,4,11:15,nan,Hollis-Jefferson Free Throw 2 of 2 (4 PTS),81 - 86,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241839,21600719,4,11:04,MISS Dragic 1' Layup,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241840,21600719,4,10:59,Jump Ball Reed vs. Hollis-Jefferson: Tip to Ellington,nan,nan,203186,Willie Reed,MIA,1626178,Rondae Hollis-Jefferson,BKN,201961,Wayne Ellington,MIA,Jump Ball ,nan
+241841,21600719,4,10:59,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241842,21600719,4,10:53,nan,Dinwiddie P.FOUL (P2.T2) (S.Anderson),nan,203915,Spencer Dinwiddie,BKN,201961,Wayne Ellington,MIA,0,nan,nan,Foul ,Personal
+241843,21600719,4,10:53,SUB: Whiteside FOR Reed,nan,nan,203186,Willie Reed,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+241844,21600719,4,10:41,nan,Foye P.FOUL (P3.T3) (D.Stafford),nan,200751,Randy Foye,BKN,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Personal
+241845,21600719,4,10:41,Johnson Free Throw 1 of 2 (1 PTS),nan,81 - 87,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241846,21600719,4,10:41,MISS Johnson Free Throw 2 of 2,nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241847,21600719,4,10:40,nan,Hollis-Jefferson REBOUND (Off:2 Def:8),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241848,21600719,4,10:27,nan,MISS Hollis-Jefferson  3PT Jump Shot,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241849,21600719,4,10:26,nan,Foye REBOUND (Off:2 Def:2),nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241850,21600719,4,10:25,Dragic P.FOUL (P3.T3) (S.Anderson),nan,nan,201609,Goran Dragic,MIA,200751,Randy Foye,BKN,0,nan,nan,Foul ,Personal
+241851,21600719,4,10:16,Johnson STEAL (1 STL),Hollis-Jefferson Lost Ball Turnover (P2.T12),nan,1626178,Rondae Hollis-Jefferson,BKN,204020,Tyler Johnson,MIA,0,nan,nan,Turnover ,Lost Ball
+241852,21600719,4,9:53,MISS Whiteside 8' Hook Shot,nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241853,21600719,4,9:52,nan,Bogdanovic REBOUND (Off:0 Def:4),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241854,21600719,4,9:38,nan,MISS Bogdanovic 14' Jump Bank Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241855,21600719,4,9:37,Whiteside REBOUND (Off:1 Def:5),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241856,21600719,4,9:26,Dragic 9' Floating Jump Shot (16 PTS),nan,81 - 89,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+241857,21600719,4,9:18,Dragic S.FOUL (P4.T4) (D.Stafford),nan,nan,201609,Goran Dragic,MIA,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+241858,21600719,4,9:18,nan,Dinwiddie Free Throw 1 of 2 (9 PTS),82 - 89,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241859,21600719,4,9:18,SUB: Johnson FOR Dragic,nan,nan,201609,Goran Dragic,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+241860,21600719,4,9:18,nan,Dinwiddie Free Throw 2 of 2 (10 PTS),83 - 89,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241861,21600719,4,9:04,nan,Hollis-Jefferson P.FOUL (P3.T4) (S.Anderson),nan,1626178,Rondae Hollis-Jefferson,BKN,201949,James Johnson,MIA,0,nan,nan,Foul ,Personal
+241862,21600719,4,8:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+241863,21600719,4,8:54,Johnson OFF.Foul (P1) (D.Stafford),nan,nan,204020,Tyler Johnson,MIA,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Offensive
+241864,21600719,4,8:54,Johnson Foul Turnover (P1.T11),nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Foul
+241865,21600719,4,8:45,nan,MISS Bogdanovic 25' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241866,21600719,4,8:44,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241867,21600719,4,8:44,SUB: Waiters FOR Ellington,nan,nan,201961,Wayne Ellington,MIA,203079,Dion Waiters,MIA,0,nan,nan,Substitution ,nan
+241868,21600719,4,8:38,nan,MISS Dinwiddie 8' Jump Shot,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241869,21600719,4,8:37,Whiteside REBOUND (Off:1 Def:6),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241870,21600719,4,8:14,MISS White 24' 3PT Jump Shot,nan,nan,1627855,Okaro White,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241871,21600719,4,8:13,nan,Hollis-Jefferson REBOUND (Off:2 Def:9),nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241872,21600719,4,8:04,nan,Foye 17' Jump Shot (5 PTS),85 - 89,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+241873,21600719,4,7:46,nan,Hollis-Jefferson S.FOUL (P4.PN) (J.Tiven),nan,1626178,Rondae Hollis-Jefferson,BKN,201949,James Johnson,MIA,0,nan,nan,Foul ,Shooting
+241874,21600719,4,7:46,Johnson Free Throw 1 of 2 (14 PTS),nan,85 - 90,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241875,21600719,4,7:46,nan,SUB: Booker FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+241876,21600719,4,7:46,nan,SUB: Lopez FOR Hamilton,nan,203120,Justin Hamilton,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+241877,21600719,4,7:46,Johnson Free Throw 2 of 2 (15 PTS),nan,85 - 91,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241878,21600719,4,7:27,nan,MISS Foye 24' 3PT Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241879,21600719,4,7:26,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241880,21600719,4,7:17,MISS Waiters 2' Driving Layup,Lopez BLOCK (2 BLK),nan,203079,Dion Waiters,MIA,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+241881,21600719,4,7:16,nan,Booker REBOUND (Off:1 Def:3),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241882,21600719,4,7:03,Whiteside S.FOUL (P3.PN) (D.Stafford),nan,nan,202355,Hassan Whiteside,MIA,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+241883,21600719,4,7:03,nan,MISS Lopez Free Throw 1 of 2,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241884,21600719,4,7:03,nan,Nets Rebound,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+241885,21600719,4,7:03,nan,MISS Lopez Free Throw 2 of 2,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241886,21600719,4,7:02,Whiteside REBOUND (Off:1 Def:7),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241887,21600719,4,6:42,Johnson 1' Layup (3 PTS) (Johnson 5 AST),nan,85 - 93,204020,Tyler Johnson,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+241888,21600719,4,6:28,Whiteside S.FOUL (P4.PN) (J.Tiven),nan,nan,202355,Hassan Whiteside,MIA,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+241889,21600719,4,6:28,nan,Lopez Free Throw 1 of 2 (13 PTS),86 - 93,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241890,21600719,4,6:28,nan,Lopez Free Throw 2 of 2 (14 PTS),87 - 93,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241891,21600719,4,6:12,MISS Johnson 25' 3PT Jump Shot,nan,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241892,21600719,4,6:11,nan,Booker REBOUND (Off:1 Def:4),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241893,21600719,4,6:01,nan,MISS Foye 25' 3PT Step Back Jump Shot,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241894,21600719,4,6:00,nan,Dinwiddie REBOUND (Off:1 Def:3),nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241895,21600719,4,5:54,nan,MISS Bogdanovic 24' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241896,21600719,4,5:50,Whiteside REBOUND (Off:1 Def:8),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241897,21600719,4,5:39,MISS Waiters 21' Jump Shot,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241898,21600719,4,5:38,nan,Dinwiddie REBOUND (Off:1 Def:4),nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241899,21600719,4,5:30,nan,MISS Bogdanovic 1' Driving Layup,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241900,21600719,4,5:29,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241901,21600719,4,5:29,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241902,21600719,4,5:29,nan,SUB: LeVert FOR Foye,nan,200751,Randy Foye,BKN,1627747,Caris LeVert,BKN,0,nan,nan,Substitution ,nan
+241903,21600719,4,5:29,nan,SUB: Whitehead FOR Dinwiddie,nan,203915,Spencer Dinwiddie,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+241904,21600719,4,5:29,SUB: Dragic FOR Johnson,nan,nan,204020,Tyler Johnson,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+241905,21600719,4,5:29,SUB: McGruder FOR White,nan,nan,1627855,Okaro White,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Substitution ,nan
+241906,21600719,4,5:18,Waiters 2' Driving Layup (18 PTS),nan,87 - 95,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+241907,21600719,4,5:00,Whiteside S.FOUL (P5.PN) (D.Stafford),nan,nan,202355,Hassan Whiteside,MIA,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Shooting
+241908,21600719,4,5:00,nan,Booker Free Throw 1 of 2 (8 PTS),88 - 95,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241909,21600719,4,5:00,SUB: Reed FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,203186,Willie Reed,MIA,0,nan,nan,Substitution ,nan
+241910,21600719,4,5:00,nan,MISS Booker Free Throw 2 of 2,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241911,21600719,4,4:59,nan,Lopez REBOUND (Off:2 Def:1),nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241912,21600719,4,4:55,nan,MISS Lopez 3' Layup,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241913,21600719,4,4:54,nan,LeVert REBOUND (Off:1 Def:2),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241914,21600719,4,4:51,nan,MISS Bogdanovic 25' 3PT Jump Shot,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241915,21600719,4,4:49,nan,Booker REBOUND (Off:2 Def:4),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241916,21600719,4,4:47,nan,Booker  Tip Dunk Shot (10 PTS),90 - 95,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+241917,21600719,4,4:18,MISS McGruder 8' Floating Jump Shot,nan,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241918,21600719,4,4:17,nan,Booker REBOUND (Off:2 Def:5),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241919,21600719,4,4:06,nan,Booker OFF.Foul (P2) (D.Stafford),nan,202344,Trevor Booker,BKN,203079,Dion Waiters,MIA,0,nan,nan,Foul ,Offensive
+241920,21600719,4,4:06,nan,Booker Foul Turnover (P3.T13),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+241921,21600719,4,3:50,MISS Johnson 14' Jump Shot,nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241922,21600719,4,3:49,nan,Booker REBOUND (Off:2 Def:6),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241923,21600719,4,3:32,nan,MISS Lopez 6' Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241924,21600719,4,3:31,Johnson REBOUND (Off:0 Def:4),nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241925,21600719,4,3:28,MISS Dragic 1' Driving Layup,Booker BLOCK (1 BLK),nan,201609,Goran Dragic,MIA,0,nan,nan,202344,Trevor Booker,BKN,Missed Shot ,nan
+241926,21600719,4,3:27,nan,Bogdanovic REBOUND (Off:0 Def:5),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241927,21600719,4,3:18,nan,MISS Lopez 25' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241928,21600719,4,3:17,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241929,21600719,4,3:02,Reed 2' Layup (6 PTS) (Dragic 8 AST),nan,90 - 97,203186,Willie Reed,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+241930,21600719,4,3:02,nan,Nets Timeout: Regular (Reg.4 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241931,21600719,4,2:48,nan,MISS LeVert 16' Jump Shot,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241932,21600719,4,2:47,nan,LeVert REBOUND (Off:2 Def:2),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241933,21600719,4,2:34,Reed S.FOUL (P3.PN) (J.Tiven),nan,nan,203186,Willie Reed,MIA,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Shooting
+241934,21600719,4,2:34,nan,Booker Free Throw 1 of 2 (11 PTS),91 - 97,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241935,21600719,4,2:34,nan,MISS Booker Free Throw 2 of 2,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241936,21600719,4,2:33,McGruder REBOUND (Off:0 Def:1),nan,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241937,21600719,4,2:11,MISS Waiters 2' Driving Layup,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241938,21600719,4,2:10,nan,Bogdanovic REBOUND (Off:0 Def:6),nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241939,21600719,4,2:00,nan,Booker 9' Hook Shot (13 PTS),93 - 97,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+241940,21600719,4,1:41,MISS Dragic 12' Pullup Jump Shot,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241941,21600719,4,1:40,Reed REBOUND (Off:1 Def:5),nan,nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241942,21600719,4,1:30,nan,Whitehead S.FOUL (P2.PN) (D.Stafford),nan,1627785,Isaiah Whitehead,BKN,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting
+241943,21600719,4,1:30,Dragic Free Throw 1 of 2 (17 PTS),nan,93 - 98,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241944,21600719,4,1:30,SUB: Whiteside FOR Reed,nan,nan,203186,Willie Reed,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+241945,21600719,4,1:30,Dragic Free Throw 2 of 2 (18 PTS),nan,93 - 99,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241946,21600719,4,1:20,Johnson STEAL (1 STL),LeVert Bad Pass Turnover (P4.T14),nan,1627747,Caris LeVert,BKN,201949,James Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+241947,21600719,4,1:13,Jump Ball Dragic vs. Booker: Tip to Whiteside,nan,nan,201609,Goran Dragic,MIA,202344,Trevor Booker,BKN,202355,Hassan Whiteside,MIA,Jump Ball ,nan
+241948,21600719,4,0:58,MISS McGruder 25' 3PT Jump Shot,nan,nan,203585,Rodney McGruder,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241949,21600719,4,0:57,Johnson REBOUND (Off:1 Def:4),nan,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241950,21600719,4,0:56,Johnson  Tip Dunk Shot (17 PTS),nan,93 - 101,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+241951,21600719,4,0:56,nan,Nets Timeout: Regular (Reg.5 Short 1),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241952,21600719,4,0:52,nan,Booker OFF.Foul (P3) (J.Tiven),nan,202344,Trevor Booker,BKN,203585,Rodney McGruder,MIA,0,nan,nan,Foul ,Offensive
+241953,21600719,4,0:52,nan,Booker Foul Turnover (P4.T15),nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+241954,21600719,4,0:52,nan,SUB: Hollis-Jefferson FOR Lopez,nan,201572,Brook Lopez,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+241955,21600719,4,0:46,nan,Whitehead P.FOUL (P3.PN) (J.Tiven),nan,1627785,Isaiah Whitehead,BKN,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+241956,21600719,4,0:46,Dragic Free Throw 1 of 2 (19 PTS),nan,93 - 102,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241957,21600719,4,0:46,SUB: White FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,1627855,Okaro White,MIA,0,nan,nan,Substitution ,nan
+241958,21600719,4,0:46,nan,SUB: Lopez FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+241959,21600719,4,0:46,MISS Dragic Free Throw 2 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241960,21600719,4,0:45,nan,LeVert REBOUND (Off:2 Def:3),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241961,21600719,4,0:45,nan,Nets Timeout: Short (Reg.5 Short 2),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+241962,21600719,4,0:45,SUB: Whiteside FOR White,nan,nan,1627855,Okaro White,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+241963,21600719,4,0:39,Johnson STEAL (2 STL),Bogdanovic Lost Ball Turnover (P3.T16),nan,202711,Bojan Bogdanovic,BKN,201949,James Johnson,MIA,0,nan,nan,Turnover ,Lost Ball
+241964,21600719,4,0:34,nan,Lopez P.FOUL (P2.PN) (S.Anderson),nan,201572,Brook Lopez,BKN,203079,Dion Waiters,MIA,0,nan,nan,Foul ,Personal
+241965,21600719,4,0:34,MISS Waiters Free Throw 1 of 2,nan,nan,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241966,21600719,4,0:34,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+241967,21600719,4,0:34,Waiters Free Throw 2 of 2 (19 PTS),nan,93 - 103,203079,Dion Waiters,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241968,21600719,4,0:34,nan,Nets Timeout: Short (Reg.5 Short 3),nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+241969,21600719,4,0:29,nan,Bogdanovic 2' Driving Layup (15 PTS),95 - 103,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+241970,21600719,4,0:29,Whiteside S.FOUL (P6.PN) (J.Tiven),nan,nan,202355,Hassan Whiteside,MIA,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Shooting
+241971,21600719,4,0:29,SUB: White FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,1627855,Okaro White,MIA,0,nan,nan,Substitution ,nan
+241972,21600719,4,0:29,nan,SUB: Hollis-Jefferson FOR Lopez,nan,201572,Brook Lopez,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+241973,21600719,4,0:29,nan,Bogdanovic Free Throw 1 of 1 (16 PTS),96 - 103,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+241974,21600719,4,0:28,nan,Hollis-Jefferson P.FOUL (P5.PN) (S.Anderson),nan,1626178,Rondae Hollis-Jefferson,BKN,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+241975,21600719,4,0:28,MISS Dragic Free Throw 1 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241976,21600719,4,0:28,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+241977,21600719,4,0:28,nan,SUB: Lopez FOR Hollis-Jefferson,nan,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+241978,21600719,4,0:28,Dragic Free Throw 2 of 2 (20 PTS),nan,96 - 104,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241979,21600719,4,0:17,nan,MISS Whitehead 25' 3PT Jump Shot,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241980,21600719,4,0:16,nan,LeVert REBOUND (Off:3 Def:3),nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241981,21600719,4,0:12,nan,MISS Lopez 25' 3PT Jump Shot,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241982,21600719,4,0:11,nan,Whitehead REBOUND (Off:2 Def:2),nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241983,21600719,4,0:10,Johnson BLOCK (3 BLK),MISS Whitehead 1' Layup,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,201949,James Johnson,MIA,Missed Shot ,nan
+241984,21600719,4,0:09,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241985,21600719,4,0:00,nan,nan,96 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

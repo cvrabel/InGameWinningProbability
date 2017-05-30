@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+45430,21500360,4,12:00,nan,nan,74 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+45431,21500360,4,11:39,MISS Schroder 24' 3PT Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45432,21500360,4,11:38,nan,Wade REBOUND (Off:2 Def:4),nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45433,21500360,4,11:30,nan,Green 1' Driving Layup (11 PTS) (Wade 4 AST),76 - 61,101123,Gerald Green,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+45434,21500360,4,11:30,Muscala S.FOUL (P1.T1) (J.Orr),nan,nan,203488,Mike Muscala,ATL,101123,Gerald Green,MIA,0,nan,nan,Foul ,Shooting
+45435,21500360,4,11:30,nan,Green Free Throw 1 of 1 (12 PTS),77 - 61,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45436,21500360,4,11:16,Sefolosha Out of Bounds - Bad Pass Turnover Turnover (P3.T9),nan,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+45437,21500360,4,10:51,nan,MISS Bosh 25' 3PT Fadeaway Jumper,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45438,21500360,4,10:50,nan,Green REBOUND (Off:2 Def:1),nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45439,21500360,4,10:40,nan,Green 12' Pullup Jump Shot (14 PTS),79 - 61,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+45440,21500360,4,10:25,Sefolosha Out of Bounds Lost Ball Turnover (P4.T10),nan,nan,200757,Thabo Sefolosha,ATL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+45441,21500360,4,10:11,nan,MISS Green 16' Jump Shot,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45442,21500360,4,10:09,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45443,21500360,4,10:01,nan,MISS Wade 18' Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45444,21500360,4,10:00,Schroder REBOUND (Off:0 Def:1),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45445,21500360,4,9:52,Korver 24' 3PT Jump Shot (5 PTS) (Schroder 5 AST),nan,79 - 64,2594,Kyle Korver,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+45446,21500360,4,9:34,nan,MISS Wade 12' Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45447,21500360,4,9:34,nan,Bosh REBOUND (Off:2 Def:8),nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45448,21500360,4,9:34,Schroder P.FOUL (P3.T2) (J.Orr),nan,nan,203471,Dennis Schroder,ATL,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Personal
+45449,21500360,4,9:34,SUB: Bazemore FOR Sefolosha,nan,nan,200757,Thabo Sefolosha,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+45450,21500360,4,9:25,nan,MISS Wade 14' Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45451,21500360,4,9:23,nan,Dragic REBOUND (Off:2 Def:4),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45452,21500360,4,9:23,nan,MISS Dragic  Tip Layup Shot,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45453,21500360,4,9:21,Bazemore REBOUND (Off:0 Def:4),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45454,21500360,4,9:14,Bazemore  Running Layup (18 PTS),nan,79 - 66,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+45455,21500360,4,9:14,nan,Heat Timeout: Regular (Reg.4 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45456,21500360,4,8:58,nan,Green 18' Jump Shot (16 PTS) (Haslem 1 AST),81 - 66,101123,Gerald Green,MIA,2617,Udonis Haslem,MIA,0,nan,nan,Made Shot ,nan
+45457,21500360,4,8:42,Horford Offensive Goaltending Turnover (P1.T11),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+45458,21500360,4,8:27,Horford STEAL (2 STL),Green Bad Pass Turnover (P2.T15),nan,101123,Gerald Green,MIA,201143,Al Horford,ATL,0,nan,nan,Turnover ,Bad Pass
+45459,21500360,4,8:22,Horford  Running Finger Roll Layup (13 PTS),nan,81 - 68,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+45460,21500360,4,8:08,Korver Violation:Kicked Ball (.),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+45461,21500360,4,8:08,SUB: Millsap FOR Muscala,nan,nan,203488,Mike Muscala,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+45462,21500360,4,8:08,nan,SUB: Deng FOR Bosh,nan,2547,Chris Bosh,MIA,2736,Luol Deng,MIA,0,nan,nan,Substitution ,nan
+45463,21500360,4,7:58,nan,Wade 20' Fadeaway Jumper (7 PTS),83 - 68,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+45464,21500360,4,7:50,nan,Deng S.FOUL (P2.T1) (J.Orr),nan,2736,Luol Deng,MIA,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Shooting
+45465,21500360,4,7:50,Millsap Free Throw 1 of 2 (11 PTS),nan,83 - 69,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45466,21500360,4,7:50,SUB: Teague FOR Schroder,nan,nan,203471,Dennis Schroder,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+45467,21500360,4,7:50,Millsap Free Throw 2 of 2 (12 PTS),nan,83 - 70,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45468,21500360,4,7:39,Horford Violation:Kicked Ball (.),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+45469,21500360,4,7:24,nan,MISS Wade 24' 3PT Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45470,21500360,4,7:23,Korver REBOUND (Off:0 Def:7),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45471,21500360,4,7:14,Millsap  Finger Roll Layup (14 PTS) (Korver 2 AST),nan,83 - 72,200794,Paul Millsap,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+45472,21500360,4,6:49,nan,Deng 24' 3PT Jump Shot (15 PTS) (Wade 5 AST),86 - 72,2736,Luol Deng,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+45473,21500360,4,6:40,nan,Green S.FOUL (P2.T2) (M.Ayotte),nan,101123,Gerald Green,MIA,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting
+45474,21500360,4,6:40,Bazemore Free Throw 1 of 2 (19 PTS),nan,86 - 73,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+45475,21500360,4,6:40,Bazemore Free Throw 2 of 2 (20 PTS),nan,86 - 74,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+45476,21500360,4,6:22,nan,MISS Wade 18' Jump Shot,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45477,21500360,4,6:19,Korver REBOUND (Off:0 Def:8),nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45478,21500360,4,6:13,MISS Bazemore 3' Running Layup,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45479,21500360,4,6:10,Bazemore REBOUND (Off:1 Def:4),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45480,21500360,4,5:54,MISS Bazemore 25' 3PT Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45481,21500360,4,5:54,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45482,21500360,4,5:54,Millsap L.B.FOUL (P2.T3) (J.Orr),nan,nan,200794,Paul Millsap,ATL,2617,Udonis Haslem,MIA,0,nan,nan,Foul ,Loose Ball
+45483,21500360,4,5:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+45484,21500360,4,5:54,SUB: Schroder FOR Korver,nan,nan,2594,Kyle Korver,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Substitution ,nan
+45485,21500360,4,5:54,nan,SUB: Bosh FOR Wade,nan,2548,Dwyane Wade,MIA,2547,Chris Bosh,MIA,0,nan,nan,Substitution ,nan
+45486,21500360,4,5:54,nan,SUB: Udrih FOR Haslem,nan,2617,Udonis Haslem,MIA,2757,Beno Udrih,MIA,0,nan,nan,Substitution ,nan
+45487,21500360,4,5:46,Teague P.FOUL (P4.T4) (J.Orr),nan,nan,201952,Jeff Teague,ATL,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Personal
+45488,21500360,4,5:31,nan,MISS Dragic 2' Driving Layup,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45489,21500360,4,5:30,Schroder REBOUND (Off:0 Def:2),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45490,21500360,4,5:23,Millsap Offensive Charge Foul (P3.PN) (J.Orr),nan,nan,200794,Paul Millsap,ATL,2736,Luol Deng,MIA,0,nan,nan,Foul ,Offensive Charge
+45491,21500360,4,5:23,Millsap Foul Turnover (P2.T12),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Turnover ,Foul
+45492,21500360,4,5:12,nan,MISS Bosh 21' Jump Shot,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45493,21500360,4,5:10,Millsap REBOUND (Off:1 Def:6),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45494,21500360,4,5:01,MISS Schroder 22' Pullup Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45495,21500360,4,4:58,nan,Deng REBOUND (Off:1 Def:7),nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45496,21500360,4,4:46,nan,Green 20' Jump Shot (18 PTS) (Dragic 6 AST),88 - 74,101123,Gerald Green,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+45497,21500360,4,4:29,MISS Teague 6' Driving Floating Jump Shot,nan,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45498,21500360,4,4:26,nan,Deng REBOUND (Off:1 Def:8),nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45499,21500360,4,4:24,nan,Bosh  Running Dunk (19 PTS) (Dragic 7 AST),90 - 74,2547,Chris Bosh,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+45500,21500360,4,4:24,HAWKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45501,21500360,4,4:24,SUB: Korver FOR Teague,nan,nan,201952,Jeff Teague,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+45502,21500360,4,4:10,Millsap  Cutting Dunk Shot (16 PTS) (Horford 4 AST),nan,90 - 76,200794,Paul Millsap,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+45503,21500360,4,3:45,nan,MISS Bosh 22' Fadeaway Jumper,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45504,21500360,4,3:43,Schroder REBOUND (Off:0 Def:3),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45505,21500360,4,3:37,MISS Korver 25' 3PT Jump Shot,nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45506,21500360,4,3:36,nan,Dragic REBOUND (Off:2 Def:5),nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45507,21500360,4,3:20,nan,Bosh 25' 3PT Jump Shot (22 PTS) (Udrih 1 AST),93 - 76,2547,Chris Bosh,MIA,2757,Beno Udrih,MIA,0,nan,nan,Made Shot ,nan
+45508,21500360,4,3:06,Bazemore 1' Cutting Layup Shot (22 PTS) (Horford 5 AST),nan,93 - 78,203145,Kent Bazemore,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+45509,21500360,4,2:43,nan,Green 19' Pullup Jump Shot (20 PTS) (Deng 4 AST),95 - 78,101123,Gerald Green,MIA,2736,Luol Deng,MIA,0,nan,nan,Made Shot ,nan
+45510,21500360,4,2:28,Bazemore 24' 3PT Pullup Jump Shot (25 PTS) (Schroder 6 AST),nan,95 - 81,203145,Kent Bazemore,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+45511,21500360,4,2:10,nan,Bosh 3 Second Violation Turnover (P2.T16),nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+45512,21500360,4,2:10,nan,SUB: Wade FOR Udrih,nan,2757,Beno Udrih,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Substitution ,nan
+45513,21500360,4,1:58,Schroder 1' Driving Layup (13 PTS),nan,95 - 83,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+45514,21500360,4,1:42,Schroder STEAL (4 STL),Deng Bad Pass Turnover (P1.T17),nan,2736,Luol Deng,MIA,203471,Dennis Schroder,ATL,0,nan,nan,Turnover ,Bad Pass
+45515,21500360,4,1:36,Bazemore 25' 3PT Running Jump Shot (28 PTS) (Schroder 7 AST),nan,95 - 86,203145,Kent Bazemore,ATL,203471,Dennis Schroder,ATL,0,nan,nan,Made Shot ,nan
+45516,21500360,4,1:36,nan,Heat Timeout: Regular (Reg.5 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+45517,21500360,4,1:23,nan,MISS Green 2' Driving Layup,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45518,21500360,4,1:22,Horford REBOUND (Off:0 Def:4),nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45519,21500360,4,1:19,Bazemore Offensive Charge Foul (P4.PN) (J.Capers),nan,nan,203145,Kent Bazemore,ATL,2736,Luol Deng,MIA,0,nan,nan,Foul ,Offensive Charge
+45520,21500360,4,1:19,Bazemore Foul Turnover (P2.T13),nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Turnover ,Foul
+45521,21500360,4,1:08,nan,Bosh 19' Jump Shot (24 PTS) (Dragic 8 AST),97 - 86,2547,Chris Bosh,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+45522,21500360,4,0:57,MISS Horford  3PT Jump Shot,nan,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45523,21500360,4,0:52,Schroder REBOUND (Off:1 Def:3),nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45524,21500360,4,0:47,MISS Schroder  3PT Jump Shot,nan,nan,203471,Dennis Schroder,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45525,21500360,4,0:45,Millsap REBOUND (Off:2 Def:6),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45526,21500360,4,0:40,MISS Korver  3PT Jump Shot,nan,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45527,21500360,4,0:38,Millsap REBOUND (Off:3 Def:6),nan,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45528,21500360,4,0:38,Millsap  Putback Layup (18 PTS),nan,97 - 88,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+45529,21500360,4,0:32,nan,Deng 3' Running Layup (17 PTS) (Wade 6 AST),99 - 88,2736,Luol Deng,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+45530,21500360,4,0:32,Horford S.FOUL (P3.PN) (M.Ayotte),nan,nan,201143,Al Horford,ATL,2736,Luol Deng,MIA,0,nan,nan,Foul ,Shooting
+45531,21500360,4,0:32,nan,Deng Free Throw 1 of 1 (18 PTS),100 - 88,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+45532,21500360,4,0:30,Horford Bad Pass Turnover (P2.T14),Dragic STEAL (2 STL),nan,201143,Al Horford,ATL,201609,Goran Dragic,MIA,0,nan,nan,Turnover ,Bad Pass
+45533,21500360,4,0:08,nan,Heat Turnover: Shot Clock (T#18),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+45534,21500360,4,0:00,MISS Bazemore 26' 3PT Pullup Jump Shot,nan,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+45535,21500360,4,0:00,HAWKS Rebound,nan,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+45536,21500360,4,0:00,nan,nan,100 - 88,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

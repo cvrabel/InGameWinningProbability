@@ -1,0 +1,94 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+260059,21600866,4,12:00,nan,nan,79 - 58,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+260060,21600866,4,11:36,MISS Lawson 25' 3PT Jump Shot,nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260061,21600866,4,11:35,nan,Belinelli REBOUND (Off:0 Def:2),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260062,21600866,4,11:21,nan,MISS Belinelli 14' Pullup Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260063,21600866,4,11:20,Labissiere REBOUND (Off:2 Def:4),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260064,21600866,4,11:10,MISS Labissiere 7' Hook Shot,nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260065,21600866,4,11:10,nan,Lamb REBOUND (Off:0 Def:3),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260066,21600866,4,10:50,nan,MISS Williams 25' 3PT Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260067,21600866,4,10:50,Labissiere REBOUND (Off:2 Def:5),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260068,21600866,4,10:35,nan,Kaminsky S.FOUL (P3.T1) (M.Boland),nan,1626163,Frank Kaminsky,CHA,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Foul ,Shooting
+260069,21600866,4,10:35,Cauley-Stein Free Throw 1 of 2 (1 PTS),nan,79 - 59,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+260070,21600866,4,10:35,Cauley-Stein Free Throw 2 of 2 (2 PTS),nan,79 - 60,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+260071,21600866,4,10:16,nan,Lamb 6' Floating Jump Shot (7 PTS) (Belinelli 6 AST),81 - 60,203087,Jeremy Lamb,CHA,201158,Marco Belinelli,CHA,0,nan,nan,Made Shot ,nan
+260072,21600866,4,10:01,MISS Lawson 1' Layup,nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260073,21600866,4,10:01,nan,Lamb REBOUND (Off:0 Def:4),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260074,21600866,4,9:52,nan,Roberts 18' Pullup Jump Shot (2 PTS) (Lamb 1 AST),83 - 60,203148,Brian Roberts,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+260075,21600866,4,9:35,Hield 8' Floating Jump Shot (4 PTS),nan,83 - 62,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+260076,21600866,4,9:15,nan,MISS Kaminsky 11' Jump Bank Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260077,21600866,4,9:14,Labissiere REBOUND (Off:2 Def:6),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260078,21600866,4,8:58,Collison 16' Pullup Jump Shot (10 PTS),nan,83 - 64,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+260079,21600866,4,8:41,nan,Belinelli 26' 3PT Jump Shot (13 PTS) (Roberts 4 AST),86 - 64,201158,Marco Belinelli,CHA,203148,Brian Roberts,CHA,0,nan,nan,Made Shot ,nan
+260080,21600866,4,8:27,Hield 25' 3PT Jump Shot (7 PTS) (Collison 5 AST),nan,86 - 67,1627741,Buddy Hield,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+260081,21600866,4,8:27,nan,Hornets Timeout: Regular (Reg.4 Short 0),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+260082,21600866,4,8:27,nan,SUB: Batum FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+260083,21600866,4,8:27,nan,SUB: Wood FOR Lamb,nan,203087,Jeremy Lamb,CHA,1626174,Christian Wood,CHA,0,nan,nan,Substitution ,nan
+260084,21600866,4,8:27,nan,SUB: Walker FOR Roberts,nan,203148,Brian Roberts,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+260085,21600866,4,8:27,SUB: McLemore FOR Collison,nan,nan,201954,Darren Collison,SAC,203463,Ben McLemore,SAC,0,nan,nan,Substitution ,nan
+260086,21600866,4,8:12,nan,MISS Williams 25' 3PT Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260087,21600866,4,8:12,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260088,21600866,4,8:12,nan,Wood L.B.FOUL (P3.T2) (M.Boland),nan,1626174,Christian Wood,CHA,1627746,Skal Labissiere,SAC,0,nan,nan,Foul ,Loose Ball
+260089,21600866,4,7:54,Labissiere Lost Ball Turnover (P1.T11),Williams STEAL (1 STL),nan,1627746,Skal Labissiere,SAC,101107,Marvin Williams,CHA,0,nan,nan,Turnover ,Lost Ball
+260090,21600866,4,7:39,nan,MISS Williams 24' 3PT Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260091,21600866,4,7:38,nan,Wood REBOUND (Off:3 Def:1),nan,1626174,Christian Wood,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260092,21600866,4,7:37,Cauley-Stein BLOCK (3 BLK),MISS Wood 3' Turnaround Jump Shot,nan,1626174,Christian Wood,CHA,0,nan,nan,1626161,Willie Cauley-Stein,SAC,Missed Shot ,nan
+260093,21600866,4,7:37,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260094,21600866,4,7:32,nan,Williams OFF.Foul (P2) (J.VanDuyne),nan,101107,Marvin Williams,CHA,201951,Ty Lawson,SAC,0,nan,nan,Foul ,Offensive
+260095,21600866,4,7:32,nan,Williams Foul Turnover (P2.T7),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+260096,21600866,4,7:23,Hield 4' Driving Layup (9 PTS),nan,86 - 69,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+260097,21600866,4,7:02,nan,Williams 25' 3PT Jump Shot (13 PTS) (Batum 2 AST),89 - 69,101107,Marvin Williams,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+260098,21600866,4,6:47,MISS Hield 19' Step Back Jump Shot,nan,nan,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260099,21600866,4,6:47,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260100,21600866,4,6:47,nan,SUB: Kaminsky FOR Wood,nan,1626174,Christian Wood,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Substitution ,nan
+260101,21600866,4,6:31,nan,MISS Belinelli 26' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260102,21600866,4,6:31,Labissiere REBOUND (Off:2 Def:7),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260103,21600866,4,6:17,Hield Bad Pass Turnover (P2.T12),Williams STEAL (2 STL),nan,1627741,Buddy Hield,SAC,101107,Marvin Williams,CHA,0,nan,nan,Turnover ,Bad Pass
+260104,21600866,4,6:06,Labissiere STEAL (1 STL),Walker Bad Pass Turnover (P4.T8),nan,202689,Kemba Walker,CHA,1627746,Skal Labissiere,SAC,0,nan,nan,Turnover ,Bad Pass
+260105,21600866,4,6:00,MISS Lawson 17' Jump Shot,nan,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260106,21600866,4,5:59,Labissiere REBOUND (Off:3 Def:7),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260107,21600866,4,5:54,MISS Labissiere 8' Hook Shot,nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260108,21600866,4,5:53,nan,Kaminsky REBOUND (Off:2 Def:9),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260109,21600866,4,5:34,nan,Walker 24' 3PT Jump Shot (10 PTS) (Batum 3 AST),92 - 69,202689,Kemba Walker,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+260110,21600866,4,5:28,nan,Williams P.FOUL (P3.T3) (J.VanDuyne),nan,101107,Marvin Williams,CHA,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Foul ,Personal
+260111,21600866,4,5:28,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+260112,21600866,4,5:28,SUB: Galloway FOR Cauley-Stein,nan,nan,1626161,Willie Cauley-Stein,SAC,204038,Langston Galloway,SAC,0,nan,nan,Substitution ,nan
+260113,21600866,4,5:28,SUB: Papagiannis FOR Lawson,nan,nan,201951,Ty Lawson,SAC,1627834,Georgios Papagiannis,SAC,0,nan,nan,Substitution ,nan
+260114,21600866,4,5:10,Labissiere 5' Hook Shot (8 PTS),nan,92 - 71,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+260115,21600866,4,4:54,nan,MISS Batum 20' Pullup Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260116,21600866,4,4:54,Labissiere REBOUND (Off:3 Def:8),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260117,21600866,4,4:37,MISS Galloway  3PT Jump Shot,nan,nan,204038,Langston Galloway,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260118,21600866,4,4:36,nan,Batum REBOUND (Off:0 Def:6),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260119,21600866,4,4:22,nan,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T9),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+260120,21600866,4,4:11,nan,Williams Violation:Kicked Ball (J.VanDuyne),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+260121,21600866,4,4:06,nan,Kaminsky S.FOUL (P4.T4) (J.VanDuyne),nan,1626163,Frank Kaminsky,CHA,1627741,Buddy Hield,SAC,0,nan,nan,Foul ,Shooting
+260122,21600866,4,4:06,Hield Free Throw 1 of 3 (10 PTS),nan,92 - 72,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+260123,21600866,4,4:06,Hield Free Throw 2 of 3 (11 PTS),nan,92 - 73,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+260124,21600866,4,4:06,Hield Free Throw 3 of 3 (12 PTS),nan,92 - 74,1627741,Buddy Hield,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+260125,21600866,4,3:52,McLemore S.FOUL (P4.T1) (S.Foster),nan,nan,203463,Ben McLemore,SAC,201587,Nicolas Batum,CHA,0,nan,nan,Foul ,Shooting
+260126,21600866,4,3:52,nan,Batum Free Throw 1 of 2 (14 PTS),93 - 74,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+260127,21600866,4,3:52,nan,Batum Free Throw 2 of 2 (15 PTS),94 - 74,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+260128,21600866,4,3:39,McLemore 17' Pullup Jump Shot (12 PTS) (Labissiere 1 AST),nan,94 - 76,203463,Ben McLemore,SAC,1627746,Skal Labissiere,SAC,0,nan,nan,Made Shot ,nan
+260129,21600866,4,3:21,nan,MISS Batum 13' Fadeaway Jumper,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260130,21600866,4,3:20,Labissiere REBOUND (Off:3 Def:9),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260131,21600866,4,3:07,McLemore 25' 3PT Jump Shot (15 PTS) (Hield 2 AST),nan,94 - 79,203463,Ben McLemore,SAC,1627741,Buddy Hield,SAC,0,nan,nan,Made Shot ,nan
+260132,21600866,4,2:53,nan,Williams Step Out of Bounds Turnover (P3.T10),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+260133,21600866,4,2:53,KINGS Timeout: Regular (Full 4 Short 1),nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+260134,21600866,4,2:39,McLemore 8' Floating Jump Shot (17 PTS),nan,94 - 81,203463,Ben McLemore,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+260135,21600866,4,2:39,nan,Walker S.FOUL (P1.PN) (S.Foster),nan,202689,Kemba Walker,CHA,203463,Ben McLemore,SAC,0,nan,nan,Foul ,Shooting
+260136,21600866,4,2:39,McLemore Free Throw 1 of 1 (18 PTS),nan,94 - 82,203463,Ben McLemore,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+260137,21600866,4,2:21,nan,MISS Walker 19' Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260138,21600866,4,2:21,Labissiere REBOUND (Off:3 Def:10),nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260139,21600866,4,2:11,Hield Bad Pass Turnover (P3.T13),Belinelli STEAL (1 STL),nan,1627741,Buddy Hield,SAC,201158,Marco Belinelli,CHA,0,nan,nan,Turnover ,Bad Pass
+260140,21600866,4,1:54,nan,MISS Batum 13' Fadeaway Jumper,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260141,21600866,4,1:53,Galloway REBOUND (Off:0 Def:1),nan,nan,204038,Langston Galloway,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260142,21600866,4,1:36,MISS Labissiere 9' Hook Shot,nan,nan,1627746,Skal Labissiere,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260143,21600866,4,1:35,nan,Kaminsky REBOUND (Off:2 Def:10),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260144,21600866,4,1:22,nan,Walker 4' Driving Layup (12 PTS),96 - 82,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+260145,21600866,4,1:12,MISS Galloway 21' Fadeaway Jumper,nan,nan,204038,Langston Galloway,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+260146,21600866,4,1:11,nan,Kaminsky REBOUND (Off:2 Def:11),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+260147,21600866,4,0:49,nan,Williams  3PT Jump Shot (16 PTS) (Walker 6 AST),99 - 82,101107,Marvin Williams,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+260148,21600866,4,0:35,McLemore Lost Ball Turnover (P1.T14),Walker STEAL (1 STL),nan,203463,Ben McLemore,SAC,202689,Kemba Walker,CHA,0,nan,nan,Turnover ,Lost Ball
+260149,21600866,4,0:11,nan,Hornets Turnover: Shot Clock (T#11),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+260150,21600866,4,0:08,Hield 26' 3PT Jump Shot (15 PTS) (Galloway 1 AST),nan,99 - 85,1627741,Buddy Hield,SAC,204038,Langston Galloway,SAC,0,nan,nan,Made Shot ,nan
+260151,21600866,4,0:00,nan,nan,99 - 85,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

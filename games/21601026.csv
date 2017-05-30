@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+279467,21601026,4,12:00,nan,nan,84 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+279468,21601026,4,11:49,MISS Len 1' Layup,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279469,21601026,4,11:48,nan,Green REBOUND (Off:2 Def:3),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279470,21601026,4,11:32,nan,MISS Augustin 18' Step Back Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279471,21601026,4,11:31,Dudley REBOUND (Off:0 Def:4),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279472,21601026,4,11:25,"MISS Jones, Jr. 2' Alley Oop Layup",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279473,21601026,4,11:23,nan,Green REBOUND (Off:2 Def:4),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279474,21601026,4,11:16,nan,MISS Watson 25' 3PT Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279475,21601026,4,11:15,Len REBOUND (Off:4 Def:5),nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279476,21601026,4,11:05,nan,Biyombo P.FOUL (P3.T1) (T.Ford),nan,202687,Bismack Biyombo,ORL,1627755,Tyler Ulis,PHX,0,nan,nan,Foul ,Personal
+279477,21601026,4,10:53,"MISS Jones, Jr. 12' Pullup Jump Shot",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279478,21601026,4,10:52,nan,Biyombo REBOUND (Off:0 Def:2),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279479,21601026,4,10:37,nan,Augustin 21' Pullup Jump Shot (5 PTS),86 - 85,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279480,21601026,4,10:26,MISS Ulis 14' Driving Floating Jump Shot,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279481,21601026,4,10:25,nan,Green REBOUND (Off:2 Def:5),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279482,21601026,4,10:21,Price STEAL (1 STL),Augustin Lost Ball Turnover (P1.T11),nan,201571,D.J. Augustin,ORL,101179,Ronnie Price,PHX,0,nan,nan,Turnover ,Lost Ball
+279483,21601026,4,10:15,"MISS Jones, Jr. 1' Running Alley Oop Dunk Shot",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279484,21601026,4,10:11,Price REBOUND (Off:1 Def:2),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279485,21601026,4,10:06,MISS Price 19' Step Back Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279486,21601026,4,10:05,nan,Biyombo REBOUND (Off:0 Def:3),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279487,21601026,4,9:55,nan,Augustin 18' Pullup Jump Shot (7 PTS),88 - 85,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279488,21601026,4,9:36,Dudley 26' 3PT Jump Shot (5 PTS) (Len 2 AST),nan,88 - 88,201162,Jared Dudley,PHX,203458,Alex Len,PHX,0,nan,nan,Made Shot ,nan
+279489,21601026,4,9:11,nan,Augustin 28' 3PT Pullup Jump Shot (10 PTS),91 - 88,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279490,21601026,4,8:47,MISS Len 10' Fadeaway Jumper,nan,nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279491,21601026,4,8:47,nan,Green REBOUND (Off:2 Def:6),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279492,21601026,4,8:34,Len S.FOUL (P3.T1) (R.Garretson),nan,nan,203458,Alex Len,PHX,201571,D.J. Augustin,ORL,0,nan,nan,Foul ,Shooting
+279493,21601026,4,8:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+279494,21601026,4,8:34,SUB: Chriss FOR Len,nan,nan,203458,Alex Len,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+279495,21601026,4,8:34,nan,SUB: Gordon FOR Hezonja,nan,1626209,Mario Hezonja,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+279496,21601026,4,8:34,nan,SUB: Ross FOR Green,nan,201145,Jeff Green,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+279497,21601026,4,8:34,nan,Augustin Free Throw 1 of 2 (11 PTS),92 - 88,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+279498,21601026,4,8:34,nan,Augustin Free Throw 2 of 2 (12 PTS),93 - 88,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+279499,21601026,4,8:11,Chriss 2' Layup (13 PTS),nan,93 - 90,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+279500,21601026,4,7:54,nan,MISS Augustin 26' 3PT Pullup Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279501,21601026,4,7:54,Dudley REBOUND (Off:0 Def:5),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279502,21601026,4,7:41,MISS Chriss 25' 3PT Jump Shot,nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279503,21601026,4,7:40,nan,Augustin REBOUND (Off:0 Def:1),nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279504,21601026,4,7:27,nan,MISS Ross 27' 3PT Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279505,21601026,4,7:26,Chriss REBOUND (Off:0 Def:8),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279506,21601026,4,7:13,MISS Chriss 17' Jump Shot,nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279507,21601026,4,7:13,Dudley REBOUND (Off:1 Def:5),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279508,21601026,4,7:13,Dudley 1' Tip Layup Shot (7 PTS),nan,93 - 92,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+279509,21601026,4,6:45,nan,MISS Augustin 18' Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279510,21601026,4,6:45,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279511,21601026,4,6:45,nan,Magic Turnover: Shot Clock (T#12),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+279512,21601026,4,6:45,nan,SUB: Payton FOR Augustin,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+279513,21601026,4,6:45,nan,SUB: Fournier FOR Biyombo,nan,202687,Bismack Biyombo,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+279514,21601026,4,6:45,nan,SUB: Vucevic FOR Watson,nan,201228,C.J. Watson,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+279515,21601026,4,6:45,SUB: Warren FOR Price,nan,nan,101179,Ronnie Price,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+279516,21601026,4,6:25,Ulis 16' Pullup Jump Shot (18 PTS),nan,93 - 94,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+279517,21601026,4,6:24,nan,Magic Timeout: Regular (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+279518,21601026,4,6:08,nan,MISS Fournier 9' Driving Floating Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279519,21601026,4,6:07,Warren REBOUND (Off:1 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279520,21601026,4,5:43,MISS Ulis 4' Driving Floating Bank Jump Shot,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279521,21601026,4,5:41,nan,Vucevic REBOUND (Off:4 Def:9),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279522,21601026,4,5:33,Chriss BLOCK (4 BLK),MISS Payton 3' Driving Layup,nan,203901,Elfrid Payton,ORL,0,nan,nan,1627737,Marquese Chriss,PHX,Missed Shot ,nan
+279523,21601026,4,5:33,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279524,21601026,4,5:23,nan,MISS Ross 10' Floating Jump Shot,nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279525,21601026,4,5:23,nan,Vucevic REBOUND (Off:5 Def:9),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279526,21601026,4,5:19,nan,Vucevic 1' Putback Layup (16 PTS),95 - 94,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279527,21601026,4,5:00,MISS Dudley 25' 3PT Jump Shot,nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279528,21601026,4,5:00,nan,Ross REBOUND (Off:0 Def:1),nan,203082,Terrence Ross,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279529,21601026,4,4:53,nan,Gordon  Alley Oop Dunk (17 PTS) (Payton 11 AST),97 - 94,203932,Aaron Gordon,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+279530,21601026,4,4:52,SUNS Timeout: Regular (Full 4 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+279531,21601026,4,4:52,nan,nan,nan,515,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+279532,21601026,4,4:52,SUB: Booker FOR Dudley,nan,nan,201162,Jared Dudley,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+279533,21601026,4,4:52,"SUB: Williams FOR Jones, Jr.",nan,nan,1627884,"Derrick Jones, Jr.",PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+279534,21601026,4,4:37,Warren 5' Jump Shot (24 PTS),nan,97 - 96,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+279535,21601026,4,4:15,nan,Fournier 27' 3PT Pullup Jump Shot (21 PTS),100 - 96,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279536,21601026,4,3:59,nan,Ross P.FOUL (P4.T2) (R.Garretson),nan,203082,Terrence Ross,ORL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+279537,21601026,4,3:52,Booker 2' Driving Layup (8 PTS),nan,100 - 98,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+279538,21601026,4,3:32,Warren P.FOUL (P2.T2) (T.Ford),nan,nan,203933,TJ Warren,PHX,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Personal
+279539,21601026,4,3:29,Ulis P.FOUL (P1.T3) (R.Garretson),nan,nan,1627755,Tyler Ulis,PHX,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Personal
+279540,21601026,4,3:15,nan,Fournier 2' Driving Layup (23 PTS),102 - 98,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279541,21601026,4,3:08,nan,Ross P.FOUL (P5.T3) (P.Fraher),nan,203082,Terrence Ross,ORL,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+279542,21601026,4,3:08,nan,SUB: Watson FOR Ross,nan,203082,Terrence Ross,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+279543,21601026,4,2:59,MISS Warren 13' Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279544,21601026,4,2:58,nan,Vucevic REBOUND (Off:5 Def:10),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279545,21601026,4,2:37,nan,MISS Vucevic 7' Hook Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279546,21601026,4,2:35,nan,Vucevic REBOUND (Off:6 Def:10),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279547,21601026,4,2:35,nan,Vucevic 1' Tip Layup Shot (18 PTS),104 - 98,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+279548,21601026,4,2:23,Booker Offensive Charge Foul (P2.T4) (T.Ford),nan,nan,1626164,Devin Booker,PHX,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Offensive Charge
+279549,21601026,4,2:23,Booker Foul Turnover (P3.T15),nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+279550,21601026,4,2:23,nan,SUB: Ross FOR Watson,nan,201228,C.J. Watson,ORL,203082,Terrence Ross,ORL,0,nan,nan,Substitution ,nan
+279551,21601026,4,2:06,nan,Ross 26' 3PT Jump Shot (14 PTS) (Fournier 2 AST),107 - 98,203082,Terrence Ross,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+279552,21601026,4,2:06,SUNS Timeout: Regular (Full 5 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+279553,21601026,4,1:54,Warren Out of Bounds - Bad Pass Turnover Turnover (P3.T16),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+279554,21601026,4,1:47,Warren P.FOUL (P3.PN) (P.Fraher),nan,nan,203933,TJ Warren,PHX,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal
+279555,21601026,4,1:35,Warren BLOCK (2 BLK),MISS Fournier 10' Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,203933,TJ Warren,PHX,Missed Shot ,nan
+279556,21601026,4,1:34,Williams REBOUND (Off:1 Def:5),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279557,21601026,4,1:29,Booker 1' Running Dunk (10 PTS) (Williams 2 AST),nan,107 - 100,1626164,Devin Booker,PHX,1626210,Alan Williams,PHX,0,nan,nan,Made Shot ,nan
+279558,21601026,4,1:12,nan,MISS Vucevic 6' Turnaround Hook Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279559,21601026,4,1:11,Williams REBOUND (Off:1 Def:6),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279560,21601026,4,0:59,MISS Ulis 10' Jump Shot,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279561,21601026,4,0:59,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279562,21601026,4,0:58,nan,nan,nan,554,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+279563,21601026,4,0:52,MISS Ulis 24' 3PT Jump Shot,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279564,21601026,4,0:51,nan,Vucevic REBOUND (Off:6 Def:11),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279565,21601026,4,0:37,Booker STEAL (2 STL),Ross Bad Pass Turnover (P3.T13),nan,203082,Terrence Ross,ORL,1626164,Devin Booker,PHX,0,nan,nan,Turnover ,Bad Pass
+279566,21601026,4,0:33,MISS Booker 1' Running Reverse Layup,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279567,21601026,4,0:33,Warren REBOUND (Off:2 Def:3),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279568,21601026,4,0:33,nan,Ross S.FOUL (P6.T4) (T.Ford),nan,203082,Terrence Ross,ORL,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+279569,21601026,4,0:33,nan,SUB: Watson FOR Ross,nan,203082,Terrence Ross,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+279570,21601026,4,0:33,Warren Free Throw 1 of 2 (25 PTS),nan,107 - 101,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+279571,21601026,4,0:33,Warren Free Throw 2 of 2 (26 PTS),nan,107 - 102,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+279572,21601026,4,0:33,nan,Magic Timeout: Short (Reg.4 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+279573,21601026,4,0:18,nan,MISS Fournier 24' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279574,21601026,4,0:18,Chriss REBOUND (Off:0 Def:9),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279575,21601026,4,0:11,nan,Payton S.FOUL (P4.PN) (T.Ford),nan,203901,Elfrid Payton,ORL,1627755,Tyler Ulis,PHX,0,nan,nan,Foul ,Shooting
+279576,21601026,4,0:11,MISS Ulis Free Throw 1 of 2,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+279577,21601026,4,0:11,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+279578,21601026,4,0:11,Ulis Free Throw 2 of 2 (19 PTS),nan,107 - 103,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+279579,21601026,4,0:11,nan,Magic Timeout: Short (Reg.4 Short 3),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+279580,21601026,4,0:11,"SUB: Jones, Jr. FOR Booker",nan,nan,1626164,Devin Booker,PHX,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,Substitution ,nan
+279581,21601026,4,0:11,nan,SUB: Green FOR Gordon,nan,203932,Aaron Gordon,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+279582,21601026,4,0:11,nan,SUB: Augustin FOR Payton,nan,203901,Elfrid Payton,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Substitution ,nan
+279583,21601026,4,0:09,Warren Personal Take Foul (P4.PN) (P.Fraher),nan,nan,203933,TJ Warren,PHX,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal Take
+279584,21601026,4,0:09,nan,Fournier Free Throw 1 of 2 (24 PTS),108 - 103,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+279585,21601026,4,0:09,nan,SUB: Payton FOR Augustin,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+279586,21601026,4,0:09,nan,SUB: Gordon FOR Green,nan,201145,Jeff Green,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+279587,21601026,4,0:09,nan,Fournier Free Throw 2 of 2 (25 PTS),109 - 103,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+279588,21601026,4,0:09,SUNS Timeout: Regular (Full 6 Short 1),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+279589,21601026,4,0:09,SUB: Booker FOR Ulis,nan,nan,1627755,Tyler Ulis,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+279590,21601026,4,0:09,"SUB: Dudley FOR Jones, Jr.",nan,nan,1627884,"Derrick Jones, Jr.",PHX,201162,Jared Dudley,PHX,0,nan,nan,Substitution ,nan
+279591,21601026,4,0:07,MISS Booker 25' 3PT Jump Shot,Gordon BLOCK (4 BLK),nan,1626164,Devin Booker,PHX,0,nan,nan,203932,Aaron Gordon,ORL,Missed Shot ,nan
+279592,21601026,4,0:06,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279593,21601026,4,0:06,nan,nan,nan,595,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+279594,21601026,4,0:03,MISS Dudley 24' 3PT Jump Shot,nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+279595,21601026,4,0:03,nan,Fournier REBOUND (Off:0 Def:3),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+279596,21601026,4,0:00,nan,nan,109 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

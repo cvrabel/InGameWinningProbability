@@ -1,0 +1,152 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+69905,21500561,4,12:00,nan,nan,77 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+69906,21500561,4,11:44,Howard 2' Layup (15 PTS),nan,77 - 66,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+69907,21500561,4,11:44,nan,Turner S.FOUL (P1.T1) (J.Tiven),nan,1626167,Myles Turner,IND,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+69908,21500561,4,11:44,MISS Howard Free Throw 1 of 1,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+69909,21500561,4,11:44,nan,Miles REBOUND (Off:0 Def:3),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69910,21500561,4,11:20,nan,MISS Ellis 25' 3PT Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69911,21500561,4,11:20,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69912,21500561,4,11:06,MISS Thornton 6' Floating Jump Shot,nan,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69913,21500561,4,11:05,nan,Robinson III REBOUND (Off:0 Def:3),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69914,21500561,4,10:56,nan,MISS Miles 25' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69915,21500561,4,10:55,Howard REBOUND (Off:3 Def:9),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69916,21500561,4,10:38,nan,Miles S.FOUL (P2.T2) (J.Tiven),nan,101139,CJ Miles,IND,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+69917,21500561,4,10:38,Brewer Free Throw 1 of 2 (8 PTS),nan,77 - 67,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69918,21500561,4,10:38,Brewer Free Throw 2 of 2 (9 PTS),nan,77 - 68,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69919,21500561,4,10:23,Howard S.FOUL (P2.T1) (M.McCutchen),nan,nan,2730,Dwight Howard,HOU,101139,CJ Miles,IND,0,nan,nan,Foul ,Shooting
+69920,21500561,4,10:23,ROCKETS Violation: Delay of game Violation,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+69921,21500561,4,10:23,nan,MISS Miles Free Throw 1 of 2,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69922,21500561,4,10:23,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+69923,21500561,4,10:23,nan,Miles Free Throw 2 of 2 (7 PTS),78 - 68,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69924,21500561,4,10:02,Terry 24' 3PT Jump Shot (3 PTS) (Thornton 1 AST),nan,78 - 71,1891,Jason Terry,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+69925,21500561,4,9:46,nan,Stuckey 12' Pullup Jump Shot (9 PTS) (Turner 1 AST),80 - 71,201155,Rodney Stuckey,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+69926,21500561,4,9:27,MISS Brewer  3PT Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69927,21500561,4,9:26,nan,Miles REBOUND (Off:0 Def:4),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69928,21500561,4,9:17,nan,Turner 17' Turnaround Jump Shot (4 PTS) (Robinson III 2 AST),82 - 71,1626167,Myles Turner,IND,203922,Glenn Robinson III,IND,0,nan,nan,Made Shot ,nan
+69929,21500561,4,9:01,MISS Terry 26' 3PT Jump Shot,nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69930,21500561,4,9:00,Howard REBOUND (Off:4 Def:9),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69931,21500561,4,8:59,Howard 2' Layup (17 PTS),nan,82 - 73,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+69932,21500561,4,8:48,nan,Robinson III 5' Jump Shot (4 PTS) (Ellis 11 AST),84 - 73,203922,Glenn Robinson III,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+69933,21500561,4,8:31,Terry 1' Driving Layup (5 PTS) (Howard 3 AST),nan,84 - 75,1891,Jason Terry,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+69934,21500561,4,8:31,nan,Pacers Timeout: Regular (Reg.4 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+69935,21500561,4,8:31,nan,SUB: Hill FOR Turner,nan,1626167,Myles Turner,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+69936,21500561,4,8:31,SUB: Beverley FOR Brewer,nan,nan,201147,Corey Brewer,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+69937,21500561,4,8:31,SUB: Harden FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+69938,21500561,4,8:14,nan,Stuckey 2' Driving Layup (11 PTS),86 - 75,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+69939,21500561,4,7:49,nan,Stuckey S.FOUL (P2.T3) (L.Holtkamp),nan,201155,Rodney Stuckey,IND,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+69940,21500561,4,7:49,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69941,21500561,4,7:49,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+69942,21500561,4,7:49,Howard Free Throw 2 of 2 (18 PTS),nan,86 - 76,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69943,21500561,4,7:45,nan,Hill Double Dribble Turnover (P1.T13),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Turnover ,Double Dribble
+69944,21500561,4,7:35,MISS Harden 18' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69945,21500561,4,7:34,nan,Hill REBOUND (Off:1 Def:2),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69946,21500561,4,7:20,nan,MISS Ellis 17' Pullup Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69947,21500561,4,7:19,Harden REBOUND (Off:0 Def:8),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69948,21500561,4,7:11,nan,Hill P.FOUL (P1.T4) (M.McCutchen),nan,201941,Jordan Hill,IND,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal
+69949,21500561,4,7:11,nan,SUB: G. Hill FOR Ellis,nan,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+69950,21500561,4,7:11,nan,SUB: George FOR Robinson III,nan,203922,Glenn Robinson III,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+69951,21500561,4,6:56,MISS Howard 9' Turnaround Hook Shot,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69952,21500561,4,6:55,nan,George REBOUND (Off:0 Def:5),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69953,21500561,4,6:42,nan,Hill  Cutting Dunk Shot (8 PTS) (Miles 2 AST),88 - 76,201941,Jordan Hill,IND,101139,CJ Miles,IND,0,nan,nan,Made Shot ,nan
+69954,21500561,4,6:13,MISS Beverley 9' Turnaround Fadeaway Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69955,21500561,4,6:12,nan,Stuckey REBOUND (Off:0 Def:4),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69956,21500561,4,5:58,nan,MISS Miles 24' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69957,21500561,4,5:57,nan,Hill REBOUND (Off:2 Def:2),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69958,21500561,4,5:37,nan,Miles Offensive Charge Foul (P3.PN) (M.McCutchen),nan,101139,CJ Miles,IND,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Offensive Charge
+69959,21500561,4,5:37,nan,Miles Foul Turnover (P1.T14),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+69960,21500561,4,5:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+69961,21500561,4,5:37,SUB: Thornton FOR Terry,nan,nan,1891,Jason Terry,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+69962,21500561,4,5:24,Harden 4' Driving Layup (17 PTS),nan,88 - 78,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+69963,21500561,4,5:01,nan,MISS Hill 19' Jump Shot,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69964,21500561,4,5:01,Ariza REBOUND (Off:1 Def:4),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69965,21500561,4,4:49,Ariza 25' 3PT Jump Shot (13 PTS) (Harden 4 AST),nan,88 - 81,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+69966,21500561,4,4:29,Harden STEAL (1 STL),Hill Bad Pass Turnover (P2.T15),nan,201941,Jordan Hill,IND,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+69967,21500561,4,4:16,MISS Harden 25' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69968,21500561,4,4:15,nan,G. Hill REBOUND (Off:0 Def:4),nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69969,21500561,4,4:03,Beverley S.FOUL (P2.T2) (J.Tiven),nan,nan,201976,Patrick Beverley,HOU,201941,Jordan Hill,IND,0,nan,nan,Foul ,Shooting
+69970,21500561,4,4:03,nan,MISS Hill Free Throw 1 of 2,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69971,21500561,4,4:03,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+69972,21500561,4,4:03,nan,SUB: Ellis FOR Stuckey,nan,201155,Rodney Stuckey,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+69973,21500561,4,4:03,nan,Hill Free Throw 2 of 2 (9 PTS),89 - 81,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69974,21500561,4,3:50,Harden 2' Driving Layup (19 PTS),nan,89 - 83,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+69975,21500561,4,3:40,nan,MISS George 25' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69976,21500561,4,3:39,Beverley REBOUND (Off:0 Def:4),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69977,21500561,4,3:39,nan,Miles L.B.FOUL (P4.PN) (J.Tiven),nan,101139,CJ Miles,IND,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Loose Ball
+69978,21500561,4,3:39,Beverley Free Throw 1 of 2 (12 PTS),nan,89 - 84,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69979,21500561,4,3:39,nan,SUB: Mahinmi FOR Hill,nan,201941,Jordan Hill,IND,101133,Ian Mahinmi,IND,0,nan,nan,Substitution ,nan
+69980,21500561,4,3:39,Beverley Free Throw 2 of 2 (13 PTS),nan,89 - 85,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69981,21500561,4,3:20,nan,MISS Miles 25' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+69982,21500561,4,3:19,Howard REBOUND (Off:4 Def:10),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69983,21500561,4,3:12,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+69984,21500561,4,3:12,nan,SUB: Stuckey FOR Miles,nan,101139,CJ Miles,IND,201155,Rodney Stuckey,IND,0,nan,nan,Substitution ,nan
+69985,21500561,4,2:58,Ariza  3PT Jump Shot (16 PTS) (Harden 5 AST),nan,89 - 88,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+69986,21500561,4,2:37,Ariza P.FOUL (P3.T3) (J.Tiven),nan,nan,2772,Trevor Ariza,HOU,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+69987,21500561,4,2:34,nan,Ellis 17' Jump Shot (7 PTS) (G. Hill 4 AST),91 - 88,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+69988,21500561,4,2:19,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+69989,21500561,4,2:08,Howard OFF.Foul (P3) (J.Tiven),nan,nan,2730,Dwight Howard,HOU,101133,Ian Mahinmi,IND,0,nan,nan,Foul ,Offensive
+69990,21500561,4,2:08,Howard Foul Turnover (P3.T19),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+69991,21500561,4,1:56,nan,Mahinmi 4' Hook Shot (13 PTS) (George 4 AST),93 - 88,101133,Ian Mahinmi,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+69992,21500561,4,1:45,nan,Mahinmi S.FOUL (P3.PN) (J.Tiven),nan,101133,Ian Mahinmi,IND,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+69993,21500561,4,1:45,Harden Free Throw 1 of 2 (20 PTS),nan,93 - 89,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+69994,21500561,4,1:45,Harden Free Throw 2 of 2 (21 PTS),nan,93 - 90,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+69995,21500561,4,1:28,Howard STEAL (2 STL),Stuckey Lost Ball Turnover (P2.T16),nan,201155,Rodney Stuckey,IND,2730,Dwight Howard,HOU,0,nan,nan,Turnover ,Lost Ball
+69996,21500561,4,1:19,MISS Beverley 2' Running Layup,George BLOCK (2 BLK),nan,201976,Patrick Beverley,HOU,0,nan,nan,202331,Paul George,IND,Missed Shot ,nan
+69997,21500561,4,1:19,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+69998,21500561,4,1:04,Harden Bad Pass Turnover (P4.T20),Stuckey STEAL (2 STL),nan,201935,James Harden,HOU,201155,Rodney Stuckey,IND,0,nan,nan,Turnover ,Bad Pass
+69999,21500561,4,0:54,nan,MISS George 24' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70000,21500561,4,0:54,Howard REBOUND (Off:4 Def:11),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70001,21500561,4,0:43,MISS Harden 27' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70002,21500561,4,0:42,nan,G. Hill REBOUND (Off:0 Def:5),nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70003,21500561,4,0:42,Beverley P.FOUL (P3.T4) (M.McCutchen),nan,nan,201976,Patrick Beverley,HOU,201588,George Hill,IND,0,nan,nan,Foul ,Personal
+70004,21500561,4,0:42,nan,Pacers Timeout: Short (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+70005,21500561,4,0:42,SUB: Brewer FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+70006,21500561,4,0:23,nan,Ellis Out of Bounds Lost Ball Turnover (P3.T17),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+70007,21500561,4,0:23,nan,nan,nan,505,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+70008,21500561,4,0:23,ROCKETS Timeout: Regular (Full 6 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70009,21500561,4,0:23,SUB: Thornton FOR Brewer,nan,nan,201147,Corey Brewer,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+70010,21500561,4,0:17,Ariza 24' 3PT Jump Shot (19 PTS) (Beverley 5 AST),nan,93 - 93,2772,Trevor Ariza,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+70011,21500561,4,0:17,nan,Pacers Timeout: Short (Reg.4 Short 2),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+70012,21500561,4,0:17,SUB: Brewer FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+70013,21500561,4,0:00,nan,MISS Ellis 20' Pullup Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70014,21500561,4,0:00,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70015,21500561,4,0:00,nan,nan,93 - 93,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+70016,21500561,5,5:00,nan,nan,93 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+70017,21500561,5,5:00,Jump Ball Howard vs. Mahinmi: Tip to Beverley,nan,nan,2730,Dwight Howard,HOU,101133,Ian Mahinmi,IND,201976,Patrick Beverley,HOU,Jump Ball ,nan
+70018,21500561,5,4:35,Beverley Lost Ball Turnover (P3.T21),George STEAL (7 STL),nan,201976,Patrick Beverley,HOU,202331,Paul George,IND,0,nan,nan,Turnover ,Lost Ball
+70019,21500561,5,4:16,nan,G. Hill 2' Reverse Layup (13 PTS) (Ellis 12 AST),95 - 93,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+70020,21500561,5,3:55,Ariza Bad Pass Turnover (P3.T22),Mahinmi STEAL (1 STL),nan,2772,Trevor Ariza,HOU,101133,Ian Mahinmi,IND,0,nan,nan,Turnover ,Bad Pass
+70021,21500561,5,3:50,nan,Stuckey 2' Running Layup (13 PTS),97 - 93,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+70022,21500561,5,3:39,nan,G. Hill P.FOUL (P3.T1) (L.Holtkamp),nan,201588,George Hill,IND,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+70023,21500561,5,3:32,MISS Harden 25' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70024,21500561,5,3:31,nan,George REBOUND (Off:0 Def:6),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70025,21500561,5,3:17,nan,George 2' Cutting Layup Shot (20 PTS) (Ellis 13 AST),99 - 93,202331,Paul George,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+70026,21500561,5,3:17,ROCKETS Timeout: Regular (Full 7 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70027,21500561,5,3:06,nan,Mahinmi S.FOUL (P4.T2) (J.Tiven),nan,101133,Ian Mahinmi,IND,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+70028,21500561,5,3:06,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+70029,21500561,5,3:06,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+70030,21500561,5,3:06,SUB: Brewer FOR Thornton,nan,nan,201977,Marcus Thornton,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+70031,21500561,5,3:06,Howard Free Throw 2 of 2 (19 PTS),nan,99 - 94,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+70032,21500561,5,3:02,Brewer P.FOUL (P2.T1) (M.McCutchen),nan,nan,201147,Corey Brewer,HOU,201588,George Hill,IND,0,nan,nan,Foul ,Personal
+70033,21500561,5,2:42,nan,MISS George 13' Fadeaway Jumper,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70034,21500561,5,2:41,Howard REBOUND (Off:4 Def:12),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70035,21500561,5,2:33,MISS Ariza 25' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70036,21500561,5,2:32,Beverley REBOUND (Off:1 Def:4),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70037,21500561,5,2:23,Beverley 25' 3PT Jump Shot (16 PTS) (Harden 6 AST),nan,99 - 97,201976,Patrick Beverley,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+70038,21500561,5,2:22,nan,Pacers Timeout: Short (Reg.4 Short 3),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+70039,21500561,5,2:07,nan,Ellis Out of Bounds - Bad Pass Turnover Turnover (P4.T18),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+70040,21500561,5,1:47,Howard 2' Layup (21 PTS) (Harden 7 AST),nan,99 - 99,2730,Dwight Howard,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+70041,21500561,5,1:35,nan,Ellis 3' Layup (9 PTS),101 - 99,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+70042,21500561,5,1:13,Ariza  3PT Jump Shot (22 PTS) (Harden 8 AST),nan,101 - 102,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+70043,21500561,5,0:59,nan,Ellis 6' Driving Floating Jump Shot (11 PTS) (G. Hill 5 AST),103 - 102,101145,Monta Ellis,IND,201588,George Hill,IND,0,nan,nan,Made Shot ,nan
+70044,21500561,5,0:40,Brewer 24' 3PT Jump Shot (12 PTS) (Beverley 6 AST),nan,103 - 105,201147,Corey Brewer,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+70045,21500561,5,0:40,nan,Pacers Timeout: Short (Reg.4 Short 4),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+70046,21500561,5,0:36,nan,MISS Ellis 8' Driving Floating Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70047,21500561,5,0:35,Harden REBOUND (Off:0 Def:9),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70048,21500561,5,0:12,Harden Poss Lost Ball Turnover (P5.T23),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+70049,21500561,5,0:12,Harden L.B.FOUL (P5.T2) (M.McCutchen),nan,nan,201935,James Harden,HOU,201588,George Hill,IND,0,nan,nan,Foul ,Loose Ball
+70050,21500561,5,0:12,nan,Pacers Timeout: Regular (Reg.5 Short 4),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+70051,21500561,5,0:12,nan,SUB: Miles FOR Stuckey,nan,201155,Rodney Stuckey,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+70052,21500561,5,0:07,nan,MISS Ellis 6' Driving Floating Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+70053,21500561,5,0:06,Howard REBOUND (Off:4 Def:13),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+70054,21500561,5,0:02,Ariza  Running Dunk (24 PTS) (Harden 9 AST),nan,103 - 107,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+70055,21500561,5,0:00,nan,nan,103 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,114 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+61670,21500493,4,12:00,nan,nan,73 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+61671,21500493,4,11:40,nan,Calderon S.FOUL (P4.T1) (M.Lindsay),nan,101181,Jose Calderon,NYK,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+61672,21500493,4,11:40,Mirotic Free Throw 1 of 2 (12 PTS),nan,73 - 78,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61673,21500493,4,11:40,MISS Mirotic Free Throw 2 of 2,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61674,21500493,4,11:39,nan,Seraphin REBOUND (Off:1 Def:1),nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61675,21500493,4,11:18,nan,MISS Seraphin 7' Turnaround Hook Shot,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61676,21500493,4,11:17,Portis REBOUND (Off:1 Def:4),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61677,21500493,4,11:08,MISS Moore 6' Jump Shot,nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61678,21500493,4,11:06,Moore REBOUND (Off:1 Def:2),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61679,21500493,4,11:03,Moore Bad Pass Turnover (P1.T4),Seraphin STEAL (1 STL),nan,202734,E'Twaun Moore,CHI,202338,Kevin Seraphin,NYK,0,nan,nan,Turnover ,Bad Pass
+61680,21500493,4,10:48,nan,MISS Williams 2' Layup,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61681,21500493,4,10:47,Portis REBOUND (Off:1 Def:5),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61682,21500493,4,10:38,nan,Seraphin P.FOUL (P3.T2) (M.Callahan),nan,202338,Kevin Seraphin,NYK,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Personal
+61683,21500493,4,10:36,nan,Thomas P.FOUL (P2.T3) (K.Lane),nan,202498,Lance Thomas,NYK,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Personal
+61684,21500493,4,10:23,Mirotic  Dunk (14 PTS) (Moore 2 AST),nan,73 - 80,202703,Nikola Mirotic,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Made Shot ,nan
+61685,21500493,4,10:02,Snell BLOCK (1 BLK),MISS Thomas 1' Layup,nan,202498,Lance Thomas,NYK,0,nan,nan,203503,Tony Snell,CHI,Missed Shot ,nan
+61686,21500493,4,9:59,nan,Seraphin REBOUND (Off:2 Def:1),nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61687,21500493,4,9:59,nan,MISS Seraphin 2' Tip Layup Shot,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61688,21500493,4,9:59,Moore REBOUND (Off:1 Def:3),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61689,21500493,4,9:51,McDermott 18' Jump Shot (4 PTS) (Mirotic 5 AST),nan,73 - 82,203926,Doug McDermott,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+61690,21500493,4,9:49,nan,Knicks Timeout: Regular (Reg.4 Short 0),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61691,21500493,4,9:49,nan,SUB: Anthony FOR Seraphin,nan,202338,Kevin Seraphin,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+61692,21500493,4,9:49,nan,SUB: Porzingis FOR Williams,nan,202682,Derrick Williams,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+61693,21500493,4,9:49,SUB: Butler FOR Snell,nan,nan,203503,Tony Snell,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+61694,21500493,4,9:29,nan,Thomas Offensive Charge Foul (P3.T4) (M.Callahan),nan,202498,Lance Thomas,NYK,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Offensive Charge
+61695,21500493,4,9:29,nan,Thomas Foul Turnover (P1.T9),nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Turnover ,Foul
+61696,21500493,4,9:14,Portis Lost Ball Turnover (P2.T5),Porzingis STEAL (1 STL),nan,1626171,Bobby Portis,CHI,204001,Kristaps Porzingis,NYK,0,nan,nan,Turnover ,Lost Ball
+61697,21500493,4,9:12,Portis P.FOUL (P3.T1) (M.Lindsay),nan,nan,1626171,Bobby Portis,CHI,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+61698,21500493,4,9:03,McDermott L.B.FOUL (P2.T2) (M.Lindsay),nan,nan,203926,Doug McDermott,CHI,204038,Langston Galloway,NYK,0,nan,nan,Foul ,Loose Ball
+61699,21500493,4,8:54,nan,MISS Porzingis 8' Jump Bank Shot,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61700,21500493,4,8:52,Mirotic REBOUND (Off:0 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61701,21500493,4,8:38,nan,Anthony S.FOUL (P1.PN) (M.Lindsay),nan,2546,Carmelo Anthony,NYK,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+61702,21500493,4,8:38,Butler Free Throw 1 of 2 (18 PTS),nan,73 - 83,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61703,21500493,4,8:38,Butler Free Throw 2 of 2 (19 PTS),nan,73 - 84,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61704,21500493,4,8:26,Butler S.FOUL (P1.T3) (M.Lindsay),nan,nan,202710,Jimmy Butler,CHI,202498,Lance Thomas,NYK,0,nan,nan,Foul ,Shooting
+61705,21500493,4,8:26,nan,Thomas Free Throw 1 of 2 (8 PTS),74 - 84,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61706,21500493,4,8:26,nan,Thomas Free Throw 2 of 2 (9 PTS),75 - 84,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61707,21500493,4,8:12,Portis Out of Bounds Lost Ball Turnover (P3.T6),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+61708,21500493,4,7:57,nan,Thomas 1' Driving Layup (11 PTS) (Porzingis 1 AST),77 - 84,202498,Lance Thomas,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Made Shot ,nan
+61709,21500493,4,7:45,Butler 6' Jump Shot (21 PTS) (Mirotic 6 AST),nan,77 - 86,202710,Jimmy Butler,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+61710,21500493,4,7:33,Mirotic BLOCK (2 BLK),MISS Anthony 3' Layup,nan,2546,Carmelo Anthony,NYK,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+61711,21500493,4,7:32,Portis REBOUND (Off:1 Def:6),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61712,21500493,4,7:27,MISS McDermott 2' Driving Layup,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61713,21500493,4,7:25,Portis REBOUND (Off:2 Def:6),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61714,21500493,4,7:25,Portis 2' Tip Layup Shot (14 PTS),nan,77 - 88,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+61715,21500493,4,7:14,nan,MISS Porzingis 26' 3PT Jump Shot,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61716,21500493,4,7:13,nan,Anthony REBOUND (Off:3 Def:3),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61717,21500493,4,7:12,nan,Anthony 2' Putback Layup (18 PTS),79 - 88,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+61718,21500493,4,6:58,Moore 1' Layup (2 PTS) (Mirotic 7 AST),nan,79 - 90,202734,E'Twaun Moore,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+61719,21500493,4,6:42,Mirotic STEAL (1 STL),Galloway Bad Pass Turnover (P1.T10),nan,204038,Langston Galloway,NYK,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Bad Pass
+61720,21500493,4,6:38,nan,Galloway S.FOUL (P3.PN) (M.Lindsay),nan,204038,Langston Galloway,NYK,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Shooting
+61721,21500493,4,6:38,Portis Free Throw 1 of 2 (15 PTS),nan,79 - 91,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61722,21500493,4,6:38,nan,SUB: Afflalo FOR Galloway,nan,204038,Langston Galloway,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Substitution ,nan
+61723,21500493,4,6:38,Portis Free Throw 2 of 2 (16 PTS),nan,79 - 92,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61724,21500493,4,6:20,nan,Porzingis Out of Bounds - Bad Pass Turnover Turnover (P1.T11),nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+61725,21500493,4,6:03,Mirotic 31' 3PT Jump Shot (17 PTS) (Butler 4 AST),nan,79 - 95,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+61726,21500493,4,6:02,nan,Knicks Timeout: Short (Reg.4 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+61727,21500493,4,6:02,nan,SUB: Lopez FOR Porzingis,nan,204001,Kristaps Porzingis,NYK,201577,Robin Lopez,NYK,0,nan,nan,Substitution ,nan
+61728,21500493,4,5:38,Mirotic STEAL (2 STL),Afflalo Bad Pass Turnover (P2.T12),nan,201167,Arron Afflalo,NYK,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Bad Pass
+61729,21500493,4,5:19,MISS McDermott 2' Layup,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61730,21500493,4,5:18,nan,Anthony REBOUND (Off:3 Def:4),nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61731,21500493,4,5:11,nan,MISS Thomas  3PT Jump Shot,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61732,21500493,4,5:10,Moore REBOUND (Off:1 Def:4),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61733,21500493,4,4:48,Butler 2' Driving Layup (23 PTS),nan,79 - 97,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+61734,21500493,4,4:35,Portis S.FOUL (P4.T4) (M.Callahan),nan,nan,1626171,Bobby Portis,CHI,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Shooting
+61735,21500493,4,4:35,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61736,21500493,4,4:35,nan,SUB: Williams FOR Thomas,nan,202498,Lance Thomas,NYK,202682,Derrick Williams,NYK,0,nan,nan,Substitution ,nan
+61737,21500493,4,4:35,nan,Anthony Free Throw 1 of 2 (19 PTS),80 - 97,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61738,21500493,4,4:35,nan,Anthony Free Throw 2 of 2 (20 PTS),81 - 97,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61739,21500493,4,4:12,McDermott 26' 3PT Jump Shot (7 PTS) (Butler 5 AST),nan,81 - 100,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+61740,21500493,4,3:56,nan,MISS Afflalo 25' 3PT Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61741,21500493,4,3:55,Mirotic REBOUND (Off:0 Def:4),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61742,21500493,4,3:49,McDermott  3PT Jump Shot (10 PTS) (Butler 6 AST),nan,81 - 103,203926,Doug McDermott,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+61743,21500493,4,3:47,nan,Knicks Timeout: Regular (Reg.5 Short 1),nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61744,21500493,4,3:47,SUB: Snell FOR Butler,nan,nan,202710,Jimmy Butler,CHI,203503,Tony Snell,CHI,0,nan,nan,Substitution ,nan
+61745,21500493,4,3:33,nan,SUB: Seraphin FOR Anthony,nan,2546,Carmelo Anthony,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Substitution ,nan
+61746,21500493,4,3:33,nan,SUB: Grant FOR Lopez,nan,201577,Robin Lopez,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Substitution ,nan
+61747,21500493,4,3:33,nan,SUB: Vujacic FOR Calderon,nan,101181,Jose Calderon,NYK,2756,Sasha Vujacic,NYK,0,nan,nan,Substitution ,nan
+61748,21500493,4,3:33,nan,MISS Grant 2' Driving Layup,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61749,21500493,4,3:33,nan,Seraphin REBOUND (Off:3 Def:1),nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61750,21500493,4,3:33,Snell P.FOUL (P2.PN) (M.Callahan),nan,nan,203503,Tony Snell,CHI,202338,Kevin Seraphin,NYK,0,nan,nan,Foul ,Personal
+61751,21500493,4,3:33,nan,MISS Seraphin Free Throw 1 of 2,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61752,21500493,4,3:33,nan,Knicks Rebound,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+61753,21500493,4,3:33,nan,MISS Seraphin Free Throw 2 of 2,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61754,21500493,4,3:32,Mirotic REBOUND (Off:0 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61755,21500493,4,3:14,Snell 22' Jump Shot (4 PTS) (McDermott 1 AST),nan,81 - 105,203503,Tony Snell,CHI,203926,Doug McDermott,CHI,0,nan,nan,Made Shot ,nan
+61756,21500493,4,2:49,nan,MISS Williams 26' 3PT Jump Shot,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61757,21500493,4,2:48,Snell REBOUND (Off:1 Def:1),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61758,21500493,4,2:29,MISS Portis 5' Jump Shot,Seraphin BLOCK (1 BLK),nan,1626171,Bobby Portis,CHI,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+61759,21500493,4,2:27,nan,Vujacic REBOUND (Off:0 Def:1),nan,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61760,21500493,4,2:17,nan,MISS Afflalo 20' Jump Shot,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61761,21500493,4,2:16,Snell REBOUND (Off:1 Def:2),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61762,21500493,4,2:11,Moore Out of Bounds - Bad Pass Turnover Turnover (P2.T7),nan,nan,202734,E'Twaun Moore,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+61763,21500493,4,2:11,SUB: Bairstow FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,203946,Cameron Bairstow,CHI,0,nan,nan,Substitution ,nan
+61764,21500493,4,1:54,nan,MISS Vujacic 23' Jump Shot,nan,2756,Sasha Vujacic,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61765,21500493,4,1:53,Bairstow REBOUND (Off:0 Def:1),nan,nan,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61766,21500493,4,1:41,McDermott 25' 3PT Jump Shot (13 PTS) (Moore 3 AST),nan,81 - 108,203926,Doug McDermott,CHI,202734,E'Twaun Moore,CHI,0,nan,nan,Made Shot ,nan
+61767,21500493,4,1:25,nan,MISS Seraphin 13' Jump Shot,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61768,21500493,4,1:24,Portis REBOUND (Off:2 Def:7),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61769,21500493,4,1:11,MISS Bairstow 1' Layup,Grant BLOCK (1 BLK),nan,203946,Cameron Bairstow,CHI,0,nan,nan,1626170,Jerian Grant,NYK,Missed Shot ,nan
+61770,21500493,4,1:09,Bairstow REBOUND (Off:1 Def:1),nan,nan,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61771,21500493,4,1:09,MISS Bairstow 1' Putback Layup,nan,nan,203946,Cameron Bairstow,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61772,21500493,4,1:07,nan,Grant REBOUND (Off:0 Def:1),nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61773,21500493,4,0:56,nan,MISS Seraphin 11' Hook Shot,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61774,21500493,4,0:54,Portis REBOUND (Off:2 Def:8),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61775,21500493,4,0:32,MISS Snell 21' Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61776,21500493,4,0:32,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61777,21500493,4,0:32,BULLS Turnover: Shot Clock (T#8),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+61778,21500493,4,0:20,nan,MISS Grant 19' Jump Shot,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61779,21500493,4,0:20,nan,Grant REBOUND (Off:1 Def:1),nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61780,21500493,4,0:09,nan,MISS Grant 25' 3PT Jump Shot,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61781,21500493,4,0:08,Snell REBOUND (Off:1 Def:3),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61782,21500493,4,0:00,nan,nan,81 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

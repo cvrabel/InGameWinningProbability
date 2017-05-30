@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+211221,21600467,4,12:00,nan,nan,80 - 107,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+211222,21600467,4,11:48,nan,MISS Warren 20' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211223,21600467,4,11:47,Gordon REBOUND (Off:0 Def:3),nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211224,21600467,4,11:31,Harrell 3' Cutting Layup Shot (14 PTS) (Gordon 4 AST),nan,80 - 109,1626149,Montrezl Harrell,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+211225,21600467,4,11:10,nan,MISS Knight 26' 3PT Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211226,21600467,4,11:10,nan,Warren REBOUND (Off:2 Def:2),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211227,21600467,4,11:09,nan,Warren 2' Putback Layup (9 PTS),82 - 109,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211228,21600467,4,10:54,MISS Beverley 2' Cutting Layup Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211229,21600467,4,10:53,nan,Knight REBOUND (Off:0 Def:5),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211230,21600467,4,10:41,nan,Warren 2' Cutting Layup Shot (11 PTS) (Bender 1 AST),84 - 109,203933,TJ Warren,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Made Shot ,nan
+211231,21600467,4,10:15,MISS Dekker 8' Floating Jump Shot,nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211232,21600467,4,10:14,nan,Bender REBOUND (Off:2 Def:9),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211233,21600467,4,10:08,Beverley S.FOUL (P3.T1) (J.Williams),nan,nan,201976,Patrick Beverley,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+211234,21600467,4,10:08,nan,MISS Knight Free Throw 1 of 2,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211235,21600467,4,10:08,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+211236,21600467,4,10:08,nan,Knight Free Throw 2 of 2 (8 PTS),85 - 109,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211237,21600467,4,9:57,Harrell OFF.Foul (P2) (M.McCutchen),nan,nan,1626149,Montrezl Harrell,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Offensive
+211238,21600467,4,9:57,Harrell Foul Turnover (P2.T15),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+211239,21600467,4,9:40,Harrell BLOCK (2 BLK),MISS Warren 2' Layup,nan,203933,TJ Warren,PHX,0,nan,nan,1626149,Montrezl Harrell,HOU,Missed Shot ,nan
+211240,21600467,4,9:40,nan,Len REBOUND (Off:1 Def:4),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211241,21600467,4,9:40,nan,Len 2' Layup (6 PTS),87 - 109,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211242,21600467,4,9:40,Harrell L.B.FOUL (P3.T2) (M.McCutchen),nan,nan,1626149,Montrezl Harrell,HOU,203933,TJ Warren,PHX,0,nan,nan,Foul ,Loose Ball
+211243,21600467,4,9:40,nan,MISS Warren Free Throw 1 of 1,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+211244,21600467,4,9:40,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211245,21600467,4,9:25,Beverley 3' Driving Floating Bank Jump Shot (11 PTS),nan,87 - 111,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211246,21600467,4,9:17,nan,MISS Knight 12' Step Back Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211247,21600467,4,9:15,Beverley REBOUND (Off:0 Def:7),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211248,21600467,4,9:15,nan,Len P.FOUL (P2.T1) (J.Williams),nan,203458,Alex Len,PHX,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Personal
+211249,21600467,4,8:53,Gordon  Driving Dunk (12 PTS),nan,87 - 113,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211250,21600467,4,8:39,nan,Len OFF.Foul (P3) (M.McCutchen),nan,203458,Alex Len,PHX,1626149,Montrezl Harrell,HOU,0,nan,nan,Foul ,Offensive
+211251,21600467,4,8:39,nan,Len Foul Turnover (P1.T17),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+211252,21600467,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211253,21600467,4,8:24,Gordon 25' 3PT Jump Shot (15 PTS) (Beverley 2 AST),nan,87 - 116,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+211254,21600467,4,8:21,Beverley Personal Take Foul (P4.T3) (A.Smith),nan,nan,201976,Patrick Beverley,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Personal Take
+211255,21600467,4,8:21,SUB: Onuaku FOR Harrell,nan,nan,1626149,Montrezl Harrell,HOU,1627778,Chinanu Onuaku,HOU,0,nan,nan,Substitution ,nan
+211256,21600467,4,8:08,nan,MISS Bender 25' 3PT Jump Shot,nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211257,21600467,4,8:06,Onuaku REBOUND (Off:0 Def:1),nan,nan,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211258,21600467,4,7:56,MISS Beverley 6' Floating Jump Shot,nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211259,21600467,4,7:55,nan,Bender REBOUND (Off:2 Def:10),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211260,21600467,4,7:51,nan,Barbosa 1' Layup (4 PTS) (Knight 1 AST),89 - 116,2571,Leandro Barbosa,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+211261,21600467,4,7:41,Gordon Lost Ball Turnover (P3.T16),Len STEAL (1 STL),nan,201569,Eric Gordon,HOU,203458,Alex Len,PHX,0,nan,nan,Turnover ,Lost Ball
+211262,21600467,4,7:35,nan,Bender  Dunk (6 PTS) (Barbosa 2 AST),91 - 116,1627733,Dragan Bender,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Made Shot ,nan
+211263,21600467,4,7:22,MISS Dekker  3PT Jump Shot,nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211264,21600467,4,7:21,nan,Len REBOUND (Off:1 Def:5),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211265,21600467,4,7:14,nan,Bender 25' 3PT Jump Shot (9 PTS) (Barbosa 3 AST),94 - 116,1627733,Dragan Bender,PHX,2571,Leandro Barbosa,PHX,0,nan,nan,Made Shot ,nan
+211266,21600467,4,7:01,nan,Barbosa P.FOUL (P1.T2) (J.Williams),nan,2571,Leandro Barbosa,PHX,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal
+211267,21600467,4,6:54,Brewer 2' Cutting Layup Shot (8 PTS) (Onuaku 1 AST),nan,94 - 118,201147,Corey Brewer,HOU,1627778,Chinanu Onuaku,HOU,0,nan,nan,Made Shot ,nan
+211268,21600467,4,6:43,nan,Knight 17' Pullup Jump Shot (10 PTS),96 - 118,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211269,21600467,4,6:33,MISS Gordon 10' Floating Jump Shot,nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211270,21600467,4,6:29,nan,Bender REBOUND (Off:2 Def:11),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211271,21600467,4,6:15,nan,MISS Warren 17' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211272,21600467,4,6:14,Dekker REBOUND (Off:1 Def:2),nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211273,21600467,4,6:01,Onuaku 3' Cutting Layup Shot (2 PTS) (Gordon 5 AST),nan,96 - 120,1627778,Chinanu Onuaku,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+211274,21600467,4,5:40,nan,Bender Bad Pass Turnover (P2.T18),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+211275,21600467,4,5:40,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211276,21600467,4,5:40,nan,SUB: Ulis FOR Len,nan,203458,Alex Len,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+211277,21600467,4,5:40,nan,SUB: Williams FOR Barbosa,nan,2571,Leandro Barbosa,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+211278,21600467,4,5:40,SUB: Ennis FOR Beverley,nan,nan,201976,Patrick Beverley,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Substitution ,nan
+211279,21600467,4,5:40,SUB: Wiltjer FOR Gordon,nan,nan,201569,Eric Gordon,HOU,1627787,Kyle Wiltjer,HOU,0,nan,nan,Substitution ,nan
+211280,21600467,4,5:29,MISS Wiltjer 27' 3PT Jump Shot,nan,nan,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211281,21600467,4,5:29,nan,Ulis REBOUND (Off:0 Def:1),nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211282,21600467,4,5:14,nan,Knight 17' Pullup Jump Shot (12 PTS),98 - 120,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211283,21600467,4,4:50,Wiltjer Lost Ball Turnover (P1.T17),Bender STEAL (2 STL),nan,1627787,Kyle Wiltjer,HOU,1627733,Dragan Bender,PHX,0,nan,nan,Turnover ,Lost Ball
+211284,21600467,4,4:46,nan,Knight  Dunk (14 PTS) (Bender 2 AST),100 - 120,202688,Brandon Knight,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Made Shot ,nan
+211285,21600467,4,4:30,MISS Wiltjer 27' 3PT Jump Shot,nan,nan,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211286,21600467,4,4:28,nan,Williams REBOUND (Off:0 Def:1),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211287,21600467,4,4:18,Onuaku S.FOUL (P1.T4) (A.Smith),nan,nan,1627778,Chinanu Onuaku,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+211288,21600467,4,4:18,nan,Knight Free Throw 1 of 2 (15 PTS),101 - 120,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211289,21600467,4,4:18,SUB: McDaniels FOR Brewer,nan,nan,201147,Corey Brewer,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+211290,21600467,4,4:18,nan,Knight Free Throw 2 of 2 (16 PTS),102 - 120,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211291,21600467,4,4:10,Ennis 2' Driving Layup (2 PTS),nan,102 - 122,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211292,21600467,4,4:10,nan,Knight S.FOUL (P2.T3) (A.Smith),nan,202688,Brandon Knight,PHX,203898,Tyler Ennis,HOU,0,nan,nan,Foul ,Shooting
+211293,21600467,4,4:10,Ennis Free Throw 1 of 1 (3 PTS),nan,102 - 123,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+211294,21600467,4,3:59,McDaniels S.FOUL (P1.PN) (M.McCutchen),nan,nan,203909,KJ McDaniels,HOU,202688,Brandon Knight,PHX,0,nan,nan,Foul ,Shooting
+211295,21600467,4,3:59,nan,Knight Free Throw 1 of 2 (17 PTS),103 - 123,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211296,21600467,4,3:59,nan,Knight Free Throw 2 of 2 (18 PTS),104 - 123,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211297,21600467,4,3:45,MISS Dekker 3' Driving Layup,nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211298,21600467,4,3:45,Dekker REBOUND (Off:2 Def:2),nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211299,21600467,4,3:45,Dekker 2' Tip Layup Shot (12 PTS),nan,104 - 125,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211300,21600467,4,3:34,nan,Knight 26' 3PT Step Back Jump Shot (21 PTS),107 - 125,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211301,21600467,4,3:10,MISS Ennis 25' 3PT Jump Shot,nan,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211302,21600467,4,3:09,Onuaku REBOUND (Off:1 Def:1),nan,nan,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211303,21600467,4,3:08,Onuaku 2' Putback Layup (4 PTS),nan,107 - 127,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211304,21600467,4,2:57,nan,Ulis 15' Pullup Jump Shot (2 PTS),109 - 127,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211305,21600467,4,2:46,nan,Williams S.FOUL (P1.T4) (M.McCutchen),nan,1626210,Alan Williams,PHX,1627778,Chinanu Onuaku,HOU,0,nan,nan,Foul ,Shooting
+211306,21600467,4,2:46,nan,Suns Timeout: Regular (Reg.3 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+211307,21600467,4,2:46,Onuaku Free Throw 1 of 2 (5 PTS),nan,109 - 128,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211308,21600467,4,2:46,Onuaku Free Throw 2 of 2 (6 PTS),nan,109 - 129,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211309,21600467,4,2:35,nan,MISS Knight 26' 3PT Pullup Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211310,21600467,4,2:34,Onuaku REBOUND (Off:1 Def:2),nan,nan,1627778,Chinanu Onuaku,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211311,21600467,4,2:16,MISS Ennis 6' Floating Jump Shot,Williams BLOCK (1 BLK),nan,203898,Tyler Ennis,HOU,0,nan,nan,1626210,Alan Williams,PHX,Missed Shot ,nan
+211312,21600467,4,2:16,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211313,21600467,4,2:16,Ennis P.FOUL (P1.PN) (J.Williams),nan,nan,203898,Tyler Ennis,HOU,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Personal
+211314,21600467,4,2:16,nan,Williams Free Throw 1 of 2 (1 PTS),110 - 129,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+211315,21600467,4,2:16,nan,SUB: Chriss FOR Knight,nan,202688,Brandon Knight,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+211316,21600467,4,2:16,nan,Williams Free Throw 2 of 2 (2 PTS),111 - 129,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+211317,21600467,4,2:05,MISS McDaniels 24' 3PT Jump Shot,nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211318,21600467,4,2:04,Wiltjer REBOUND (Off:1 Def:0),nan,nan,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211319,21600467,4,1:59,McDaniels Lost Ball Turnover (P1.T18),Williams STEAL (1 STL),nan,203909,KJ McDaniels,HOU,1626210,Alan Williams,PHX,0,nan,nan,Turnover ,Lost Ball
+211320,21600467,4,1:47,Onuaku STEAL (1 STL),Chriss Lost Ball Turnover (P2.T19),nan,1627737,Marquese Chriss,PHX,1627778,Chinanu Onuaku,HOU,0,nan,nan,Turnover ,Lost Ball
+211321,21600467,4,1:41,MISS McDaniels 2' Running Layup,Chriss BLOCK (2 BLK),nan,203909,KJ McDaniels,HOU,0,nan,nan,1627737,Marquese Chriss,PHX,Missed Shot ,nan
+211322,21600467,4,1:39,McDaniels REBOUND (Off:1 Def:0),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211323,21600467,4,1:35,McDaniels 4' Layup (2 PTS),nan,111 - 131,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+211324,21600467,4,1:24,nan,Bender 2' Driving Reverse Layup (11 PTS),113 - 131,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+211325,21600467,4,1:08,MISS Wiltjer 25' 3PT Step Back Jump Shot,nan,nan,1627787,Kyle Wiltjer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211326,21600467,4,1:07,nan,Chriss REBOUND (Off:3 Def:2),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211327,21600467,4,1:00,nan,MISS Ulis 19' Pullup Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211328,21600467,4,0:58,McDaniels REBOUND (Off:1 Def:1),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211329,21600467,4,0:50,Ennis Bad Pass Turnover (P1.T19),Williams STEAL (2 STL),nan,203898,Tyler Ennis,HOU,1626210,Alan Williams,PHX,0,nan,nan,Turnover ,Bad Pass
+211330,21600467,4,0:46,nan,Chriss  Alley Oop Dunk (12 PTS) (Ulis 1 AST),115 - 131,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+211331,21600467,4,0:25,Ennis Bad Pass Turnover (P2.T20),Bender STEAL (3 STL),nan,203898,Tyler Ennis,HOU,1627733,Dragan Bender,PHX,0,nan,nan,Turnover ,Bad Pass
+211332,21600467,4,0:12,nan,MISS Warren 24' 3PT Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+211333,21600467,4,0:11,McDaniels REBOUND (Off:1 Def:2),nan,nan,203909,KJ McDaniels,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+211334,21600467,4,0:00,nan,nan,115 - 131,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+291233,21601124,4,12:00,nan,nan,93 - 92,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+291234,21601124,4,11:45,nan,Speights OFF.Foul (P1) (B.Spooner),nan,201578,Marreese Speights,LAC,101179,Ronnie Price,PHX,0,nan,nan,Foul ,Offensive
+291235,21601124,4,11:45,nan,Speights Foul Turnover (P2.T13),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+291236,21601124,4,11:38,nan,Felton S.FOUL (P2.T1) (B.Spooner),nan,101109,Raymond Felton,LAC,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Shooting
+291237,21601124,4,11:38,MISS Williams Free Throw 1 of 2,nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291238,21601124,4,11:38,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+291239,21601124,4,11:38,MISS Williams Free Throw 2 of 2,nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291240,21601124,4,11:37,nan,Pierce REBOUND (Off:0 Def:2),nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291241,21601124,4,11:23,nan,Felton 12' Jump Shot (7 PTS),95 - 92,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291242,21601124,4,11:08,Dudley Bad Pass Turnover (P1.T11),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+291243,21601124,4,10:49,nan,Crawford 19' Jump Shot (14 PTS),97 - 92,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291244,21601124,4,10:38,MISS Dudley 26' 3PT Jump Shot,nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291245,21601124,4,10:37,Price REBOUND (Off:1 Def:0),nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291246,21601124,4,10:32,Booker 25' 3PT Step Back Jump Shot (30 PTS),nan,97 - 95,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291247,21601124,4,10:18,Price STEAL (1 STL),Felton Lost Ball Turnover (P1.T14),nan,101109,Raymond Felton,LAC,101179,Ronnie Price,PHX,0,nan,nan,Turnover ,Lost Ball
+291248,21601124,4,10:12,"MISS Jones, Jr. 2' Layup",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291249,21601124,4,10:11,"Jones, Jr. REBOUND (Off:3 Def:1)",nan,nan,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291250,21601124,4,10:11,"Jones, Jr. 1' Tip Layup Shot (8 PTS)",nan,97 - 97,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291251,21601124,4,10:05,Price P.FOUL (P1.T1) (M.Lindsay),nan,nan,101179,Ronnie Price,PHX,101109,Raymond Felton,LAC,0,nan,nan,Foul ,Personal
+291252,21601124,4,9:43,nan,Crawford 25' 3PT Jump Shot (17 PTS) (Pierce 2 AST),100 - 97,2037,Jamal Crawford,LAC,1718,Paul Pierce,LAC,0,nan,nan,Made Shot ,nan
+291253,21601124,4,9:37,nan,Speights Personal Block Foul (P2.T2) (B.Nansel),nan,201578,Marreese Speights,LAC,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal Block
+291254,21601124,4,9:37,nan,SUB: Paul FOR Redick,nan,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+291255,21601124,4,9:23,MISS Booker 17' Turnaround Jump Shot,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291256,21601124,4,9:22,Williams REBOUND (Off:2 Def:4),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291257,21601124,4,9:20,MISS Williams 2' Putback Layup,nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291258,21601124,4,9:20,nan,Speights REBOUND (Off:0 Def:4),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291259,21601124,4,9:17,Booker P.FOUL (P4.T2) (B.Nansel),nan,nan,1626164,Devin Booker,PHX,1718,Paul Pierce,LAC,0,nan,nan,Foul ,Personal
+291260,21601124,4,9:05,nan,Crawford 6' Floating Jump Shot (19 PTS),102 - 97,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291261,21601124,4,9:04,SUNS Timeout: Regular (Full 4 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+291262,21601124,4,8:50,nan,Speights S.FOUL (P3.T3) (B.Nansel),nan,201578,Marreese Speights,LAC,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Shooting
+291263,21601124,4,8:50,Williams Free Throw 1 of 2 (5 PTS),nan,102 - 98,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291264,21601124,4,8:50,Williams Free Throw 2 of 2 (6 PTS),nan,102 - 99,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291265,21601124,4,8:24,nan,MISS Felton 28' 3PT Jump Shot,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291266,21601124,4,8:24,Dudley REBOUND (Off:1 Def:4),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291267,21601124,4,8:18,nan,Felton S.FOUL (P3.T4) (M.Lindsay),nan,101109,Raymond Felton,LAC,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+291268,21601124,4,8:18,Booker Free Throw 1 of 2 (31 PTS),nan,102 - 100,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291269,21601124,4,8:18,nan,SUB: Jordan FOR Speights,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+291270,21601124,4,8:18,nan,SUB: Griffin FOR Pierce,nan,1718,Paul Pierce,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+291271,21601124,4,8:18,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+291272,21601124,4,8:18,MISS Booker Free Throw 2 of 2,nan,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291273,21601124,4,8:13,nan,Griffin REBOUND (Off:0 Def:6),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291274,21601124,4,8:00,nan,MISS Felton 20' Jump Shot,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291275,21601124,4,7:59,Dudley REBOUND (Off:1 Def:5),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291276,21601124,4,7:51,Booker 1' Layup (33 PTS),nan,102 - 102,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291277,21601124,4,7:35,nan,Griffin 8' Turnaround Bank Shot (24 PTS),104 - 102,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291278,21601124,4,7:35,Dudley S.FOUL (P3.T3) (M.Lindsay),nan,nan,201162,Jared Dudley,PHX,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Shooting
+291279,21601124,4,7:35,nan,SUB: Redick FOR Felton,nan,101109,Raymond Felton,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+291280,21601124,4,7:35,nan,Griffin Free Throw 1 of 1 (25 PTS),105 - 102,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+291281,21601124,4,7:11,Booker Lost Ball Turnover (P3.T12),Griffin STEAL (1 STL),nan,1626164,Devin Booker,PHX,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Lost Ball
+291282,21601124,4,7:11,Booker P.FOUL (P5.T4) (B.Nansel),nan,nan,1626164,Devin Booker,PHX,201601,Luc Mbah a Moute,LAC,0,nan,nan,Foul ,Personal
+291283,21601124,4,7:11,"SUB: Ulis FOR Jones, Jr.",nan,nan,1627884,"Derrick Jones, Jr.",PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+291284,21601124,4,7:11,SUB: Warren FOR Booker,nan,nan,1626164,Devin Booker,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+291285,21601124,4,7:01,nan,Paul 10' Pullup Jump Shot (21 PTS),107 - 102,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291286,21601124,4,6:47,MISS Price  3PT Jump Shot,nan,nan,101179,Ronnie Price,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291287,21601124,4,6:47,nan,Jordan REBOUND (Off:6 Def:9),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291288,21601124,4,6:45,Price P.FOUL (P2.PN) (B.Nansel),nan,nan,101179,Ronnie Price,PHX,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+291289,21601124,4,6:45,nan,Paul Free Throw 1 of 2 (22 PTS),108 - 102,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291290,21601124,4,6:45,"SUB: Jones, Jr. FOR Price",nan,nan,101179,Ronnie Price,PHX,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,Substitution ,nan
+291291,21601124,4,6:45,nan,Paul Free Throw 2 of 2 (23 PTS),109 - 102,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291292,21601124,4,6:22,Ulis 10' Floating Jump Shot (12 PTS),nan,109 - 104,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291293,21601124,4,6:08,nan,Paul 13' Pullup Jump Shot (25 PTS),111 - 104,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291294,21601124,4,5:58,MISS Ulis 18' Jump Shot,nan,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291295,21601124,4,5:58,nan,Jordan REBOUND (Off:6 Def:10),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291296,21601124,4,5:34,nan,MISS Griffin 19' Fadeaway Jumper,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291297,21601124,4,5:33,Dudley REBOUND (Off:1 Def:6),nan,nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291298,21601124,4,5:14,MISS Warren 14' Jump Shot,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291299,21601124,4,5:14,nan,Paul REBOUND (Off:1 Def:4),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291300,21601124,4,5:05,nan,MISS Redick 25' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291301,21601124,4,5:05,Williams REBOUND (Off:2 Def:5),nan,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291302,21601124,4,5:02,nan,Jordan S.FOUL (P2.PN) (M.Lindsay),nan,201599,DeAndre Jordan,LAC,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+291303,21601124,4,5:02,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+291304,21601124,4,5:02,SUB: Chriss FOR Williams,nan,nan,1626210,Alan Williams,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+291305,21601124,4,5:02,"SUB: Booker FOR Jones, Jr.",nan,nan,1627884,"Derrick Jones, Jr.",PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+291306,21601124,4,5:02,Warren Free Throw 1 of 2 (13 PTS),nan,111 - 105,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291307,21601124,4,5:02,Warren Free Throw 2 of 2 (14 PTS),nan,111 - 106,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291308,21601124,4,4:45,Booker S.FOUL (P6.PN) (B.Nansel),nan,nan,1626164,Devin Booker,PHX,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+291309,21601124,4,4:45,"SUB: Jones, Jr. FOR Booker",nan,nan,1626164,Devin Booker,PHX,1627884,"Derrick Jones, Jr.",PHX,0,nan,nan,Substitution ,nan
+291310,21601124,4,4:45,nan,Redick Free Throw 1 of 2 (13 PTS),112 - 106,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291311,21601124,4,4:45,nan,Redick Free Throw 2 of 2 (14 PTS),113 - 106,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291312,21601124,4,4:34,Chriss  Alley Oop Dunk (16 PTS) (Ulis 10 AST),nan,113 - 108,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+291313,21601124,4,4:25,Dudley P.FOUL (P4.PN) (M.Lindsay),nan,nan,201162,Jared Dudley,PHX,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+291314,21601124,4,4:25,nan,Griffin Free Throw 1 of 2 (26 PTS),114 - 108,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291315,21601124,4,4:25,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+291316,21601124,4,4:25,nan,MISS Griffin Free Throw 2 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291317,21601124,4,4:24,Chriss REBOUND (Off:1 Def:3),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291318,21601124,4,4:12,Ulis 9' Jump Bank Shot (14 PTS),nan,114 - 110,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291319,21601124,4,3:54,nan,Jordan OFF.Foul (P3) (M.Lindsay),nan,201599,DeAndre Jordan,LAC,201162,Jared Dudley,PHX,0,nan,nan,Foul ,Offensive
+291320,21601124,4,3:54,nan,Jordan Foul Turnover (P2.T15),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+291321,21601124,4,3:43,Chriss 1' Layup (18 PTS) (Ulis 11 AST),nan,114 - 112,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+291322,21601124,4,3:43,nan,Clippers Timeout: Regular (Reg.4 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+291323,21601124,4,3:31,Chriss S.FOUL (P3.PN) (M.Lindsay),nan,nan,1627737,Marquese Chriss,PHX,101108,Chris Paul,LAC,0,nan,nan,Foul ,Shooting
+291324,21601124,4,3:31,nan,Paul Free Throw 1 of 2 (26 PTS),115 - 112,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291325,21601124,4,3:31,nan,Paul Free Throw 2 of 2 (27 PTS),116 - 112,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291326,21601124,4,3:23,Chriss OFF.Foul (P4) (B.Spooner),nan,nan,1627737,Marquese Chriss,PHX,101108,Chris Paul,LAC,0,nan,nan,Foul ,Offensive
+291327,21601124,4,3:23,Chriss Foul Turnover (P3.T13),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+291328,21601124,4,3:11,nan,Griffin  Dunk (28 PTS) (Paul 9 AST),118 - 112,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+291329,21601124,4,3:03,"Jones, Jr.  Cutting Dunk Shot (10 PTS) (Ulis 12 AST)",nan,118 - 114,1627884,"Derrick Jones, Jr.",PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+291330,21601124,4,2:32,nan,MISS Crawford 10' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291331,21601124,4,2:32,Chriss REBOUND (Off:1 Def:4),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291332,21601124,4,2:29,nan,Redick S.FOUL (P5.PN) (B.Nansel),nan,200755,JJ Redick,LAC,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+291333,21601124,4,2:29,MISS Warren Free Throw 1 of 2,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291334,21601124,4,2:29,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+291335,21601124,4,2:29,MISS Warren Free Throw 2 of 2,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291336,21601124,4,2:29,nan,Jordan REBOUND (Off:6 Def:11),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291337,21601124,4,2:26,Dudley Personal Take Foul (P5.PN) (B.Spooner),nan,nan,201162,Jared Dudley,PHX,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+291338,21601124,4,2:26,nan,Jordan Free Throw 1 of 2 (7 PTS),119 - 114,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291339,21601124,4,2:26,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+291340,21601124,4,2:26,nan,MISS Jordan Free Throw 2 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291341,21601124,4,2:25,Warren REBOUND (Off:3 Def:5),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291342,21601124,4,2:18,MISS Warren 4' Jump Shot,Jordan BLOCK (3 BLK),nan,203933,TJ Warren,PHX,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+291343,21601124,4,2:17,Warren REBOUND (Off:4 Def:5),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291344,21601124,4,2:12,nan,Griffin S.FOUL (P4.PN) (B.Nansel),nan,201933,Blake Griffin,LAC,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+291345,21601124,4,2:12,MISS Warren Free Throw 1 of 2,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291346,21601124,4,2:12,SUNS Rebound,nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+291347,21601124,4,2:12,nan,SUB: Crawford FOR Jordan,nan,201599,DeAndre Jordan,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+291348,21601124,4,2:12,nan,SUB: Felton FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,101109,Raymond Felton,LAC,0,nan,nan,Substitution ,nan
+291349,21601124,4,2:12,MISS Warren Free Throw 2 of 2,nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291350,21601124,4,2:11,nan,Redick REBOUND (Off:0 Def:1),nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291351,21601124,4,2:05,Chriss P.FOUL (P5.PN) (M.Lindsay),nan,nan,1627737,Marquese Chriss,PHX,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal
+291352,21601124,4,2:05,nan,Griffin Free Throw 1 of 2 (29 PTS),120 - 114,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+291353,21601124,4,2:05,nan,SUB: Jordan FOR Crawford,nan,2037,Jamal Crawford,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+291354,21601124,4,2:05,nan,SUB: Mbah a Moute FOR Felton,nan,101109,Raymond Felton,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+291355,21601124,4,2:05,nan,MISS Griffin Free Throw 2 of 2,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+291356,21601124,4,2:05,Warren REBOUND (Off:4 Def:6),nan,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291357,21601124,4,1:44,Ulis 4' Driving Layup (16 PTS),nan,120 - 116,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+291358,21601124,4,1:25,nan,Griffin 19' Jump Shot (31 PTS) (Paul 10 AST),122 - 116,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+291359,21601124,4,1:25,SUNS Timeout: Regular (Full 5 Short 2),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+291360,21601124,4,1:08,Chriss Lost Ball Turnover (P4.T14),Griffin STEAL (2 STL),nan,1627737,Marquese Chriss,PHX,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Lost Ball
+291361,21601124,4,0:48,nan,Paul 18' Jump Shot (29 PTS),124 - 116,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+291362,21601124,4,0:48,SUNS Timeout: Short (Full 5 Short 3),nan,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+291363,21601124,4,0:37,MISS Chriss 24' 3PT Jump Shot,nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291364,21601124,4,0:37,nan,Griffin REBOUND (Off:0 Def:7),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291365,21601124,4,0:14,nan,MISS Griffin 18' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+291366,21601124,4,0:13,Chriss REBOUND (Off:1 Def:5),nan,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+291367,21601124,4,0:05,Chriss  Cutting Dunk Shot (20 PTS) (Ulis 13 AST),nan,124 - 118,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+291368,21601124,4,0:00,nan,nan,124 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,122 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+20425,21500162,4,12:00,nan,nan,72 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+20426,21500162,4,11:40,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20427,21500162,4,11:39,nan,Walker REBOUND (Off:0 Def:2),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20428,21500162,4,11:26,Seraphin S.FOUL (P2.T1) (M.Kogut),nan,nan,202338,Kevin Seraphin,NYK,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Shooting
+20429,21500162,4,11:26,nan,Hawes Free Throw 1 of 2 (11 PTS),73 - 80,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20430,21500162,4,11:26,nan,Hawes Free Throw 2 of 2 (12 PTS),74 - 80,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20431,21500162,4,11:06,Seraphin 7' Hook Shot (10 PTS) (Galloway 4 AST),nan,74 - 82,202338,Kevin Seraphin,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+20432,21500162,4,10:49,nan,MISS Lin 22' Jump Shot,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20433,21500162,4,10:48,nan,Hawes REBOUND (Off:3 Def:2),nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20434,21500162,4,10:44,nan,Walker 25' 3PT Jump Shot (23 PTS) (Hawes 1 AST),77 - 82,202689,Kemba Walker,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+20435,21500162,4,10:28,nan,Lamb P.FOUL (P2.T1) (M.Kogut),nan,203087,Jeremy Lamb,CHA,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Personal
+20436,21500162,4,10:23,MISS Grant 12' Jump Shot,Walker BLOCK (1 BLK),nan,1626170,Jerian Grant,NYK,0,nan,nan,202689,Kemba Walker,CHA,Missed Shot ,nan
+20437,21500162,4,10:22,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20438,21500162,4,10:22,SUB: Calderon FOR Grant,nan,nan,1626170,Jerian Grant,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+20439,21500162,4,10:18,MISS Seraphin 20' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20440,21500162,4,10:16,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20441,21500162,4,10:06,Amundson P.FOUL (P3.T2) (M.Kogut),nan,nan,200811,Lou Amundson,NYK,1626163,Frank Kaminsky,CHA,0,nan,nan,Foul ,Personal
+20442,21500162,4,10:00,nan,Walker 15' Fadeaway Jumper (25 PTS),79 - 82,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20443,21500162,4,9:43,MISS Galloway 2' Layup,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20444,21500162,4,9:43,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20445,21500162,4,9:43,SUB: Thomas FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+20446,21500162,4,9:40,MISS Thomas 18' Jump Shot,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20447,21500162,4,9:39,nan,Lin REBOUND (Off:1 Def:2),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20448,21500162,4,9:32,Calderon STEAL (1 STL),Lin Lost Ball Turnover (P2.T6),nan,202391,Jeremy Lin,CHA,101181,Jose Calderon,NYK,0,nan,nan,Turnover ,Lost Ball
+20449,21500162,4,9:22,Afflalo  3PT Jump Shot (14 PTS) (Amundson 1 AST),nan,79 - 85,201167,Arron Afflalo,NYK,200811,Lou Amundson,NYK,0,nan,nan,Made Shot ,nan
+20450,21500162,4,8:59,Galloway STEAL (1 STL),Walker Bad Pass Turnover (P1.T7),nan,202689,Kemba Walker,CHA,204038,Langston Galloway,NYK,0,nan,nan,Turnover ,Bad Pass
+20451,21500162,4,8:52,Calderon 25' 3PT Jump Shot (6 PTS) (Galloway 5 AST),nan,79 - 88,101181,Jose Calderon,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+20452,21500162,4,8:52,nan,Hornets Timeout: Regular (Reg.4 Short 0),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20453,21500162,4,8:52,SUB: Anthony FOR Amundson,nan,nan,200811,Lou Amundson,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Substitution ,nan
+20454,21500162,4,8:52,SUB: Amundson FOR Thomas,nan,nan,202498,Lance Thomas,NYK,200811,Lou Amundson,NYK,0,nan,nan,Substitution ,nan
+20455,21500162,4,8:52,nan,SUB: Williams FOR Lamb,nan,203087,Jeremy Lamb,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+20456,21500162,4,8:52,nan,SUB: Batum FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+20457,21500162,4,8:35,nan,MISS Hawes 20' Jump Shot,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20458,21500162,4,8:34,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20459,21500162,4,8:21,MISS Anthony 13' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20460,21500162,4,8:20,nan,Lin REBOUND (Off:1 Def:3),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20461,21500162,4,8:09,nan,Hawes 9' Turnaround Hook Shot (14 PTS),81 - 88,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20462,21500162,4,7:45,nan,Williams FLAGRANT.FOUL.TYPE2 (P2.T2) (M.Kogut),nan,101107,Marvin Williams,CHA,200811,Lou Amundson,NYK,0,nan,nan,Foul ,Flagrant Type 2
+20463,21500162,4,7:45,nan,nan,nan,435,Carlos Rogers,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+20464,21500162,4,7:45,nan,Williams Ejection:First Flagrant Type 2,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Ejection ,nan
+20465,21500162,4,7:45,nan,SUB: Zeller FOR Williams,nan,101107,Marvin Williams,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+20466,21500162,4,7:45,Calderon Free Throw Flagrant 1 of 2 (7 PTS),nan,81 - 89,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+20467,21500162,4,7:45,Calderon Free Throw Flagrant 2 of 2 (8 PTS),nan,81 - 90,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+20468,21500162,4,7:45,SUB: Porzingis FOR Amundson,nan,nan,200811,Lou Amundson,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+20469,21500162,4,7:45,nan,SUB: Lamb FOR Hawes,nan,201150,Spencer Hawes,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Substitution ,nan
+20470,21500162,4,7:38,MISS Afflalo 21' Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20471,21500162,4,7:37,Porzingis REBOUND (Off:2 Def:8),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20472,21500162,4,7:36,Porzingis  Layup (26 PTS),nan,81 - 92,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+20473,21500162,4,7:36,nan,Zeller S.FOUL (P3.T3) (D.Guthrie),nan,203469,Cody Zeller,CHA,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Shooting
+20474,21500162,4,7:36,Porzingis Free Throw 1 of 1 (27 PTS),nan,81 - 93,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+20475,21500162,4,7:24,nan,MISS Walker 19' Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20476,21500162,4,7:24,Afflalo REBOUND (Off:0 Def:3),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20477,21500162,4,7:00,MISS Calderon 24' 3PT Jump Shot,nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20478,21500162,4,6:59,nan,Batum REBOUND (Off:0 Def:4),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20479,21500162,4,6:41,nan,Lamb 20' Jump Shot (12 PTS),83 - 93,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20480,21500162,4,6:25,MISS Porzingis 18' Jump Shot,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20481,21500162,4,6:23,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20482,21500162,4,6:18,Afflalo 12' Jump Shot (16 PTS),nan,83 - 95,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+20483,21500162,4,6:09,Porzingis S.FOUL (P2.T3) (M.Kogut),nan,nan,204001,Kristaps Porzingis,NYK,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Shooting
+20484,21500162,4,6:09,nan,Walker Free Throw 1 of 2 (26 PTS),84 - 95,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20485,21500162,4,6:09,nan,Walker Free Throw 2 of 2 (27 PTS),85 - 95,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20486,21500162,4,5:54,Galloway 25' 3PT Jump Shot (9 PTS) (Anthony 5 AST),nan,85 - 98,204038,Langston Galloway,NYK,2546,Carmelo Anthony,NYK,0,nan,nan,Made Shot ,nan
+20487,21500162,4,5:54,nan,Hornets Timeout: Short (Reg.4 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+20488,21500162,4,5:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+20489,21500162,4,5:42,nan,Walker 15' Step Back Jump Shot (29 PTS),87 - 98,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20490,21500162,4,5:18,MISS Porzingis 10' Fadeaway Jumper,nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20491,21500162,4,5:17,nan,Lin REBOUND (Off:1 Def:4),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20492,21500162,4,5:01,nan,Walker 2' Driving Layup (31 PTS),89 - 98,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20493,21500162,4,4:42,MISS Anthony 3' Layup,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20494,21500162,4,4:42,nan,Batum REBOUND (Off:0 Def:5),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20495,21500162,4,4:37,nan,Lin 3' Running Jump Shot (13 PTS),91 - 98,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+20496,21500162,4,4:07,MISS Afflalo 20' Fadeaway Jumper,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20497,21500162,4,4:06,nan,Walker REBOUND (Off:0 Def:3),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20498,21500162,4,3:59,nan,MISS Walker 17' Pullup Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20499,21500162,4,3:59,Anthony REBOUND (Off:2 Def:7),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20500,21500162,4,3:55,KNICKS Timeout: Regular (Full 4 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20501,21500162,4,3:55,nan,SUB: Jefferson FOR Zeller,nan,203469,Cody Zeller,CHA,2744,Al Jefferson,CHA,0,nan,nan,Substitution ,nan
+20502,21500162,4,3:55,SUB: Seraphin FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Substitution ,nan
+20503,21500162,4,3:32,MISS Afflalo 15' Running Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20504,21500162,4,3:32,nan,Lamb REBOUND (Off:1 Def:3),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20505,21500162,4,3:16,nan,MISS Lin 11' Fadeaway Jumper,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20506,21500162,4,3:16,Anthony REBOUND (Off:2 Def:8),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20507,21500162,4,2:51,MISS Seraphin 19' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20508,21500162,4,2:51,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20509,21500162,4,2:34,nan,Batum 24' 3PT Jump Shot (4 PTS) (Lamb 3 AST),94 - 98,201587,Nicolas Batum,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+20510,21500162,4,2:23,nan,Batum P.FOUL (P2.T4) (D.Guthrie),nan,201587,Nicolas Batum,CHA,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal
+20511,21500162,4,2:13,MISS Anthony 12' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20512,21500162,4,2:13,nan,Walker REBOUND (Off:0 Def:4),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20513,21500162,4,1:53,Anthony BLOCK (2 BLK),MISS Batum 25' 3PT Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,2546,Carmelo Anthony,NYK,Missed Shot ,nan
+20514,21500162,4,1:52,Seraphin REBOUND (Off:2 Def:3),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20515,21500162,4,1:33,MISS Afflalo 12' Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20516,21500162,4,1:32,nan,Lamb REBOUND (Off:1 Def:4),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20517,21500162,4,1:22,Galloway P.FOUL (P3.T4) (Z.Zarba),nan,nan,204038,Langston Galloway,NYK,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+20518,21500162,4,1:16,nan,MISS Jefferson 16' Jump Shot,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20519,21500162,4,1:16,Galloway REBOUND (Off:0 Def:4),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20520,21500162,4,1:08,KNICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20521,21500162,4,1:08,nan,SUB: Zeller FOR Lamb,nan,203087,Jeremy Lamb,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+20522,21500162,4,1:08,SUB: Porzingis FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+20523,21500162,4,1:08,nan,SUB: Lamb FOR Jefferson,nan,2744,Al Jefferson,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Substitution ,nan
+20524,21500162,4,0:53,MISS Galloway 24' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20525,21500162,4,0:52,nan,Batum REBOUND (Off:0 Def:6),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20526,21500162,4,0:43,nan,MISS Lamb 25' 3PT Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20527,21500162,4,0:43,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20528,21500162,4,0:20,MISS Anthony 13' Jump Shot,nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20529,21500162,4,0:20,nan,Lamb REBOUND (Off:1 Def:5),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20530,21500162,4,0:13,nan,MISS Batum 25' 3PT Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20531,21500162,4,0:13,Porzingis REBOUND (Off:2 Def:9),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20532,21500162,4,0:11,nan,Lin P.FOUL (P2.PN) (D.Guthrie),nan,202391,Jeremy Lin,CHA,204001,Kristaps Porzingis,NYK,0,nan,nan,Foul ,Personal
+20533,21500162,4,0:11,Porzingis Free Throw 1 of 2 (28 PTS),nan,94 - 99,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20534,21500162,4,0:11,nan,SUB: Jefferson FOR Lamb,nan,203087,Jeremy Lamb,CHA,2744,Al Jefferson,CHA,0,nan,nan,Substitution ,nan
+20535,21500162,4,0:11,Porzingis Free Throw 2 of 2 (29 PTS),nan,94 - 100,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20536,21500162,4,0:11,nan,Hornets Timeout: Regular (Reg.5 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+20537,21500162,4,0:11,nan,SUB: Hawes FOR Zeller,nan,203469,Cody Zeller,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+20538,21500162,4,0:05,nan,MISS Batum 19' Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+20539,21500162,4,0:04,Anthony REBOUND (Off:2 Def:9),nan,nan,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+20540,21500162,4,0:03,nan,Hawes Personal Take Foul (P2.PN) (Z.Zarba),nan,201150,Spencer Hawes,CHA,2546,Carmelo Anthony,NYK,0,nan,nan,Foul ,Personal Take
+20541,21500162,4,0:03,nan,nan,nan,528,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+20542,21500162,4,0:03,Anthony Free Throw 1 of 2 (17 PTS),nan,94 - 101,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+20543,21500162,4,0:03,SUB: Seraphin FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Substitution ,nan
+20544,21500162,4,0:03,Anthony Free Throw 2 of 2 (18 PTS),nan,94 - 102,2546,Carmelo Anthony,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+20545,21500162,4,0:00,nan,nan,94 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

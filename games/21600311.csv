@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+192050,21600311,4,12:00,nan,nan,83 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+192051,21600311,4,11:40,MISS Dekker 25' 3PT Jump Shot,nan,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192052,21600311,4,11:39,nan,Smart REBOUND (Off:0 Def:2),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192053,21600311,4,11:22,nan,MISS Rozier 17' Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192054,21600311,4,11:21,Capela REBOUND (Off:2 Def:7),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192055,21600311,4,11:14,Gordon 27' 3PT Jump Shot (14 PTS) (Beverley 2 AST),nan,83 - 80,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+192056,21600311,4,10:53,nan,Bradley 21' Jump Shot (10 PTS) (Horford 8 AST),85 - 80,202340,Avery Bradley,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+192057,21600311,4,10:38,MISS Capela 2' Layup,nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192058,21600311,4,10:36,nan,Bradley REBOUND (Off:2 Def:7),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192059,21600311,4,10:36,Beverley P.FOUL (P1.T1) (M.Davis),nan,nan,201976,Patrick Beverley,HOU,202340,Avery Bradley,BOS,0,nan,nan,Foul ,Personal
+192060,21600311,4,10:18,nan,MISS Horford 25' 3PT Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192061,21600311,4,10:18,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192062,21600311,4,10:18,nan,Bradley L.B.FOUL (P3.T1) (S.Twardoski),nan,202340,Avery Bradley,BOS,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Loose Ball
+192063,21600311,4,10:12,nan,Horford S.FOUL (P2.T2) (M.Davis),nan,201143,Al Horford,BOS,203991,Clint Capela,HOU,0,nan,nan,Foul ,Shooting
+192064,21600311,4,10:12,MISS Capela Free Throw 1 of 2,nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192065,21600311,4,10:12,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192066,21600311,4,10:12,Capela Free Throw 2 of 2 (11 PTS),nan,85 - 81,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192067,21600311,4,9:52,nan,Horford 11' Driving Hook Shot (17 PTS),87 - 81,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192068,21600311,4,9:42,nan,Horford Violation:Kicked Ball (C.Kirkland),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+192069,21600311,4,9:33,Gordon 28' 3PT Jump Shot (17 PTS) (Beverley 3 AST),nan,87 - 84,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+192070,21600311,4,9:15,nan,MISS Horford 3' Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192071,21600311,4,9:13,nan,Smart REBOUND (Off:1 Def:2),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192072,21600311,4,9:08,nan,MISS Rozier 26' 3PT Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192073,21600311,4,9:07,Brewer REBOUND (Off:0 Def:2),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192074,21600311,4,9:01,Dekker 2' Running Layup (5 PTS) (Brewer 1 AST),nan,87 - 86,1626155,Sam Dekker,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+192075,21600311,4,8:50,nan,Smart 2' Layup (8 PTS) (Rozier 3 AST),89 - 86,203935,Marcus Smart,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+192076,21600311,4,8:39,Gordon 8' Jump Shot (19 PTS) (Beverley 4 AST),nan,89 - 88,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+192077,21600311,4,8:22,nan,Smart 26' 3PT Jump Shot (11 PTS),92 - 88,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192078,21600311,4,8:01,MISS Brewer 26' 3PT Jump Shot,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192079,21600311,4,8:00,nan,Horford REBOUND (Off:1 Def:5),nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192080,21600311,4,7:42,nan,Horford 20' Jump Shot (19 PTS) (Rozier 4 AST),94 - 88,201143,Al Horford,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+192081,21600311,4,7:42,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192082,21600311,4,7:42,SUB: Ariza FOR Capela,nan,nan,203991,Clint Capela,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+192083,21600311,4,7:42,SUB: Anderson FOR Beverley,nan,nan,201976,Patrick Beverley,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+192084,21600311,4,7:42,SUB: Harden FOR Dekker,nan,nan,1626155,Sam Dekker,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+192085,21600311,4,7:42,SUB: Harrell FOR Brewer,nan,nan,201147,Corey Brewer,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+192086,21600311,4,7:42,nan,SUB: Crowder FOR Bradley,nan,202340,Avery Bradley,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+192087,21600311,4,7:22,MISS Harrell  Dunk,Smart BLOCK (1 BLK),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,203935,Marcus Smart,BOS,Missed Shot ,nan
+192088,21600311,4,7:18,nan,Smart REBOUND (Off:1 Def:3),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192089,21600311,4,7:14,nan,MISS Rozier 14' Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192090,21600311,4,7:13,Ariza REBOUND (Off:1 Def:7),nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192091,21600311,4,7:01,MISS Ariza 25' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192092,21600311,4,7:00,nan,Rozier REBOUND (Off:0 Def:3),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192093,21600311,4,6:56,nan,Horford  Dunk (21 PTS) (Rozier 5 AST),96 - 88,201143,Al Horford,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+192094,21600311,4,6:43,Harden 2' Driving Layup (26 PTS),nan,96 - 90,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+192095,21600311,4,6:24,Anderson STEAL (1 STL),Horford Bad Pass Turnover (P4.T9),nan,201143,Al Horford,BOS,201583,Ryan Anderson,HOU,0,nan,nan,Turnover ,Bad Pass
+192096,21600311,4,6:17,Harden 7' Running Jump Shot (28 PTS),nan,96 - 92,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+192097,21600311,4,6:17,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192098,21600311,4,6:17,nan,SUB: Jerebko FOR Horford,nan,201143,Al Horford,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+192099,21600311,4,6:17,nan,SUB: Bradley FOR Smart,nan,203935,Marcus Smart,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+192100,21600311,4,6:17,nan,SUB: Thomas FOR Brown,nan,1627759,Jaylen Brown,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+192101,21600311,4,6:17,nan,SUB: Olynyk FOR Rozier,nan,1626179,Terry Rozier,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+192102,21600311,4,6:01,nan,Bradley 20' Jump Shot (12 PTS) (Crowder 5 AST),98 - 92,202340,Avery Bradley,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+192103,21600311,4,5:38,MISS Ariza 2' Driving Reverse Layup,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192104,21600311,4,5:35,Harrell REBOUND (Off:1 Def:1),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192105,21600311,4,5:33,Harrell 3' Putback Layup (5 PTS),nan,98 - 94,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+192106,21600311,4,5:17,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192107,21600311,4,5:16,Harden REBOUND (Off:1 Def:5),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192108,21600311,4,5:15,Harden Out of Bounds - Bad Pass Turnover Turnover (P9.T14),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+192109,21600311,4,5:00,nan,Thomas 3' Driving Layup (20 PTS),100 - 94,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+192110,21600311,4,4:36,ROCKETS Turnover: Shot Clock (T#15),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+192111,21600311,4,4:36,SUB: Beverley FOR Gordon,nan,nan,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+192112,21600311,4,4:21,nan,MISS Thomas 25' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192113,21600311,4,4:20,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192114,21600311,4,4:13,nan,Bradley S.FOUL (P4.T3) (C.Kirkland),nan,202340,Avery Bradley,BOS,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+192115,21600311,4,4:13,Harden Free Throw 1 of 2 (29 PTS),nan,100 - 95,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192116,21600311,4,4:13,nan,SUB: Horford FOR Olynyk,nan,203482,Kelly Olynyk,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+192117,21600311,4,4:13,Harden Free Throw 2 of 2 (30 PTS),nan,100 - 96,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192118,21600311,4,4:01,nan,Thomas Out of Bounds - Bad Pass Turnover Turnover (P2.T10),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+192119,21600311,4,3:56,nan,Horford S.FOUL (P3.T4) (S.Twardoski),nan,201143,Al Horford,BOS,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+192120,21600311,4,3:56,Harden Free Throw 1 of 2 (31 PTS),nan,100 - 97,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192121,21600311,4,3:56,Harden Free Throw 2 of 2 (32 PTS),nan,100 - 98,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192122,21600311,4,3:48,Beverley STEAL (1 STL),Jerebko Bad Pass Turnover (P1.T11),nan,201973,Jonas Jerebko,BOS,201976,Patrick Beverley,HOU,0,nan,nan,Turnover ,Bad Pass
+192123,21600311,4,3:44,Beverley 3' Driving Layup (9 PTS),nan,100 - 100,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+192124,21600311,4,3:32,nan,MISS Crowder  3PT Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192125,21600311,4,3:30,Anderson REBOUND (Off:0 Def:6),nan,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192126,21600311,4,3:23,Harrell  Dunk (7 PTS) (Ariza 1 AST),nan,100 - 102,1626149,Montrezl Harrell,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+192127,21600311,4,3:23,nan,Celtics Timeout: Short (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+192128,21600311,4,3:23,nan,SUB: Smart FOR Jerebko,nan,201973,Jonas Jerebko,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+192129,21600311,4,3:01,nan,Bradley 3' Reverse Layup (14 PTS) (Horford 9 AST),102 - 102,202340,Avery Bradley,BOS,201143,Al Horford,BOS,0,nan,nan,Made Shot ,nan
+192130,21600311,4,2:39,nan,Bradley P.FOUL (P5.PN) (S.Twardoski),nan,202340,Avery Bradley,BOS,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+192131,21600311,4,2:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+192132,21600311,4,2:39,Harden Free Throw 1 of 2 (33 PTS),nan,102 - 103,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192133,21600311,4,2:39,Harden Free Throw 2 of 2 (34 PTS),nan,102 - 104,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192134,21600311,4,2:26,Anderson P.FOUL (P2.T2) (M.Davis),nan,nan,201583,Ryan Anderson,HOU,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+192135,21600311,4,2:26,SUB: Gordon FOR Anderson,nan,nan,201583,Ryan Anderson,HOU,201569,Eric Gordon,HOU,0,nan,nan,Substitution ,nan
+192136,21600311,4,2:19,nan,MISS Horford 20' Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192137,21600311,4,2:18,Gordon REBOUND (Off:0 Def:1),nan,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192138,21600311,4,2:10,Harrell Bad Pass Turnover (P1.T16),nan,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+192139,21600311,4,1:47,Harrell BLOCK (1 BLK),MISS Thomas 4' Driving Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,1626149,Montrezl Harrell,HOU,Missed Shot ,nan
+192140,21600311,4,1:47,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192141,21600311,4,1:43,nan,MISS Crowder 26' 3PT Jump Shot,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192142,21600311,4,1:42,nan,Smart REBOUND (Off:2 Def:3),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192143,21600311,4,1:40,nan,MISS Smart 2' Tip Layup Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192144,21600311,4,1:40,Harden REBOUND (Off:1 Def:6),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192145,21600311,4,1:40,nan,nan,nan,509,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192146,21600311,4,1:30,MISS Harden 27' 3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192147,21600311,4,1:29,nan,Bradley REBOUND (Off:2 Def:8),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192148,21600311,4,1:07,nan,MISS Horford 14' Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192149,21600311,4,1:06,Beverley REBOUND (Off:0 Def:4),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192150,21600311,4,0:54,Harden 27' 3PT Jump Shot (37 PTS),nan,102 - 107,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+192151,21600311,4,0:54,nan,Celtics Timeout: Regular (Reg.5 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192152,21600311,4,0:46,nan,Bradley 22' Pullup Jump Shot (16 PTS) (Smart 2 AST),104 - 107,202340,Avery Bradley,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+192153,21600311,4,0:46,nan,nan,nan,518,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192154,21600311,4,0:22,MISS Harden 13' Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192155,21600311,4,0:21,Beverley REBOUND (Off:1 Def:4),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192156,21600311,4,0:16,Harden FLAGRANT.FOUL.TYPE1 (P2.T3) (M.Davis),nan,nan,201935,James Harden,HOU,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Flagrant Type 1
+192157,21600311,4,0:16,Harden Foul Turnover (P10.T17),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+192158,21600311,4,0:16,nan,nan,nan,523,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192159,21600311,4,0:16,nan,Smart Free Throw Flagrant 1 of 2 (12 PTS),105 - 107,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+192160,21600311,4,0:16,nan,Smart Free Throw Flagrant 2 of 2 (13 PTS),106 - 107,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+192161,21600311,4,0:07,nan,MISS Thomas 3' Driving Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192162,21600311,4,0:06,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192163,21600311,4,0:05,nan,nan,nan,531,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192164,21600311,4,0:05,SUB: Dekker FOR Gordon,nan,nan,201569,Eric Gordon,HOU,1626155,Sam Dekker,HOU,0,nan,nan,Substitution ,nan
+192165,21600311,4,0:00,nan,MISS Horford 4' Jump Shot,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192166,21600311,4,0:00,Harden REBOUND (Off:1 Def:7),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192167,21600311,4,0:00,nan,nan,106 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

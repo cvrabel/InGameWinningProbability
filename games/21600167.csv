@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+173905,21600167,4,12:00,nan,nan,83 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+173906,21600167,4,11:45,MISS Crawford 27' 3PT Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173907,21600167,4,11:43,Speights REBOUND (Off:1 Def:1),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173908,21600167,4,11:42,MISS Speights 2' Putback Layup,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173909,21600167,4,11:40,Felton REBOUND (Off:1 Def:2),nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173910,21600167,4,11:39,Felton  Putback Layup (4 PTS),nan,83 - 78,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173911,21600167,4,11:13,nan,MISS Conley 27' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173912,21600167,4,11:12,Rivers REBOUND (Off:0 Def:1),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173913,21600167,4,11:04,Rivers 4' Driving Layup (2 PTS),nan,83 - 80,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173914,21600167,4,10:47,Rivers STEAL (1 STL),Conley Bad Pass Turnover (P4.T15),nan,201144,Mike Conley,MEM,203085,Austin Rivers,LAC,0,nan,nan,Turnover ,Bad Pass
+173915,21600167,4,10:34,MISS Felton 5' Floating Jump Shot,nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173916,21600167,4,10:34,nan,Carter REBOUND (Off:0 Def:3),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173917,21600167,4,10:34,Speights P.FOUL (P3.T1) (M.Callahan),nan,nan,201578,Marreese Speights,LAC,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+173918,21600167,4,10:17,nan,MISS Gasol 17' Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173919,21600167,4,10:16,nan,Randolph REBOUND (Off:2 Def:4),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173920,21600167,4,10:16,nan,MISS Randolph 1' Tip Layup Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173921,21600167,4,10:12,Felton REBOUND (Off:1 Def:3),nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173922,21600167,4,10:06,Crawford 18' Pullup Jump Shot (8 PTS),nan,83 - 82,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173923,21600167,4,10:05,nan,Grizzlies Timeout: Regular (Reg.4 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173924,21600167,4,9:50,nan,MISS Carter 9' Fadeaway Jumper,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173925,21600167,4,9:47,nan,Gasol REBOUND (Off:2 Def:3),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173926,21600167,4,9:47,nan,Gasol 1' Tip Layup Shot (23 PTS),85 - 82,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+173927,21600167,4,9:28,Speights 13' Jump Shot (4 PTS) (Bass 1 AST),nan,85 - 84,201578,Marreese Speights,LAC,101138,Brandon Bass,LAC,0,nan,nan,Made Shot ,nan
+173928,21600167,4,9:28,nan,Gasol S.FOUL (P2.T1) (J.Orr),nan,201188,Marc Gasol,MEM,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Shooting
+173929,21600167,4,9:28,Speights Free Throw 1 of 1 (5 PTS),nan,85 - 85,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+173930,21600167,4,9:13,nan,Conley 27' 3PT Jump Shot (24 PTS) (Carter 2 AST),88 - 85,201144,Mike Conley,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+173931,21600167,4,9:03,Bass Bad Pass Turnover (P1.T6),Williams STEAL (1 STL),nan,101138,Brandon Bass,LAC,1627786,Troy Williams,MEM,0,nan,nan,Turnover ,Bad Pass
+173932,21600167,4,8:53,nan,Williams 3' Cutting Layup Shot (2 PTS) (Conley 7 AST),90 - 85,1627786,Troy Williams,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+173933,21600167,4,8:36,Crawford 20' Pullup Jump Shot (10 PTS),nan,90 - 87,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173934,21600167,4,8:12,Bass S.FOUL (P1.T2) (M.Callahan),nan,nan,101138,Brandon Bass,LAC,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Shooting
+173935,21600167,4,8:12,nan,Randolph Free Throw 1 of 2 (13 PTS),91 - 87,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+173936,21600167,4,8:12,SUB: Jordan FOR Bass,nan,nan,101138,Brandon Bass,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+173937,21600167,4,8:12,nan,SUB: Harrison FOR Conley,nan,201144,Mike Conley,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Substitution ,nan
+173938,21600167,4,8:12,nan,Randolph Free Throw 2 of 2 (14 PTS),92 - 87,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+173939,21600167,4,8:03,nan,Harrison P.FOUL (P4.T2) (R.Mott),nan,1626150,Andrew Harrison,MEM,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+173940,21600167,4,7:52,MISS Felton 21' Step Back Jump Shot,nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173941,21600167,4,7:49,nan,Harrison REBOUND (Off:0 Def:3),nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173942,21600167,4,7:37,nan,Randolph 2' Driving Finger Roll Layup (16 PTS),94 - 87,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+173943,21600167,4,7:37,CLIPPERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173944,21600167,4,7:37,SUB: Paul FOR Speights,nan,nan,201578,Marreese Speights,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+173945,21600167,4,7:37,SUB: Griffin FOR Felton,nan,nan,101109,Raymond Felton,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+173946,21600167,4,7:13,Crawford 26' 3PT Jump Shot (13 PTS),nan,94 - 90,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173947,21600167,4,6:53,nan,Carter 26' 3PT Jump Shot (10 PTS) (Gasol 5 AST),97 - 90,1713,Vince Carter,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+173948,21600167,4,6:34,MISS Crawford 24' 3PT Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173949,21600167,4,6:32,nan,Randolph REBOUND (Off:2 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173950,21600167,4,6:22,Griffin P.FOUL (P1.T3) (J.Orr),nan,nan,201933,Blake Griffin,LAC,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Personal
+173951,21600167,4,6:22,SUB: Redick FOR Rivers,nan,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+173952,21600167,4,6:22,nan,SUB: Ennis FOR Williams,nan,1627786,Troy Williams,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+173953,21600167,4,6:22,nan,SUB: Conley FOR Carter,nan,1713,Vince Carter,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+173954,21600167,4,6:07,Jordan BLOCK (2 BLK),MISS Conley 2' Driving Layup,nan,201144,Mike Conley,MEM,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+173955,21600167,4,6:07,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173956,21600167,4,6:07,nan,Grizzlies Turnover: Shot Clock (T#16),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+173957,21600167,4,5:51,Griffin 2' Layup (25 PTS),nan,97 - 92,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173958,21600167,4,5:27,nan,MISS Gasol 19' Turnaround Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173959,21600167,4,5:24,Redick REBOUND (Off:0 Def:2),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173960,21600167,4,5:16,Redick 26' 3PT Jump Shot (23 PTS) (Jordan 1 AST),nan,97 - 95,200755,JJ Redick,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Made Shot ,nan
+173961,21600167,4,5:16,nan,Grizzlies Timeout: Regular (Reg.5 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173962,21600167,4,5:16,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+173963,21600167,4,5:16,nan,SUB: Carter FOR Harrison,nan,1626150,Andrew Harrison,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+173964,21600167,4,5:00,nan,Carter 3' Driving Layup (12 PTS) (Gasol 6 AST),99 - 95,1713,Vince Carter,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+173965,21600167,4,4:40,Redick 25' 3PT Jump Shot (26 PTS) (Paul 5 AST),nan,99 - 98,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+173966,21600167,4,4:19,nan,MISS Carter 2' Driving Finger Roll Layup,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173967,21600167,4,4:16,Griffin REBOUND (Off:1 Def:7),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173968,21600167,4,4:00,MISS Crawford 17' Pullup Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173969,21600167,4,3:57,nan,Green REBOUND (Off:2 Def:8),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173970,21600167,4,3:44,Griffin STEAL (1 STL),Green Bad Pass Turnover (P3.T17),nan,203210,JaMychal Green,MEM,201933,Blake Griffin,LAC,0,nan,nan,Turnover ,Bad Pass
+173971,21600167,4,3:40,nan,Green Personal Block Foul (P4.T3) (R.Mott),nan,203210,JaMychal Green,MEM,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Personal Block
+173972,21600167,4,3:40,nan,SUB: Randolph FOR Green,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+173973,21600167,4,3:40,Crawford T.FOUL (P2.T3) (M.Callahan),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Foul ,Technical
+173974,21600167,4,3:40,nan,Conley Free Throw Technical (25 PTS),100 - 98,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+173975,21600167,4,3:28,Redick 27' 3PT Jump Shot (29 PTS) (Paul 6 AST),nan,100 - 101,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+173976,21600167,4,3:13,Griffin P.FOUL (P2.T4) (M.Callahan),nan,nan,201933,Blake Griffin,LAC,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Personal
+173977,21600167,4,3:00,nan,Conley 26' 3PT Step Back Jump Shot (28 PTS),103 - 101,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+173978,21600167,4,2:41,MISS Griffin 3' Cutting Layup Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173979,21600167,4,2:37,nan,Gasol REBOUND (Off:2 Def:4),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173980,21600167,4,2:27,nan,Randolph 3' Turnaround Bank Hook Shot (18 PTS),105 - 101,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+173981,21600167,4,2:27,CLIPPERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173982,21600167,4,2:13,MISS Crawford 15' Pullup Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173983,21600167,4,2:10,Crawford REBOUND (Off:1 Def:0),nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173984,21600167,4,2:10,Crawford 2' Tip Layup Shot (15 PTS),nan,105 - 103,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173985,21600167,4,1:53,nan,MISS Gasol 22' Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173986,21600167,4,1:52,Jordan REBOUND (Off:3 Def:10),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173987,21600167,4,1:41,MISS Paul 12' Fadeaway Jumper,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173988,21600167,4,1:41,Jordan REBOUND (Off:4 Def:10),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173989,21600167,4,1:41,Jordan 1' Tip Layup Shot (8 PTS),nan,105 - 105,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173990,21600167,4,1:27,Jordan Violation:Kicked Ball (J.Orr),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+173991,21600167,4,1:17,nan,MISS Ennis 25' 3PT Jump Shot,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+173992,21600167,4,1:17,Paul REBOUND (Off:0 Def:2),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173993,21600167,4,1:17,nan,Conley L.B.FOUL (P2.T4) (J.Orr),nan,201144,Mike Conley,MEM,101108,Chris Paul,LAC,0,nan,nan,Foul ,Loose Ball
+173994,21600167,4,1:03,Paul 13' Pullup Jump Shot (9 PTS),nan,105 - 107,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+173995,21600167,4,1:03,nan,Grizzlies Timeout: Regular (Reg.6 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+173996,21600167,4,1:03,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+173997,21600167,4,0:48,Griffin BLOCK (2 BLK),MISS Randolph 8' Turnaround Hook Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,201933,Blake Griffin,LAC,Missed Shot ,nan
+173998,21600167,4,0:48,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+173999,21600167,4,0:48,nan,nan,nan,514,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+174000,21600167,4,0:26,Paul S.FOUL (P3.PN) (M.Callahan),nan,nan,101108,Chris Paul,LAC,203516,James Ennis III,MEM,0,nan,nan,Foul ,Shooting
+174001,21600167,4,0:26,nan,MISS Ennis Free Throw 1 of 2,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174002,21600167,4,0:26,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+174003,21600167,4,0:26,nan,Ennis Free Throw 2 of 2 (10 PTS),106 - 107,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174004,21600167,4,0:26,CLIPPERS Timeout: Short (Full 5 Short 2),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+174005,21600167,4,0:26,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+174006,21600167,4,0:26,nan,SUB: Harrison FOR Randolph,nan,2216,Zach Randolph,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Substitution ,nan
+174007,21600167,4,0:23,Crawford Bad Pass Turnover (P2.T7),Gasol STEAL (1 STL),nan,2037,Jamal Crawford,LAC,201188,Marc Gasol,MEM,0,nan,nan,Turnover ,Bad Pass
+174008,21600167,4,0:23,nan,Grizzlies Timeout: Short (Reg.6 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+174009,21600167,4,0:23,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+174010,21600167,4,0:23,nan,SUB: Randolph FOR Harrison,nan,1626150,Andrew Harrison,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+174011,21600167,4,0:14,nan,Gasol 24' 3PT Jump Shot (26 PTS) (Conley 8 AST),109 - 107,201188,Marc Gasol,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+174012,21600167,4,0:14,CLIPPERS Timeout: Regular (Full 6 Short 2),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+174013,21600167,4,0:14,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+174014,21600167,4,0:14,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+174015,21600167,4,0:04,Redick Lost Ball Turnover (P1.T8),Conley STEAL (3 STL),nan,200755,JJ Redick,LAC,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Lost Ball
+174016,21600167,4,0:04,Paul P.FOUL (P4.PN) (J.Orr),nan,nan,101108,Chris Paul,LAC,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+174017,21600167,4,0:04,nan,Conley Free Throw 1 of 2 (29 PTS),110 - 107,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+174018,21600167,4,0:04,SUB: Rivers FOR Jordan,nan,nan,201599,DeAndre Jordan,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+174019,21600167,4,0:04,nan,Conley Free Throw 2 of 2 (30 PTS),111 - 107,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+174020,21600167,4,0:02,MISS Paul 49' 3PT Running Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+174021,21600167,4,0:00,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+174022,21600167,4,0:00,nan,nan,111 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,90 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+290456,21601117,4,12:00,nan,nan,83 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+290457,21601117,4,11:44,Frazier 16' Jump Shot (2 PTS) (Moore 2 AST),nan,83 - 91,204025,Tim Frazier,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Made Shot ,nan
+290458,21601117,4,11:30,nan,Nowitzki 19' Jump Shot (13 PTS) (Barea 8 AST),85 - 91,1717,Dirk Nowitzki,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+290459,21601117,4,11:14,MISS Crawford 16' Jump Shot,nan,nan,202348,Jordan Crawford,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290460,21601117,4,11:12,Frazier REBOUND (Off:1 Def:1),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290461,21601117,4,11:00,MISS Cousins 3' Layup,Finney-Smith BLOCK (1 BLK),nan,202326,DeMarcus Cousins,NOP,0,nan,nan,1627827,Dorian Finney-Smith,DAL,Missed Shot ,nan
+290462,21601117,4,10:58,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290463,21601117,4,10:56,Cousins 2' Layup (23 PTS) (Moore 3 AST),nan,85 - 93,202326,DeMarcus Cousins,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Made Shot ,nan
+290464,21601117,4,10:42,nan,Nowitzki 25' 3PT Jump Shot (16 PTS) (Barea 9 AST),88 - 93,1717,Dirk Nowitzki,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+290465,21601117,4,10:26,nan,Nowitzki S.FOUL (P3.T1) (B.Taylor),nan,1717,Dirk Nowitzki,DAL,202326,DeMarcus Cousins,NOP,0,nan,nan,Foul ,Shooting
+290466,21601117,4,10:26,Cousins Free Throw 1 of 2 (24 PTS),nan,88 - 94,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290467,21601117,4,10:26,Cousins Free Throw 2 of 2 (25 PTS),nan,88 - 95,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290468,21601117,4,10:15,nan,Nowitzki 25' 3PT Jump Shot (19 PTS) (Barea 10 AST),91 - 95,1717,Dirk Nowitzki,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+290469,21601117,4,10:12,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290470,21601117,4,9:59,Cousins 15' Jump Shot (27 PTS) (Frazier 3 AST),nan,91 - 97,202326,DeMarcus Cousins,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+290471,21601117,4,9:42,nan,Finney-Smith  Alley Oop Dunk (8 PTS) (Barea 11 AST),93 - 97,1627827,Dorian Finney-Smith,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+290472,21601117,4,9:31,MISS Cunningham 24' 3PT Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290473,21601117,4,9:29,nan,Finney-Smith REBOUND (Off:0 Def:2),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290474,21601117,4,9:16,nan,Curry 26' 3PT Jump Shot (12 PTS) (Nowitzki 2 AST),96 - 97,203552,Seth Curry,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Made Shot ,nan
+290475,21601117,4,8:57,nan,Finney-Smith P.FOUL (P1.T2) (M.McCutchen),nan,1627827,Dorian Finney-Smith,DAL,202326,DeMarcus Cousins,NOP,0,nan,nan,Foul ,Personal
+290476,21601117,4,8:57,SUB: Holiday FOR Frazier,nan,nan,204025,Tim Frazier,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+290477,21601117,4,8:57,SUB: Davis FOR Cousins,nan,nan,202326,DeMarcus Cousins,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+290478,21601117,4,8:57,SUB: S. Hill FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+290479,21601117,4,8:45,Cunningham 5' Jump Shot (15 PTS) (Holiday 5 AST),nan,96 - 99,201967,Dante Cunningham,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+290480,21601117,4,8:27,S. Hill S.FOUL (P2.T1) (M.McCutchen),nan,nan,203524,Solomon Hill,NOP,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+290481,21601117,4,8:27,nan,Nowitzki Free Throw 1 of 2 (20 PTS),97 - 99,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290482,21601117,4,8:27,nan,SUB: Matthews FOR Curry,nan,203552,Seth Curry,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+290483,21601117,4,8:27,nan,Nowitzki Free Throw 2 of 2 (21 PTS),98 - 99,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290484,21601117,4,8:18,MISS Davis 25' 3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290485,21601117,4,8:13,S. Hill REBOUND (Off:1 Def:2),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290486,21601117,4,8:01,MISS Holiday 2' Layup,Ferrell BLOCK (1 BLK),nan,201950,Jrue Holiday,NOP,0,nan,nan,1627812,Yogi Ferrell,DAL,Missed Shot ,nan
+290487,21601117,4,8:00,nan,Finney-Smith REBOUND (Off:0 Def:3),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290488,21601117,4,7:55,Cunningham P.FOUL (P2.T2) (L.Holtkamp),nan,nan,201967,Dante Cunningham,NOP,1627812,Yogi Ferrell,DAL,0,nan,nan,Foul ,Personal
+290489,21601117,4,7:55,nan,SUB: Noel FOR Finney-Smith,nan,1627827,Dorian Finney-Smith,DAL,203457,Nerlens Noel,DAL,0,nan,nan,Substitution ,nan
+290490,21601117,4,7:55,nan,SUB: Barnes FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+290491,21601117,4,7:55,SUB: Cousins FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,202326,DeMarcus Cousins,NOP,0,nan,nan,Substitution ,nan
+290492,21601117,4,7:43,nan,Ferrell 14' Step Back Jump Shot (12 PTS),100 - 99,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+290493,21601117,4,7:17,Holiday 5' Jump Shot (16 PTS),nan,100 - 101,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+290494,21601117,4,7:04,nan,MISS Noel  Alley Oop Dunk,nan,203457,Nerlens Noel,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290495,21601117,4,7:04,Cousins REBOUND (Off:2 Def:13),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290496,21601117,4,6:59,nan,Matthews P.FOUL (P2.T3) (M.McCutchen),nan,202083,Wesley Matthews,DAL,202348,Jordan Crawford,NOP,0,nan,nan,Foul ,Personal
+290497,21601117,4,6:51,Crawford 26' 3PT Jump Shot (11 PTS) (Holiday 6 AST),nan,100 - 104,202348,Jordan Crawford,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+290498,21601117,4,6:27,Crawford S.FOUL (P3.T3) (M.McCutchen),nan,nan,202348,Jordan Crawford,NOP,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+290499,21601117,4,6:27,nan,Barnes Free Throw 1 of 2 (13 PTS),101 - 104,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290500,21601117,4,6:27,nan,Barnes Free Throw 2 of 2 (14 PTS),102 - 104,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290501,21601117,4,6:16,nan,Ferrell P.FOUL (P2.T4) (B.Taylor),nan,1627812,Yogi Ferrell,DAL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+290502,21601117,4,6:07,Davis 12' Turnaround Jump Shot (26 PTS),nan,102 - 106,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+290503,21601117,4,5:53,nan,MISS Barea 25' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290504,21601117,4,5:51,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290505,21601117,4,5:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+290506,21601117,4,5:51,nan,SUB: Curry FOR Barea,nan,200826,J.J. Barea,DAL,203552,Seth Curry,DAL,0,nan,nan,Substitution ,nan
+290507,21601117,4,5:32,Cousins 2' Layup (29 PTS) (Davis 2 AST),nan,102 - 108,202326,DeMarcus Cousins,NOP,203076,Anthony Davis,NOP,0,nan,nan,Made Shot ,nan
+290508,21601117,4,5:16,nan,Ferrell 26' 3PT Jump Shot (15 PTS) (Curry 2 AST),105 - 108,1627812,Yogi Ferrell,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+290509,21601117,4,4:52,S. Hill 24' 3PT Jump Shot (7 PTS) (Holiday 7 AST),nan,105 - 111,203524,Solomon Hill,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+290510,21601117,4,4:24,nan,Curry 2' Driving Layup (14 PTS),107 - 111,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+290511,21601117,4,4:04,Holiday 1' Layup (18 PTS),nan,107 - 113,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+290512,21601117,4,3:47,nan,Barnes 26' 3PT Jump Shot (17 PTS) (Curry 3 AST),110 - 113,203084,Harrison Barnes,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+290513,21601117,4,3:32,MISS Holiday 25' 3PT Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290514,21601117,4,3:29,nan,Ferrell REBOUND (Off:1 Def:2),nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290515,21601117,4,3:27,nan,MISS Ferrell 27' 3PT Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290516,21601117,4,3:24,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290517,21601117,4,3:23,nan,MISS Barnes 19' Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290518,21601117,4,3:20,Cousins REBOUND (Off:2 Def:14),nan,nan,202326,DeMarcus Cousins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290519,21601117,4,3:00,nan,Barnes P.FOUL (P3.PN) (B.Taylor),nan,203084,Harrison Barnes,DAL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+290520,21601117,4,3:00,Davis Free Throw 1 of 2 (27 PTS),nan,110 - 114,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290521,21601117,4,3:00,Davis Free Throw 2 of 2 (28 PTS),nan,110 - 115,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290522,21601117,4,2:55,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290523,21601117,4,2:55,nan,SUB: Nowitzki FOR Noel,nan,203457,Nerlens Noel,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+290524,21601117,4,2:48,nan,Nowitzki 17' Jump Shot (23 PTS) (Matthews 4 AST),112 - 115,1717,Dirk Nowitzki,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Made Shot ,nan
+290525,21601117,4,2:22,Crawford 20' Pullup Jump Shot (13 PTS) (S. Hill 1 AST),nan,112 - 117,202348,Jordan Crawford,NOP,203524,Solomon Hill,NOP,0,nan,nan,Made Shot ,nan
+290526,21601117,4,2:07,Cousins S.FOUL (P3.T4) (M.McCutchen),nan,nan,202326,DeMarcus Cousins,NOP,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+290527,21601117,4,2:07,nan,Barnes Free Throw 1 of 2 (18 PTS),113 - 117,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+290528,21601117,4,2:07,nan,Barnes Free Throw 2 of 2 (19 PTS),114 - 117,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+290529,21601117,4,1:52,MISS Davis 3' Jump Shot,Nowitzki BLOCK (1 BLK),nan,203076,Anthony Davis,NOP,0,nan,nan,1717,Dirk Nowitzki,DAL,Missed Shot ,nan
+290530,21601117,4,1:51,Davis REBOUND (Off:3 Def:9),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290531,21601117,4,1:50,Davis  Dunk (30 PTS),nan,114 - 119,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+290532,21601117,4,1:38,nan,MISS Ferrell 26' 3PT Jump Shot,nan,1627812,Yogi Ferrell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290533,21601117,4,1:35,S. Hill REBOUND (Off:1 Def:3),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290534,21601117,4,1:20,S. Hill OFF.Foul (P3) (M.McCutchen),nan,nan,203524,Solomon Hill,NOP,203552,Seth Curry,DAL,0,nan,nan,Foul ,Offensive
+290535,21601117,4,1:20,S. Hill Foul Turnover (P1.T6),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Turnover ,Foul
+290536,21601117,4,1:08,nan,Curry 17' Pullup Jump Shot (16 PTS),116 - 119,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+290537,21601117,4,0:47,Crawford 22' Jump Shot (15 PTS),nan,116 - 121,202348,Jordan Crawford,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+290538,21601117,4,0:46,nan,Mavericks Timeout: Regular (Reg.6 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+290539,21601117,4,0:39,nan,Curry 2' Layup (18 PTS) (Ferrell 1 AST),118 - 121,203552,Seth Curry,DAL,1627812,Yogi Ferrell,DAL,0,nan,nan,Made Shot ,nan
+290540,21601117,4,0:18,MISS S. Hill 9' Jump Shot,nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290541,21601117,4,0:15,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290542,21601117,4,0:01,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+290543,21601117,4,0:00,Davis REBOUND (Off:3 Def:10),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+290544,21601117,4,0:00,nan,nan,118 - 121,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

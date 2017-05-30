@@ -1,0 +1,93 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+239103,21600697,4,12:00,nan,nan,65 - 104,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+239104,21600697,4,11:37,nan,Brown 18' Jump Shot (2 PTS) (Augustin 3 AST),67 - 104,1626148,Anthony Brown,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+239105,21600697,4,11:23,Brown OFF.Foul (P4) (D.Stafford),nan,nan,1627759,Jaylen Brown,BOS,1626148,Anthony Brown,ORL,0,nan,nan,Foul ,Offensive
+239106,21600697,4,11:23,Brown Foul Turnover (P1.T9),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+239107,21600697,4,11:06,nan,Augustin 14' Pullup Jump Shot (6 PTS) (Biyombo 2 AST),69 - 104,201571,D.J. Augustin,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Made Shot ,nan
+239108,21600697,4,11:00,nan,Hezonja P.FOUL (P1.T1) (D.Stafford),nan,1626209,Mario Hezonja,ORL,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+239109,21600697,4,10:53,Smart  3PT Jump Shot (5 PTS) (Zeller 2 AST),nan,69 - 107,203935,Marcus Smart,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+239110,21600697,4,10:32,nan,Rudez 26' 3PT Jump Shot (6 PTS) (Brown 1 AST),72 - 107,204014,Damjan Rudez,ORL,1626148,Anthony Brown,ORL,0,nan,nan,Made Shot ,nan
+239111,21600697,4,10:17,MISS Zeller 2' Driving Reverse Layup,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239112,21600697,4,10:16,nan,Augustin REBOUND (Off:0 Def:1),nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239113,21600697,4,10:12,nan,Rudez 1' Layup (8 PTS) (Augustin 4 AST),74 - 107,204014,Damjan Rudez,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+239114,21600697,4,10:05,Olynyk  Dunk (14 PTS) (Smart 10 AST),nan,74 - 109,203482,Kelly Olynyk,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+239115,21600697,4,9:47,nan,MISS Brown 7' Jump Shot,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239116,21600697,4,9:46,Brown REBOUND (Off:1 Def:5),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239117,21600697,4,9:34,Smart 28' 3PT Jump Shot (8 PTS) (Olynyk 1 AST),nan,74 - 112,203935,Marcus Smart,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+239118,21600697,4,9:33,nan,Magic Timeout: Regular (Reg.5 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+239119,21600697,4,9:33,nan,SUB: Watson FOR Hezonja,nan,1626209,Mario Hezonja,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+239120,21600697,4,9:12,nan,MISS Augustin 26' 3PT Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239121,21600697,4,9:11,Brown REBOUND (Off:1 Def:6),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239122,21600697,4,8:51,Olynyk  Cutting Dunk Shot (16 PTS) (Smart 11 AST),nan,74 - 114,203482,Kelly Olynyk,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+239123,21600697,4,8:40,nan,Brown OFF.Foul (P1) (K.Scott),nan,1626148,Anthony Brown,ORL,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Offensive
+239124,21600697,4,8:40,nan,Brown Foul Turnover (P1.T12),nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+239125,21600697,4,8:40,SUB: Young FOR Smart,nan,nan,203935,Marcus Smart,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+239126,21600697,4,8:18,MISS Zeller 17' Jump Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239127,21600697,4,8:17,nan,Biyombo REBOUND (Off:0 Def:6),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239128,21600697,4,8:11,Olynyk P.FOUL (P1.T1) (A.Smith),nan,nan,203482,Kelly Olynyk,BOS,204014,Damjan Rudez,ORL,0,nan,nan,Foul ,Personal
+239129,21600697,4,8:11,nan,SUB: Hezonja FOR Augustin,nan,201571,D.J. Augustin,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+239130,21600697,4,8:04,nan,Brown 25' 3PT Jump Shot (5 PTS),77 - 114,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+239131,21600697,4,7:45,MISS Brown 24' 3PT Step Back Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239132,21600697,4,7:44,Zeller REBOUND (Off:1 Def:1),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239133,21600697,4,7:36,Olynyk Bad Pass Turnover (P2.T10),Rudez STEAL (2 STL),nan,203482,Kelly Olynyk,BOS,204014,Damjan Rudez,ORL,0,nan,nan,Turnover ,Bad Pass
+239134,21600697,4,7:30,nan,MISS Brown 25' 3PT Jump Shot,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239135,21600697,4,7:29,Brown REBOUND (Off:1 Def:7),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239136,21600697,4,7:24,nan,Biyombo S.FOUL (P2.T2) (A.Smith),nan,202687,Bismack Biyombo,ORL,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Shooting
+239137,21600697,4,7:24,MISS Brown Free Throw 1 of 2,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+239138,21600697,4,7:24,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+239139,21600697,4,7:24,Brown Free Throw 2 of 2 (18 PTS),nan,77 - 115,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+239140,21600697,4,7:11,nan,Biyombo 2' Cutting Layup Shot (6 PTS) (Hezonja 2 AST),79 - 115,202687,Bismack Biyombo,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+239141,21600697,4,6:54,MISS Rozier 26' 3PT Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239142,21600697,4,6:54,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239143,21600697,4,6:54,nan,Rudez L.B.FOUL (P1.T3) (K.Scott),nan,204014,Damjan Rudez,ORL,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Loose Ball
+239144,21600697,4,6:46,MISS Zeller 19' Jump Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239145,21600697,4,6:45,nan,Brown REBOUND (Off:0 Def:1),nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239146,21600697,4,6:37,nan,MISS Brown 16' Pullup Jump Shot,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239147,21600697,4,6:36,Zeller REBOUND (Off:1 Def:2),nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239148,21600697,4,6:21,MISS Brown 1' Driving Layup,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239149,21600697,4,6:20,nan,Biyombo REBOUND (Off:0 Def:7),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239150,21600697,4,6:15,Brown P.FOUL (P5.T2) (A.Smith),nan,nan,1627759,Jaylen Brown,BOS,1626209,Mario Hezonja,ORL,0,nan,nan,Foul ,Personal
+239151,21600697,4,6:15,SUB: Mickey FOR Zeller,nan,nan,203092,Tyler Zeller,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Substitution ,nan
+239152,21600697,4,6:15,SUB: Green FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,101123,Gerald Green,BOS,0,nan,nan,Substitution ,nan
+239153,21600697,4,6:07,nan,Hezonja 19' Pullup Jump Shot (2 PTS) (Biyombo 3 AST),81 - 115,1626209,Mario Hezonja,ORL,202687,Bismack Biyombo,ORL,0,nan,nan,Made Shot ,nan
+239154,21600697,4,5:46,Rozier 21' Step Back Jump Shot (6 PTS),nan,81 - 117,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+239155,21600697,4,5:30,nan,Rudez 27' 3PT Jump Shot (11 PTS) (Brown 2 AST),84 - 117,204014,Damjan Rudez,ORL,1626148,Anthony Brown,ORL,0,nan,nan,Made Shot ,nan
+239156,21600697,4,5:15,Mickey  Dunk (2 PTS) (Rozier 2 AST),nan,84 - 119,1626175,Jordan Mickey,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+239157,21600697,4,4:59,nan,Biyombo  Driving Finger Roll Layup (8 PTS) (Hezonja 3 AST),86 - 119,202687,Bismack Biyombo,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+239158,21600697,4,4:40,Mickey 21' Jump Bank Shot (4 PTS) (Young 1 AST),nan,86 - 121,1626175,Jordan Mickey,BOS,203923,James Young,BOS,0,nan,nan,Made Shot ,nan
+239159,21600697,4,4:13,nan,Brown 20' Jump Shot (7 PTS),88 - 121,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+239160,21600697,4,3:52,Brown 1' Driving Layup (20 PTS) (Green 1 AST),nan,88 - 123,1627759,Jaylen Brown,BOS,101123,Gerald Green,BOS,0,nan,nan,Made Shot ,nan
+239161,21600697,4,3:39,nan,MISS Watson 13' Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239162,21600697,4,3:39,Green REBOUND (Off:1 Def:2),nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239163,21600697,4,3:26,nan,Hezonja S.FOUL (P2.T4) (D.Stafford),nan,1626209,Mario Hezonja,ORL,203923,James Young,BOS,0,nan,nan,Foul ,Shooting
+239164,21600697,4,3:26,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+239165,21600697,4,3:26,SUB: Zeller FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+239166,21600697,4,3:26,Young Free Throw 1 of 3 (1 PTS),nan,88 - 124,203923,James Young,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+239167,21600697,4,3:26,MISS Young Free Throw 2 of 3,nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+239168,21600697,4,3:26,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+239169,21600697,4,3:26,Young Free Throw 3 of 3 (2 PTS),nan,88 - 125,203923,James Young,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+239170,21600697,4,3:07,nan,MISS Brown 26' 3PT Jump Shot,nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239171,21600697,4,3:06,Mickey REBOUND (Off:0 Def:1),nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239172,21600697,4,2:52,MISS Young 8' Jump Shot,Hezonja BLOCK (1 BLK),nan,203923,James Young,BOS,0,nan,nan,1626209,Mario Hezonja,ORL,Missed Shot ,nan
+239173,21600697,4,2:51,nan,Hezonja REBOUND (Off:0 Def:2),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239174,21600697,4,2:45,nan,Rudez 25' 3PT Jump Shot (14 PTS) (Hezonja 4 AST),91 - 125,204014,Damjan Rudez,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+239175,21600697,4,2:25,MISS Rozier 26' 3PT Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239176,21600697,4,2:24,nan,Brown REBOUND (Off:0 Def:2),nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239177,21600697,4,2:16,Mickey Violation:Kicked Ball (.),nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+239178,21600697,4,2:16,CELTICS Timeout: Regular (Full 3 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+239179,21600697,4,2:16,SUB: Brown FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Substitution ,nan
+239180,21600697,4,2:05,nan,MISS Biyombo 8' Hook Shot,nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239181,21600697,4,2:04,Mickey REBOUND (Off:0 Def:2),nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239182,21600697,4,1:53,MISS Green 24' 3PT Jump Shot,nan,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239183,21600697,4,1:52,nan,Brown REBOUND (Off:0 Def:3),nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239184,21600697,4,1:36,nan,Hezonja 15' Turnaround Fadeaway (4 PTS) (Watson 4 AST),93 - 125,1626209,Mario Hezonja,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+239185,21600697,4,1:18,MISS Brown 24' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239186,21600697,4,1:17,nan,Hezonja REBOUND (Off:0 Def:3),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239187,21600697,4,1:07,nan,Biyombo 9' Turnaround Fadeaway (10 PTS) (Hezonja 5 AST),95 - 125,202687,Bismack Biyombo,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+239188,21600697,4,0:51,Young 27' 3PT Jump Shot (5 PTS) (Brown 2 AST),nan,95 - 128,203923,James Young,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Made Shot ,nan
+239189,21600697,4,0:31,nan,MISS Watson 25' 3PT Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239190,21600697,4,0:30,Young REBOUND (Off:0 Def:1),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239191,21600697,4,0:10,MISS Mickey  3PT Jump Shot,nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+239192,21600697,4,0:10,nan,Brown REBOUND (Off:0 Def:4),nan,1626148,Anthony Brown,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+239193,21600697,4,0:02,nan,Hezonja 29' 3PT Jump Shot (7 PTS) (Rudez 1 AST),98 - 128,1626209,Mario Hezonja,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Made Shot ,nan
+239194,21600697,4,0:00,nan,nan,98 - 128,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

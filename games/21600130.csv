@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+169339,21600130,4,12:00,nan,nan,79 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+169340,21600130,4,11:46,Ellis S.FOUL (P4.T1) (K.Fitzgerald),nan,nan,101145,Monta Ellis,IND,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+169341,21600130,4,11:46,nan,nan,nan,416,Willie Burton,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+169342,21600130,4,11:46,nan,Smart Free Throw 1 of 2 (5 PTS),80 - 76,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169343,21600130,4,11:46,SUB: Teague FOR Ellis,nan,nan,101145,Monta Ellis,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+169344,21600130,4,11:46,nan,MISS Smart Free Throw 2 of 2,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169345,21600130,4,11:46,Jefferson REBOUND (Off:0 Def:2),nan,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169346,21600130,4,11:21,MISS Teague 24' 3PT Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169347,21600130,4,11:21,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169348,21600130,4,11:21,PACERS Turnover: Shot Clock (T#10),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+169349,21600130,4,11:07,nan,MISS Zeller 21' Jump Shot,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169350,21600130,4,11:05,nan,Zeller REBOUND (Off:4 Def:2),nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169351,21600130,4,10:56,nan,Smart 13' Pullup Jump Shot (7 PTS),82 - 76,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169352,21600130,4,10:35,MISS Teague 10' Driving Floating Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169353,21600130,4,10:34,Teague REBOUND (Off:1 Def:2),nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169354,21600130,4,10:33,Teague Bad Pass Turnover (P2.T11),Smart STEAL (1 STL),nan,201952,Jeff Teague,IND,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Bad Pass
+169355,21600130,4,10:21,Brooks P.FOUL (P2.T2) (K.Cutler),nan,nan,201166,Aaron Brooks,IND,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal
+169356,21600130,4,10:13,nan,Smart 15' Jump Shot (9 PTS) (Rozier 1 AST),84 - 76,203935,Marcus Smart,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+169357,21600130,4,9:52,Robinson III 7' Running Jump Shot (6 PTS),nan,84 - 78,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+169358,21600130,4,9:36,nan,MISS Johnson 9' Turnaround Hook Shot,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169359,21600130,4,9:36,Allen REBOUND (Off:3 Def:1),nan,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169360,21600130,4,9:24,Jefferson Bad Pass Turnover (P1.T12),Rozier STEAL (1 STL),nan,2744,Al Jefferson,IND,1626179,Terry Rozier,BOS,0,nan,nan,Turnover ,Bad Pass
+169361,21600130,4,9:21,Brooks S.FOUL (P3.T3) (K.Cutler),nan,nan,201166,Aaron Brooks,IND,1626179,Terry Rozier,BOS,0,nan,nan,Foul ,Shooting
+169362,21600130,4,9:21,nan,MISS Rozier Free Throw 1 of 2,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169363,21600130,4,9:21,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+169364,21600130,4,9:21,SUB: Miles FOR Brooks,nan,nan,201166,Aaron Brooks,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+169365,21600130,4,9:21,nan,Rozier Free Throw 2 of 2 (9 PTS),85 - 78,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169366,21600130,4,9:07,MISS Robinson III 16' Pullup Jump Shot,nan,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169367,21600130,4,9:06,nan,Rozier REBOUND (Off:0 Def:4),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169368,21600130,4,8:59,nan,MISS Smart 20' Jump Shot,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169369,21600130,4,8:58,Jefferson REBOUND (Off:0 Def:3),nan,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169370,21600130,4,8:47,Robinson III 21' Jump Shot (8 PTS) (Teague 4 AST),nan,85 - 80,203922,Glenn Robinson III,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+169371,21600130,4,8:47,nan,Celtics Timeout: Regular (Reg.4 Short 0),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169372,21600130,4,8:47,nan,SUB: Bradley FOR Zeller,nan,203092,Tyler Zeller,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+169373,21600130,4,8:47,nan,SUB: Olynyk FOR Young,nan,203923,James Young,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+169374,21600130,4,8:29,Allen STEAL (1 STL),Bradley Bad Pass Turnover (P2.T11),nan,202340,Avery Bradley,BOS,202730,Lavoy Allen,IND,0,nan,nan,Turnover ,Bad Pass
+169375,21600130,4,8:06,nan,Olynyk Shooting Block Foul (P4.T1) (S.Corbin),nan,203482,Kelly Olynyk,BOS,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting Block
+169376,21600130,4,8:06,Teague Free Throw 1 of 2 (16 PTS),nan,85 - 81,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169377,21600130,4,8:06,MISS Teague Free Throw 2 of 2,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169378,21600130,4,8:06,nan,Olynyk REBOUND (Off:2 Def:4),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169379,21600130,4,7:45,Robinson III BLOCK (2 BLK),MISS Smart 2' Layup,nan,203935,Marcus Smart,BOS,0,nan,nan,203922,Glenn Robinson III,IND,Missed Shot ,nan
+169380,21600130,4,7:44,nan,Johnson REBOUND (Off:4 Def:4),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169381,21600130,4,7:43,nan,Johnson 2' Layup (14 PTS),87 - 81,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169382,21600130,4,7:17,MISS Teague 6' Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169383,21600130,4,7:16,nan,Rozier REBOUND (Off:0 Def:5),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169384,21600130,4,7:05,nan,Bradley Out of Bounds - Bad Pass Turnover Turnover (P3.T12),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+169385,21600130,4,6:42,MISS Teague 27' 3PT Pullup Jump Shot,nan,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169386,21600130,4,6:42,nan,Rozier REBOUND (Off:0 Def:6),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169387,21600130,4,6:18,nan,Celtics Turnover: Shot Clock (T#13),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+169388,21600130,4,6:18,SUB: Turner FOR Jefferson,nan,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+169389,21600130,4,6:05,MISS Miles 5' Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169390,21600130,4,6:05,Turner REBOUND (Off:2 Def:4),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169391,21600130,4,6:05,Turner 2' Putback Layup (12 PTS),nan,87 - 83,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+169392,21600130,4,6:05,nan,Olynyk S.FOUL (P5.T2) (K.Fitzgerald),nan,203482,Kelly Olynyk,BOS,1626167,Myles Turner,IND,0,nan,nan,Foul ,Shooting
+169393,21600130,4,6:05,nan,SUB: Jerebko FOR Olynyk,nan,203482,Kelly Olynyk,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+169394,21600130,4,6:05,nan,SUB: Thomas FOR Smart,nan,203935,Marcus Smart,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+169395,21600130,4,6:05,Turner Free Throw 1 of 1 (13 PTS),nan,87 - 84,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+169396,21600130,4,5:48,Turner BLOCK (2 BLK),MISS Thomas 7' Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+169397,21600130,4,5:47,Robinson III REBOUND (Off:1 Def:5),nan,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169398,21600130,4,5:44,MISS Teague 6' Running Jump Shot,Jerebko BLOCK (2 BLK),nan,201952,Jeff Teague,IND,0,nan,nan,201973,Jonas Jerebko,BOS,Missed Shot ,nan
+169399,21600130,4,5:44,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169400,21600130,4,5:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+169401,21600130,4,5:44,SUB: Ellis FOR Robinson III,nan,nan,203922,Glenn Robinson III,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+169402,21600130,4,5:26,MISS Ellis 25' 3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169403,21600130,4,5:26,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169404,21600130,4,5:13,nan,MISS Thomas 24' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169405,21600130,4,5:11,nan,Johnson REBOUND (Off:5 Def:4),nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169406,21600130,4,5:07,nan,Rozier 3' Cutting Finger Roll Layup Shot (11 PTS) (Johnson 2 AST),89 - 84,1626179,Terry Rozier,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+169407,21600130,4,4:54,nan,Jerebko Shooting Block Foul (P1.T3) (S.Corbin),nan,201973,Jonas Jerebko,BOS,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting Block
+169408,21600130,4,4:54,Ellis Free Throw 1 of 2 (12 PTS),nan,89 - 85,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169409,21600130,4,4:54,MISS Ellis Free Throw 2 of 2,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169410,21600130,4,4:53,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169411,21600130,4,4:39,Turner 4' Hook Bank Shot (15 PTS),nan,89 - 87,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+169412,21600130,4,4:21,nan,Thomas 7' Jump Shot (13 PTS),91 - 87,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169413,21600130,4,4:05,Ellis 4' Driving Finger Roll Layup (14 PTS),nan,91 - 89,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+169414,21600130,4,3:46,Turner BLOCK (3 BLK),MISS Jerebko 5' Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+169415,21600130,4,3:45,Turner REBOUND (Off:2 Def:5),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169416,21600130,4,3:36,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169417,21600130,4,3:35,nan,Jerebko REBOUND (Off:0 Def:5),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169418,21600130,4,3:16,nan,Thomas 17' Pullup Jump Shot (15 PTS),93 - 89,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169419,21600130,4,3:11,PACERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169420,21600130,4,3:11,nan,SUB: Smart FOR Rozier,nan,1626179,Terry Rozier,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+169421,21600130,4,2:55,Turner 2' Cutting Layup Shot (17 PTS) (Ellis 4 AST),nan,93 - 91,1626167,Myles Turner,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+169422,21600130,4,2:39,nan,Bradley 3' Cutting Dunk Shot (11 PTS) (Johnson 3 AST),95 - 91,202340,Avery Bradley,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+169423,21600130,4,2:23,Ellis Out of Bounds - Bad Pass Turnover Turnover (P3.T13),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+169424,21600130,4,2:10,nan,Bradley 12' Floating Jump Shot (13 PTS),97 - 91,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169425,21600130,4,1:53,nan,Thomas S.FOUL (P4.T4) (K.Fitzgerald),nan,202738,Isaiah Thomas,BOS,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+169426,21600130,4,1:53,Teague Free Throw 1 of 2 (17 PTS),nan,97 - 92,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169427,21600130,4,1:53,Teague Free Throw 2 of 2 (18 PTS),nan,97 - 93,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169428,21600130,4,1:45,Teague P.FOUL (P4.T4) (S.Corbin),nan,nan,201952,Jeff Teague,IND,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+169429,21600130,4,1:39,Ellis STEAL (1 STL),Bradley Bad Pass Turnover (P4.T14),nan,202340,Avery Bradley,BOS,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Bad Pass
+169430,21600130,4,1:31,nan,Johnson Shooting Block Foul (P4.PN) (S.Corbin),nan,101161,Amir Johnson,BOS,101145,Monta Ellis,IND,0,nan,nan,Foul ,Shooting Block
+169431,21600130,4,1:31,MISS Ellis Free Throw 1 of 2,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169432,21600130,4,1:31,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+169433,21600130,4,1:31,Ellis Free Throw 2 of 2 (15 PTS),nan,97 - 94,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169434,21600130,4,1:25,nan,Celtics Timeout: Short (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+169435,21600130,4,1:25,nan,SUB: Olynyk FOR Jerebko,nan,201973,Jonas Jerebko,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+169436,21600130,4,1:22,Teague S.FOUL (P5.PN) (K.Fitzgerald),nan,nan,201952,Jeff Teague,IND,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+169437,21600130,4,1:22,nan,Thomas Free Throw 1 of 2 (16 PTS),98 - 94,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169438,21600130,4,1:22,nan,Thomas Free Throw 2 of 2 (17 PTS),99 - 94,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169439,21600130,4,1:04,Turner Lost Ball Turnover (P4.T14),Bradley STEAL (2 STL),nan,1626167,Myles Turner,IND,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+169440,21600130,4,1:00,nan,Thomas 3' Layup (19 PTS) (Smart 2 AST),101 - 94,202738,Isaiah Thomas,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+169441,21600130,4,1:00,PACERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169442,21600130,4,0:57,MISS Ellis 5' Running Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169443,21600130,4,0:56,nan,Bradley REBOUND (Off:1 Def:6),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169444,21600130,4,0:38,nan,MISS Thomas 12' Pullup Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169445,21600130,4,0:36,Turner REBOUND (Off:2 Def:6),nan,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169446,21600130,4,0:28,nan,Bradley P.FOUL (P3.PN) (S.Corbin),nan,202340,Avery Bradley,BOS,201952,Jeff Teague,IND,0,nan,nan,Foul ,Personal
+169447,21600130,4,0:28,Teague Free Throw 1 of 2 (19 PTS),nan,101 - 95,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169448,21600130,4,0:28,nan,SUB: Zeller FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+169449,21600130,4,0:28,Teague Free Throw 2 of 2 (20 PTS),nan,101 - 96,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169450,21600130,4,0:28,Miles Personal Take Foul (P5.PN) (K.Cutler),nan,nan,101139,CJ Miles,IND,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Take
+169451,21600130,4,0:28,nan,Thomas Free Throw 1 of 2 (20 PTS),102 - 96,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169452,21600130,4,0:28,nan,SUB: Olynyk FOR Zeller,nan,203092,Tyler Zeller,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+169453,21600130,4,0:28,nan,Thomas Free Throw 2 of 2 (21 PTS),103 - 96,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169454,21600130,4,0:28,PACERS Timeout: Short (Full 5 Short 2),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+169455,21600130,4,0:23,Miles 26' 3PT Jump Shot (8 PTS) (Turner 1 AST),nan,103 - 99,101139,CJ Miles,IND,1626167,Myles Turner,IND,0,nan,nan,Made Shot ,nan
+169456,21600130,4,0:20,Teague Personal Block Foul (P6.PN) (S.Corbin),nan,nan,201952,Jeff Teague,IND,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Block
+169457,21600130,4,0:20,SUB: Brooks FOR Teague,nan,nan,201952,Jeff Teague,IND,201166,Aaron Brooks,IND,0,nan,nan,Substitution ,nan
+169458,21600130,4,0:20,nan,Thomas Free Throw 1 of 2 (22 PTS),104 - 99,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169459,21600130,4,0:20,nan,Thomas Free Throw 2 of 2 (23 PTS),105 - 99,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169460,21600130,4,0:20,PACERS Timeout: Short (Full 5 Short 3),nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+169461,21600130,4,0:20,nan,SUB: Rozier FOR Johnson,nan,101161,Amir Johnson,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+169462,21600130,4,0:17,MISS Miles 26' 3PT Jump Shot,nan,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169463,21600130,4,0:16,nan,Bradley REBOUND (Off:1 Def:7),nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169464,21600130,4,0:00,nan,nan,105 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+247642,21600765,4,12:00,nan,nan,75 - 63,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+247643,21600765,4,11:44,Harris Traveling Turnover (P1.T20),nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+247644,21600765,4,11:31,nan,VanVleet 22' Jump Shot (4 PTS) (Lowry 9 AST),77 - 63,1627832,Fred VanVleet,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+247645,21600765,4,11:11,Kilpatrick Bad Pass Turnover (P5.T21),Lowry STEAL (1 STL),nan,203930,Sean Kilpatrick,BKN,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Bad Pass
+247646,21600765,4,10:54,nan,Ross  Driving Dunk (14 PTS) (VanVleet 4 AST),79 - 63,203082,Terrence Ross,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Made Shot ,nan
+247647,21600765,4,10:33,Hamilton 2' Driving Layup (6 PTS) (Dinwiddie 2 AST),nan,79 - 65,203120,Justin Hamilton,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+247648,21600765,4,10:07,Booker STEAL (2 STL),Lowry Lost Ball Turnover (P2.T11),nan,200768,Kyle Lowry,TOR,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Lost Ball
+247649,21600765,4,9:54,nan,Poeltl P.FOUL (P1.T1) (B.Forte),nan,1627751,Jakob Poeltl,TOR,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Personal
+247650,21600765,4,9:47,MISS Hamilton 25' 3PT Jump Shot,nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247651,21600765,4,9:46,nan,Nogueira REBOUND (Off:1 Def:3),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247652,21600765,4,9:31,nan,MISS Ross 10' Driving Bank Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247653,21600765,4,9:30,nan,Ross REBOUND (Off:1 Def:2),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247654,21600765,4,9:20,Booker S.FOUL (P1.T1) (C.Blair),nan,nan,202344,Trevor Booker,BKN,1627832,Fred VanVleet,TOR,0,nan,nan,Foul ,Shooting
+247655,21600765,4,9:20,nan,VanVleet Free Throw 1 of 2 (5 PTS),80 - 65,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247656,21600765,4,9:20,nan,VanVleet Free Throw 2 of 2 (6 PTS),81 - 65,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247657,21600765,4,9:06,nan,Lowry S.FOUL (P3.T2) (B.Forte),nan,200768,Kyle Lowry,TOR,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+247658,21600765,4,9:06,Dinwiddie Free Throw 1 of 2 (6 PTS),nan,81 - 66,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247659,21600765,4,9:06,Dinwiddie Free Throw 2 of 2 (7 PTS),nan,81 - 67,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247660,21600765,4,8:44,nan,MISS Nogueira 25' 3PT Jump Shot,nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247661,21600765,4,8:43,Booker REBOUND (Off:2 Def:4),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247662,21600765,4,8:30,Booker  Driving Dunk (13 PTS),nan,81 - 69,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+247663,21600765,4,8:11,nan,Ross 26' 3PT Step Back Jump Shot (17 PTS),84 - 69,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+247664,21600765,4,7:55,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247665,21600765,4,7:54,nan,Nogueira REBOUND (Off:1 Def:4),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247666,21600765,4,7:52,Booker STEAL (3 STL),Nogueira Lost Ball Turnover (P1.T12),nan,203512,Lucas Nogueira,TOR,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Lost Ball
+247667,21600765,4,7:51,Booker 1' Reverse Layup (15 PTS),nan,84 - 71,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+247668,21600765,4,7:43,nan,Raptors Timeout: Regular (Reg.4 Short 0),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247669,21600765,4,7:43,SUB: Lopez FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+247670,21600765,4,7:29,nan,MISS Poeltl 9' Jump Bank Shot,nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247671,21600765,4,7:28,Booker REBOUND (Off:2 Def:5),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247672,21600765,4,7:20,MISS Harris 25' 3PT Jump Shot,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247673,21600765,4,7:19,nan,Lowry REBOUND (Off:0 Def:7),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247674,21600765,4,7:12,nan,MISS Lowry 24' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247675,21600765,4,7:11,Kilpatrick REBOUND (Off:0 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247676,21600765,4,7:00,nan,VanVleet P.FOUL (P1.T3) (J.Williams),nan,1627832,Fred VanVleet,TOR,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Personal
+247677,21600765,4,7:00,SUB: Bogdanovic FOR Harris,nan,nan,203925,Joe Harris,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+247678,21600765,4,7:00,nan,SUB: Powell FOR Lowry,nan,200768,Kyle Lowry,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+247679,21600765,4,6:53,Kilpatrick 24' 3PT Jump Shot (7 PTS) (Lopez 2 AST),nan,84 - 74,203930,Sean Kilpatrick,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+247680,21600765,4,6:32,nan,MISS Ross 11' Pullup Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247681,21600765,4,6:31,Lopez REBOUND (Off:2 Def:3),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247682,21600765,4,6:21,Kilpatrick 24' 3PT Jump Shot (10 PTS) (Dinwiddie 3 AST),nan,84 - 77,203930,Sean Kilpatrick,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+247683,21600765,4,6:02,nan,MISS VanVleet 19' Pullup Jump Shot,nan,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247684,21600765,4,6:01,Booker REBOUND (Off:2 Def:6),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247685,21600765,4,5:54,nan,Poeltl P.FOUL (P2.T4) (J.Williams),nan,1627751,Jakob Poeltl,TOR,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Personal
+247686,21600765,4,5:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+247687,21600765,4,5:54,nan,SUB: Lowry FOR Nogueira,nan,203512,Lucas Nogueira,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+247688,21600765,4,5:54,nan,SUB: Valanciunas FOR Ross,nan,203082,Terrence Ross,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+247689,21600765,4,5:54,nan,SUB: Siakam FOR VanVleet,nan,1627832,Fred VanVleet,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+247690,21600765,4,5:54,nan,SUB: Carroll FOR Poeltl,nan,1627751,Jakob Poeltl,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Substitution ,nan
+247691,21600765,4,5:46,nan,Valanciunas P.FOUL (P4.PN) (C.Blair),nan,202685,Jonas Valanciunas,TOR,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Personal
+247692,21600765,4,5:46,Lopez Free Throw 1 of 2 (18 PTS),nan,84 - 78,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247693,21600765,4,5:46,MISS Lopez Free Throw 2 of 2,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247694,21600765,4,5:45,nan,Valanciunas REBOUND (Off:0 Def:5),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247695,21600765,4,5:28,Lopez BLOCK (1 BLK),MISS Valanciunas 3' Alley Oop Layup,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+247696,21600765,4,5:26,Booker REBOUND (Off:2 Def:7),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247697,21600765,4,5:23,Bogdanovic 3' Cutting Layup Shot (10 PTS) (Booker 2 AST),nan,84 - 80,202711,Bojan Bogdanovic,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+247698,21600765,4,5:02,Booker S.FOUL (P2.T2) (C.Blair),nan,nan,202344,Trevor Booker,BKN,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+247699,21600765,4,5:02,nan,Valanciunas Free Throw 1 of 2 (19 PTS),85 - 80,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247700,21600765,4,5:02,SUB: Hamilton FOR Booker,nan,nan,202344,Trevor Booker,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+247701,21600765,4,5:02,nan,Valanciunas Free Throw 2 of 2 (20 PTS),86 - 80,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247702,21600765,4,4:52,MISS Lopez 5' Floating Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247703,21600765,4,4:51,nan,Lowry REBOUND (Off:0 Def:8),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247704,21600765,4,4:43,nan,Valanciunas  Alley Oop Dunk (22 PTS) (Lowry 10 AST),88 - 80,202685,Jonas Valanciunas,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+247705,21600765,4,4:23,MISS Kilpatrick  3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247706,21600765,4,4:22,Hamilton REBOUND (Off:2 Def:4),nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247707,21600765,4,4:20,Hamilton 2' Putback Layup (8 PTS),nan,88 - 82,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+247708,21600765,4,4:05,Dinwiddie S.FOUL (P1.T3) (B.Forte),nan,nan,203915,Spencer Dinwiddie,BKN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+247709,21600765,4,4:05,nan,Lowry Free Throw 1 of 2 (14 PTS),89 - 82,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247710,21600765,4,4:05,nan,Lowry Free Throw 2 of 2 (15 PTS),90 - 82,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247711,21600765,4,3:52,MISS Kilpatrick 3' Driving Layup,Powell BLOCK (1 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,1626181,Norman Powell,TOR,Missed Shot ,nan
+247712,21600765,4,3:51,nan,Lowry REBOUND (Off:0 Def:9),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247713,21600765,4,3:40,nan,Carroll 2' Cutting Layup Shot (12 PTS) (Lowry 11 AST),92 - 82,201960,DeMarre Carroll,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+247714,21600765,4,3:40,NETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247715,21600765,4,3:40,SUB: Foye FOR Dinwiddie,nan,nan,203915,Spencer Dinwiddie,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+247716,21600765,4,3:40,SUB: Booker FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+247717,21600765,4,3:26,nan,Lowry S.FOUL (P4.PN) (J.Williams),nan,200768,Kyle Lowry,TOR,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+247718,21600765,4,3:26,Lopez Free Throw 1 of 2 (19 PTS),nan,92 - 83,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247719,21600765,4,3:26,Lopez Free Throw 2 of 2 (20 PTS),nan,92 - 84,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247720,21600765,4,3:06,nan,MISS Powell 8' Running Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247721,21600765,4,3:05,nan,Powell REBOUND (Off:3 Def:2),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247722,21600765,4,3:04,nan,MISS Powell 3' Putback Layup,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247723,21600765,4,3:02,nan,Powell REBOUND (Off:4 Def:2),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247724,21600765,4,3:00,nan,Powell 5' Turnaround Jump Shot (8 PTS),94 - 84,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+247725,21600765,4,2:48,Kilpatrick 25' 3PT Jump Shot (13 PTS) (Foye 4 AST),nan,94 - 87,203930,Sean Kilpatrick,BKN,200751,Randy Foye,BKN,0,nan,nan,Made Shot ,nan
+247726,21600765,4,2:23,nan,MISS Lowry 27' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247727,21600765,4,2:22,Booker REBOUND (Off:2 Def:8),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247728,21600765,4,2:16,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247729,21600765,4,2:14,nan,Siakam REBOUND (Off:1 Def:5),nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247730,21600765,4,2:08,nan,Carroll 2' Layup (14 PTS),96 - 87,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+247731,21600765,4,1:58,MISS Lopez 24' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247732,21600765,4,1:57,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247733,21600765,4,1:57,nan,Powell L.B.FOUL (P1.PN) (J.Williams),nan,1626181,Norman Powell,TOR,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Loose Ball
+247734,21600765,4,1:57,MISS Booker Free Throw 1 of 2,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247735,21600765,4,1:57,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+247736,21600765,4,1:57,MISS Booker Free Throw 2 of 2,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247737,21600765,4,1:56,nan,Siakam REBOUND (Off:1 Def:6),nan,1627783,Pascal Siakam,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247738,21600765,4,1:39,Lopez BLOCK (2 BLK),MISS Lowry 8' Running Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,201572,Brook Lopez,BKN,Missed Shot ,nan
+247739,21600765,4,1:38,Lopez REBOUND (Off:2 Def:4),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247740,21600765,4,1:25,MISS Booker 6' Hook Shot,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+247741,21600765,4,1:24,nan,Lowry REBOUND (Off:0 Def:10),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247742,21600765,4,1:23,nan,Raptors Timeout: Regular (Reg.5 Short 0),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247743,21600765,4,1:23,SUB: Hamilton FOR Booker,nan,nan,202344,Trevor Booker,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+247744,21600765,4,1:23,nan,SUB: VanVleet FOR Siakam,nan,1627783,Pascal Siakam,TOR,1627832,Fred VanVleet,TOR,0,nan,nan,Substitution ,nan
+247745,21600765,4,1:05,nan,Powell  Driving Dunk (10 PTS),98 - 87,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+247746,21600765,4,1:00,nan,Powell P.FOUL (P2.PN) (B.Forte),nan,1626181,Norman Powell,TOR,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Personal
+247747,21600765,4,1:00,Kilpatrick Free Throw 1 of 2 (14 PTS),nan,98 - 88,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247748,21600765,4,1:00,Kilpatrick Free Throw 2 of 2 (15 PTS),nan,98 - 89,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247749,21600765,4,0:54,Lopez P.FOUL (P4.T4) (J.Williams),nan,nan,201572,Brook Lopez,BKN,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Personal
+247750,21600765,4,0:54,SUB: Booker FOR Lopez,nan,nan,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+247751,21600765,4,0:52,Kilpatrick P.FOUL (P3.PN) (J.Williams),nan,nan,203930,Sean Kilpatrick,BKN,1627832,Fred VanVleet,TOR,0,nan,nan,Foul ,Personal
+247752,21600765,4,0:52,nan,VanVleet Free Throw 1 of 2 (7 PTS),99 - 89,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247753,21600765,4,0:52,SUB: Lopez FOR Booker,nan,nan,202344,Trevor Booker,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+247754,21600765,4,0:52,nan,VanVleet Free Throw 2 of 2 (8 PTS),100 - 89,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247755,21600765,4,0:52,NETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+247756,21600765,4,0:46,Bogdanovic 24' 3PT Jump Shot (13 PTS) (Foye 5 AST),nan,100 - 92,202711,Bojan Bogdanovic,BKN,200751,Randy Foye,BKN,0,nan,nan,Made Shot ,nan
+247757,21600765,4,0:46,nan,Raptors Timeout: Short (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+247758,21600765,4,0:46,SUB: Booker FOR Lopez,nan,nan,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+247759,21600765,4,0:42,Booker P.FOUL (P3.PN) (J.Williams),nan,nan,202344,Trevor Booker,BKN,201960,DeMarre Carroll,TOR,0,nan,nan,Foul ,Personal
+247760,21600765,4,0:42,nan,Carroll Free Throw 1 of 2 (15 PTS),101 - 92,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247761,21600765,4,0:42,SUB: Lopez FOR Booker,nan,nan,202344,Trevor Booker,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+247762,21600765,4,0:42,nan,MISS Carroll Free Throw 2 of 2,nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247763,21600765,4,0:41,Kilpatrick REBOUND (Off:0 Def:5),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+247764,21600765,4,0:29,Kilpatrick 24' 3PT Jump Shot (18 PTS) (Lopez 3 AST),nan,101 - 95,203930,Sean Kilpatrick,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+247765,21600765,4,0:27,Hamilton P.FOUL (P1.PN) (B.Forte),nan,nan,203120,Justin Hamilton,BKN,1627832,Fred VanVleet,TOR,0,nan,nan,Foul ,Personal
+247766,21600765,4,0:27,nan,VanVleet Free Throw 1 of 2 (9 PTS),102 - 95,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+247767,21600765,4,0:27,nan,VanVleet Free Throw 2 of 2 (10 PTS),103 - 95,1627832,Fred VanVleet,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+247768,21600765,4,0:27,NETS Timeout: Short (Full 5 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+247769,21600765,4,0:27,nan,SUB: Siakam FOR Valanciunas,nan,202685,Jonas Valanciunas,TOR,1627783,Pascal Siakam,TOR,0,nan,nan,Substitution ,nan
+247770,21600765,4,0:20,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P5.T22),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+247771,21600765,4,0:00,nan,nan,103 - 95,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

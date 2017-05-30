@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+217764,21600522,4,12:00,nan,nan,74 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+217765,21600522,4,11:49,nan,Johnson P.FOUL (P1.T1) (C.Blair),nan,2207,Joe Johnson,UTA,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Personal
+217766,21600522,4,11:44,nan,Favors S.FOUL (P4.T2) (K.Scott),nan,202324,Derrick Favors,UTA,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+217767,21600522,4,11:44,MISS Olynyk Free Throw 1 of 2,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217768,21600522,4,11:44,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+217769,21600522,4,11:44,Olynyk Free Throw 2 of 2 (1 PTS),nan,74 - 86,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217770,21600522,4,11:28,nan,Johnson 6' Floating Jump Shot (5 PTS),76 - 86,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+217771,21600522,4,11:15,Olynyk 2' Finger Roll Layup (3 PTS) (Thomas 14 AST),nan,76 - 88,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+217772,21600522,4,10:57,nan,MISS Johnson 28' 3PT Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217773,21600522,4,10:56,Thomas REBOUND (Off:0 Def:4),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217774,21600522,4,10:50,Olynyk  Cutting Dunk Shot (5 PTS) (Thomas 15 AST),nan,76 - 90,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+217775,21600522,4,10:37,Brown P.FOUL (P1.T1) (B.Forte),nan,nan,1627759,Jaylen Brown,BOS,2207,Joe Johnson,UTA,0,nan,nan,Foul ,Personal
+217776,21600522,4,10:37,nan,SUB: Hood FOR Diaw,nan,2564,Boris Diaw,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+217777,21600522,4,10:25,nan,MISS Ingles 23' Step Back Jump Shot,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217778,21600522,4,10:24,nan,Favors REBOUND (Off:2 Def:3),nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217779,21600522,4,10:21,Olynyk P.FOUL (P2.T2) (C.Blair),nan,nan,203482,Kelly Olynyk,BOS,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Personal
+217780,21600522,4,10:11,nan,Favors 16' Turnaround Jump Shot (12 PTS) (Johnson 2 AST),78 - 90,202324,Derrick Favors,UTA,2207,Joe Johnson,UTA,0,nan,nan,Made Shot ,nan
+217781,21600522,4,9:56,MISS Olynyk 25' 3PT Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217782,21600522,4,9:55,nan,Favors REBOUND (Off:2 Def:4),nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217783,21600522,4,9:44,nan,Neto 3' Cutting Layup Shot (5 PTS) (Ingles 1 AST),80 - 90,203526,Raul Neto,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+217784,21600522,4,9:31,Thomas 25' 3PT Pullup Jump Shot (22 PTS),nan,80 - 93,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+217785,21600522,4,9:11,Olynyk BLOCK (2 BLK),MISS Favors 3' Driving Reverse Layup,nan,202324,Derrick Favors,UTA,0,nan,nan,203482,Kelly Olynyk,BOS,Missed Shot ,nan
+217786,21600522,4,9:10,Olynyk REBOUND (Off:1 Def:6),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217787,21600522,4,8:56,Brown 2' Driving Layup (10 PTS) (Olynyk 3 AST),nan,80 - 95,1627759,Jaylen Brown,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+217788,21600522,4,8:37,Thomas S.FOUL (P2.T3) (C.Blair),nan,nan,202738,Isaiah Thomas,BOS,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Shooting
+217789,21600522,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+217790,21600522,4,8:37,nan,Hood Free Throw 1 of 2 (8 PTS),81 - 95,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217791,21600522,4,8:37,nan,Hood Free Throw 2 of 2 (9 PTS),82 - 95,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217792,21600522,4,8:24,MISS Jerebko 3' Driving Layup,Johnson BLOCK (1 BLK),nan,201973,Jonas Jerebko,BOS,0,nan,nan,2207,Joe Johnson,UTA,Missed Shot ,nan
+217793,21600522,4,8:23,nan,Johnson REBOUND (Off:0 Def:3),nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217794,21600522,4,8:15,nan,Johnson 1' Driving Finger Roll Layup (7 PTS),84 - 95,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+217795,21600522,4,7:56,Smart Bad Pass Turnover (P3.T11),Neto STEAL (1 STL),nan,203935,Marcus Smart,BOS,203526,Raul Neto,UTA,0,nan,nan,Turnover ,Bad Pass
+217796,21600522,4,7:48,nan,Johnson  3PT Jump Shot (10 PTS) (Ingles 2 AST),87 - 95,2207,Joe Johnson,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+217797,21600522,4,7:47,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+217798,21600522,4,7:47,SUB: Horford FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+217799,21600522,4,7:47,SUB: Johnson FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+217800,21600522,4,7:47,SUB: Crowder FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+217801,21600522,4,7:26,Thomas 25' 3PT Jump Shot (25 PTS),nan,87 - 98,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+217802,21600522,4,7:08,nan,Johnson 13' Step Back Jump Shot (12 PTS),89 - 98,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+217803,21600522,4,6:50,Thomas Bad Pass Turnover (P1.T12),Johnson STEAL (1 STL),nan,202738,Isaiah Thomas,BOS,2207,Joe Johnson,UTA,0,nan,nan,Turnover ,Bad Pass
+217804,21600522,4,6:40,nan,Johnson 5' Driving Floating Jump Shot (14 PTS),91 - 98,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+217805,21600522,4,6:16,Horford OFF.Foul (P4) (B.Forte),nan,nan,201143,Al Horford,BOS,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Offensive
+217806,21600522,4,6:16,Horford Foul Turnover (P1.T13),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+217807,21600522,4,6:16,nan,SUB: Hayward FOR Neto,nan,203526,Raul Neto,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+217808,21600522,4,6:16,SUB: Bradley FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+217809,21600522,4,5:59,nan,MISS Johnson 3' Driving Floating Jump Shot,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217810,21600522,4,5:58,Johnson REBOUND (Off:0 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217811,21600522,4,5:50,Horford 8' Turnaround Hook Shot (18 PTS) (Smart 2 AST),nan,91 - 100,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+217812,21600522,4,5:27,nan,Ingles 3' Driving Finger Roll Layup (5 PTS) (Favors 7 AST),93 - 100,204060,Joe Ingles,UTA,202324,Derrick Favors,UTA,0,nan,nan,Made Shot ,nan
+217813,21600522,4,5:12,Horford 25' 3PT Jump Shot (21 PTS) (Smart 3 AST),nan,93 - 103,201143,Al Horford,BOS,203935,Marcus Smart,BOS,0,nan,nan,Made Shot ,nan
+217814,21600522,4,4:47,nan,Johnson 25' 3PT Jump Shot (17 PTS) (Ingles 3 AST),96 - 103,2207,Joe Johnson,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+217815,21600522,4,4:23,Bradley 25' 3PT Pullup Jump Shot (11 PTS),nan,96 - 106,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+217816,21600522,4,4:01,nan,MISS Hayward 6' Driving Floating Bank Jump Shot,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217817,21600522,4,4:00,Horford REBOUND (Off:1 Def:4),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217818,21600522,4,3:51,nan,Johnson S.FOUL (P2.T3) (C.Blair),nan,2207,Joe Johnson,UTA,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+217819,21600522,4,3:51,Smart Free Throw 1 of 2 (8 PTS),nan,96 - 107,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217820,21600522,4,3:51,nan,SUB: Gobert FOR Favors,nan,202324,Derrick Favors,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+217821,21600522,4,3:51,Smart Free Throw 2 of 2 (9 PTS),nan,96 - 108,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217822,21600522,4,3:29,nan,MISS Johnson 8' Fadeaway Jumper,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217823,21600522,4,3:29,nan,Gobert REBOUND (Off:3 Def:7),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217824,21600522,4,3:28,Horford P.FOUL (P5.T4) (C.Blair),nan,nan,201143,Al Horford,BOS,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal
+217825,21600522,4,3:28,SUB: Thomas FOR Horford,nan,nan,201143,Al Horford,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+217826,21600522,4,3:23,Thomas P.FOUL (P3.PN) (C.Blair),nan,nan,202738,Isaiah Thomas,BOS,204060,Joe Ingles,UTA,0,nan,nan,Foul ,Personal
+217827,21600522,4,3:23,nan,Ingles Free Throw 1 of 2 (6 PTS),97 - 108,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217828,21600522,4,3:23,nan,Ingles Free Throw 2 of 2 (7 PTS),98 - 108,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217829,21600522,4,3:06,Bradley 25' 3PT Jump Shot (14 PTS) (Johnson 2 AST),nan,98 - 111,202340,Avery Bradley,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+217830,21600522,4,2:45,Bradley S.FOUL (P3.PN) (B.Forte),nan,nan,202340,Avery Bradley,BOS,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+217831,21600522,4,2:45,nan,Jazz Timeout: Regular (Reg.5 Short 0),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+217832,21600522,4,2:45,nan,MISS Hayward Free Throw 1 of 2,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217833,21600522,4,2:45,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+217834,21600522,4,2:45,nan,Hayward Free Throw 2 of 2 (20 PTS),99 - 111,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217835,21600522,4,2:29,MISS Johnson 4' Driving Hook Shot,nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217836,21600522,4,2:28,nan,Gobert REBOUND (Off:3 Def:8),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217837,21600522,4,2:17,nan,MISS Hood 4' Turnaround Hook Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217838,21600522,4,2:16,Crowder REBOUND (Off:0 Def:2),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217839,21600522,4,2:02,MISS Thomas 3' Driving Layup,Johnson BLOCK (2 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,2207,Joe Johnson,UTA,Missed Shot ,nan
+217840,21600522,4,2:01,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217841,21600522,4,2:01,nan,nan,nan,450,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+217842,21600522,4,1:53,MISS Crowder 25' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217843,21600522,4,1:52,Johnson REBOUND (Off:1 Def:4),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217844,21600522,4,1:51,MISS Johnson 3' Putback Layup,nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217845,21600522,4,1:50,nan,Ingles REBOUND (Off:0 Def:4),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217846,21600522,4,1:48,nan,Hayward 25' 3PT Pullup Jump Shot (23 PTS) (Ingles 4 AST),102 - 111,202330,Gordon Hayward,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+217847,21600522,4,1:33,nan,Ingles S.FOUL (P2.T4) (K.Scott),nan,204060,Joe Ingles,UTA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+217848,21600522,4,1:33,Thomas Free Throw 1 of 2 (26 PTS),nan,102 - 112,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217849,21600522,4,1:33,Thomas Free Throw 2 of 2 (27 PTS),nan,102 - 113,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217850,21600522,4,1:15,Johnson BLOCK (3 BLK),MISS Hayward 3' Driving Layup,nan,202330,Gordon Hayward,UTA,0,nan,nan,101161,Amir Johnson,BOS,Missed Shot ,nan
+217851,21600522,4,1:14,Crowder REBOUND (Off:0 Def:3),nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217852,21600522,4,0:55,nan,Ingles Personal Block Foul (P3.PN) (B.Forte),nan,204060,Joe Ingles,UTA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Block
+217853,21600522,4,0:55,Thomas Free Throw 1 of 2 (28 PTS),nan,102 - 114,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+217854,21600522,4,0:55,Thomas Free Throw 2 of 2 (29 PTS),nan,102 - 115,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+217855,21600522,4,0:41,nan,MISS Ingles 24' 3PT Jump Shot,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217856,21600522,4,0:39,nan,Gobert REBOUND (Off:4 Def:8),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217857,21600522,4,0:35,nan,MISS Gobert 3' Putback Layup,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217858,21600522,4,0:34,nan,Ingles REBOUND (Off:1 Def:4),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217859,21600522,4,0:29,nan,MISS Hood 25' 3PT Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+217860,21600522,4,0:29,nan,Gobert REBOUND (Off:5 Def:8),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+217861,21600522,4,0:28,nan,Gobert  Putback Dunk (8 PTS),104 - 115,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+217862,21600522,4,0:04,CELTICS Turnover: Shot Clock (T#14),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+217863,21600522,4,0:00,nan,nan,104 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

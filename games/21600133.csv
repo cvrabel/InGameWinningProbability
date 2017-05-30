@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+169715,21600133,4,12:00,nan,nan,70 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+169716,21600133,4,11:48,Gibson STEAL (1 STL),Mark Morris Lost Ball Turnover (P3.T9),nan,202693,Markieff Morris,WAS,201959,Taj Gibson,CHI,0,nan,nan,Turnover ,Lost Ball
+169717,21600133,4,11:39,nan,Mark Morris FLAGRANT.FOUL.TYPE1 (P1.T1) (M.Callahan),nan,202693,Markieff Morris,WAS,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Flagrant Type 1
+169718,21600133,4,11:39,nan,nan,nan,405,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+169719,21600133,4,11:39,Mirotic Free Throw Flagrant 1 of 2 (6 PTS),nan,70 - 82,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+169720,21600133,4,11:39,Mirotic Free Throw Flagrant 2 of 2 (7 PTS),nan,70 - 83,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+169721,21600133,4,11:39,SUB: Grant FOR McDermott,nan,nan,203926,Doug McDermott,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+169722,21600133,4,11:34,MISS Gibson 19' Jump Shot,nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169723,21600133,4,11:32,nan,Mark Morris REBOUND (Off:2 Def:9),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169724,21600133,4,11:24,Canaan P.FOUL (P1.T1) (M.Callahan),nan,nan,203477,Isaiah Canaan,CHI,201977,Marcus Thornton,WAS,0,nan,nan,Foul ,Personal
+169725,21600133,4,11:08,nan,MISS Mark Morris 25' 3PT Jump Shot,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169726,21600133,4,11:07,Mirotic REBOUND (Off:1 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169727,21600133,4,10:59,MISS Mirotic 26' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169728,21600133,4,10:57,nan,Mark Morris REBOUND (Off:2 Def:10),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169729,21600133,4,10:46,nan,MISS Mark Morris 3' Layup,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169730,21600133,4,10:45,Mirotic REBOUND (Off:1 Def:6),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169731,21600133,4,10:38,Mirotic  Dunk (9 PTS) (Rondo 5 AST),nan,70 - 85,202703,Nikola Mirotic,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+169732,21600133,4,10:38,nan,Wizards Timeout: Regular (Reg.5 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169733,21600133,4,10:38,SUB: Lopez FOR Gibson,nan,nan,201959,Taj Gibson,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+169734,21600133,4,10:38,nan,SUB: Satoransky FOR Burke,nan,203504,Trey Burke,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Substitution ,nan
+169735,21600133,4,10:38,nan,SUB: Gortat FOR Smith,nan,201160,Jason Smith,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+169736,21600133,4,10:21,Grant P.FOUL (P1.T2) (D.Collins),nan,nan,1626170,Jerian Grant,CHI,201977,Marcus Thornton,WAS,0,nan,nan,Foul ,Personal
+169737,21600133,4,10:14,nan,MISS Thornton 25' 3PT Jump Shot,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169738,21600133,4,10:13,nan,Mark Morris REBOUND (Off:3 Def:10),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169739,21600133,4,10:13,nan,Mark Morris 4' Putback Layup (20 PTS),72 - 85,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169740,21600133,4,9:59,Canaan 6' Floating Jump Shot (8 PTS),nan,72 - 87,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+169741,21600133,4,9:42,nan,Gortat 7' Jump Shot (16 PTS) (Satoransky 6 AST),74 - 87,101162,Marcin Gortat,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Made Shot ,nan
+169742,21600133,4,9:25,MISS Lopez 9' Jump Shot,nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169743,21600133,4,9:23,nan,Gortat REBOUND (Off:3 Def:8),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169744,21600133,4,9:08,nan,MISS Thornton 24' 3PT Jump Shot,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169745,21600133,4,9:06,Rondo REBOUND (Off:0 Def:6),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169746,21600133,4,9:03,Rondo Bad Pass Turnover (P1.T8),Satoransky STEAL (1 STL),nan,200765,Rajon Rondo,CHI,203107,Tomas Satoransky,WAS,0,nan,nan,Turnover ,Bad Pass
+169747,21600133,4,8:52,nan,Oubre Jr. 24' 3PT Jump Shot (3 PTS) (Satoransky 7 AST),77 - 87,1626162,Kelly Oubre Jr.,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Made Shot ,nan
+169748,21600133,4,8:37,Lopez 3 Second Violation Turnover (P2.T9),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+169749,21600133,4,8:37,nan,SUB: Porter Jr. FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+169750,21600133,4,8:24,Canaan P.FOUL (P2.T3) (M.Callahan),nan,nan,203477,Isaiah Canaan,CHI,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Personal
+169751,21600133,4,8:24,SUB: Butler FOR Grant,nan,nan,1626170,Jerian Grant,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+169752,21600133,4,8:12,nan,Satoransky 26' 3PT Jump Shot (9 PTS) (Gortat 1 AST),80 - 87,203107,Tomas Satoransky,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+169753,21600133,4,8:11,BULLS Timeout: Regular (Full 3 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169754,21600133,4,7:58,Butler 14' Jump Shot (34 PTS),nan,80 - 89,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+169755,21600133,4,7:58,nan,Gortat S.FOUL (P4.T2) (M.Callahan),nan,101162,Marcin Gortat,WAS,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+169756,21600133,4,7:58,Butler Free Throw 1 of 1 (35 PTS),nan,80 - 90,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+169757,21600133,4,7:39,Butler STEAL (3 STL),Gortat Bad Pass Turnover (P2.T10),nan,101162,Marcin Gortat,WAS,202710,Jimmy Butler,CHI,0,nan,nan,Turnover ,Bad Pass
+169758,21600133,4,7:33,MISS Canaan 25' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169759,21600133,4,7:32,nan,Satoransky REBOUND (Off:0 Def:3),nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169760,21600133,4,7:10,nan,MISS Thornton  3PT Jump Shot,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169761,21600133,4,7:09,Mirotic REBOUND (Off:1 Def:7),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169762,21600133,4,6:53,Butler 21' Pullup Jump Shot (37 PTS),nan,80 - 92,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+169763,21600133,4,6:31,nan,Porter Jr. 21' Jump Shot (4 PTS) (Gortat 2 AST),82 - 92,203490,Otto Porter Jr.,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Made Shot ,nan
+169764,21600133,4,6:14,MISS Butler 3' Layup,Porter Jr. BLOCK (2 BLK),nan,202710,Jimmy Butler,CHI,0,nan,nan,203490,Otto Porter Jr.,WAS,Missed Shot ,nan
+169765,21600133,4,6:14,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169766,21600133,4,6:11,MISS Lopez 18' Jump Shot,nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169767,21600133,4,6:09,Rondo REBOUND (Off:1 Def:6),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169768,21600133,4,6:07,Rondo OFF.Foul (P5) (D.Collins),nan,nan,200765,Rajon Rondo,CHI,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Offensive
+169769,21600133,4,6:07,Rondo Foul Turnover (P2.T10),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+169770,21600133,4,6:07,nan,SUB: McClellan FOR Thornton,nan,201977,Marcus Thornton,WAS,1627815,Sheldon McClellan,WAS,0,nan,nan,Substitution ,nan
+169771,21600133,4,6:07,SUB: Wade FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Substitution ,nan
+169772,21600133,4,5:57,Mirotic STEAL (2 STL),Satoransky Bad Pass Turnover (P2.T11),nan,203107,Tomas Satoransky,WAS,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Bad Pass
+169773,21600133,4,5:53,Mirotic  Alley Oop Dunk (11 PTS) (Wade 2 AST),nan,82 - 94,202703,Nikola Mirotic,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+169774,21600133,4,5:33,nan,Porter Jr. 25' 3PT Jump Shot (7 PTS) (Satoransky 8 AST),85 - 94,203490,Otto Porter Jr.,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Made Shot ,nan
+169775,21600133,4,5:11,MISS Butler 17' Turnaround Fadeaway Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169776,21600133,4,5:10,Lopez REBOUND (Off:4 Def:6),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169777,21600133,4,5:10,MISS Lopez 3' Tip Layup Shot,nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169778,21600133,4,5:09,Lopez REBOUND (Off:5 Def:6),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169779,21600133,4,5:09,Lopez 2' Tip Layup Shot (8 PTS),nan,85 - 96,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+169780,21600133,4,4:54,nan,Mark Morris 6' Driving Bank Shot (22 PTS),87 - 96,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169781,21600133,4,4:38,Mirotic 25' 3PT Jump Shot (14 PTS) (Butler 7 AST),nan,87 - 99,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+169782,21600133,4,4:38,nan,Wizards Timeout: Short (Reg.5 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+169783,21600133,4,4:17,nan,MISS McClellan 20' Pullup Jump Shot,nan,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169784,21600133,4,4:16,Lopez REBOUND (Off:5 Def:7),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169785,21600133,4,4:09,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169786,21600133,4,4:09,nan,Satoransky REBOUND (Off:0 Def:4),nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169787,21600133,4,4:00,nan,MISS Satoransky 9' Floating Jump Shot,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169788,21600133,4,3:59,Mirotic REBOUND (Off:1 Def:8),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169789,21600133,4,3:44,MISS Lopez 3' Hook Shot,nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169790,21600133,4,3:43,nan,Gortat REBOUND (Off:3 Def:9),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169791,21600133,4,3:32,nan,MISS Porter Jr.  3PT Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169792,21600133,4,3:31,nan,McClellan REBOUND (Off:1 Def:1),nan,1627815,Sheldon McClellan,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169793,21600133,4,3:26,Mirotic BLOCK (1 BLK),MISS McClellan 3' Driving Layup,nan,1627815,Sheldon McClellan,WAS,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+169794,21600133,4,3:24,Mirotic REBOUND (Off:1 Def:9),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169795,21600133,4,3:15,nan,Porter Jr. P.FOUL (P5.T3) (M.Callahan),nan,203490,Otto Porter Jr.,WAS,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+169796,21600133,4,3:08,MISS Butler 14' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169797,21600133,4,3:07,nan,Gortat REBOUND (Off:3 Def:10),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169798,21600133,4,3:03,Wade STEAL (1 STL),Porter Jr. Lost Ball Turnover (P2.T12),nan,203490,Otto Porter Jr.,WAS,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Lost Ball
+169799,21600133,4,2:59,MISS Wade 3' Running Layup,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169800,21600133,4,2:58,nan,Mark Morris REBOUND (Off:3 Def:11),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169801,21600133,4,2:49,nan,MISS Porter Jr. 26' 3PT Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169802,21600133,4,2:46,Canaan REBOUND (Off:0 Def:2),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169803,21600133,4,2:36,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169804,21600133,4,2:30,MISS Butler 25' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169805,21600133,4,2:29,nan,Gortat REBOUND (Off:3 Def:11),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169806,21600133,4,2:17,nan,Gortat 9' Jump Shot (18 PTS) (Satoransky 9 AST),89 - 99,101162,Marcin Gortat,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Made Shot ,nan
+169807,21600133,4,1:58,MISS Canaan 24' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169808,21600133,4,1:57,Butler REBOUND (Off:2 Def:6),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169809,21600133,4,1:55,Mirotic 26' 3PT Jump Shot (17 PTS) (Butler 8 AST),nan,89 - 102,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+169810,21600133,4,1:34,nan,Satoransky 3' Driving Layup (11 PTS),91 - 102,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169811,21600133,4,1:34,Lopez S.FOUL (P2.T4) (M.Callahan),nan,nan,201577,Robin Lopez,CHI,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Shooting
+169812,21600133,4,1:34,nan,Satoransky Free Throw 1 of 1 (12 PTS),92 - 102,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+169813,21600133,4,1:13,Lopez 6' Turnaround Hook Shot (10 PTS) (Butler 9 AST),nan,92 - 104,201577,Robin Lopez,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+169814,21600133,4,0:54,Mirotic BLOCK (2 BLK),MISS Mark Morris  Layup,nan,202693,Markieff Morris,WAS,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+169815,21600133,4,0:54,nan,Mark Morris REBOUND (Off:4 Def:11),nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169816,21600133,4,0:54,Mirotic S.FOUL (P3.PN) (M.Callahan),nan,nan,202703,Nikola Mirotic,CHI,202693,Markieff Morris,WAS,0,nan,nan,Foul ,Shooting
+169817,21600133,4,0:54,nan,Mark Morris Free Throw 1 of 2 (23 PTS),93 - 104,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169818,21600133,4,0:54,nan,Mark Morris Free Throw 2 of 2 (24 PTS),94 - 104,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169819,21600133,4,0:34,MISS Butler 11' Running Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169820,21600133,4,0:33,Lopez REBOUND (Off:6 Def:7),nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169821,21600133,4,0:33,MISS Lopez 3' Layup,nan,nan,201577,Robin Lopez,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169822,21600133,4,0:32,nan,Porter Jr. REBOUND (Off:1 Def:3),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169823,21600133,4,0:31,Lopez P.FOUL (P3.PN) (M.Callahan),nan,nan,201577,Robin Lopez,CHI,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Personal
+169824,21600133,4,0:31,nan,Porter Jr. Free Throw 1 of 2 (8 PTS),95 - 104,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169825,21600133,4,0:31,nan,MISS Porter Jr. Free Throw 2 of 2,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169826,21600133,4,0:28,Mirotic REBOUND (Off:1 Def:10),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169827,21600133,4,0:11,nan,Satoransky S.FOUL (P3.T4) (D.Collins),nan,203107,Tomas Satoransky,WAS,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+169828,21600133,4,0:11,Wade Free Throw 1 of 2 (13 PTS),nan,95 - 105,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169829,21600133,4,0:11,SUB: Grant FOR Butler,nan,nan,202710,Jimmy Butler,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+169830,21600133,4,0:11,SUB: Portis FOR Lopez,nan,nan,201577,Robin Lopez,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+169831,21600133,4,0:11,Wade Free Throw 2 of 2 (14 PTS),nan,95 - 106,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169832,21600133,4,0:00,nan,nan,95 - 106,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+168959,21600127,4,12:00,nan,nan,67 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+168960,21600127,4,11:49,Dedmon P.FOUL (P1.T1) (E.Lewis),nan,nan,203473,Dewayne Dedmon,SAS,203382,Aron Baynes,DET,0,nan,nan,Foul ,Personal
+168961,21600127,4,11:43,nan,MISS Leuer 26' 3PT Jump Shot,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168962,21600127,4,11:41,Simmons REBOUND (Off:0 Def:2),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168963,21600127,4,11:20,Dedmon Traveling Turnover (P1.T5),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+168964,21600127,4,11:12,Dedmon STEAL (1 STL),Johnson Bad Pass Turnover (P1.T10),nan,1626169,Stanley Johnson,DET,203473,Dewayne Dedmon,SAS,0,nan,nan,Turnover ,Bad Pass
+168965,21600127,4,11:07,Ginobili Bad Pass Turnover (P2.T6),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+168966,21600127,4,10:49,nan,MISS Johnson 25' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168967,21600127,4,10:48,Dedmon REBOUND (Off:0 Def:1),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168968,21600127,4,10:40,nan,Udrih S.FOUL (P1.T1) (M.Lindsay),nan,2757,Beno Udrih,DET,201988,Patty Mills,SAS,0,nan,nan,Foul ,Shooting
+168969,21600127,4,10:40,Mills Free Throw 1 of 3 (5 PTS),nan,67 - 76,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+168970,21600127,4,10:40,Mills Free Throw 2 of 3 (6 PTS),nan,67 - 77,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+168971,21600127,4,10:40,SUB: Gasol FOR Lee,nan,nan,101135,David Lee,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+168972,21600127,4,10:40,SUB: Leonard FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+168973,21600127,4,10:40,Mills Free Throw 3 of 3 (7 PTS),nan,67 - 78,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+168974,21600127,4,10:27,Gasol S.FOUL (P2.T2) (H.Workman),nan,nan,2200,Pau Gasol,SAS,2757,Beno Udrih,DET,0,nan,nan,Foul ,Shooting
+168975,21600127,4,10:27,nan,Udrih Free Throw 1 of 2 (11 PTS),68 - 78,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+168976,21600127,4,10:27,nan,Udrih Free Throw 2 of 2 (12 PTS),69 - 78,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+168977,21600127,4,10:07,Mills 25' 3PT Jump Shot (10 PTS) (Dedmon 1 AST),nan,69 - 81,201988,Patty Mills,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Made Shot ,nan
+168978,21600127,4,9:46,nan,MISS Marc Morris 16' Pullup Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168979,21600127,4,9:45,Simmons REBOUND (Off:0 Def:3),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168980,21600127,4,9:35,nan,Leuer S.FOUL (P1.T2) (H.Workman),nan,202720,Jon Leuer,DET,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+168981,21600127,4,9:35,Simmons Free Throw 1 of 2 (1 PTS),nan,69 - 82,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+168982,21600127,4,9:35,nan,SUB: Drummond FOR Baynes,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+168983,21600127,4,9:35,MISS Simmons Free Throw 2 of 2,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+168984,21600127,4,9:34,nan,Drummond REBOUND (Off:4 Def:6),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168985,21600127,4,9:13,Leonard S.FOUL (P1.T3) (E.Lewis),nan,nan,202695,Kawhi Leonard,SAS,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+168986,21600127,4,9:13,nan,Johnson Free Throw 1 of 2 (4 PTS),70 - 82,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+168987,21600127,4,9:13,nan,Johnson Free Throw 2 of 2 (5 PTS),71 - 82,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+168988,21600127,4,9:03,MISS Leonard  Dunk,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168989,21600127,4,9:02,nan,Udrih REBOUND (Off:0 Def:2),nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168990,21600127,4,8:55,Dedmon S.FOUL (P2.T4) (M.Lindsay),nan,nan,203473,Dewayne Dedmon,SAS,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+168991,21600127,4,8:55,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+168992,21600127,4,8:55,nan,Johnson Free Throw 1 of 2 (6 PTS),72 - 82,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+168993,21600127,4,8:55,nan,MISS Johnson Free Throw 2 of 2,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+168994,21600127,4,8:54,Gasol REBOUND (Off:2 Def:3),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168995,21600127,4,8:34,Leonard Bad Pass Turnover (P2.T7),Marc Morris STEAL (1 STL),nan,202695,Kawhi Leonard,SAS,202694,Marcus Morris,DET,0,nan,nan,Turnover ,Bad Pass
+168996,21600127,4,8:18,nan,MISS Johnson 25' 3PT Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168997,21600127,4,8:17,Simmons REBOUND (Off:0 Def:4),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+168998,21600127,4,8:08,MISS Simmons 25' 3PT Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+168999,21600127,4,8:06,Dedmon REBOUND (Off:1 Def:1),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169000,21600127,4,7:47,Gasol 19' Jump Shot (19 PTS) (Simmons 2 AST),nan,72 - 84,2200,Pau Gasol,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+169001,21600127,4,7:25,nan,MISS Leuer 25' 3PT Jump Shot,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169002,21600127,4,7:24,nan,Drummond REBOUND (Off:5 Def:6),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169003,21600127,4,7:21,nan,Drummond 9' Jump Shot (18 PTS),74 - 84,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+169004,21600127,4,7:05,MISS Gasol 19' Jump Shot,Drummond BLOCK (1 BLK),nan,2200,Pau Gasol,SAS,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+169005,21600127,4,7:05,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169006,21600127,4,7:05,nan,SUB: Smith FOR Udrih,nan,2757,Beno Udrih,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+169007,21600127,4,7:05,nan,SUB: Caldwell-Pope FOR Johnson,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+169008,21600127,4,7:01,MISS Parker 21' Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169009,21600127,4,6:58,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169010,21600127,4,6:51,nan,Smith S.FOUL (P1.T3) (E.Lewis),nan,202397,Ish Smith,DET,2225,Tony Parker,SAS,0,nan,nan,Foul ,Shooting
+169011,21600127,4,6:51,Parker Free Throw 1 of 2 (7 PTS),nan,74 - 85,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169012,21600127,4,6:51,SUB: Anderson FOR Simmons,nan,nan,203613,Jonathon Simmons,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+169013,21600127,4,6:51,SUB: Aldridge FOR Dedmon,nan,nan,203473,Dewayne Dedmon,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+169014,21600127,4,6:51,MISS Parker Free Throw 2 of 2,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169015,21600127,4,6:50,nan,Drummond REBOUND (Off:5 Def:7),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169016,21600127,4,6:38,Leonard STEAL (4 STL),Drummond Bad Pass Turnover (P6.T11),nan,203083,Andre Drummond,DET,202695,Kawhi Leonard,SAS,0,nan,nan,Turnover ,Bad Pass
+169017,21600127,4,6:22,MISS Parker  Reverse Layup,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169018,21600127,4,6:21,Gasol REBOUND (Off:3 Def:3),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169019,21600127,4,6:21,Gasol 1' Putback Layup (21 PTS),nan,74 - 87,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169020,21600127,4,5:54,nan,Leuer 9' Floating Jump Shot (6 PTS) (Smith 4 AST),76 - 87,202720,Jon Leuer,DET,202397,Ish Smith,DET,0,nan,nan,Made Shot ,nan
+169021,21600127,4,5:54,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169022,21600127,4,5:54,nan,SUB: Harris FOR Marc Morris,nan,202694,Marcus Morris,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+169023,21600127,4,5:40,Gasol Bad Pass Turnover (P1.T8),Drummond STEAL (1 STL),nan,2200,Pau Gasol,SAS,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+169024,21600127,4,5:36,nan,MISS Caldwell-Pope  Running Finger Roll Layup,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169025,21600127,4,5:35,Gasol REBOUND (Off:3 Def:4),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169026,21600127,4,5:24,Aldridge 19' Jump Shot (14 PTS) (Anderson 3 AST),nan,76 - 89,200746,LaMarcus Aldridge,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+169027,21600127,4,5:08,nan,MISS Harris 2' Driving Layup,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169028,21600127,4,5:07,nan,Drummond REBOUND (Off:6 Def:7),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169029,21600127,4,5:07,nan,Drummond 1' Tip Layup Shot (20 PTS),78 - 89,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+169030,21600127,4,4:53,MISS Gasol 19' Jump Shot,nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169031,21600127,4,4:52,nan,Leuer REBOUND (Off:0 Def:3),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169032,21600127,4,4:37,nan,Leuer 19' Jump Shot (8 PTS) (Caldwell-Pope 7 AST),80 - 89,202720,Jon Leuer,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Made Shot ,nan
+169033,21600127,4,4:20,MISS Parker 20' Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169034,21600127,4,4:19,nan,Drummond REBOUND (Off:6 Def:8),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169035,21600127,4,4:14,Parker S.FOUL (P2.PN) (M.Lindsay),nan,nan,2225,Tony Parker,SAS,202397,Ish Smith,DET,0,nan,nan,Foul ,Shooting
+169036,21600127,4,4:14,nan,MISS Smith Free Throw 1 of 2,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169037,21600127,4,4:14,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+169038,21600127,4,4:14,SUB: Mills FOR Parker,nan,nan,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+169039,21600127,4,4:14,nan,MISS Smith Free Throw 2 of 2,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169040,21600127,4,4:13,Aldridge REBOUND (Off:1 Def:11),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169041,21600127,4,3:47,MISS Mills 27' 3PT Pullup Jump Shot,nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169042,21600127,4,3:46,nan,Drummond REBOUND (Off:6 Def:9),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169043,21600127,4,3:34,nan,Smith 2' Driving Layup (10 PTS),82 - 89,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+169044,21600127,4,3:08,MISS Aldridge 13' Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169045,21600127,4,3:06,nan,Drummond REBOUND (Off:6 Def:10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169046,21600127,4,2:59,nan,Smith 1' Driving Layup (12 PTS),84 - 89,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+169047,21600127,4,2:40,nan,Harris P.FOUL (P3.T4) (H.Workman),nan,202699,Tobias Harris,DET,2200,Pau Gasol,SAS,0,nan,nan,Foul ,Personal
+169048,21600127,4,2:40,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169049,21600127,4,2:30,MISS Leonard 13' Fadeaway Jumper,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169050,21600127,4,2:30,nan,Caldwell-Pope REBOUND (Off:1 Def:2),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169051,21600127,4,2:22,nan,MISS Smith 8' Driving Bank Shot,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169052,21600127,4,2:20,Gasol REBOUND (Off:3 Def:5),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169053,21600127,4,2:07,Leonard 25' 3PT Jump Shot (17 PTS),nan,84 - 92,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+169054,21600127,4,1:51,nan,Smith Poss Lost Ball Turnover (P1.T12),nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+169055,21600127,4,1:33,MISS Leonard 26' 3PT Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169056,21600127,4,1:31,Gasol REBOUND (Off:4 Def:5),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169057,21600127,4,1:10,MISS Leonard 2' Driving Finger Roll Layup,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169058,21600127,4,1:09,nan,Drummond REBOUND (Off:6 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169059,21600127,4,0:59,Gasol BLOCK (2 BLK),MISS Harris 2' Layup,nan,202699,Tobias Harris,DET,0,nan,nan,2200,Pau Gasol,SAS,Missed Shot ,nan
+169060,21600127,4,0:58,Leonard REBOUND (Off:0 Def:4),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169061,21600127,4,0:39,MISS Leonard 17' Pullup Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169062,21600127,4,0:39,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169063,21600127,4,0:39,nan,Pistons Timeout: Regular (Reg.5 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+169064,21600127,4,0:39,nan,Pistons Turnover: 5 Second Inbound (T#13),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,5 Second Inbound Turnover
+169065,21600127,4,0:39,SUB: Murray FOR Leonard,nan,nan,202695,Kawhi Leonard,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Substitution ,nan
+169066,21600127,4,0:39,SUB: Dedmon FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Substitution ,nan
+169067,21600127,4,0:39,SUB: Forbes FOR Gasol,nan,nan,2200,Pau Gasol,SAS,1627854,Bryn Forbes,SAS,0,nan,nan,Substitution ,nan
+169068,21600127,4,0:39,SUB: Bertans FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,202722,Davis Bertans,SAS,0,nan,nan,Substitution ,nan
+169069,21600127,4,0:39,SUB: Simmons FOR Mills,nan,nan,201988,Patty Mills,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+169070,21600127,4,0:38,nan,Harris Personal Take Foul (P4.PN) (H.Workman),nan,202699,Tobias Harris,DET,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Personal Take
+169071,21600127,4,0:38,Simmons Free Throw 1 of 2 (2 PTS),nan,84 - 93,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169072,21600127,4,0:38,Simmons Free Throw 2 of 2 (3 PTS),nan,84 - 94,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169073,21600127,4,0:38,nan,Pistons Timeout: Short (Reg.5 Short 1),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+169074,21600127,4,0:38,nan,SUB: Udrih FOR Smith,nan,202397,Ish Smith,DET,2757,Beno Udrih,DET,0,nan,nan,Substitution ,nan
+169075,21600127,4,0:38,nan,SUB: Marc Morris FOR Leuer,nan,202720,Jon Leuer,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+169076,21600127,4,0:35,Murray S.FOUL (P1.PN) (H.Workman),nan,nan,1627749,Dejounte Murray,SAS,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+169077,21600127,4,0:35,nan,MISS Caldwell-Pope Free Throw 1 of 3,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+169078,21600127,4,0:35,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+169079,21600127,4,0:35,nan,Caldwell-Pope Free Throw 2 of 3 (9 PTS),85 - 94,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+169080,21600127,4,0:35,nan,Caldwell-Pope Free Throw 3 of 3 (10 PTS),86 - 94,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+169081,21600127,4,0:29,nan,Marc Morris P.FOUL (P1.PN) (E.Lewis),nan,202694,Marcus Morris,DET,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Personal
+169082,21600127,4,0:29,Simmons Free Throw 1 of 2 (4 PTS),nan,86 - 95,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+169083,21600127,4,0:29,Simmons Free Throw 2 of 2 (5 PTS),nan,86 - 96,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+169084,21600127,4,0:22,nan,MISS Caldwell-Pope 26' 3PT Pullup Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+169085,21600127,4,0:21,Bertans REBOUND (Off:0 Def:1),nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+169086,21600127,4,0:00,nan,nan,86 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+185534,21600260,4,12:00,nan,nan,84 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+185535,21600260,4,11:39,nan,Baynes 6' Hook Shot (6 PTS),86 - 74,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185536,21600260,4,11:27,MISS Lamb 2' Layup,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185537,21600260,4,11:26,nan,Baynes REBOUND (Off:3 Def:4),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185538,21600260,4,11:17,nan,MISS Marc Morris 22' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185539,21600260,4,11:16,nan,Leuer REBOUND (Off:1 Def:2),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185540,21600260,4,11:14,nan,Leuer 1' Putback Layup (10 PTS),88 - 74,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185541,21600260,4,11:14,HORNETS Timeout: Short (Full 3 Short 2),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185542,21600260,4,11:14,SUB: Batum FOR Lamb,nan,nan,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+185543,21600260,4,11:03,Hawes OFF.Foul (P1) (M.Boland),nan,nan,201150,Spencer Hawes,CHA,1626199,Darrun Hilliard,DET,0,nan,nan,Foul ,Offensive
+185544,21600260,4,11:03,Hawes Foul Turnover (P2.T9),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+185545,21600260,4,10:44,nan,MISS Leuer 25' 3PT Jump Shot,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185546,21600260,4,10:43,Sessions REBOUND (Off:0 Def:1),nan,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185547,21600260,4,10:35,Hawes 10' Hook Shot (8 PTS) (Sessions 2 AST),nan,88 - 76,201150,Spencer Hawes,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Made Shot ,nan
+185548,21600260,4,10:12,nan,Hilliard 24' 3PT Jump Shot (3 PTS) (Udrih 7 AST),91 - 76,1626199,Darrun Hilliard,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+185549,21600260,4,9:53,MISS Batum 15' Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185550,21600260,4,9:52,nan,Baynes REBOUND (Off:3 Def:5),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185551,21600260,4,9:42,Kidd-Gilchrist S.FOUL (P2.T1) (B.Taylor),nan,nan,203077,Michael Kidd-Gilchrist,CHA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+185552,21600260,4,9:42,nan,Baynes Free Throw 1 of 2 (7 PTS),92 - 76,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185553,21600260,4,9:42,nan,Baynes Free Throw 2 of 2 (8 PTS),93 - 76,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185554,21600260,4,9:27,Sessions Lost Ball Turnover (P1.T10),Leuer STEAL (1 STL),nan,201196,Ramon Sessions,CHA,202720,Jon Leuer,DET,0,nan,nan,Turnover ,Lost Ball
+185555,21600260,4,9:20,nan,MISS Baynes 17' Jump Shot,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185556,21600260,4,9:17,nan,Leuer REBOUND (Off:2 Def:2),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185557,21600260,4,9:15,Kidd-Gilchrist STEAL (1 STL),Leuer Lost Ball Turnover (P2.T11),nan,202720,Jon Leuer,DET,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Turnover ,Lost Ball
+185558,21600260,4,9:03,Hawes Bad Pass Turnover (P3.T11),Hilliard STEAL (1 STL),nan,201150,Spencer Hawes,CHA,1626199,Darrun Hilliard,DET,0,nan,nan,Turnover ,Bad Pass
+185559,21600260,4,8:58,nan,Hilliard  Running Layup (5 PTS),95 - 76,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185560,21600260,4,8:58,Batum S.FOUL (P1.T2) (M.Callahan),nan,nan,201587,Nicolas Batum,CHA,1626199,Darrun Hilliard,DET,0,nan,nan,Foul ,Shooting
+185561,21600260,4,8:58,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+185562,21600260,4,8:58,SUB: Zeller FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+185563,21600260,4,8:58,nan,MISS Hilliard Free Throw 1 of 1,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+185564,21600260,4,8:56,Batum REBOUND (Off:1 Def:9),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185565,21600260,4,8:41,MISS Batum 9' Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185566,21600260,4,8:40,nan,Leuer REBOUND (Off:2 Def:3),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185567,21600260,4,8:23,nan,MISS Hilliard 25' 3PT Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185568,21600260,4,8:22,Zeller REBOUND (Off:2 Def:6),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185569,21600260,4,8:12,MISS Sessions 1' Layup,nan,nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185570,21600260,4,8:11,nan,Marc Morris REBOUND (Off:0 Def:4),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185571,21600260,4,8:05,nan,MISS Marc Morris 25' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185572,21600260,4,8:02,Kidd-Gilchrist REBOUND (Off:1 Def:3),nan,nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185573,21600260,4,7:57,nan,Leuer P.FOUL (P2.T1) (B.Taylor),nan,202720,Jon Leuer,DET,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Foul ,Personal
+185574,21600260,4,7:49,Sessions 9' Jump Shot (5 PTS),nan,95 - 78,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+185575,21600260,4,7:34,nan,Udrih 17' Jump Shot (7 PTS),97 - 78,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185576,21600260,4,7:24,nan,Udrih S.FOUL (P2.T2) (B.Taylor),nan,2757,Beno Udrih,DET,201196,Ramon Sessions,CHA,0,nan,nan,Foul ,Shooting
+185577,21600260,4,7:24,Sessions Free Throw 1 of 2 (6 PTS),nan,97 - 79,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185578,21600260,4,7:24,nan,SUB: Harris FOR Leuer,nan,202720,Jon Leuer,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+185579,21600260,4,7:24,Sessions Free Throw 2 of 2 (7 PTS),nan,97 - 80,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185580,21600260,4,7:15,Belinelli P.FOUL (P1.T3) (M.Boland),nan,nan,201158,Marco Belinelli,CHA,1626199,Darrun Hilliard,DET,0,nan,nan,Foul ,Personal
+185581,21600260,4,7:04,nan,MISS Harris 25' 3PT Jump Shot,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185582,21600260,4,7:03,Batum REBOUND (Off:1 Def:10),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185583,21600260,4,6:55,Zeller 8' Floating Jump Shot (8 PTS) (Sessions 3 AST),nan,97 - 82,203469,Cody Zeller,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Made Shot ,nan
+185584,21600260,4,6:38,nan,Marc Morris 19' Jump Shot (16 PTS),99 - 82,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185585,21600260,4,6:18,MISS Batum 14' Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185586,21600260,4,6:17,nan,Harris REBOUND (Off:0 Def:6),nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185587,21600260,4,6:07,Kidd-Gilchrist P.FOUL (P3.T4) (M.Callahan),nan,nan,203077,Michael Kidd-Gilchrist,CHA,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+185588,21600260,4,6:07,SUB: Walker FOR Sessions,nan,nan,201196,Ramon Sessions,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+185589,21600260,4,6:07,nan,SUB: Smith FOR Udrih,nan,2757,Beno Udrih,DET,202397,Ish Smith,DET,0,nan,nan,Substitution ,nan
+185590,21600260,4,5:56,nan,Harris Offensive Charge Foul (P1.T3) (M.Boland),nan,202699,Tobias Harris,DET,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Foul ,Offensive Charge
+185591,21600260,4,5:56,nan,Harris Foul Turnover (P3.T12),nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+185592,21600260,4,5:56,HORNETS Timeout: Regular (Full 4 Short 2),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185593,21600260,4,5:56,nan,SUB: Leuer FOR Baynes,nan,203382,Aron Baynes,DET,202720,Jon Leuer,DET,0,nan,nan,Substitution ,nan
+185594,21600260,4,5:56,nan,SUB: Caldwell-Pope FOR Hilliard,nan,1626199,Darrun Hilliard,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+185595,21600260,4,5:46,MISS Zeller 2' Layup,nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185596,21600260,4,5:45,nan,Leuer REBOUND (Off:2 Def:4),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185597,21600260,4,5:33,nan,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185598,21600260,4,5:32,Zeller REBOUND (Off:2 Def:7),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185599,21600260,4,5:27,nan,Leuer P.FOUL (P3.T4) (M.Callahan),nan,202720,Jon Leuer,DET,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+185600,21600260,4,5:18,MISS Belinelli 25' 3PT Jump Shot,nan,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185601,21600260,4,5:17,nan,Harris REBOUND (Off:0 Def:7),nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185602,21600260,4,4:56,nan,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185603,21600260,4,4:54,Zeller REBOUND (Off:2 Def:8),nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185604,21600260,4,4:45,Walker Out of Bounds Lost Ball Turnover (P3.T12),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+185605,21600260,4,4:26,Zeller BLOCK (1 BLK),MISS Caldwell-Pope 4' Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,203469,Cody Zeller,CHA,Missed Shot ,nan
+185606,21600260,4,4:24,nan,Caldwell-Pope REBOUND (Off:2 Def:3),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185607,21600260,4,4:22,nan,Harris 24' 3PT Jump Shot (22 PTS) (Caldwell-Pope 5 AST),102 - 82,202699,Tobias Harris,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Made Shot ,nan
+185608,21600260,4,4:22,HORNETS Timeout: Regular (Full 5 Short 2),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185609,21600260,4,4:22,SUB: Graham FOR Kidd-Gilchrist,nan,nan,203077,Michael Kidd-Gilchrist,CHA,1626203,Treveon Graham,CHA,0,nan,nan,Substitution ,nan
+185610,21600260,4,4:22,SUB: Kaminsky FOR Zeller,nan,nan,203469,Cody Zeller,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Substitution ,nan
+185611,21600260,4,4:22,SUB: Roberts FOR Batum,nan,nan,201587,Nicolas Batum,CHA,203148,Brian Roberts,CHA,0,nan,nan,Substitution ,nan
+185612,21600260,4,4:22,SUB: Harrison FOR Walker,nan,nan,202689,Kemba Walker,CHA,1626151,Aaron Harrison,CHA,0,nan,nan,Substitution ,nan
+185613,21600260,4,3:59,MISS Kaminsky 26' 3PT Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185614,21600260,4,3:57,nan,Caldwell-Pope REBOUND (Off:2 Def:4),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185615,21600260,4,3:41,nan,Leuer 1' Layup (12 PTS) (Caldwell-Pope 6 AST),104 - 82,202720,Jon Leuer,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Made Shot ,nan
+185616,21600260,4,3:32,MISS Belinelli 16' Jump Shot,nan,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185617,21600260,4,3:30,nan,Leuer REBOUND (Off:2 Def:5),nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185618,21600260,4,3:24,nan,MISS Smith 1' Running Layup,nan,202397,Ish Smith,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185619,21600260,4,3:23,Graham REBOUND (Off:0 Def:1),nan,nan,1626203,Treveon Graham,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185620,21600260,4,3:13,Kaminsky Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+185621,21600260,4,3:13,nan,SUB: Hilliard FOR Smith,nan,202397,Ish Smith,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+185622,21600260,4,2:59,nan,MISS Hilliard 18' Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185623,21600260,4,2:57,Harrison REBOUND (Off:0 Def:1),nan,nan,1626151,Aaron Harrison,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185624,21600260,4,2:37,MISS Harrison  3PT Jump Shot,nan,nan,1626151,Aaron Harrison,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185625,21600260,4,2:36,nan,Caldwell-Pope REBOUND (Off:2 Def:5),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185626,21600260,4,2:19,nan,Marc Morris 18' Pullup Jump Shot (18 PTS),106 - 82,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185627,21600260,4,2:09,nan,Caldwell-Pope Personal Take Foul (P2.PN) (M.Boland),nan,203484,Kentavious Caldwell-Pope,DET,203148,Brian Roberts,CHA,0,nan,nan,Foul ,Personal Take
+185628,21600260,4,2:09,nan,SUB: Marjanovic FOR Marc Morris,nan,202694,Marcus Morris,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+185629,21600260,4,2:09,nan,SUB: Johnson FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+185630,21600260,4,2:09,nan,SUB: Gbinije FOR Leuer,nan,202720,Jon Leuer,DET,1627771,Michael Gbinije,DET,0,nan,nan,Substitution ,nan
+185631,21600260,4,2:01,nan,Hilliard S.FOUL (P1.PN) (B.Taylor),nan,1626199,Darrun Hilliard,DET,203148,Brian Roberts,CHA,0,nan,nan,Foul ,Shooting
+185632,21600260,4,2:01,Roberts Free Throw 1 of 2 (1 PTS),nan,106 - 83,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185633,21600260,4,2:01,Roberts Free Throw 2 of 2 (2 PTS),nan,106 - 84,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185634,21600260,4,1:49,nan,Johnson 14' Jump Shot (2 PTS),108 - 84,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185635,21600260,4,1:26,MISS Belinelli 17' Jump Shot,nan,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185636,21600260,4,1:25,nan,Marjanovic REBOUND (Off:0 Def:1),nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185637,21600260,4,1:07,nan,MISS Marjanovic 12' Jump Shot,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185638,21600260,4,1:06,Roberts REBOUND (Off:0 Def:1),nan,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185639,21600260,4,0:55,Belinelli  3PT Jump Shot (11 PTS) (Roberts 1 AST),nan,108 - 87,201158,Marco Belinelli,CHA,203148,Brian Roberts,CHA,0,nan,nan,Made Shot ,nan
+185640,21600260,4,0:39,Harrison S.FOUL (P1.PN) (M.Boland),nan,nan,1626151,Aaron Harrison,CHA,202699,Tobias Harris,DET,0,nan,nan,Foul ,Shooting
+185641,21600260,4,0:39,nan,Harris Free Throw 1 of 2 (23 PTS),109 - 87,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185642,21600260,4,0:39,nan,Harris Free Throw 2 of 2 (24 PTS),110 - 87,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185643,21600260,4,0:30,nan,Hilliard P.FOUL (P2.PN) (M.Callahan),nan,1626199,Darrun Hilliard,DET,203148,Brian Roberts,CHA,0,nan,nan,Foul ,Personal
+185644,21600260,4,0:30,Roberts Free Throw 1 of 2 (3 PTS),nan,110 - 88,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185645,21600260,4,0:30,Roberts Free Throw 2 of 2 (4 PTS),nan,110 - 89,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185646,21600260,4,0:15,nan,MISS Gbinije 2' Layup,nan,1627771,Michael Gbinije,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185647,21600260,4,0:15,nan,Gbinije REBOUND (Off:1 Def:0),nan,1627771,Michael Gbinije,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185648,21600260,4,0:15,nan,Gbinije 1' Tip Layup Shot (2 PTS),112 - 89,1627771,Michael Gbinije,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+185649,21600260,4,0:00,nan,nan,112 - 89,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

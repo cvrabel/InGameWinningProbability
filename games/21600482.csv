@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+213064,21600482,4,12:00,nan,nan,82 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+213065,21600482,4,11:43,Ginobili BLOCK (2 BLK),MISS Warren 3' Driving Layup,nan,203933,TJ Warren,PHX,0,nan,nan,1938,Manu Ginobili,SAS,Missed Shot ,nan
+213066,21600482,4,11:43,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213067,21600482,4,11:43,SUB: Green FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+213068,21600482,4,11:22,Lee 12' Turnaround Jump Shot (10 PTS),nan,82 - 91,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213069,21600482,4,11:09,nan,Knight Out of Bounds Lost Ball Turnover (P3.T16),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+213070,21600482,4,10:53,Mills Bad Pass Turnover (P4.T12),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+213071,21600482,4,10:45,nan,Barbosa 1' Driving Finger Roll Layup (5 PTS) (Bender 1 AST),84 - 91,2571,Leandro Barbosa,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Made Shot ,nan
+213072,21600482,4,10:32,MISS Simmons 18' Pullup Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213073,21600482,4,10:32,nan,Barbosa REBOUND (Off:0 Def:1),nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213074,21600482,4,10:20,nan,Warren  3PT Jump Shot (19 PTS) (Knight 4 AST),87 - 91,203933,TJ Warren,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+213075,21600482,4,10:20,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+213076,21600482,4,9:59,Lee Bad Pass Turnover (P1.T13),nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+213077,21600482,4,9:47,nan,MISS Barbosa 1' Layup,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213078,21600482,4,9:46,Lee REBOUND (Off:2 Def:1),nan,nan,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213079,21600482,4,9:36,nan,Barbosa P.FOUL (P2.T1) (M.Smith),nan,2571,Leandro Barbosa,PHX,101135,David Lee,SAS,0,nan,nan,Foul ,Personal
+213080,21600482,4,9:36,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+213081,21600482,4,9:22,MISS Parker 6' Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213082,21600482,4,9:22,Dedmon REBOUND (Off:1 Def:1),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213083,21600482,4,9:21,nan,Bender S.FOUL (P2.T2) (S.Anderson),nan,1627733,Dragan Bender,PHX,203473,Dewayne Dedmon,SAS,0,nan,nan,Foul ,Shooting
+213084,21600482,4,9:21,MISS Dedmon Free Throw 1 of 2,nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213085,21600482,4,9:21,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+213086,21600482,4,9:21,Dedmon Free Throw 2 of 2 (1 PTS),nan,87 - 92,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213087,21600482,4,9:08,Dedmon STEAL (2 STL),Barbosa Bad Pass Turnover (P2.T17),nan,2571,Leandro Barbosa,PHX,203473,Dewayne Dedmon,SAS,0,nan,nan,Turnover ,Bad Pass
+213088,21600482,4,9:01,Simmons Bad Pass Turnover (P1.T14),Barbosa STEAL (2 STL),nan,203613,Jonathon Simmons,SAS,2571,Leandro Barbosa,PHX,0,nan,nan,Turnover ,Bad Pass
+213089,21600482,4,8:57,nan,Warren Out of Bounds - Bad Pass Turnover Turnover (P2.T18),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+213090,21600482,4,8:57,SUB: Gasol FOR Dedmon,nan,nan,203473,Dewayne Dedmon,SAS,2200,Pau Gasol,SAS,0,nan,nan,Substitution ,nan
+213091,21600482,4,8:46,nan,Barbosa P.FOUL (P3.T3) (M.Smith),nan,2571,Leandro Barbosa,PHX,201980,Danny Green,SAS,0,nan,nan,Foul ,Personal
+213092,21600482,4,8:39,Gasol  Cutting Dunk Shot (16 PTS) (Lee 2 AST),nan,87 - 94,2200,Pau Gasol,SAS,101135,David Lee,SAS,0,nan,nan,Made Shot ,nan
+213093,21600482,4,8:38,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+213094,21600482,4,8:38,nan,SUB: Chandler FOR Len,nan,203458,Alex Len,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+213095,21600482,4,8:38,nan,SUB: Booker FOR Barbosa,nan,2571,Leandro Barbosa,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+213096,21600482,4,8:27,nan,MISS Booker 18' Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213097,21600482,4,8:26,Gasol REBOUND (Off:2 Def:4),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213098,21600482,4,8:13,MISS Parker 3' Jump Shot,Knight BLOCK (1 BLK),nan,2225,Tony Parker,SAS,0,nan,nan,202688,Brandon Knight,PHX,Missed Shot ,nan
+213099,21600482,4,8:12,nan,Knight REBOUND (Off:0 Def:1),nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213100,21600482,4,8:01,nan,MISS Warren 18' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213101,21600482,4,8:00,Simmons REBOUND (Off:0 Def:4),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213102,21600482,4,7:51,MISS Green 26' 3PT Pullup Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213103,21600482,4,7:50,Green REBOUND (Off:1 Def:1),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213104,21600482,4,7:45,Green 25' 3PT Jump Shot (9 PTS),nan,87 - 97,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213105,21600482,4,7:23,nan,Bender 24' 3PT Jump Shot (10 PTS) (Knight 5 AST),90 - 97,1627733,Dragan Bender,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+213106,21600482,4,7:02,Lee 16' Jump Shot (12 PTS),nan,90 - 99,101135,David Lee,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213107,21600482,4,6:40,nan,MISS Booker 1' Driving Layup,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213108,21600482,4,6:39,Gasol REBOUND (Off:2 Def:5),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213109,21600482,4,6:31,nan,Booker P.FOUL (P4.T4) (M.Smith),nan,1626164,Devin Booker,PHX,2200,Pau Gasol,SAS,0,nan,nan,Foul ,Personal
+213110,21600482,4,6:31,nan,SUB: Bledsoe FOR Warren,nan,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+213111,21600482,4,6:23,Parker 1' Driving Finger Roll Layup (20 PTS),nan,90 - 101,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213112,21600482,4,6:23,nan,Bledsoe S.FOUL (P3.PN) (S.Anderson),nan,202339,Eric Bledsoe,PHX,2225,Tony Parker,SAS,0,nan,nan,Foul ,Shooting
+213113,21600482,4,6:23,SUB: Aldridge FOR Lee,nan,nan,101135,David Lee,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+213114,21600482,4,6:23,SUB: Ginobili FOR Simmons,nan,nan,203613,Jonathon Simmons,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+213115,21600482,4,6:23,MISS Parker Free Throw 1 of 1,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+213116,21600482,4,6:21,nan,Bender REBOUND (Off:0 Def:4),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213117,21600482,4,6:13,nan,MISS Knight 17' Pullup Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213118,21600482,4,6:11,Gasol REBOUND (Off:2 Def:6),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213119,21600482,4,6:05,MISS Parker 2' Layup,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213120,21600482,4,6:04,nan,Chandler REBOUND (Off:0 Def:8),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213121,21600482,4,5:59,nan,MISS Booker 24' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213122,21600482,4,5:57,Aldridge REBOUND (Off:3 Def:5),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213123,21600482,4,5:42,Gasol Bad Pass Turnover (P2.T15),Knight STEAL (1 STL),nan,2200,Pau Gasol,SAS,202688,Brandon Knight,PHX,0,nan,nan,Turnover ,Bad Pass
+213124,21600482,4,5:32,nan,MISS Booker 24' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213125,21600482,4,5:31,Gasol REBOUND (Off:2 Def:7),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213126,21600482,4,5:11,Aldridge 1' Layup (25 PTS),nan,90 - 103,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213127,21600482,4,5:10,nan,Suns Timeout: Regular (Reg.5 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+213128,21600482,4,5:10,nan,SUB: Warren FOR Knight,nan,202688,Brandon Knight,PHX,203933,TJ Warren,PHX,0,nan,nan,Substitution ,nan
+213129,21600482,4,5:10,nan,SUB: Chriss FOR Bender,nan,1627733,Dragan Bender,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+213130,21600482,4,4:54,Aldridge S.FOUL (P2.T1) (S.Anderson),nan,nan,200746,LaMarcus Aldridge,SAS,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Shooting
+213131,21600482,4,4:54,nan,Chriss Free Throw 1 of 2 (10 PTS),91 - 103,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213132,21600482,4,4:54,nan,MISS Chriss Free Throw 2 of 2,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213133,21600482,4,4:52,nan,Chriss REBOUND (Off:2 Def:0),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213134,21600482,4,4:50,Green STEAL (4 STL),Chriss Lost Ball Turnover (P2.T19),nan,1627737,Marquese Chriss,PHX,201980,Danny Green,SAS,0,nan,nan,Turnover ,Lost Ball
+213135,21600482,4,4:34,MISS Aldridge 2' Layup,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213136,21600482,4,4:33,Green REBOUND (Off:2 Def:1),nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213137,21600482,4,4:31,Green 2' Tip Layup Shot (11 PTS),nan,91 - 105,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213138,21600482,4,4:24,nan,Warren  Layup (21 PTS) (Bledsoe 3 AST),93 - 105,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+213139,21600482,4,3:58,MISS Aldridge 16' Jump Shot,nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213140,21600482,4,3:58,nan,Bledsoe REBOUND (Off:1 Def:1),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213141,21600482,4,3:56,Ginobili BLOCK (3 BLK),MISS Chriss 1' Layup,nan,1627737,Marquese Chriss,PHX,0,nan,nan,1938,Manu Ginobili,SAS,Missed Shot ,nan
+213142,21600482,4,3:55,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213143,21600482,4,3:42,nan,Warren P.FOUL (P3.PN) (J.Capers),nan,203933,TJ Warren,PHX,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal
+213144,21600482,4,3:42,Ginobili Free Throw 1 of 2 (11 PTS),nan,93 - 106,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213145,21600482,4,3:42,Ginobili Free Throw 2 of 2 (12 PTS),nan,93 - 107,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213146,21600482,4,3:31,nan,MISS Chriss 25' 3PT Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213147,21600482,4,3:30,Gasol REBOUND (Off:2 Def:8),nan,nan,2200,Pau Gasol,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213148,21600482,4,3:15,Aldridge 2' Layup (27 PTS),nan,93 - 109,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213149,21600482,4,3:13,nan,Suns Timeout: Regular (Reg.6 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+213150,21600482,4,3:13,SUB: Murray FOR Gasol,nan,nan,2200,Pau Gasol,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Substitution ,nan
+213151,21600482,4,3:13,SUB: Bertans FOR Parker,nan,nan,2225,Tony Parker,SAS,202722,Davis Bertans,SAS,0,nan,nan,Substitution ,nan
+213152,21600482,4,3:13,SUB: Anderson FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+213153,21600482,4,3:03,nan,Chandler OFF.Foul (P2) (S.Anderson),nan,2199,Tyson Chandler,PHX,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Offensive
+213154,21600482,4,3:03,nan,Chandler Foul Turnover (P2.T20),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+213155,21600482,4,3:03,nan,SUB: Ulis FOR Bledsoe,nan,202339,Eric Bledsoe,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+213156,21600482,4,3:03,nan,SUB: Bender FOR Chandler,nan,2199,Tyson Chandler,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Substitution ,nan
+213157,21600482,4,3:03,nan,SUB: Williams FOR Booker,nan,1626164,Devin Booker,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+213158,21600482,4,3:03,SUB: Dedmon FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,203473,Dewayne Dedmon,SAS,0,nan,nan,Substitution ,nan
+213159,21600482,4,3:03,SUB: Simmons FOR Green,nan,nan,201980,Danny Green,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+213160,21600482,4,2:52,Bertans OFF.Foul (P1) (J.Capers),nan,nan,202722,Davis Bertans,SAS,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Offensive
+213161,21600482,4,2:52,Bertans Foul Turnover (P1.T16),nan,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+213162,21600482,4,2:39,nan,Chriss  Dunk (12 PTS) (Ulis 1 AST),95 - 109,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+213163,21600482,4,2:20,Dedmon  Alley Oop Dunk (3 PTS) (Murray 1 AST),nan,95 - 111,203473,Dewayne Dedmon,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Made Shot ,nan
+213164,21600482,4,2:02,nan,Chriss Traveling Turnover (P3.T21),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Turnover ,Traveling
+213165,21600482,4,1:51,Murray 9' Floating Jump Shot (2 PTS),nan,95 - 113,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213166,21600482,4,1:41,nan,Ulis Out of Bounds Lost Ball Turnover (P1.T22),nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+213167,21600482,4,1:22,Dedmon 2' Layup (5 PTS) (Anderson 5 AST),nan,95 - 115,203473,Dewayne Dedmon,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+213168,21600482,4,1:14,Bertans S.FOUL (P2.T2) (J.Capers),nan,nan,202722,Davis Bertans,SAS,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+213169,21600482,4,1:14,nan,Warren Free Throw 1 of 2 (22 PTS),96 - 115,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213170,21600482,4,1:14,nan,Warren Free Throw 2 of 2 (23 PTS),97 - 115,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213171,21600482,4,1:00,Murray  Driving Finger Roll Layup (4 PTS),nan,97 - 117,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+213172,21600482,4,0:50,nan,MISS Ulis 17' Pullup Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213173,21600482,4,0:47,Dedmon REBOUND (Off:1 Def:2),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213174,21600482,4,0:41,nan,Williams S.FOUL (P1.PN) (J.Capers),nan,1626210,Alan Williams,PHX,1627749,Dejounte Murray,SAS,0,nan,nan,Foul ,Shooting
+213175,21600482,4,0:41,Murray Free Throw 1 of 2 (5 PTS),nan,97 - 118,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213176,21600482,4,0:41,Murray Free Throw 2 of 2 (6 PTS),nan,97 - 119,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213177,21600482,4,0:27,Bertans S.FOUL (P3.PN) (J.Capers),nan,nan,202722,Davis Bertans,SAS,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Shooting
+213178,21600482,4,0:27,nan,Chriss Free Throw 1 of 2 (13 PTS),98 - 119,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+213179,21600482,4,0:27,nan,MISS Chriss Free Throw 2 of 2,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+213180,21600482,4,0:25,Dedmon REBOUND (Off:1 Def:3),nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213181,21600482,4,0:03,MISS Dedmon  Alley Oop Dunk,nan,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+213182,21600482,4,0:00,Simmons REBOUND (Off:1 Def:4),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+213183,21600482,4,0:00,nan,nan,98 - 119,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

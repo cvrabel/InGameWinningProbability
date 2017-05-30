@@ -1,0 +1,115 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+276204,21600998,4,12:00,nan,nan,76 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+276205,21600998,4,11:43,Gallinari 25' 3PT Jump Shot (18 PTS) (Harris 4 AST),nan,76 - 96,201568,Danilo Gallinari,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+276206,21600998,4,11:28,Gallinari BLOCK (1 BLK),MISS Black 3' Layup,nan,204028,Tarik Black,LAL,0,nan,nan,201568,Danilo Gallinari,DEN,Missed Shot ,nan
+276207,21600998,4,11:27,Harris REBOUND (Off:2 Def:2),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276208,21600998,4,11:24,Murray  Running Dunk (8 PTS) (Harris 5 AST),nan,76 - 98,1627750,Jamal Murray,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+276209,21600998,4,11:12,nan,Ingram Traveling Turnover (P1.T14),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+276210,21600998,4,10:51,nan,Nance Jr. S.FOUL (P2.T1) (B.Spooner),nan,1626204,Larry Nance Jr.,LAL,203486,Mason Plumlee,DEN,0,nan,nan,Foul ,Shooting
+276211,21600998,4,10:51,MISS Plumlee Free Throw 1 of 2,nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276212,21600998,4,10:51,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+276213,21600998,4,10:51,Plumlee Free Throw 2 of 2 (13 PTS),nan,76 - 99,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276214,21600998,4,10:42,Plumlee P.FOUL (P3.T1) (M.Boland),nan,nan,203486,Mason Plumlee,DEN,204028,Tarik Black,LAL,0,nan,nan,Foul ,Personal
+276215,21600998,4,10:34,nan,MISS Nance Jr. 10' Hook Shot,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276216,21600998,4,10:33,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276217,21600998,4,10:33,nan,Black L.B.FOUL (P3.T2) (M.Boland),nan,204028,Tarik Black,LAL,203486,Mason Plumlee,DEN,0,nan,nan,Foul ,Loose Ball
+276218,21600998,4,10:33,nan,SUB: Ennis FOR Clarkson,nan,203903,Jordan Clarkson,LAL,203898,Tyler Ennis,LAL,0,nan,nan,Substitution ,nan
+276219,21600998,4,10:19,Harris Bad Pass Turnover (P2.T12),Ingram STEAL (1 STL),nan,203914,Gary Harris,DEN,1627742,Brandon Ingram,LAL,0,nan,nan,Turnover ,Bad Pass
+276220,21600998,4,10:15,nan,Black Out of Bounds Lost Ball Turnover (P3.T15),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+276221,21600998,4,10:02,Murray  3PT Jump Shot (11 PTS) (Barton 5 AST),nan,76 - 102,1627750,Jamal Murray,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+276222,21600998,4,9:47,nan,MISS Russell 7' Floating Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276223,21600998,4,9:46,nan,Nance Jr. REBOUND (Off:3 Def:5),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276224,21600998,4,9:46,nan,MISS Nance Jr. 2' Tip Layup Shot,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276225,21600998,4,9:45,Plumlee REBOUND (Off:1 Def:7),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276226,21600998,4,9:42,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T13),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+276227,21600998,4,9:20,nan,MISS Russell 25' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276228,21600998,4,9:19,Murray REBOUND (Off:1 Def:1),nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276229,21600998,4,9:07,Plumlee  Alley Oop Dunk (15 PTS) (Gallinari 5 AST),nan,76 - 104,203486,Mason Plumlee,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+276230,21600998,4,8:54,NUGGETS T.Foul (Def. 3 Sec Plumlee ) (M.Kogut),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+276231,21600998,4,8:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+276232,21600998,4,8:54,nan,SUB: Brewer FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,201147,Corey Brewer,LAL,0,nan,nan,Substitution ,nan
+276233,21600998,4,8:54,nan,SUB: Zubac FOR Black,nan,204028,Tarik Black,LAL,1627826,Ivica Zubac,LAL,0,nan,nan,Substitution ,nan
+276234,21600998,4,8:54,nan,Ennis Free Throw Technical (4 PTS),77 - 104,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+276235,21600998,4,8:43,nan,Zubac 1' Layup (18 PTS) (Russell 3 AST),79 - 104,1627826,Ivica Zubac,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+276236,21600998,4,8:29,MISS Harris 24' 3PT Jump Shot,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276237,21600998,4,8:28,nan,Zubac REBOUND (Off:4 Def:6),nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276238,21600998,4,8:16,nan,MISS Ingram 25' 3PT Jump Shot,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276239,21600998,4,8:15,Plumlee REBOUND (Off:1 Def:8),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276240,21600998,4,8:03,nan,Ennis S.FOUL (P3.T3) (M.Boland),nan,203898,Tyler Ennis,LAL,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+276241,21600998,4,8:03,Harris Free Throw 1 of 2 (11 PTS),nan,79 - 105,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276242,21600998,4,8:03,Harris Free Throw 2 of 2 (12 PTS),nan,79 - 106,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276243,21600998,4,7:49,nan,Zubac 11' Jump Bank Shot (20 PTS) (Ennis 1 AST),81 - 106,1627826,Ivica Zubac,LAL,203898,Tyler Ennis,LAL,0,nan,nan,Made Shot ,nan
+276244,21600998,4,7:28,Barton 24' 3PT Pullup Jump Shot (22 PTS),nan,81 - 109,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+276245,21600998,4,7:12,nan,Ingram 2' Layup (12 PTS),83 - 109,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276246,21600998,4,7:04,Murray 25' 3PT Jump Shot (14 PTS),nan,83 - 112,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+276247,21600998,4,6:57,Barton P.FOUL (P3.T2) (M.Boland),nan,nan,203115,Will Barton,DEN,1627742,Brandon Ingram,LAL,0,nan,nan,Foul ,Personal
+276248,21600998,4,6:40,nan,MISS Ennis 2' Running Layup,nan,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276249,21600998,4,6:39,nan,Ennis REBOUND (Off:1 Def:1),nan,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276250,21600998,4,6:32,nan,MISS Ingram 24' 3PT Jump Shot,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276251,21600998,4,6:32,Plumlee REBOUND (Off:1 Def:9),nan,nan,203486,Mason Plumlee,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276252,21600998,4,6:26,MISS Barton 24' 3PT Pullup Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276253,21600998,4,6:23,nan,Brewer REBOUND (Off:1 Def:2),nan,201147,Corey Brewer,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276254,21600998,4,6:21,Murray S.FOUL (P2.T3) (B.Spooner),nan,nan,1627750,Jamal Murray,DEN,201147,Corey Brewer,LAL,0,nan,nan,Foul ,Shooting
+276255,21600998,4,6:21,nan,MISS Brewer Free Throw 1 of 2,nan,201147,Corey Brewer,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276256,21600998,4,6:21,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+276257,21600998,4,6:21,nan,Brewer Free Throw 2 of 2 (5 PTS),84 - 112,201147,Corey Brewer,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276258,21600998,4,5:59,MISS Murray 27' 3PT Jump Shot,nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276259,21600998,4,5:57,nan,Ingram REBOUND (Off:0 Def:1),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276260,21600998,4,5:53,Murray P.FOUL (P3.T4) (M.Boland),nan,nan,1627750,Jamal Murray,DEN,1627826,Ivica Zubac,LAL,0,nan,nan,Foul ,Personal
+276261,21600998,4,5:53,NUGGETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+276262,21600998,4,5:53,SUB: Hernangomez FOR Gallinari,nan,nan,201568,Danilo Gallinari,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Substitution ,nan
+276263,21600998,4,5:35,nan,MISS Ennis 29' 3PT Jump Shot,nan,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276264,21600998,4,5:34,nan,Brewer REBOUND (Off:2 Def:2),nan,201147,Corey Brewer,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276265,21600998,4,5:30,nan,Brewer 2' Putback Layup (7 PTS),86 - 112,201147,Corey Brewer,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276266,21600998,4,5:15,nan,Brewer P.FOUL (P1.T4) (M.Kogut),nan,201147,Corey Brewer,LAL,203486,Mason Plumlee,DEN,0,nan,nan,Foul ,Personal
+276267,21600998,4,5:15,nan,SUB: Randle FOR Brewer,nan,201147,Corey Brewer,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+276268,21600998,4,5:10,Barton Bad Pass Turnover (P4.T14),Russell STEAL (3 STL),nan,203115,Will Barton,DEN,1626156,D'Angelo Russell,LAL,0,nan,nan,Turnover ,Bad Pass
+276269,21600998,4,5:06,nan,MISS Russell 3' Running Layup,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276270,21600998,4,5:05,nan,Ennis REBOUND (Off:2 Def:1),nan,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276271,21600998,4,4:48,nan,Zubac 4' Hook Bank Shot (22 PTS),88 - 112,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276272,21600998,4,4:25,Hernangomez 24' 3PT Jump Shot (11 PTS) (Harris 6 AST),nan,88 - 115,1627823,Juan Hernangomez,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+276273,21600998,4,4:03,nan,Zubac 7' Hook Shot (24 PTS) (Ingram 2 AST),90 - 115,1627826,Ivica Zubac,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Made Shot ,nan
+276274,21600998,4,3:47,Murray  3PT Jump Shot (17 PTS) (Harris 7 AST),nan,90 - 118,1627750,Jamal Murray,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+276275,21600998,4,3:18,nan,Ingram 23' Pullup Jump Shot (14 PTS),92 - 118,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276276,21600998,4,3:06,Murray 24' 3PT Jump Shot (20 PTS) (Barton 6 AST),nan,92 - 121,1627750,Jamal Murray,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+276277,21600998,4,2:57,nan,Russell 26' 3PT Pullup Jump Shot (10 PTS) (Ennis 2 AST),95 - 121,1626156,D'Angelo Russell,LAL,203898,Tyler Ennis,LAL,0,nan,nan,Made Shot ,nan
+276278,21600998,4,2:49,MISS Barton 2' Running Layup,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276279,21600998,4,2:48,nan,Randle REBOUND (Off:1 Def:6),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276280,21600998,4,2:42,nan,MISS Russell 25' 3PT Pullup Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276281,21600998,4,2:40,Hernangomez REBOUND (Off:0 Def:5),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276282,21600998,4,2:38,nan,Zubac S.FOUL (P1.PN) (M.Boland),nan,1627826,Ivica Zubac,LAL,1627823,Juan Hernangomez,DEN,0,nan,nan,Foul ,Shooting
+276283,21600998,4,2:38,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+276284,21600998,4,2:38,nan,SUB: Nwaba FOR Ingram,nan,1627742,Brandon Ingram,LAL,1628021,David Nwaba,LAL,0,nan,nan,Substitution ,nan
+276285,21600998,4,2:38,SUB: Mudiay FOR Barton,nan,nan,203115,Will Barton,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+276286,21600998,4,2:38,SUB: Hibbert FOR Plumlee,nan,nan,203486,Mason Plumlee,DEN,201579,Roy Hibbert,DEN,0,nan,nan,Substitution ,nan
+276287,21600998,4,2:38,SUB: Beasley FOR Harris,nan,nan,203914,Gary Harris,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Substitution ,nan
+276288,21600998,4,2:38,Hernangomez Free Throw 1 of 2 (12 PTS),nan,95 - 122,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276289,21600998,4,2:38,Hernangomez Free Throw 2 of 2 (13 PTS),nan,95 - 123,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276290,21600998,4,2:22,Hibbert S.FOUL (P1.PN) (M.Boland),nan,nan,201579,Roy Hibbert,DEN,1627826,Ivica Zubac,LAL,0,nan,nan,Foul ,Shooting
+276291,21600998,4,2:22,nan,MISS Zubac Free Throw 1 of 2,nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276292,21600998,4,2:22,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+276293,21600998,4,2:22,nan,Zubac Free Throw 2 of 2 (25 PTS),96 - 123,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276294,21600998,4,2:03,Murray 1' Cutting Layup Shot (22 PTS) (Hibbert 1 AST),nan,96 - 125,1627750,Jamal Murray,DEN,201579,Roy Hibbert,DEN,0,nan,nan,Made Shot ,nan
+276295,21600998,4,1:53,nan,Ennis 5' Driving Hook Shot (6 PTS),98 - 125,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276296,21600998,4,1:44,MISS Hernangomez 25' 3PT Jump Shot,nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276297,21600998,4,1:43,nan,Zubac REBOUND (Off:4 Def:7),nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276298,21600998,4,1:35,nan,Randle Traveling Turnover (P2.T16),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+276299,21600998,4,1:24,Murray Step Out of Bounds Turnover (P4.T15),nan,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+276300,21600998,4,1:09,Hibbert BLOCK (1 BLK),MISS Randle 8' Fadeaway Jumper,nan,203944,Julius Randle,LAL,0,nan,nan,201579,Roy Hibbert,DEN,Missed Shot ,nan
+276301,21600998,4,1:07,Beasley REBOUND (Off:0 Def:1),nan,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276302,21600998,4,0:59,Hibbert 9' Turnaround Jump Shot (2 PTS) (Mudiay 1 AST),nan,98 - 127,201579,Roy Hibbert,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+276303,21600998,4,0:44,nan,MISS Zubac 19' Jump Shot,nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+276304,21600998,4,0:43,Beasley REBOUND (Off:0 Def:2),nan,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276305,21600998,4,0:39,Beasley Lost Ball Turnover (P1.T16),Nwaba STEAL (1 STL),nan,1627736,Malik Beasley,DEN,1628021,David Nwaba,LAL,0,nan,nan,Turnover ,Lost Ball
+276306,21600998,4,0:36,Murray BLOCK (1 BLK),MISS Ennis 1' Layup,nan,203898,Tyler Ennis,LAL,0,nan,nan,1627750,Jamal Murray,DEN,Missed Shot ,nan
+276307,21600998,4,0:36,nan,Randle REBOUND (Off:2 Def:6),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276308,21600998,4,0:36,nan,Randle 1' Putback Layup (7 PTS),100 - 127,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+276309,21600998,4,0:20,Beasley  Driving Dunk (2 PTS) (Murray 3 AST),nan,100 - 129,1627736,Malik Beasley,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Made Shot ,nan
+276310,21600998,4,0:20,Beasley Taunting (P0.PN) (B.Spooner),nan,nan,1627736,Malik Beasley,DEN,0,nan,nan,0,nan,nan,Foul ,Taunting Technical
+276311,21600998,4,0:20,nan,Ennis Free Throw Technical (7 PTS),101 - 129,203898,Tyler Ennis,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+276312,21600998,4,0:16,Hibbert P.FOUL (P2.PN) (M.Boland),nan,nan,201579,Roy Hibbert,DEN,1627826,Ivica Zubac,LAL,0,nan,nan,Foul ,Personal
+276313,21600998,4,0:16,nan,MISS Zubac Free Throw 1 of 2,nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+276314,21600998,4,0:16,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+276315,21600998,4,0:16,nan,MISS Zubac Free Throw 2 of 2,nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+276316,21600998,4,0:15,Hernangomez REBOUND (Off:0 Def:6),nan,nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+276317,21600998,4,0:00,nan,nan,101 - 129,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

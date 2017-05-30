@@ -1,0 +1,338 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+49064,21500391,4,12:00,nan,nan,74 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+49065,21500391,4,11:46,Butler Bad Pass Turnover (P3.T14),Johnson STEAL (1 STL),nan,202710,Jimmy Butler,CHI,1626169,Stanley Johnson,DET,0,nan,nan,Turnover ,Bad Pass
+49066,21500391,4,11:26,nan,MISS Marc Morris 11' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49067,21500391,4,11:25,nan,Marc Morris REBOUND (Off:2 Def:1),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49068,21500391,4,11:17,nan,Marc Morris Out of Bounds - Bad Pass Turnover Turnover (P2.T8),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+49069,21500391,4,11:05,Butler 2' Driving Layup (16 PTS) (Noah 4 AST),nan,74 - 79,202710,Jimmy Butler,CHI,201149,Joakim Noah,CHI,0,nan,nan,Made Shot ,nan
+49070,21500391,4,10:45,Hinrich P.FOUL (P3.T1) (S.Anderson),nan,nan,2550,Kirk Hinrich,CHI,2581,Steve Blake,DET,0,nan,nan,Foul ,Personal
+49071,21500391,4,10:37,nan,Johnson 25' 3PT Jump Shot (10 PTS) (Drummond 2 AST),77 - 79,1626169,Stanley Johnson,DET,203083,Andre Drummond,DET,0,nan,nan,Made Shot ,nan
+49072,21500391,4,10:22,MISS Mirotic 13' Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49073,21500391,4,10:20,nan,Drummond REBOUND (Off:4 Def:8),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49074,21500391,4,10:13,nan,MISS Blake 25' 3PT Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49075,21500391,4,10:12,nan,Drummond REBOUND (Off:5 Def:8),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49076,21500391,4,10:01,nan,MISS Tolliver 1' Layup,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49077,21500391,4,10:01,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49078,21500391,4,10:01,nan,Drummond L.B.FOUL (P5.T1) (J.Capers),nan,203083,Andre Drummond,DET,201149,Joakim Noah,CHI,0,nan,nan,Foul ,Loose Ball
+49079,21500391,4,10:01,nan,Drummond T.FOUL (P5.T1) (J.Capers),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Foul ,Technical
+49080,21500391,4,10:01,Butler Free Throw Technical (17 PTS),nan,77 - 80,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+49081,21500391,4,10:01,nan,SUB: Anthony FOR Drummond,nan,203083,Andre Drummond,DET,201202,Joel Anthony,DET,0,nan,nan,Substitution ,nan
+49082,21500391,4,9:54,nan,Marc Morris P.FOUL (P4.T2) (G.Zielinski),nan,202694,Marcus Morris,DET,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+49083,21500391,4,9:37,MISS Mirotic 1' Reverse Layup,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49084,21500391,4,9:36,nan,Anthony REBOUND (Off:0 Def:3),nan,201202,Joel Anthony,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49085,21500391,4,9:30,nan,MISS Johnson 12' Jump Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49086,21500391,4,9:28,nan,Johnson REBOUND (Off:1 Def:5),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49087,21500391,4,9:27,nan,Johnson 1' Layup (12 PTS),79 - 80,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49088,21500391,4,9:11,MISS Hinrich 24' 3PT Jump Shot,nan,nan,2550,Kirk Hinrich,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49089,21500391,4,9:10,nan,Marc Morris REBOUND (Off:2 Def:2),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49090,21500391,4,9:01,nan,MISS Blake 19' Jump Shot,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49091,21500391,4,9:00,nan,Blake REBOUND (Off:1 Def:1),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49092,21500391,4,8:49,nan,Johnson 15' Jump Shot (14 PTS),81 - 80,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49093,21500391,4,8:49,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49094,21500391,4,8:49,SUB: Brooks FOR McDermott,nan,nan,203926,Doug McDermott,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Substitution ,nan
+49095,21500391,4,8:35,Butler 3' Driving Layup (19 PTS),nan,81 - 82,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49096,21500391,4,8:20,nan,Johnson OFF.Foul (P3) (J.Capers),nan,1626169,Stanley Johnson,DET,2550,Kirk Hinrich,CHI,0,nan,nan,Foul ,Offensive
+49097,21500391,4,8:20,nan,Johnson Foul Turnover (P2.T9),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+49098,21500391,4,8:06,nan,Anthony S.FOUL (P2.T3) (G.Zielinski),nan,201202,Joel Anthony,DET,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+49099,21500391,4,8:06,MISS Butler Free Throw 1 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49100,21500391,4,8:06,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49101,21500391,4,8:06,Butler Free Throw 2 of 2 (20 PTS),nan,81 - 83,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49102,21500391,4,7:55,nan,Marc Morris 13' Jump Shot (8 PTS) (Blake 2 AST),83 - 83,202694,Marcus Morris,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+49103,21500391,4,7:39,Brooks 16' Jump Shot (2 PTS),nan,83 - 85,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49104,21500391,4,7:25,nan,Marc Morris 2' Layup (10 PTS),85 - 85,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49105,21500391,4,7:00,MISS Mirotic 2' Layup,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49106,21500391,4,6:59,nan,Johnson REBOUND (Off:1 Def:6),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49107,21500391,4,6:49,nan,Johnson 14' Jump Shot (16 PTS),87 - 85,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49108,21500391,4,6:20,MISS Brooks 1' Layup,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49109,21500391,4,6:19,nan,Tolliver REBOUND (Off:0 Def:1),nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49110,21500391,4,5:59,nan,MISS Tolliver 24' 3PT Jump Shot,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49111,21500391,4,5:58,Butler REBOUND (Off:0 Def:4),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49112,21500391,4,5:42,Noah 2' Layup (6 PTS) (Brooks 2 AST),nan,87 - 87,201149,Joakim Noah,CHI,201166,Aaron Brooks,CHI,0,nan,nan,Made Shot ,nan
+49113,21500391,4,5:32,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49114,21500391,4,5:32,SUB: Rose FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,201565,Derrick Rose,CHI,0,nan,nan,Substitution ,nan
+49115,21500391,4,5:32,SUB: Gasol FOR Hinrich,nan,nan,2550,Kirk Hinrich,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+49116,21500391,4,5:32,nan,SUB: Ilyasova FOR Blake,nan,2581,Steve Blake,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+49117,21500391,4,5:32,nan,SUB: Drummond FOR Tolliver,nan,201229,Anthony Tolliver,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+49118,21500391,4,5:32,nan,SUB: Jackson FOR Anthony,nan,201202,Joel Anthony,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+49119,21500391,4,5:19,nan,Drummond  Dunk (18 PTS) (Johnson 1 AST),89 - 87,203083,Andre Drummond,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+49120,21500391,4,5:01,MISS Rose 2' Driving Layup,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49121,21500391,4,5:00,Noah REBOUND (Off:5 Def:6),nan,nan,201149,Joakim Noah,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49122,21500391,4,5:00,MISS Noah  Tip Layup Shot,nan,nan,201149,Joakim Noah,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49123,21500391,4,4:59,nan,Ilyasova REBOUND (Off:3 Def:4),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49124,21500391,4,4:52,nan,Marc Morris 26' 3PT Jump Shot (13 PTS) (Jackson 8 AST),92 - 87,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49125,21500391,4,4:36,Gasol 4' Jump Shot (17 PTS),nan,92 - 89,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49126,21500391,4,4:36,nan,Ilyasova S.FOUL (P2.T4) (S.Anderson),nan,101141,Ersan Ilyasova,DET,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Shooting
+49127,21500391,4,4:36,SUB: Snell FOR Brooks,nan,nan,201166,Aaron Brooks,CHI,203503,Tony Snell,CHI,0,nan,nan,Substitution ,nan
+49128,21500391,4,4:36,Gasol Free Throw 1 of 1 (18 PTS),nan,92 - 90,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+49129,21500391,4,4:22,nan,MISS Ilyasova 25' 3PT Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49130,21500391,4,4:22,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49131,21500391,4,4:22,nan,Johnson L.B.FOUL (P4.PN) (S.Anderson),nan,1626169,Stanley Johnson,DET,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Loose Ball
+49132,21500391,4,4:22,Gasol Free Throw 1 of 2 (19 PTS),nan,92 - 91,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49133,21500391,4,4:22,SUB: Gibson FOR Noah,nan,nan,201149,Joakim Noah,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+49134,21500391,4,4:22,Gasol Free Throw 2 of 2 (20 PTS),nan,92 - 92,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49135,21500391,4,4:10,nan,Jackson 3' Driving Layup (11 PTS),94 - 92,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49136,21500391,4,3:53,MISS Snell 25' 3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49137,21500391,4,3:52,nan,Drummond REBOUND (Off:5 Def:9),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49138,21500391,4,3:38,Gasol BLOCK (3 BLK),MISS Jackson 1' Layup,nan,202704,Reggie Jackson,DET,0,nan,nan,2200,Pau Gasol,CHI,Missed Shot ,nan
+49139,21500391,4,3:37,nan,Drummond REBOUND (Off:6 Def:9),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49140,21500391,4,3:37,Gibson BLOCK (2 BLK),MISS Drummond 2' Putback Layup,nan,203083,Andre Drummond,DET,0,nan,nan,201959,Taj Gibson,CHI,Missed Shot ,nan
+49141,21500391,4,3:37,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49142,21500391,4,3:33,nan,Jackson 14' Floating Jump Shot (13 PTS) (Marc Morris 1 AST),96 - 92,202704,Reggie Jackson,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+49143,21500391,4,3:17,MISS Butler 19' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49144,21500391,4,3:17,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49145,21500391,4,3:17,nan,Johnson L.B.FOUL (P5.PN) (J.Capers),nan,1626169,Stanley Johnson,DET,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Loose Ball
+49146,21500391,4,3:17,Gibson Free Throw 1 of 2 (13 PTS),nan,96 - 93,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49147,21500391,4,3:17,Gibson Free Throw 2 of 2 (14 PTS),nan,96 - 94,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49148,21500391,4,3:00,nan,Jackson 10' Jump Shot (15 PTS),98 - 94,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49149,21500391,4,2:51,Rose 15' Floating Jump Shot (24 PTS),nan,98 - 96,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49150,21500391,4,2:30,nan,MISS Ilyasova 26' 3PT Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49151,21500391,4,2:30,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49152,21500391,4,2:30,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49153,21500391,4,2:30,nan,SUB: Caldwell-Pope FOR Johnson,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+49154,21500391,4,2:20,nan,Marc Morris P.FOUL (P5.PN) (J.Capers),nan,202694,Marcus Morris,DET,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+49155,21500391,4,2:20,Butler Free Throw 1 of 2 (21 PTS),nan,98 - 97,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49156,21500391,4,2:20,Butler Free Throw 2 of 2 (22 PTS),nan,98 - 98,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49157,21500391,4,2:08,nan,Drummond 6' Jump Bank Shot (20 PTS),100 - 98,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49158,21500391,4,1:49,Gasol 3' Finger Roll Layup (22 PTS),nan,100 - 100,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49159,21500391,4,1:35,Snell S.FOUL (P3.T2) (J.Capers),nan,nan,203503,Tony Snell,CHI,101141,Ersan Ilyasova,DET,0,nan,nan,Foul ,Shooting
+49160,21500391,4,1:35,nan,Ilyasova Free Throw 1 of 2 (14 PTS),101 - 100,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49161,21500391,4,1:35,nan,Ilyasova Free Throw 2 of 2 (15 PTS),102 - 100,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49162,21500391,4,1:17,nan,nan,102 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+49163,21500391,4,1:17,Snell Out of Bounds Lost Ball Turnover (P2.T15),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+49164,21500391,4,1:00,nan,MISS Jackson 2' Layup,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49165,21500391,4,0:59,Rose REBOUND (Off:0 Def:3),nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49166,21500391,4,0:51,Snell 25' 3PT Jump Shot (3 PTS) (Rose 6 AST),nan,102 - 103,203503,Tony Snell,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+49167,21500391,4,0:51,nan,Pistons Timeout: Regular (Reg.5 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49168,21500391,4,0:49,Rose P.FOUL (P1.PN) (G.Zielinski),nan,nan,201565,Derrick Rose,CHI,101141,Ersan Ilyasova,DET,0,nan,nan,Foul ,Personal
+49169,21500391,4,0:49,nan,MISS Ilyasova Free Throw 1 of 2,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49170,21500391,4,0:49,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49171,21500391,4,0:49,nan,Ilyasova Free Throw 2 of 2 (16 PTS),103 - 103,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49172,21500391,4,0:32,nan,Ilyasova S.FOUL (P3.PN) (J.Capers),nan,101141,Ersan Ilyasova,DET,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Shooting
+49173,21500391,4,0:32,Gasol Free Throw 1 of 2 (23 PTS),nan,103 - 104,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49174,21500391,4,0:32,Gasol Free Throw 2 of 2 (24 PTS),nan,103 - 105,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49175,21500391,4,0:32,nan,Pistons Timeout: Short (Reg.5 Short 1),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49176,21500391,4,0:18,nan,Drummond 1' Layup (22 PTS) (Jackson 9 AST),105 - 105,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49177,21500391,4,0:18,BULLS Timeout: Regular (Full 5 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49178,21500391,4,0:18,SUB: Mirotic FOR Gibson,nan,nan,201959,Taj Gibson,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+49179,21500391,4,0:18,nan,SUB: Johnson FOR Ilyasova,nan,101141,Ersan Ilyasova,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+49180,21500391,4,0:00,MISS Rose 19' Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49181,21500391,4,0:00,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49182,21500391,4,0:00,nan,nan,105 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+49183,21500391,5,5:00,nan,nan,105 - 105,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+49184,21500391,5,5:00,Jump Ball Gasol vs. Drummond: Tip to Jackson,nan,nan,2200,Pau Gasol,CHI,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,Jump Ball ,nan
+49185,21500391,5,4:39,nan,Drummond 9' Turnaround Jump Shot (24 PTS) (Ilyasova 2 AST),107 - 105,203083,Andre Drummond,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Made Shot ,nan
+49186,21500391,5,4:18,MISS Butler 2' Driving Layup,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49187,21500391,5,4:15,Gasol REBOUND (Off:2 Def:5),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49188,21500391,5,4:15,Gasol 2' Tip Layup Shot (26 PTS),nan,107 - 107,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49189,21500391,5,4:02,nan,Jackson 1' Driving Layup (17 PTS),109 - 107,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49190,21500391,5,3:43,Rose 7' Floating Jump Shot (26 PTS),nan,109 - 109,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49191,21500391,5,3:28,nan,Marc Morris 7' Floating Jump Shot (15 PTS) (Ilyasova 3 AST),111 - 109,202694,Marcus Morris,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Made Shot ,nan
+49192,21500391,5,3:17,Rose 3' Driving Layup (28 PTS),nan,111 - 111,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49193,21500391,5,3:02,nan,Ilyasova 2' Layup (18 PTS) (Drummond 3 AST),113 - 111,101141,Ersan Ilyasova,DET,203083,Andre Drummond,DET,0,nan,nan,Made Shot ,nan
+49194,21500391,5,2:43,MISS Rose 18' Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49195,21500391,5,2:42,Gibson REBOUND (Off:4 Def:5),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49196,21500391,5,2:24,MISS Gasol 12' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49197,21500391,5,2:23,nan,Marc Morris REBOUND (Off:2 Def:3),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49198,21500391,5,2:02,nan,MISS Jackson 26' 3PT Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49199,21500391,5,2:02,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49200,21500391,5,1:55,Rose 7' Turnaround Jump Shot (30 PTS),nan,113 - 113,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49201,21500391,5,1:40,nan,Drummond 1' Alley Oop Dunk (26 PTS) (Jackson 10 AST),115 - 113,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49202,21500391,5,1:40,nan,nan,nan,610,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+49203,21500391,5,1:08,MISS Rose 18' Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49204,21500391,5,1:08,nan,Drummond REBOUND (Off:6 Def:10),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49205,21500391,5,1:04,nan,MISS Marc Morris 6' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49206,21500391,5,1:02,Snell REBOUND (Off:0 Def:2),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49207,21500391,5,0:51,MISS Snell 26' 3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49208,21500391,5,0:50,nan,Marc Morris REBOUND (Off:2 Def:4),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49209,21500391,5,0:31,nan,MISS Jackson 2' Layup,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49210,21500391,5,0:27,Gasol REBOUND (Off:2 Def:6),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49211,21500391,5,0:21,nan,Caldwell-Pope S.FOUL (P4.T1) (J.Capers),nan,203484,Kentavious Caldwell-Pope,DET,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Shooting
+49212,21500391,5,0:21,MISS Gasol Free Throw 1 of 2,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49213,21500391,5,0:21,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49214,21500391,5,0:21,Gasol Free Throw 2 of 2 (27 PTS),nan,115 - 114,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49215,21500391,5,0:13,Snell P.FOUL (P4.T1) (S.Anderson),nan,nan,203503,Tony Snell,CHI,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+49216,21500391,5,0:13,SUB: Noah FOR Gasol,nan,nan,2200,Pau Gasol,CHI,201149,Joakim Noah,CHI,0,nan,nan,Substitution ,nan
+49217,21500391,5,0:11,Rose Personal Take Foul (P2.PN) (J.Capers),nan,nan,201565,Derrick Rose,CHI,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal Take
+49218,21500391,5,0:11,nan,Jackson Free Throw 1 of 2 (18 PTS),116 - 114,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49219,21500391,5,0:11,nan,Free Throw 2 of 2,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49220,21500391,5,0:11,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49221,21500391,5,0:11,BULLS Timeout: Regular (Full 6 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49222,21500391,5,0:11,nan,SUB: Johnson FOR Caldwell-Pope,nan,203484,Kentavious Caldwell-Pope,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+49223,21500391,5,0:11,SUB: Gasol FOR Noah,nan,nan,201149,Joakim Noah,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+49224,21500391,5,0:03,Gasol 1' Layup (29 PTS) (Butler 2 AST),nan,116 - 116,2200,Pau Gasol,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+49225,21500391,5,0:03,nan,Pistons Timeout: Regular (Reg.6 Short 1),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49226,21500391,5,0:03,SUB: Noah FOR Gibson,nan,nan,201959,Taj Gibson,CHI,201149,Joakim Noah,CHI,0,nan,nan,Substitution ,nan
+49227,21500391,5,0:03,nan,SUB: Caldwell-Pope FOR Ilyasova,nan,101141,Ersan Ilyasova,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+49228,21500391,5,0:03,nan,Pistons Timeout: Short (Reg.6 Short 2),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49229,21500391,5,0:00,nan,MISS Jackson 20' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49230,21500391,5,0:00,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49231,21500391,5,0:00,nan,nan,116 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+49232,21500391,6,5:00,nan,nan,116 - 116,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+49233,21500391,6,5:00,Jump Ball Gasol vs. Drummond: Tip to Ilyasova,nan,nan,2200,Pau Gasol,CHI,203083,Andre Drummond,DET,101141,Ersan Ilyasova,DET,Jump Ball ,nan
+49234,21500391,6,4:44,nan,MISS Marc Morris 24' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49235,21500391,6,4:43,Gasol REBOUND (Off:2 Def:7),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49236,21500391,6,4:25,Butler  Dunk (24 PTS),nan,116 - 118,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49237,21500391,6,4:07,nan,Ilyasova Traveling Turnover (P2.T10),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Turnover ,Traveling
+49238,21500391,6,3:49,MISS Snell  3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49239,21500391,6,3:48,Gasol REBOUND (Off:3 Def:7),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49240,21500391,6,3:32,MISS Rose 6' Floating Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49241,21500391,6,3:31,Gibson REBOUND (Off:5 Def:5),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49242,21500391,6,3:16,MISS Rose 9' Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49243,21500391,6,3:16,Gasol REBOUND (Off:4 Def:7),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49244,21500391,6,3:16,nan,Ilyasova S.FOUL (P4.T1) (G.Zielinski),nan,101141,Ersan Ilyasova,DET,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Shooting
+49245,21500391,6,3:16,MISS Gasol Free Throw 1 of 2,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49246,21500391,6,3:16,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49247,21500391,6,3:16,Gasol Free Throw 2 of 2 (30 PTS),nan,116 - 119,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49248,21500391,6,3:05,Butler S.FOUL (P4.T1) (G.Zielinski),nan,nan,202710,Jimmy Butler,CHI,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+49249,21500391,6,3:05,nan,MISS Drummond Free Throw 1 of 2,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49250,21500391,6,3:05,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49251,21500391,6,3:05,nan,Drummond Free Throw 2 of 2 (27 PTS),117 - 119,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49252,21500391,6,2:50,MISS Butler 16' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49253,21500391,6,2:49,nan,Caldwell-Pope REBOUND (Off:1 Def:6),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49254,21500391,6,2:41,nan,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49255,21500391,6,2:39,Gibson REBOUND (Off:5 Def:6),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49256,21500391,6,2:20,Rose Offensive Charge Foul (P3.T2) (S.Anderson),nan,nan,201565,Derrick Rose,CHI,101141,Ersan Ilyasova,DET,0,nan,nan,Foul ,Offensive Charge
+49257,21500391,6,2:20,Rose Foul Turnover (P3.T16),nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+49258,21500391,6,2:04,Gasol BLOCK (4 BLK),MISS Drummond 3' Layup,nan,203083,Andre Drummond,DET,0,nan,nan,2200,Pau Gasol,CHI,Missed Shot ,nan
+49259,21500391,6,2:02,Gasol REBOUND (Off:4 Def:8),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49260,21500391,6,1:43,MISS Gasol 2' Layup,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49261,21500391,6,1:41,Gasol REBOUND (Off:5 Def:8),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49262,21500391,6,1:41,MISS Gasol 2' Putback Layup,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49263,21500391,6,1:41,Gibson REBOUND (Off:6 Def:6),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49264,21500391,6,1:41,nan,Jackson P.FOUL (P4.T2) (J.Capers),nan,202704,Reggie Jackson,DET,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Personal
+49265,21500391,6,1:33,MISS Rose 7' Jump Shot,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49266,21500391,6,1:33,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49267,21500391,6,1:28,Butler 20' Jump Shot (26 PTS),nan,117 - 121,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49268,21500391,6,1:18,nan,Marc Morris 25' 3PT Jump Shot (18 PTS) (Jackson 11 AST),120 - 121,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49269,21500391,6,0:56,Butler 19' Fadeaway Jumper (28 PTS),nan,120 - 123,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49270,21500391,6,0:36,nan,Caldwell-Pope 26' 3PT Jump Shot (14 PTS) (Ilyasova 4 AST),123 - 123,203484,Kentavious Caldwell-Pope,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Made Shot ,nan
+49271,21500391,6,0:36,nan,nan,nan,703,Kurt Thomas,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+49272,21500391,6,0:36,BULLS Timeout: Regular (Full 7 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49273,21500391,6,0:15,MISS Butler 10' Jump Shot,Marc Morris BLOCK (1 BLK),nan,202710,Jimmy Butler,CHI,0,nan,nan,202694,Marcus Morris,DET,Missed Shot ,nan
+49274,21500391,6,0:13,Butler REBOUND (Off:1 Def:4),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49275,21500391,6,0:12,MISS Butler 12' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49276,21500391,6,0:10,nan,Drummond REBOUND (Off:6 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49277,21500391,6,0:02,nan,MISS Jackson 4' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49278,21500391,6,0:01,Gasol REBOUND (Off:5 Def:9),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49279,21500391,6,0:00,MISS Snell 88' 3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49280,21500391,6,0:00,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49281,21500391,6,0:00,nan,nan,123 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+49282,21500391,7,5:00,nan,nan,123 - 123,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+49283,21500391,7,5:00,Jump Ball Gasol vs. Drummond: Tip to Marc Morris,nan,nan,2200,Pau Gasol,CHI,203083,Andre Drummond,DET,202694,Marcus Morris,DET,Jump Ball ,nan
+49284,21500391,7,4:43,nan,MISS Ilyasova 26' 3PT Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49285,21500391,7,4:42,Snell REBOUND (Off:0 Def:3),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49286,21500391,7,4:24,nan,Caldwell-Pope P.FOUL (P5.T1) (G.Zielinski),nan,203484,Kentavious Caldwell-Pope,DET,203503,Tony Snell,CHI,0,nan,nan,Foul ,Personal
+49287,21500391,7,4:17,MISS Rose 3' Layup,Drummond BLOCK (2 BLK),nan,201565,Derrick Rose,CHI,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+49288,21500391,7,4:15,nan,Jackson REBOUND (Off:0 Def:3),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49289,21500391,7,4:09,nan,MISS Ilyasova 15' Jump Shot,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49290,21500391,7,4:08,Butler REBOUND (Off:1 Def:5),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49291,21500391,7,3:59,Butler 1' Driving Layup (30 PTS),nan,123 - 125,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49292,21500391,7,3:31,nan,MISS Caldwell-Pope 26' 3PT Jump Shot,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49293,21500391,7,3:29,nan,Drummond REBOUND (Off:7 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49294,21500391,7,3:29,nan,MISS Drummond 2' Tip Layup Shot,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49295,21500391,7,3:28,Butler REBOUND (Off:1 Def:6),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49296,21500391,7,3:12,MISS Butler 14' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49297,21500391,7,3:12,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49298,21500391,7,2:52,nan,MISS Marc Morris 17' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49299,21500391,7,2:50,Rose REBOUND (Off:0 Def:4),nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49300,21500391,7,2:37,Rose 10' Jump Shot (32 PTS),nan,123 - 127,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49301,21500391,7,2:37,nan,Pistons Timeout: Short (Reg.6 Short 3),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49302,21500391,7,2:20,nan,MISS Jackson 25' 3PT Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49303,21500391,7,2:20,nan,Drummond REBOUND (Off:8 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49304,21500391,7,2:19,nan,Drummond  Putback Dunk (29 PTS),125 - 127,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49305,21500391,7,2:00,MISS Butler 2' Layup,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49306,21500391,7,1:59,nan,Ilyasova REBOUND (Off:3 Def:5),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49307,21500391,7,1:46,nan,MISS Drummond 7' Jump Shot,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49308,21500391,7,1:46,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49309,21500391,7,1:46,Butler L.B.FOUL (P5.T1) (J.Capers),nan,nan,202710,Jimmy Butler,CHI,101141,Ersan Ilyasova,DET,0,nan,nan,Foul ,Loose Ball
+49310,21500391,7,1:36,nan,Drummond 1' Layup (31 PTS) (Jackson 12 AST),127 - 127,203083,Andre Drummond,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49311,21500391,7,1:22,MISS Gasol 19' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49312,21500391,7,1:21,Snell REBOUND (Off:1 Def:3),nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49313,21500391,7,1:18,MISS Snell 25' 3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49314,21500391,7,1:17,Gasol REBOUND (Off:6 Def:9),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49315,21500391,7,1:07,nan,Drummond Violation:Kicked Ball (.),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+49316,21500391,7,1:07,BULLS Timeout: Short (Full 7 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49317,21500391,7,1:02,Rose Bad Pass Turnover (P4.T17),Drummond STEAL (3 STL),nan,201565,Derrick Rose,CHI,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+49318,21500391,7,0:44,nan,MISS Drummond 1' Layup,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49319,21500391,7,0:44,nan,Drummond REBOUND (Off:9 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49320,21500391,7,0:44,nan,MISS Drummond 1' Tip Layup Shot,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49321,21500391,7,0:43,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49322,21500391,7,0:28,MISS Snell  3PT Jump Shot,nan,nan,203503,Tony Snell,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49323,21500391,7,0:28,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49324,21500391,7,0:28,nan,Ilyasova L.B.FOUL (P5.T2) (J.Capers),nan,101141,Ersan Ilyasova,DET,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Loose Ball
+49325,21500391,7,0:28,BULLS Timeout: Regular (Full 8 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49326,21500391,7,0:28,nan,SUB: Johnson FOR Ilyasova,nan,101141,Ersan Ilyasova,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+49327,21500391,7,0:28,SUB: Mirotic FOR Snell,nan,nan,203503,Tony Snell,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+49328,21500391,7,0:28,SUB: McDermott FOR Gibson,nan,nan,201959,Taj Gibson,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+49329,21500391,7,0:06,MISS Gasol  3PT Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49330,21500391,7,0:04,nan,Jackson REBOUND (Off:0 Def:4),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49331,21500391,7,0:00,nan,MISS Jackson 21' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49332,21500391,7,0:00,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49333,21500391,7,0:00,nan,nan,127 - 127,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+49334,21500391,8,5:00,nan,nan,127 - 127,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+49335,21500391,8,5:00,Jump Ball Gasol vs. Drummond: Tip to Ilyasova,nan,nan,2200,Pau Gasol,CHI,203083,Andre Drummond,DET,101141,Ersan Ilyasova,DET,Jump Ball ,nan
+49336,21500391,8,4:44,nan,MISS Ilyasova 2' Layup,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49337,21500391,8,4:43,nan,Drummond REBOUND (Off:10 Def:11),nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49338,21500391,8,4:43,nan,Drummond  Putback Dunk (33 PTS),129 - 127,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49339,21500391,8,4:18,MISS Gasol 7' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49340,21500391,8,4:17,nan,Marc Morris REBOUND (Off:2 Def:5),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49341,21500391,8,4:07,nan,Jackson 3' Driving Layup (20 PTS),131 - 127,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49342,21500391,8,3:53,MISS Gasol 21' Jump Shot,nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49343,21500391,8,3:52,nan,Jackson REBOUND (Off:0 Def:5),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49344,21500391,8,3:37,nan,Jackson 10' Floating Jump Shot (22 PTS),133 - 127,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49345,21500391,8,3:37,Rose S.FOUL (P4.T1) (J.Capers),nan,nan,201565,Derrick Rose,CHI,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+49346,21500391,8,3:37,nan,Jackson Free Throw 1 of 1 (23 PTS),134 - 127,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+49347,21500391,8,3:24,Rose 7' Jump Shot (34 PTS),nan,134 - 129,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49348,21500391,8,3:02,Rose S.FOUL (P5.T2) (S.Anderson),nan,nan,201565,Derrick Rose,CHI,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+49349,21500391,8,3:02,nan,Jackson Free Throw 1 of 3 (24 PTS),135 - 129,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+49350,21500391,8,3:02,nan,MISS Jackson Free Throw 2 of 3,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+49351,21500391,8,3:02,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49352,21500391,8,3:02,nan,Jackson Free Throw 3 of 3 (25 PTS),136 - 129,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+49353,21500391,8,2:46,Butler 2' Layup (32 PTS),nan,136 - 131,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49354,21500391,8,2:30,Rose STEAL (1 STL),Jackson Bad Pass Turnover (P2.T11),nan,202704,Reggie Jackson,DET,201565,Derrick Rose,CHI,0,nan,nan,Turnover ,Bad Pass
+49355,21500391,8,2:26,Butler 2' Running Layup (34 PTS) (Rose 7 AST),nan,136 - 133,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+49356,21500391,8,2:07,nan,Jackson 10' Jump Shot (27 PTS),138 - 133,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49357,21500391,8,1:54,Butler 18' Jump Shot (36 PTS),nan,138 - 135,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+49358,21500391,8,1:38,nan,Caldwell-Pope 25' 3PT Jump Shot (17 PTS) (Marc Morris 2 AST),141 - 135,203484,Kentavious Caldwell-Pope,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+49359,21500391,8,1:38,BULLS Timeout: Regular (Full 9 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49360,21500391,8,1:38,SUB: Mirotic FOR Gibson,nan,nan,201959,Taj Gibson,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+49361,21500391,8,1:38,nan,SUB: Johnson FOR Ilyasova,nan,101141,Ersan Ilyasova,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+49362,21500391,8,1:34,Butler 2' Layup (38 PTS) (Gasol 5 AST),nan,141 - 137,202710,Jimmy Butler,CHI,2200,Pau Gasol,CHI,0,nan,nan,Made Shot ,nan
+49363,21500391,8,1:18,nan,Marc Morris 15' Jump Shot (20 PTS) (Jackson 13 AST),143 - 137,202694,Marcus Morris,DET,202704,Reggie Jackson,DET,0,nan,nan,Made Shot ,nan
+49364,21500391,8,1:10,nan,Marc Morris P.FOUL (P6.T1) (J.Capers),nan,202694,Marcus Morris,DET,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+49365,21500391,8,1:10,nan,SUB: Ilyasova FOR Marc Morris,nan,202694,Marcus Morris,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+49366,21500391,8,1:07,nan,Drummond S.FOUL (P6.PN) (G.Zielinski),nan,203083,Andre Drummond,DET,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+49367,21500391,8,1:07,SUB: Gibson FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+49368,21500391,8,1:07,nan,SUB: Anthony FOR Drummond,nan,203083,Andre Drummond,DET,201202,Joel Anthony,DET,0,nan,nan,Substitution ,nan
+49369,21500391,8,1:07,Butler Free Throw 1 of 2 (39 PTS),nan,143 - 138,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49370,21500391,8,1:07,Butler Free Throw 2 of 2 (40 PTS),nan,143 - 139,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49371,21500391,8,0:54,nan,Jackson 2' Driving Layup (29 PTS),145 - 139,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+49372,21500391,8,0:54,BULLS Timeout: Short (Full 9 Short 2),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49373,21500391,8,0:54,SUB: Mirotic FOR Gibson,nan,nan,201959,Taj Gibson,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+49374,21500391,8,0:52,nan,Johnson P.FOUL (P6.PN) (G.Zielinski),nan,1626169,Stanley Johnson,DET,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Personal
+49375,21500391,8,0:52,nan,SUB: Blake FOR Johnson,nan,1626169,Stanley Johnson,DET,2581,Steve Blake,DET,0,nan,nan,Substitution ,nan
+49376,21500391,8,0:52,Mirotic Free Throw 1 of 2 (4 PTS),nan,145 - 140,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49377,21500391,8,0:52,Mirotic Free Throw 2 of 2 (5 PTS),nan,145 - 141,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49378,21500391,8,0:29,Butler BLOCK (2 BLK),MISS Jackson 6' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,202710,Jimmy Butler,CHI,Missed Shot ,nan
+49379,21500391,8,0:27,nan,Jackson REBOUND (Off:1 Def:5),nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49380,21500391,8,0:25,Gasol BLOCK (5 BLK),MISS Jackson 4' Jump Shot,nan,202704,Reggie Jackson,DET,0,nan,nan,2200,Pau Gasol,CHI,Missed Shot ,nan
+49381,21500391,8,0:23,Butler REBOUND (Off:1 Def:7),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49382,21500391,8,0:19,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49383,21500391,8,0:17,nan,Ilyasova REBOUND (Off:3 Def:6),nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49384,21500391,8,0:17,Gasol Personal Take Foul (P5.T3) (S.Anderson),nan,nan,2200,Pau Gasol,CHI,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal Take
+49385,21500391,8,0:15,Snell Personal Take Foul (P5.PN) (J.Capers),nan,nan,203503,Tony Snell,CHI,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Personal Take
+49386,21500391,8,0:15,nan,MISS Caldwell-Pope Free Throw 1 of 2,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49387,21500391,8,0:15,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+49388,21500391,8,0:15,nan,SUB: Tolliver FOR Anthony,nan,201202,Joel Anthony,DET,201229,Anthony Tolliver,DET,0,nan,nan,Substitution ,nan
+49389,21500391,8,0:15,nan,MISS Caldwell-Pope Free Throw 2 of 2,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49390,21500391,8,0:13,Mirotic REBOUND (Off:0 Def:5),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49391,21500391,8,0:04,Butler 24' 3PT Jump Shot (43 PTS) (Rose 8 AST),nan,145 - 144,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+49392,21500391,8,0:04,Mirotic Personal Take Foul (P3.PN) (S.Anderson),nan,nan,202703,Nikola Mirotic,CHI,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal Take
+49393,21500391,8,0:04,nan,Jackson Free Throw 1 of 2 (30 PTS),146 - 144,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49394,21500391,8,0:04,SUB: Noah FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,201149,Joakim Noah,CHI,0,nan,nan,Substitution ,nan
+49395,21500391,8,0:04,nan,Jackson Free Throw 2 of 2 (31 PTS),147 - 144,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49396,21500391,8,0:04,BULLS Timeout: Short (Full 9 Short 3),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49397,21500391,8,0:04,SUB: Mirotic FOR Noah,nan,nan,201149,Joakim Noah,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+49398,21500391,8,0:01,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49399,21500391,8,0:00,nan,Blake REBOUND (Off:1 Def:2),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49400,21500391,8,0:00,nan,nan,147 - 144,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

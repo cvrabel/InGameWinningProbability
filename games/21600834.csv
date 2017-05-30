@@ -1,0 +1,107 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+256254,21600834,4,12:00,nan,nan,85 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+256255,21600834,4,11:50,Hezonja BLOCK (1 BLK),MISS Anderson 8' Jump Shot,nan,203937,Kyle Anderson,SAS,0,nan,nan,1626209,Mario Hezonja,ORL,Missed Shot ,nan
+256256,21600834,4,11:48,Green REBOUND (Off:0 Def:2),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256257,21600834,4,11:32,Payton Bad Pass Turnover (P3.T16),Bertans STEAL (1 STL),nan,203901,Elfrid Payton,ORL,202722,Davis Bertans,SAS,0,nan,nan,Turnover ,Bad Pass
+256258,21600834,4,11:19,nan,Anderson 8' Pullup Bank Shot (2 PTS),87 - 64,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+256259,21600834,4,10:56,Augustin 25' 3PT Jump Shot (6 PTS) (Payton 3 AST),nan,87 - 67,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Made Shot ,nan
+256260,21600834,4,10:32,nan,MISS Bertans 26' 3PT Jump Shot,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256261,21600834,4,10:31,Green REBOUND (Off:0 Def:3),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256262,21600834,4,10:25,MISS Payton 3' Running Layup,Dedmon BLOCK (1 BLK),nan,203901,Elfrid Payton,ORL,0,nan,nan,203473,Dewayne Dedmon,SAS,Missed Shot ,nan
+256263,21600834,4,10:25,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256264,21600834,4,10:25,nan,SUB: Parker FOR Mills,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+256265,21600834,4,10:13,nan,Anderson P.FOUL (P1.T1) (M.Smith),nan,203937,Kyle Anderson,SAS,201145,Jeff Green,ORL,0,nan,nan,Foul ,Personal
+256266,21600834,4,10:10,MISS Hezonja 18' Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256267,21600834,4,10:08,nan,Dedmon REBOUND (Off:1 Def:8),nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256268,21600834,4,9:58,nan,MISS Simmons 25' 3PT Jump Shot,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256269,21600834,4,9:57,Augustin REBOUND (Off:0 Def:1),nan,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256270,21600834,4,9:48,nan,Bertans Shooting Block Foul (P2.T2) (S.Wright),nan,202722,Davis Bertans,SAS,201145,Jeff Green,ORL,0,nan,nan,Foul ,Shooting Block
+256271,21600834,4,9:48,Green Free Throw 1 of 2 (10 PTS),nan,87 - 68,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256272,21600834,4,9:48,Green Free Throw 2 of 2 (11 PTS),nan,87 - 69,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256273,21600834,4,9:27,nan,Simmons 2' Driving Finger Roll Layup (2 PTS),89 - 69,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+256274,21600834,4,9:08,MISS Payton 26' 3PT Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256275,21600834,4,9:06,nan,Dedmon REBOUND (Off:1 Def:9),nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256276,21600834,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+256277,21600834,4,8:47,SUB: Vucevic FOR Payton,nan,nan,203901,Elfrid Payton,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+256278,21600834,4,8:47,SUB: Fournier FOR Biyombo,nan,nan,202687,Bismack Biyombo,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+256279,21600834,4,8:45,nan,MISS Bertans 25' 3PT Jump Shot,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256280,21600834,4,8:44,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256281,21600834,4,8:44,Fournier L.B.FOUL (P2.T1) (S.Wright),nan,nan,203095,Evan Fournier,ORL,203473,Dewayne Dedmon,SAS,0,nan,nan,Foul ,Loose Ball
+256282,21600834,4,8:37,nan,Dedmon  Alley Oop Dunk (10 PTS) (Parker 8 AST),91 - 69,203473,Dewayne Dedmon,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+256283,21600834,4,8:23,MISS Vucevic 9' Turnaround Hook Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256284,21600834,4,8:20,nan,Anderson REBOUND (Off:0 Def:2),nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256285,21600834,4,8:08,Fournier P.FOUL (P3.T2) (E.Dalen),nan,nan,203095,Evan Fournier,ORL,203473,Dewayne Dedmon,SAS,0,nan,nan,Foul ,Personal
+256286,21600834,4,7:56,nan,MISS Bertans 5' Driving Hook Shot,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256287,21600834,4,7:55,nan,Dedmon REBOUND (Off:2 Def:9),nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256288,21600834,4,7:53,nan,MISS Dedmon 5' Turnaround Hook Shot,nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256289,21600834,4,7:52,Hezonja REBOUND (Off:0 Def:1),nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256290,21600834,4,7:40,MISS Hezonja 2' Driving Layup,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256291,21600834,4,7:38,nan,Simmons REBOUND (Off:0 Def:4),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256292,21600834,4,7:24,nan,Dedmon Traveling Turnover (P1.T12),nan,203473,Dewayne Dedmon,SAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+256293,21600834,4,7:09,Augustin Bad Pass Turnover (P2.T17),Parker STEAL (2 STL),nan,201571,D.J. Augustin,ORL,2225,Tony Parker,SAS,0,nan,nan,Turnover ,Bad Pass
+256294,21600834,4,6:51,nan,MISS Parker 25' 3PT Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256295,21600834,4,6:51,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256296,21600834,4,6:51,SUB: Gordon FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+256297,21600834,4,6:40,MISS Vucevic 17' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256298,21600834,4,6:38,nan,Anderson REBOUND (Off:0 Def:3),nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256299,21600834,4,6:27,nan,MISS Bertans 25' 3PT Jump Shot,nan,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256300,21600834,4,6:26,nan,Anderson REBOUND (Off:1 Def:3),nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256301,21600834,4,6:26,nan,Anderson 2' Putback Layup (4 PTS),93 - 69,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+256302,21600834,4,6:26,Gordon S.FOUL (P1.T3) (M.Smith),nan,nan,203932,Aaron Gordon,ORL,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Shooting
+256303,21600834,4,6:26,nan,SUB: Murray FOR Parker,nan,2225,Tony Parker,SAS,1627749,Dejounte Murray,SAS,0,nan,nan,Substitution ,nan
+256304,21600834,4,6:26,nan,Anderson Free Throw 1 of 1 (5 PTS),94 - 69,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+256305,21600834,4,6:11,Vucevic 3' Layup (16 PTS) (Green 2 AST),nan,94 - 71,202696,Nikola Vucevic,ORL,201145,Jeff Green,ORL,0,nan,nan,Made Shot ,nan
+256306,21600834,4,5:47,nan,MISS Anderson 25' 3PT Jump Shot,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256307,21600834,4,5:46,nan,Murray REBOUND (Off:1 Def:0),nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256308,21600834,4,5:40,nan,Anderson 25' 3PT Jump Shot (8 PTS) (Bertans 1 AST),97 - 71,203937,Kyle Anderson,SAS,202722,Davis Bertans,SAS,0,nan,nan,Made Shot ,nan
+256309,21600834,4,5:40,MAGIC Timeout: Regular (Full 5 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256310,21600834,4,5:40,nan,SUB: Anthony FOR Dedmon,nan,203473,Dewayne Dedmon,SAS,201202,Joel Anthony,SAS,0,nan,nan,Substitution ,nan
+256311,21600834,4,5:21,MISS Fournier 16' Pullup Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256312,21600834,4,5:20,nan,Anderson REBOUND (Off:1 Def:4),nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256313,21600834,4,5:03,nan,MISS Murray 8' Floating Jump Shot,nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256314,21600834,4,5:02,Gordon REBOUND (Off:2 Def:4),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256315,21600834,4,4:56,MISS Gordon 3' Running Layup,Murray BLOCK (1 BLK),nan,203932,Aaron Gordon,ORL,0,nan,nan,1627749,Dejounte Murray,SAS,Missed Shot ,nan
+256316,21600834,4,4:54,nan,Anthony REBOUND (Off:0 Def:1),nan,201202,Joel Anthony,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256317,21600834,4,4:44,nan,MISS Simmons 24' 3PT Jump Shot,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256318,21600834,4,4:42,Vucevic REBOUND (Off:1 Def:9),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256319,21600834,4,4:33,MISS Green 25' 3PT Jump Shot,nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256320,21600834,4,4:31,nan,Murray REBOUND (Off:1 Def:1),nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256321,21600834,4,4:13,nan,MISS Anderson 24' 3PT Jump Shot,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256322,21600834,4,4:11,Fournier REBOUND (Off:0 Def:5),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256323,21600834,4,4:01,MISS Vucevic 13' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256324,21600834,4,3:59,nan,Murray REBOUND (Off:1 Def:2),nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256325,21600834,4,3:57,Fournier Personal Take Foul (P4.T4) (S.Wright),nan,nan,203095,Evan Fournier,ORL,1627749,Dejounte Murray,SAS,0,nan,nan,Foul ,Personal Take
+256326,21600834,4,3:57,SUB: Hezonja FOR Gordon,nan,nan,203932,Aaron Gordon,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+256327,21600834,4,3:57,SUB: Zimmerman FOR Green,nan,nan,201145,Jeff Green,ORL,1627757,Stephen Zimmerman,ORL,0,nan,nan,Substitution ,nan
+256328,21600834,4,3:57,SUB: Payton FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+256329,21600834,4,3:57,SUB: Rudez FOR Fournier,nan,nan,203095,Evan Fournier,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Substitution ,nan
+256330,21600834,4,3:42,nan,Murray 9' Pullup Bank Shot (2 PTS),99 - 71,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+256331,21600834,4,3:22,MISS Hezonja 3' Driving Layup,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256332,21600834,4,3:21,nan,Simmons REBOUND (Off:0 Def:5),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256333,21600834,4,3:12,Zimmerman S.FOUL (P1.PN) (E.Dalen),nan,nan,1627757,Stephen Zimmerman,ORL,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+256334,21600834,4,3:12,nan,Simmons Free Throw 1 of 2 (3 PTS),100 - 71,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256335,21600834,4,3:12,nan,Simmons Free Throw 2 of 2 (4 PTS),101 - 71,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256336,21600834,4,2:59,Hezonja 2' Driving Finger Roll Layup (4 PTS) (Zimmerman 1 AST),nan,101 - 73,1626209,Mario Hezonja,ORL,1627757,Stephen Zimmerman,ORL,0,nan,nan,Made Shot ,nan
+256337,21600834,4,2:40,nan,MISS Simmons 25' 3PT Jump Shot,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256338,21600834,4,2:38,Zimmerman REBOUND (Off:0 Def:1),nan,nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256339,21600834,4,2:27,MISS Zimmerman 6' Running Jump Shot,Anthony BLOCK (1 BLK),nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,201202,Joel Anthony,SAS,Missed Shot ,nan
+256340,21600834,4,2:26,nan,Murray REBOUND (Off:1 Def:3),nan,1627749,Dejounte Murray,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256341,21600834,4,2:20,Rudez P.FOUL (P1.PN) (M.Smith),nan,nan,204014,Damjan Rudez,ORL,202722,Davis Bertans,SAS,0,nan,nan,Foul ,Personal
+256342,21600834,4,2:20,nan,Spurs Timeout: Regular (Reg.4 Short 0),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+256343,21600834,4,2:20,nan,Bertans Free Throw 1 of 2 (4 PTS),102 - 73,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256344,21600834,4,2:20,nan,Bertans Free Throw 2 of 2 (5 PTS),103 - 73,202722,Davis Bertans,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256345,21600834,4,2:04,Hezonja 20' Pullup Jump Shot (6 PTS),nan,103 - 75,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256346,21600834,4,1:42,nan,MISS Simmons 26' 3PT Jump Shot,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256347,21600834,4,1:41,nan,Anthony REBOUND (Off:1 Def:1),nan,201202,Joel Anthony,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256348,21600834,4,1:19,Payton S.FOUL (P2.PN) (S.Wright),nan,nan,203901,Elfrid Payton,ORL,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+256349,21600834,4,1:19,nan,Simmons Free Throw 1 of 2 (5 PTS),104 - 75,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+256350,21600834,4,1:19,nan,Simmons Free Throw 2 of 2 (6 PTS),105 - 75,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+256351,21600834,4,1:03,MISS Hezonja 25' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256352,21600834,4,1:02,nan,Anderson REBOUND (Off:1 Def:5),nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256353,21600834,4,0:42,Hezonja STEAL (1 STL),Murray Lost Ball Turnover (P1.T13),nan,1627749,Dejounte Murray,SAS,1626209,Mario Hezonja,ORL,0,nan,nan,Turnover ,Lost Ball
+256354,21600834,4,0:39,Hezonja  Running Dunk (8 PTS),nan,105 - 77,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256355,21600834,4,0:19,nan,Simmons 3' Driving Layup (8 PTS),107 - 77,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+256356,21600834,4,0:13,MISS Payton 6' Running Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+256357,21600834,4,0:10,Payton REBOUND (Off:1 Def:2),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+256358,21600834,4,0:10,Payton 2' Putback Layup (7 PTS),nan,107 - 79,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+256359,21600834,4,0:00,nan,nan,107 - 79,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

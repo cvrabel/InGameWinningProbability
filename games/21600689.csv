@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+238118,21600689,4,12:00,nan,nan,75 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+238119,21600689,4,11:45,Crabbe S.FOUL (P1.T1) (M.McCutchen),nan,nan,203459,Allen Crabbe,POR,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Shooting
+238120,21600689,4,11:45,nan,Clarkson Free Throw 1 of 2 (19 PTS),76 - 83,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238121,21600689,4,11:45,nan,Clarkson Free Throw 2 of 2 (20 PTS),77 - 83,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238122,21600689,4,11:34,Crabbe 19' Jump Shot (8 PTS) (McCollum 4 AST),nan,77 - 85,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Made Shot ,nan
+238123,21600689,4,11:11,nan,MISS Clarkson 3' Driving Layup,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238124,21600689,4,11:10,Crabbe REBOUND (Off:0 Def:4),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238125,21600689,4,11:04,MISS Aminu 2' Running Layup,Deng BLOCK (1 BLK),nan,202329,Al-Farouq Aminu,POR,0,nan,nan,2736,Luol Deng,LAL,Missed Shot ,nan
+238126,21600689,4,11:04,nan,Young REBOUND (Off:0 Def:2),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238127,21600689,4,10:57,nan,MISS Young 20' Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238128,21600689,4,10:56,Leonard REBOUND (Off:1 Def:3),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238129,21600689,4,10:45,McCollum 9' Driving Floating Jump Shot (19 PTS),nan,77 - 87,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+238130,21600689,4,10:44,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238131,21600689,4,10:33,nan,MISS Williams 21' Pullup Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238132,21600689,4,10:32,Leonard REBOUND (Off:1 Def:4),nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238133,21600689,4,10:23,MISS Leonard  Cutting Dunk Shot,nan,nan,203086,Meyers Leonard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238134,21600689,4,10:22,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238135,21600689,4,10:06,nan,Williams 25' 3PT Pullup Jump Shot (23 PTS),80 - 87,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+238136,21600689,4,9:52,MISS Connaughton 1' Layup,Zubac BLOCK (3 BLK),nan,1626192,Pat Connaughton,POR,0,nan,nan,1627826,Ivica Zubac,LAL,Missed Shot ,nan
+238137,21600689,4,9:51,nan,Clarkson REBOUND (Off:1 Def:2),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238138,21600689,4,9:47,nan,Williams 26' 3PT Jump Shot (26 PTS) (Clarkson 2 AST),83 - 87,101150,Lou Williams,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Made Shot ,nan
+238139,21600689,4,9:31,Crabbe 21' Jump Shot (10 PTS) (Leonard 1 AST),nan,83 - 89,203459,Allen Crabbe,POR,203086,Meyers Leonard,POR,0,nan,nan,Made Shot ,nan
+238140,21600689,4,9:07,nan,Williams 25' 3PT Pullup Jump Shot (29 PTS),86 - 89,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+238141,21600689,4,9:06,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238142,21600689,4,9:06,SUB: Turner FOR McCollum,nan,nan,203468,CJ McCollum,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+238143,21600689,4,9:06,SUB: Lillard FOR Connaughton,nan,nan,1626192,Pat Connaughton,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+238144,21600689,4,9:06,nan,SUB: Calderon FOR Clarkson,nan,203903,Jordan Clarkson,LAL,101181,Jose Calderon,LAL,0,nan,nan,Substitution ,nan
+238145,21600689,4,8:48,MISS Turner 15' Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238146,21600689,4,8:47,nan,Zubac REBOUND (Off:3 Def:5),nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238147,21600689,4,8:40,Turner S.FOUL (P1.T2) (B.Nansel),nan,nan,202323,Evan Turner,POR,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+238148,21600689,4,8:40,nan,Williams Free Throw 1 of 2 (30 PTS),87 - 89,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+238149,21600689,4,8:40,nan,Williams Free Throw 2 of 2 (31 PTS),88 - 89,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+238150,21600689,4,8:30,MISS Lillard 18' Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238151,21600689,4,8:29,nan,Calderon REBOUND (Off:0 Def:1),nan,101181,Jose Calderon,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238152,21600689,4,8:23,nan,MISS Williams 25' 3PT Pullup Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238153,21600689,4,8:22,nan,Zubac REBOUND (Off:4 Def:5),nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238154,21600689,4,8:22,Leonard P.FOUL (P1.T3) (C.Kirkland),nan,nan,203086,Meyers Leonard,POR,1627826,Ivica Zubac,LAL,0,nan,nan,Foul ,Personal
+238155,21600689,4,8:22,SUB: Plumlee FOR Leonard,nan,nan,203086,Meyers Leonard,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+238156,21600689,4,8:03,nan,MISS Williams 3' Driving Finger Roll Layup,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238157,21600689,4,8:03,Aminu REBOUND (Off:1 Def:4),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238158,21600689,4,7:53,MISS Aminu 25' 3PT Jump Shot,nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238159,21600689,4,7:52,nan,Young REBOUND (Off:0 Def:3),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238160,21600689,4,7:30,nan,MISS Zubac 8' Turnaround Hook Shot,nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238161,21600689,4,7:29,Lillard REBOUND (Off:0 Def:3),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238162,21600689,4,7:18,MISS Plumlee 6' Floating Jump Shot,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238163,21600689,4,7:16,nan,Deng REBOUND (Off:0 Def:5),nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238164,21600689,4,7:04,Aminu BLOCK (1 BLK),MISS Zubac 3' Jump Shot,nan,1627826,Ivica Zubac,LAL,0,nan,nan,202329,Al-Farouq Aminu,POR,Missed Shot ,nan
+238165,21600689,4,7:03,Lillard REBOUND (Off:0 Def:4),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238166,21600689,4,6:56,MISS Lillard 15' Driving Floating Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238167,21600689,4,6:55,nan,Calderon REBOUND (Off:0 Def:2),nan,101181,Jose Calderon,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238168,21600689,4,6:48,Plumlee STEAL (2 STL),Young Bad Pass Turnover (P1.T15),nan,201156,Nick Young,LAL,203486,Mason Plumlee,POR,0,nan,nan,Turnover ,Bad Pass
+238169,21600689,4,6:40,Crabbe 17' Pullup Jump Shot (12 PTS),nan,88 - 91,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+238170,21600689,4,6:38,nan,Lakers Timeout: Regular (Reg.5 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238171,21600689,4,6:38,nan,SUB: Randle FOR Zubac,nan,1627826,Ivica Zubac,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+238172,21600689,4,6:38,nan,SUB: Nance Jr. FOR Williams,nan,101150,Lou Williams,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Substitution ,nan
+238173,21600689,4,6:23,nan,Young 24' 3PT Pullup Jump Shot (12 PTS) (Nance Jr. 1 AST),91 - 91,201156,Nick Young,LAL,1626204,Larry Nance Jr.,LAL,0,nan,nan,Made Shot ,nan
+238174,21600689,4,6:07,nan,Randle P.FOUL (P1.T1) (C.Kirkland),nan,203944,Julius Randle,LAL,203459,Allen Crabbe,POR,0,nan,nan,Foul ,Personal
+238175,21600689,4,5:58,MISS Crabbe 2' Layup,Nance Jr. BLOCK (2 BLK),nan,203459,Allen Crabbe,POR,0,nan,nan,1626204,Larry Nance Jr.,LAL,Missed Shot ,nan
+238176,21600689,4,5:57,nan,Nance Jr. REBOUND (Off:3 Def:1),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238177,21600689,4,5:41,nan,Young 25' 3PT Pullup Jump Shot (15 PTS),94 - 91,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+238178,21600689,4,5:19,MISS Turner 17' Pullup Jump Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238179,21600689,4,5:18,nan,Young REBOUND (Off:0 Def:4),nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238180,21600689,4,4:56,nan,MISS Randle 2' Layup,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238181,21600689,4,4:54,nan,Randle REBOUND (Off:1 Def:4),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238182,21600689,4,4:49,nan,MISS Randle 2' Layup,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238183,21600689,4,4:47,Plumlee REBOUND (Off:0 Def:6),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238184,21600689,4,4:41,nan,Calderon S.FOUL (P2.T2) (C.Kirkland),nan,101181,Jose Calderon,LAL,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+238185,21600689,4,4:41,nan,nan,94 - 91,0,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Altercation Ruling
+238186,21600689,4,4:41,nan,nan,nan,458,Howard Eisley,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+238187,21600689,4,4:41,nan,SUB: Clarkson FOR Calderon,nan,101181,Jose Calderon,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Substitution ,nan
+238188,21600689,4,4:41,Lillard Free Throw 1 of 3 (20 PTS),nan,94 - 92,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+238189,21600689,4,4:41,Lillard Free Throw 2 of 3 (21 PTS),nan,94 - 93,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+238190,21600689,4,4:41,SUB: McCollum FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+238191,21600689,4,4:41,Lillard Free Throw 3 of 3 (22 PTS),nan,94 - 94,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+238192,21600689,4,4:26,nan,MISS Young  3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238193,21600689,4,4:25,Plumlee REBOUND (Off:0 Def:7),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238194,21600689,4,4:14,MISS Lillard 23' Pullup Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238195,21600689,4,4:14,nan,Nance Jr. REBOUND (Off:3 Def:2),nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238196,21600689,4,4:08,nan,MISS Randle 1' Driving Finger Roll Layup,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238197,21600689,4,4:07,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238198,21600689,4,3:53,Lillard Traveling Turnover (P1.T11),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+238199,21600689,4,3:32,nan,MISS Deng 25' 3PT Jump Shot,nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238200,21600689,4,3:32,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238201,21600689,4,3:32,Aminu L.B.FOUL (P1.T4) (C.Kirkland),nan,nan,202329,Al-Farouq Aminu,POR,1626204,Larry Nance Jr.,LAL,0,nan,nan,Foul ,Loose Ball
+238202,21600689,4,3:25,nan,MISS Clarkson 17' Pullup Jump Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238203,21600689,4,3:23,McCollum REBOUND (Off:0 Def:3),nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238204,21600689,4,3:14,McCollum 25' 3PT Step Back Jump Shot (22 PTS),nan,94 - 97,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+238205,21600689,4,2:56,nan,MISS Nance Jr. 2' Layup,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238206,21600689,4,2:56,Plumlee REBOUND (Off:0 Def:8),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238207,21600689,4,2:56,nan,Randle P.FOUL (P2.T3) (M.McCutchen),nan,203944,Julius Randle,LAL,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Personal
+238208,21600689,4,2:56,nan,SUB: Williams FOR Randle,nan,203944,Julius Randle,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+238209,21600689,4,2:40,McCollum 1' Driving Reverse Layup (24 PTS),nan,94 - 99,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+238210,21600689,4,2:27,nan,MISS Nance Jr. 16' Jump Shot,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238211,21600689,4,2:27,Plumlee REBOUND (Off:0 Def:9),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238212,21600689,4,2:08,MISS Plumlee 2' Layup,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238213,21600689,4,2:08,Plumlee REBOUND (Off:1 Def:9),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238214,21600689,4,2:06,MISS Plumlee  Putback Layup,Nance Jr. BLOCK (3 BLK),nan,203486,Mason Plumlee,POR,0,nan,nan,1626204,Larry Nance Jr.,LAL,Missed Shot ,nan
+238215,21600689,4,2:04,nan,Williams REBOUND (Off:0 Def:3),nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238216,21600689,4,2:00,nan,Nance Jr.  Dunk (2 PTS) (Williams 5 AST),96 - 99,1626204,Larry Nance Jr.,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+238217,21600689,4,1:55,Plumlee  Dunk (17 PTS) (Lillard 2 AST),nan,96 - 101,203486,Mason Plumlee,POR,203081,Damian Lillard,POR,0,nan,nan,Made Shot ,nan
+238218,21600689,4,1:55,nan,Lakers Timeout: Regular (Reg.6 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+238219,21600689,4,1:55,nan,SUB: Zubac FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,1627826,Ivica Zubac,LAL,0,nan,nan,Substitution ,nan
+238220,21600689,4,1:43,nan,MISS Williams 7' Floating Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238221,21600689,4,1:42,Aminu REBOUND (Off:1 Def:5),nan,nan,202329,Al-Farouq Aminu,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238222,21600689,4,1:27,MISS Lillard 3' Driving Reverse Layup,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238223,21600689,4,1:26,Plumlee REBOUND (Off:2 Def:9),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238224,21600689,4,1:26,MISS Plumlee 1' Putback Layup,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238225,21600689,4,1:25,nan,Zubac REBOUND (Off:4 Def:6),nan,1627826,Ivica Zubac,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238226,21600689,4,1:18,nan,MISS Williams 25' 3PT Pullup Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238227,21600689,4,1:17,Plumlee REBOUND (Off:2 Def:10),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238228,21600689,4,1:01,nan,Williams P.FOUL (P1.T4) (M.McCutchen),nan,101150,Lou Williams,LAL,202323,Evan Turner,POR,0,nan,nan,Foul ,Personal
+238229,21600689,4,0:48,Lillard 12' Driving Floating Jump Shot (24 PTS),nan,96 - 103,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+238230,21600689,4,0:41,nan,Clarkson 3' Driving Layup (22 PTS),98 - 103,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+238231,21600689,4,0:27,Plumlee  Cutting Dunk Shot (19 PTS) (Aminu 3 AST),nan,98 - 105,203486,Mason Plumlee,POR,202329,Al-Farouq Aminu,POR,0,nan,nan,Made Shot ,nan
+238232,21600689,4,0:13,nan,MISS Deng 20' Jump Shot,nan,2736,Luol Deng,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+238233,21600689,4,0:12,Plumlee REBOUND (Off:2 Def:11),nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+238234,21600689,4,0:00,nan,nan,98 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

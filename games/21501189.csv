@@ -1,0 +1,135 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+147976,21501189,4,12:00,nan,nan,85 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+147977,21501189,4,11:39,Ajinca BLOCK (1 BLK),MISS Budinger 4' Driving Layup,nan,201978,Chase Budinger,PHX,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+147978,21501189,4,11:38,Babbitt REBOUND (Off:0 Def:7),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147979,21501189,4,11:17,MISS Ajinca 17' Jump Shot,nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147980,21501189,4,11:16,Frazier REBOUND (Off:3 Def:2),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147981,21501189,4,11:12,MISS Frazier 14' Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147982,21501189,4,11:11,Ajinca REBOUND (Off:2 Def:1),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147983,21501189,4,11:11,nan,Goodwin L.B.FOUL (P4.T1) (C.Blair),nan,203462,Archie Goodwin,PHX,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Loose Ball
+147984,21501189,4,11:00,Ajinca 3 Second Violation Turnover (P3.T11),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+147985,21501189,4,10:43,nan,MISS Leuer 15' Jump Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147986,21501189,4,10:42,Babbitt REBOUND (Off:0 Def:8),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147987,21501189,4,10:25,MISS Babbitt 3' Layup,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147988,21501189,4,10:24,Ajinca REBOUND (Off:3 Def:1),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147989,21501189,4,10:16,MISS Ennis  3PT Jump Shot,nan,nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147990,21501189,4,10:16,nan,Leuer REBOUND (Off:0 Def:4),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147991,21501189,4,10:03,Hamilton S.FOUL (P2.T1) (D.Guthrie),nan,nan,202706,Jordan Hamilton,NOP,201978,Chase Budinger,PHX,0,nan,nan,Foul ,Shooting
+147992,21501189,4,10:03,nan,Budinger Free Throw 1 of 2 (1 PTS),86 - 67,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+147993,21501189,4,10:03,nan,Budinger Free Throw 2 of 2 (2 PTS),87 - 67,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+147994,21501189,4,10:00,nan,Teletovic P.FOUL (P1.T2) (D.Guthrie),nan,203141,Mirza Teletovic,PHX,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal
+147995,21501189,4,9:55,Frazier 26' 3PT Jump Shot (9 PTS) (Babbitt 2 AST),nan,87 - 70,204025,Tim Frazier,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Made Shot ,nan
+147996,21501189,4,9:40,nan,Leuer 21' Jump Shot (2 PTS) (Budinger 1 AST),89 - 70,202720,Jon Leuer,PHX,201978,Chase Budinger,PHX,0,nan,nan,Made Shot ,nan
+147997,21501189,4,9:28,MISS Hamilton 11' Jump Shot,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147998,21501189,4,9:27,nan,Goodwin REBOUND (Off:0 Def:2),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147999,21501189,4,9:23,nan,Goodwin 1' Running Layup (13 PTS),91 - 70,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+148000,21501189,4,9:23,Babbitt S.FOUL (P4.T2) (S.Wright),nan,nan,202337,Luke Babbitt,NOP,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+148001,21501189,4,9:23,nan,Goodwin Free Throw 1 of 1 (14 PTS),92 - 70,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148002,21501189,4,9:10,MISS Ennis  Dunk,nan,nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148003,21501189,4,9:09,nan,Goodwin REBOUND (Off:0 Def:3),nan,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148004,21501189,4,9:09,Ajinca P.FOUL (P3.T3) (D.Guthrie),nan,nan,201582,Alexis Ajinca,NOP,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Personal
+148005,21501189,4,8:54,nan,Goodwin 24' 3PT Jump Shot (17 PTS) (Jenkins 1 AST),95 - 70,203462,Archie Goodwin,PHX,203098,John Jenkins,PHX,0,nan,nan,Made Shot ,nan
+148006,21501189,4,8:44,Frazier  Driving Layup (11 PTS),nan,95 - 72,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+148007,21501189,4,8:37,Frazier Personal Take Foul (P2.T4) (S.Wright),nan,nan,204025,Tim Frazier,NOP,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Personal Take
+148008,21501189,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+148009,21501189,4,8:37,SUB: Cunningham FOR Ajinca,nan,nan,201582,Alexis Ajinca,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+148010,21501189,4,8:25,nan,Goodwin 25' 3PT Jump Shot (20 PTS) (Teletovic 4 AST),98 - 72,203462,Archie Goodwin,PHX,203141,Mirza Teletovic,PHX,0,nan,nan,Made Shot ,nan
+148011,21501189,4,8:15,MISS Cunningham 19' Jump Shot,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148012,21501189,4,8:14,nan,Leuer REBOUND (Off:0 Def:5),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148013,21501189,4,8:02,Cunningham STEAL (1 STL),Goodwin Bad Pass Turnover (P3.T14),nan,203462,Archie Goodwin,PHX,201967,Dante Cunningham,NOP,0,nan,nan,Turnover ,Bad Pass
+148014,21501189,4,7:56,Ennis 2' Running Layup (16 PTS) (Hamilton 1 AST),nan,98 - 74,203516,James Ennis III,NOP,202706,Jordan Hamilton,NOP,0,nan,nan,Made Shot ,nan
+148015,21501189,4,7:40,Ennis STEAL (3 STL),Budinger Bad Pass Turnover (P1.T15),nan,201978,Chase Budinger,PHX,203516,James Ennis III,NOP,0,nan,nan,Turnover ,Bad Pass
+148016,21501189,4,7:32,MISS Hamilton 2' Layup,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148017,21501189,4,7:31,nan,Leuer REBOUND (Off:0 Def:6),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148018,21501189,4,7:29,nan,MISS Jenkins 24' 3PT Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148019,21501189,4,7:27,nan,Budinger REBOUND (Off:1 Def:0),nan,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148020,21501189,4,7:26,nan,Budinger 2' Layup (4 PTS),100 - 74,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+148021,21501189,4,7:09,MISS Frazier 23' Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148022,21501189,4,7:08,Hamilton REBOUND (Off:1 Def:3),nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148023,21501189,4,7:03,Hamilton 2' Tip Layup Shot (7 PTS),nan,100 - 76,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+148024,21501189,4,6:49,nan,MISS Budinger 25' 3PT Jump Shot,nan,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148025,21501189,4,6:48,Frazier REBOUND (Off:3 Def:3),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148026,21501189,4,6:42,nan,Teletovic P.FOUL (P2.T3) (D.Guthrie),nan,203141,Mirza Teletovic,PHX,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Personal
+148027,21501189,4,6:42,SUB: Douglas FOR Ennis,nan,nan,203516,James Ennis III,NOP,201962,Toney Douglas,NOP,0,nan,nan,Substitution ,nan
+148028,21501189,4,6:30,MISS Hamilton 1' Layup,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148029,21501189,4,6:29,nan,Leuer REBOUND (Off:0 Def:7),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148030,21501189,4,6:25,Hamilton S.FOUL (P3.PN) (C.Blair),nan,nan,202706,Jordan Hamilton,NOP,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+148031,21501189,4,6:25,nan,Goodwin Free Throw 1 of 2 (21 PTS),101 - 76,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148032,21501189,4,6:25,nan,Goodwin Free Throw 2 of 2 (22 PTS),102 - 76,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148033,21501189,4,6:14,Douglas 2' Layup (15 PTS) (Cunningham 2 AST),nan,102 - 78,201962,Toney Douglas,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Made Shot ,nan
+148034,21501189,4,5:59,Douglas STEAL (1 STL),Budinger Bad Pass Turnover (P2.T16),nan,201978,Chase Budinger,PHX,201962,Toney Douglas,NOP,0,nan,nan,Turnover ,Bad Pass
+148035,21501189,4,5:54,Hamilton  Running Layup (9 PTS) (Douglas 5 AST),nan,102 - 80,202706,Jordan Hamilton,NOP,201962,Toney Douglas,NOP,0,nan,nan,Made Shot ,nan
+148036,21501189,4,5:43,Hamilton S.FOUL (P4.PN) (S.Wright),nan,nan,202706,Jordan Hamilton,NOP,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+148037,21501189,4,5:43,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148038,21501189,4,5:43,nan,SUB: Williams FOR Teletovic,nan,203141,Mirza Teletovic,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+148039,21501189,4,5:43,nan,Leuer Free Throw 1 of 2 (3 PTS),103 - 80,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148040,21501189,4,5:43,nan,MISS Leuer Free Throw 2 of 2,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148041,21501189,4,5:42,Cunningham REBOUND (Off:0 Def:1),nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148042,21501189,4,5:27,nan,Jenkins P.FOUL (P1.T4) (S.Wright),nan,203098,John Jenkins,PHX,201967,Dante Cunningham,NOP,0,nan,nan,Foul ,Personal
+148043,21501189,4,5:18,Cunningham 5' Driving Layup (11 PTS) (Frazier 5 AST),nan,103 - 82,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+148044,21501189,4,5:18,nan,Leuer S.FOUL (P1.PN) (D.Guthrie),nan,202720,Jon Leuer,PHX,201967,Dante Cunningham,NOP,0,nan,nan,Foul ,Shooting
+148045,21501189,4,5:18,MISS Cunningham Free Throw 1 of 1,nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148046,21501189,4,5:16,nan,Williams REBOUND (Off:0 Def:1),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148047,21501189,4,4:58,nan,Budinger 2' Driving Layup (6 PTS) (Williams 1 AST),105 - 82,201978,Chase Budinger,PHX,1626210,Alan Williams,PHX,0,nan,nan,Made Shot ,nan
+148048,21501189,4,4:40,MISS Babbitt 2' Layup,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148049,21501189,4,4:39,Babbitt REBOUND (Off:1 Def:8),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148050,21501189,4,4:35,MISS Babbitt  Layup,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148051,21501189,4,4:34,nan,Leuer REBOUND (Off:0 Def:8),nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148052,21501189,4,4:27,nan,Leuer 4' Driving Layup (5 PTS) (Goodwin 3 AST),107 - 82,202720,Jon Leuer,PHX,203462,Archie Goodwin,PHX,0,nan,nan,Made Shot ,nan
+148053,21501189,4,4:27,Cunningham S.FOUL (P1.PN) (C.Blair),nan,nan,201967,Dante Cunningham,NOP,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+148054,21501189,4,4:27,nan,MISS Leuer Free Throw 1 of 1,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148055,21501189,4,4:24,Frazier REBOUND (Off:3 Def:4),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148056,21501189,4,4:21,MISS Hamilton 2' Layup,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148057,21501189,4,4:20,nan,Williams REBOUND (Off:0 Def:2),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148058,21501189,4,4:15,nan,Budinger Out of Bounds - Bad Pass Turnover Turnover (P3.T17),nan,201978,Chase Budinger,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+148059,21501189,4,4:01,Douglas 26' 3PT Jump Shot (18 PTS),nan,107 - 85,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+148060,21501189,4,3:46,nan,Jenkins 2' Driving Layup (4 PTS),109 - 85,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+148061,21501189,4,3:46,Cunningham S.FOUL (P2.PN) (D.Guthrie),nan,nan,201967,Dante Cunningham,NOP,203098,John Jenkins,PHX,0,nan,nan,Foul ,Shooting
+148062,21501189,4,3:46,nan,Jenkins Free Throw 1 of 1 (5 PTS),110 - 85,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148063,21501189,4,3:39,MISS Frazier 7' Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148064,21501189,4,3:38,nan,Williams REBOUND (Off:0 Def:3),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148065,21501189,4,3:27,Douglas S.FOUL (P2.PN) (S.Wright),nan,nan,201962,Toney Douglas,NOP,203462,Archie Goodwin,PHX,0,nan,nan,Foul ,Shooting
+148066,21501189,4,3:27,nan,nan,nan,515,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+148067,21501189,4,3:27,nan,Goodwin Free Throw 1 of 2 (23 PTS),111 - 85,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148068,21501189,4,3:27,nan,Goodwin Free Throw 2 of 2 (24 PTS),112 - 85,203462,Archie Goodwin,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148069,21501189,4,3:26,nan,Goodwin Personal Take Foul (P5.PN) (D.Guthrie),nan,203462,Archie Goodwin,PHX,201962,Toney Douglas,NOP,0,nan,nan,Foul ,Personal Take
+148070,21501189,4,3:26,Douglas Free Throw 1 of 2 (19 PTS),nan,112 - 86,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148071,21501189,4,3:26,nan,SUB: Price FOR Goodwin,nan,203462,Archie Goodwin,PHX,101179,Ronnie Price,PHX,0,nan,nan,Substitution ,nan
+148072,21501189,4,3:26,Douglas Free Throw 2 of 2 (20 PTS),nan,112 - 87,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148073,21501189,4,3:12,nan,MISS Leuer 19' Jump Shot,nan,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148074,21501189,4,3:10,Frazier REBOUND (Off:3 Def:5),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148075,21501189,4,3:05,Cunningham  Dunk (13 PTS) (Frazier 6 AST),nan,112 - 89,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+148076,21501189,4,2:52,nan,Williams 10' Jump Shot (3 PTS) (Jenkins 2 AST),114 - 89,1626210,Alan Williams,PHX,203098,John Jenkins,PHX,0,nan,nan,Made Shot ,nan
+148077,21501189,4,2:38,MISS Babbitt 3' Layup,Williams BLOCK (1 BLK),nan,202337,Luke Babbitt,NOP,0,nan,nan,1626210,Alan Williams,PHX,Missed Shot ,nan
+148078,21501189,4,2:37,nan,Williams REBOUND (Off:0 Def:4),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148079,21501189,4,2:25,nan,Leuer 2' Driving Layup (7 PTS) (Budinger 2 AST),116 - 89,202720,Jon Leuer,PHX,201978,Chase Budinger,PHX,0,nan,nan,Made Shot ,nan
+148080,21501189,4,2:25,Babbitt S.FOUL (P5.PN) (D.Guthrie),nan,nan,202337,Luke Babbitt,NOP,202720,Jon Leuer,PHX,0,nan,nan,Foul ,Shooting
+148081,21501189,4,2:25,nan,Suns Timeout: Regular (Reg.4 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+148082,21501189,4,2:25,SUB: Ennis FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,203516,James Ennis III,NOP,0,nan,nan,Substitution ,nan
+148083,21501189,4,2:25,nan,Leuer Free Throw 1 of 1 (8 PTS),117 - 89,202720,Jon Leuer,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+148084,21501189,4,2:19,Ennis  Alley Oop Dunk (18 PTS) (Frazier 7 AST),nan,117 - 91,203516,James Ennis III,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+148085,21501189,4,1:55,nan,MISS Williams 10' Jump Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148086,21501189,4,1:54,Ennis REBOUND (Off:4 Def:2),nan,nan,203516,James Ennis III,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148087,21501189,4,1:37,MISS Frazier 3' Layup,Williams BLOCK (2 BLK),nan,204025,Tim Frazier,NOP,0,nan,nan,1626210,Alan Williams,PHX,Missed Shot ,nan
+148088,21501189,4,1:35,nan,Williams REBOUND (Off:0 Def:5),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148089,21501189,4,1:31,nan,Budinger 1' Layup (8 PTS) (Leuer 1 AST),119 - 91,201978,Chase Budinger,PHX,202720,Jon Leuer,PHX,0,nan,nan,Made Shot ,nan
+148090,21501189,4,1:14,nan,Williams S.FOUL (P2.PN) (S.Wright),nan,1626210,Alan Williams,PHX,202337,Luke Babbitt,NOP,0,nan,nan,Foul ,Shooting
+148091,21501189,4,1:14,Babbitt Free Throw 1 of 2 (16 PTS),nan,119 - 92,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148092,21501189,4,1:14,Babbitt Free Throw 2 of 2 (17 PTS),nan,119 - 93,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148093,21501189,4,1:03,nan,MISS Jenkins 25' 3PT Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148094,21501189,4,1:03,nan,Williams REBOUND (Off:1 Def:5),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148095,21501189,4,1:03,nan,MISS Williams 1' Tip Layup Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148096,21501189,4,1:03,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148097,21501189,4,1:03,nan,Williams L.B.FOUL (P3.PN) (D.Guthrie),nan,1626210,Alan Williams,PHX,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Loose Ball
+148098,21501189,4,1:03,Hamilton Free Throw 1 of 2 (10 PTS),nan,119 - 94,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148099,21501189,4,1:03,Hamilton Free Throw 2 of 2 (11 PTS),nan,119 - 95,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148100,21501189,4,0:51,nan,MISS Jenkins 26' 3PT Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148101,21501189,4,0:50,nan,Williams REBOUND (Off:2 Def:5),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148102,21501189,4,0:48,nan,Jenkins 3' Layup (7 PTS) (Williams 2 AST),121 - 95,203098,John Jenkins,PHX,1626210,Alan Williams,PHX,0,nan,nan,Made Shot ,nan
+148103,21501189,4,0:40,Douglas 25' 3PT Jump Shot (23 PTS),nan,121 - 98,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+148104,21501189,4,0:17,nan,MISS Jenkins 11' Jump Shot,nan,203098,John Jenkins,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+148105,21501189,4,0:15,Hamilton REBOUND (Off:1 Def:4),nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+148106,21501189,4,0:10,nan,Price Shooting Block Foul (P4.PN) (C.Blair),nan,101179,Ronnie Price,PHX,202706,Jordan Hamilton,NOP,0,nan,nan,Foul ,Shooting Block
+148107,21501189,4,0:10,Hamilton Free Throw 1 of 2 (12 PTS),nan,121 - 99,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+148108,21501189,4,0:10,Hamilton Free Throw 2 of 2 (13 PTS),nan,121 - 100,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+148109,21501189,4,0:00,nan,nan,121 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

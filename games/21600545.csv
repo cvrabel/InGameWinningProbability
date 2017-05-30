@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+220489,21600545,4,12:00,nan,nan,79 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+220490,21600545,4,11:44,nan,Beverley 25' 3PT Jump Shot (15 PTS) (Gordon 2 AST),82 - 75,201976,Patrick Beverley,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+220491,21600545,4,11:28,Payton 20' Pullup Jump Shot (10 PTS),nan,82 - 77,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220492,21600545,4,11:04,nan,MISS Beverley 27' 3PT Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220493,21600545,4,11:03,Meeks REBOUND (Off:0 Def:1),nan,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220494,21600545,4,10:52,MISS Vucevic 8' Hook Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220495,21600545,4,10:49,nan,Beverley REBOUND (Off:3 Def:5),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220496,21600545,4,10:46,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220497,21600545,4,10:44,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220498,21600545,4,10:31,MISS Meeks 25' 3PT Jump Shot,nan,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220499,21600545,4,10:28,nan,Dekker REBOUND (Off:4 Def:4),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220500,21600545,4,10:18,nan,MISS Dekker 25' 3PT Jump Shot,nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220501,21600545,4,10:17,Vucevic REBOUND (Off:5 Def:7),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220502,21600545,4,10:00,Green 1' Layup (5 PTS),nan,82 - 79,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220503,21600545,4,9:41,nan,Gordon 1' Cutting Layup Shot (15 PTS) (Nene 2 AST),84 - 79,201569,Eric Gordon,HOU,2403,Nene,HOU,0,nan,nan,Made Shot ,nan
+220504,21600545,4,9:30,nan,Gordon P.FOUL (P3.T1) (J.Tiven),nan,201569,Eric Gordon,HOU,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal
+220505,21600545,4,9:18,nan,Nene P.FOUL (P1.T2) (J.Tiven),nan,2403,Nene,HOU,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Personal
+220506,21600545,4,9:12,Vucevic Bad Pass Turnover (P2.T11),Nene STEAL (2 STL),nan,202696,Nikola Vucevic,ORL,2403,Nene,HOU,0,nan,nan,Turnover ,Bad Pass
+220507,21600545,4,9:07,nan,Dekker 1' Running Layup (7 PTS) (Brewer 3 AST),86 - 79,1626155,Sam Dekker,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+220508,21600545,4,8:44,Payton 2' Cutting Layup Shot (12 PTS) (Green 1 AST),nan,86 - 81,203901,Elfrid Payton,ORL,201145,Jeff Green,ORL,0,nan,nan,Made Shot ,nan
+220509,21600545,4,8:29,Payton STEAL (2 STL),Beverley Bad Pass Turnover (P3.T15),nan,201976,Patrick Beverley,HOU,203901,Elfrid Payton,ORL,0,nan,nan,Turnover ,Bad Pass
+220510,21600545,4,8:24,Green  Running Alley Oop Dunk Shot (7 PTS) (Augustin 1 AST),nan,86 - 83,201145,Jeff Green,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+220511,21600545,4,8:04,nan,Gordon 1' Driving Layup (17 PTS),88 - 83,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+220512,21600545,4,7:43,MISS Augustin  3PT Jump Shot,nan,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220513,21600545,4,7:40,Payton REBOUND (Off:1 Def:1),nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220514,21600545,4,7:37,MISS Payton 8' Driving Floating Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220515,21600545,4,7:34,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220516,21600545,4,7:34,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+220517,21600545,4,7:34,nan,SUB: Anderson FOR Dekker,nan,1626155,Sam Dekker,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+220518,21600545,4,7:34,SUB: Ibaka FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,201586,Serge Ibaka,ORL,0,nan,nan,Substitution ,nan
+220519,21600545,4,7:23,Meeks Step Out of Bounds Turnover (P1.T12),nan,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+220520,21600545,4,7:11,nan,Anderson 1' Cutting Layup Shot (19 PTS) (Gordon 3 AST),90 - 83,201583,Ryan Anderson,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+220521,21600545,4,6:53,MISS Payton 19' Pullup Jump Shot,nan,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220522,21600545,4,6:49,nan,Nene REBOUND (Off:0 Def:3),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220523,21600545,4,6:41,nan,MISS Nene 19' Jump Shot,nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220524,21600545,4,6:39,Green REBOUND (Off:0 Def:1),nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220525,21600545,4,6:33,MISS Green 3' Driving Layup,nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220526,21600545,4,6:30,Ibaka REBOUND (Off:4 Def:5),nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220527,21600545,4,6:30,Ibaka  Tip Dunk Shot (14 PTS),nan,90 - 85,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220528,21600545,4,6:12,nan,Beverley 8' Hook Shot (17 PTS),92 - 85,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+220529,21600545,4,6:11,MAGIC Timeout: Regular (Full 5 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220530,21600545,4,6:11,nan,SUB: Harrell FOR Nene,nan,2403,Nene,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+220531,21600545,4,6:11,SUB: Gordon FOR Payton,nan,nan,203901,Elfrid Payton,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+220532,21600545,4,6:11,SUB: Fournier FOR Green,nan,nan,201145,Jeff Green,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+220533,21600545,4,6:11,SUB: Vucevic FOR Meeks,nan,nan,201975,Jodie Meeks,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+220534,21600545,4,5:58,Vucevic OFF.Foul (P2) (S.Twardoski),nan,nan,202696,Nikola Vucevic,ORL,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive
+220535,21600545,4,5:58,Vucevic Foul Turnover (P3.T13),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+220536,21600545,4,5:43,nan,MISS Harrell 15' Jump Shot,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220537,21600545,4,5:43,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220538,21600545,4,5:43,Augustin L.B.FOUL (P1.T1) (J.Phillips),nan,nan,201571,D.J. Augustin,ORL,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Loose Ball
+220539,21600545,4,5:43,nan,SUB: Harden FOR Harrell,nan,1626149,Montrezl Harrell,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+220540,21600545,4,5:34,nan,MISS Brewer 25' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220541,21600545,4,5:32,Fournier REBOUND (Off:3 Def:5),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220542,21600545,4,5:21,Augustin Bad Pass Turnover (P2.T14),Harden STEAL (1 STL),nan,201571,D.J. Augustin,ORL,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+220543,21600545,4,5:14,nan,MISS Anderson 26' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220544,21600545,4,5:12,nan,Beverley REBOUND (Off:4 Def:5),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220545,21600545,4,5:02,nan,MISS Gordon 26' 3PT Step Back Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220546,21600545,4,4:59,Gordon REBOUND (Off:3 Def:2),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220547,21600545,4,4:48,MISS Fournier 20' Pullup Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220548,21600545,4,4:47,Ibaka REBOUND (Off:5 Def:5),nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220549,21600545,4,4:47,Ibaka 5' Hook Shot (16 PTS),nan,92 - 87,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+220550,21600545,4,4:47,nan,Harden S.FOUL (P4.T3) (S.Twardoski),nan,201935,James Harden,HOU,201586,Serge Ibaka,ORL,0,nan,nan,Foul ,Shooting
+220551,21600545,4,4:47,nan,SUB: Ariza FOR Beverley,nan,201976,Patrick Beverley,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+220552,21600545,4,4:47,nan,SUB: Nene FOR Brewer,nan,201147,Corey Brewer,HOU,2403,Nene,HOU,0,nan,nan,Substitution ,nan
+220553,21600545,4,4:47,MISS Ibaka Free Throw 1 of 1,nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+220554,21600545,4,4:45,nan,Harden REBOUND (Off:0 Def:4),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220555,21600545,4,4:24,nan,MISS Anderson 28' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220556,21600545,4,4:23,Gordon REBOUND (Off:3 Def:3),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220557,21600545,4,4:17,Gordon Bad Pass Turnover (P2.T15),Nene STEAL (3 STL),nan,203932,Aaron Gordon,ORL,2403,Nene,HOU,0,nan,nan,Turnover ,Bad Pass
+220558,21600545,4,4:09,nan,MISS Gordon  3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220559,21600545,4,4:07,nan,Harden REBOUND (Off:1 Def:4),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220560,21600545,4,3:54,nan,Ariza  3PT Jump Shot (13 PTS) (Gordon 4 AST),95 - 87,2772,Trevor Ariza,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+220561,21600545,4,3:37,Gordon 26' 3PT Jump Shot (18 PTS) (Vucevic 1 AST),nan,95 - 90,203932,Aaron Gordon,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+220562,21600545,4,3:15,nan,Harden 13' Floating Jump Shot (11 PTS),97 - 90,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+220563,21600545,4,2:58,MISS Vucevic 11' Turnaround Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220564,21600545,4,2:56,nan,Harden REBOUND (Off:1 Def:5),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220565,21600545,4,2:48,nan,MISS Ariza 26' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220566,21600545,4,2:47,Ibaka REBOUND (Off:5 Def:6),nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220567,21600545,4,2:24,Vucevic 26' 3PT Jump Shot (9 PTS) (Augustin 2 AST),nan,97 - 93,202696,Nikola Vucevic,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+220568,21600545,4,2:09,Vucevic S.FOUL (P3.T2) (S.Twardoski),nan,nan,202696,Nikola Vucevic,ORL,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+220569,21600545,4,2:09,nan,Rockets Timeout: Regular (Reg.3 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220570,21600545,4,2:09,SUB: Green FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+220571,21600545,4,2:09,SUB: Payton FOR Augustin,nan,nan,201571,D.J. Augustin,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+220572,21600545,4,2:09,nan,Harden Free Throw 1 of 2 (12 PTS),98 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220573,21600545,4,2:09,nan,Harden Free Throw 2 of 2 (13 PTS),99 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220574,21600545,4,1:48,MISS Fournier 20' Step Back Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220575,21600545,4,1:46,nan,Anderson REBOUND (Off:0 Def:4),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220576,21600545,4,1:26,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220577,21600545,4,1:25,Ibaka REBOUND (Off:5 Def:7),nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220578,21600545,4,1:06,MISS Green  3PT Jump Shot,nan,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220579,21600545,4,1:04,nan,Gordon REBOUND (Off:0 Def:2),nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220580,21600545,4,0:41,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220581,21600545,4,0:40,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220582,21600545,4,0:40,nan,Rockets Turnover: Shot Clock (T#16),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+220583,21600545,4,0:40,MAGIC Timeout: Short (Full 5 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+220584,21600545,4,0:40,SUB: Vucevic FOR Payton,nan,nan,203901,Elfrid Payton,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+220585,21600545,4,0:40,SUB: Augustin FOR Green,nan,nan,201145,Jeff Green,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Substitution ,nan
+220586,21600545,4,0:30,MISS Gordon 26' 3PT Jump Shot,nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220587,21600545,4,0:29,nan,Nene REBOUND (Off:0 Def:4),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220588,21600545,4,0:14,Augustin P.FOUL (P2.T3) (S.Twardoski),nan,nan,201571,D.J. Augustin,ORL,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Personal
+220589,21600545,4,0:14,SUB: Green FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+220590,21600545,4,0:13,Fournier P.FOUL (P2.PN) (J.Tiven),nan,nan,203095,Evan Fournier,ORL,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+220591,21600545,4,0:13,nan,Harden Free Throw 1 of 2 (14 PTS),100 - 93,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+220592,21600545,4,0:13,nan,SUB: Beverley FOR Anderson,nan,201583,Ryan Anderson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+220593,21600545,4,0:13,nan,MISS Harden Free Throw 2 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+220594,21600545,4,0:12,Fournier REBOUND (Off:3 Def:6),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220595,21600545,4,0:12,MAGIC Timeout: Regular (Full 6 Short 1),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+220596,21600545,4,0:06,MISS Ibaka 12' Pullup Jump Shot,nan,nan,201586,Serge Ibaka,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+220597,21600545,4,0:03,nan,Gordon REBOUND (Off:0 Def:3),nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+220598,21600545,4,0:00,nan,nan,100 - 93,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

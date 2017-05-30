@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+273827,21600978,4,12:00,nan,nan,75 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+273828,21600978,4,11:45,nan,Muhammad S.FOUL (P2.T1) (D.Collins),nan,203498,Shabazz Muhammad,MIN,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+273829,21600978,4,11:45,Middleton Free Throw 1 of 2 (6 PTS),nan,75 - 77,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273830,21600978,4,11:45,Middleton Free Throw 2 of 2 (7 PTS),nan,75 - 78,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273831,21600978,4,11:37,Vaughn P.FOUL (P2.T1) (S.Wright),nan,nan,1626173,Rashad Vaughn,MIL,1626145,Tyus Jones,MIN,0,nan,nan,Foul ,Personal
+273832,21600978,4,11:28,nan,Bjelica Out of Bounds Lost Ball Turnover (P1.T12),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+273833,21600978,4,11:14,nan,Dunn S.FOUL (P4.T2) (S.Wright),nan,1627739,Kris Dunn,MIN,203089,John Henson,MIL,0,nan,nan,Foul ,Shooting
+273834,21600978,4,11:14,Henson Free Throw 1 of 2 (11 PTS),nan,75 - 79,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273835,21600978,4,11:14,MISS Henson Free Throw 2 of 2,nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273836,21600978,4,11:12,nan,Muhammad REBOUND (Off:0 Def:1),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273837,21600978,4,11:07,Middleton S.FOUL (P3.T2) (D.Collins),nan,nan,203114,Khris Middleton,MIL,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+273838,21600978,4,11:07,nan,Towns Free Throw 1 of 2 (27 PTS),76 - 79,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273839,21600978,4,11:07,nan,Towns Free Throw 2 of 2 (28 PTS),77 - 79,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273840,21600978,4,10:45,Vaughn 1' Driving Layup (4 PTS),nan,77 - 81,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+273841,21600978,4,10:37,nan,MISS Muhammad 19' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273842,21600978,4,10:36,nan,Towns REBOUND (Off:3 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273843,21600978,4,10:35,Henson BLOCK (2 BLK),MISS Towns 1' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+273844,21600978,4,10:32,Henson REBOUND (Off:3 Def:3),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273845,21600978,4,10:22,MISS Terry 10' Jump Shot,nan,nan,1891,Jason Terry,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273846,21600978,4,10:21,Monroe REBOUND (Off:4 Def:2),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273847,21600978,4,10:21,Monroe 1' Tip Layup Shot (10 PTS),nan,77 - 83,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+273848,21600978,4,10:21,nan,Timberwolves Timeout: Regular (Reg.4 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+273849,21600978,4,10:05,nan,MISS Jones 10' Jump Shot,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273850,21600978,4,10:03,nan,Towns REBOUND (Off:4 Def:10),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273851,21600978,4,9:56,Vaughn BLOCK (1 BLK),MISS Dunn 1' Layup,nan,1627739,Kris Dunn,MIN,0,nan,nan,1626173,Rashad Vaughn,MIL,Missed Shot ,nan
+273852,21600978,4,9:52,Middleton REBOUND (Off:1 Def:4),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273853,21600978,4,9:50,MISS Monroe 1' Running Layup,Bjelica BLOCK (1 BLK),nan,202328,Greg Monroe,MIL,0,nan,nan,202357,Nemanja Bjelica,MIN,Missed Shot ,nan
+273854,21600978,4,9:47,nan,Muhammad REBOUND (Off:0 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273855,21600978,4,9:40,Henson P.FOUL (P5.T3) (S.Wright),nan,nan,203089,John Henson,MIL,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+273856,21600978,4,9:40,nan,SUB: Rubio FOR Dunn,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+273857,21600978,4,9:40,SUB: Antetokounmpo FOR Henson,nan,nan,203089,John Henson,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Substitution ,nan
+273858,21600978,4,9:35,Antetokounmpo P.FOUL (P3.T4) (S.Anderson),nan,nan,203507,Giannis Antetokounmpo,MIL,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+273859,21600978,4,9:25,nan,MISS Muhammad 7' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273860,21600978,4,9:23,Middleton REBOUND (Off:1 Def:5),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273861,21600978,4,9:20,Vaughn  Running Layup (6 PTS) (Middleton 4 AST),nan,77 - 85,1626173,Rashad Vaughn,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+273862,21600978,4,9:03,Antetokounmpo S.FOUL (P4.PN) (S.Wright),nan,nan,203507,Giannis Antetokounmpo,MIL,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+273863,21600978,4,9:03,nan,Towns Free Throw 1 of 2 (29 PTS),78 - 85,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273864,21600978,4,9:03,nan,Towns Free Throw 2 of 2 (30 PTS),79 - 85,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273865,21600978,4,8:41,MISS Vaughn 11' Pullup Jump Shot,nan,nan,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273866,21600978,4,8:40,nan,Bjelica REBOUND (Off:2 Def:1),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273867,21600978,4,8:17,nan,MISS Rubio 20' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273868,21600978,4,8:16,Middleton REBOUND (Off:1 Def:6),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273869,21600978,4,8:06,Monroe  Layup (12 PTS) (Vaughn 2 AST),nan,79 - 87,202328,Greg Monroe,MIL,1626173,Rashad Vaughn,MIL,0,nan,nan,Made Shot ,nan
+273870,21600978,4,7:44,nan,MISS Rubio 1' Layup,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273871,21600978,4,7:43,Antetokounmpo REBOUND (Off:0 Def:3),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273872,21600978,4,7:43,nan,Towns Personal Block Foul (P3.T3) (D.Collins),nan,1626157,Karl-Anthony Towns,MIN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal Block
+273873,21600978,4,7:43,nan,SUB: Wiggins FOR Jones,nan,1626145,Tyus Jones,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+273874,21600978,4,7:28,Middleton Bad Pass Turnover (P2.T8),Wiggins STEAL (1 STL),nan,203114,Khris Middleton,MIL,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Bad Pass
+273875,21600978,4,7:14,nan,Towns  Cutting Dunk Shot (32 PTS) (Rubio 6 AST),81 - 87,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+273876,21600978,4,6:46,nan,Towns P.FOUL (P4.T4) (D.Collins),nan,1626157,Karl-Anthony Towns,MIN,202328,Greg Monroe,MIL,0,nan,nan,Foul ,Personal
+273877,21600978,4,6:29,BUCKS Turnover: Shot Clock (T#9),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+273878,21600978,4,6:10,nan,Rubio 13' Jump Shot (15 PTS) (Bjelica 3 AST),83 - 87,201937,Ricky Rubio,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+273879,21600978,4,5:47,Vaughn 1' Driving Layup (8 PTS),nan,83 - 89,1626173,Rashad Vaughn,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+273880,21600978,4,5:31,nan,Towns 25' 3PT Jump Shot (35 PTS) (Rubio 7 AST),86 - 89,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+273881,21600978,4,5:16,nan,Bjelica S.FOUL (P1.PN) (S.Wright),nan,202357,Nemanja Bjelica,MIN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+273882,21600978,4,5:16,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+273883,21600978,4,5:16,nan,nan,nan,427,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+273884,21600978,4,5:16,nan,SUB: Rush FOR Muhammad,nan,203498,Shabazz Muhammad,MIN,201575,Brandon Rush,MIN,0,nan,nan,Substitution ,nan
+273885,21600978,4,5:16,Antetokounmpo Free Throw 1 of 2 (15 PTS),nan,86 - 90,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273886,21600978,4,5:16,Antetokounmpo Free Throw 2 of 2 (16 PTS),nan,86 - 91,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273887,21600978,4,4:59,nan,Rubio 16' Pullup Jump Shot (17 PTS),88 - 91,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+273888,21600978,4,4:34,Vaughn 1' Layup (10 PTS) (Monroe 2 AST),nan,88 - 93,1626173,Rashad Vaughn,MIL,202328,Greg Monroe,MIL,0,nan,nan,Made Shot ,nan
+273889,21600978,4,4:21,Vaughn Personal Block Foul (P3.PN) (D.Collins),nan,nan,1626173,Rashad Vaughn,MIL,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal Block
+273890,21600978,4,4:21,nan,MISS Rubio Free Throw 1 of 2,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273891,21600978,4,4:21,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+273892,21600978,4,4:21,SUB: Dellavedova FOR Vaughn,nan,nan,1626173,Rashad Vaughn,MIL,203521,Matthew Dellavedova,MIL,0,nan,nan,Substitution ,nan
+273893,21600978,4,4:21,nan,Rubio Free Throw 2 of 2 (18 PTS),89 - 93,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273894,21600978,4,4:10,Antetokounmpo Offensive Charge Foul (P5.PN) (D.Collins),nan,nan,203507,Giannis Antetokounmpo,MIL,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Offensive Charge
+273895,21600978,4,4:10,Antetokounmpo Foul Turnover (P2.T10),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+273896,21600978,4,3:54,nan,MISS Wiggins 6' Turnaround Hook Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273897,21600978,4,3:52,Antetokounmpo REBOUND (Off:0 Def:4),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273898,21600978,4,3:42,Middleton 7' Floating Jump Shot (9 PTS) (Antetokounmpo 7 AST),nan,89 - 95,203114,Khris Middleton,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+273899,21600978,4,3:27,nan,Rubio  Driving Layup (20 PTS),91 - 95,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+273900,21600978,4,2:59,MISS Antetokounmpo 11' Fadeaway Jumper,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273901,21600978,4,2:59,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273902,21600978,4,2:59,BUCKS Turnover: Shot Clock (T#11),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+273903,21600978,4,2:59,BUCKS Timeout: Regular (Full 4 Short 0),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+273904,21600978,4,2:59,SUB: Snell FOR Terry,nan,nan,1891,Jason Terry,MIL,203503,Tony Snell,MIL,0,nan,nan,Substitution ,nan
+273905,21600978,4,2:49,nan,Rubio 13' Jump Shot (22 PTS),93 - 95,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+273906,21600978,4,2:36,nan,Bjelica P.FOUL (P2.PN) (S.Wright),nan,202357,Nemanja Bjelica,MIN,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+273907,21600978,4,2:36,Antetokounmpo Free Throw 1 of 2 (17 PTS),nan,93 - 96,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273908,21600978,4,2:36,Antetokounmpo Free Throw 2 of 2 (18 PTS),nan,93 - 97,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273909,21600978,4,2:19,Antetokounmpo BLOCK (1 BLK),MISS Rubio 5' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+273910,21600978,4,2:16,Snell REBOUND (Off:1 Def:4),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273911,21600978,4,1:56,BUCKS Turnover: Shot Clock (T#12),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+273912,21600978,4,1:42,nan,MISS Rush 8' Floating Jump Shot,nan,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273913,21600978,4,1:41,Middleton REBOUND (Off:1 Def:7),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273914,21600978,4,1:30,Monroe Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+273915,21600978,4,1:14,Monroe STEAL (1 STL),Towns Bad Pass Turnover (P4.T13),nan,1626157,Karl-Anthony Towns,MIN,202328,Greg Monroe,MIL,0,nan,nan,Turnover ,Bad Pass
+273916,21600978,4,0:58,MISS Antetokounmpo 1' Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273917,21600978,4,0:57,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273918,21600978,4,0:57,nan,Timberwolves Timeout: Regular (Reg.5 Short 0),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+273919,21600978,4,0:48,nan,MISS Wiggins 15' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273920,21600978,4,0:47,nan,Bjelica REBOUND (Off:3 Def:1),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273921,21600978,4,0:45,Antetokounmpo BLOCK (2 BLK),MISS Bjelica 1' Layup,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,203507,Giannis Antetokounmpo,MIL,Missed Shot ,nan
+273922,21600978,4,0:43,Dellavedova REBOUND (Off:0 Def:1),nan,nan,203521,Matthew Dellavedova,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273923,21600978,4,0:32,MISS Antetokounmpo 1' Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273924,21600978,4,0:30,nan,Bjelica REBOUND (Off:3 Def:2),nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273925,21600978,4,0:25,nan,MISS Wiggins 28' 3PT Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273926,21600978,4,0:23,Middleton REBOUND (Off:1 Def:8),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273927,21600978,4,0:22,nan,Rubio Personal Take Foul (P5.PN) (D.Collins),nan,201937,Ricky Rubio,MIN,203503,Tony Snell,MIL,0,nan,nan,Foul ,Personal Take
+273928,21600978,4,0:22,MISS Snell Free Throw 1 of 2,nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273929,21600978,4,0:22,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+273930,21600978,4,0:22,Snell Free Throw 2 of 2 (17 PTS),nan,93 - 98,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273931,21600978,4,0:22,nan,Timberwolves Timeout: Short (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+273932,21600978,4,0:19,nan,MISS Towns 11' Fadeaway Jumper,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273933,21600978,4,0:18,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273934,21600978,4,0:18,nan,Bjelica L.B.FOUL (P3.PN) (D.Collins),nan,202357,Nemanja Bjelica,MIN,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Loose Ball
+273935,21600978,4,0:18,Middleton Free Throw 1 of 2 (10 PTS),nan,93 - 99,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273936,21600978,4,0:18,Middleton Free Throw 2 of 2 (11 PTS),nan,93 - 100,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273937,21600978,4,0:12,nan,MISS Wiggins 27' 3PT Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+273938,21600978,4,0:11,Snell REBOUND (Off:1 Def:5),nan,nan,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+273939,21600978,4,0:10,nan,Bjelica Personal Take Foul (P4.PN) (D.Collins),nan,202357,Nemanja Bjelica,MIN,203503,Tony Snell,MIL,0,nan,nan,Foul ,Personal Take
+273940,21600978,4,0:10,Snell Free Throw 1 of 2 (18 PTS),nan,93 - 101,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+273941,21600978,4,0:10,Snell Free Throw 2 of 2 (19 PTS),nan,93 - 102,203503,Tony Snell,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+273942,21600978,4,0:03,nan,Bjelica  Driving Layup (8 PTS) (Rubio 8 AST),95 - 102,202357,Nemanja Bjelica,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+273943,21600978,4,0:00,nan,nan,95 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

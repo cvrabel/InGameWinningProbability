@@ -1,0 +1,98 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+55110,21500440,4,12:00,nan,nan,85 - 57,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+55111,21500440,4,11:42,Randle Lost Ball Turnover (P2.T14),Aldrich STEAL (1 STL),nan,203944,Julius Randle,LAL,202332,Cole Aldrich,LAC,0,nan,nan,Turnover ,Lost Ball
+55112,21500440,4,11:25,nan,Aldrich OFF.Foul (P2) (K.Cutler),nan,202332,Cole Aldrich,LAC,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Offensive
+55113,21500440,4,11:25,nan,Aldrich Foul Turnover (P1.T10),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+55114,21500440,4,11:10,Bass  Dunk (3 PTS) (Huertas 1 AST),nan,85 - 59,101138,Brandon Bass,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+55115,21500440,4,10:56,nan,MISS Stephenson  Driving Layup,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55116,21500440,4,10:54,Bass REBOUND (Off:0 Def:2),nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55117,21500440,4,10:47,nan,Aldrich S.FOUL (P3.T1) (L.Richardson),nan,202332,Cole Aldrich,LAC,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+55118,21500440,4,10:47,Randle Free Throw 1 of 2 (1 PTS),nan,85 - 60,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+55119,21500440,4,10:47,Randle Free Throw 2 of 2 (2 PTS),nan,85 - 61,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+55120,21500440,4,10:31,Bass BLOCK (1 BLK),MISS Pierce 2' Layup,nan,1718,Paul Pierce,LAC,0,nan,nan,101138,Brandon Bass,LAL,Missed Shot ,nan
+55121,21500440,4,10:29,Huertas REBOUND (Off:0 Def:1),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55122,21500440,4,10:25,Russell  Running Layup (14 PTS) (Huertas 2 AST),nan,85 - 63,1626156,D'Angelo Russell,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+55123,21500440,4,10:04,Randle STEAL (2 STL),Pierce Lost Ball Turnover (P1.T11),nan,1718,Paul Pierce,LAC,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+55124,21500440,4,9:59,MISS Randle 2' Layup,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55125,21500440,4,9:58,Randle REBOUND (Off:1 Def:3),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55126,21500440,4,9:58,Randle 4' Hook Shot (4 PTS),nan,85 - 65,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55127,21500440,4,9:54,nan,Clippers Timeout: Regular (Reg.4 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+55128,21500440,4,9:41,Russell BLOCK (1 BLK),MISS Crawford 3' Layup,nan,2037,Jamal Crawford,LAC,0,nan,nan,1626156,D'Angelo Russell,LAL,Missed Shot ,nan
+55129,21500440,4,9:41,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55130,21500440,4,9:34,nan,Pierce 17' Jump Shot (2 PTS) (Prigioni 2 AST),87 - 65,1718,Paul Pierce,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+55131,21500440,4,9:22,nan,Stephenson P.FOUL (P1.T2) (L.Richardson),nan,202362,Lance Stephenson,LAC,201156,Nick Young,LAL,0,nan,nan,Foul ,Personal
+55132,21500440,4,9:14,Randle 3' Hook Shot (6 PTS) (Bass 1 AST),nan,87 - 67,203944,Julius Randle,LAL,101138,Brandon Bass,LAL,0,nan,nan,Made Shot ,nan
+55133,21500440,4,9:01,Bass STEAL (1 STL),Pierce Bad Pass Turnover (P2.T12),nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAL,0,nan,nan,Turnover ,Bad Pass
+55134,21500440,4,8:47,MISS Huertas 16' Jump Shot,nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55135,21500440,4,8:46,nan,Stephenson REBOUND (Off:0 Def:1),nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55136,21500440,4,8:33,Huertas STEAL (1 STL),Prigioni Bad Pass Turnover (P1.T13),nan,203143,Pablo Prigioni,LAC,1626273,Marcelo Huertas,LAL,0,nan,nan,Turnover ,Bad Pass
+55137,21500440,4,8:28,Huertas 7' Floating Jump Shot (2 PTS),nan,87 - 69,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55138,21500440,4,8:05,nan,MISS Stephenson 16' Jump Shot,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55139,21500440,4,8:04,Randle REBOUND (Off:1 Def:4),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55140,21500440,4,7:56,MISS Young 25' 3PT Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55141,21500440,4,7:55,Randle REBOUND (Off:2 Def:4),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55142,21500440,4,7:51,Randle 26' 3PT Jump Shot (9 PTS),nan,87 - 72,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55143,21500440,4,7:35,nan,MISS Crawford 17' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55144,21500440,4,7:34,Young REBOUND (Off:0 Def:3),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55145,21500440,4,7:11,Russell 14' Jump Shot (16 PTS),nan,87 - 74,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55146,21500440,4,7:11,nan,Clippers Timeout: Regular (Reg.5 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+55147,21500440,4,7:11,nan,nan,nan,419,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+55148,21500440,4,7:11,nan,SUB: Griffin FOR Aldrich,nan,202332,Cole Aldrich,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+55149,21500440,4,7:11,nan,SUB: W. Johnson FOR Prigioni,nan,203143,Pablo Prigioni,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Substitution ,nan
+55150,21500440,4,7:11,nan,SUB: Jordan FOR Stephenson,nan,202362,Lance Stephenson,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+55151,21500440,4,7:11,nan,SUB: Paul FOR Pierce,nan,1718,Paul Pierce,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+55152,21500440,4,7:00,nan,MISS Crawford 19' Pullup Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55153,21500440,4,6:58,Russell REBOUND (Off:1 Def:4),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55154,21500440,4,6:39,Huertas 17' Jump Shot (4 PTS),nan,87 - 76,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55155,21500440,4,6:16,nan,W. Johnson 21' Jump Shot (5 PTS) (Griffin 6 AST),89 - 76,202325,Wesley Johnson,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+55156,21500440,4,5:56,MISS Randle 7' Jump Shot,W. Johnson BLOCK (1 BLK),nan,203944,Julius Randle,LAL,0,nan,nan,202325,Wesley Johnson,LAC,Missed Shot ,nan
+55157,21500440,4,5:55,nan,Griffin REBOUND (Off:3 Def:7),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55158,21500440,4,5:49,nan,MISS W. Johnson 24' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55159,21500440,4,5:47,Russell REBOUND (Off:1 Def:5),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55160,21500440,4,5:33,Huertas 2' Reverse Layup (6 PTS) (Russell 1 AST),nan,89 - 78,1626273,Marcelo Huertas,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+55161,21500440,4,5:17,nan,MISS Paul 7' Floating Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55162,21500440,4,5:15,Young REBOUND (Off:0 Def:4),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55163,21500440,4,4:57,Bass 10' Jump Shot (5 PTS),nan,89 - 80,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+55164,21500440,4,4:45,Huertas P.FOUL (P1.T1) (D.Stafford),nan,nan,1626273,Marcelo Huertas,LAL,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal
+55165,21500440,4,4:45,nan,SUB: Redick FOR Crawford,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+55166,21500440,4,4:33,nan,MISS Griffin 20' Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55167,21500440,4,4:32,Young REBOUND (Off:0 Def:5),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55168,21500440,4,4:24,MISS Bass 16' Jump Shot,nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55169,21500440,4,4:24,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55170,21500440,4,4:24,Huertas L.B.FOUL (P2.T2) (D.Stafford),nan,nan,1626273,Marcelo Huertas,LAL,200755,JJ Redick,LAC,0,nan,nan,Foul ,Loose Ball
+55171,21500440,4,4:09,Russell STEAL (2 STL),Griffin Bad Pass Turnover (P5.T14),nan,201933,Blake Griffin,LAC,1626156,D'Angelo Russell,LAL,0,nan,nan,Turnover ,Bad Pass
+55172,21500440,4,4:01,nan,Jordan S.FOUL (P3.T3) (D.Stafford),nan,201599,DeAndre Jordan,LAC,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+55173,21500440,4,4:01,Randle Free Throw 1 of 2 (10 PTS),nan,89 - 81,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+55174,21500440,4,4:01,Randle Free Throw 2 of 2 (11 PTS),nan,89 - 82,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+55175,21500440,4,3:35,nan,W. Johnson 25' 3PT Jump Shot (8 PTS) (Griffin 7 AST),92 - 82,202325,Wesley Johnson,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+55176,21500440,4,3:18,Russell Lost Ball Turnover (P4.T15),Paul STEAL (3 STL),nan,1626156,D'Angelo Russell,LAL,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Lost Ball
+55177,21500440,4,3:15,nan,Griffin Discontinue Dribble Turnover (P6.T15),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Turnover ,Discontinue Dribble
+55178,21500440,4,3:15,nan,Clippers Violation: Delay of game Violation,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+55179,21500440,4,3:15,LAKERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+55180,21500440,4,3:04,MISS Randle 26' 3PT Jump Shot,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55181,21500440,4,3:03,nan,Paul REBOUND (Off:0 Def:5),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55182,21500440,4,2:51,Randle STEAL (3 STL),W. Johnson Bad Pass Turnover (P1.T16),nan,202325,Wesley Johnson,LAC,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Bad Pass
+55183,21500440,4,2:43,Bass 2' Reverse Layup (7 PTS) (Randle 2 AST),nan,92 - 84,101138,Brandon Bass,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+55184,21500440,4,2:25,nan,MISS Paul 2' Layup,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55185,21500440,4,2:24,Randle REBOUND (Off:2 Def:5),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55186,21500440,4,2:09,MISS Bass 16' Jump Shot,nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55187,21500440,4,2:09,nan,Griffin REBOUND (Off:3 Def:8),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55188,21500440,4,2:01,nan,MISS Redick 24' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55189,21500440,4,2:01,Bass REBOUND (Off:0 Def:3),nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55190,21500440,4,1:49,MISS Randle 2' Layup,nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55191,21500440,4,1:46,Russell REBOUND (Off:2 Def:5),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55192,21500440,4,1:44,MISS Russell 1' Layup,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55193,21500440,4,1:43,nan,Jordan REBOUND (Off:3 Def:11),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55194,21500440,4,1:43,Russell Personal Take Foul (P2.T3) (L.Richardson),nan,nan,1626156,D'Angelo Russell,LAL,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+55195,21500440,4,1:31,nan,Paul 16' Pullup Jump Shot (23 PTS),94 - 84,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+55196,21500440,4,1:08,MISS Russell 25' 3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55197,21500440,4,1:08,nan,Griffin REBOUND (Off:3 Def:9),nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55198,21500440,4,0:45,nan,MISS Paul 13' Turnaround Fadeaway Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55199,21500440,4,0:43,Randle REBOUND (Off:2 Def:6),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55200,21500440,4,0:41,nan,Paul P.FOUL (P2.T4) (L.Richardson),nan,101108,Chris Paul,LAC,203944,Julius Randle,LAL,0,nan,nan,Foul ,Personal
+55201,21500440,4,0:37,Randle Bad Pass Turnover (P3.T16),Redick STEAL (1 STL),nan,203944,Julius Randle,LAL,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Bad Pass
+55202,21500440,4,0:14,nan,MISS Griffin 26' 3PT Jump Shot,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55203,21500440,4,0:14,Huertas REBOUND (Off:0 Def:2),nan,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55204,21500440,4,0:03,MISS Russell  3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+55205,21500440,4,0:01,nan,W. Johnson REBOUND (Off:0 Def:1),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+55206,21500440,4,0:00,nan,nan,94 - 84,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

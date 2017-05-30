@@ -1,0 +1,106 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+63950,21500512,4,12:00,nan,nan,79 - 80,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+63951,21500512,4,11:47,Thompson 27' 3PT Jump Shot (9 PTS) (Canaan 2 AST),nan,79 - 83,203138,Hollis Thompson,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Made Shot ,nan
+63952,21500512,4,11:32,Thompson P.FOUL (P2.T1) (L.Holtkamp),nan,nan,203138,Hollis Thompson,PHI,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+63953,21500512,4,11:32,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+63954,21500512,4,11:28,Thompson BLOCK (1 BLK),MISS Muhammad 10' Jump Shot,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,203138,Hollis Thompson,PHI,Missed Shot ,nan
+63955,21500512,4,11:27,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63956,21500512,4,11:27,nan,SUB: Wiggins FOR LaVine,nan,203897,Zach LaVine,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+63957,21500512,4,11:18,nan,A. Miller 18' Pullup Jump Shot (6 PTS),81 - 83,1889,Andre Miller,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+63958,21500512,4,10:59,Landry 19' Jump Shot (10 PTS) (McConnell 6 AST),nan,81 - 85,201171,Carl Landry,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+63959,21500512,4,10:33,Holmes S.FOUL (P3.T2) (C.Kirkland),nan,nan,1626158,Richaun Holmes,PHI,1889,Andre Miller,MIN,0,nan,nan,Foul ,Shooting
+63960,21500512,4,10:33,nan,A. Miller Free Throw 1 of 2 (7 PTS),82 - 85,1889,Andre Miller,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+63961,21500512,4,10:33,nan,A. Miller Free Throw 2 of 2 (8 PTS),83 - 85,1889,Andre Miller,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+63962,21500512,4,10:25,MISS Holmes 2' Layup,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63963,21500512,4,10:24,nan,Towns REBOUND (Off:0 Def:3),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63964,21500512,4,10:12,nan,Towns 1' Layup (6 PTS) (Bjelica 3 AST),85 - 85,1626157,Karl-Anthony Towns,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+63965,21500512,4,9:59,Holmes 2' Cutting Layup Shot (15 PTS) (Thompson 1 AST),nan,85 - 87,1626158,Richaun Holmes,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+63966,21500512,4,9:39,nan,Towns 18' Jump Shot (8 PTS) (A. Miller 2 AST),87 - 87,1626157,Karl-Anthony Towns,MIN,1889,Andre Miller,MIN,0,nan,nan,Made Shot ,nan
+63967,21500512,4,9:28,McConnell 8' Turnaround Jump Shot (7 PTS),nan,87 - 89,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+63968,21500512,4,9:11,Canaan P.FOUL (P1.T3) (D.Guthrie),nan,nan,203477,Isaiah Canaan,PHI,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+63969,21500512,4,9:11,SUB: Grant FOR Thompson,nan,nan,203138,Hollis Thompson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+63970,21500512,4,9:04,76ERS T.Foul (Def. 3 Sec Holmes ) (C.Kirkland),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+63971,21500512,4,9:04,nan,A. Miller Free Throw Technical (9 PTS),88 - 89,1889,Andre Miller,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+63972,21500512,4,8:59,nan,MISS Wiggins 14' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63973,21500512,4,8:58,Landry REBOUND (Off:1 Def:1),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63974,21500512,4,8:38,McConnell 15' Pullup Jump Shot (9 PTS),nan,88 - 91,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+63975,21500512,4,8:25,McConnell STEAL (4 STL),Wiggins Bad Pass Turnover (P1.T14),nan,203952,Andrew Wiggins,MIN,204456,T.J. McConnell,PHI,0,nan,nan,Turnover ,Bad Pass
+63976,21500512,4,8:19,MISS Canaan 28' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63977,21500512,4,8:17,Holmes REBOUND (Off:1 Def:0),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63978,21500512,4,8:17,Holmes  Putback Dunk (17 PTS),nan,88 - 93,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+63979,21500512,4,8:15,nan,Timberwolves Timeout: Regular (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63980,21500512,4,8:15,nan,SUB: Rubio FOR A. Miller,nan,1889,Andre Miller,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+63981,21500512,4,8:15,Grant BLOCK (1 BLK),MISS Wiggins 10' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,203924,Jerami Grant,PHI,Missed Shot ,nan
+63982,21500512,4,8:10,McConnell REBOUND (Off:1 Def:3),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63983,21500512,4,8:07,Holmes Lost Ball Turnover (P2.T17),Wiggins STEAL (1 STL),nan,1626158,Richaun Holmes,PHI,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Lost Ball
+63984,21500512,4,7:44,nan,MISS Wiggins 4' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63985,21500512,4,7:42,nan,Muhammad REBOUND (Off:3 Def:0),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63986,21500512,4,7:41,nan,Muhammad 2' Layup (17 PTS),90 - 93,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+63987,21500512,4,7:29,MISS Canaan 26' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63988,21500512,4,7:28,Landry REBOUND (Off:2 Def:1),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63989,21500512,4,7:26,MISS Landry 3' Layup,nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63990,21500512,4,7:25,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63991,21500512,4,7:25,nan,Bjelica L.B.FOUL (P3.T1) (C.Kirkland),nan,202357,Nemanja Bjelica,MIN,1626158,Richaun Holmes,PHI,0,nan,nan,Foul ,Loose Ball
+63992,21500512,4,7:10,MISS Canaan 2' Layup,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+63993,21500512,4,7:08,Landry REBOUND (Off:3 Def:1),nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63994,21500512,4,7:06,Landry 1' Putback Layup (12 PTS),nan,90 - 95,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+63995,21500512,4,6:47,Holmes BLOCK (1 BLK),MISS Towns 2' Layup,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,1626158,Richaun Holmes,PHI,Missed Shot ,nan
+63996,21500512,4,6:45,Grant REBOUND (Off:0 Def:2),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+63997,21500512,4,6:35,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+63998,21500512,4,6:35,nan,SUB: Garnett FOR Bjelica,nan,202357,Nemanja Bjelica,MIN,708,Kevin Garnett,MIN,0,nan,nan,Substitution ,nan
+63999,21500512,4,6:35,SUB: Stauskas FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+64000,21500512,4,6:35,SUB: Smith FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+64001,21500512,4,6:22,Landry 18' Jump Shot (14 PTS) (Smith 10 AST),nan,90 - 97,201171,Carl Landry,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+64002,21500512,4,6:01,Holmes Violation:Defensive Goaltending (C.Kirkland),nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+64003,21500512,4,6:01,nan,Wiggins 4' Jump Shot (12 PTS),92 - 97,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+64004,21500512,4,5:29,MISS Holmes 26' 3PT Jump Shot,nan,nan,1626158,Richaun Holmes,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64005,21500512,4,5:28,nan,Wiggins REBOUND (Off:0 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64006,21500512,4,5:24,nan,Garnett OFF.Foul (P2) (D.Guthrie),nan,708,Kevin Garnett,MIN,201171,Carl Landry,PHI,0,nan,nan,Foul ,Offensive
+64007,21500512,4,5:24,nan,Garnett Foul Turnover (P1.T15),nan,708,Kevin Garnett,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+64008,21500512,4,5:14,MISS Landry 21' Jump Shot,nan,nan,201171,Carl Landry,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64009,21500512,4,5:13,nan,Towns REBOUND (Off:0 Def:4),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64010,21500512,4,4:51,nan,Wiggins Offensive Charge Foul (P3.T2) (C.Kirkland),nan,203952,Andrew Wiggins,MIN,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Offensive Charge
+64011,21500512,4,4:51,nan,Wiggins Foul Turnover (P2.T16),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+64012,21500512,4,4:51,SUB: Noel FOR Holmes,nan,nan,1626158,Richaun Holmes,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+64013,21500512,4,4:42,Jump Ball Grant vs. Wiggins: Tip to Stauskas,nan,nan,203924,Jerami Grant,PHI,203952,Andrew Wiggins,MIN,203917,Nik Stauskas,PHI,Jump Ball ,nan
+64014,21500512,4,4:37,Smith 14' Jump Shot (15 PTS) (Grant 3 AST),nan,92 - 99,202397,Ish Smith,PHI,203924,Jerami Grant,PHI,0,nan,nan,Made Shot ,nan
+64015,21500512,4,4:29,Noel BLOCK (3 BLK),MISS Rubio 2' Layup,nan,201937,Ricky Rubio,MIN,0,nan,nan,203457,Nerlens Noel,PHI,Missed Shot ,nan
+64016,21500512,4,4:27,Smith REBOUND (Off:0 Def:4),nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64017,21500512,4,4:11,MISS Noel 1' Layup,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64018,21500512,4,4:10,nan,Towns REBOUND (Off:0 Def:5),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64019,21500512,4,4:06,Grant BLOCK (2 BLK),MISS Muhammad 2' Layup,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,203924,Jerami Grant,PHI,Missed Shot ,nan
+64020,21500512,4,4:03,Stauskas REBOUND (Off:0 Def:2),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64021,21500512,4,3:57,Noel  Dunk (10 PTS) (Stauskas 3 AST),nan,92 - 101,203457,Nerlens Noel,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+64022,21500512,4,3:49,nan,MISS Rubio 1' Layup,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64023,21500512,4,3:38,Noel REBOUND (Off:2 Def:7),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64024,21500512,4,3:31,Landry  Running Dunk (16 PTS) (Smith 11 AST),nan,92 - 103,201171,Carl Landry,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+64025,21500512,4,3:30,nan,Timberwolves Timeout: Regular (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+64026,21500512,4,3:19,Grant P.FOUL (P5.T4) (C.Kirkland),nan,nan,203924,Jerami Grant,PHI,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal
+64027,21500512,4,3:12,Grant S.FOUL (P6.PN) (D.Guthrie),nan,nan,203924,Jerami Grant,PHI,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+64028,21500512,4,3:12,SUB: Sampson FOR Grant,nan,nan,203924,Jerami Grant,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+64029,21500512,4,3:12,nan,Wiggins Free Throw 1 of 2 (13 PTS),93 - 103,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+64030,21500512,4,3:12,nan,Wiggins Free Throw 2 of 2 (14 PTS),94 - 103,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+64031,21500512,4,2:49,Smith 19' Pullup Jump Shot (17 PTS),nan,94 - 105,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+64032,21500512,4,2:36,nan,Muhammad  3PT Jump Shot (20 PTS) (Wiggins 2 AST),97 - 105,203498,Shabazz Muhammad,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+64033,21500512,4,2:35,76ERS Timeout: Short (Full 4 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+64034,21500512,4,2:15,Smith 19' Pullup Jump Shot (19 PTS),nan,97 - 107,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+64035,21500512,4,2:00,Smith STEAL (3 STL),Wiggins Lost Ball Turnover (P3.T17),nan,203952,Andrew Wiggins,MIN,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Lost Ball
+64036,21500512,4,1:56,MISS Stauskas 2' Layup,Wiggins BLOCK (2 BLK),nan,203917,Nik Stauskas,PHI,0,nan,nan,203952,Andrew Wiggins,MIN,Missed Shot ,nan
+64037,21500512,4,1:55,Sampson REBOUND (Off:1 Def:2),nan,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64038,21500512,4,1:36,MISS Smith 9' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64039,21500512,4,1:35,Stauskas REBOUND (Off:1 Def:2),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64040,21500512,4,1:07,Smith 6' Driving Bank Shot (21 PTS),nan,97 - 109,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+64041,21500512,4,0:53,nan,MISS Rubio 14' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64042,21500512,4,0:48,Stauskas REBOUND (Off:1 Def:3),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64043,21500512,4,0:29,MISS Sampson 26' 3PT Jump Shot,nan,nan,203960,JaKarr Sampson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64044,21500512,4,0:28,nan,Garnett REBOUND (Off:0 Def:2),nan,708,Kevin Garnett,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64045,21500512,4,0:28,Sampson S.FOUL (P3.PN) (C.Kirkland),nan,nan,203960,JaKarr Sampson,PHI,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+64046,21500512,4,0:28,nan,Wiggins Free Throw 1 of 2 (15 PTS),98 - 109,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+64047,21500512,4,0:28,nan,Wiggins Free Throw 2 of 2 (16 PTS),99 - 109,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+64048,21500512,4,0:28,76ERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+64049,21500512,4,0:28,nan,SUB: Bjelica FOR Garnett,nan,708,Kevin Garnett,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+64050,21500512,4,0:28,SUB: Holmes FOR Noel,nan,nan,203457,Nerlens Noel,PHI,1626158,Richaun Holmes,PHI,0,nan,nan,Substitution ,nan
+64051,21500512,4,0:28,SUB: Canaan FOR Sampson,nan,nan,203960,JaKarr Sampson,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+64052,21500512,4,0:07,MISS Smith 19' Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+64053,21500512,4,0:06,nan,Towns REBOUND (Off:0 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+64054,21500512,4,0:00,nan,nan,99 - 109,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

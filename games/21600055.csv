@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+159876,21600055,4,12:00,nan,nan,84 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+159877,21600055,4,11:41,nan,Lowry P.FOUL (P2.T1) (M.Boland),nan,200768,Kyle Lowry,TOR,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Personal
+159878,21600055,4,11:27,MISS Thornton 14' Jump Shot,nan,nan,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159879,21600055,4,11:27,nan,Lowry REBOUND (Off:0 Def:1),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159880,21600055,4,11:21,nan,Lowry 26' 3PT Pullup Jump Shot (14 PTS),87 - 75,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+159881,21600055,4,11:04,Porter Jr. 6' Floating Jump Shot (17 PTS) (Satoransky 2 AST),nan,87 - 77,203490,Otto Porter Jr.,WAS,203107,Tomas Satoransky,WAS,0,nan,nan,Made Shot ,nan
+159882,21600055,4,10:42,nan,MISS Joseph 2' Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159883,21600055,4,10:40,Gortat REBOUND (Off:0 Def:8),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159884,21600055,4,10:30,MISS Beal 18' Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159885,21600055,4,10:28,nan,Poeltl REBOUND (Off:1 Def:4),nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159886,21600055,4,10:07,nan,MISS Patterson 10' Jump Shot,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159887,21600055,4,10:06,Gortat REBOUND (Off:0 Def:9),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159888,21600055,4,9:47,Thornton 5' Driving Bank Shot (4 PTS) (Beal 2 AST),nan,87 - 79,201977,Marcus Thornton,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+159889,21600055,4,9:47,nan,Poeltl S.FOUL (P5.T2) (L.Holtkamp),nan,1627751,Jakob Poeltl,TOR,201977,Marcus Thornton,WAS,0,nan,nan,Foul ,Shooting
+159890,21600055,4,9:47,SUB: Wall FOR Beal,nan,nan,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+159891,21600055,4,9:47,SUB: Nicholson FOR Gortat,nan,nan,101162,Marcin Gortat,WAS,203094,Andrew Nicholson,WAS,0,nan,nan,Substitution ,nan
+159892,21600055,4,9:47,Thornton Free Throw 1 of 1 (5 PTS),nan,87 - 80,201977,Marcus Thornton,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+159893,21600055,4,9:31,nan,Ross 1' Driving Layup (14 PTS),89 - 80,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+159894,21600055,4,9:31,Nicholson S.FOUL (P1.T1) (L.Holtkamp),nan,nan,203094,Andrew Nicholson,WAS,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Shooting
+159895,21600055,4,9:31,nan,Ross Free Throw 1 of 1 (15 PTS),90 - 80,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+159896,21600055,4,9:17,Porter Jr. 7' Driving Bank Hook Shot (19 PTS) (Wall 8 AST),nan,90 - 82,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+159897,21600055,4,9:08,Satoransky P.FOUL (P1.T2) (L.Holtkamp),nan,nan,203107,Tomas Satoransky,WAS,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Personal
+159898,21600055,4,8:57,nan,MISS Lowry 29' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159899,21600055,4,8:56,Satoransky REBOUND (Off:0 Def:2),nan,nan,203107,Tomas Satoransky,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159900,21600055,4,8:47,Satoransky 1' Cutting Finger Roll Layup Shot (2 PTS) (Wall 9 AST),nan,90 - 84,203107,Tomas Satoransky,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+159901,21600055,4,8:38,Satoransky P.FOUL (P2.T3) (M.Boland),nan,nan,203107,Tomas Satoransky,WAS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+159902,21600055,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+159903,21600055,4,8:30,nan,Lowry Out of Bounds Lost Ball Turnover (P2.T9),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+159904,21600055,4,8:22,Wall 2' Driving Finger Roll Layup (20 PTS),nan,90 - 86,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159905,21600055,4,8:10,nan,Poeltl OFF.Foul (P6) (M.Boland),nan,1627751,Jakob Poeltl,TOR,203107,Tomas Satoransky,WAS,0,nan,nan,Foul ,Offensive
+159906,21600055,4,8:10,nan,Poeltl Foul Turnover (P1.T10),nan,1627751,Jakob Poeltl,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+159907,21600055,4,8:10,nan,SUB: Valanciunas FOR Poeltl,nan,1627751,Jakob Poeltl,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+159908,21600055,4,8:00,Wall Bad Pass Turnover (P8.T20),Joseph STEAL (3 STL),nan,202322,John Wall,WAS,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Bad Pass
+159909,21600055,4,7:48,Wall STEAL (2 STL),Joseph Bad Pass Turnover (P2.T11),nan,202709,Cory Joseph,TOR,202322,John Wall,WAS,0,nan,nan,Turnover ,Bad Pass
+159910,21600055,4,7:44,Wall  Running Layup (22 PTS),nan,90 - 88,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159911,21600055,4,7:25,Porter Jr. P.FOUL (P1.T4) (L.Holtkamp),nan,nan,203490,Otto Porter Jr.,WAS,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Personal
+159912,21600055,4,7:25,nan,SUB: DeRozan FOR Joseph,nan,202709,Cory Joseph,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+159913,21600055,4,7:24,SUB: Gortat FOR Nicholson,nan,nan,203094,Andrew Nicholson,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+159914,21600055,4,7:16,Wall P.FOUL (P2.PN) (M.Boland),nan,nan,202322,John Wall,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal
+159915,21600055,4,7:16,nan,DeRozan Free Throw 1 of 2 (28 PTS),91 - 88,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159916,21600055,4,7:16,nan,DeRozan Free Throw 2 of 2 (29 PTS),92 - 88,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159917,21600055,4,7:05,nan,Valanciunas S.FOUL (P3.T3) (M.Boland),nan,202685,Jonas Valanciunas,TOR,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+159918,21600055,4,7:05,Wall Free Throw 1 of 2 (23 PTS),nan,92 - 89,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159919,21600055,4,7:05,SUB: Beal FOR Thornton,nan,nan,201977,Marcus Thornton,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+159920,21600055,4,7:05,Wall Free Throw 2 of 2 (24 PTS),nan,92 - 90,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159921,21600055,4,6:49,Wall STEAL (3 STL),Lowry Lost Ball Turnover (P3.T12),nan,200768,Kyle Lowry,TOR,202322,John Wall,WAS,0,nan,nan,Turnover ,Lost Ball
+159922,21600055,4,6:45,Wall 1' Running Reverse Layup (26 PTS),nan,92 - 92,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159923,21600055,4,6:32,nan,Raptors Timeout: Regular (Reg.3 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159924,21600055,4,6:32,nan,SUB: Powell FOR Ross,nan,203082,Terrence Ross,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+159925,21600055,4,6:21,nan,MISS DeRozan 17' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159926,21600055,4,6:20,nan,DeRozan REBOUND (Off:1 Def:4),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159927,21600055,4,6:20,Porter Jr. S.FOUL (P2.PN) (L.Holtkamp),nan,nan,203490,Otto Porter Jr.,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+159928,21600055,4,6:20,nan,DeRozan Free Throw 1 of 2 (30 PTS),93 - 92,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159929,21600055,4,6:20,nan,MISS DeRozan Free Throw 2 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159930,21600055,4,6:19,Porter Jr. REBOUND (Off:4 Def:8),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159931,21600055,4,6:08,nan,Powell P.FOUL (P1.T4) (D.Stafford),nan,1626181,Norman Powell,TOR,202322,John Wall,WAS,0,nan,nan,Foul ,Personal
+159932,21600055,4,5:56,MISS Beal 29' 3PT Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159933,21600055,4,5:55,nan,Valanciunas REBOUND (Off:0 Def:5),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159934,21600055,4,5:46,nan,Lowry 28' 3PT Pullup Jump Shot (17 PTS),96 - 92,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+159935,21600055,4,5:28,Wall 1' Driving Finger Roll Layup (28 PTS),nan,96 - 94,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159936,21600055,4,5:06,nan,Valanciunas 1' Reverse Layup (8 PTS) (Powell 4 AST),98 - 94,202685,Jonas Valanciunas,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+159937,21600055,4,4:50,MISS Beal 14' Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159938,21600055,4,4:49,nan,Powell REBOUND (Off:0 Def:1),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159939,21600055,4,4:33,nan,Patterson 13' Jump Shot (10 PTS) (DeRozan 5 AST),100 - 94,202335,Patrick Patterson,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+159940,21600055,4,4:33,WIZARDS Timeout: Regular (Full 5 Short 0),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159941,21600055,4,4:33,SUB: Mark Morris FOR Satoransky,nan,nan,203107,Tomas Satoransky,WAS,202693,Markieff Morris,WAS,0,nan,nan,Substitution ,nan
+159942,21600055,4,4:19,Porter Jr. 23' Jump Shot (21 PTS) (Wall 10 AST),nan,100 - 96,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+159943,21600055,4,4:00,nan,MISS DeRozan 19' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159944,21600055,4,3:59,Mark Morris REBOUND (Off:0 Def:3),nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159945,21600055,4,3:49,MISS Mark Morris 19' Jump Shot,nan,nan,202693,Markieff Morris,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159946,21600055,4,3:48,nan,Powell REBOUND (Off:0 Def:2),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159947,21600055,4,3:44,Porter Jr. STEAL (1 STL),Powell Bad Pass Turnover (P1.T13),nan,1626181,Norman Powell,TOR,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Bad Pass
+159948,21600055,4,3:31,MISS Wall 26' 3PT Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159949,21600055,4,3:30,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159950,21600055,4,3:30,Mark Morris L.B.FOUL (P3.PN) (M.Boland),nan,nan,202693,Markieff Morris,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Loose Ball
+159951,21600055,4,3:30,nan,DeRozan Free Throw 1 of 2 (31 PTS),101 - 96,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159952,21600055,4,3:30,nan,MISS DeRozan Free Throw 2 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159953,21600055,4,3:29,Porter Jr. REBOUND (Off:4 Def:9),nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159954,21600055,4,3:04,MISS Wall 29' 3PT Jump Shot,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159955,21600055,4,3:02,Gortat REBOUND (Off:1 Def:9),nan,nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159956,21600055,4,2:58,Porter Jr. 3' Layup (23 PTS) (Wall 11 AST),nan,101 - 98,203490,Otto Porter Jr.,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+159957,21600055,4,2:37,Gortat Shooting Block Foul (P2.PN) (L.Holtkamp),nan,nan,101162,Marcin Gortat,WAS,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting Block
+159958,21600055,4,2:37,nan,MISS Lowry Free Throw 1 of 2,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159959,21600055,4,2:37,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159960,21600055,4,2:37,nan,Lowry Free Throw 2 of 2 (18 PTS),102 - 98,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159961,21600055,4,2:26,MISS Beal 10' Jump Shot,nan,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159962,21600055,4,2:26,nan,Patterson REBOUND (Off:1 Def:2),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159963,21600055,4,2:05,nan,DeRozan 22' Pullup Jump Shot (33 PTS) (Patterson 2 AST),104 - 98,201942,DeMar DeRozan,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+159964,21600055,4,1:53,Wall 3' Driving Layup (30 PTS),nan,104 - 100,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159965,21600055,4,1:53,nan,Valanciunas Shooting Block Foul (P4.PN) (D.Stafford),nan,202685,Jonas Valanciunas,TOR,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting Block
+159966,21600055,4,1:53,MISS Wall Free Throw 1 of 1,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+159967,21600055,4,1:52,nan,Valanciunas REBOUND (Off:0 Def:6),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159968,21600055,4,1:38,nan,DeRozan 19' Fadeaway Jumper (35 PTS),106 - 100,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+159969,21600055,4,1:32,Wall 2' Driving Finger Roll Layup (32 PTS),nan,106 - 102,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+159970,21600055,4,1:13,Porter Jr. S.FOUL (P3.PN) (D.Stafford),nan,nan,203490,Otto Porter Jr.,WAS,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+159971,21600055,4,1:13,nan,Valanciunas Free Throw 1 of 2 (9 PTS),107 - 102,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159972,21600055,4,1:13,nan,Valanciunas Free Throw 2 of 2 (10 PTS),108 - 102,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159973,21600055,4,1:06,Wall Bad Pass Turnover (P9.T21),DeRozan STEAL (2 STL),nan,202322,John Wall,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Turnover ,Bad Pass
+159974,21600055,4,1:03,Wall Personal Take Foul (P3.PN) (L.Holtkamp),nan,nan,202322,John Wall,WAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal Take
+159975,21600055,4,1:03,nan,DeRozan Free Throw 1 of 2 (36 PTS),109 - 102,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159976,21600055,4,1:03,nan,DeRozan Free Throw 2 of 2 (37 PTS),110 - 102,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159977,21600055,4,1:03,WIZARDS Timeout: Short (Full 5 Short 1),nan,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+159978,21600055,4,0:56,nan,Valanciunas S.FOUL (P5.PN) (M.Boland),nan,202685,Jonas Valanciunas,TOR,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+159979,21600055,4,0:56,Wall Free Throw 1 of 2 (33 PTS),nan,110 - 103,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159980,21600055,4,0:56,MISS Wall Free Throw 2 of 2,nan,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159981,21600055,4,0:54,nan,Valanciunas REBOUND (Off:0 Def:7),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159982,21600055,4,0:33,nan,DeRozan 29' 3PT Pullup Jump Shot (40 PTS),113 - 103,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+159983,21600055,4,0:15,MISS Porter Jr. 26' 3PT Jump Shot,nan,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159984,21600055,4,0:14,nan,Powell REBOUND (Off:0 Def:3),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159985,21600055,4,0:00,nan,nan,113 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

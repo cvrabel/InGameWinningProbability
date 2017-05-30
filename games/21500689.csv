@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+86167,21500689,4,12:00,nan,nan,73 - 102,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+86168,21500689,4,11:38,nan,MISS Capela 9' Hook Shot,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86169,21500689,4,11:37,Marjanovic REBOUND (Off:1 Def:1),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86170,21500689,4,11:21,nan,Terry P.FOUL (P1.T1) (K.Lane),nan,1891,Jason Terry,HOU,201980,Danny Green,SAS,0,nan,nan,Foul ,Personal
+86171,21500689,4,11:12,nan,Capela S.FOUL (P5.T2) (B.Spooner),nan,203991,Clint Capela,HOU,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Shooting
+86172,21500689,4,11:12,Marjanovic Free Throw 1 of 2 (1 PTS),nan,73 - 103,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86173,21500689,4,11:12,nan,SUB: Jones FOR Capela,nan,203991,Clint Capela,HOU,203093,Terrence Jones,HOU,0,nan,nan,Substitution ,nan
+86174,21500689,4,11:12,MISS Marjanovic Free Throw 2 of 2,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86175,21500689,4,11:12,nan,Jones REBOUND (Off:0 Def:1),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86176,21500689,4,10:56,nan,Terry  3PT Jump Shot (4 PTS) (Thornton 2 AST),76 - 103,1891,Jason Terry,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+86177,21500689,4,10:40,nan,Thornton S.FOUL (P1.T3) (K.Lane),nan,201977,Marcus Thornton,HOU,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+86178,21500689,4,10:40,Simmons Free Throw 1 of 2 (1 PTS),nan,76 - 104,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86179,21500689,4,10:40,Simmons Free Throw 2 of 2 (2 PTS),nan,76 - 105,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86180,21500689,4,10:25,nan,MISS Jones 8' Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86181,21500689,4,10:24,Marjanovic REBOUND (Off:1 Def:2),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86182,21500689,4,10:18,Simmons Traveling Turnover (P1.T12),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+86183,21500689,4,10:11,Marjanovic S.FOUL (P3.T1) (K.Lane),nan,nan,1626246,Boban Marjanovic,SAS,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Shooting
+86184,21500689,4,10:11,nan,Thornton Free Throw 1 of 2 (1 PTS),77 - 105,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86185,21500689,4,10:11,nan,Thornton Free Throw 2 of 2 (2 PTS),78 - 105,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86186,21500689,4,9:59,West Bad Pass Turnover (P2.T13),Jones STEAL (1 STL),nan,2561,David West,SAS,203093,Terrence Jones,HOU,0,nan,nan,Turnover ,Bad Pass
+86187,21500689,4,9:52,nan,MISS Jones 7' Running Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86188,21500689,4,9:51,Marjanovic REBOUND (Off:1 Def:3),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86189,21500689,4,9:43,Mills Bad Pass Turnover (P2.T14),Lawson STEAL (2 STL),nan,201988,Patty Mills,SAS,201951,Ty Lawson,HOU,0,nan,nan,Turnover ,Bad Pass
+86190,21500689,4,9:37,nan,MISS Jones 25' 3PT Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86191,21500689,4,9:35,nan,Thornton REBOUND (Off:2 Def:1),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86192,21500689,4,9:31,nan,Terry 25' 3PT Jump Shot (7 PTS) (Thornton 3 AST),81 - 105,1891,Jason Terry,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+86193,21500689,4,9:31,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+86194,21500689,4,9:31,SUB: Diaw FOR Green,nan,nan,201980,Danny Green,SAS,2564,Boris Diaw,SAS,0,nan,nan,Substitution ,nan
+86195,21500689,4,9:31,SUB: McCallum FOR Mills,nan,nan,201988,Patty Mills,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+86196,21500689,4,9:31,SUB: Butler FOR West,nan,nan,2561,David West,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+86197,21500689,4,9:09,MISS Diaw 25' 3PT Jump Shot,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86198,21500689,4,9:08,nan,Terry REBOUND (Off:0 Def:2),nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86199,21500689,4,8:58,nan,Smith 3' Jump Shot (9 PTS),83 - 105,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+86200,21500689,4,8:44,MISS Marjanovic 6' Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86201,21500689,4,8:43,nan,Lawson REBOUND (Off:0 Def:1),nan,201951,Ty Lawson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86202,21500689,4,8:36,nan,MISS Smith 26' 3PT Jump Shot,nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86203,21500689,4,8:35,McCallum REBOUND (Off:0 Def:1),nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86204,21500689,4,8:25,Marjanovic  Dunk (3 PTS) (McCallum 1 AST),nan,83 - 107,1626246,Boban Marjanovic,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+86205,21500689,4,8:01,nan,MISS Smith 9' Turnaround Hook Shot,nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86206,21500689,4,8:00,Marjanovic REBOUND (Off:1 Def:4),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86207,21500689,4,7:40,McCallum 24' 3PT Jump Shot (3 PTS) (Butler 1 AST),nan,83 - 110,203492,Ray McCallum,SAS,2446,Rasual Butler,SAS,0,nan,nan,Made Shot ,nan
+86208,21500689,4,7:14,nan,Jones  Driving Dunk (2 PTS),85 - 110,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+86209,21500689,4,6:54,nan,Smith S.FOUL (P3.T4) (K.Lane),nan,2746,Josh Smith,HOU,1626246,Boban Marjanovic,SAS,0,nan,nan,Foul ,Shooting
+86210,21500689,4,6:54,Marjanovic Free Throw 1 of 2 (4 PTS),nan,85 - 111,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86211,21500689,4,6:54,Marjanovic Free Throw 2 of 2 (5 PTS),nan,85 - 112,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86212,21500689,4,6:43,Simmons P.FOUL (P1.T2) (B.Spooner),nan,nan,203613,Jonathon Simmons,SAS,1891,Jason Terry,HOU,0,nan,nan,Foul ,Personal
+86213,21500689,4,6:31,Marjanovic S.FOUL (P4.T3) (K.Lane),nan,nan,1626246,Boban Marjanovic,SAS,2746,Josh Smith,HOU,0,nan,nan,Foul ,Shooting
+86214,21500689,4,6:31,nan,Smith Free Throw 1 of 2 (10 PTS),86 - 112,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86215,21500689,4,6:31,nan,Smith Free Throw 2 of 2 (11 PTS),87 - 112,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86216,21500689,4,6:15,MISS Diaw 25' 3PT Jump Shot,nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86217,21500689,4,6:13,Marjanovic REBOUND (Off:2 Def:4),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86218,21500689,4,6:10,MISS Marjanovic 3' Layup,Smith BLOCK (1 BLK),nan,1626246,Boban Marjanovic,SAS,0,nan,nan,2746,Josh Smith,HOU,Missed Shot ,nan
+86219,21500689,4,6:10,Jump Ball Marjanovic vs. Smith: Tip to Terry,nan,nan,1626246,Boban Marjanovic,SAS,2746,Josh Smith,HOU,1891,Jason Terry,HOU,Jump Ball ,nan
+86220,21500689,4,6:10,nan,Smith REBOUND (Off:1 Def:6),nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86221,21500689,4,5:55,Butler BLOCK (1 BLK),MISS Thornton 4' Driving Bank Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,2446,Rasual Butler,SAS,Missed Shot ,nan
+86222,21500689,4,5:53,Marjanovic REBOUND (Off:2 Def:5),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86223,21500689,4,5:35,McCallum 11' Jump Shot (5 PTS),nan,87 - 114,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+86224,21500689,4,5:18,nan,Jones 2' Driving Layup (4 PTS),89 - 114,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+86225,21500689,4,5:00,MISS McCallum 1' Cutting Finger Roll Layup Shot,nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86226,21500689,4,4:59,nan,Terry REBOUND (Off:0 Def:3),nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86227,21500689,4,4:51,nan,MISS Terry 26' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86228,21500689,4,4:50,nan,Lawson REBOUND (Off:1 Def:1),nan,201951,Ty Lawson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86229,21500689,4,4:47,nan,MISS Thornton 24' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86230,21500689,4,4:46,Marjanovic REBOUND (Off:2 Def:6),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86231,21500689,4,4:30,McCallum 24' 3PT Jump Shot (8 PTS) (Butler 2 AST),nan,89 - 117,203492,Ray McCallum,SAS,2446,Rasual Butler,SAS,0,nan,nan,Made Shot ,nan
+86232,21500689,4,4:13,Diaw S.FOUL (P4.T4) (M.Lindsay),nan,nan,2564,Boris Diaw,SAS,203093,Terrence Jones,HOU,0,nan,nan,Foul ,Shooting
+86233,21500689,4,4:13,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+86234,21500689,4,4:13,nan,Jones Free Throw 1 of 2 (5 PTS),90 - 117,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86235,21500689,4,4:13,nan,MISS Jones Free Throw 2 of 2,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86236,21500689,4,4:12,Marjanovic REBOUND (Off:2 Def:7),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86237,21500689,4,3:49,Butler 19' Jump Shot (2 PTS) (McCallum 2 AST),nan,90 - 119,2446,Rasual Butler,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+86238,21500689,4,3:41,nan,Terry 25' 3PT Jump Shot (10 PTS),93 - 119,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+86239,21500689,4,3:30,MISS Butler 24' 3PT Jump Shot,nan,nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86240,21500689,4,3:28,McCallum REBOUND (Off:1 Def:1),nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86241,21500689,4,3:26,Marjanovic  Dunk (7 PTS) (McCallum 3 AST),nan,93 - 121,1626246,Boban Marjanovic,SAS,203492,Ray McCallum,SAS,0,nan,nan,Made Shot ,nan
+86242,21500689,4,3:10,nan,MISS Terry 24' 3PT Jump Shot,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86243,21500689,4,3:09,nan,Jones REBOUND (Off:1 Def:1),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86244,21500689,4,3:06,Simmons S.FOUL (P2.PN) (M.Lindsay),nan,nan,203613,Jonathon Simmons,SAS,203093,Terrence Jones,HOU,0,nan,nan,Foul ,Shooting
+86245,21500689,4,3:06,nan,Jones Free Throw 1 of 2 (6 PTS),94 - 121,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86246,21500689,4,3:06,nan,Jones Free Throw 2 of 2 (7 PTS),95 - 121,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86247,21500689,4,2:57,MISS Simmons 7' Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86248,21500689,4,2:55,Marjanovic REBOUND (Off:3 Def:7),nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86249,21500689,4,2:54,Marjanovic 3' Putback Layup (9 PTS),nan,95 - 123,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+86250,21500689,4,2:40,nan,Jones 1' Driving Layup (9 PTS),97 - 123,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+86251,21500689,4,2:21,MISS Marjanovic 8' Turnaround Jump Shot,nan,nan,1626246,Boban Marjanovic,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86252,21500689,4,2:20,nan,Thornton REBOUND (Off:2 Def:2),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86253,21500689,4,2:13,nan,MISS Jones 24' 3PT Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86254,21500689,4,2:11,Butler REBOUND (Off:0 Def:1),nan,nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86255,21500689,4,2:00,MISS Simmons 19' Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86256,21500689,4,1:59,nan,Thornton REBOUND (Off:2 Def:3),nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86257,21500689,4,1:50,nan,MISS Smith 25' 3PT Jump Shot,nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86258,21500689,4,1:48,McCallum REBOUND (Off:1 Def:2),nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86259,21500689,4,1:38,MISS Simmons  3PT Jump Shot,nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86260,21500689,4,1:37,Simmons REBOUND (Off:1 Def:0),nan,nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86261,21500689,4,1:35,Simmons  Dunk (4 PTS),nan,97 - 125,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+86262,21500689,4,1:24,Diaw Shooting Block Foul (P5.PN) (M.Lindsay),nan,nan,2564,Boris Diaw,SAS,203093,Terrence Jones,HOU,0,nan,nan,Foul ,Shooting Block
+86263,21500689,4,1:24,nan,Rockets Timeout: Regular (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+86264,21500689,4,1:24,nan,Jones Free Throw 1 of 2 (10 PTS),98 - 125,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+86265,21500689,4,1:24,nan,Jones Free Throw 2 of 2 (11 PTS),99 - 125,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+86266,21500689,4,1:13,Marjanovic 6' Turnaround Jump Shot (11 PTS) (Diaw 2 AST),nan,99 - 127,1626246,Boban Marjanovic,SAS,2564,Boris Diaw,SAS,0,nan,nan,Made Shot ,nan
+86267,21500689,4,0:55,nan,Smith OFF.Foul (P4) (M.Lindsay),nan,2746,Josh Smith,HOU,2564,Boris Diaw,SAS,0,nan,nan,Foul ,Offensive
+86268,21500689,4,0:55,nan,Smith Foul Turnover (P3.T15),nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+86269,21500689,4,0:55,nan,Smith T.FOUL (P4.T4) (B.Spooner),nan,2746,Josh Smith,HOU,0,nan,nan,0,nan,nan,Foul ,Technical
+86270,21500689,4,0:55,Simmons Free Throw Technical (5 PTS),nan,99 - 128,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+86271,21500689,4,0:43,Marjanovic  Dunk (13 PTS) (Diaw 3 AST),nan,99 - 130,1626246,Boban Marjanovic,SAS,2564,Boris Diaw,SAS,0,nan,nan,Made Shot ,nan
+86272,21500689,4,0:28,nan,MISS Jones 14' Jump Shot,nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86273,21500689,4,0:27,Diaw REBOUND (Off:0 Def:2),nan,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86274,21500689,4,0:05,MISS McCallum 24' 3PT Jump Shot,nan,nan,203492,Ray McCallum,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+86275,21500689,4,0:04,nan,Jones REBOUND (Off:1 Def:2),nan,203093,Terrence Jones,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+86276,21500689,4,0:00,nan,nan,99 - 130,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

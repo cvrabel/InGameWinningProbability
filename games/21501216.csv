@@ -1,0 +1,91 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+151248,21501216,4,12:00,nan,nan,64 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+151249,21501216,4,11:38,MISS Green 16' Turnaround Fadeaway Shot,Green BLOCK (1 BLK),nan,201145,Jeff Green,LAC,0,nan,nan,203210,JaMychal Green,MEM,Missed Shot ,nan
+151250,21501216,4,11:30,Prigioni REBOUND (Off:2 Def:1),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151251,21501216,4,11:29,Prigioni 2' Putback Layup (5 PTS),nan,64 - 86,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+151252,21501216,4,11:20,nan,Hairston 28' 3PT Jump Shot (3 PTS) (Munford 3 AST),67 - 86,203798,PJ Hairston,MEM,204098,Xavier Munford,MEM,0,nan,nan,Made Shot ,nan
+151253,21501216,4,11:07,Aldrich  Dunk (4 PTS) (Pierce 1 AST),nan,67 - 88,202332,Cole Aldrich,LAC,1718,Paul Pierce,LAC,0,nan,nan,Made Shot ,nan
+151254,21501216,4,10:50,nan,Hairston 25' 3PT Turnaround Jump Shot (6 PTS) (Munford 4 AST),70 - 88,203798,PJ Hairston,MEM,204098,Xavier Munford,MEM,0,nan,nan,Made Shot ,nan
+151255,21501216,4,10:28,nan,Martin S.FOUL (P4.T1) (M.McCutchen),nan,1626185,Jarell Martin,MEM,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting
+151256,21501216,4,10:28,Aldrich Free Throw 1 of 2 (5 PTS),nan,70 - 89,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151257,21501216,4,10:28,Aldrich Free Throw 2 of 2 (6 PTS),nan,70 - 90,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151258,21501216,4,10:04,nan,MISS Martin 19' Jump Shot,nan,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151259,21501216,4,10:03,Aldrich REBOUND (Off:0 Def:3),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151260,21501216,4,9:44,MISS Green 25' 3PT Jump Shot,nan,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151261,21501216,4,9:42,nan,Hairston REBOUND (Off:0 Def:2),nan,203798,PJ Hairston,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151262,21501216,4,9:41,Pierce Personal Take Foul (P1.T1) (M.McCutchen),nan,nan,1718,Paul Pierce,LAC,203798,PJ Hairston,MEM,0,nan,nan,Foul ,Personal Take
+151263,21501216,4,9:31,Pierce P.FOUL (P2.T2) (M.McCutchen),nan,nan,1718,Paul Pierce,LAC,202362,Lance Stephenson,MEM,0,nan,nan,Foul ,Personal
+151264,21501216,4,9:18,nan,Munford 4' Driving Floating Jump Shot (9 PTS) (Stephenson 3 AST),72 - 90,204098,Xavier Munford,MEM,202362,Lance Stephenson,MEM,0,nan,nan,Made Shot ,nan
+151265,21501216,4,8:57,Green  3PT Jump Shot (11 PTS) (Prigioni 2 AST),nan,72 - 93,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+151266,21501216,4,8:38,Aldrich STEAL (1 STL),Hairston Lost Ball Turnover (P2.T13),nan,203798,PJ Hairston,MEM,202332,Cole Aldrich,LAC,0,nan,nan,Turnover ,Lost Ball
+151267,21501216,4,8:33,W. Johnson 2' Running Layup (5 PTS),nan,72 - 95,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+151268,21501216,4,8:13,nan,MISS Stephenson 5' Turnaround Jump Shot,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151269,21501216,4,8:11,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151270,21501216,4,8:11,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+151271,21501216,4,8:11,nan,nan,nan,376,Eric Montross,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+151272,21501216,4,8:00,Aldrich BLOCK (1 BLK),MISS Stephenson 3' Reverse Layup,nan,202362,Lance Stephenson,MEM,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+151273,21501216,4,8:00,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151274,21501216,4,7:50,nan,MISS Stephenson 14' Step Back Jump Shot,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151275,21501216,4,7:46,nan,Green REBOUND (Off:5 Def:1),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151276,21501216,4,7:46,nan,Green  Putback Dunk (6 PTS),74 - 95,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+151277,21501216,4,7:25,MISS W. Johnson 24' 3PT Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151278,21501216,4,7:24,Prigioni REBOUND (Off:3 Def:1),nan,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151279,21501216,4,7:02,MISS Pierce 26' 3PT Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151280,21501216,4,7:02,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151281,21501216,4,6:48,nan,MISS Hairston 27' 3PT Jump Shot,nan,203798,PJ Hairston,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151282,21501216,4,6:48,nan,Green REBOUND (Off:6 Def:1),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151283,21501216,4,6:45,Aldrich BLOCK (2 BLK),MISS Hairston 2' Layup,nan,203798,PJ Hairston,MEM,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+151284,21501216,4,6:42,Green REBOUND (Off:2 Def:1),nan,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151285,21501216,4,6:36,MISS Pierce 8' Turnaround Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151286,21501216,4,6:35,nan,Green REBOUND (Off:6 Def:2),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151287,21501216,4,6:26,Aldrich BLOCK (3 BLK),MISS Stephenson 4' Jump Shot,nan,202362,Lance Stephenson,MEM,0,nan,nan,202332,Cole Aldrich,LAC,Missed Shot ,nan
+151288,21501216,4,6:22,Aldrich REBOUND (Off:0 Def:4),nan,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151289,21501216,4,6:17,MISS W. Johnson 26' 3PT Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151290,21501216,4,6:17,nan,Stephenson REBOUND (Off:0 Def:2),nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151291,21501216,4,6:17,nan,Grizzlies Timeout: Regular (Reg.4 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+151292,21501216,4,6:00,nan,Green 19' Turnaround Bank Shot (8 PTS) (Martin 2 AST),76 - 95,203210,JaMychal Green,MEM,1626185,Jarell Martin,MEM,0,nan,nan,Made Shot ,nan
+151293,21501216,4,5:39,MISS Green 3' Layup,nan,nan,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151294,21501216,4,5:37,nan,Green REBOUND (Off:6 Def:3),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151295,21501216,4,5:30,nan,Stephenson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+151296,21501216,4,5:20,nan,Martin S.FOUL (P5.T2) (D.Guthrie),nan,1626185,Jarell Martin,MEM,1718,Paul Pierce,LAC,0,nan,nan,Foul ,Shooting
+151297,21501216,4,5:20,Pierce Free Throw 1 of 2 (5 PTS),nan,76 - 96,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151298,21501216,4,5:20,SUB: Ayres FOR Aldrich,nan,nan,202332,Cole Aldrich,LAC,201965,Jeff Ayres,LAC,0,nan,nan,Substitution ,nan
+151299,21501216,4,5:20,SUB: Wilcox FOR W. Johnson,nan,nan,202325,Wesley Johnson,LAC,203912,CJ Wilcox,LAC,0,nan,nan,Substitution ,nan
+151300,21501216,4,5:20,Pierce Free Throw 2 of 2 (6 PTS),nan,76 - 97,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151301,21501216,4,5:00,nan,MISS Munford 16' Pullup Jump Shot,nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151302,21501216,4,4:57,nan,Stephenson REBOUND (Off:1 Def:2),nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151303,21501216,4,4:57,nan,Stephenson 1' Tip Layup Shot (9 PTS),78 - 97,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+151304,21501216,4,4:42,MISS Pierce 25' 3PT Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151305,21501216,4,4:41,nan,Munford REBOUND (Off:0 Def:3),nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151306,21501216,4,4:33,Prigioni STEAL (1 STL),Munford Bad Pass Turnover (P3.T15),nan,204098,Xavier Munford,MEM,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Bad Pass
+151307,21501216,4,4:20,MISS Pierce 12' Pullup Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151308,21501216,4,4:17,nan,Green REBOUND (Off:6 Def:4),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151309,21501216,4,4:08,nan,Stephenson 2' Driving Finger Roll Layup (11 PTS),80 - 97,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+151310,21501216,4,3:55,Wilcox 17' Turnaround Jump Shot (2 PTS) (Prigioni 3 AST),nan,80 - 99,203912,CJ Wilcox,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+151311,21501216,4,3:35,nan,MISS Hairston 27' 3PT Jump Shot,nan,203798,PJ Hairston,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151312,21501216,4,3:34,Pierce REBOUND (Off:0 Def:2),nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151313,21501216,4,3:27,nan,Stephenson P.FOUL (P2.T3) (M.McCutchen),nan,202362,Lance Stephenson,MEM,201965,Jeff Ayres,LAC,0,nan,nan,Foul ,Personal
+151314,21501216,4,3:17,Pierce 13' Turnaround Jump Shot (8 PTS),nan,80 - 101,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+151315,21501216,4,3:05,Ayres Violation:Defensive Goaltending (D.Guthrie),nan,nan,201965,Jeff Ayres,LAC,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+151316,21501216,4,3:05,nan,Munford 6' Floating Jump Shot (11 PTS) (Green 2 AST),82 - 101,204098,Xavier Munford,MEM,203210,JaMychal Green,MEM,0,nan,nan,Made Shot ,nan
+151317,21501216,4,2:51,MISS Pierce 3' Finger Roll Layup,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151318,21501216,4,2:49,nan,Hairston REBOUND (Off:0 Def:3),nan,203798,PJ Hairston,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151319,21501216,4,2:47,nan,Munford Offensive Charge Foul (P4.T4) (D.Guthrie),nan,204098,Xavier Munford,MEM,203143,Pablo Prigioni,LAC,0,nan,nan,Foul ,Offensive Charge
+151320,21501216,4,2:47,nan,Munford Foul Turnover (P4.T16),nan,204098,Xavier Munford,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+151321,21501216,4,2:47,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+151322,21501216,4,2:47,nan,SUB: Cotton FOR Green,nan,203210,JaMychal Green,MEM,203955,Bryce Cotton,MEM,0,nan,nan,Substitution ,nan
+151323,21501216,4,2:32,Wilcox 18' Turnaround Jump Shot (4 PTS) (Green 1 AST),nan,82 - 103,203912,CJ Wilcox,LAC,201145,Jeff Green,LAC,0,nan,nan,Made Shot ,nan
+151324,21501216,4,2:10,Ayres P.FOUL (P1.T3) (M.McCutchen),nan,nan,201965,Jeff Ayres,LAC,202362,Lance Stephenson,MEM,0,nan,nan,Foul ,Personal
+151325,21501216,4,2:05,Ayres S.FOUL (P2.T4) (D.Guthrie),nan,nan,201965,Jeff Ayres,LAC,1626185,Jarell Martin,MEM,0,nan,nan,Foul ,Shooting
+151326,21501216,4,2:05,nan,Martin Free Throw 1 of 2 (11 PTS),83 - 103,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151327,21501216,4,2:05,nan,Martin Free Throw 2 of 2 (12 PTS),84 - 103,1626185,Jarell Martin,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151328,21501216,4,1:50,Wilcox 2' Cutting Layup Shot (6 PTS) (Ayres 1 AST),nan,84 - 105,203912,CJ Wilcox,LAC,201965,Jeff Ayres,LAC,0,nan,nan,Made Shot ,nan
+151329,21501216,4,1:28,nan,MISS Stephenson 2' Layup,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151330,21501216,4,1:27,Wilcox REBOUND (Off:0 Def:1),nan,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151331,21501216,4,1:11,Pierce 26' 3PT Jump Shot (11 PTS) (Prigioni 4 AST),nan,84 - 108,1718,Paul Pierce,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+151332,21501216,4,0:50,nan,MISS Hairston 21' Pullup Jump Shot,nan,203798,PJ Hairston,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151333,21501216,4,0:47,Ayres REBOUND (Off:0 Def:1),nan,nan,201965,Jeff Ayres,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151334,21501216,4,0:35,Green 2' Reverse Layup (13 PTS) (Prigioni 5 AST),nan,84 - 110,201145,Jeff Green,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+151335,21501216,4,0:11,nan,MISS Stephenson 17' Step Back Jump Shot,nan,202362,Lance Stephenson,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151336,21501216,4,0:08,Pierce REBOUND (Off:0 Def:3),nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151337,21501216,4,0:00,nan,nan,84 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

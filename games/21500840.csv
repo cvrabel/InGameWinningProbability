@@ -1,0 +1,142 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+105284,21500840,4,12:00,nan,nan,97 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+105285,21500840,4,11:45,nan,Fournier 18' Jump Shot (21 PTS),99 - 93,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+105286,21500840,4,11:30,Marshall Lost Ball Turnover (P1.T17),Watson STEAL (1 STL),nan,203088,Kendall Marshall,PHI,201228,C.J. Watson,ORL,0,nan,nan,Turnover ,Lost Ball
+105287,21500840,4,11:20,nan,Smith 17' Jump Shot (4 PTS) (Oladipo 3 AST),101 - 93,201160,Jason Smith,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+105288,21500840,4,11:19,76ERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105289,21500840,4,11:02,Jump Ball Grant vs. Ilyasova: Tip to Okafor,nan,nan,203924,Jerami Grant,PHI,101141,Ersan Ilyasova,ORL,1626143,Jahlil Okafor,PHI,Jump Ball ,nan
+105290,21500840,4,10:54,MISS Okafor 20' Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105291,21500840,4,10:53,nan,Fournier REBOUND (Off:0 Def:2),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105292,21500840,4,10:42,nan,MISS Fournier 18' Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105293,21500840,4,10:40,Grant REBOUND (Off:0 Def:4),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105294,21500840,4,10:34,nan,Smith Shooting Block Foul (P3.T1) (S.Wall),nan,201160,Jason Smith,ORL,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Shooting Block
+105295,21500840,4,10:34,Canaan Free Throw 1 of 2 (11 PTS),nan,101 - 94,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105296,21500840,4,10:34,Canaan Free Throw 2 of 2 (12 PTS),nan,101 - 95,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105297,21500840,4,10:17,nan,Smith 16' Jump Shot (6 PTS) (Fournier 3 AST),103 - 95,201160,Jason Smith,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+105298,21500840,4,10:06,nan,Fournier P.FOUL (P2.T2) (B.Taylor),nan,203095,Evan Fournier,ORL,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Personal
+105299,21500840,4,9:52,Okafor Bad Pass Turnover (P4.T18),Watson STEAL (2 STL),nan,1626143,Jahlil Okafor,PHI,201228,C.J. Watson,ORL,0,nan,nan,Turnover ,Bad Pass
+105300,21500840,4,9:49,nan,Watson 3' Running Jump Shot (2 PTS),105 - 95,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+105301,21500840,4,9:49,Thompson S.FOUL (P1.T1) (S.Corbin),nan,nan,203138,Hollis Thompson,PHI,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Shooting
+105302,21500840,4,9:49,SUB: Smith FOR Marshall,nan,nan,203088,Kendall Marshall,PHI,202397,Ish Smith,PHI,0,nan,nan,Substitution ,nan
+105303,21500840,4,9:49,nan,Watson Free Throw 1 of 1 (3 PTS),106 - 95,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+105304,21500840,4,9:36,nan,Watson Violation:Kicked Ball (S.Corbin),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+105305,21500840,4,9:25,MISS Okafor 17' Jump Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105306,21500840,4,9:23,nan,Ilyasova REBOUND (Off:2 Def:5),nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105307,21500840,4,9:03,nan,MISS Smith 19' Jump Shot,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105308,21500840,4,9:01,nan,Ilyasova REBOUND (Off:3 Def:5),nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105309,21500840,4,9:00,nan,MISS Ilyasova 1' Tip Layup Shot,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105310,21500840,4,8:59,Canaan REBOUND (Off:0 Def:3),nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105311,21500840,4,8:49,Grant Offensive Charge Foul (P2.T2) (S.Wall),nan,nan,203924,Jerami Grant,PHI,101141,Ersan Ilyasova,ORL,0,nan,nan,Foul ,Offensive Charge
+105312,21500840,4,8:49,Grant Foul Turnover (P3.T19),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+105313,21500840,4,8:36,nan,Smith 18' Jump Shot (8 PTS) (Fournier 4 AST),108 - 95,201160,Jason Smith,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+105314,21500840,4,8:35,76ERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105315,21500840,4,8:25,nan,Fournier P.FOUL (P3.T3) (S.Corbin),nan,203095,Evan Fournier,ORL,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Personal
+105316,21500840,4,8:25,MISS Smith 2' Layup,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105317,21500840,4,8:24,Okafor REBOUND (Off:1 Def:1),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105318,21500840,4,8:23,Okafor 2' Finger Roll Layup (17 PTS),nan,108 - 97,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+105319,21500840,4,8:09,nan,MISS Ilyasova 17' Jump Shot,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105320,21500840,4,8:08,Canaan REBOUND (Off:0 Def:4),nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105321,21500840,4,7:44,nan,Ilyasova P.FOUL (P3.T4) (B.Taylor),nan,101141,Ersan Ilyasova,ORL,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Personal
+105322,21500840,4,7:44,nan,SUB: Vucevic FOR Smith,nan,201160,Jason Smith,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+105323,21500840,4,7:35,Smith 19' Pullup Jump Shot (18 PTS),nan,108 - 99,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+105324,21500840,4,7:14,nan,MISS Ilyasova 7' Jump Shot,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105325,21500840,4,7:13,Grant REBOUND (Off:0 Def:5),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105326,21500840,4,7:03,Canaan Lost Ball Turnover (P1.T20),Oladipo STEAL (3 STL),nan,203477,Isaiah Canaan,PHI,203506,Victor Oladipo,ORL,0,nan,nan,Turnover ,Lost Ball
+105327,21500840,4,6:55,nan,MISS Oladipo 27' 3PT Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105328,21500840,4,6:54,Grant REBOUND (Off:0 Def:6),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105329,21500840,4,6:34,nan,Fournier P.FOUL (P4.PN) (S.Wall),nan,203095,Evan Fournier,ORL,202397,Ish Smith,PHI,0,nan,nan,Foul ,Personal
+105330,21500840,4,6:34,MISS Smith Free Throw 1 of 2,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105331,21500840,4,6:34,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+105332,21500840,4,6:34,SUB: Stauskas FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+105333,21500840,4,6:34,SUB: Noel FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+105334,21500840,4,6:34,Smith Free Throw 2 of 2 (19 PTS),nan,108 - 100,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105335,21500840,4,6:22,nan,MISS Vucevic 7' Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105336,21500840,4,6:21,nan,Vucevic REBOUND (Off:2 Def:5),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105337,21500840,4,6:09,nan,Vucevic 18' Jump Shot (33 PTS) (Oladipo 4 AST),110 - 100,202696,Nikola Vucevic,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+105338,21500840,4,5:56,nan,Magic T.Foul (Def. 3 Sec Vucevic ) (B.Taylor),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+105339,21500840,4,5:56,MISS Stauskas Free Throw Technical,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+105340,21500840,4,5:56,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+105341,21500840,4,5:56,nan,SUB: Gordon FOR Ilyasova,nan,101141,Ersan Ilyasova,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+105342,21500840,4,5:47,MISS Smith 2' Layup,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105343,21500840,4,5:46,nan,Vucevic REBOUND (Off:2 Def:6),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105344,21500840,4,5:33,nan,Oladipo 26' 3PT Jump Shot (15 PTS) (Vucevic 4 AST),113 - 100,203506,Victor Oladipo,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+105345,21500840,4,5:32,76ERS Timeout: Short (Full 5 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+105346,21500840,4,5:21,nan,Fournier S.FOUL (P5.PN) (B.Taylor),nan,203095,Evan Fournier,ORL,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Shooting
+105347,21500840,4,5:21,Thompson Free Throw 1 of 2 (10 PTS),nan,113 - 101,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105348,21500840,4,5:21,Thompson Free Throw 2 of 2 (11 PTS),nan,113 - 102,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105349,21500840,4,5:01,Stauskas S.FOUL (P5.T3) (S.Wall),nan,nan,203917,Nik Stauskas,PHI,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Shooting
+105350,21500840,4,5:01,nan,Vucevic Free Throw 1 of 2 (34 PTS),114 - 102,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105351,21500840,4,5:01,nan,Vucevic Free Throw 2 of 2 (35 PTS),115 - 102,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105352,21500840,4,4:40,MISS Thompson 26' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105353,21500840,4,4:38,nan,Watson REBOUND (Off:0 Def:4),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105354,21500840,4,4:19,SUB: Covington FOR Grant,nan,nan,203924,Jerami Grant,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+105355,21500840,4,4:17,nan,MISS Watson 3' Layup,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105356,21500840,4,4:15,nan,Watson REBOUND (Off:1 Def:4),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105357,21500840,4,4:14,nan,Magic Turnover: Shot Clock (T#9),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+105358,21500840,4,4:02,MISS Covington 3' Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105359,21500840,4,4:01,nan,Gordon REBOUND (Off:2 Def:7),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105360,21500840,4,3:49,nan,MISS Oladipo 18' Pullup Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105361,21500840,4,3:47,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105362,21500840,4,3:37,MISS Covington 28' 3PT Jump Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105363,21500840,4,3:35,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105364,21500840,4,3:35,nan,Magic Timeout: Regular (Reg.4 Short 0),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105365,21500840,4,3:35,SUB: Grant FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+105366,21500840,4,3:25,nan,MISS Gordon 6' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105367,21500840,4,3:23,nan,Vucevic REBOUND (Off:3 Def:6),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105368,21500840,4,3:23,nan,MISS Vucevic 4' Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105369,21500840,4,3:19,Noel REBOUND (Off:2 Def:8),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105370,21500840,4,3:13,MISS Thompson 26' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105371,21500840,4,3:10,nan,Fournier REBOUND (Off:0 Def:3),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105372,21500840,4,2:53,nan,MISS Gordon 16' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105373,21500840,4,2:51,Grant REBOUND (Off:0 Def:7),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105374,21500840,4,2:37,Smith 25' 3PT Jump Shot (22 PTS),nan,115 - 105,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+105375,21500840,4,2:19,Thompson STEAL (1 STL),Watson Bad Pass Turnover (P1.T10),nan,201228,C.J. Watson,ORL,203138,Hollis Thompson,PHI,0,nan,nan,Turnover ,Bad Pass
+105376,21500840,4,2:15,MISS Smith 2' Layup,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105377,21500840,4,2:13,Noel REBOUND (Off:3 Def:8),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105378,21500840,4,2:11,Noel 2' Putback Layup (14 PTS),nan,115 - 107,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+105379,21500840,4,1:49,nan,Oladipo 1' Driving Layup (17 PTS),117 - 107,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+105380,21500840,4,1:49,Thompson S.FOUL (P2.T4) (B.Taylor),nan,nan,203138,Hollis Thompson,PHI,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Shooting
+105381,21500840,4,1:49,nan,Oladipo Free Throw 1 of 1 (18 PTS),118 - 107,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+105382,21500840,4,1:49,76ERS Timeout: Regular (Full 6 Short 2),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+105383,21500840,4,1:49,SUB: Stauskas FOR Grant,nan,nan,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+105384,21500840,4,1:42,Thompson 3' Cutting Layup Shot (13 PTS) (Noel 4 AST),nan,118 - 109,203138,Hollis Thompson,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+105385,21500840,4,1:42,nan,Fournier S.FOUL (P6.PN) (S.Corbin),nan,203095,Evan Fournier,ORL,203138,Hollis Thompson,PHI,0,nan,nan,Foul ,Shooting
+105386,21500840,4,1:42,SUB: Grant FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+105387,21500840,4,1:42,nan,SUB: Payton FOR Fournier,nan,203095,Evan Fournier,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+105388,21500840,4,1:42,Thompson Free Throw 1 of 1 (14 PTS),nan,118 - 110,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+105389,21500840,4,1:31,nan,Magic Turnover: Backcourt (T#11),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+105390,21500840,4,1:31,SUB: Stauskas FOR Grant,nan,nan,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+105391,21500840,4,1:26,Noel Bad Pass Turnover (P2.T21),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+105392,21500840,4,1:26,SUB: Grant FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+105393,21500840,4,1:24,Thompson P.FOUL (P3.PN) (S.Wall),nan,nan,203138,Hollis Thompson,PHI,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Personal
+105394,21500840,4,1:24,nan,Oladipo Free Throw 1 of 2 (19 PTS),119 - 110,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105395,21500840,4,1:24,SUB: Stauskas FOR Grant,nan,nan,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+105396,21500840,4,1:24,nan,Oladipo Free Throw 2 of 2 (20 PTS),120 - 110,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105397,21500840,4,1:16,Noel 2' Layup (16 PTS) (Stauskas 2 AST),nan,120 - 112,203457,Nerlens Noel,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Made Shot ,nan
+105398,21500840,4,1:16,nan,Magic Timeout: Short (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+105399,21500840,4,1:16,SUB: Grant FOR Stauskas,nan,nan,203917,Nik Stauskas,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+105400,21500840,4,1:11,Covington P.FOUL (P2.PN) (S.Corbin),nan,nan,203496,Robert Covington,PHI,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal
+105401,21500840,4,1:11,nan,Payton Free Throw 1 of 2 (2 PTS),121 - 112,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105402,21500840,4,1:11,SUB: Stauskas FOR Grant,nan,nan,203924,Jerami Grant,PHI,203917,Nik Stauskas,PHI,0,nan,nan,Substitution ,nan
+105403,21500840,4,1:11,nan,Payton Free Throw 2 of 2 (3 PTS),122 - 112,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105404,21500840,4,0:58,MISS Smith 24' 3PT Jump Shot,nan,nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105405,21500840,4,0:56,nan,Gordon REBOUND (Off:2 Def:8),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105406,21500840,4,0:56,Covington P.FOUL (P3.PN) (S.Corbin),nan,nan,203496,Robert Covington,PHI,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Personal
+105407,21500840,4,0:56,nan,MISS Gordon Free Throw 1 of 2,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105408,21500840,4,0:56,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+105409,21500840,4,0:56,SUB: Canaan FOR Smith,nan,nan,202397,Ish Smith,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+105410,21500840,4,0:56,SUB: Marshall FOR Noel,nan,nan,203457,Nerlens Noel,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Substitution ,nan
+105411,21500840,4,0:56,nan,SUB: Ilyasova FOR Vucevic,nan,202696,Nikola Vucevic,ORL,101141,Ersan Ilyasova,ORL,0,nan,nan,Substitution ,nan
+105412,21500840,4,0:56,nan,MISS Gordon Free Throw 2 of 2,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105413,21500840,4,0:55,nan,Oladipo REBOUND (Off:2 Def:2),nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105414,21500840,4,0:53,Covington P.FOUL (P4.PN) (S.Wall),nan,nan,203496,Robert Covington,PHI,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Personal
+105415,21500840,4,0:53,nan,Oladipo Free Throw 1 of 2 (21 PTS),123 - 112,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+105416,21500840,4,0:53,nan,Oladipo Free Throw 2 of 2 (22 PTS),124 - 112,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+105417,21500840,4,0:48,MISS Stauskas 2' Layup,nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+105418,21500840,4,0:47,nan,Gordon REBOUND (Off:2 Def:9),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+105419,21500840,4,0:34,Jump Ball Stauskas vs. Oladipo: Tip to Covington,nan,nan,203917,Nik Stauskas,PHI,203506,Victor Oladipo,ORL,203496,Robert Covington,PHI,Jump Ball ,nan
+105420,21500840,4,0:34,Stauskas STEAL (1 STL),Oladipo Lost Ball Turnover (P3.T12),nan,203506,Victor Oladipo,ORL,203917,Nik Stauskas,PHI,0,nan,nan,Turnover ,Lost Ball
+105421,21500840,4,0:25,Stauskas 26' 3PT Jump Shot (5 PTS) (Thompson 2 AST),nan,124 - 115,203917,Nik Stauskas,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+105422,21500840,4,0:16,nan,Watson Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+105423,21500840,4,0:08,Stauskas Out of Bounds - Bad Pass Turnover Turnover (P4.T22),nan,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+105424,21500840,4,0:00,nan,nan,124 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

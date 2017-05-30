@@ -1,0 +1,175 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+42932,21500340,4,12:00,nan,nan,78 - 73,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+42933,21500340,4,11:41,nan,Dieng P.FOUL (P3.T1) (Z.Zarba),nan,203476,Gorgui Dieng,MIN,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Personal
+42934,21500340,4,11:31,MISS Foye 26' 3PT Jump Shot,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42935,21500340,4,11:29,nan,Dieng REBOUND (Off:0 Def:6),nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42936,21500340,4,11:29,Jokic L.B.FOUL (P4.T1) (M.Ayotte),nan,nan,203999,Nikola Jokic,DEN,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Loose Ball
+42937,21500340,4,11:11,nan,MISS Rudez 10' Turnaround Hook Shot,nan,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42938,21500340,4,11:10,Miller REBOUND (Off:0 Def:3),nan,nan,2034,Mike Miller,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42939,21500340,4,11:02,Harris 25' 3PT Jump Shot (10 PTS) (Foye 1 AST),nan,78 - 76,203914,Gary Harris,DEN,200751,Randy Foye,DEN,0,nan,nan,Made Shot ,nan
+42940,21500340,4,10:44,nan,MISS LaVine 21' Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42941,21500340,4,10:43,Barton REBOUND (Off:0 Def:4),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42942,21500340,4,10:35,MISS Barton 2' Driving Layup,Muhammad BLOCK (1 BLK),nan,203115,Will Barton,DEN,0,nan,nan,203498,Shabazz Muhammad,MIN,Missed Shot ,nan
+42943,21500340,4,10:34,nan,LaVine REBOUND (Off:1 Def:2),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42944,21500340,4,10:27,nan,Muhammad  Dunk (7 PTS) (LaVine 2 AST),80 - 76,203498,Shabazz Muhammad,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+42945,21500340,4,10:03,Jokic 4' Hook Shot (17 PTS) (Barton 2 AST),nan,80 - 78,203999,Nikola Jokic,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+42946,21500340,4,9:43,nan,Dieng 2' Layup (8 PTS) (LaVine 3 AST),82 - 78,203476,Gorgui Dieng,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+42947,21500340,4,9:23,Harris Lost Ball Turnover (P2.T10),Dieng STEAL (2 STL),nan,203914,Gary Harris,DEN,203476,Gorgui Dieng,MIN,0,nan,nan,Turnover ,Lost Ball
+42948,21500340,4,9:21,Foye S.FOUL (P1.T2) (Z.Zarba),nan,nan,200751,Randy Foye,DEN,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting
+42949,21500340,4,9:21,nan,LaVine Free Throw 1 of 2 (8 PTS),83 - 78,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42950,21500340,4,9:21,nan,MISS LaVine Free Throw 2 of 2,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42951,21500340,4,9:20,Barton REBOUND (Off:0 Def:5),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42952,21500340,4,9:07,MISS Foye 19' Jump Shot,nan,nan,200751,Randy Foye,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42953,21500340,4,9:07,nan,LaVine REBOUND (Off:1 Def:3),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42954,21500340,4,8:57,nan,LaVine 4' Floating Jump Shot (10 PTS),85 - 78,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42955,21500340,4,8:57,NUGGETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+42956,21500340,4,8:57,SUB: Nelson FOR Foye,nan,nan,200751,Randy Foye,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Substitution ,nan
+42957,21500340,4,8:38,MISS Jokic 2' Layup,Dieng BLOCK (3 BLK),nan,203999,Nikola Jokic,DEN,0,nan,nan,203476,Gorgui Dieng,MIN,Missed Shot ,nan
+42958,21500340,4,8:37,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42959,21500340,4,8:31,MISS Jokic 26' 3PT Jump Shot,nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42960,21500340,4,8:31,nan,Muhammad REBOUND (Off:0 Def:2),nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42961,21500340,4,8:14,nan,MISS LaVine 12' Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42962,21500340,4,8:13,Barton REBOUND (Off:0 Def:6),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42963,21500340,4,8:05,Barton 25' 3PT Jump Shot (5 PTS),nan,85 - 81,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42964,21500340,4,7:47,nan,MISS LaVine 26' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42965,21500340,4,7:46,Harris REBOUND (Off:0 Def:2),nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42966,21500340,4,7:37,Barton 3' Layup (7 PTS),nan,85 - 83,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42967,21500340,4,7:16,nan,Rudez 25' 3PT Jump Shot (3 PTS) (LaVine 4 AST),88 - 83,204014,Damjan Rudez,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+42968,21500340,4,6:56,MISS Barton 25' 3PT Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42969,21500340,4,6:54,Jokic REBOUND (Off:3 Def:3),nan,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42970,21500340,4,6:54,Jokic  Putback Dunk (19 PTS),nan,88 - 85,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42971,21500340,4,6:26,Jokic S.FOUL (P5.T3) (M.Ayotte),nan,nan,203999,Nikola Jokic,DEN,204014,Damjan Rudez,MIN,0,nan,nan,Foul ,Shooting
+42972,21500340,4,6:26,nan,Rudez Free Throw 1 of 2 (4 PTS),89 - 85,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42973,21500340,4,6:26,nan,SUB: Rubio FOR LaVine,nan,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+42974,21500340,4,6:26,nan,SUB: Wiggins FOR Muhammad,nan,203498,Shabazz Muhammad,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+42975,21500340,4,6:26,nan,SUB: Towns FOR Dieng,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+42976,21500340,4,6:26,SUB: Faried FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+42977,21500340,4,6:26,nan,Rudez Free Throw 2 of 2 (5 PTS),90 - 85,204014,Damjan Rudez,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42978,21500340,4,6:10,Faried 2' Layup (13 PTS) (Nelson 5 AST),nan,90 - 87,202702,Kenneth Faried,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+42979,21500340,4,5:42,Barton STEAL (2 STL),Rubio Lost Ball Turnover (P1.T9),nan,201937,Ricky Rubio,MIN,203115,Will Barton,DEN,0,nan,nan,Turnover ,Lost Ball
+42980,21500340,4,5:35,nan,Rubio P.FOUL (P4.T2) (Z.Zarba),nan,201937,Ricky Rubio,MIN,203115,Will Barton,DEN,0,nan,nan,Foul ,Personal
+42981,21500340,4,5:35,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+42982,21500340,4,5:35,SUB: Gallinari FOR Miller,nan,nan,2034,Mike Miller,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Substitution ,nan
+42983,21500340,4,5:35,nan,SUB: Martin FOR Rudez,nan,204014,Damjan Rudez,MIN,2755,Kevin Martin,MIN,0,nan,nan,Substitution ,nan
+42984,21500340,4,5:22,nan,Towns S.FOUL (P3.T3) (Z.Zarba),nan,1626157,Karl-Anthony Towns,MIN,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Shooting
+42985,21500340,4,5:22,Gallinari Free Throw 1 of 2 (13 PTS),nan,90 - 88,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+42986,21500340,4,5:22,Gallinari Free Throw 2 of 2 (14 PTS),nan,90 - 89,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+42987,21500340,4,5:07,nan,Martin 16' Jump Shot (20 PTS) (Rubio 7 AST),92 - 89,2755,Kevin Martin,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+42988,21500340,4,4:44,MISS Faried 4' Jump Shot,Towns BLOCK (3 BLK),nan,202702,Kenneth Faried,DEN,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+42989,21500340,4,4:42,nan,Prince REBOUND (Off:1 Def:2),nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42990,21500340,4,4:35,Barton P.FOUL (P1.T4) (M.Ayotte),nan,nan,203115,Will Barton,DEN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+42991,21500340,4,4:26,nan,MISS Towns 13' Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42992,21500340,4,4:26,Nelson REBOUND (Off:0 Def:5),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42993,21500340,4,4:04,Barton 18' Jump Shot (9 PTS),nan,92 - 91,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42994,21500340,4,3:40,nan,MISS Wiggins 10' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+42995,21500340,4,3:39,nan,Towns REBOUND (Off:2 Def:4),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+42996,21500340,4,3:36,nan,Towns 2' Layup (10 PTS),94 - 91,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42997,21500340,4,3:23,nan,Rubio Violation:Kicked Ball (Z.Zarba),nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+42998,21500340,4,3:16,Nelson 7' Jump Bank Shot (18 PTS),nan,94 - 93,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+42999,21500340,4,2:51,nan,MISS Prince 1' Layup,nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43000,21500340,4,2:47,nan,Prince REBOUND (Off:2 Def:2),nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43001,21500340,4,2:47,nan,MISS Prince 1' Layup,nan,2419,Tayshaun Prince,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43002,21500340,4,2:45,Faried REBOUND (Off:3 Def:5),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43003,21500340,4,2:36,MISS Harris 3' Driving Layup,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43004,21500340,4,2:35,nan,Towns REBOUND (Off:2 Def:5),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43005,21500340,4,2:32,nan,Timberwolves Timeout: Regular (Reg.4 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43006,21500340,4,2:32,nan,SUB: LaVine FOR Prince,nan,2419,Tayshaun Prince,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+43007,21500340,4,2:25,nan,MISS Martin 25' 3PT Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43008,21500340,4,2:24,Barton REBOUND (Off:0 Def:7),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43009,21500340,4,2:06,Harris 4' Floating Jump Shot (12 PTS) (Nelson 6 AST),nan,94 - 95,203914,Gary Harris,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+43010,21500340,4,1:50,nan,Rubio 18' Jump Shot (13 PTS),96 - 95,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+43011,21500340,4,1:37,Barton 1' Reverse Layup (11 PTS) (Gallinari 4 AST),nan,96 - 97,203115,Will Barton,DEN,201568,Danilo Gallinari,DEN,0,nan,nan,Made Shot ,nan
+43012,21500340,4,1:22,nan,MISS Rubio 17' Jump Shot,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43013,21500340,4,1:22,Barton REBOUND (Off:0 Def:8),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43014,21500340,4,1:06,nan,Wiggins P.FOUL (P3.T4) (J.VanDuyne),nan,203952,Andrew Wiggins,MIN,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+43015,21500340,4,0:56,nan,Rubio S.FOUL (P5.PN) (M.Ayotte),nan,201937,Ricky Rubio,MIN,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+43016,21500340,4,0:56,MISS Faried Free Throw 1 of 2,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43017,21500340,4,0:56,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+43018,21500340,4,0:56,nan,SUB: Dieng FOR Rubio,nan,201937,Ricky Rubio,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+43019,21500340,4,0:56,MISS Faried Free Throw 2 of 2,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43020,21500340,4,0:52,Nelson REBOUND (Off:1 Def:5),nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43021,21500340,4,0:52,Nelson Bad Pass Turnover (P3.T11),Wiggins STEAL (1 STL),nan,2749,Jameer Nelson,DEN,203952,Andrew Wiggins,MIN,0,nan,nan,Turnover ,Bad Pass
+43022,21500340,4,0:50,Faried Shooting Block Foul (P3.PN) (M.Ayotte),nan,nan,202702,Kenneth Faried,DEN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting Block
+43023,21500340,4,0:50,nan,Wiggins Free Throw 1 of 2 (19 PTS),97 - 97,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43024,21500340,4,0:50,nan,SUB: Rubio FOR LaVine,nan,203897,Zach LaVine,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+43025,21500340,4,0:50,nan,SUB: Prince FOR Dieng,nan,203476,Gorgui Dieng,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Substitution ,nan
+43026,21500340,4,0:50,nan,Wiggins Free Throw 2 of 2 (20 PTS),98 - 97,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43027,21500340,4,0:50,NUGGETS Timeout: Regular (Full 5 Short 1),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43028,21500340,4,0:42,nan,Towns S.FOUL (P4.PN) (Z.Zarba),nan,1626157,Karl-Anthony Towns,MIN,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+43029,21500340,4,0:42,MISS Faried Free Throw 1 of 2,nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43030,21500340,4,0:42,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+43031,21500340,4,0:42,nan,SUB: Dieng FOR Rubio,nan,201937,Ricky Rubio,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+43032,21500340,4,0:42,Faried Free Throw 2 of 2 (14 PTS),nan,98 - 98,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43033,21500340,4,0:42,nan,Timberwolves Timeout: Regular (Reg.5 Short 1),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43034,21500340,4,0:42,nan,SUB: LaVine FOR Prince,nan,2419,Tayshaun Prince,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+43035,21500340,4,0:42,nan,SUB: Rubio FOR Dieng,nan,203476,Gorgui Dieng,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+43036,21500340,4,0:35,Nelson S.FOUL (P4.PN) (Z.Zarba),nan,nan,2749,Jameer Nelson,DEN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+43037,21500340,4,0:35,nan,MISS Wiggins Free Throw 1 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43038,21500340,4,0:35,nan,Timberwolves Rebound,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+43039,21500340,4,0:35,nan,SUB: Prince FOR LaVine,nan,203897,Zach LaVine,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Substitution ,nan
+43040,21500340,4,0:35,nan,Wiggins Free Throw 2 of 2 (21 PTS),99 - 98,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43041,21500340,4,0:35,NUGGETS Timeout: Short (Full 5 Short 2),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+43042,21500340,4,0:28,nan,Rubio S.FOUL (P6.PN) (J.VanDuyne),nan,201937,Ricky Rubio,MIN,2749,Jameer Nelson,DEN,0,nan,nan,Foul ,Shooting
+43043,21500340,4,0:28,nan,SUB: Dieng FOR Rubio,nan,201937,Ricky Rubio,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+43044,21500340,4,0:28,Nelson Free Throw 1 of 2 (19 PTS),nan,99 - 99,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43045,21500340,4,0:28,Nelson Free Throw 2 of 2 (20 PTS),nan,99 - 100,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43046,21500340,4,0:28,nan,Timberwolves Timeout: Short (Reg.5 Short 2),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+43047,21500340,4,0:28,nan,SUB: LaVine FOR Dieng,nan,203476,Gorgui Dieng,MIN,203897,Zach LaVine,MIN,0,nan,nan,Substitution ,nan
+43048,21500340,4,0:23,Barton S.FOUL (P2.PN) (Z.Zarba),nan,nan,203115,Will Barton,DEN,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+43049,21500340,4,0:23,nan,Wiggins Free Throw 1 of 2 (22 PTS),100 - 100,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43050,21500340,4,0:23,nan,MISS Wiggins Free Throw 2 of 2,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43051,21500340,4,0:21,Faried REBOUND (Off:3 Def:6),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43052,21500340,4,0:21,NUGGETS Timeout: Short (Full 5 Short 3),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+43053,21500340,4,0:21,nan,SUB: Dieng FOR Towns,nan,1626157,Karl-Anthony Towns,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+43054,21500340,4,0:01,MISS Nelson 27' 3PT Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43055,21500340,4,0:00,NUGGETS Rebound,nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43056,21500340,4,0:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+43057,21500340,5,5:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+43058,21500340,5,5:00,Jump Ball Faried vs. Towns: Tip to Gallinari,nan,nan,202702,Kenneth Faried,DEN,1626157,Karl-Anthony Towns,MIN,201568,Danilo Gallinari,DEN,Jump Ball ,nan
+43059,21500340,5,4:32,MISS Nelson 9' Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43060,21500340,5,4:32,nan,Wiggins REBOUND (Off:0 Def:2),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43061,21500340,5,4:14,nan,MISS Martin 9' Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43062,21500340,5,4:13,nan,Martin REBOUND (Off:1 Def:3),nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43063,21500340,5,4:09,nan,MISS Martin 7' Jump Shot,nan,2755,Kevin Martin,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43064,21500340,5,4:08,Faried REBOUND (Off:3 Def:7),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43065,21500340,5,3:46,MISS Barton 19' Jump Shot,nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43066,21500340,5,3:45,nan,Towns REBOUND (Off:2 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43067,21500340,5,3:33,nan,MISS Wiggins  Dunk,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43068,21500340,5,3:32,nan,Towns REBOUND (Off:3 Def:6),nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43069,21500340,5,3:26,nan,MISS Towns 7' Hook Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43070,21500340,5,3:26,Faried REBOUND (Off:3 Def:8),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43071,21500340,5,3:16,Barton 3' Turnaround Jump Shot (13 PTS),nan,100 - 102,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+43072,21500340,5,3:02,nan,MISS LaVine 25' 3PT Jump Shot,nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43073,21500340,5,3:02,Barton REBOUND (Off:0 Def:9),nan,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43074,21500340,5,2:50,Barton Bad Pass Turnover (P2.T12),Towns STEAL (2 STL),nan,203115,Will Barton,DEN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Bad Pass
+43075,21500340,5,2:47,Nelson Shooting Block Foul (P5.T1) (Z.Zarba),nan,nan,2749,Jameer Nelson,DEN,203897,Zach LaVine,MIN,0,nan,nan,Foul ,Shooting Block
+43076,21500340,5,2:47,NUGGETS Timeout: Regular (Full 6 Short 3),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43077,21500340,5,2:47,nan,LaVine Free Throw 1 of 2 (11 PTS),101 - 102,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43078,21500340,5,2:47,nan,LaVine Free Throw 2 of 2 (12 PTS),102 - 102,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43079,21500340,5,2:29,Gallinari 22' Jump Shot (16 PTS),nan,102 - 104,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+43080,21500340,5,2:07,Faried STEAL (1 STL),Towns Lost Ball Turnover (P2.T10),nan,1626157,Karl-Anthony Towns,MIN,202702,Kenneth Faried,DEN,0,nan,nan,Turnover ,Lost Ball
+43081,21500340,5,1:53,MISS Nelson 26' 3PT Jump Shot,nan,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43082,21500340,5,1:52,nan,LaVine REBOUND (Off:1 Def:4),nan,203897,Zach LaVine,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43083,21500340,5,1:47,nan,Timberwolves Timeout: Short (Reg.5 Short 3),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+43084,21500340,5,1:36,nan,Towns 3' Hook Shot (12 PTS) (LaVine 5 AST),104 - 104,1626157,Karl-Anthony Towns,MIN,203897,Zach LaVine,MIN,0,nan,nan,Made Shot ,nan
+43085,21500340,5,1:25,Gallinari 26' 3PT Jump Shot (19 PTS) (Nelson 7 AST),nan,104 - 107,201568,Danilo Gallinari,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+43086,21500340,5,1:13,nan,Towns 7' Jump Shot (14 PTS) (Wiggins 1 AST),106 - 107,1626157,Karl-Anthony Towns,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+43087,21500340,5,0:53,MISS Harris 24' 3PT Jump Shot,nan,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43088,21500340,5,0:51,nan,Wiggins REBOUND (Off:0 Def:3),nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43089,21500340,5,0:42,nan,Timberwolves Timeout: Short (Reg.5 Short 4),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+43090,21500340,5,0:36,nan,MISS Wiggins 16' Jump Shot,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43091,21500340,5,0:36,Faried REBOUND (Off:3 Def:9),nan,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43092,21500340,5,0:36,NUGGETS Timeout: Regular (Full 7 Short 3),nan,nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43093,21500340,5,0:20,nan,Martin P.FOUL (P1.T1) (J.VanDuyne),nan,2755,Kevin Martin,MIN,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+43094,21500340,5,0:20,SUB: Jokic FOR Faried,nan,nan,202702,Kenneth Faried,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+43095,21500340,5,0:06,Gallinari 19' Turnaround Jump Shot (21 PTS) (Barton 3 AST),nan,106 - 109,201568,Danilo Gallinari,DEN,203115,Will Barton,DEN,0,nan,nan,Made Shot ,nan
+43096,21500340,5,0:06,nan,Timberwolves Timeout: Regular (Reg.6 Short 4),nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+43097,21500340,5,0:06,SUB: Faried FOR Jokic,nan,nan,203999,Nikola Jokic,DEN,202702,Kenneth Faried,DEN,0,nan,nan,Substitution ,nan
+43098,21500340,5,0:03,nan,MISS Towns 26' 3PT Jump Shot,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+43099,21500340,5,0:02,Gallinari REBOUND (Off:1 Def:6),nan,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+43100,21500340,5,0:02,nan,Wiggins P.FOUL (P4.PN) (J.VanDuyne),nan,203952,Andrew Wiggins,MIN,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+43101,21500340,5,0:02,Gallinari Free Throw 1 of 2 (22 PTS),nan,106 - 110,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+43102,21500340,5,0:02,Gallinari Free Throw 2 of 2 (23 PTS),nan,106 - 111,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+43103,21500340,5,0:00,nan,Martin 2' Driving Layup (22 PTS) (Prince 2 AST),108 - 111,2755,Kevin Martin,MIN,2419,Tayshaun Prince,MIN,0,nan,nan,Made Shot ,nan
+43104,21500340,5,0:00,nan,nan,nan,632,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+43105,21500340,5,0:00,nan,nan,108 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

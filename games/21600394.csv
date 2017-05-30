@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+202213,21600394,4,12:00,nan,nan,76 - 65,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+202214,21600394,4,11:51,nan,Tolliver S.FOUL (P5.T1) (B.Adams),nan,201229,Anthony Tolliver,SAC,1626150,Andrew Harrison,MEM,0,nan,nan,Foul ,Shooting
+202215,21600394,4,11:51,MISS Harrison Free Throw 1 of 2,nan,nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202216,21600394,4,11:51,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202217,21600394,4,11:51,Harrison Free Throw 2 of 2 (11 PTS),nan,76 - 66,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202218,21600394,4,11:35,Randolph P.FOUL (P2.T1) (B.Adams),nan,nan,2216,Zach Randolph,MEM,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Personal
+202219,21600394,4,11:23,nan,MISS Cousins 1' Driving Layup,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202220,21600394,4,11:23,Carter REBOUND (Off:0 Def:5),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202221,21600394,4,11:09,Randolph 1' Finger Roll Layup (10 PTS) (Carter 1 AST),nan,76 - 68,2216,Zach Randolph,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+202222,21600394,4,10:52,nan,Lawson 1' Driving Layup (5 PTS),78 - 68,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202223,21600394,4,10:34,MISS Gasol 21' Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202224,21600394,4,10:33,nan,Barnes REBOUND (Off:2 Def:6),nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202225,21600394,4,10:31,Gasol Violation:Kicked Ball (.),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+202226,21600394,4,10:31,nan,SUB: Koufos FOR Tolliver,nan,201229,Anthony Tolliver,SAC,201585,Kosta Koufos,SAC,0,nan,nan,Substitution ,nan
+202227,21600394,4,10:19,nan,MISS Cousins 25' 3PT Jump Shot,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202228,21600394,4,10:19,Carter REBOUND (Off:0 Def:6),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202229,21600394,4,10:03,nan,Koufos S.FOUL (P3.T2) (L.Richardson),nan,201585,Kosta Koufos,SAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+202230,21600394,4,10:03,Gasol Free Throw 1 of 2 (13 PTS),nan,78 - 69,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202231,21600394,4,10:03,Gasol Free Throw 2 of 2 (14 PTS),nan,78 - 70,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202232,21600394,4,9:50,Carter Violation:Kicked Ball (.),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+202233,21600394,4,9:39,Gasol BLOCK (2 BLK),MISS Barnes 3' Layup,nan,2440,Matt Barnes,SAC,0,nan,nan,201188,Marc Gasol,MEM,Missed Shot ,nan
+202234,21600394,4,9:39,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202235,21600394,4,9:37,Carter STEAL (1 STL),Barnes Bad Pass Turnover (P2.T8),nan,2440,Matt Barnes,SAC,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Bad Pass
+202236,21600394,4,9:37,Carter Step Out of Bounds Turnover (P1.T13),nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+202237,21600394,4,9:18,nan,Cousins 10' Jump Shot (17 PTS),80 - 70,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202238,21600394,4,9:18,Harrison S.FOUL (P6.T2) (B.Adams),nan,nan,1626150,Andrew Harrison,MEM,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Shooting
+202239,21600394,4,9:18,SUB: Allen FOR Harrison,nan,nan,1626150,Andrew Harrison,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+202240,21600394,4,9:18,nan,Cousins Free Throw 1 of 1 (18 PTS),81 - 70,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+202241,21600394,4,9:00,Gasol 6' Hook Shot (16 PTS) (Randolph 5 AST),nan,81 - 72,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+202242,21600394,4,8:45,nan,Cousins 20' Jump Shot (20 PTS),83 - 72,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+202243,21600394,4,8:32,nan,Koufos S.FOUL (P4.T3) (C.Blair),nan,201585,Kosta Koufos,SAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+202244,21600394,4,8:32,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+202245,21600394,4,8:32,Gasol Free Throw 1 of 2 (17 PTS),nan,83 - 73,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202246,21600394,4,8:32,Gasol Free Throw 2 of 2 (18 PTS),nan,83 - 74,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202247,21600394,4,8:09,Allen STEAL (2 STL),Lawson Lost Ball Turnover (P2.T9),nan,201951,Ty Lawson,SAC,2754,Tony Allen,MEM,0,nan,nan,Turnover ,Lost Ball
+202248,21600394,4,8:08,nan,Cousins P.FOUL (P4.T4) (B.Adams),nan,202326,DeMarcus Cousins,SAC,2754,Tony Allen,MEM,0,nan,nan,Foul ,Personal
+202249,21600394,4,8:08,nan,nan,nan,512,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+202250,21600394,4,7:51,MISS Daniels 26' 3PT Jump Shot,nan,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202251,21600394,4,7:51,nan,Barnes REBOUND (Off:2 Def:7),nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202252,21600394,4,7:35,Carter STEAL (2 STL),Temple Lost Ball Turnover (P2.T10),nan,202066,Garrett Temple,SAC,1713,Vince Carter,MEM,0,nan,nan,Turnover ,Lost Ball
+202253,21600394,4,7:27,nan,Temple P.FOUL (P1.PN) (L.Richardson),nan,202066,Garrett Temple,SAC,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+202254,21600394,4,7:27,MISS Carter Free Throw 1 of 2,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202255,21600394,4,7:27,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202256,21600394,4,7:27,nan,SUB: Collison FOR Lawson,nan,201951,Ty Lawson,SAC,201954,Darren Collison,SAC,0,nan,nan,Substitution ,nan
+202257,21600394,4,7:27,nan,SUB: McLemore FOR Barnes,nan,2440,Matt Barnes,SAC,203463,Ben McLemore,SAC,0,nan,nan,Substitution ,nan
+202258,21600394,4,7:27,MISS Carter Free Throw 2 of 2,nan,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202259,21600394,4,7:26,nan,Koufos REBOUND (Off:6 Def:6),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202260,21600394,4,7:14,Carter P.FOUL (P2.T3) (B.Adams),nan,nan,1713,Vince Carter,MEM,203463,Ben McLemore,SAC,0,nan,nan,Foul ,Personal
+202261,21600394,4,7:14,nan,SUB: Tolliver FOR Koufos,nan,201585,Kosta Koufos,SAC,201229,Anthony Tolliver,SAC,0,nan,nan,Substitution ,nan
+202262,21600394,4,7:04,nan,Cousins 1' Layup (22 PTS) (Tolliver 1 AST),85 - 74,202326,DeMarcus Cousins,SAC,201229,Anthony Tolliver,SAC,0,nan,nan,Made Shot ,nan
+202263,21600394,4,6:52,MISS Gasol 6' Driving Hook Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202264,21600394,4,6:49,nan,Cousins REBOUND (Off:0 Def:9),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202265,21600394,4,6:31,nan,Cousins Palming Turnover (P2.T11),nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Turnover ,Palming Turnover
+202266,21600394,4,6:31,SUB: Conley FOR Carter,nan,nan,1713,Vince Carter,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+202267,21600394,4,6:15,Allen 1' Cutting Layup Shot (10 PTS) (Gasol 2 AST),nan,85 - 76,2754,Tony Allen,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+202268,21600394,4,6:02,nan,nan,nan,2216,Zach Randolph,MEM,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Double Personal
+202269,21600394,4,5:48,nan,MISS Collison 14' Pullup Jump Shot,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202270,21600394,4,5:47,nan,Tolliver REBOUND (Off:2 Def:0),nan,201229,Anthony Tolliver,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202271,21600394,4,5:47,nan,Kings Timeout: Regular (Reg.4 Short 1),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+202272,21600394,4,5:47,SUB: Green FOR Randolph,nan,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+202273,21600394,4,5:47,SUB: Martin FOR Daniels,nan,nan,203584,Troy Daniels,MEM,1626185,Jarell Martin,MEM,0,nan,nan,Substitution ,nan
+202274,21600394,4,5:47,nan,SUB: Koufos FOR Cousins,nan,202326,DeMarcus Cousins,SAC,201585,Kosta Koufos,SAC,0,nan,nan,Substitution ,nan
+202275,21600394,4,5:37,nan,MISS Tolliver 27' 3PT Jump Shot,nan,201229,Anthony Tolliver,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202276,21600394,4,5:36,Gasol REBOUND (Off:0 Def:5),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202277,21600394,4,5:19,MISS Gasol 21' Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202278,21600394,4,5:19,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202279,21600394,4,5:19,nan,McLemore L.B.FOUL (P1.PN) (B.Adams),nan,203463,Ben McLemore,SAC,2754,Tony Allen,MEM,0,nan,nan,Foul ,Loose Ball
+202280,21600394,4,5:19,Allen Free Throw 1 of 2 (11 PTS),nan,85 - 77,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202281,21600394,4,5:19,SUB: Randolph FOR Green,nan,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+202282,21600394,4,5:19,Allen Free Throw 2 of 2 (12 PTS),nan,85 - 78,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202283,21600394,4,4:59,Martin S.FOUL (P4.T4) (C.Blair),nan,nan,1626185,Jarell Martin,MEM,201585,Kosta Koufos,SAC,0,nan,nan,Foul ,Shooting
+202284,21600394,4,4:59,nan,Koufos Free Throw 1 of 2 (13 PTS),86 - 78,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202285,21600394,4,4:59,SUB: Daniels FOR Martin,nan,nan,1626185,Jarell Martin,MEM,203584,Troy Daniels,MEM,0,nan,nan,Substitution ,nan
+202286,21600394,4,4:59,nan,SUB: Barnes FOR McLemore,nan,203463,Ben McLemore,SAC,2440,Matt Barnes,SAC,0,nan,nan,Substitution ,nan
+202287,21600394,4,4:59,nan,Koufos Free Throw 2 of 2 (14 PTS),87 - 78,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202288,21600394,4,4:48,Conley 5' Floating Jump Shot (8 PTS) (Gasol 3 AST),nan,87 - 80,201144,Mike Conley,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+202289,21600394,4,4:23,nan,Koufos 8' Hook Shot (16 PTS) (Collison 6 AST),89 - 80,201585,Kosta Koufos,SAC,201954,Darren Collison,SAC,0,nan,nan,Made Shot ,nan
+202290,21600394,4,4:11,MISS Allen 3' Layup,Tolliver BLOCK (1 BLK),nan,2754,Tony Allen,MEM,0,nan,nan,201229,Anthony Tolliver,SAC,Missed Shot ,nan
+202291,21600394,4,4:08,nan,Barnes REBOUND (Off:2 Def:8),nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202292,21600394,4,4:00,Allen P.FOUL (P2.PN) (B.Adams),nan,nan,2754,Tony Allen,MEM,201954,Darren Collison,SAC,0,nan,nan,Foul ,Personal
+202293,21600394,4,4:00,nan,Collison Free Throw 1 of 2 (10 PTS),90 - 80,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202294,21600394,4,4:00,nan,Collison Free Throw 2 of 2 (11 PTS),91 - 80,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202295,21600394,4,3:57,GRIZZLIES Timeout: Regular (Full 4 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+202296,21600394,4,3:44,Allen 1' Cutting Layup Shot (14 PTS) (Gasol 4 AST),nan,91 - 82,2754,Tony Allen,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+202297,21600394,4,3:31,nan,Koufos OFF.Foul (P5) (L.Richardson),nan,201585,Kosta Koufos,SAC,2754,Tony Allen,MEM,0,nan,nan,Foul ,Offensive
+202298,21600394,4,3:31,nan,Koufos Foul Turnover (P1.T12),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+202299,21600394,4,3:17,Allen 1' Driving Layup (16 PTS),nan,91 - 84,2754,Tony Allen,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+202300,21600394,4,2:53,nan,MISS Collison 11' Floating Jump Shot,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202301,21600394,4,2:52,nan,Koufos REBOUND (Off:7 Def:6),nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202302,21600394,4,2:50,nan,Kings Timeout: Short (Reg.4 Short 2),nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+202303,21600394,4,2:50,nan,SUB: Cousins FOR Koufos,nan,201585,Kosta Koufos,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Substitution ,nan
+202304,21600394,4,2:30,nan,MISS Temple 25' 3PT Jump Shot,nan,202066,Garrett Temple,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202305,21600394,4,2:29,Randolph REBOUND (Off:3 Def:5),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202306,21600394,4,2:14,Daniels 26' 3PT Jump Shot (10 PTS) (Conley 5 AST),nan,91 - 87,203584,Troy Daniels,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+202307,21600394,4,1:46,nan,Barnes  Cutting Layup Shot (7 PTS) (Temple 4 AST),93 - 87,2440,Matt Barnes,SAC,202066,Garrett Temple,SAC,0,nan,nan,Made Shot ,nan
+202308,21600394,4,1:31,MISS Conley 25' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202309,21600394,4,1:31,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202310,21600394,4,1:31,Randolph P.FOUL (P4.PN) (B.Adams),nan,nan,2216,Zach Randolph,MEM,201229,Anthony Tolliver,SAC,0,nan,nan,Foul ,Personal
+202311,21600394,4,1:31,nan,Tolliver Free Throw 1 of 2 (8 PTS),94 - 87,201229,Anthony Tolliver,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202312,21600394,4,1:31,nan,SUB: Lawson FOR Barnes,nan,2440,Matt Barnes,SAC,201951,Ty Lawson,SAC,0,nan,nan,Substitution ,nan
+202313,21600394,4,1:31,Gasol Violation:Lane (B.Adams),nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Violation ,Lane
+202314,21600394,4,1:31,nan,Tolliver Free Throw 2 of 2 (9 PTS),95 - 87,201229,Anthony Tolliver,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202315,21600394,4,1:31,GRIZZLIES Timeout: Regular (Full 5 Short 0),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+202316,21600394,4,1:27,nan,Cousins P.FOUL (P6.PN) (B.Adams),nan,202326,DeMarcus Cousins,SAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal
+202317,21600394,4,1:27,nan,SUB: Koufos FOR Cousins,nan,202326,DeMarcus Cousins,SAC,201585,Kosta Koufos,SAC,0,nan,nan,Substitution ,nan
+202318,21600394,4,1:27,Gasol Free Throw 1 of 2 (19 PTS),nan,95 - 88,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202319,21600394,4,1:27,Gasol Free Throw 2 of 2 (20 PTS),nan,95 - 89,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202320,21600394,4,1:02,nan,MISS Collison 21' Step Back Jump Shot,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202321,21600394,4,1:00,Conley REBOUND (Off:0 Def:3),nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202322,21600394,4,0:55,Daniels 26' 3PT Running Jump Shot (13 PTS) (Conley 6 AST),nan,95 - 92,203584,Troy Daniels,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+202323,21600394,4,0:31,nan,MISS Temple 2' Layup,nan,202066,Garrett Temple,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202324,21600394,4,0:31,nan,Temple REBOUND (Off:2 Def:4),nan,202066,Garrett Temple,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202325,21600394,4,0:31,nan,nan,nan,607,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+202326,21600394,4,0:31,nan,SUB: Barnes FOR Koufos,nan,201585,Kosta Koufos,SAC,2440,Matt Barnes,SAC,0,nan,nan,Substitution ,nan
+202327,21600394,4,0:09,nan,MISS Barnes 25' 3PT Jump Shot,nan,2440,Matt Barnes,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202328,21600394,4,0:08,Randolph REBOUND (Off:3 Def:6),nan,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202329,21600394,4,0:07,GRIZZLIES Timeout: Short (Full 5 Short 1),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+202330,21600394,4,0:03,MISS Conley 24' 3PT Jump Shot,nan,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202331,21600394,4,0:02,nan,Lawson REBOUND (Off:0 Def:3),nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202332,21600394,4,0:01,Gasol P.FOUL (P5.PN) (C.Blair),nan,nan,201188,Marc Gasol,MEM,201951,Ty Lawson,SAC,0,nan,nan,Foul ,Personal
+202333,21600394,4,0:01,nan,MISS Lawson Free Throw 1 of 2,nan,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+202334,21600394,4,0:01,nan,Kings Rebound,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+202335,21600394,4,0:01,nan,Lawson Free Throw 2 of 2 (6 PTS),96 - 92,201951,Ty Lawson,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+202336,21600394,4,0:01,GRIZZLIES Timeout: Short (Full 5 Short 2),nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+202337,21600394,4,0:01,MISS Gasol 27' 3PT Jump Shot,nan,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+202338,21600394,4,0:00,GRIZZLIES Rebound,nan,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+202339,21600394,4,0:00,nan,nan,96 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+158926,21600047,4,12:00,nan,nan,84 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+158927,21600047,4,11:49,Frye S.FOUL (P1.T1) (S.Wright),nan,nan,101112,Channing Frye,CLE,2403,Nene,HOU,0,nan,nan,Foul ,Shooting
+158928,21600047,4,11:49,nan,MISS Nene Free Throw 1 of 2,nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158929,21600047,4,11:49,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+158930,21600047,4,11:49,nan,Nene Free Throw 2 of 2 (13 PTS),85 - 85,2403,Nene,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158931,21600047,4,11:28,Jefferson 1' Driving Layup (4 PTS),nan,85 - 87,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+158932,21600047,4,11:16,Dunleavy S.FOUL (P2.T2) (C.Kirkland),nan,nan,2399,Mike Dunleavy,CLE,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+158933,21600047,4,11:16,nan,MISS Brewer Free Throw 1 of 2,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158934,21600047,4,11:16,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+158935,21600047,4,11:16,nan,Brewer Free Throw 2 of 2 (9 PTS),86 - 87,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158936,21600047,4,10:57,Shumpert Out of Bounds Lost Ball Turnover (P2.T9),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+158937,21600047,4,10:41,nan,MISS Brewer 25' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158938,21600047,4,10:40,Jefferson REBOUND (Off:0 Def:3),nan,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158939,21600047,4,10:34,nan,Ennis Shooting Block Foul (P1.T1) (S.Wright),nan,203898,Tyler Ennis,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Shooting Block
+158940,21600047,4,10:34,Irving Free Throw 1 of 2 (22 PTS),nan,86 - 88,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158941,21600047,4,10:34,Irving Free Throw 2 of 2 (23 PTS),nan,86 - 89,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158942,21600047,4,10:29,Frye P.FOUL (P2.T3) (S.Wright),nan,nan,101112,Channing Frye,CLE,203898,Tyler Ennis,HOU,0,nan,nan,Foul ,Personal
+158943,21600047,4,10:29,nan,SUB: Capela FOR Nene,nan,2403,Nene,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+158944,21600047,4,10:19,nan,MISS Ennis 18' Floating Jump Shot,nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158945,21600047,4,10:18,Dunleavy REBOUND (Off:0 Def:4),nan,nan,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158946,21600047,4,10:08,nan,Gordon S.FOUL (P2.T2) (S.Wright),nan,201569,Eric Gordon,HOU,2399,Mike Dunleavy,CLE,0,nan,nan,Foul ,Shooting
+158947,21600047,4,10:08,MISS Dunleavy Free Throw 1 of 2,nan,nan,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158948,21600047,4,10:08,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+158949,21600047,4,10:08,Dunleavy Free Throw 2 of 2 (6 PTS),nan,86 - 90,2399,Mike Dunleavy,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158950,21600047,4,9:43,nan,MISS Brewer 13' Pullup Bank Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158951,21600047,4,9:42,Shumpert REBOUND (Off:0 Def:2),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158952,21600047,4,9:25,MISS Frye 6' Turnaround Jump Shot,nan,nan,101112,Channing Frye,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158953,21600047,4,9:25,nan,Ennis REBOUND (Off:0 Def:1),nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158954,21600047,4,9:17,nan,Gordon 25' 3PT Jump Shot (7 PTS) (Ennis 1 AST),89 - 90,201569,Eric Gordon,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Made Shot ,nan
+158955,21600047,4,9:16,CAVALIERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158956,21600047,4,9:16,SUB: James FOR Jefferson,nan,nan,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+158957,21600047,4,9:16,SUB: Love FOR Frye,nan,nan,101112,Channing Frye,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+158958,21600047,4,8:53,Shumpert  Driving Dunk (5 PTS),nan,89 - 92,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+158959,21600047,4,8:43,nan,MISS Gordon 28' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158960,21600047,4,8:43,nan,Ennis REBOUND (Off:1 Def:1),nan,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158961,21600047,4,8:37,nan,MISS Ariza 24' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158962,21600047,4,8:37,nan,Brewer REBOUND (Off:1 Def:2),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158963,21600047,4,8:33,nan,Ariza 25' 3PT Jump Shot (5 PTS) (Brewer 2 AST),92 - 92,2772,Trevor Ariza,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+158964,21600047,4,8:16,nan,Gordon P.FOUL (P3.T3) (C.Kirkland),nan,201569,Eric Gordon,HOU,201567,Kevin Love,CLE,0,nan,nan,Foul ,Personal
+158965,21600047,4,8:00,Irving 11' Turnaround Bank Shot (25 PTS),nan,92 - 94,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+158966,21600047,4,7:47,Shumpert STEAL (1 STL),Gordon Bad Pass Turnover (P2.T4),nan,201569,Eric Gordon,HOU,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+158967,21600047,4,7:42,Dunleavy  Running Dunk (8 PTS) (Shumpert 1 AST),nan,92 - 96,2399,Mike Dunleavy,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+158968,21600047,4,7:42,nan,Rockets Timeout: Regular (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+158969,21600047,4,7:42,nan,SUB: Harden FOR Ennis,nan,203898,Tyler Ennis,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+158970,21600047,4,7:25,nan,Gordon 25' 3PT Jump Shot (10 PTS) (Harden 13 AST),95 - 96,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+158971,21600047,4,7:07,MISS Irving 24' 3PT Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158972,21600047,4,7:07,nan,Harden REBOUND (Off:1 Def:6),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158973,21600047,4,7:01,nan,MISS Capela 1' Alley Oop Layup,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158974,21600047,4,7:00,Love REBOUND (Off:1 Def:4),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158975,21600047,4,6:55,nan,Gordon Personal Block Foul (P4.T4) (K.Cutler),nan,201569,Eric Gordon,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal Block
+158976,21600047,4,6:55,SUB: Smith FOR Irving,nan,nan,202681,Kyrie Irving,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+158977,21600047,4,6:45,Shumpert 24' 3PT Jump Shot (8 PTS) (Dunleavy 2 AST),nan,95 - 99,202697,Iman Shumpert,CLE,2399,Mike Dunleavy,CLE,0,nan,nan,Made Shot ,nan
+158978,21600047,4,6:34,Love STEAL (1 STL),Capela Bad Pass Turnover (P1.T5),nan,203991,Clint Capela,HOU,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Bad Pass
+158979,21600047,4,6:27,Dunleavy 26' 3PT Jump Shot (11 PTS) (James 6 AST),nan,95 - 102,2399,Mike Dunleavy,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+158980,21600047,4,6:16,Love STEAL (2 STL),Harden Bad Pass Turnover (P1.T6),nan,201935,James Harden,HOU,201567,Kevin Love,CLE,0,nan,nan,Turnover ,Bad Pass
+158981,21600047,4,6:06,nan,Ariza S.FOUL (P3.PN) (C.Kirkland),nan,2772,Trevor Ariza,HOU,201567,Kevin Love,CLE,0,nan,nan,Foul ,Shooting
+158982,21600047,4,6:06,Love Free Throw 1 of 3 (16 PTS),nan,95 - 103,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+158983,21600047,4,6:06,Love Free Throw 2 of 3 (17 PTS),nan,95 - 104,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+158984,21600047,4,6:06,nan,SUB: Nene FOR Capela,nan,203991,Clint Capela,HOU,2403,Nene,HOU,0,nan,nan,Substitution ,nan
+158985,21600047,4,6:06,Love Free Throw 3 of 3 (18 PTS),nan,95 - 105,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+158986,21600047,4,5:51,nan,Ariza 24' 3PT Jump Shot (8 PTS),98 - 105,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+158987,21600047,4,5:32,Love 1' Cutting Layup Shot (20 PTS) (James 7 AST),nan,98 - 107,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+158988,21600047,4,5:22,nan,Ariza 24' 3PT Jump Shot (11 PTS) (Harden 14 AST),101 - 107,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+158989,21600047,4,4:59,nan,Brewer Violation:Defensive Goaltending (C.Kirkland),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+158990,21600047,4,4:59,Love 1' Layup (22 PTS),nan,101 - 109,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+158991,21600047,4,4:49,nan,Harden 1' Driving Layup (33 PTS),103 - 109,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+158992,21600047,4,4:40,nan,Nene P.FOUL (P2.PN) (C.Kirkland),nan,2403,Nene,HOU,201567,Kevin Love,CLE,0,nan,nan,Foul ,Personal
+158993,21600047,4,4:40,Love Free Throw 1 of 2 (23 PTS),nan,103 - 110,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+158994,21600047,4,4:40,nan,SUB: Anderson FOR Brewer,nan,201147,Corey Brewer,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Substitution ,nan
+158995,21600047,4,4:40,Love Free Throw 2 of 2 (24 PTS),nan,103 - 111,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+158996,21600047,4,4:29,Shumpert P.FOUL (P3.T4) (K.Cutler),nan,nan,202697,Iman Shumpert,CLE,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal
+158997,21600047,4,4:22,nan,MISS Harden 28' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+158998,21600047,4,4:21,James REBOUND (Off:3 Def:9),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+158999,21600047,4,4:12,James 1' Driving Finger Roll Layup (14 PTS),nan,103 - 113,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+159000,21600047,4,3:58,nan,MISS Ariza 24' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159001,21600047,4,3:57,nan,Nene REBOUND (Off:3 Def:2),nan,2403,Nene,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159002,21600047,4,3:47,nan,Gordon 24' 3PT Jump Shot (13 PTS) (Anderson 1 AST),106 - 113,201569,Eric Gordon,HOU,201583,Ryan Anderson,HOU,0,nan,nan,Made Shot ,nan
+159003,21600047,4,3:25,James Offensive Charge Foul (P3.PN) (K.Cutler),nan,nan,2544,LeBron James,CLE,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Offensive Charge
+159004,21600047,4,3:25,James Foul Turnover (P3.T10),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+159005,21600047,4,3:25,SUB: Irving FOR Shumpert,nan,nan,202697,Iman Shumpert,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+159006,21600047,4,3:19,Love S.FOUL (P1.PN) (C.Kirkland),nan,nan,201567,Kevin Love,CLE,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+159007,21600047,4,3:19,nan,MISS Harden Free Throw 1 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159008,21600047,4,3:19,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159009,21600047,4,3:19,nan,MISS Harden Free Throw 2 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159010,21600047,4,3:18,James REBOUND (Off:3 Def:10),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159011,21600047,4,3:01,James Lost Ball Turnover (P4.T11),Gordon STEAL (2 STL),nan,2544,LeBron James,CLE,201569,Eric Gordon,HOU,0,nan,nan,Turnover ,Lost Ball
+159012,21600047,4,2:47,nan,Gordon 26' 3PT Jump Shot (16 PTS) (Harden 15 AST),109 - 113,201569,Eric Gordon,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+159013,21600047,4,2:36,nan,Gordon P.FOUL (P5.PN) (C.Kirkland),nan,201569,Eric Gordon,HOU,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+159014,21600047,4,2:36,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+159015,21600047,4,2:36,SUB: Thompson FOR Dunleavy,nan,nan,2399,Mike Dunleavy,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+159016,21600047,4,2:36,MISS James Free Throw 1 of 2,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159017,21600047,4,2:36,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159018,21600047,4,2:36,James Free Throw 2 of 2 (15 PTS),nan,109 - 114,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159019,21600047,4,2:18,nan,Anderson  3PT Jump Shot (12 PTS) (Ariza 2 AST),112 - 114,201583,Ryan Anderson,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+159020,21600047,4,1:58,James 25' 3PT Jump Shot (18 PTS) (Smith 2 AST),nan,112 - 117,2544,LeBron James,CLE,2747,JR Smith,CLE,0,nan,nan,Made Shot ,nan
+159021,21600047,4,1:43,Thompson S.FOUL (P4.PN) (C.Kirkland),nan,nan,202684,Tristan Thompson,CLE,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+159022,21600047,4,1:43,nan,Harden Free Throw 1 of 2 (34 PTS),113 - 117,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159023,21600047,4,1:43,nan,Harden Free Throw 2 of 2 (35 PTS),114 - 117,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159024,21600047,4,1:31,Irving 2' Driving Layup (27 PTS),nan,114 - 119,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+159025,21600047,4,1:26,James S.FOUL (P4.PN) (C.Kirkland),nan,nan,2544,LeBron James,CLE,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+159026,21600047,4,1:26,nan,Harden Free Throw 1 of 3 (36 PTS),115 - 119,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+159027,21600047,4,1:26,nan,MISS Harden Free Throw 2 of 3,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+159028,21600047,4,1:26,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159029,21600047,4,1:26,nan,Harden Free Throw 3 of 3 (37 PTS),116 - 119,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+159030,21600047,4,1:08,Smith  3PT Jump Shot (15 PTS) (James 8 AST),nan,116 - 122,2747,JR Smith,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+159031,21600047,4,0:59,nan,MISS Ariza 28' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159032,21600047,4,0:58,nan,Anderson REBOUND (Off:3 Def:1),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159033,21600047,4,0:52,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+159034,21600047,4,0:51,Thompson REBOUND (Off:6 Def:4),nan,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+159035,21600047,4,0:34,Irving 28' 3PT Jump Shot (30 PTS),nan,116 - 125,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+159036,21600047,4,0:34,nan,Rockets Timeout: Regular (Reg.5 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159037,21600047,4,0:34,SUB: Shumpert FOR Love,nan,nan,201567,Kevin Love,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Substitution ,nan
+159038,21600047,4,0:27,nan,Harden  Driving Dunk (39 PTS),118 - 125,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+159039,21600047,4,0:27,CAVALIERS Timeout: Short (Full 4 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+159040,21600047,4,0:27,SUB: Love FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+159041,21600047,4,0:25,nan,Nene P.FOUL (P3.PN) (C.Kirkland),nan,2403,Nene,HOU,202681,Kyrie Irving,CLE,0,nan,nan,Foul ,Personal
+159042,21600047,4,0:25,Irving Free Throw 1 of 2 (31 PTS),nan,118 - 126,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159043,21600047,4,0:25,SUB: Thompson FOR Love,nan,nan,201567,Kevin Love,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+159044,21600047,4,0:25,Irving Free Throw 2 of 2 (32 PTS),nan,118 - 127,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159045,21600047,4,0:25,nan,Rockets Timeout: Short (Reg.5 Short 2),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+159046,21600047,4,0:20,nan,Harden 1' Driving Layup (41 PTS),120 - 127,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+159047,21600047,4,0:20,CAVALIERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+159048,21600047,4,0:20,SUB: Love FOR Thompson,nan,nan,202684,Tristan Thompson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+159049,21600047,4,0:17,CAVALIERS Timeout: Short (Full 5 Short 2),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+159050,21600047,4,0:13,nan,Anderson P.FOUL (P3.PN) (C.Kirkland),nan,201583,Ryan Anderson,HOU,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+159051,21600047,4,0:13,MISS James Free Throw 1 of 2,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+159052,21600047,4,0:13,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+159053,21600047,4,0:13,SUB: Thompson FOR Love,nan,nan,201567,Kevin Love,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+159054,21600047,4,0:13,James Free Throw 2 of 2 (19 PTS),nan,120 - 128,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+159055,21600047,4,0:13,nan,Rockets Timeout: Short (Reg.5 Short 3),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+159056,21600047,4,0:09,Shumpert STEAL (2 STL),Nene Lost Ball Turnover (P2.T7),nan,2403,Nene,HOU,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Lost Ball
+159057,21600047,4,0:00,nan,nan,120 - 128,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

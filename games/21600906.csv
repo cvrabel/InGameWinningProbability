@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+264980,21600906,4,12:00,nan,nan,73 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+264981,21600906,4,11:47,Rondo Out of Bounds - Bad Pass Turnover Turnover (P4.T11),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+264982,21600906,4,11:31,nan,Thompson 21' Jump Shot (11 PTS) (West 5 AST),75 - 79,202691,Klay Thompson,GSW,2561,David West,GSW,0,nan,nan,Made Shot ,nan
+264983,21600906,4,11:15,MISS Rondo 15' Pullup Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264984,21600906,4,11:15,Valentine REBOUND (Off:1 Def:1),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264985,21600906,4,11:15,MISS Valentine 24' 3PT Step Back Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264986,21600906,4,11:13,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264987,21600906,4,11:13,Zipser L.B.FOUL (P3.T1) (L.Wood),nan,nan,1627835,Paul Zipser,CHI,2561,David West,GSW,0,nan,nan,Foul ,Loose Ball
+264988,21600906,4,11:05,Zipser S.FOUL (P4.T2) (K.Fitzgerald),nan,nan,1627835,Paul Zipser,CHI,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+264989,21600906,4,11:05,nan,Thompson Free Throw 1 of 2 (12 PTS),76 - 79,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+264990,21600906,4,11:05,nan,Thompson Free Throw 2 of 2 (13 PTS),77 - 79,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+264991,21600906,4,10:54,MISS Mirotic 25' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264992,21600906,4,10:54,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264993,21600906,4,10:54,nan,Iguodala L.B.FOUL (P2.T1) (K.Fitzgerald),nan,2738,Andre Iguodala,GSW,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Loose Ball
+264994,21600906,4,10:54,SUB: Wade FOR Valentine,nan,nan,1627756,Denzel Valentine,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Substitution ,nan
+264995,21600906,4,10:37,MISS Wade 20' Fadeaway Jumper,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264996,21600906,4,10:36,nan,Iguodala REBOUND (Off:0 Def:6),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264997,21600906,4,10:17,nan,MISS Iguodala  3PT Jump Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+264998,21600906,4,10:16,nan,West REBOUND (Off:1 Def:2),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+264999,21600906,4,10:13,nan,MISS Thompson 25' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265000,21600906,4,10:08,Felicio REBOUND (Off:1 Def:7),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265001,21600906,4,9:54,MISS Mirotic 24' 3PT Jump Shot,Green BLOCK (2 BLK),nan,202703,Nikola Mirotic,CHI,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+265002,21600906,4,9:53,Felicio REBOUND (Off:2 Def:7),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265003,21600906,4,9:47,MISS Rondo 26' 3PT Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265004,21600906,4,9:46,nan,Iguodala REBOUND (Off:0 Def:7),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265005,21600906,4,9:26,nan,MISS West 17' Jump Shot,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265006,21600906,4,9:25,Rondo REBOUND (Off:0 Def:3),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265007,21600906,4,9:09,Mirotic  3PT Jump Shot (5 PTS) (Rondo 3 AST),nan,77 - 82,202703,Nikola Mirotic,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+265008,21600906,4,8:45,nan,MISS Thompson 26' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265009,21600906,4,8:44,Felicio REBOUND (Off:2 Def:8),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265010,21600906,4,8:33,Felicio OFF.Foul (P2) (K.Fitzgerald),nan,nan,1626245,Cristiano Felicio,CHI,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Offensive
+265011,21600906,4,8:33,Felicio Foul Turnover (P2.T12),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+265012,21600906,4,8:33,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265013,21600906,4,8:33,nan,SUB: Curry FOR Iguodala,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+265014,21600906,4,8:33,SUB: Payne FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,1626166,Cameron Payne,CHI,0,nan,nan,Substitution ,nan
+265015,21600906,4,8:07,nan,MISS Livingston 17' Turnaround Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265016,21600906,4,8:06,Zipser REBOUND (Off:0 Def:2),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265017,21600906,4,7:56,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265018,21600906,4,7:54,nan,Green REBOUND (Off:1 Def:5),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265019,21600906,4,7:41,nan,Curry 1' Driving Layup (19 PTS) (Green 7 AST),79 - 82,201939,Stephen Curry,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+265020,21600906,4,7:22,Felicio  Cutting Dunk Shot (2 PTS) (Mirotic 1 AST),nan,79 - 84,1626245,Cristiano Felicio,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+265021,21600906,4,7:11,nan,MISS Curry 27' 3PT Pullup Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265022,21600906,4,7:11,Wade REBOUND (Off:0 Def:4),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265023,21600906,4,6:51,Wade Bad Pass Turnover (P4.T13),Livingston STEAL (1 STL),nan,2548,Dwyane Wade,CHI,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Bad Pass
+265024,21600906,4,6:46,nan,Curry 1' Driving Layup (21 PTS) (Livingston 1 AST),81 - 84,201939,Stephen Curry,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+265025,21600906,4,6:25,MISS Payne 26' 3PT Jump Shot,nan,nan,1626166,Cameron Payne,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265026,21600906,4,6:24,nan,Green REBOUND (Off:1 Def:6),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265027,21600906,4,6:08,Mirotic BLOCK (2 BLK),MISS Curry 6' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,202703,Nikola Mirotic,CHI,Missed Shot ,nan
+265028,21600906,4,6:05,nan,Curry REBOUND (Off:1 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265029,21600906,4,6:04,nan,Curry 19' Floating Jump Shot (23 PTS),83 - 84,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+265030,21600906,4,6:04,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265031,21600906,4,6:04,nan,SUB: Iguodala FOR Green,nan,203110,Draymond Green,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+265032,21600906,4,6:04,nan,SUB: Barnes FOR Thompson,nan,202691,Klay Thompson,GSW,2440,Matt Barnes,GSW,0,nan,nan,Substitution ,nan
+265033,21600906,4,6:04,SUB: Butler FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+265034,21600906,4,6:04,Payne Lost Ball Turnover (P1.T14),Curry STEAL (4 STL),nan,1626166,Cameron Payne,CHI,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Lost Ball
+265035,21600906,4,5:43,nan,West 3' Driving Layup (2 PTS),85 - 84,2561,David West,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+265036,21600906,4,4:56,BULLS Turnover: Shot Clock (T#15),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+265037,21600906,4,4:56,SUB: Portis FOR Payne,nan,nan,1626166,Cameron Payne,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+265038,21600906,4,4:44,nan,MISS Curry 25' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265039,21600906,4,4:43,Wade REBOUND (Off:0 Def:5),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265040,21600906,4,4:32,MISS Portis  3PT Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265041,21600906,4,4:31,nan,West REBOUND (Off:1 Def:3),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265042,21600906,4,4:21,nan,West Bad Pass Turnover (P1.T15),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+265043,21600906,4,3:59,MISS Wade 24' 3PT Step Back Jump Shot,Livingston BLOCK (1 BLK),nan,2548,Dwyane Wade,CHI,0,nan,nan,2733,Shaun Livingston,GSW,Missed Shot ,nan
+265044,21600906,4,3:56,nan,West REBOUND (Off:1 Def:4),nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265045,21600906,4,3:36,nan,MISS West 2' Driving Layup,nan,2561,David West,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265046,21600906,4,3:35,Zipser REBOUND (Off:0 Def:3),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265047,21600906,4,3:33,nan,West P.FOUL (P1.T2) (E.Malloy),nan,2561,David West,GSW,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Personal
+265048,21600906,4,3:33,nan,SUB: Green FOR Livingston,nan,2733,Shaun Livingston,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+265049,21600906,4,3:33,nan,SUB: Thompson FOR West,nan,2561,David West,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+265050,21600906,4,3:13,Butler Bad Pass Turnover (P2.T16),Curry STEAL (5 STL),nan,202710,Jimmy Butler,CHI,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+265051,21600906,4,3:07,nan,MISS Thompson  3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265052,21600906,4,3:06,Felicio REBOUND (Off:2 Def:9),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265053,21600906,4,2:53,nan,Green S.FOUL (P3.T3) (L.Wood),nan,203110,Draymond Green,GSW,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+265054,21600906,4,2:53,nan,Warriors Timeout: Regular (Reg.5 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265055,21600906,4,2:53,Butler Free Throw 1 of 2 (19 PTS),nan,85 - 85,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265056,21600906,4,2:53,Butler Free Throw 2 of 2 (20 PTS),nan,85 - 86,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265057,21600906,4,2:34,nan,MISS Green 26' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265058,21600906,4,2:33,Butler REBOUND (Off:0 Def:5),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265059,21600906,4,2:19,Wade 17' Fadeaway Jumper (12 PTS),nan,85 - 88,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+265060,21600906,4,2:07,nan,MISS Curry 25' 3PT Pullup Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265061,21600906,4,2:06,Zipser REBOUND (Off:0 Def:4),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265062,21600906,4,1:41,Zipser 25' 3PT Jump Shot (9 PTS) (Felicio 1 AST),nan,85 - 91,1627835,Paul Zipser,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+265063,21600906,4,1:41,nan,Warriors Timeout: Regular (Reg.6 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+265064,21600906,4,1:41,nan,nan,nan,499,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+265065,21600906,4,1:27,nan,MISS Curry 2' Driving Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265066,21600906,4,1:26,Portis REBOUND (Off:2 Def:8),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265067,21600906,4,1:07,MISS Butler 8' Turnaround Bank Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265068,21600906,4,1:05,nan,Curry REBOUND (Off:1 Def:4),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265069,21600906,4,1:01,nan,MISS Curry 26' 3PT Running Pull-Up Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265070,21600906,4,1:01,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265071,21600906,4,1:01,nan,nan,nan,510,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+265072,21600906,4,0:56,nan,Iguodala  Driving Dunk (10 PTS) (Curry 5 AST),87 - 91,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+265073,21600906,4,0:48,MISS Butler 25' 3PT Pullup Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265074,21600906,4,0:47,nan,Curry REBOUND (Off:1 Def:5),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265075,21600906,4,0:32,nan,MISS Curry 19' Step Back Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265076,21600906,4,0:30,Portis REBOUND (Off:2 Def:9),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265077,21600906,4,0:29,nan,Barnes Personal Take Foul (P1.T4) (L.Wood),nan,2440,Matt Barnes,GSW,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Personal Take
+265078,21600906,4,0:28,nan,Iguodala P.FOUL (P3.PN) (E.Malloy),nan,2738,Andre Iguodala,GSW,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+265079,21600906,4,0:28,Butler Free Throw 1 of 2 (21 PTS),nan,87 - 92,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265080,21600906,4,0:28,Butler Free Throw 2 of 2 (22 PTS),nan,87 - 93,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265081,21600906,4,0:21,nan,MISS Thompson 25' 3PT Running Pull-Up Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265082,21600906,4,0:19,Portis REBOUND (Off:2 Def:10),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265083,21600906,4,0:15,nan,Green P.FOUL (P4.PN) (L.Wood),nan,203110,Draymond Green,GSW,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Personal
+265084,21600906,4,0:15,Portis Free Throw 1 of 2 (17 PTS),nan,87 - 94,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+265085,21600906,4,0:15,MISS Portis Free Throw 2 of 2,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+265086,21600906,4,0:14,nan,Green REBOUND (Off:1 Def:7),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265087,21600906,4,0:09,nan,MISS Thompson 26' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+265088,21600906,4,0:08,Portis REBOUND (Off:2 Def:11),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+265089,21600906,4,0:00,nan,nan,87 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

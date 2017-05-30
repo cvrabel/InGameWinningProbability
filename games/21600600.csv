@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+227231,21600600,4,12:00,nan,nan,63 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+227232,21600600,4,11:43,MISS Johnson 6' Fadeaway Jumper,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227233,21600600,4,11:42,nan,Marc Morris REBOUND (Off:0 Def:4),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227234,21600600,4,11:34,nan,Johnson 24' 3PT Jump Shot (8 PTS) (Udrih 4 AST),66 - 78,1626169,Stanley Johnson,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+227235,21600600,4,11:18,Hood 25' 3PT Jump Shot (21 PTS) (Lyles 2 AST),nan,66 - 81,203918,Rodney Hood,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Made Shot ,nan
+227236,21600600,4,10:52,nan,MISS Udrih 24' 3PT Jump Shot,nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227237,21600600,4,10:52,Hood REBOUND (Off:0 Def:4),nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227238,21600600,4,10:43,Hood 25' 3PT Pullup Jump Shot (24 PTS),nan,66 - 84,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+227239,21600600,4,10:37,nan,Pistons Timeout: Short (Reg.4 Short 2),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+227240,21600600,4,10:24,nan,Bullock 2' Reverse Layup (5 PTS) (Udrih 5 AST),68 - 84,203493,Reggie Bullock,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+227241,21600600,4,10:13,Exum Bad Pass Turnover (P1.T13),Bullock STEAL (2 STL),nan,203957,Dante Exum,UTA,203493,Reggie Bullock,DET,0,nan,nan,Turnover ,Bad Pass
+227242,21600600,4,10:09,nan,Johnson  Running Dunk (10 PTS) (Bullock 3 AST),70 - 84,1626169,Stanley Johnson,DET,203493,Reggie Bullock,DET,0,nan,nan,Made Shot ,nan
+227243,21600600,4,9:50,Favors 2' Layup (4 PTS) (Exum 2 AST),nan,70 - 86,202324,Derrick Favors,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+227244,21600600,4,9:50,nan,Marc Morris S.FOUL (P3.T1) (J.Tiven),nan,202694,Marcus Morris,DET,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+227245,21600600,4,9:50,Favors Free Throw 1 of 1 (5 PTS),nan,70 - 87,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227246,21600600,4,9:43,Lyles P.FOUL (P4.T1) (J.Tiven),nan,nan,1626168,Trey Lyles,UTA,202694,Marcus Morris,DET,0,nan,nan,Foul ,Personal
+227247,21600600,4,9:37,Lyles STEAL (1 STL),Udrih Bad Pass Turnover (P3.T11),nan,2757,Beno Udrih,DET,1626168,Trey Lyles,UTA,0,nan,nan,Turnover ,Bad Pass
+227248,21600600,4,9:36,nan,Udrih P.FOUL (P1.T2) (A.Smith),nan,2757,Beno Udrih,DET,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Personal
+227249,21600600,4,9:36,SUB: Diaw FOR Lyles,nan,nan,1626168,Trey Lyles,UTA,2564,Boris Diaw,UTA,0,nan,nan,Substitution ,nan
+227250,21600600,4,9:17,Favors 2' Reverse Layup (7 PTS) (Hood 2 AST),nan,70 - 89,202324,Derrick Favors,UTA,203918,Rodney Hood,UTA,0,nan,nan,Made Shot ,nan
+227251,21600600,4,9:01,nan,MISS Marc Morris 24' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227252,21600600,4,9:00,Favors REBOUND (Off:2 Def:6),nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227253,21600600,4,8:37,Hood 25' 3PT Step Back Jump Shot (27 PTS),nan,70 - 92,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+227254,21600600,4,8:17,nan,Bullock 2' Layup (7 PTS) (Udrih 6 AST),72 - 92,203493,Reggie Bullock,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+227255,21600600,4,7:53,Favors 10' Jump Shot (9 PTS) (Exum 3 AST),nan,72 - 94,202324,Derrick Favors,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+227256,21600600,4,7:42,Hood P.FOUL (P3.T2) (A.Smith),nan,nan,203918,Rodney Hood,UTA,203493,Reggie Bullock,DET,0,nan,nan,Foul ,Personal
+227257,21600600,4,7:42,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227258,21600600,4,7:42,nan,Pistons Violation: Delay of game Violation,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+227259,21600600,4,7:42,SUB: Ingles FOR Hood,nan,nan,203918,Rodney Hood,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+227260,21600600,4,7:42,SUB: Gobert FOR Favors,nan,nan,202324,Derrick Favors,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+227261,21600600,4,7:42,nan,SUB: Harris FOR Udrih,nan,2757,Beno Udrih,DET,202699,Tobias Harris,DET,0,nan,nan,Substitution ,nan
+227262,21600600,4,7:42,nan,SUB: Drummond FOR Marjanovic,nan,1626246,Boban Marjanovic,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+227263,21600600,4,7:42,nan,SUB: Jackson FOR Johnson,nan,1626169,Stanley Johnson,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+227264,21600600,4,7:29,nan,MISS Bullock 16' Jump Shot,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227265,21600600,4,7:29,Diaw REBOUND (Off:0 Def:1),nan,nan,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227266,21600600,4,7:09,Gobert 1' Layup (4 PTS) (Exum 4 AST),nan,72 - 96,203497,Rudy Gobert,UTA,203957,Dante Exum,UTA,0,nan,nan,Made Shot ,nan
+227267,21600600,4,6:51,Gobert STEAL (1 STL),Jackson Bad Pass Turnover (P3.T12),nan,202704,Reggie Jackson,DET,203497,Rudy Gobert,UTA,0,nan,nan,Turnover ,Bad Pass
+227268,21600600,4,6:41,MISS Exum 25' 3PT Jump Shot,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227269,21600600,4,6:41,nan,Bullock REBOUND (Off:0 Def:2),nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227270,21600600,4,6:24,nan,MISS Harris 13' Jump Shot,nan,202699,Tobias Harris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227271,21600600,4,6:24,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227272,21600600,4,6:23,nan,Marc Morris L.B.FOUL (P4.T3) (J.Tiven),nan,202694,Marcus Morris,DET,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Loose Ball
+227273,21600600,4,6:23,SUB: G. Hill FOR Exum,nan,nan,203957,Dante Exum,UTA,201588,George Hill,UTA,0,nan,nan,Substitution ,nan
+227274,21600600,4,6:23,SUB: Hayward FOR Johnson,nan,nan,2207,Joe Johnson,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+227275,21600600,4,6:04,MISS G. Hill  3PT Jump Shot,nan,nan,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227276,21600600,4,6:03,nan,Marc Morris REBOUND (Off:0 Def:5),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227277,21600600,4,5:55,nan,MISS Marc Morris 12' Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227278,21600600,4,5:54,Gobert REBOUND (Off:3 Def:6),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227279,21600600,4,5:30,Diaw 13' Turnaround Fadeaway (6 PTS),nan,72 - 98,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+227280,21600600,4,5:05,nan,MISS Marc Morris 25' 3PT Jump Shot,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227281,21600600,4,5:04,Gobert REBOUND (Off:3 Def:7),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227282,21600600,4,4:46,Gobert  Dunk (6 PTS) (Diaw 4 AST),nan,72 - 100,203497,Rudy Gobert,UTA,2564,Boris Diaw,UTA,0,nan,nan,Made Shot ,nan
+227283,21600600,4,4:44,nan,Pistons Timeout: Regular (Reg.5 Short 2),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227284,21600600,4,4:44,nan,SUB: Ellenson FOR Harris,nan,202699,Tobias Harris,DET,1627740,Henry Ellenson,DET,0,nan,nan,Substitution ,nan
+227285,21600600,4,4:44,nan,SUB: Udrih FOR Drummond,nan,203083,Andre Drummond,DET,2757,Beno Udrih,DET,0,nan,nan,Substitution ,nan
+227286,21600600,4,4:44,nan,SUB: Marjanovic FOR Marc Morris,nan,202694,Marcus Morris,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+227287,21600600,4,4:44,nan,SUB: Hilliard FOR Jackson,nan,202704,Reggie Jackson,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+227288,21600600,4,4:44,SUB: Burks FOR Hayward,nan,nan,202330,Gordon Hayward,UTA,202692,Alec Burks,UTA,0,nan,nan,Substitution ,nan
+227289,21600600,4,4:42,SUB: Favors FOR Gobert,nan,nan,203497,Rudy Gobert,UTA,202324,Derrick Favors,UTA,0,nan,nan,Substitution ,nan
+227290,21600600,4,4:26,nan,MISS Marjanovic 6' Jump Shot,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227291,21600600,4,4:25,Favors REBOUND (Off:2 Def:7),nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227292,21600600,4,4:04,G. Hill 24' 3PT Jump Shot (22 PTS),nan,72 - 103,201588,George Hill,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+227293,21600600,4,3:35,nan,MISS Udrih 24' 3PT Jump Shot,nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227294,21600600,4,3:35,Ingles REBOUND (Off:0 Def:3),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227295,21600600,4,3:23,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227296,21600600,4,3:23,SUB: Withey FOR Favors,nan,nan,202324,Derrick Favors,UTA,203481,Jeff Withey,UTA,0,nan,nan,Substitution ,nan
+227297,21600600,4,3:23,SUB: Exum FOR G. Hill,nan,nan,201588,George Hill,UTA,203957,Dante Exum,UTA,0,nan,nan,Substitution ,nan
+227298,21600600,4,3:18,MISS Burks 2' Driving Reverse Layup,nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227299,21600600,4,3:17,nan,Marjanovic REBOUND (Off:1 Def:2),nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227300,21600600,4,3:13,nan,Ellenson 1' Layup (2 PTS) (Udrih 7 AST),74 - 103,1627740,Henry Ellenson,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+227301,21600600,4,3:13,Ingles S.FOUL (P1.T3) (A.Smith),nan,nan,204060,Joe Ingles,UTA,1627740,Henry Ellenson,DET,0,nan,nan,Foul ,Shooting
+227302,21600600,4,3:13,nan,Ellenson Free Throw 1 of 1 (3 PTS),75 - 103,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227303,21600600,4,2:54,MISS Burks 25' 3PT Jump Shot,nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227304,21600600,4,2:54,nan,Udrih REBOUND (Off:0 Def:1),nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227305,21600600,4,2:37,Ingles STEAL (2 STL),Ellenson Lost Ball Turnover (P1.T13),nan,1627740,Henry Ellenson,DET,204060,Joe Ingles,UTA,0,nan,nan,Turnover ,Lost Ball
+227306,21600600,4,2:32,Burks  Dunk (2 PTS) (Ingles 2 AST),nan,75 - 105,202692,Alec Burks,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+227307,21600600,4,2:11,nan,MISS Ellenson 26' 3PT Jump Shot,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227308,21600600,4,2:11,Exum REBOUND (Off:0 Def:1),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227309,21600600,4,2:01,Withey 2' Layup (2 PTS) (Diaw 5 AST),nan,75 - 107,203481,Jeff Withey,UTA,2564,Boris Diaw,UTA,0,nan,nan,Made Shot ,nan
+227310,21600600,4,2:01,nan,Marjanovic S.FOUL (P1.T4) (A.Smith),nan,1626246,Boban Marjanovic,DET,203481,Jeff Withey,UTA,0,nan,nan,Foul ,Shooting
+227311,21600600,4,2:01,SUB: Lyles FOR Diaw,nan,nan,2564,Boris Diaw,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+227312,21600600,4,2:01,Withey Free Throw 1 of 1 (3 PTS),nan,75 - 108,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227313,21600600,4,1:44,nan,Udrih 2' Driving Layup (9 PTS),77 - 108,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+227314,21600600,4,1:28,MISS Exum  3PT Jump Shot,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227315,21600600,4,1:27,nan,Hilliard REBOUND (Off:0 Def:1),nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227316,21600600,4,1:15,nan,MISS Ellenson 13' Jump Shot,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227317,21600600,4,1:13,Exum REBOUND (Off:0 Def:2),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227318,21600600,4,0:58,MISS Ingles 27' 3PT Jump Shot,nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227319,21600600,4,0:58,nan,Marjanovic REBOUND (Off:1 Def:3),nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227320,21600600,4,0:48,nan,MISS Ellenson 25' 3PT Jump Shot,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227321,21600600,4,0:47,Lyles REBOUND (Off:0 Def:4),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227322,21600600,4,0:34,MISS Burks  Driving Dunk,nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227323,21600600,4,0:34,Withey REBOUND (Off:1 Def:0),nan,nan,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227324,21600600,4,0:34,nan,Ellenson S.FOUL (P1.PN) (D.Stafford),nan,1627740,Henry Ellenson,DET,203481,Jeff Withey,UTA,0,nan,nan,Foul ,Shooting
+227325,21600600,4,0:34,Withey Free Throw 1 of 2 (4 PTS),nan,77 - 109,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227326,21600600,4,0:34,Withey Free Throw 2 of 2 (5 PTS),nan,77 - 110,203481,Jeff Withey,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227327,21600600,4,0:19,Lyles BLOCK (1 BLK),MISS Marjanovic 1' Layup,nan,1626246,Boban Marjanovic,DET,0,nan,nan,1626168,Trey Lyles,UTA,Missed Shot ,nan
+227328,21600600,4,0:17,Lyles REBOUND (Off:0 Def:5),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227329,21600600,4,0:00,nan,nan,77 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

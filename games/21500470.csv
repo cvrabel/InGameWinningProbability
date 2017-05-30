@@ -1,0 +1,166 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+58713,21500470,4,12:00,nan,nan,85 - 92,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+58714,21500470,4,11:36,Lawson 18' Pullup Jump Shot (12 PTS) (Howard 3 AST),nan,85 - 94,201951,Ty Lawson,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+58715,21500470,4,11:27,nan,MISS Horford 10' Jump Shot,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58716,21500470,4,11:26,Howard REBOUND (Off:1 Def:11),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58717,21500470,4,11:15,Howard  Dunk (21 PTS) (Brewer 1 AST),nan,85 - 96,2730,Dwight Howard,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+58718,21500470,4,11:15,nan,Patterson S.FOUL (P1.T1) (M.Lindsay),nan,203934,Lamar Patterson,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+58719,21500470,4,11:15,MISS Howard Free Throw 1 of 1,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+58720,21500470,4,11:15,nan,Horford REBOUND (Off:2 Def:6),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58721,21500470,4,10:56,ROCKETS T.Foul (Def. 3 Sec Motiejunas ) (J.VanDuyne),nan,nan,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+58722,21500470,4,10:56,nan,Korver Free Throw Technical (2 PTS),86 - 96,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+58723,21500470,4,10:46,nan,Scott 1' Cutting Layup Shot (5 PTS) (Mack 3 AST),88 - 96,203118,Mike Scott,ATL,202714,Shelvin Mack,ATL,0,nan,nan,Made Shot ,nan
+58724,21500470,4,10:32,Lawson 17' Step Back Jump Shot (14 PTS),nan,88 - 98,201951,Ty Lawson,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+58725,21500470,4,10:11,nan,MISS Mack 1' Driving Layup,nan,202714,Shelvin Mack,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58726,21500470,4,10:10,Howard REBOUND (Off:1 Def:12),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58727,21500470,4,9:51,Ariza Lost Ball Turnover (P2.T17),Scott STEAL (2 STL),nan,2772,Trevor Ariza,HOU,203118,Mike Scott,ATL,0,nan,nan,Turnover ,Lost Ball
+58728,21500470,4,9:45,nan,Patterson 1' Layup (2 PTS) (Korver 3 AST),90 - 98,203934,Lamar Patterson,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+58729,21500470,4,9:45,Brewer S.FOUL (P3.T1) (M.Lindsay),nan,nan,201147,Corey Brewer,HOU,203934,Lamar Patterson,ATL,0,nan,nan,Foul ,Shooting
+58730,21500470,4,9:45,SUB: Capela FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+58731,21500470,4,9:45,nan,Patterson Free Throw 1 of 1 (3 PTS),91 - 98,203934,Lamar Patterson,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+58732,21500470,4,9:30,MISS Ariza 25' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58733,21500470,4,9:29,nan,Patterson REBOUND (Off:0 Def:1),nan,203934,Lamar Patterson,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58734,21500470,4,9:21,nan,MISS Korver 24' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58735,21500470,4,9:20,Capela REBOUND (Off:2 Def:6),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58736,21500470,4,9:09,Brewer Bad Pass Turnover (P2.T18),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+58737,21500470,4,9:01,nan,Horford 24' 3PT Jump Shot (23 PTS) (Scott 1 AST),94 - 98,201143,Al Horford,ATL,203118,Mike Scott,ATL,0,nan,nan,Made Shot ,nan
+58738,21500470,4,8:54,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58739,21500470,4,8:54,SUB: Beverley FOR Lawson,nan,nan,201951,Ty Lawson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+58740,21500470,4,8:54,SUB: Harden FOR Brewer,nan,nan,201147,Corey Brewer,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+58741,21500470,4,8:40,nan,Patterson S.FOUL (P2.T2) (M.Lindsay),nan,203934,Lamar Patterson,ATL,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+58742,21500470,4,8:40,Harden Free Throw 1 of 3 (21 PTS),nan,94 - 99,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+58743,21500470,4,8:40,Harden Free Throw 2 of 3 (22 PTS),nan,94 - 100,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+58744,21500470,4,8:40,nan,SUB: Bazemore FOR Patterson,nan,203934,Lamar Patterson,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Substitution ,nan
+58745,21500470,4,8:40,Harden Free Throw 3 of 3 (23 PTS),nan,94 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+58746,21500470,4,8:21,nan,MISS Mack 25' 3PT Pullup Jump Shot,nan,202714,Shelvin Mack,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58747,21500470,4,8:20,Harden REBOUND (Off:0 Def:10),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58748,21500470,4,8:12,Howard  Dunk (23 PTS) (Beverley 1 AST),nan,94 - 103,2730,Dwight Howard,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+58749,21500470,4,8:12,nan,Scott S.FOUL (P2.T3) (J.VanDuyne),nan,203118,Mike Scott,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+58750,21500470,4,8:12,nan,SUB: Teague FOR Mack,nan,202714,Shelvin Mack,ATL,201952,Jeff Teague,ATL,0,nan,nan,Substitution ,nan
+58751,21500470,4,8:12,MISS Howard Free Throw 1 of 1,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+58752,21500470,4,8:12,nan,Bazemore REBOUND (Off:0 Def:3),nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58753,21500470,4,7:57,nan,MISS Horford 1' Driving Layup,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58754,21500470,4,7:56,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58755,21500470,4,7:56,nan,SUB: Millsap FOR Scott,nan,203118,Mike Scott,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+58756,21500470,4,7:39,nan,MISS Teague 1' Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58757,21500470,4,7:38,nan,Millsap REBOUND (Off:6 Def:4),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58758,21500470,4,7:36,nan,MISS Millsap 2' Layup,nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58759,21500470,4,7:35,nan,Millsap REBOUND (Off:7 Def:4),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58760,21500470,4,7:33,Capela STEAL (2 STL),Millsap Lost Ball Turnover (P3.T12),nan,200794,Paul Millsap,ATL,203991,Clint Capela,HOU,0,nan,nan,Turnover ,Lost Ball
+58761,21500470,4,7:28,MISS Harden 1' Running Layup,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58762,21500470,4,7:27,nan,Horford REBOUND (Off:2 Def:7),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58763,21500470,4,7:20,nan,Teague  3PT Jump Shot (15 PTS) (Horford 2 AST),97 - 103,201952,Jeff Teague,ATL,201143,Al Horford,ATL,0,nan,nan,Made Shot ,nan
+58764,21500470,4,7:09,MISS Ariza 24' 3PT Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58765,21500470,4,7:07,nan,Millsap REBOUND (Off:7 Def:5),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58766,21500470,4,6:58,nan,Bazemore 4' Driving Floating Bank Jump Shot (20 PTS) (Millsap 4 AST),99 - 103,203145,Kent Bazemore,ATL,200794,Paul Millsap,ATL,0,nan,nan,Made Shot ,nan
+58767,21500470,4,6:34,Howard OFF.Foul (P2) (J.VanDuyne),nan,nan,2730,Dwight Howard,HOU,200794,Paul Millsap,ATL,0,nan,nan,Foul ,Offensive
+58768,21500470,4,6:34,Howard Foul Turnover (P3.T19),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+58769,21500470,4,6:34,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+58770,21500470,4,6:34,SUB: Motiejunas FOR Howard,nan,nan,2730,Dwight Howard,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+58771,21500470,4,6:18,Ariza Shooting Block Foul (P2.T2) (J.VanDuyne),nan,nan,2772,Trevor Ariza,HOU,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting Block
+58772,21500470,4,6:18,nan,Bazemore Free Throw 1 of 2 (21 PTS),100 - 103,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58773,21500470,4,6:18,nan,MISS Bazemore Free Throw 2 of 2,nan,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58774,21500470,4,6:18,Capela REBOUND (Off:2 Def:7),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58775,21500470,4,5:55,MISS Harden  3PT Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58776,21500470,4,5:54,nan,Teague REBOUND (Off:0 Def:1),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58777,21500470,4,5:50,nan,Teague 11' Driving Floating Jump Shot (17 PTS),102 - 103,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+58778,21500470,4,5:25,MISS Ariza 9' Driving Floating Jump Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58779,21500470,4,5:24,nan,Horford REBOUND (Off:2 Def:8),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58780,21500470,4,5:15,Capela Violation:Kicked Ball (M.Lindsay),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+58781,21500470,4,5:15,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+58782,21500470,4,5:15,SUB: Howard FOR Capela,nan,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+58783,21500470,4,5:15,SUB: Lawson FOR Beverley,nan,nan,201976,Patrick Beverley,HOU,201951,Ty Lawson,HOU,0,nan,nan,Substitution ,nan
+58784,21500470,4,5:15,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+58785,21500470,4,5:09,nan,Millsap 2' Driving Layup (22 PTS),104 - 103,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+58786,21500470,4,4:55,nan,Korver S.FOUL (P4.T4) (J.VanDuyne),nan,2594,Kyle Korver,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+58787,21500470,4,4:55,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58788,21500470,4,4:55,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58789,21500470,4,4:55,Howard Free Throw 2 of 2 (24 PTS),nan,104 - 104,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58790,21500470,4,4:43,nan,Teague 1' Driving Layup (19 PTS),106 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+58791,21500470,4,4:43,Harden S.FOUL (P2.T3) (J.VanDuyne),nan,nan,201935,James Harden,HOU,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Shooting
+58792,21500470,4,4:43,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+58793,21500470,4,4:43,SUB: Capela FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+58794,21500470,4,4:43,nan,Teague Free Throw 1 of 1 (20 PTS),107 - 104,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+58795,21500470,4,4:36,nan,Bazemore P.FOUL (P4.PN) (J.Goble),nan,203145,Kent Bazemore,ATL,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+58796,21500470,4,4:36,Harden Free Throw 1 of 2 (24 PTS),nan,107 - 105,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58797,21500470,4,4:36,nan,SUB: Korver FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,2594,Kyle Korver,ATL,0,nan,nan,Substitution ,nan
+58798,21500470,4,4:36,Harden Free Throw 2 of 2 (25 PTS),nan,107 - 106,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58799,21500470,4,4:17,nan,MISS Teague 8' Floating Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58800,21500470,4,4:16,Howard REBOUND (Off:1 Def:13),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58801,21500470,4,4:08,MISS Lawson 19' Pullup Jump Shot,nan,nan,201951,Ty Lawson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58802,21500470,4,4:07,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58803,21500470,4,3:57,nan,Hawks T.Foul (Def. 3 Sec Horford ) (J.Goble),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+58804,21500470,4,3:57,Harden Free Throw Technical (26 PTS),nan,107 - 107,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+58805,21500470,4,3:57,nan,Horford Personal Take Foul (P1.PN) (J.VanDuyne),nan,201143,Al Horford,ATL,203991,Clint Capela,HOU,0,nan,nan,Foul ,Personal Take
+58806,21500470,4,3:57,MISS Capela Free Throw 1 of 2,nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58807,21500470,4,3:57,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58808,21500470,4,3:57,Capela Free Throw 2 of 2 (16 PTS),nan,107 - 108,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58809,21500470,4,3:34,nan,MISS Korver 13' Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58810,21500470,4,3:32,nan,Millsap REBOUND (Off:8 Def:5),nan,200794,Paul Millsap,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58811,21500470,4,3:31,nan,Hawks Timeout: Regular (Reg.4 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58812,21500470,4,3:21,nan,MISS Teague 2' Driving Reverse Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58813,21500470,4,3:20,nan,Horford REBOUND (Off:3 Def:8),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58814,21500470,4,3:20,nan,Horford 1' Tip Layup Shot (25 PTS),109 - 108,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Made Shot ,nan
+58815,21500470,4,3:17,nan,Horford Personal Take Foul (P2.PN) (M.Lindsay),nan,201143,Al Horford,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal Take
+58816,21500470,4,3:17,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58817,21500470,4,3:17,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58818,21500470,4,3:17,Howard Free Throw 2 of 2 (25 PTS),nan,109 - 109,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58819,21500470,4,3:01,Capela S.FOUL (P4.T4) (J.VanDuyne),nan,nan,203991,Clint Capela,HOU,203145,Kent Bazemore,ATL,0,nan,nan,Foul ,Shooting
+58820,21500470,4,3:01,nan,Bazemore Free Throw 1 of 2 (22 PTS),110 - 109,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58821,21500470,4,3:01,nan,Bazemore Free Throw 2 of 2 (23 PTS),111 - 109,203145,Kent Bazemore,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58822,21500470,4,3:00,nan,Horford Personal Take Foul (P3.PN) (J.Goble),nan,201143,Al Horford,ATL,203991,Clint Capela,HOU,0,nan,nan,Foul ,Personal Take
+58823,21500470,4,3:00,MISS Capela Free Throw 1 of 2,nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58824,21500470,4,3:00,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58825,21500470,4,3:00,Capela Free Throw 2 of 2 (17 PTS),nan,111 - 110,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58826,21500470,4,2:36,nan,MISS Teague 5' Jump Shot,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58827,21500470,4,2:34,nan,Korver REBOUND (Off:1 Def:2),nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58828,21500470,4,2:24,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58829,21500470,4,2:22,nan,Horford REBOUND (Off:4 Def:8),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58830,21500470,4,2:21,Harden P.FOUL (P3.PN) (J.Goble),nan,nan,201935,James Harden,HOU,201143,Al Horford,ATL,0,nan,nan,Foul ,Personal
+58831,21500470,4,2:21,nan,MISS Horford Free Throw 1 of 2,nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58832,21500470,4,2:21,nan,Hawks Rebound,nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58833,21500470,4,2:21,SUB: Motiejunas FOR Capela,nan,nan,203991,Clint Capela,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+58834,21500470,4,2:21,nan,SUB: Sefolosha FOR Millsap,nan,200794,Paul Millsap,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+58835,21500470,4,2:21,nan,Horford Free Throw 2 of 2 (26 PTS),112 - 110,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58836,21500470,4,2:19,nan,Sefolosha Personal Take Foul (P1.PN) (J.VanDuyne),nan,200757,Thabo Sefolosha,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal Take
+58837,21500470,4,2:19,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58838,21500470,4,2:19,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+58839,21500470,4,2:19,nan,SUB: Millsap FOR Sefolosha,nan,200757,Thabo Sefolosha,ATL,200794,Paul Millsap,ATL,0,nan,nan,Substitution ,nan
+58840,21500470,4,2:19,Howard Free Throw 2 of 2 (26 PTS),nan,112 - 111,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58841,21500470,4,2:09,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58842,21500470,4,2:08,Motiejunas REBOUND (Off:2 Def:5),nan,nan,202700,Donatas Motiejunas,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58843,21500470,4,2:04,nan,Teague Personal Take Foul (P2.PN) (M.Lindsay),nan,201952,Jeff Teague,ATL,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal Take
+58844,21500470,4,2:04,Howard Free Throw 1 of 2 (27 PTS),nan,112 - 112,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58845,21500470,4,2:04,SUB: Capela FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+58846,21500470,4,2:04,Howard Free Throw 2 of 2 (28 PTS),nan,112 - 113,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58847,21500470,4,1:51,nan,MISS Teague 2' Driving Layup,nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58848,21500470,4,1:50,Howard REBOUND (Off:1 Def:14),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58849,21500470,4,1:44,MISS Harden 2' Layup,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58850,21500470,4,1:43,nan,Horford REBOUND (Off:4 Def:9),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58851,21500470,4,1:38,nan,MISS Korver 25' 3PT Jump Shot,nan,2594,Kyle Korver,ATL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58852,21500470,4,1:37,Capela REBOUND (Off:2 Def:8),nan,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58853,21500470,4,1:32,Howard  Dunk (30 PTS) (Harden 8 AST),nan,112 - 115,2730,Dwight Howard,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+58854,21500470,4,1:13,nan,Bazemore 24' 3PT Step Back Jump Shot (26 PTS) (Korver 4 AST),115 - 115,203145,Kent Bazemore,ATL,2594,Kyle Korver,ATL,0,nan,nan,Made Shot ,nan
+58855,21500470,4,0:49,ROCKETS Turnover: Shot Clock (T#20),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+58856,21500470,4,0:49,nan,Hawks Timeout: Regular (Reg.5 Short 1),nan,1610612737,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58857,21500470,4,0:49,SUB: Brewer FOR Lawson,nan,nan,201951,Ty Lawson,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+58858,21500470,4,0:33,nan,Horford 5' Jump Bank Shot (28 PTS) (Bazemore 4 AST),117 - 115,201143,Al Horford,ATL,203145,Kent Bazemore,ATL,0,nan,nan,Made Shot ,nan
+58859,21500470,4,0:13,MISS Ariza 2' Layup,Millsap BLOCK (4 BLK),nan,2772,Trevor Ariza,HOU,0,nan,nan,200794,Paul Millsap,ATL,Missed Shot ,nan
+58860,21500470,4,0:12,Howard REBOUND (Off:2 Def:14),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58861,21500470,4,0:11,MISS Howard 1' Layup,Millsap BLOCK (5 BLK),nan,2730,Dwight Howard,HOU,0,nan,nan,200794,Paul Millsap,ATL,Missed Shot ,nan
+58862,21500470,4,0:11,nan,Teague REBOUND (Off:0 Def:2),nan,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58863,21500470,4,0:11,Brewer P.FOUL (P4.PN) (J.Goble),nan,nan,201147,Corey Brewer,HOU,201952,Jeff Teague,ATL,0,nan,nan,Foul ,Personal
+58864,21500470,4,0:11,nan,Teague Free Throw 1 of 2 (21 PTS),118 - 115,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58865,21500470,4,0:11,nan,SUB: Sefolosha FOR Korver,nan,2594,Kyle Korver,ATL,200757,Thabo Sefolosha,ATL,0,nan,nan,Substitution ,nan
+58866,21500470,4,0:11,nan,Teague Free Throw 2 of 2 (22 PTS),119 - 115,201952,Jeff Teague,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58867,21500470,4,0:11,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+58868,21500470,4,0:11,SUB: Terry FOR Capela,nan,nan,203991,Clint Capela,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+58869,21500470,4,0:06,MISS Harden 2' Layup,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58870,21500470,4,0:05,nan,Horford REBOUND (Off:4 Def:10),nan,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58871,21500470,4,0:05,Howard Personal Take Foul (P3.PN) (J.VanDuyne),nan,nan,2730,Dwight Howard,HOU,201143,Al Horford,ATL,0,nan,nan,Foul ,Personal Take
+58872,21500470,4,0:05,nan,Horford Free Throw 1 of 2 (29 PTS),120 - 115,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+58873,21500470,4,0:05,nan,Horford Free Throw 2 of 2 (30 PTS),121 - 115,201143,Al Horford,ATL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+58874,21500470,4,0:05,ROCKETS Timeout: Short (Full 5 Short 1),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+58875,21500470,4,0:01,MISS Harden 16' Turnaround Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+58876,21500470,4,0:00,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+58877,21500470,4,0:00,nan,nan,121 - 115,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

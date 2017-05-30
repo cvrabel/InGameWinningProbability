@@ -1,0 +1,98 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+143927,21501155,4,12:00,nan,nan,63 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+143928,21501155,4,11:48,MISS Winslow 9' Hook Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143929,21501155,4,11:47,nan,Blake REBOUND (Off:0 Def:1),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143930,21501155,4,11:38,nan,MISS Hilliard 25' 3PT Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143931,21501155,4,11:37,nan,Baynes REBOUND (Off:3 Def:2),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143932,21501155,4,11:25,nan,MISS Baynes 10' Turnaround Jump Shot,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143933,21501155,4,11:24,nan,Marc Morris REBOUND (Off:1 Def:3),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143934,21501155,4,11:23,nan,MISS Marc Morris 2' Layup,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143935,21501155,4,11:22,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143936,21501155,4,10:57,MISS Winslow  3PT Jump Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143937,21501155,4,10:56,nan,Hilliard REBOUND (Off:0 Def:2),nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143938,21501155,4,10:52,Winslow S.FOUL (P2.T1) (D.Taylor),nan,nan,1626159,Justise Winslow,MIA,202694,Marcus Morris,DET,0,nan,nan,Foul ,Shooting
+143939,21501155,4,10:52,nan,MISS Marc Morris Free Throw 1 of 2,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+143940,21501155,4,10:52,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+143941,21501155,4,10:52,nan,Marc Morris Free Throw 2 of 2 (1 PTS),64 - 82,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+143942,21501155,4,10:38,Deng 20' Jump Shot (12 PTS) (Dragic 6 AST),nan,64 - 84,2736,Luol Deng,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+143943,21501155,4,10:24,HEAT T.Foul (Def. 3 Sec Whiteside ) (E.Malloy),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Foul ,Defense 3 Second
+143944,21501155,4,10:24,nan,Blake Free Throw Technical (4 PTS),65 - 84,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+143945,21501155,4,10:18,nan,Marc Morris OFF.Foul (P2) (D.Collins),nan,202694,Marcus Morris,DET,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Offensive
+143946,21501155,4,10:18,nan,Marc Morris Foul Turnover (P5.T10),nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+143947,21501155,4,10:00,MISS Richardson 24' 3PT Jump Shot,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143948,21501155,4,9:59,nan,Hilliard REBOUND (Off:0 Def:3),nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143949,21501155,4,9:47,nan,Blake 25' 3PT Jump Shot (7 PTS),68 - 84,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+143950,21501155,4,9:34,Dragic 1' Driving Layup (13 PTS),nan,68 - 86,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+143951,21501155,4,9:11,nan,Baynes 12' Jump Shot (6 PTS) (Hilliard 1 AST),70 - 86,203382,Aron Baynes,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Made Shot ,nan
+143952,21501155,4,8:51,Dragic 24' 3PT Jump Shot (16 PTS) (Deng 3 AST),nan,70 - 89,201609,Goran Dragic,MIA,2736,Luol Deng,MIA,0,nan,nan,Made Shot ,nan
+143953,21501155,4,8:34,Whiteside STEAL (1 STL),Marc Morris Bad Pass Turnover (P6.T11),nan,202694,Marcus Morris,DET,202355,Hassan Whiteside,MIA,0,nan,nan,Turnover ,Bad Pass
+143954,21501155,4,8:22,nan,Blake P.FOUL (P2.T1) (E.Malloy),nan,2581,Steve Blake,DET,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Personal
+143955,21501155,4,8:22,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+143956,21501155,4,8:20,nan,SUB: Johnson FOR Marc Morris,nan,202694,Marcus Morris,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+143957,21501155,4,8:08,Dragic 25' 3PT Jump Shot (19 PTS) (Deng 4 AST),nan,70 - 92,201609,Goran Dragic,MIA,2736,Luol Deng,MIA,0,nan,nan,Made Shot ,nan
+143958,21501155,4,7:50,nan,MISS Baynes 6' Jump Bank Shot,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143959,21501155,4,7:49,Whiteside REBOUND (Off:3 Def:8),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143960,21501155,4,7:38,MISS Deng 18' Step Back Jump Shot,nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143961,21501155,4,7:37,nan,Blake REBOUND (Off:0 Def:2),nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143962,21501155,4,7:26,nan,Tolliver 7' Floating Jump Shot (2 PTS) (Blake 1 AST),72 - 92,201229,Anthony Tolliver,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+143963,21501155,4,7:09,Whiteside  Dunk (10 PTS) (Dragic 7 AST),nan,72 - 94,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+143964,21501155,4,7:06,nan,Pistons Timeout: Regular (Reg.4 Short 0),nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+143965,21501155,4,6:56,nan,Johnson 19' Pullup Jump Shot (2 PTS) (Blake 2 AST),74 - 94,1626169,Stanley Johnson,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+143966,21501155,4,6:41,Dragic 25' 3PT Jump Shot (22 PTS),nan,74 - 97,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+143967,21501155,4,6:16,Dragic S.FOUL (P4.T2) (E.Malloy),nan,nan,201609,Goran Dragic,MIA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+143968,21501155,4,6:16,nan,Baynes Free Throw 1 of 2 (7 PTS),75 - 97,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+143969,21501155,4,6:16,nan,Baynes Free Throw 2 of 2 (8 PTS),76 - 97,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+143970,21501155,4,6:05,Dragic Bad Pass Turnover (P3.T7),Baynes STEAL (1 STL),nan,201609,Goran Dragic,MIA,203382,Aron Baynes,DET,0,nan,nan,Turnover ,Bad Pass
+143971,21501155,4,5:59,nan,Hilliard 25' 3PT Jump Shot (3 PTS) (Johnson 1 AST),79 - 97,1626199,Darrun Hilliard,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+143972,21501155,4,5:58,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+143973,21501155,4,5:58,nan,nan,nan,1787,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+143974,21501155,4,5:58,nan,Blake Free Throw Technical (8 PTS),80 - 97,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+143975,21501155,4,5:33,Winslow 24' 3PT Jump Shot (9 PTS) (Deng 5 AST),nan,80 - 100,1626159,Justise Winslow,MIA,2736,Luol Deng,MIA,0,nan,nan,Made Shot ,nan
+143976,21501155,4,5:15,nan,MISS Johnson 1' Driving Layup,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143977,21501155,4,5:14,nan,Johnson REBOUND (Off:1 Def:2),nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143978,21501155,4,5:13,nan,MISS Johnson 1' Tip Layup Shot,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143979,21501155,4,5:12,Dragic REBOUND (Off:0 Def:5),nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143980,21501155,4,5:00,MISS Deng 1' Driving Reverse Layup,nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143981,21501155,4,4:59,nan,Baynes REBOUND (Off:3 Def:3),nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143982,21501155,4,4:50,nan,Hilliard 24' 3PT Jump Shot (6 PTS) (Tolliver 1 AST),83 - 100,1626199,Darrun Hilliard,DET,201229,Anthony Tolliver,DET,0,nan,nan,Made Shot ,nan
+143983,21501155,4,4:30,MISS Dragic 2' Driving Finger Roll Layup,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143984,21501155,4,4:29,Whiteside REBOUND (Off:4 Def:8),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143985,21501155,4,4:26,Whiteside 1' Layup (12 PTS),nan,83 - 102,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+143986,21501155,4,4:11,nan,Baynes 5' Turnaround Hook Shot (10 PTS) (Blake 3 AST),85 - 102,203382,Aron Baynes,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+143987,21501155,4,3:55,nan,Johnson P.FOUL (P1.T2) (E.Malloy),nan,1626169,Stanley Johnson,DET,202355,Hassan Whiteside,MIA,0,nan,nan,Foul ,Personal
+143988,21501155,4,3:55,nan,SUB: Dinwiddie FOR Johnson,nan,1626169,Stanley Johnson,DET,203915,Spencer Dinwiddie,DET,0,nan,nan,Substitution ,nan
+143989,21501155,4,3:55,nan,SUB: Anthony FOR Blake,nan,2581,Steve Blake,DET,201202,Joel Anthony,DET,0,nan,nan,Substitution ,nan
+143990,21501155,4,3:55,nan,SUB: Bullock FOR Baynes,nan,203382,Aron Baynes,DET,203493,Reggie Bullock,DET,0,nan,nan,Substitution ,nan
+143991,21501155,4,3:55,SUB: Green FOR Deng,nan,nan,2736,Luol Deng,MIA,101123,Gerald Green,MIA,0,nan,nan,Substitution ,nan
+143992,21501155,4,3:41,Dragic Bad Pass Turnover (P4.T8),Tolliver STEAL (1 STL),nan,201609,Goran Dragic,MIA,201229,Anthony Tolliver,DET,0,nan,nan,Turnover ,Bad Pass
+143993,21501155,4,3:33,nan,Hilliard 18' Step Back Jump Shot (8 PTS),87 - 102,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+143994,21501155,4,3:14,MISS Richardson 3' Driving Layup,nan,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143995,21501155,4,3:13,nan,Anthony REBOUND (Off:0 Def:1),nan,201202,Joel Anthony,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143996,21501155,4,3:06,nan,MISS Dinwiddie 10' Floating Jump Shot,nan,203915,Spencer Dinwiddie,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+143997,21501155,4,3:05,nan,Dinwiddie REBOUND (Off:1 Def:0),nan,203915,Spencer Dinwiddie,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+143998,21501155,4,3:04,Whiteside BLOCK (4 BLK),MISS Dinwiddie 5' Jump Shot,nan,203915,Spencer Dinwiddie,DET,0,nan,nan,202355,Hassan Whiteside,MIA,Missed Shot ,nan
+143999,21501155,4,3:03,nan,Pistons Rebound,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144000,21501155,4,2:50,nan,Bullock 2' Driving Reverse Layup (2 PTS) (Dinwiddie 1 AST),89 - 102,203493,Reggie Bullock,DET,203915,Spencer Dinwiddie,DET,0,nan,nan,Made Shot ,nan
+144001,21501155,4,2:25,Whiteside  Dunk (14 PTS) (Dragic 8 AST),nan,89 - 104,202355,Hassan Whiteside,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+144002,21501155,4,2:11,Green STEAL (1 STL),Dinwiddie Bad Pass Turnover (P1.T12),nan,203915,Spencer Dinwiddie,DET,101123,Gerald Green,MIA,0,nan,nan,Turnover ,Bad Pass
+144003,21501155,4,2:08,nan,Dinwiddie S.FOUL (P1.T3) (E.Malloy),nan,203915,Spencer Dinwiddie,DET,101123,Gerald Green,MIA,0,nan,nan,Foul ,Shooting
+144004,21501155,4,2:08,MISS Green Free Throw 1 of 2,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+144005,21501155,4,2:08,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144006,21501155,4,2:08,SUB: Haslem FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,2617,Udonis Haslem,MIA,0,nan,nan,Substitution ,nan
+144007,21501155,4,2:08,SUB: McRoberts FOR Dragic,nan,nan,201609,Goran Dragic,MIA,201177,Josh McRoberts,MIA,0,nan,nan,Substitution ,nan
+144008,21501155,4,2:08,Green Free Throw 2 of 2 (1 PTS),nan,89 - 105,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+144009,21501155,4,2:01,Green P.FOUL (P1.T3) (D.Collins),nan,nan,101123,Gerald Green,MIA,201229,Anthony Tolliver,DET,0,nan,nan,Foul ,Personal
+144010,21501155,4,1:54,nan,MISS Hilliard 24' 3PT Jump Shot,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144011,21501155,4,1:52,Haslem REBOUND (Off:0 Def:2),nan,nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144012,21501155,4,1:32,MISS Haslem 16' Jump Shot,nan,nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144013,21501155,4,1:31,HEAT Rebound,nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144014,21501155,4,1:31,HEAT Turnover: Shot Clock (T#9),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+144015,21501155,4,1:19,nan,MISS Hilliard 2' Driving Layup,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144016,21501155,4,1:18,Haslem REBOUND (Off:0 Def:3),nan,nan,2617,Udonis Haslem,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144017,21501155,4,0:56,McRoberts Bad Pass Turnover (P1.T10),Dinwiddie STEAL (1 STL),nan,201177,Josh McRoberts,MIA,203915,Spencer Dinwiddie,DET,0,nan,nan,Turnover ,Bad Pass
+144018,21501155,4,0:55,Richardson P.FOUL (P1.T4) (D.Taylor),nan,nan,1626196,Josh Richardson,MIA,203915,Spencer Dinwiddie,DET,0,nan,nan,Foul ,Personal
+144019,21501155,4,0:39,nan,MISS Tolliver 24' 3PT Jump Shot,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+144020,21501155,4,0:38,Winslow REBOUND (Off:1 Def:4),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+144021,21501155,4,0:21,Richardson 17' Pullup Jump Shot (16 PTS),nan,89 - 107,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+144022,21501155,4,0:12,nan,Dinwiddie Out of Bounds Lost Ball Turnover (P2.T13),nan,203915,Spencer Dinwiddie,DET,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+144023,21501155,4,0:00,nan,nan,89 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

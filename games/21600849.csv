@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+257936,21600849,4,12:00,nan,nan,78 - 81,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+257937,21600849,4,11:41,nan,MISS Green 25' 3PT Pullup Jump Shot,nan,101123,Gerald Green,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257938,21600849,4,11:39,Portis REBOUND (Off:1 Def:4),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257939,21600849,4,11:26,MISS Grant  3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257940,21600849,4,11:25,nan,Olynyk REBOUND (Off:0 Def:5),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257941,21600849,4,11:07,Rondo S.FOUL (P2.T1) (Z.Zarba),nan,nan,200765,Rajon Rondo,CHI,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Shooting
+257942,21600849,4,11:07,nan,Smart Free Throw 1 of 2 (4 PTS),79 - 81,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257943,21600849,4,11:07,nan,Smart Free Throw 2 of 2 (5 PTS),80 - 81,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257944,21600849,4,10:53,MISS McDermott 18' Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257945,21600849,4,10:52,nan,Olynyk REBOUND (Off:0 Def:6),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257946,21600849,4,10:42,nan,MISS Jerebko 24' 3PT Jump Shot,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257947,21600849,4,10:39,Portis REBOUND (Off:1 Def:5),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257948,21600849,4,10:31,nan,Rozier P.FOUL (P2.T1) (Z.Zarba),nan,1626179,Terry Rozier,BOS,200765,Rajon Rondo,CHI,0,nan,nan,Foul ,Personal
+257949,21600849,4,10:18,McDermott 8' Floating Jump Shot (9 PTS) (Rondo 8 AST),nan,80 - 83,203926,Doug McDermott,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+257950,21600849,4,10:03,Felicio S.FOUL (P3.T2) (J.Williams),nan,nan,1626245,Cristiano Felicio,CHI,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+257951,21600849,4,10:03,nan,Olynyk Free Throw 1 of 2 (9 PTS),81 - 83,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257952,21600849,4,10:03,nan,MISS Olynyk Free Throw 2 of 2,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257953,21600849,4,10:01,Rondo REBOUND (Off:1 Def:6),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257954,21600849,4,9:47,nan,Jerebko S.FOUL (P1.T2) (J.Orr),nan,201973,Jonas Jerebko,BOS,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+257955,21600849,4,9:47,Felicio Free Throw 1 of 2 (1 PTS),nan,81 - 84,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+257956,21600849,4,9:47,Felicio Free Throw 2 of 2 (2 PTS),nan,81 - 85,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+257957,21600849,4,9:29,nan,MISS Rozier 26' 3PT Jump Shot,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257958,21600849,4,9:28,McDermott REBOUND (Off:0 Def:1),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257959,21600849,4,9:04,MISS Rondo 16' Fadeaway Jumper,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257960,21600849,4,9:02,nan,Jerebko REBOUND (Off:0 Def:3),nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257961,21600849,4,8:47,nan,Olynyk 2' Layup (11 PTS) (Rozier 3 AST),83 - 85,203482,Kelly Olynyk,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+257962,21600849,4,8:47,Rondo S.FOUL (P3.T3) (J.Orr),nan,nan,200765,Rajon Rondo,CHI,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Shooting
+257963,21600849,4,8:47,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+257964,21600849,4,8:47,nan,SUB: Thomas FOR Smart,nan,203935,Marcus Smart,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+257965,21600849,4,8:47,SUB: Butler FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+257966,21600849,4,8:47,nan,SUB: Crowder FOR Green,nan,101123,Gerald Green,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+257967,21600849,4,8:47,nan,Olynyk Free Throw 1 of 1 (12 PTS),84 - 85,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+257968,21600849,4,8:28,Butler 25' 3PT Jump Shot (23 PTS),nan,84 - 88,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+257969,21600849,4,8:00,nan,Olynyk 20' Fadeaway Jumper (14 PTS) (Thomas 6 AST),86 - 88,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+257970,21600849,4,7:46,nan,Thomas P.FOUL (P1.T3) (Z.Zarba),nan,202738,Isaiah Thomas,BOS,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Personal
+257971,21600849,4,7:34,MISS Butler 15' Fadeaway Jumper,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257972,21600849,4,7:33,Felicio REBOUND (Off:2 Def:3),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257973,21600849,4,7:13,MISS Felicio 21' Jump Shot,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257974,21600849,4,7:13,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257975,21600849,4,7:09,Portis 2' Cutting Finger Roll Layup Shot (19 PTS) (Grant 1 AST),nan,86 - 90,1626171,Bobby Portis,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Made Shot ,nan
+257976,21600849,4,6:53,nan,Olynyk 25' 3PT Jump Shot (17 PTS) (Thomas 7 AST),89 - 90,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+257977,21600849,4,6:33,Felicio 2' Layup (4 PTS) (Butler 7 AST),nan,89 - 92,1626245,Cristiano Felicio,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+257978,21600849,4,6:15,nan,Rozier 26' 3PT Jump Shot (11 PTS) (Olynyk 3 AST),92 - 92,1626179,Terry Rozier,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+257979,21600849,4,5:50,MISS Portis 24' 3PT Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257980,21600849,4,5:49,nan,Thomas REBOUND (Off:0 Def:2),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257981,21600849,4,5:45,nan,Thomas 2' Running Layup (20 PTS),94 - 92,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+257982,21600849,4,5:44,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+257983,21600849,4,5:44,nan,SUB: Horford FOR Jerebko,nan,201973,Jonas Jerebko,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+257984,21600849,4,5:44,SUB: Gibson FOR Felicio,nan,nan,1626245,Cristiano Felicio,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+257985,21600849,4,5:24,MISS Grant 19' Fadeaway Jumper,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257986,21600849,4,5:23,nan,Rozier REBOUND (Off:0 Def:3),nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257987,21600849,4,5:12,nan,MISS Thomas 26' 3PT Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257988,21600849,4,5:11,McDermott REBOUND (Off:0 Def:2),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257989,21600849,4,4:58,Butler 12' Fadeaway Jumper (25 PTS),nan,94 - 94,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+257990,21600849,4,4:43,Portis BLOCK (1 BLK),MISS Thomas 2' Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,1626171,Bobby Portis,CHI,Missed Shot ,nan
+257991,21600849,4,4:41,Butler REBOUND (Off:1 Def:2),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257992,21600849,4,4:29,MISS Portis 20' Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257993,21600849,4,4:28,nan,Thomas REBOUND (Off:0 Def:3),nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257994,21600849,4,4:22,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257995,21600849,4,4:21,Gibson REBOUND (Off:2 Def:5),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257996,21600849,4,3:57,MISS Grant 13' Fadeaway Jumper,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+257997,21600849,4,3:56,nan,Olynyk REBOUND (Off:0 Def:7),nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+257998,21600849,4,3:42,nan,Thomas 27' 3PT Jump Shot (23 PTS) (Olynyk 4 AST),97 - 94,202738,Isaiah Thomas,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Made Shot ,nan
+257999,21600849,4,3:25,nan,Horford S.FOUL (P1.T4) (J.Orr),nan,201143,Al Horford,BOS,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+258000,21600849,4,3:25,Butler Free Throw 1 of 2 (26 PTS),nan,97 - 95,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258001,21600849,4,3:25,nan,SUB: Smart FOR Rozier,nan,1626179,Terry Rozier,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+258002,21600849,4,3:25,Butler Free Throw 2 of 2 (27 PTS),nan,97 - 96,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258003,21600849,4,3:07,nan,MISS Thomas 25' 3PT Step Back Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258004,21600849,4,3:06,Portis REBOUND (Off:1 Def:6),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258005,21600849,4,2:54,nan,Olynyk P.FOUL (P2.PN) (Z.Zarba),nan,203482,Kelly Olynyk,BOS,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Personal
+258006,21600849,4,2:54,nan,Celtics Timeout: Regular (Reg.4 Short 1),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+258007,21600849,4,2:54,Gibson Free Throw 1 of 2 (11 PTS),nan,97 - 97,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258008,21600849,4,2:54,Gibson Free Throw 2 of 2 (12 PTS),nan,97 - 98,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258009,21600849,4,2:36,nan,Thomas 2' Layup (25 PTS),99 - 98,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+258010,21600849,4,2:11,MISS Grant 26' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258011,21600849,4,2:09,nan,Smart REBOUND (Off:1 Def:3),nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258012,21600849,4,1:57,nan,MISS Olynyk 25' 3PT Jump Shot,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258013,21600849,4,1:56,nan,Crowder REBOUND (Off:2 Def:1),nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258014,21600849,4,1:56,Butler S.FOUL (P2.T4) (J.Williams),nan,nan,202710,Jimmy Butler,CHI,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+258015,21600849,4,1:56,nan,nan,nan,483,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+258016,21600849,4,1:56,nan,Thomas Free Throw 1 of 2 (26 PTS),100 - 98,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258017,21600849,4,1:56,nan,Thomas Free Throw 2 of 2 (27 PTS),101 - 98,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258018,21600849,4,1:45,nan,Thomas P.FOUL (P2.PN) (J.Williams),nan,202738,Isaiah Thomas,BOS,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Personal
+258019,21600849,4,1:45,Grant Free Throw 1 of 2 (9 PTS),nan,101 - 99,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258020,21600849,4,1:45,Grant Free Throw 2 of 2 (10 PTS),nan,101 - 100,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258021,21600849,4,1:30,Gibson S.FOUL (P1.PN) (J.Williams),nan,nan,201959,Taj Gibson,CHI,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+258022,21600849,4,1:30,nan,Thomas Free Throw 1 of 2 (28 PTS),102 - 100,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258023,21600849,4,1:30,nan,Thomas Free Throw 2 of 2 (29 PTS),103 - 100,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258024,21600849,4,1:20,nan,Thomas P.FOUL (P3.PN) (J.Orr),nan,202738,Isaiah Thomas,BOS,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Personal
+258025,21600849,4,1:20,McDermott Free Throw 1 of 2 (10 PTS),nan,103 - 101,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258026,21600849,4,1:20,McDermott Free Throw 2 of 2 (11 PTS),nan,103 - 102,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258027,21600849,4,1:10,Butler BLOCK (1 BLK),MISS Thomas 2' Reverse Layup,nan,202738,Isaiah Thomas,BOS,0,nan,nan,202710,Jimmy Butler,CHI,Missed Shot ,nan
+258028,21600849,4,1:08,Portis REBOUND (Off:1 Def:7),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258029,21600849,4,0:52,MISS Butler 26' 3PT Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258030,21600849,4,0:51,Gibson REBOUND (Off:3 Def:5),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258031,21600849,4,0:50,BULLS Timeout: Short (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+258032,21600849,4,0:44,MISS Grant 26' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258033,21600849,4,0:43,Butler REBOUND (Off:2 Def:2),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258034,21600849,4,0:30,Butler Lost Ball Turnover (P1.T8),Smart STEAL (1 STL),nan,202710,Jimmy Butler,CHI,203935,Marcus Smart,BOS,0,nan,nan,Turnover ,Lost Ball
+258035,21600849,4,0:28,nan,Celtics Timeout: Short (Reg.4 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+258036,21600849,4,0:28,SUB: Carter-Williams FOR McDermott,nan,nan,203926,Doug McDermott,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+258037,21600849,4,0:08,nan,MISS Thomas 23' Jump Shot,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258038,21600849,4,0:08,Carter-Williams REBOUND (Off:1 Def:6),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258039,21600849,4,0:08,nan,nan,nan,529,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+258040,21600849,4,0:08,BULLS Timeout: Regular (Full 5 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+258041,21600849,4,0:08,nan,SUB: Johnson FOR Thomas,nan,202738,Isaiah Thomas,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+258042,21600849,4,0:08,nan,SUB: Young FOR Olynyk,nan,203482,Kelly Olynyk,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+258043,21600849,4,0:08,SUB: McDermott FOR Carter-Williams,nan,nan,203487,Michael Carter-Williams,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+258044,21600849,4,0:00,nan,Smart S.FOUL (P4.PN) (Z.Zarba),nan,203935,Marcus Smart,BOS,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+258045,21600849,4,0:00,nan,nan,nan,534,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+258046,21600849,4,0:00,Butler Free Throw 1 of 2 (28 PTS),nan,103 - 103,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+258047,21600849,4,0:00,SUB: Lopez FOR Portis,nan,nan,1626171,Bobby Portis,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+258048,21600849,4,0:00,Butler Free Throw 2 of 2 (29 PTS),nan,103 - 104,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+258049,21600849,4,0:00,nan,Celtics Timeout: Regular (Reg.5 Short 2),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+258050,21600849,4,0:00,SUB: Carter-Williams FOR McDermott,nan,nan,203926,Doug McDermott,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+258051,21600849,4,0:00,nan,SUB: Thomas FOR Johnson,nan,101161,Amir Johnson,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+258052,21600849,4,0:00,nan,SUB: Olynyk FOR Young,nan,203923,James Young,BOS,203482,Kelly Olynyk,BOS,0,nan,nan,Substitution ,nan
+258053,21600849,4,0:00,nan,Celtics Timeout: Short (Reg.5 Short 3),nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+258054,21600849,4,0:00,SUB: Portis FOR Grant,nan,nan,1626170,Jerian Grant,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+258055,21600849,4,0:00,nan,MISS Horford 20' Fadeaway Jumper,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+258056,21600849,4,0:00,nan,Celtics Rebound,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+258057,21600849,4,0:00,nan,nan,103 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

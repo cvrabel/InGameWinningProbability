@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+155454,21600020,4,12:00,nan,nan,51 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+155455,21600020,4,11:47,MISS Johnson 6' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155456,21600020,4,11:47,nan,Hezonja REBOUND (Off:0 Def:1),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155457,21600020,4,11:40,nan,Wilcox 24' 3PT Jump Shot (3 PTS) (Hezonja 1 AST),54 - 86,203912,CJ Wilcox,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Made Shot ,nan
+155458,21600020,4,11:13,Udrih 15' Jump Shot (11 PTS),nan,54 - 88,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+155459,21600020,4,10:59,nan,Augustin 27' 3PT Jump Shot (3 PTS) (Wilcox 1 AST),57 - 88,201571,D.J. Augustin,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Made Shot ,nan
+155460,21600020,4,10:40,Baynes 6' Hook Shot (8 PTS) (Leuer 1 AST),nan,57 - 90,203382,Aron Baynes,DET,202720,Jon Leuer,DET,0,nan,nan,Made Shot ,nan
+155461,21600020,4,10:25,nan,Biyombo 9' Hook Shot (2 PTS) (Augustin 4 AST),59 - 90,202687,Bismack Biyombo,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Made Shot ,nan
+155462,21600020,4,10:11,MISS Marc Morris 16' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155463,21600020,4,10:10,Marc Morris REBOUND (Off:1 Def:5),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155464,21600020,4,10:06,Marc Morris 1' Layup (17 PTS),nan,59 - 92,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+155465,21600020,4,9:47,nan,Gordon 17' Jump Shot (11 PTS),61 - 92,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155466,21600020,4,9:33,nan,Gordon S.FOUL (P3.T1) (C.Blair),nan,203932,Aaron Gordon,ORL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Shooting
+155467,21600020,4,9:33,Baynes Free Throw 1 of 2 (9 PTS),nan,61 - 93,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+155468,21600020,4,9:33,MISS Baynes Free Throw 2 of 2,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+155469,21600020,4,9:32,nan,Gordon REBOUND (Off:1 Def:4),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155470,21600020,4,9:09,nan,MISS Augustin 20' Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155471,21600020,4,9:07,Marc Morris REBOUND (Off:1 Def:6),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155472,21600020,4,8:56,MISS Marc Morris 8' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155473,21600020,4,8:56,nan,Biyombo REBOUND (Off:1 Def:2),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155474,21600020,4,8:51,Udrih P.FOUL (P1.T1) (J.Williams),nan,nan,2757,Beno Udrih,DET,202687,Bismack Biyombo,ORL,0,nan,nan,Foul ,Personal
+155475,21600020,4,8:51,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+155476,21600020,4,8:33,nan,Gordon 8' Hook Shot (13 PTS),63 - 93,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155477,21600020,4,8:17,Johnson OFF.Foul (P2) (J.Williams),nan,nan,1626169,Stanley Johnson,DET,203912,CJ Wilcox,ORL,0,nan,nan,Foul ,Offensive
+155478,21600020,4,8:17,Johnson Foul Turnover (P2.T10),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+155479,21600020,4,8:01,Leuer S.FOUL (P1.T2) (B.Kennedy),nan,nan,202720,Jon Leuer,DET,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Shooting
+155480,21600020,4,8:01,nan,Gordon Free Throw 1 of 2 (14 PTS),64 - 93,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+155481,21600020,4,8:01,nan,SUB: Zimmerman FOR Biyombo,nan,202687,Bismack Biyombo,ORL,1627757,Stephen Zimmerman,ORL,0,nan,nan,Substitution ,nan
+155482,21600020,4,8:01,nan,SUB: Watson FOR Augustin,nan,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+155483,21600020,4,8:01,nan,Gordon Free Throw 2 of 2 (15 PTS),65 - 93,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+155484,21600020,4,7:44,MISS Udrih 12' Jump Shot,nan,nan,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155485,21600020,4,7:44,nan,Zimmerman REBOUND (Off:0 Def:1),nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155486,21600020,4,7:22,nan,MISS Gordon 27' 3PT Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155487,21600020,4,7:21,nan,Watson REBOUND (Off:1 Def:0),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155488,21600020,4,7:18,nan,MISS Watson 13' Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155489,21600020,4,7:18,nan,Gordon REBOUND (Off:2 Def:4),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155490,21600020,4,7:18,nan,Gordon  Putback Dunk (17 PTS),67 - 93,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155491,21600020,4,7:18,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+155492,21600020,4,7:02,Baynes 8' Hook Shot (11 PTS) (Leuer 2 AST),nan,67 - 95,203382,Aron Baynes,DET,202720,Jon Leuer,DET,0,nan,nan,Made Shot ,nan
+155493,21600020,4,6:37,nan,Hezonja 1' Driving Layup (5 PTS),69 - 95,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155494,21600020,4,6:20,MISS Leuer 6' Hook Shot,nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155495,21600020,4,6:20,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155496,21600020,4,6:20,nan,Wilcox L.B.FOUL (P1.T2) (J.Williams),nan,203912,CJ Wilcox,ORL,203382,Aron Baynes,DET,0,nan,nan,Foul ,Loose Ball
+155497,21600020,4,6:09,nan,Watson P.FOUL (P1.T3) (J.Williams),nan,201228,C.J. Watson,ORL,2757,Beno Udrih,DET,0,nan,nan,Foul ,Personal
+155498,21600020,4,5:54,Udrih 1' Driving Layup (13 PTS),nan,69 - 97,2757,Beno Udrih,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+155499,21600020,4,5:30,nan,MISS Hezonja 27' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155500,21600020,4,5:30,Marc Morris REBOUND (Off:1 Def:7),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155501,21600020,4,5:18,MISS Leuer 13' Jump Shot,nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155502,21600020,4,5:17,nan,Wilcox REBOUND (Off:0 Def:1),nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155503,21600020,4,5:09,nan,MISS Gordon 4' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155504,21600020,4,5:09,nan,Gordon REBOUND (Off:3 Def:4),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155505,21600020,4,5:08,nan,MISS Gordon 3' Tip Layup Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155506,21600020,4,5:04,Leuer REBOUND (Off:2 Def:7),nan,nan,202720,Jon Leuer,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155507,21600020,4,5:03,Marc Morris Out of Bounds Lost Ball Turnover (P2.T11),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+155508,21600020,4,4:57,nan,Magic Timeout: Regular (Reg.5 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+155509,21600020,4,4:57,SUB: Gbinije FOR Marc Morris,nan,nan,202694,Marcus Morris,DET,1627771,Michael Gbinije,DET,0,nan,nan,Substitution ,nan
+155510,21600020,4,4:57,nan,SUB: Green FOR Gordon,nan,203932,Aaron Gordon,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+155511,21600020,4,4:49,nan,MISS Wilcox 24' 3PT Jump Shot,nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155512,21600020,4,4:47,Baynes REBOUND (Off:1 Def:2),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155513,21600020,4,4:27,MISS Baynes 12' Jump Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155514,21600020,4,4:27,nan,Hezonja REBOUND (Off:0 Def:2),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155515,21600020,4,4:13,nan,MISS Zimmerman 12' Jump Shot,nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155516,21600020,4,4:13,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155517,21600020,4,3:53,Leuer 1' Layup (7 PTS) (Udrih 4 AST),nan,69 - 99,202720,Jon Leuer,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+155518,21600020,4,3:29,nan,Green 1' Driving Layup (7 PTS) (Zimmerman 1 AST),71 - 99,201145,Jeff Green,ORL,1627757,Stephen Zimmerman,ORL,0,nan,nan,Made Shot ,nan
+155519,21600020,4,3:13,Johnson 24' 3PT Jump Shot (3 PTS) (Gbinije 1 AST),nan,71 - 102,1626169,Stanley Johnson,DET,1627771,Michael Gbinije,DET,0,nan,nan,Made Shot ,nan
+155520,21600020,4,3:04,nan,Hezonja 26' 3PT Jump Shot (8 PTS) (Green 1 AST),74 - 102,1626209,Mario Hezonja,ORL,201145,Jeff Green,ORL,0,nan,nan,Made Shot ,nan
+155521,21600020,4,2:33,Baynes 11' Jump Shot (13 PTS) (Udrih 5 AST),nan,74 - 104,203382,Aron Baynes,DET,2757,Beno Udrih,DET,0,nan,nan,Made Shot ,nan
+155522,21600020,4,2:28,Udrih P.FOUL (P2.T3) (C.Blair),nan,nan,2757,Beno Udrih,DET,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Personal
+155523,21600020,4,2:28,SUB: Hilliard FOR Leuer,nan,nan,202720,Jon Leuer,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Substitution ,nan
+155524,21600020,4,2:28,SUB: Ellenson FOR Baynes,nan,nan,203382,Aron Baynes,DET,1627740,Henry Ellenson,DET,0,nan,nan,Substitution ,nan
+155525,21600020,4,2:28,SUB: Marjanovic FOR Udrih,nan,nan,2757,Beno Udrih,DET,1626246,Boban Marjanovic,DET,0,nan,nan,Substitution ,nan
+155526,21600020,4,2:20,nan,MISS Hezonja 19' Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155527,21600020,4,2:19,Ellenson REBOUND (Off:0 Def:1),nan,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155528,21600020,4,2:17,MISS Johnson 28' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155529,21600020,4,2:17,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155530,21600020,4,2:01,nan,MISS Wilcox 19' Jump Shot,nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155531,21600020,4,2:00,Ellenson REBOUND (Off:0 Def:2),nan,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155532,21600020,4,1:48,Marjanovic 9' Jump Shot (2 PTS) (Johnson 2 AST),nan,74 - 106,1626246,Boban Marjanovic,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+155533,21600020,4,1:39,nan,MISS Watson 9' Floating Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155534,21600020,4,1:37,Ellenson REBOUND (Off:0 Def:3),nan,nan,1627740,Henry Ellenson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155535,21600020,4,1:32,Ellenson 17' Jump Shot (2 PTS) (Hilliard 1 AST),nan,74 - 108,1627740,Henry Ellenson,DET,1626199,Darrun Hilliard,DET,0,nan,nan,Made Shot ,nan
+155536,21600020,4,1:28,nan,Hezonja  Driving Layup (10 PTS),76 - 108,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155537,21600020,4,1:28,Gbinije S.FOUL (P1.T4) (J.Williams),nan,nan,1627771,Michael Gbinije,DET,1626209,Mario Hezonja,ORL,0,nan,nan,Foul ,Shooting
+155538,21600020,4,1:28,nan,Hezonja Free Throw 1 of 1 (11 PTS),77 - 108,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+155539,21600020,4,1:11,MISS Marjanovic 5' Jump Shot,nan,nan,1626246,Boban Marjanovic,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155540,21600020,4,1:10,Johnson REBOUND (Off:1 Def:0),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155541,21600020,4,1:06,MISS Johnson 3' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155542,21600020,4,1:06,nan,Zimmerman REBOUND (Off:0 Def:2),nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155543,21600020,4,0:57,nan,Hezonja 17' Pullup Jump Shot (13 PTS),79 - 108,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+155544,21600020,4,0:46,MISS Gbinije 26' 3PT Jump Shot,nan,nan,1627771,Michael Gbinije,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155545,21600020,4,0:46,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155546,21600020,4,0:37,nan,Green 25' 3PT Jump Shot (10 PTS) (Watson 1 AST),82 - 108,201145,Jeff Green,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+155547,21600020,4,0:24,nan,Green P.FOUL (P3.T4) (J.Williams),nan,201145,Jeff Green,ORL,1627740,Henry Ellenson,DET,0,nan,nan,Foul ,Personal
+155548,21600020,4,0:15,Hilliard Bad Pass Turnover (P1.T12),nan,nan,1626199,Darrun Hilliard,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+155549,21600020,4,0:05,nan,MISS Hezonja 18' Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155550,21600020,4,0:04,nan,Zimmerman REBOUND (Off:1 Def:2),nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155551,21600020,4,0:02,nan,MISS Green 27' 3PT Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+155552,21600020,4,0:00,nan,Zimmerman REBOUND (Off:2 Def:2),nan,1627757,Stephen Zimmerman,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+155553,21600020,4,0:00,nan,nan,82 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

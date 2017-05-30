@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+150977,21501214,4,12:00,nan,nan,74 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+150978,21501214,4,11:45,Ross 12' Pullup Jump Shot (8 PTS) (Wright 3 AST),nan,74 - 89,203082,Terrence Ross,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+150979,21501214,4,11:28,nan,MISS Stauskas  3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150980,21501214,4,11:27,Ross REBOUND (Off:0 Def:2),nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150981,21501214,4,11:05,Carroll 24' 3PT Jump Shot (8 PTS) (Ross 2 AST),nan,74 - 92,201960,DeMarre Carroll,TOR,203082,Terrence Ross,TOR,0,nan,nan,Made Shot ,nan
+150982,21501214,4,10:44,nan,Noel  Reverse Dunk (14 PTS) (Covington 3 AST),76 - 92,203457,Nerlens Noel,PHI,203496,Robert Covington,PHI,0,nan,nan,Made Shot ,nan
+150983,21501214,4,10:28,Powell Lost Ball Turnover (P1.T13),Smith STEAL (1 STL),nan,1626181,Norman Powell,TOR,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Lost Ball
+150984,21501214,4,10:24,Ross STEAL (1 STL),Covington Bad Pass Turnover (P3.T10),nan,203496,Robert Covington,PHI,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Bad Pass
+150985,21501214,4,10:18,Powell Bad Pass Turnover (P2.T14),Smith STEAL (2 STL),nan,1626181,Norman Powell,TOR,202397,Ish Smith,PHI,0,nan,nan,Turnover ,Bad Pass
+150986,21501214,4,10:10,nan,MISS Covington 24' 3PT Jump Shot,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150987,21501214,4,10:09,Powell REBOUND (Off:0 Def:1),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150988,21501214,4,9:53,Wright 14' Fadeaway Jumper (4 PTS),nan,76 - 94,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+150989,21501214,4,9:52,nan,76ers Timeout: Regular (Reg.4 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+150990,21501214,4,9:28,nan,Smith 4' Driving Finger Roll Layup (16 PTS) (Thompson 2 AST),78 - 94,202397,Ish Smith,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+150991,21501214,4,9:00,Biyombo 4' Hook Shot (14 PTS) (Wright 4 AST),nan,78 - 96,202687,Bismack Biyombo,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+150992,21501214,4,8:43,Biyombo BLOCK (1 BLK),MISS Thompson  Driving Layup,nan,203138,Hollis Thompson,PHI,0,nan,nan,202687,Bismack Biyombo,TOR,Missed Shot ,nan
+150993,21501214,4,8:42,Biyombo REBOUND (Off:1 Def:4),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150994,21501214,4,8:36,MISS Powell 26' 3PT Running Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150995,21501214,4,8:35,Biyombo REBOUND (Off:2 Def:4),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+150996,21501214,4,8:27,Powell 24' 3PT Jump Shot (14 PTS) (Ross 3 AST),nan,78 - 99,1626181,Norman Powell,TOR,203082,Terrence Ross,TOR,0,nan,nan,Made Shot ,nan
+150997,21501214,4,8:15,nan,Covington 26' 3PT Jump Shot (20 PTS) (Smith 4 AST),81 - 99,203496,Robert Covington,PHI,202397,Ish Smith,PHI,0,nan,nan,Made Shot ,nan
+150998,21501214,4,7:47,MISS Carroll 27' 3PT Jump Shot,nan,nan,201960,DeMarre Carroll,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+150999,21501214,4,7:47,Biyombo REBOUND (Off:3 Def:4),nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151000,21501214,4,7:41,nan,SUB: Grant FOR Noel,nan,203457,Nerlens Noel,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+151001,21501214,4,7:41,SUB: Thompson FOR Carroll,nan,nan,201960,DeMarre Carroll,TOR,201574,Jason Thompson,TOR,0,nan,nan,Substitution ,nan
+151002,21501214,4,7:38,MISS Powell 19' Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151003,21501214,4,7:38,nan,Grant REBOUND (Off:0 Def:1),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151004,21501214,4,7:24,nan,Covington 17' Pullup Jump Shot (22 PTS),83 - 99,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+151005,21501214,4,6:59,MISS Wright 10' Floating Jump Shot,nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151006,21501214,4,6:59,nan,Grant REBOUND (Off:0 Def:2),nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151007,21501214,4,6:48,nan,Thompson 24' 3PT Jump Shot (6 PTS) (Grant 2 AST),86 - 99,203138,Hollis Thompson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Made Shot ,nan
+151008,21501214,4,6:47,RAPTORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+151009,21501214,4,6:33,MISS Wright 3' Driving Finger Roll Layup,nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151010,21501214,4,6:32,nan,Covington REBOUND (Off:0 Def:3),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151011,21501214,4,6:23,Powell STEAL (2 STL),Thompson Bad Pass Turnover (P1.T11),nan,203138,Hollis Thompson,PHI,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Bad Pass
+151012,21501214,4,6:19,nan,Covington Violation:Kicked Ball (B.Barnaky),nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+151013,21501214,4,6:04,Ross 2' Driving Reverse Layup (10 PTS),nan,86 - 101,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+151014,21501214,4,5:53,nan,MISS Grant 17' Pullup Jump Shot,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151015,21501214,4,5:53,Powell REBOUND (Off:0 Def:2),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151016,21501214,4,5:35,MISS Powell 25' 3PT Pullup Jump Shot,nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151017,21501214,4,5:35,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151018,21501214,4,5:35,nan,Grant L.B.FOUL (P5.T1) (S.Wright),nan,203924,Jerami Grant,PHI,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Loose Ball
+151019,21501214,4,5:35,nan,SUB: McConnell FOR Grant,nan,203924,Jerami Grant,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+151020,21501214,4,5:35,nan,SUB: Noel FOR Thompson,nan,203138,Hollis Thompson,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Substitution ,nan
+151021,21501214,4,5:27,MISS Ross 4' Driving Floating Jump Shot,Covington BLOCK (1 BLK),nan,203082,Terrence Ross,TOR,0,nan,nan,203496,Robert Covington,PHI,Missed Shot ,nan
+151022,21501214,4,5:26,nan,Noel REBOUND (Off:2 Def:8),nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151023,21501214,4,5:18,nan,Smith 3' Running Reverse Layup (18 PTS),88 - 101,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+151024,21501214,4,5:03,nan,Stauskas P.FOUL (P2.T2) (B.Barnaky),nan,203917,Nik Stauskas,PHI,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Personal
+151025,21501214,4,4:52,MISS Ross 24' 3PT Step Back Jump Shot,nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151026,21501214,4,4:51,Thompson REBOUND (Off:1 Def:2),nan,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151027,21501214,4,4:51,nan,Noel S.FOUL (P3.T3) (S.Wright),nan,203457,Nerlens Noel,PHI,201574,Jason Thompson,TOR,0,nan,nan,Foul ,Shooting
+151028,21501214,4,4:51,Thompson Free Throw 1 of 2 (2 PTS),nan,88 - 102,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151029,21501214,4,4:51,Thompson Free Throw 2 of 2 (3 PTS),nan,88 - 103,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151030,21501214,4,4:44,Ross Violation:Kicked Ball (B.Barnaky),nan,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+151031,21501214,4,4:37,Biyombo S.FOUL (P2.T1) (B.Barnaky),nan,nan,202687,Bismack Biyombo,TOR,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+151032,21501214,4,4:37,nan,Covington Free Throw 1 of 2 (23 PTS),89 - 103,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151033,21501214,4,4:37,nan,Covington Free Throw 2 of 2 (24 PTS),90 - 103,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151034,21501214,4,4:22,MISS Wright 19' Pullup Jump Shot,nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151035,21501214,4,4:22,nan,McConnell REBOUND (Off:0 Def:3),nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151036,21501214,4,4:13,nan,MISS McConnell 12' Fadeaway Jumper,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151037,21501214,4,4:13,nan,Smith REBOUND (Off:1 Def:1),nan,202397,Ish Smith,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151038,21501214,4,4:07,nan,MISS Stauskas  3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151039,21501214,4,4:07,Thompson REBOUND (Off:1 Def:3),nan,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151040,21501214,4,3:57,nan,Noel S.FOUL (P4.T4) (E.Roe),nan,203457,Nerlens Noel,PHI,1626153,Delon Wright,TOR,0,nan,nan,Foul ,Shooting
+151041,21501214,4,3:57,Wright Free Throw 1 of 2 (5 PTS),nan,90 - 104,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151042,21501214,4,3:57,SUB: Nogueira FOR Biyombo,nan,nan,202687,Bismack Biyombo,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Substitution ,nan
+151043,21501214,4,3:57,nan,SUB: Thompson FOR Covington,nan,203496,Robert Covington,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+151044,21501214,4,3:57,Wright Free Throw 2 of 2 (6 PTS),nan,90 - 105,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151045,21501214,4,3:49,Ross STEAL (2 STL),Smith Bad Pass Turnover (P3.T12),nan,202397,Ish Smith,PHI,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Bad Pass
+151046,21501214,4,3:43,Nogueira  Running Dunk (2 PTS) (Ross 4 AST),nan,90 - 107,203512,Lucas Nogueira,TOR,203082,Terrence Ross,TOR,0,nan,nan,Made Shot ,nan
+151047,21501214,4,3:43,nan,76ers Timeout: Regular (Reg.5 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+151048,21501214,4,3:27,Wright STEAL (1 STL),Stauskas Bad Pass Turnover (P2.T13),nan,203917,Nik Stauskas,PHI,1626153,Delon Wright,TOR,0,nan,nan,Turnover ,Bad Pass
+151049,21501214,4,3:21,Nogueira  Running Dunk (4 PTS) (Wright 5 AST),nan,90 - 109,203512,Lucas Nogueira,TOR,1626153,Delon Wright,TOR,0,nan,nan,Made Shot ,nan
+151050,21501214,4,3:12,nan,MISS Thompson 26' 3PT Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151051,21501214,4,3:11,Powell REBOUND (Off:0 Def:3),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151052,21501214,4,3:06,Ross 24' 3PT Running Jump Shot (13 PTS) (Powell 1 AST),nan,90 - 112,203082,Terrence Ross,TOR,1626181,Norman Powell,TOR,0,nan,nan,Made Shot ,nan
+151053,21501214,4,3:06,nan,76ers Timeout: Regular (Reg.6 Short 2),nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+151054,21501214,4,3:06,nan,SUB: Marshall FOR Noel,nan,203457,Nerlens Noel,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Substitution ,nan
+151055,21501214,4,3:06,nan,SUB: Wood FOR Smith,nan,202397,Ish Smith,PHI,1626174,Christian Wood,PHI,0,nan,nan,Substitution ,nan
+151056,21501214,4,2:41,nan,MISS Stauskas 27' 3PT Jump Shot,nan,203917,Nik Stauskas,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151057,21501214,4,2:41,Wright REBOUND (Off:0 Def:2),nan,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151058,21501214,4,2:23,Ross 2' Driving Reverse Layup (15 PTS) (Thompson 1 AST),nan,90 - 114,203082,Terrence Ross,TOR,201574,Jason Thompson,TOR,0,nan,nan,Made Shot ,nan
+151059,21501214,4,2:04,nan,Stauskas  Cutting Dunk Shot (13 PTS) (Marshall 2 AST),92 - 114,203917,Nik Stauskas,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+151060,21501214,4,1:51,Ross 7' Driving Floating Jump Shot (17 PTS),nan,92 - 116,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+151061,21501214,4,1:32,nan,Thompson 25' 3PT Jump Shot (9 PTS) (Marshall 3 AST),95 - 116,203138,Hollis Thompson,PHI,203088,Kendall Marshall,PHI,0,nan,nan,Made Shot ,nan
+151062,21501214,4,1:19,Wright 2' Driving Layup (8 PTS) (Nogueira 1 AST),nan,95 - 118,1626153,Delon Wright,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Made Shot ,nan
+151063,21501214,4,1:06,nan,Marshall  3PT Jump Shot (3 PTS) (McConnell 4 AST),98 - 118,203088,Kendall Marshall,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+151064,21501214,4,0:46,MISS Thompson 6' Turnaround Jump Shot,nan,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151065,21501214,4,0:45,nan,Marshall REBOUND (Off:0 Def:4),nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151066,21501214,4,0:41,Nogueira Personal Block Foul (P4.T2) (E.Roe),nan,nan,203512,Lucas Nogueira,TOR,1626174,Christian Wood,PHI,0,nan,nan,Foul ,Personal Block
+151067,21501214,4,0:33,nan,MISS Thompson 16' Step Back Jump Shot,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151068,21501214,4,0:32,Powell REBOUND (Off:0 Def:4),nan,nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151069,21501214,4,0:30,nan,Stauskas S.FOUL (P3.PN) (B.Barnaky),nan,203917,Nik Stauskas,PHI,1626181,Norman Powell,TOR,0,nan,nan,Foul ,Shooting
+151070,21501214,4,0:30,Powell Free Throw 1 of 2 (15 PTS),nan,98 - 119,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+151071,21501214,4,0:30,Powell Free Throw 2 of 2 (16 PTS),nan,98 - 120,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+151072,21501214,4,0:11,Nogueira BLOCK (1 BLK),MISS Marshall 4' Finger Roll Layup,nan,203088,Kendall Marshall,PHI,0,nan,nan,203512,Lucas Nogueira,TOR,Missed Shot ,nan
+151073,21501214,4,0:10,nan,Wood REBOUND (Off:3 Def:2),nan,1626174,Christian Wood,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151074,21501214,4,0:06,nan,MISS Marshall 26' 3PT Jump Shot,nan,203088,Kendall Marshall,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+151075,21501214,4,0:06,nan,76ers Rebound,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+151076,21501214,4,0:03,Powell STEAL (3 STL),McConnell Bad Pass Turnover (P1.T14),nan,204456,T.J. McConnell,PHI,1626181,Norman Powell,TOR,0,nan,nan,Turnover ,Bad Pass
+151077,21501214,4,0:01,Powell  Running Dunk (18 PTS),nan,98 - 122,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+151078,21501214,4,0:00,nan,nan,98 - 122,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

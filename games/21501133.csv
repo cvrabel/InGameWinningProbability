@@ -1,0 +1,119 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+141366,21501133,4,12:00,nan,nan,85 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+141367,21501133,4,11:44,Ennis 25' 3PT Jump Shot (10 PTS) (Henson 2 AST),nan,85 - 87,203898,Tyler Ennis,MIL,203089,John Henson,MIL,0,nan,nan,Made Shot ,nan
+141368,21501133,4,11:30,Henson P.FOUL (P5.T1) (K.Fitzgerald),nan,nan,203089,John Henson,MIL,203094,Andrew Nicholson,ORL,0,nan,nan,Foul ,Personal
+141369,21501133,4,11:30,SUB: O'Bryant III FOR Henson,nan,nan,203089,John Henson,MIL,203948,Johnny O'Bryant III,MIL,0,nan,nan,Substitution ,nan
+141370,21501133,4,11:30,Henson T.FOUL (P5.T1) (K.Fitzgerald),nan,nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Foul ,Technical
+141371,21501133,4,11:30,nan,Fournier Free Throw Technical (14 PTS),86 - 87,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+141372,21501133,4,11:20,O'Bryant III S.FOUL (P1.T2) (M.Boland),nan,nan,203948,Johnny O'Bryant III,MIL,203094,Andrew Nicholson,ORL,0,nan,nan,Foul ,Shooting
+141373,21501133,4,11:20,nan,Nicholson Free Throw 1 of 2 (9 PTS),87 - 87,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141374,21501133,4,11:20,nan,Nicholson Free Throw 2 of 2 (10 PTS),88 - 87,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141375,21501133,4,10:59,MISS Antetokounmpo 4' Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141376,21501133,4,10:57,nan,Smith REBOUND (Off:1 Def:3),nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141377,21501133,4,10:44,Vasquez STEAL (1 STL),Nicholson Bad Pass Turnover (P1.T12),nan,203094,Andrew Nicholson,ORL,202349,Greivis Vasquez,MIL,0,nan,nan,Turnover ,Bad Pass
+141378,21501133,4,10:43,nan,Smith S.FOUL (P1.T1) (J.Phillips),nan,201160,Jason Smith,ORL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+141379,21501133,4,10:43,nan,nan,nan,386,Elliot Perry,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+141380,21501133,4,10:43,Antetokounmpo Free Throw 1 of 2 (14 PTS),nan,88 - 88,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141381,21501133,4,10:43,Antetokounmpo Free Throw 2 of 2 (15 PTS),nan,88 - 89,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141382,21501133,4,10:34,nan,Hezonja Step Out of Bounds Turnover (P2.T13),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+141383,21501133,4,10:32,nan,SUB: Oladipo FOR Fournier,nan,203095,Evan Fournier,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Substitution ,nan
+141384,21501133,4,10:21,MISS Vasquez 25' 3PT Jump Shot,nan,nan,202349,Greivis Vasquez,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141385,21501133,4,10:20,nan,Nicholson REBOUND (Off:0 Def:4),nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141386,21501133,4,10:12,Ennis STEAL (1 STL),Oladipo Bad Pass Turnover (P5.T14),nan,203506,Victor Oladipo,ORL,203898,Tyler Ennis,MIL,0,nan,nan,Turnover ,Bad Pass
+141387,21501133,4,10:07,MISS Ennis 1' Layup,Oladipo BLOCK (4 BLK),nan,203898,Tyler Ennis,MIL,0,nan,nan,203506,Victor Oladipo,ORL,Missed Shot ,nan
+141388,21501133,4,10:03,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141389,21501133,4,9:46,nan,MISS Oladipo  3PT Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141390,21501133,4,9:45,Antetokounmpo REBOUND (Off:2 Def:6),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141391,21501133,4,9:33,Vasquez Lost Ball Turnover (P3.T12),Oladipo STEAL (4 STL),nan,202349,Greivis Vasquez,MIL,203506,Victor Oladipo,ORL,0,nan,nan,Turnover ,Lost Ball
+141392,21501133,4,9:24,nan,Nicholson 29' 3PT Jump Shot (13 PTS) (Oladipo 5 AST),91 - 89,203094,Andrew Nicholson,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+141393,21501133,4,9:00,MISS Antetokounmpo 27' 3PT Jump Shot,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141394,21501133,4,8:59,nan,Oladipo REBOUND (Off:0 Def:3),nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141395,21501133,4,8:44,nan,Smith 14' Jump Shot (8 PTS) (Jennings 6 AST),93 - 89,201160,Jason Smith,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Made Shot ,nan
+141396,21501133,4,8:44,BUCKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141397,21501133,4,8:44,SUB: Middleton FOR Vasquez,nan,nan,202349,Greivis Vasquez,MIL,203114,Khris Middleton,MIL,0,nan,nan,Substitution ,nan
+141398,21501133,4,8:44,SUB: Parker FOR O'Bryant III,nan,nan,203948,Johnny O'Bryant III,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+141399,21501133,4,8:30,Plumlee  Alley Oop Dunk (8 PTS) (Middleton 4 AST),nan,93 - 91,203101,Miles Plumlee,MIL,203114,Khris Middleton,MIL,0,nan,nan,Made Shot ,nan
+141400,21501133,4,8:13,nan,Hezonja 26' 3PT Jump Shot (5 PTS) (Smith 3 AST),96 - 91,1626209,Mario Hezonja,ORL,201160,Jason Smith,ORL,0,nan,nan,Made Shot ,nan
+141401,21501133,4,7:57,Parker  Driving Dunk (22 PTS),nan,96 - 93,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141402,21501133,4,7:49,Antetokounmpo STEAL (2 STL),Jennings Bad Pass Turnover (P2.T15),nan,201943,Brandon Jennings,ORL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Turnover ,Bad Pass
+141403,21501133,4,7:41,nan,Oladipo S.FOUL (P4.T2) (K.Fitzgerald),nan,203506,Victor Oladipo,ORL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+141404,21501133,4,7:41,MISS Antetokounmpo Free Throw 1 of 2,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141405,21501133,4,7:41,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+141406,21501133,4,7:41,Antetokounmpo Free Throw 2 of 2 (16 PTS),nan,96 - 94,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141407,21501133,4,7:29,nan,MISS Nicholson 9' Turnaround Hook Shot,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141408,21501133,4,7:27,Ennis REBOUND (Off:0 Def:1),nan,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141409,21501133,4,7:21,Parker Bad Pass Turnover (P2.T13),Nicholson STEAL (1 STL),nan,203953,Jabari Parker,MIL,203094,Andrew Nicholson,ORL,0,nan,nan,Turnover ,Bad Pass
+141410,21501133,4,7:07,nan,Hezonja 26' 3PT Jump Shot (8 PTS) (Jennings 7 AST),99 - 94,1626209,Mario Hezonja,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Made Shot ,nan
+141411,21501133,4,6:43,Plumlee  Hook Shot (10 PTS) (Antetokounmpo 11 AST),nan,99 - 96,203101,Miles Plumlee,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+141412,21501133,4,6:17,nan,Oladipo 26' 3PT Jump Shot (18 PTS) (Smith 4 AST),102 - 96,203506,Victor Oladipo,ORL,201160,Jason Smith,ORL,0,nan,nan,Made Shot ,nan
+141413,21501133,4,6:00,Plumlee 2' Cutting Layup Shot (12 PTS) (Parker 5 AST),nan,102 - 98,203101,Miles Plumlee,MIL,203953,Jabari Parker,MIL,0,nan,nan,Made Shot ,nan
+141414,21501133,4,5:47,Ennis STEAL (2 STL),Jennings Lost Ball Turnover (P3.T16),nan,201943,Brandon Jennings,ORL,203898,Tyler Ennis,MIL,0,nan,nan,Turnover ,Lost Ball
+141415,21501133,4,5:40,Antetokounmpo Bad Pass Turnover (P4.T14),Oladipo STEAL (5 STL),nan,203507,Giannis Antetokounmpo,MIL,203506,Victor Oladipo,ORL,0,nan,nan,Turnover ,Bad Pass
+141416,21501133,4,5:33,Middleton STEAL (4 STL),Jennings Bad Pass Turnover (P4.T17),nan,201943,Brandon Jennings,ORL,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Bad Pass
+141417,21501133,4,5:30,Middleton  Running Dunk (18 PTS),nan,102 - 100,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141418,21501133,4,5:28,nan,Magic Timeout: Regular (Reg.4 Short 0),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141419,21501133,4,5:28,nan,SUB: Payton FOR Jennings,nan,201943,Brandon Jennings,ORL,203901,Elfrid Payton,ORL,0,nan,nan,Substitution ,nan
+141420,21501133,4,5:28,nan,SUB: Vucevic FOR Nicholson,nan,203094,Andrew Nicholson,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+141421,21501133,4,5:28,nan,SUB: Gordon FOR Smith,nan,201160,Jason Smith,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+141422,21501133,4,5:28,SUB: Monroe FOR Plumlee,nan,nan,203101,Miles Plumlee,MIL,202328,Greg Monroe,MIL,0,nan,nan,Substitution ,nan
+141423,21501133,4,5:15,nan,MISS Oladipo 2' Driving Layup,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141424,21501133,4,5:14,Antetokounmpo REBOUND (Off:2 Def:7),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141425,21501133,4,4:48,MISS Middleton 25' 3PT Jump Shot,nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141426,21501133,4,4:47,nan,Vucevic REBOUND (Off:1 Def:3),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141427,21501133,4,4:35,nan,Hezonja 25' 3PT Jump Shot (11 PTS) (Vucevic 2 AST),105 - 100,1626209,Mario Hezonja,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+141428,21501133,4,4:10,MISS Ennis 11' Floating Jump Shot,nan,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141429,21501133,4,4:06,Ennis REBOUND (Off:1 Def:1),nan,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141430,21501133,4,3:53,Monroe Out of Bounds - Bad Pass Turnover Turnover (P2.T15),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+141431,21501133,4,3:32,nan,MISS Hezonja 27' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141432,21501133,4,3:31,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141433,21501133,4,3:24,nan,Hezonja P.FOUL (P2.T3) (M.Boland),nan,1626209,Mario Hezonja,ORL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+141434,21501133,4,3:24,nan,SUB: Fournier FOR Hezonja,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+141435,21501133,4,3:09,nan,Gordon S.FOUL (P4.T4) (J.Phillips),nan,203932,Aaron Gordon,ORL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Shooting
+141436,21501133,4,3:09,Antetokounmpo Free Throw 1 of 2 (17 PTS),nan,105 - 101,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141437,21501133,4,3:09,Antetokounmpo Free Throw 2 of 2 (18 PTS),nan,105 - 102,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141438,21501133,4,2:52,Middleton P.FOUL (P1.T3) (K.Fitzgerald),nan,nan,203114,Khris Middleton,MIL,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Personal
+141439,21501133,4,2:52,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+141440,21501133,4,2:39,nan,Vucevic 5' Turnaround Jump Shot (21 PTS),107 - 102,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141441,21501133,4,2:24,nan,Fournier P.FOUL (P1.PN) (K.Fitzgerald),nan,203095,Evan Fournier,ORL,203953,Jabari Parker,MIL,0,nan,nan,Foul ,Personal
+141442,21501133,4,2:24,Parker Free Throw 1 of 2 (23 PTS),nan,107 - 103,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141443,21501133,4,2:24,Parker Free Throw 2 of 2 (24 PTS),nan,107 - 104,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141444,21501133,4,2:11,nan,MISS Payton 4' Hook Shot,nan,203901,Elfrid Payton,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141445,21501133,4,2:09,Antetokounmpo REBOUND (Off:2 Def:8),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141446,21501133,4,1:53,MISS Antetokounmpo 2' Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141447,21501133,4,1:52,Monroe REBOUND (Off:2 Def:3),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141448,21501133,4,1:52,Monroe 2' Putback Layup (18 PTS),nan,107 - 106,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141449,21501133,4,1:48,Ennis P.FOUL (P2.T4) (M.Boland),nan,nan,203898,Tyler Ennis,MIL,203901,Elfrid Payton,ORL,0,nan,nan,Foul ,Personal
+141450,21501133,4,1:28,nan,Vucevic Out of Bounds Lost Ball Turnover (P1.T18),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+141451,21501133,4,1:28,nan,nan,nan,477,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+141452,21501133,4,1:17,Ennis 1' Driving Layup (12 PTS),nan,107 - 108,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141453,21501133,4,1:01,Middleton STEAL (5 STL),Payton Lost Ball Turnover (P3.T19),nan,203901,Elfrid Payton,ORL,203114,Khris Middleton,MIL,0,nan,nan,Turnover ,Lost Ball
+141454,21501133,4,0:57,Middleton Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+141455,21501133,4,0:57,nan,Magic Timeout: Short (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+141456,21501133,4,0:50,nan,MISS Oladipo 26' 3PT Jump Shot,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141457,21501133,4,0:49,nan,Gordon REBOUND (Off:2 Def:5),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141458,21501133,4,0:47,nan,Payton  Layup (6 PTS) (Vucevic 3 AST),109 - 108,203901,Elfrid Payton,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+141459,21501133,4,0:37,nan,Oladipo P.FOUL (P5.PN) (J.Phillips),nan,203506,Victor Oladipo,ORL,203898,Tyler Ennis,MIL,0,nan,nan,Foul ,Personal
+141460,21501133,4,0:37,MISS Ennis Free Throw 1 of 2,nan,nan,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141461,21501133,4,0:37,BUCKS Rebound,nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+141462,21501133,4,0:37,Ennis Free Throw 2 of 2 (13 PTS),nan,109 - 109,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141463,21501133,4,0:27,Monroe P.FOUL (P1.PN) (K.Fitzgerald),nan,nan,202328,Greg Monroe,MIL,202696,Nikola Vucevic,ORL,0,nan,nan,Foul ,Personal
+141464,21501133,4,0:27,nan,Vucevic Free Throw 1 of 2 (22 PTS),110 - 109,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141465,21501133,4,0:27,nan,MISS Vucevic Free Throw 2 of 2,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141466,21501133,4,0:27,Antetokounmpo REBOUND (Off:2 Def:9),nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141467,21501133,4,0:27,BUCKS Timeout: Regular (Full 6 Short 1),nan,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141468,21501133,4,0:19,MISS Antetokounmpo 1' Layup,nan,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141469,21501133,4,0:17,Monroe REBOUND (Off:3 Def:3),nan,nan,202328,Greg Monroe,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141470,21501133,4,0:17,Jump Ball Monroe vs. Fournier: Tip to Parker,nan,nan,202328,Greg Monroe,MIL,203095,Evan Fournier,ORL,203953,Jabari Parker,MIL,Jump Ball ,nan
+141471,21501133,4,0:10,Parker 1' Hook Shot (26 PTS),nan,110 - 111,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+141472,21501133,4,0:10,nan,Magic Timeout: Regular (Reg.5 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+141473,21501133,4,0:10,SUB: Plumlee FOR Monroe,nan,nan,202328,Greg Monroe,MIL,203101,Miles Plumlee,MIL,0,nan,nan,Substitution ,nan
+141474,21501133,4,0:10,nan,SUB: Hezonja FOR Payton,nan,203901,Elfrid Payton,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+141475,21501133,4,0:04,nan,Fournier Offensive Charge Foul (P2.PN) (K.Fitzgerald),nan,203095,Evan Fournier,ORL,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Offensive Charge
+141476,21501133,4,0:04,nan,Fournier Foul Turnover (P3.T20),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+141477,21501133,4,0:03,nan,Fournier Personal Take Foul (P3.PN) (J.Phillips),nan,203095,Evan Fournier,ORL,203898,Tyler Ennis,MIL,0,nan,nan,Foul ,Personal Take
+141478,21501133,4,0:03,Ennis Free Throw 1 of 2 (14 PTS),nan,110 - 112,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+141479,21501133,4,0:03,Ennis Free Throw 2 of 2 (15 PTS),nan,110 - 113,203898,Tyler Ennis,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+141480,21501133,4,0:03,nan,Magic Timeout: Short (Reg.5 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+141481,21501133,4,0:02,nan,MISS Fournier 27' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+141482,21501133,4,0:00,Parker REBOUND (Off:0 Def:7),nan,nan,203953,Jabari Parker,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+141483,21501133,4,0:00,nan,nan,110 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

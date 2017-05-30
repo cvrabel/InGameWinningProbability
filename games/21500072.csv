@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+9105,21500072,4,12:00,nan,nan,78 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+9106,21500072,4,11:43,MISS Powell 16' Jump Shot,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9107,21500072,4,11:42,Parsons REBOUND (Off:1 Def:0),nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9108,21500072,4,11:39,MISS Harris 24' 3PT Jump Shot,nan,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9109,21500072,4,11:39,nan,Lin REBOUND (Off:0 Def:1),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9110,21500072,4,11:22,nan,Lamb 8' Floating Jump Shot (8 PTS) (Lin 2 AST),80 - 67,203087,Jeremy Lamb,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+9111,21500072,4,11:05,MISS Villanueva  3PT Jump Shot,nan,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9112,21500072,4,11:03,nan,Zeller REBOUND (Off:0 Def:2),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9113,21500072,4,10:50,nan,Williams 24' 3PT Jump Shot (15 PTS) (Hawes 2 AST),83 - 67,101107,Marvin Williams,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+9114,21500072,4,10:49,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+9115,21500072,4,10:49,SUB: Nowitzki FOR Villanueva,nan,nan,101111,Charlie Villanueva,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+9116,21500072,4,10:45,nan,Lamb P.FOUL (P2.T1) (T.Maddox),nan,203087,Jeremy Lamb,CHA,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal
+9117,21500072,4,10:37,Powell  Dunk (14 PTS) (Barea 6 AST),nan,83 - 69,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+9118,21500072,4,10:20,Harris P.FOUL (P1.T1) (P.Fraher),nan,nan,2734,Devin Harris,DAL,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Personal
+9119,21500072,4,10:20,SUB: D. Williams FOR Barea,nan,nan,200826,J.J. Barea,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+9120,21500072,4,10:19,nan,Lin Traveling Turnover (P3.T7),nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+9121,21500072,4,10:05,MISS Nowitzki 17' Fadeaway Jumper,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9122,21500072,4,10:04,nan,Hawes REBOUND (Off:0 Def:4),nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9123,21500072,4,9:46,nan,Lamb 2' Driving Layup (10 PTS),85 - 69,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9124,21500072,4,9:32,MISS Parsons 24' 3PT Jump Shot,nan,nan,202718,Chandler Parsons,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9125,21500072,4,9:31,nan,Zeller REBOUND (Off:0 Def:3),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9126,21500072,4,9:23,nan,MISS Lin 4' Driving Bank Hook Shot,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9127,21500072,4,9:23,Powell REBOUND (Off:2 Def:6),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9128,21500072,4,9:23,nan,Zeller L.B.FOUL (P3.T2) (R.Garretson),nan,203469,Cody Zeller,CHA,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Loose Ball
+9129,21500072,4,9:12,MISS Powell 3' Driving Layup,Zeller BLOCK (1 BLK),nan,203939,Dwight Powell,DAL,0,nan,nan,203469,Cody Zeller,CHA,Missed Shot ,nan
+9130,21500072,4,9:10,nan,Lamb REBOUND (Off:1 Def:2),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9131,21500072,4,8:59,Powell STEAL (1 STL),Hawes Bad Pass Turnover (P2.T8),nan,201150,Spencer Hawes,CHA,203939,Dwight Powell,DAL,0,nan,nan,Turnover ,Bad Pass
+9132,21500072,4,8:59,nan,Hawes P.FOUL (P2.T3) (P.Fraher),nan,201150,Spencer Hawes,CHA,203939,Dwight Powell,DAL,0,nan,nan,Foul ,Personal
+9133,21500072,4,8:50,Harris Bad Pass Turnover (P3.T11),Lin STEAL (2 STL),nan,2734,Devin Harris,DAL,202391,Jeremy Lin,CHA,0,nan,nan,Turnover ,Bad Pass
+9134,21500072,4,8:46,D. Williams FLAGRANT.FOUL.TYPE1 (P2.T2) (T.Maddox),nan,nan,101114,Deron Williams,DAL,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Flagrant Type 1
+9135,21500072,4,8:46,nan,nan,nan,413,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+9136,21500072,4,8:46,nan,Zeller Free Throw Flagrant 1 of 2 (8 PTS),86 - 69,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+9137,21500072,4,8:46,nan,Zeller Free Throw Flagrant 2 of 2 (9 PTS),87 - 69,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+9138,21500072,4,8:46,SUB: Felton FOR Harris,nan,nan,2734,Devin Harris,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+9139,21500072,4,8:46,SUB: Barea FOR Powell,nan,nan,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+9140,21500072,4,8:40,nan,Lin 3' Driving Layup (6 PTS) (Williams 2 AST),89 - 69,202391,Jeremy Lin,CHA,101107,Marvin Williams,CHA,0,nan,nan,Made Shot ,nan
+9141,21500072,4,8:40,Nowitzki S.FOUL (P1.T3) (T.Maddox),nan,nan,1717,Dirk Nowitzki,DAL,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Shooting
+9142,21500072,4,8:40,nan,Lin Free Throw 1 of 1 (7 PTS),90 - 69,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+9143,21500072,4,8:31,Felton Lost Ball Turnover (P3.T12),Zeller STEAL (2 STL),nan,101109,Raymond Felton,DAL,203469,Cody Zeller,CHA,0,nan,nan,Turnover ,Lost Ball
+9144,21500072,4,8:31,Felton P.FOUL (P3.T4) (R.Garretson),nan,nan,101109,Raymond Felton,DAL,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Personal
+9145,21500072,4,8:19,nan,Lamb 25' 3PT Jump Shot (13 PTS) (Hawes 3 AST),93 - 69,203087,Jeremy Lamb,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Made Shot ,nan
+9146,21500072,4,8:10,nan,Hawes S.FOUL (P3.T4) (T.Maddox),nan,201150,Spencer Hawes,CHA,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+9147,21500072,4,8:10,Nowitzki Free Throw 1 of 2 (11 PTS),nan,93 - 70,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+9148,21500072,4,8:10,Nowitzki Free Throw 2 of 2 (12 PTS),nan,93 - 71,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+9149,21500072,4,8:02,Parsons STEAL (1 STL),Lin Bad Pass Turnover (P4.T9),nan,202391,Jeremy Lin,CHA,202718,Chandler Parsons,DAL,0,nan,nan,Turnover ,Bad Pass
+9150,21500072,4,7:47,Barea 24' 3PT Jump Shot (8 PTS) (D. Williams 4 AST),nan,93 - 74,200826,J.J. Barea,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+9151,21500072,4,7:46,nan,Hornets Timeout: Regular (Reg.4 Short 0),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+9152,21500072,4,7:46,nan,SUB: Jefferson FOR Hawes,nan,201150,Spencer Hawes,CHA,2744,Al Jefferson,CHA,0,nan,nan,Substitution ,nan
+9153,21500072,4,7:46,nan,SUB: Walker FOR Lin,nan,202391,Jeremy Lin,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+9154,21500072,4,7:33,nan,Zeller  Running Dunk (11 PTS) (Walker 7 AST),95 - 74,203469,Cody Zeller,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+9155,21500072,4,7:21,Felton 1' Driving Layup (7 PTS),nan,95 - 76,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+9156,21500072,4,7:00,nan,MISS Walker 24' 3PT Pullup Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9157,21500072,4,6:59,nan,Lamb REBOUND (Off:2 Def:2),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9158,21500072,4,6:49,nan,Jefferson Offensive Charge Foul (P3.PN) (R.Garretson),nan,2744,Al Jefferson,CHA,101114,Deron Williams,DAL,0,nan,nan,Foul ,Offensive Charge
+9159,21500072,4,6:49,nan,Jefferson Foul Turnover (P1.T10),nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+9160,21500072,4,6:49,nan,SUB: Batum FOR Zeller,nan,203469,Cody Zeller,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+9161,21500072,4,6:46,D. Williams 5' Running Jump Shot (10 PTS),nan,95 - 78,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+9162,21500072,4,6:46,nan,Walker S.FOUL (P1.PN) (T.Maddox),nan,202689,Kemba Walker,CHA,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting
+9163,21500072,4,6:46,D. Williams Free Throw 1 of 1 (11 PTS),nan,95 - 79,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+9164,21500072,4,6:29,nan,Jefferson 11' Turnaround Hook Shot (27 PTS),97 - 79,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9165,21500072,4,6:20,D. Williams 2' Layup (13 PTS),nan,97 - 81,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+9166,21500072,4,5:58,nan,Jefferson 2' Driving Layup (29 PTS),99 - 81,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9167,21500072,4,5:51,nan,Walker Shooting Block Foul (P2.PN) (P.Fraher),nan,202689,Kemba Walker,CHA,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting Block
+9168,21500072,4,5:51,D. Williams Free Throw 1 of 2 (14 PTS),nan,99 - 82,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+9169,21500072,4,5:51,SUB: Matthews FOR Parsons,nan,nan,202718,Chandler Parsons,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+9170,21500072,4,5:51,D. Williams Free Throw 2 of 2 (15 PTS),nan,99 - 83,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+9171,21500072,4,5:33,nan,Jefferson 13' Jump Shot (31 PTS),101 - 83,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9172,21500072,4,5:22,MISS Nowitzki 25' 3PT Jump Shot,nan,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9173,21500072,4,5:21,nan,Williams REBOUND (Off:2 Def:9),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9174,21500072,4,5:04,nan,Williams 10' Turnaround Hook Shot (17 PTS),103 - 83,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9175,21500072,4,5:03,MAVERICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+9176,21500072,4,4:54,Nowitzki 17' Jump Shot (14 PTS) (D. Williams 5 AST),nan,103 - 85,1717,Dirk Nowitzki,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+9177,21500072,4,4:28,nan,MISS Walker  3PT Step Back Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9178,21500072,4,4:27,Felton REBOUND (Off:0 Def:1),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9179,21500072,4,4:19,MISS Felton 15' Pullup Jump Shot,nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9180,21500072,4,4:18,nan,Jefferson REBOUND (Off:3 Def:6),nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9181,21500072,4,3:58,nan,MISS Jefferson 16' Jump Shot,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9182,21500072,4,3:57,Felton REBOUND (Off:0 Def:2),nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9183,21500072,4,3:50,D. Williams Lost Ball Turnover (P1.T13),Walker STEAL (1 STL),nan,101114,Deron Williams,DAL,202689,Kemba Walker,CHA,0,nan,nan,Turnover ,Lost Ball
+9184,21500072,4,3:49,D. Williams P.FOUL (P3.PN) (R.Garretson),nan,nan,101114,Deron Williams,DAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+9185,21500072,4,3:49,nan,Walker Free Throw 1 of 2 (13 PTS),104 - 85,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+9186,21500072,4,3:49,SUB: Evans FOR Matthews,nan,nan,202083,Wesley Matthews,DAL,202379,Jeremy Evans,DAL,0,nan,nan,Substitution ,nan
+9187,21500072,4,3:49,SUB: Pachulia FOR Nowitzki,nan,nan,1717,Dirk Nowitzki,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+9188,21500072,4,3:49,SUB: Jenkins FOR D. Williams,nan,nan,101114,Deron Williams,DAL,203098,John Jenkins,DAL,0,nan,nan,Substitution ,nan
+9189,21500072,4,3:49,SUB: Anderson FOR Barea,nan,nan,200826,J.J. Barea,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+9190,21500072,4,3:49,nan,Walker Free Throw 2 of 2 (14 PTS),105 - 85,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+9191,21500072,4,3:35,MISS Anderson 15' Floating Jump Shot,nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9192,21500072,4,3:34,nan,Williams REBOUND (Off:2 Def:10),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9193,21500072,4,3:24,nan,MISS Williams 24' 3PT Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9194,21500072,4,3:23,Jenkins REBOUND (Off:0 Def:1),nan,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9195,21500072,4,3:14,MISS Jenkins 10' Floating Jump Shot,Jefferson BLOCK (1 BLK),nan,203098,John Jenkins,DAL,0,nan,nan,2744,Al Jefferson,CHA,Missed Shot ,nan
+9196,21500072,4,3:12,Anderson REBOUND (Off:1 Def:0),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9197,21500072,4,3:10,MISS Felton 24' 3PT Jump Shot,nan,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9198,21500072,4,3:09,nan,Walker REBOUND (Off:0 Def:2),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9199,21500072,4,2:57,Pachulia STEAL (2 STL),Jefferson Lost Ball Turnover (P2.T11),nan,2744,Al Jefferson,CHA,2585,Zaza Pachulia,DAL,0,nan,nan,Turnover ,Lost Ball
+9200,21500072,4,2:48,nan,Williams Shooting Block Foul (P3.PN) (R.Garretson),nan,101107,Marvin Williams,CHA,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Shooting Block
+9201,21500072,4,2:48,Pachulia Free Throw 1 of 2 (13 PTS),nan,105 - 86,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+9202,21500072,4,2:48,nan,SUB: Roberts FOR Williams,nan,101107,Marvin Williams,CHA,203148,Brian Roberts,CHA,0,nan,nan,Substitution ,nan
+9203,21500072,4,2:48,nan,SUB: Kaminsky FOR Jefferson,nan,2744,Al Jefferson,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Substitution ,nan
+9204,21500072,4,2:48,nan,SUB: Daniels FOR Batum,nan,201587,Nicolas Batum,CHA,203584,Troy Daniels,CHA,0,nan,nan,Substitution ,nan
+9205,21500072,4,2:48,nan,SUB: Hansbrough FOR Walker,nan,202689,Kemba Walker,CHA,201946,Tyler Hansbrough,CHA,0,nan,nan,Substitution ,nan
+9206,21500072,4,2:48,SUB: Villanueva FOR Felton,nan,nan,101109,Raymond Felton,DAL,101111,Charlie Villanueva,DAL,0,nan,nan,Substitution ,nan
+9207,21500072,4,2:48,Pachulia Free Throw 2 of 2 (14 PTS),nan,105 - 87,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+9208,21500072,4,2:35,nan,Lamb 25' 3PT Jump Shot (16 PTS),108 - 87,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+9209,21500072,4,2:20,MISS Jenkins 19' Pullup Jump Shot,nan,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9210,21500072,4,2:19,nan,Daniels REBOUND (Off:0 Def:1),nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9211,21500072,4,2:10,nan,MISS Roberts 11' Floating Jump Shot,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9212,21500072,4,2:09,Pachulia REBOUND (Off:2 Def:8),nan,nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9213,21500072,4,2:04,MAVERICKS Timeout: Regular (Full 6 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+9214,21500072,4,2:04,SUB: Powell FOR Pachulia,nan,nan,2585,Zaza Pachulia,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+9215,21500072,4,1:55,MISS Evans 24' 3PT Jump Shot,nan,nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9216,21500072,4,1:54,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9217,21500072,4,1:34,nan,MISS Hansbrough 3' Driving Finger Roll Layup,nan,201946,Tyler Hansbrough,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9218,21500072,4,1:33,Powell REBOUND (Off:2 Def:7),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9219,21500072,4,1:23,Villanueva 24' 3PT Jump Shot (5 PTS) (Powell 1 AST),nan,108 - 90,101111,Charlie Villanueva,DAL,203939,Dwight Powell,DAL,0,nan,nan,Made Shot ,nan
+9220,21500072,4,1:08,nan,MISS Daniels 24' 3PT Step Back Jump Shot,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9221,21500072,4,1:07,Villanueva REBOUND (Off:1 Def:6),nan,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9222,21500072,4,0:58,MISS Villanueva 25' 3PT Jump Shot,nan,nan,101111,Charlie Villanueva,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9223,21500072,4,0:57,nan,Daniels REBOUND (Off:0 Def:2),nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9224,21500072,4,0:43,nan,MISS Roberts 22' Pullup Jump Shot,nan,203148,Brian Roberts,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9225,21500072,4,0:42,Evans REBOUND (Off:0 Def:1),nan,nan,202379,Jeremy Evans,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9226,21500072,4,0:35,Villanueva 2' Cutting Layup Shot (7 PTS) (Jenkins 1 AST),nan,108 - 92,101111,Charlie Villanueva,DAL,203098,John Jenkins,DAL,0,nan,nan,Made Shot ,nan
+9227,21500072,4,0:11,nan,MISS Daniels 13' Floating Jump Shot,nan,203584,Troy Daniels,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+9228,21500072,4,0:11,Jenkins REBOUND (Off:0 Def:2),nan,nan,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+9229,21500072,4,0:02,nan,Hansbrough P.FOUL (P1.PN) (R.Garretson),nan,201946,Tyler Hansbrough,CHA,203098,John Jenkins,DAL,0,nan,nan,Foul ,Personal
+9230,21500072,4,0:02,Jenkins Free Throw 1 of 2 (1 PTS),nan,108 - 93,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+9231,21500072,4,0:02,Jenkins Free Throw 2 of 2 (2 PTS),nan,108 - 94,203098,John Jenkins,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+9232,21500072,4,0:00,nan,nan,108 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

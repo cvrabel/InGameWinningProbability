@@ -1,0 +1,120 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+28580,21500227,4,12:00,nan,nan,72 - 76,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+28581,21500227,4,11:44,MISS Lin 3' Layup,Williams BLOCK (1 BLK),nan,202391,Jeremy Lin,CHA,0,nan,nan,2590,Mo Williams,CLE,Missed Shot ,nan
+28582,21500227,4,11:44,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28583,21500227,4,11:43,nan,Williams P.FOUL (P4.T1) (Z.Zarba),nan,2590,Mo Williams,CLE,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Personal
+28584,21500227,4,11:39,Lamb 1' Layup (7 PTS) (Kaminsky 1 AST),nan,72 - 78,203087,Jeremy Lamb,CHA,1626163,Frank Kaminsky,CHA,0,nan,nan,Made Shot ,nan
+28585,21500227,4,11:19,nan,MISS Jones 25' 3PT Jump Shot,nan,2592,James Jones,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28586,21500227,4,11:18,Lin REBOUND (Off:0 Def:4),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28587,21500227,4,11:14,Lin Bad Pass Turnover (P1.T9),nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+28588,21500227,4,10:57,nan,Jefferson  3PT Jump Shot (11 PTS) (Williams 3 AST),75 - 78,2210,Richard Jefferson,CLE,2590,Mo Williams,CLE,0,nan,nan,Made Shot ,nan
+28589,21500227,4,10:42,Lin 10' Driving Bank Shot (7 PTS),nan,75 - 80,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+28590,21500227,4,10:27,nan,Thompson OFF.Foul (P3) (S.Wall),nan,202684,Tristan Thompson,CLE,202391,Jeremy Lin,CHA,0,nan,nan,Foul ,Offensive
+28591,21500227,4,10:27,nan,Thompson Foul Turnover (P2.T12),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+28592,21500227,4,10:13,Lamb 16' Jump Shot (9 PTS) (Lin 4 AST),nan,75 - 82,203087,Jeremy Lamb,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Made Shot ,nan
+28593,21500227,4,9:53,Zeller S.FOUL (P3.T1) (Z.Zarba),nan,nan,203469,Cody Zeller,CHA,203521,Matthew Dellavedova,CLE,0,nan,nan,Foul ,Shooting
+28594,21500227,4,9:53,nan,Dellavedova Free Throw 1 of 2 (1 PTS),76 - 82,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+28595,21500227,4,9:53,nan,SUB: Smith FOR Williams,nan,2590,Mo Williams,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+28596,21500227,4,9:53,nan,SUB: James FOR Jones,nan,2592,James Jones,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+28597,21500227,4,9:53,nan,Dellavedova Free Throw 2 of 2 (2 PTS),77 - 82,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+28598,21500227,4,9:41,MISS Lamb 19' Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28599,21500227,4,9:40,nan,Thompson REBOUND (Off:3 Def:4),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28600,21500227,4,9:21,nan,MISS James 24' 3PT Step Back Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28601,21500227,4,9:20,Lamb REBOUND (Off:0 Def:5),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28602,21500227,4,9:07,Lin Lost Ball Turnover (P2.T10),Thompson STEAL (1 STL),nan,202391,Jeremy Lin,CHA,202684,Tristan Thompson,CLE,0,nan,nan,Turnover ,Lost Ball
+28603,21500227,4,9:03,nan,Jefferson 2' Running Layup (13 PTS),79 - 82,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+28604,21500227,4,8:48,MISS Zeller 8' Jump Shot,nan,nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28605,21500227,4,8:47,nan,Thompson REBOUND (Off:3 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28606,21500227,4,8:25,nan,Smith Out of Bounds Lost Ball Turnover (P1.T13),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+28607,21500227,4,8:25,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+28608,21500227,4,8:25,SUB: Walker FOR Lin,nan,nan,202391,Jeremy Lin,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+28609,21500227,4,8:15,nan,Thompson S.FOUL (P4.T2) (S.Wall),nan,202684,Tristan Thompson,CLE,203469,Cody Zeller,CHA,0,nan,nan,Foul ,Shooting
+28610,21500227,4,8:15,Zeller Free Throw 1 of 2 (6 PTS),nan,79 - 83,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+28611,21500227,4,8:15,Zeller Free Throw 2 of 2 (7 PTS),nan,79 - 84,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+28612,21500227,4,8:00,Williams S.FOUL (P4.T2) (S.Wall),nan,nan,101107,Marvin Williams,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+28613,21500227,4,8:00,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+28614,21500227,4,8:00,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+28615,21500227,4,8:00,SUB: Batum FOR Williams,nan,nan,101107,Marvin Williams,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+28616,21500227,4,8:00,nan,James Free Throw 2 of 2 (24 PTS),80 - 84,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+28617,21500227,4,7:47,MISS Kaminsky 4' Jump Shot,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28618,21500227,4,7:45,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28619,21500227,4,7:32,nan,Thompson 7' Jump Shot (7 PTS) (Dellavedova 5 AST),82 - 84,202684,Tristan Thompson,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Made Shot ,nan
+28620,21500227,4,7:23,MISS Walker 16' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28621,21500227,4,7:22,nan,Thompson REBOUND (Off:3 Def:6),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28622,21500227,4,7:17,Zeller P.FOUL (P4.T3) (Z.Zarba),nan,nan,203469,Cody Zeller,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+28623,21500227,4,7:17,SUB: Jefferson FOR Zeller,nan,nan,203469,Cody Zeller,CHA,2744,Al Jefferson,CHA,0,nan,nan,Substitution ,nan
+28624,21500227,4,7:08,nan,Dellavedova 27' 3PT Jump Shot (5 PTS),85 - 84,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+28625,21500227,4,6:55,Walker 2' Driving Layup (16 PTS),nan,85 - 86,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+28626,21500227,4,6:37,nan,Dellavedova 7' Jump Shot (7 PTS),87 - 86,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+28627,21500227,4,6:15,MISS Jefferson 8' Jump Shot,nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28628,21500227,4,6:14,nan,James REBOUND (Off:1 Def:7),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28629,21500227,4,5:59,nan,MISS Jefferson 24' 3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28630,21500227,4,5:57,Lamb REBOUND (Off:0 Def:6),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28631,21500227,4,5:47,MISS Lamb 9' Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28632,21500227,4,5:46,nan,Thompson REBOUND (Off:3 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28633,21500227,4,5:31,nan,Smith 18' Step Back Jump Shot (6 PTS),89 - 86,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+28634,21500227,4,5:30,HORNETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+28635,21500227,4,5:30,SUB: Williams FOR Kaminsky,nan,nan,1626163,Frank Kaminsky,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+28636,21500227,4,5:20,nan,Dellavedova P.FOUL (P3.T3) (Z.Zarba),nan,203521,Matthew Dellavedova,CLE,201587,Nicolas Batum,CHA,0,nan,nan,Foul ,Personal
+28637,21500227,4,5:12,MISS Walker 8' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28638,21500227,4,5:11,nan,Thompson REBOUND (Off:3 Def:8),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28639,21500227,4,5:00,nan,Thompson OFF.Foul (P5) (S.Wall),nan,202684,Tristan Thompson,CLE,101107,Marvin Williams,CHA,0,nan,nan,Foul ,Offensive
+28640,21500227,4,5:00,nan,Thompson Foul Turnover (P3.T14),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+28641,21500227,4,4:40,MISS Williams 8' Jump Shot,nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28642,21500227,4,4:38,nan,Jefferson REBOUND (Off:0 Def:1),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28643,21500227,4,4:23,nan,MISS Thompson 1' Layup,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28644,21500227,4,4:22,Jefferson REBOUND (Off:1 Def:5),nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28645,21500227,4,4:12,MISS Batum 25' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28646,21500227,4,4:11,Lamb REBOUND (Off:1 Def:6),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28647,21500227,4,4:10,nan,James P.FOUL (P2.T4) (S.Wall),nan,2544,LeBron James,CLE,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Personal
+28648,21500227,4,3:56,Walker 21' Step Back Jump Shot (18 PTS),nan,89 - 88,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+28649,21500227,4,3:38,nan,MISS Jefferson  3PT Jump Shot,nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28650,21500227,4,3:32,Batum REBOUND (Off:2 Def:5),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28651,21500227,4,3:23,MISS Walker 25' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28652,21500227,4,3:22,nan,Thompson REBOUND (Off:3 Def:9),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28653,21500227,4,3:05,nan,Smith 25' 3PT Jump Shot (9 PTS) (James 5 AST),92 - 88,2747,JR Smith,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+28654,21500227,4,2:51,Walker Bad Pass Turnover (P3.T11),Smith STEAL (1 STL),nan,202689,Kemba Walker,CHA,2747,JR Smith,CLE,0,nan,nan,Turnover ,Bad Pass
+28655,21500227,4,2:36,nan,MISS Dellavedova 26' 3PT Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28656,21500227,4,2:35,Batum REBOUND (Off:2 Def:6),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28657,21500227,4,2:20,MISS Jefferson 9' Jump Shot,nan,nan,2744,Al Jefferson,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28658,21500227,4,2:19,nan,James REBOUND (Off:1 Def:8),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28659,21500227,4,2:19,Jefferson P.FOUL (P1.T4) (Z.Zarba),nan,nan,2744,Al Jefferson,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+28660,21500227,4,2:19,nan,Cavaliers Timeout: Regular (Reg.4 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+28661,21500227,4,2:01,Williams BLOCK (2 BLK),MISS James 15' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,101107,Marvin Williams,CHA,Missed Shot ,nan
+28662,21500227,4,2:01,nan,James REBOUND (Off:2 Def:8),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28663,21500227,4,1:58,nan,MISS James 27' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28664,21500227,4,1:57,Lamb REBOUND (Off:1 Def:7),nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28665,21500227,4,1:35,MISS Lamb 21' Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28666,21500227,4,1:32,nan,James REBOUND (Off:2 Def:9),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28667,21500227,4,1:14,Walker STEAL (3 STL),James Bad Pass Turnover (P2.T15),nan,2544,LeBron James,CLE,202689,Kemba Walker,CHA,0,nan,nan,Turnover ,Bad Pass
+28668,21500227,4,1:14,nan,nan,nan,492,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+28669,21500227,4,1:00,Lamb 20' Jump Shot (11 PTS) (Batum 4 AST),nan,92 - 90,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+28670,21500227,4,0:40,Walker BLOCK (2 BLK),MISS James 6' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,202689,Kemba Walker,CHA,Missed Shot ,nan
+28671,21500227,4,0:40,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28672,21500227,4,0:40,nan,Cavaliers Timeout: Regular (Reg.5 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+28673,21500227,4,0:37,nan,MISS James 21' Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28674,21500227,4,0:34,Walker REBOUND (Off:1 Def:3),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28675,21500227,4,0:24,HORNETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+28676,21500227,4,0:19,MISS Batum 27' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28677,21500227,4,0:18,nan,James REBOUND (Off:2 Def:10),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28678,21500227,4,0:12,Batum Personal Take Foul (P2.PN) (S.Wall),nan,nan,201587,Nicolas Batum,CHA,2747,JR Smith,CLE,0,nan,nan,Foul ,Personal Take
+28679,21500227,4,0:12,nan,Smith Free Throw 1 of 2 (10 PTS),93 - 90,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+28680,21500227,4,0:12,nan,Smith Free Throw 2 of 2 (11 PTS),94 - 90,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+28681,21500227,4,0:12,HORNETS Timeout: Short (Full 5 Short 1),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+28682,21500227,4,0:12,SUB: Hawes FOR Jefferson,nan,nan,2744,Al Jefferson,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+28683,21500227,4,0:09,MISS Batum 27' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28684,21500227,4,0:09,nan,James REBOUND (Off:2 Def:11),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28685,21500227,4,0:09,Williams P.FOUL (P5.PN) (Z.Zarba),nan,nan,101107,Marvin Williams,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+28686,21500227,4,0:09,nan,MISS James Free Throw 1 of 2,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+28687,21500227,4,0:09,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+28688,21500227,4,0:09,SUB: Zeller FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+28689,21500227,4,0:09,nan,James Free Throw 2 of 2 (25 PTS),95 - 90,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+28690,21500227,4,0:09,HORNETS Timeout: Short (Full 5 Short 2),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+28691,21500227,4,0:09,HORNETS Turnover: 5 Second Inbound (T#12),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Turnover ,5 Second Inbound Turnover
+28692,21500227,4,0:09,nan,Cavaliers Timeout: Short (Reg.5 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+28693,21500227,4,0:07,nan,James Bad Pass Turnover (P3.T16),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+28694,21500227,4,0:02,MISS Walker 26' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28695,21500227,4,0:02,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28696,21500227,4,0:01,MISS Williams 27' 3PT Jump Shot,nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+28697,21500227,4,0:00,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+28698,21500227,4,0:00,nan,nan,95 - 90,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

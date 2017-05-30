@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+81031,21500648,4,12:00,nan,nan,86 - 64,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+81032,21500648,4,11:48,Grant 1' Driving Layup (8 PTS),nan,86 - 66,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+81033,21500648,4,11:34,Williams S.FOUL (P3.T1) (D.Stafford),nan,nan,202682,Derrick Williams,NYK,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+81034,21500648,4,11:34,nan,Rivers Free Throw 1 of 2 (4 PTS),87 - 66,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81035,21500648,4,11:34,nan,MISS Rivers Free Throw 2 of 2,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81036,21500648,4,11:34,Williams REBOUND (Off:1 Def:5),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81037,21500648,4,11:27,nan,W. Johnson Violation:Kicked Ball (D.Taylor),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+81038,21500648,4,11:22,Seraphin 3' Driving Finger Roll Layup (2 PTS) (Grant 5 AST),nan,87 - 68,202338,Kevin Seraphin,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+81039,21500648,4,11:05,Galloway S.FOUL (P4.T2) (D.Taylor),nan,nan,204038,Langston Galloway,NYK,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+81040,21500648,4,11:05,nan,Crawford Free Throw 1 of 2 (7 PTS),88 - 68,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81041,21500648,4,11:05,nan,Crawford Free Throw 2 of 2 (8 PTS),89 - 68,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81042,21500648,4,10:53,nan,Rivers S.FOUL (P2.T1) (M.Boland),nan,203085,Austin Rivers,LAC,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Shooting
+81043,21500648,4,10:53,Grant Free Throw 1 of 2 (9 PTS),nan,89 - 69,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81044,21500648,4,10:53,Grant Free Throw 2 of 2 (10 PTS),nan,89 - 70,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81045,21500648,4,10:36,nan,Aldrich 1' Layup (2 PTS) (Crawford 1 AST),91 - 70,202332,Cole Aldrich,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+81046,21500648,4,10:25,Seraphin 15' Jump Shot (4 PTS) (Grant 6 AST),nan,91 - 72,202338,Kevin Seraphin,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+81047,21500648,4,10:09,nan,Aldrich 4' Hook Shot (4 PTS) (Prigioni 2 AST),93 - 72,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+81048,21500648,4,9:55,Grant Bad Pass Turnover (P2.T13),W. Johnson STEAL (1 STL),nan,1626170,Jerian Grant,NYK,202325,Wesley Johnson,LAC,0,nan,nan,Turnover ,Bad Pass
+81049,21500648,4,9:41,Vujacic STEAL (1 STL),Crawford Bad Pass Turnover (P2.T9),nan,2037,Jamal Crawford,LAC,2756,Sasha Vujacic,NYK,0,nan,nan,Turnover ,Bad Pass
+81050,21500648,4,9:36,Galloway Bad Pass Turnover (P2.T14),W. Johnson STEAL (2 STL),nan,204038,Langston Galloway,NYK,202325,Wesley Johnson,LAC,0,nan,nan,Turnover ,Bad Pass
+81051,21500648,4,9:13,nan,Crawford 25' 3PT Jump Shot (11 PTS) (Prigioni 3 AST),96 - 72,2037,Jamal Crawford,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+81052,21500648,4,9:12,KNICKS Timeout: Regular (Full 4 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+81053,21500648,4,8:59,MISS Williams 1' Layup,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81054,21500648,4,8:58,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81055,21500648,4,8:56,MISS Grant 1' Layup,nan,nan,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81056,21500648,4,8:54,nan,W. Johnson REBOUND (Off:0 Def:3),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81057,21500648,4,8:35,Grant S.FOUL (P4.T3) (M.Boland),nan,nan,1626170,Jerian Grant,NYK,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting
+81058,21500648,4,8:35,nan,Aldrich Free Throw 1 of 2 (5 PTS),97 - 72,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81059,21500648,4,8:35,SUB: Afflalo FOR Galloway,nan,nan,204038,Langston Galloway,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Substitution ,nan
+81060,21500648,4,8:35,nan,Aldrich Free Throw 2 of 2 (6 PTS),98 - 72,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81061,21500648,4,8:10,MISS Afflalo 26' 3PT Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81062,21500648,4,8:09,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81063,21500648,4,7:45,nan,MISS Crawford 20' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81064,21500648,4,7:43,Afflalo REBOUND (Off:0 Def:1),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81065,21500648,4,7:32,Afflalo 5' Jump Shot (2 PTS) (Seraphin 1 AST),nan,98 - 74,201167,Arron Afflalo,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Made Shot ,nan
+81066,21500648,4,7:09,Vujacic S.FOUL (P1.T4) (D.Taylor),nan,nan,2756,Sasha Vujacic,NYK,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+81067,21500648,4,7:09,nan,Crawford Free Throw 1 of 2 (12 PTS),99 - 74,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81068,21500648,4,7:09,nan,Crawford Free Throw 2 of 2 (13 PTS),100 - 74,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81069,21500648,4,6:54,MISS Seraphin 4' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81070,21500648,4,6:52,Seraphin REBOUND (Off:1 Def:0),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81071,21500648,4,6:43,MISS Williams 26' 3PT Jump Shot,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81072,21500648,4,6:41,nan,Prigioni REBOUND (Off:0 Def:2),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81073,21500648,4,6:28,nan,Aldrich 1' Layup (8 PTS) (Prigioni 4 AST),102 - 74,202332,Cole Aldrich,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+81074,21500648,4,6:10,nan,Aldrich P.FOUL (P1.T2) (D.Taylor),nan,202332,Cole Aldrich,LAC,202338,Kevin Seraphin,NYK,0,nan,nan,Foul ,Personal
+81075,21500648,4,6:10,nan,SUB: Stephenson FOR Crawford,nan,2037,Jamal Crawford,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Substitution ,nan
+81076,21500648,4,6:10,nan,SUB: Wilcox FOR W. Johnson,nan,202325,Wesley Johnson,LAC,203912,CJ Wilcox,LAC,0,nan,nan,Substitution ,nan
+81077,21500648,4,6:02,MISS Seraphin 17' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81078,21500648,4,5:59,nan,Aldrich REBOUND (Off:1 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81079,21500648,4,5:47,nan,MISS Stephenson 17' Jump Shot,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81080,21500648,4,5:45,Williams REBOUND (Off:1 Def:6),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81081,21500648,4,5:36,nan,Rivers S.FOUL (P3.T3) (D.Taylor),nan,203085,Austin Rivers,LAC,201167,Arron Afflalo,NYK,0,nan,nan,Foul ,Shooting
+81082,21500648,4,5:36,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+81083,21500648,4,5:36,Afflalo Free Throw 1 of 3 (3 PTS),nan,102 - 75,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+81084,21500648,4,5:36,Afflalo Free Throw 2 of 3 (4 PTS),nan,102 - 76,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+81085,21500648,4,5:36,Afflalo Free Throw 3 of 3 (5 PTS),nan,102 - 77,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+81086,21500648,4,5:20,nan,Rivers 4' Driving Hook Shot (6 PTS),104 - 77,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+81087,21500648,4,5:05,Seraphin Lost Ball Turnover (P1.T15),Prigioni STEAL (3 STL),nan,202338,Kevin Seraphin,NYK,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Lost Ball
+81088,21500648,4,4:50,nan,Wilcox 20' Step Back Jump Shot (2 PTS) (Stephenson 1 AST),106 - 77,203912,CJ Wilcox,LAC,202362,Lance Stephenson,LAC,0,nan,nan,Made Shot ,nan
+81089,21500648,4,4:36,Seraphin Bad Pass Turnover (P2.T16),Prigioni STEAL (4 STL),nan,202338,Kevin Seraphin,NYK,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Bad Pass
+81090,21500648,4,4:33,nan,Prigioni 2' Driving Reverse Layup (5 PTS),108 - 77,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+81091,21500648,4,4:16,MISS Williams 24' 3PT Jump Shot,nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81092,21500648,4,4:15,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81093,21500648,4,4:15,SUB: Amundson FOR Williams,nan,nan,202682,Derrick Williams,NYK,200811,Lou Amundson,NYK,0,nan,nan,Substitution ,nan
+81094,21500648,4,4:15,SUB: Galloway FOR Afflalo,nan,nan,201167,Arron Afflalo,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+81095,21500648,4,4:04,MISS Amundson 18' Jump Shot,nan,nan,200811,Lou Amundson,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81096,21500648,4,4:03,nan,Prigioni REBOUND (Off:0 Def:3),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81097,21500648,4,3:50,nan,MISS Stephenson 1' Driving Layup,nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81098,21500648,4,3:49,Seraphin REBOUND (Off:1 Def:1),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81099,21500648,4,3:43,Grant 2' Driving Layup (12 PTS),nan,108 - 79,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+81100,21500648,4,3:43,nan,Aldrich S.FOUL (P2.T4) (M.Boland),nan,202332,Cole Aldrich,LAC,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Shooting
+81101,21500648,4,3:43,Grant Free Throw 1 of 1 (13 PTS),nan,108 - 80,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+81102,21500648,4,3:27,nan,MISS Rivers 20' Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81103,21500648,4,3:26,nan,Prigioni REBOUND (Off:1 Def:3),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81104,21500648,4,3:15,nan,Prigioni 1' Driving Layup (7 PTS),110 - 80,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+81105,21500648,4,3:13,KNICKS Timeout: Regular (Full 5 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+81106,21500648,4,3:03,MISS Galloway 25' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81107,21500648,4,3:01,nan,Rivers REBOUND (Off:0 Def:1),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81108,21500648,4,2:44,Seraphin BLOCK (1 BLK),MISS Rivers 2' Driving Layup,nan,203085,Austin Rivers,LAC,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+81109,21500648,4,2:41,Seraphin REBOUND (Off:1 Def:2),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81110,21500648,4,2:32,Amundson 2' Driving Layup (2 PTS) (Grant 7 AST),nan,110 - 82,200811,Lou Amundson,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+81111,21500648,4,2:32,nan,Stephenson S.FOUL (P1.PN) (D.Stafford),nan,202362,Lance Stephenson,LAC,200811,Lou Amundson,NYK,0,nan,nan,Foul ,Shooting
+81112,21500648,4,2:32,Seraphin Lane Violation Turnover (P3.T17),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Turnover ,Lane Violation
+81113,21500648,4,2:11,Seraphin S.FOUL (P1.PN) (M.Boland),nan,nan,202338,Kevin Seraphin,NYK,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Shooting
+81114,21500648,4,2:11,nan,Aldrich Free Throw 1 of 2 (9 PTS),111 - 82,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+81115,21500648,4,2:11,nan,Aldrich Free Throw 2 of 2 (10 PTS),112 - 82,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+81116,21500648,4,1:53,Galloway 1' Layup (8 PTS) (Seraphin 2 AST),nan,112 - 84,204038,Langston Galloway,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Made Shot ,nan
+81117,21500648,4,1:31,nan,MISS Rivers 26' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81118,21500648,4,1:29,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81119,21500648,4,1:29,nan,Clippers Turnover: Shot Clock (T#10),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+81120,21500648,4,1:15,Galloway 18' Jump Shot (10 PTS) (Amundson 1 AST),nan,112 - 86,204038,Langston Galloway,NYK,200811,Lou Amundson,NYK,0,nan,nan,Made Shot ,nan
+81121,21500648,4,1:04,nan,Wilcox 18' Jump Shot (4 PTS) (Rivers 3 AST),114 - 86,203912,CJ Wilcox,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+81122,21500648,4,0:53,Seraphin  Dunk (6 PTS) (Grant 8 AST),nan,114 - 88,202338,Kevin Seraphin,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+81123,21500648,4,0:32,nan,Aldrich 3' Hook Shot (12 PTS),116 - 88,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+81124,21500648,4,0:26,MISS Seraphin 14' Jump Shot,nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81125,21500648,4,0:24,nan,Aldrich REBOUND (Off:1 Def:4),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81126,21500648,4,0:16,nan,Clippers Turnover: 8 Second Violation (T#11),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,8 Second Violation
+81127,21500648,4,0:10,MISS Amundson 17' Jump Shot,nan,nan,200811,Lou Amundson,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+81128,21500648,4,0:09,nan,Stephenson REBOUND (Off:0 Def:1),nan,202362,Lance Stephenson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+81129,21500648,4,0:00,nan,nan,116 - 88,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

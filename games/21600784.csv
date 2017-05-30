@@ -1,0 +1,209 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+250103,21600784,4,12:00,nan,nan,79 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+250104,21600784,4,11:42,MISS Booker 9' Turnaround Bank Hook Shot,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250105,21600784,4,11:41,nan,Smith REBOUND (Off:2 Def:4),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250106,21600784,4,11:29,Booker P.FOUL (P2.T1) (K.Lane),nan,nan,202344,Trevor Booker,BKN,202322,John Wall,WAS,0,nan,nan,Foul ,Personal
+250107,21600784,4,11:17,nan,Burke 26' 3PT Jump Shot (5 PTS),82 - 72,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250108,21600784,4,11:02,Whitehead Discontinue Dribble Turnover (P2.T12),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Turnover ,Discontinue Dribble
+250109,21600784,4,10:48,nan,Burke 16' Fadeaway Jumper (7 PTS),84 - 72,203504,Trey Burke,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250110,21600784,4,10:31,Kilpatrick 20' Pullup Jump Shot (7 PTS),nan,84 - 74,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250111,21600784,4,10:09,nan,MISS Wall 24' 3PT Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250112,21600784,4,10:07,nan,Mahinmi REBOUND (Off:2 Def:3),nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250113,21600784,4,10:01,nan,MISS Smith  Driving Dunk,nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250114,21600784,4,10:00,Kilpatrick REBOUND (Off:0 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250115,21600784,4,9:56,MISS Kilpatrick 2' Running Layup,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250116,21600784,4,9:54,Hamilton REBOUND (Off:1 Def:2),nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250117,21600784,4,9:52,Whitehead 25' 3PT Jump Shot (5 PTS) (Hamilton 2 AST),nan,84 - 77,1627785,Isaiah Whitehead,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Made Shot ,nan
+250118,21600784,4,9:22,nan,MISS Mahinmi 3' Layup,nan,101133,Ian Mahinmi,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250119,21600784,4,9:20,Whitehead REBOUND (Off:0 Def:1),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250120,21600784,4,9:09,Kilpatrick 24' 3PT Jump Shot (10 PTS) (Booker 2 AST),nan,84 - 80,203930,Sean Kilpatrick,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+250121,21600784,4,9:08,nan,Wizards Timeout: Regular (Reg.4 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250122,21600784,4,9:08,nan,SUB: Gortat FOR Mahinmi,nan,101133,Ian Mahinmi,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+250123,21600784,4,9:08,nan,SUB: Beal FOR Burke,nan,203504,Trey Burke,WAS,203078,Bradley Beal,WAS,0,nan,nan,Substitution ,nan
+250124,21600784,4,9:08,nan,SUB: Porter Jr. FOR Satoransky,nan,203107,Tomas Satoransky,WAS,203490,Otto Porter Jr.,WAS,0,nan,nan,Substitution ,nan
+250125,21600784,4,8:48,nan,MISS Smith 24' 3PT Jump Shot,nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250126,21600784,4,8:47,Harris REBOUND (Off:0 Def:2),nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250127,21600784,4,8:38,Hamilton Bad Pass Turnover (P1.T13),Gortat STEAL (1 STL),nan,203120,Justin Hamilton,BKN,101162,Marcin Gortat,WAS,0,nan,nan,Turnover ,Bad Pass
+250128,21600784,4,8:25,Hamilton S.FOUL (P2.T2) (S.Wright),nan,nan,203120,Justin Hamilton,BKN,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Shooting
+250129,21600784,4,8:25,nan,Gortat Free Throw 1 of 2 (11 PTS),85 - 80,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250130,21600784,4,8:25,SUB: Lopez FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+250131,21600784,4,8:25,nan,SUB: Burke FOR Wall,nan,202322,John Wall,WAS,203504,Trey Burke,WAS,0,nan,nan,Substitution ,nan
+250132,21600784,4,8:25,nan,Gortat Free Throw 2 of 2 (12 PTS),86 - 80,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250133,21600784,4,8:07,NETS Timeout: Regular (Full 4 Short 1),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250134,21600784,4,8:01,NETS Turnover: Shot Clock (T#14),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+250135,21600784,4,7:45,nan,MISS Beal 1' Driving Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250136,21600784,4,7:44,Whitehead REBOUND (Off:0 Def:2),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250137,21600784,4,7:38,Booker 1' Driving Finger Roll Layup (6 PTS) (Whitehead 2 AST),nan,86 - 82,202344,Trevor Booker,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+250138,21600784,4,7:34,nan,Gortat Out of Bounds - Bad Pass Turnover Turnover (P1.T7),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+250139,21600784,4,7:34,SUB: Bogdanovic FOR Kilpatrick,nan,nan,203930,Sean Kilpatrick,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+250140,21600784,4,7:34,nan,SUB: Wall FOR Burke,nan,203504,Trey Burke,WAS,202322,John Wall,WAS,0,nan,nan,Substitution ,nan
+250141,21600784,4,7:34,nan,nan,nan,2623,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+250142,21600784,4,7:34,Bogdanovic Free Throw Technical (15 PTS),nan,86 - 83,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+250143,21600784,4,7:28,Booker 2' Driving Layup (8 PTS) (Bogdanovic 3 AST),nan,86 - 85,202344,Trevor Booker,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Made Shot ,nan
+250144,21600784,4,7:27,nan,Wizards Timeout: Regular (Reg.5 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250145,21600784,4,7:27,SUB: LeVert FOR Harris,nan,nan,203925,Joe Harris,BKN,1627747,Caris LeVert,BKN,0,nan,nan,Substitution ,nan
+250146,21600784,4,7:19,Booker P.FOUL (P3.T3) (H.Workman),nan,nan,202344,Trevor Booker,BKN,201160,Jason Smith,WAS,0,nan,nan,Foul ,Personal
+250147,21600784,4,7:16,nan,Smith 3' Driving Layup (12 PTS) (Wall 11 AST),88 - 85,201160,Jason Smith,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+250148,21600784,4,7:16,Lopez S.FOUL (P3.T4) (K.Lane),nan,nan,201572,Brook Lopez,BKN,201160,Jason Smith,WAS,0,nan,nan,Foul ,Shooting
+250149,21600784,4,7:16,nan,Smith Free Throw 1 of 1 (13 PTS),89 - 85,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+250150,21600784,4,7:01,nan,Beal Shooting Block Foul (P3.T1) (H.Workman),nan,203078,Bradley Beal,WAS,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Shooting Block
+250151,21600784,4,7:01,Whitehead Free Throw 1 of 2 (6 PTS),nan,89 - 86,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250152,21600784,4,7:01,Whitehead Free Throw 2 of 2 (7 PTS),nan,89 - 87,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250153,21600784,4,6:46,LeVert STEAL (1 STL),Beal Lost Ball Turnover (P4.T8),nan,203078,Bradley Beal,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Turnover ,Lost Ball
+250154,21600784,4,6:35,MISS Booker 3' Driving Layup,Wall BLOCK (2 BLK),nan,202344,Trevor Booker,BKN,0,nan,nan,202322,John Wall,WAS,Missed Shot ,nan
+250155,21600784,4,6:34,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250156,21600784,4,6:24,MISS Lopez 5' Floating Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250157,21600784,4,6:23,Lopez REBOUND (Off:1 Def:5),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250158,21600784,4,6:22,Lopez 2' Tip Layup Shot (17 PTS),nan,89 - 89,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250159,21600784,4,6:09,Whitehead S.FOUL (P2.PN) (H.Workman),nan,nan,1627785,Isaiah Whitehead,BKN,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+250160,21600784,4,6:09,nan,Wall Free Throw 1 of 2 (18 PTS),90 - 89,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250161,21600784,4,6:09,nan,Wall Free Throw 2 of 2 (19 PTS),91 - 89,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250162,21600784,4,5:57,Booker 2' Cutting Layup Shot (10 PTS) (Bogdanovic 4 AST),nan,91 - 91,202344,Trevor Booker,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Made Shot ,nan
+250163,21600784,4,5:43,LeVert STEAL (2 STL),Wall Bad Pass Turnover (P1.T9),nan,202322,John Wall,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Turnover ,Bad Pass
+250164,21600784,4,5:21,MISS Bogdanovic  3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250165,21600784,4,5:20,nan,Wall REBOUND (Off:0 Def:4),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250166,21600784,4,5:01,nan,MISS Wall 20' Pullup Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250167,21600784,4,5:00,nan,Smith REBOUND (Off:3 Def:4),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250168,21600784,4,4:46,nan,MISS Porter Jr. 15' Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250169,21600784,4,4:45,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250170,21600784,4,4:45,Lopez L.B.FOUL (P4.PN) (H.Workman),nan,nan,201572,Brook Lopez,BKN,201160,Jason Smith,WAS,0,nan,nan,Foul ,Loose Ball
+250171,21600784,4,4:45,nan,Smith Free Throw 1 of 2 (14 PTS),92 - 91,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250172,21600784,4,4:45,SUB: Foye FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+250173,21600784,4,4:45,nan,Smith Free Throw 2 of 2 (15 PTS),93 - 91,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250174,21600784,4,4:28,MISS Foye 27' 3PT Jump Shot,nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250175,21600784,4,4:27,Bogdanovic REBOUND (Off:2 Def:2),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250176,21600784,4,4:21,MISS Bogdanovic  3PT Step Back Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250177,21600784,4,4:18,nan,Smith REBOUND (Off:3 Def:5),nan,201160,Jason Smith,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250178,21600784,4,4:12,nan,MISS Porter Jr. 25' 3PT Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250179,21600784,4,4:10,nan,Gortat REBOUND (Off:3 Def:10),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250180,21600784,4,4:02,nan,MISS Wall 1' Driving Layup,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250181,21600784,4,4:01,nan,Porter Jr. REBOUND (Off:1 Def:3),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250182,21600784,4,3:55,nan,MISS Beal 2' Driving Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250183,21600784,4,3:54,nan,Porter Jr. REBOUND (Off:2 Def:3),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250184,21600784,4,3:53,Foye P.FOUL (P1.PN) (K.Lane),nan,nan,200751,Randy Foye,BKN,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Personal
+250185,21600784,4,3:53,nan,Porter Jr. Free Throw 1 of 2 (13 PTS),94 - 91,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250186,21600784,4,3:53,nan,SUB: Oubre Jr. FOR Smith,nan,201160,Jason Smith,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+250187,21600784,4,3:53,SUB: Hollis-Jefferson FOR Booker,nan,nan,202344,Trevor Booker,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+250188,21600784,4,3:53,nan,Porter Jr. Free Throw 2 of 2 (14 PTS),95 - 91,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250189,21600784,4,3:35,MISS Lopez 13' Turnaround Fadeaway Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250190,21600784,4,3:34,nan,Porter Jr. REBOUND (Off:2 Def:4),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250191,21600784,4,3:21,Lopez S.FOUL (P5.PN) (S.Wright),nan,nan,201572,Brook Lopez,BKN,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+250192,21600784,4,3:21,nan,Wall Free Throw 1 of 2 (20 PTS),96 - 91,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250193,21600784,4,3:21,nan,MISS Wall Free Throw 2 of 2,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250194,21600784,4,3:20,Hollis-Jefferson REBOUND (Off:2 Def:6),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250195,21600784,4,3:10,nan,Gortat S.FOUL (P3.T2) (S.Wright),nan,101162,Marcin Gortat,WAS,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Shooting
+250196,21600784,4,3:10,Bogdanovic Free Throw 1 of 2 (16 PTS),nan,96 - 92,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250197,21600784,4,3:10,Bogdanovic Free Throw 2 of 2 (17 PTS),nan,96 - 93,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250198,21600784,4,2:47,nan,Beal 2' Driving Layup (26 PTS),98 - 93,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250199,21600784,4,2:32,Lopez 2' Driving Reverse Layup (19 PTS),nan,98 - 95,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250200,21600784,4,2:32,nan,Gortat S.FOUL (P4.T3) (H.Workman),nan,101162,Marcin Gortat,WAS,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Shooting
+250201,21600784,4,2:32,Lopez Free Throw 1 of 1 (20 PTS),nan,98 - 96,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+250202,21600784,4,2:11,nan,MISS Wall 9' Step Back Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250203,21600784,4,2:10,LeVert REBOUND (Off:1 Def:4),nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250204,21600784,4,2:08,nan,Oubre Jr. S.FOUL (P3.T4) (S.Wright),nan,1626162,Kelly Oubre Jr.,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Foul ,Shooting
+250205,21600784,4,2:08,LeVert Free Throw 1 of 2 (7 PTS),nan,98 - 97,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250206,21600784,4,2:08,LeVert Free Throw 2 of 2 (8 PTS),nan,98 - 98,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250207,21600784,4,1:57,nan,MISS Beal 24' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250208,21600784,4,1:56,Hollis-Jefferson REBOUND (Off:2 Def:7),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250209,21600784,4,1:46,Hollis-Jefferson Out of Bounds Lost Ball Turnover (P2.T15),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+250210,21600784,4,1:46,nan,nan,nan,525,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+250211,21600784,4,1:34,nan,Gortat  Cutting Dunk Shot (14 PTS) (Wall 12 AST),100 - 98,101162,Marcin Gortat,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+250212,21600784,4,1:34,NETS Timeout: Short (Full 4 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250213,21600784,4,1:20,Lopez Offensive Charge Foul (P6.PN) (H.Workman),nan,nan,201572,Brook Lopez,BKN,101162,Marcin Gortat,WAS,0,nan,nan,Foul ,Offensive Charge
+250214,21600784,4,1:20,Lopez Foul Turnover (P2.T16),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+250215,21600784,4,1:20,SUB: Booker FOR Lopez,nan,nan,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Substitution ,nan
+250216,21600784,4,0:56,nan,Wizards Turnover: Shot Clock (T#10),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+250217,21600784,4,0:41,Bogdanovic 6' Driving Bank Shot (19 PTS),nan,100 - 100,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250218,21600784,4,0:41,nan,Wizards Timeout: Regular (Reg.6 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250219,21600784,4,0:31,nan,MISS Wall 2' Driving Layup,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250220,21600784,4,0:30,nan,Wall REBOUND (Off:1 Def:4),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250221,21600784,4,0:29,nan,MISS Wall 1' Tip Layup Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250222,21600784,4,0:28,Booker REBOUND (Off:5 Def:3),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250223,21600784,4,0:07,MISS Bogdanovic 27' 3PT Step Back Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250224,21600784,4,0:05,nan,Beal REBOUND (Off:0 Def:4),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250225,21600784,4,0:00,nan,Wall Offensive Charge Foul (P2.PN) (K.Lane),nan,202322,John Wall,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Foul ,Offensive Charge
+250226,21600784,4,0:00,nan,Wall Foul Turnover (P2.T11),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+250227,21600784,4,0:00,NETS Timeout: Regular (Full 5 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250228,21600784,4,0:00,nan,SUB: Smith FOR Beal,nan,203078,Bradley Beal,WAS,201160,Jason Smith,WAS,0,nan,nan,Substitution ,nan
+250229,21600784,4,0:00,MISS Booker 13' Jump Shot,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250230,21600784,4,0:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250231,21600784,4,0:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+250232,21600784,5,5:00,nan,nan,100 - 100,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+250233,21600784,5,5:00,Jump Ball Booker vs. Gortat: Tip to Porter Jr.,nan,nan,202344,Trevor Booker,BKN,101162,Marcin Gortat,WAS,203490,Otto Porter Jr.,WAS,Jump Ball ,nan
+250234,21600784,5,4:40,nan,Wizards Timeout: Short (Reg.6 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250235,21600784,5,4:36,nan,MISS Wall 13' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250236,21600784,5,4:35,Hollis-Jefferson REBOUND (Off:2 Def:8),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250237,21600784,5,4:27,MISS Bogdanovic 1' Driving Layup,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250238,21600784,5,4:26,Hollis-Jefferson REBOUND (Off:3 Def:8),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250239,21600784,5,4:25,Hollis-Jefferson 3' Tip Layup Shot (13 PTS),nan,100 - 102,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250240,21600784,5,4:11,nan,MISS Beal 16' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250241,21600784,5,4:10,nan,Beal REBOUND (Off:1 Def:4),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250242,21600784,5,4:08,Hollis-Jefferson P.FOUL (P2.T1) (S.Wright),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Personal
+250243,21600784,5,3:57,nan,Beal 27' 3PT Jump Shot (29 PTS),103 - 102,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250244,21600784,5,3:43,MISS LeVert 24' 3PT Jump Shot,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250245,21600784,5,3:42,nan,Gortat REBOUND (Off:3 Def:11),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250246,21600784,5,3:28,nan,MISS Porter Jr.  3PT Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250247,21600784,5,3:27,Booker REBOUND (Off:5 Def:4),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250248,21600784,5,3:23,MISS Booker 1' Running Layup,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250249,21600784,5,3:22,Booker REBOUND (Off:6 Def:4),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250250,21600784,5,3:19,Booker 2' Layup (12 PTS),nan,103 - 104,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250251,21600784,5,2:56,nan,MISS Beal 2' Driving Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250252,21600784,5,2:55,Bogdanovic REBOUND (Off:2 Def:3),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250253,21600784,5,2:48,Booker Lost Ball Turnover (P1.T17),Porter Jr. STEAL (1 STL),nan,202344,Trevor Booker,BKN,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Lost Ball
+250254,21600784,5,2:44,LeVert BLOCK (1 BLK),MISS Beal 2' Driving Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,1627747,Caris LeVert,BKN,Missed Shot ,nan
+250255,21600784,5,2:43,nan,Porter Jr. REBOUND (Off:3 Def:4),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250256,21600784,5,2:42,nan,Porter Jr. 1' Putback Layup (16 PTS),105 - 104,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250257,21600784,5,2:25,nan,Oubre Jr. P.FOUL (P4.T1) (H.Workman),nan,1626162,Kelly Oubre Jr.,WAS,200751,Randy Foye,BKN,0,nan,nan,Foul ,Personal
+250258,21600784,5,2:17,Booker 2' Driving Layup (14 PTS) (Hollis-Jefferson 2 AST),nan,105 - 106,202344,Trevor Booker,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Made Shot ,nan
+250259,21600784,5,1:53,nan,MISS Wall 8' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250260,21600784,5,1:52,nan,Porter Jr. REBOUND (Off:4 Def:4),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250261,21600784,5,1:51,nan,Porter Jr. 3' Layup (18 PTS),107 - 106,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+250262,21600784,5,1:33,nan,Gortat S.FOUL (P5.T2) (S.Wright),nan,101162,Marcin Gortat,WAS,1627747,Caris LeVert,BKN,0,nan,nan,Foul ,Shooting
+250263,21600784,5,1:33,MISS LeVert Free Throw 1 of 2,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250264,21600784,5,1:33,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+250265,21600784,5,1:33,LeVert Free Throw 2 of 2 (9 PTS),nan,107 - 107,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250266,21600784,5,1:23,nan,MISS Beal 3' Driving Reverse Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250267,21600784,5,1:22,nan,Porter Jr. REBOUND (Off:5 Def:4),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250268,21600784,5,1:21,Bogdanovic P.FOUL (P3.T2) (S.Wright),nan,nan,202711,Bojan Bogdanovic,BKN,203490,Otto Porter Jr.,WAS,0,nan,nan,Foul ,Personal
+250269,21600784,5,1:21,nan,Porter Jr. Free Throw 1 of 2 (19 PTS),108 - 107,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250270,21600784,5,1:21,nan,Porter Jr. Free Throw 2 of 2 (20 PTS),109 - 107,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250271,21600784,5,1:21,NETS Timeout: Short (Full 5 Short 3),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250272,21600784,5,1:16,MISS LeVert 2' Driving Layup,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250273,21600784,5,1:15,nan,Wall REBOUND (Off:1 Def:5),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250274,21600784,5,1:00,Bogdanovic S.FOUL (P4.PN) (K.Lane),nan,nan,202711,Bojan Bogdanovic,BKN,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+250275,21600784,5,1:00,nan,Wall Free Throw 1 of 2 (21 PTS),110 - 107,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250276,21600784,5,1:00,nan,Wall Free Throw 2 of 2 (22 PTS),111 - 107,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250277,21600784,5,1:00,NETS Timeout: Regular (Full 6 Short 3),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250278,21600784,5,1:00,SUB: Hamilton FOR Hollis-Jefferson,nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+250279,21600784,5,0:51,Bogdanovic  Driving Dunk (21 PTS),nan,111 - 109,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250280,21600784,5,0:28,nan,MISS Beal 21' Fadeaway Jumper,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250281,21600784,5,0:24,nan,Beal REBOUND (Off:2 Def:4),nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250282,21600784,5,0:18,LeVert P.FOUL (P1.PN) (S.Wright),nan,nan,1627747,Caris LeVert,BKN,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Personal
+250283,21600784,5,0:18,nan,Beal Free Throw 1 of 2 (30 PTS),112 - 109,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250284,21600784,5,0:18,nan,Beal Free Throw 2 of 2 (31 PTS),113 - 109,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250285,21600784,5,0:18,NETS Timeout: Short (Full 6 Short 4),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250286,21600784,5,0:12,MISS Bogdanovic 25' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250287,21600784,5,0:09,nan,Porter Jr. REBOUND (Off:5 Def:5),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250288,21600784,5,0:07,Foye STEAL (1 STL),Porter Jr. Bad Pass Turnover (P1.T12),nan,203490,Otto Porter Jr.,WAS,200751,Randy Foye,BKN,0,nan,nan,Turnover ,Bad Pass
+250289,21600784,5,0:07,nan,Beal P.FOUL (P4.PN) (K.Lane),nan,203078,Bradley Beal,WAS,200751,Randy Foye,BKN,0,nan,nan,Foul ,Personal
+250290,21600784,5,0:07,MISS Foye Free Throw 1 of 2,nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250291,21600784,5,0:07,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+250292,21600784,5,0:07,SUB: Hollis-Jefferson FOR Hamilton,nan,nan,203120,Justin Hamilton,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+250293,21600784,5,0:07,nan,SUB: Smith FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,201160,Jason Smith,WAS,0,nan,nan,Substitution ,nan
+250294,21600784,5,0:07,Foye Free Throw 2 of 2 (3 PTS),nan,113 - 110,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250295,21600784,5,0:07,nan,Wizards Timeout: Regular (Reg.7 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250296,21600784,5,0:07,nan,SUB: Oubre Jr. FOR Smith,nan,201160,Jason Smith,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+250297,21600784,5,0:06,nan,Wall Step Out of Bounds Turnover (P3.T13),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+250298,21600784,5,0:06,nan,nan,nan,633,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+250299,21600784,5,0:06,nan,SUB: Smith FOR Gortat,nan,101162,Marcin Gortat,WAS,201160,Jason Smith,WAS,0,nan,nan,Substitution ,nan
+250300,21600784,5,0:06,SUB: Hamilton FOR Hollis-Jefferson,nan,nan,1626178,Rondae Hollis-Jefferson,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+250301,21600784,5,0:05,MISS Bogdanovic 24' 3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250302,21600784,5,0:02,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250303,21600784,5,0:02,Hamilton L.B.FOUL (P3.PN) (H.Workman),nan,nan,203120,Justin Hamilton,BKN,202322,John Wall,WAS,0,nan,nan,Foul ,Loose Ball
+250304,21600784,5,0:02,nan,nan,nan,638,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+250305,21600784,5,0:02,nan,MISS Wall Free Throw 1 of 2,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250306,21600784,5,0:02,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+250307,21600784,5,0:02,nan,Wall Free Throw 2 of 2 (23 PTS),114 - 110,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250308,21600784,5,0:00,MISS Foye 45' 3PT Jump Shot,nan,nan,200751,Randy Foye,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250309,21600784,5,0:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250310,21600784,5,0:00,nan,nan,114 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

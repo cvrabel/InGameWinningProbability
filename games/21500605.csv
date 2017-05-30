@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+75304,21500605,4,12:00,nan,nan,74 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+75305,21500605,4,11:47,nan,MISS Barbosa 2' Layup,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75306,21500605,4,11:46,Blake REBOUND (Off:0 Def:1),nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75307,21500605,4,11:37,Marc Morris 27' 3PT Jump Shot (16 PTS) (Blake 1 AST),nan,74 - 88,202694,Marcus Morris,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+75308,21500605,4,11:23,Baynes BLOCK (2 BLK),MISS Barbosa 4' Jump Shot,nan,2571,Leandro Barbosa,GSW,0,nan,nan,203382,Aron Baynes,DET,Missed Shot ,nan
+75309,21500605,4,11:23,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75310,21500605,4,11:23,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+75311,21500605,4,11:11,nan,Warriors Turnover: Shot Clock (T#12),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+75312,21500605,4,10:57,MISS Johnson 16' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75313,21500605,4,10:57,nan,Iguodala REBOUND (Off:0 Def:4),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75314,21500605,4,10:49,nan,MISS Iguodala 8' Jump Bank Shot,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75315,21500605,4,10:48,Johnson REBOUND (Off:0 Def:2),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75316,21500605,4,10:32,Johnson 25' 3PT Jump Shot (5 PTS) (Marc Morris 3 AST),nan,74 - 91,1626169,Stanley Johnson,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+75317,21500605,4,10:16,nan,MISS Livingston 16' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75318,21500605,4,10:16,Blake REBOUND (Off:0 Def:2),nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75319,21500605,4,10:11,Blake Bad Pass Turnover (P1.T8),Livingston STEAL (1 STL),nan,2581,Steve Blake,DET,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Bad Pass
+75320,21500605,4,10:02,Johnson BLOCK (1 BLK),MISS Barnes 4' Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,1626169,Stanley Johnson,DET,Missed Shot ,nan
+75321,21500605,4,10:01,Marc Morris REBOUND (Off:1 Def:7),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75322,21500605,4,9:59,Drummond  Alley Oop Dunk (10 PTS) (Marc Morris 4 AST),nan,74 - 93,203083,Andre Drummond,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+75323,21500605,4,9:59,nan,nan,nan,204012,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+75324,21500605,4,9:59,nan,Warriors Timeout: Regular (Reg.3 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75325,21500605,4,9:59,nan,SUB: Thompson FOR Barbosa,nan,2571,Leandro Barbosa,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+75326,21500605,4,9:59,Johnson Free Throw Technical (6 PTS),nan,74 - 94,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+75327,21500605,4,9:46,Johnson S.FOUL (P3.T1) (C.Kirkland),nan,nan,1626169,Stanley Johnson,DET,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+75328,21500605,4,9:46,nan,Thompson Free Throw 1 of 2 (18 PTS),75 - 94,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75329,21500605,4,9:46,nan,Thompson Free Throw 2 of 2 (19 PTS),76 - 94,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75330,21500605,4,9:25,MISS Marc Morris 9' Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75331,21500605,4,9:25,nan,Iguodala REBOUND (Off:0 Def:5),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75332,21500605,4,9:08,nan,MISS Barnes 6' Running Jump Shot,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75333,21500605,4,9:06,Drummond REBOUND (Off:6 Def:10),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75334,21500605,4,8:50,Johnson 1' Driving Layup (8 PTS),nan,76 - 96,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75335,21500605,4,8:37,nan,MISS Livingston 13' Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75336,21500605,4,8:37,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75337,21500605,4,8:37,Blake Violation:Kicked Ball (D.Taylor),nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+75338,21500605,4,8:37,nan,SUB: Curry FOR Barnes,nan,203084,Harrison Barnes,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+75339,21500605,4,8:37,nan,SUB: Green FOR Ezeli,nan,203105,Festus Ezeli,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+75340,21500605,4,8:37,SUB: Caldwell-Pope FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+75341,21500605,4,8:30,Marc Morris P.FOUL (P1.T2) (D.Taylor),nan,nan,202694,Marcus Morris,DET,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal
+75342,21500605,4,8:30,nan,MISS Thompson 3' Layup,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75343,21500605,4,8:28,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75344,21500605,4,8:28,nan,Green Offensive Goaltending Turnover (P2.T13),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Turnover ,Offensive Goaltending
+75345,21500605,4,8:28,PISTONS Violation: Delay of game Violation,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+75346,21500605,4,8:00,Blake 26' 3PT Jump Shot (6 PTS),nan,76 - 99,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75347,21500605,4,7:53,Blake P.FOUL (P1.T3) (D.Taylor),nan,nan,2581,Steve Blake,DET,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal
+75348,21500605,4,7:49,Caldwell-Pope P.FOUL (P3.T4) (C.Kirkland),nan,nan,203484,Kentavious Caldwell-Pope,DET,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+75349,21500605,4,7:40,nan,MISS Green  Layup,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75350,21500605,4,7:39,Caldwell-Pope REBOUND (Off:0 Def:4),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75351,21500605,4,7:26,MISS Tolliver 24' 3PT Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75352,21500605,4,7:24,nan,Curry REBOUND (Off:1 Def:6),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75353,21500605,4,7:22,nan,MISS Iguodala  Layup,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75354,21500605,4,7:22,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75355,21500605,4,7:11,MISS Drummond 4' Jump Shot,Green BLOCK (2 BLK),nan,203083,Andre Drummond,DET,0,nan,nan,203110,Draymond Green,GSW,Missed Shot ,nan
+75356,21500605,4,7:11,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75357,21500605,4,7:11,SUB: Jackson FOR Blake,nan,nan,2581,Steve Blake,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+75358,21500605,4,7:04,Jackson 1' Alley Oop Layup (14 PTS) (Marc Morris 5 AST),nan,76 - 101,202704,Reggie Jackson,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+75359,21500605,4,6:52,nan,MISS Livingston  Reverse Layup,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75360,21500605,4,6:50,nan,Livingston REBOUND (Off:1 Def:1),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75361,21500605,4,6:47,nan,Livingston  Tip Layup Shot (5 PTS),78 - 101,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+75362,21500605,4,6:38,Drummond 3 Second Violation Turnover (P3.T9),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+75363,21500605,4,6:31,nan,Curry 27' 3PT Jump Shot (34 PTS),81 - 101,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+75364,21500605,4,6:10,Drummond 7' Hook Shot (12 PTS) (Marc Morris 6 AST),nan,81 - 103,203083,Andre Drummond,DET,202694,Marcus Morris,DET,0,nan,nan,Made Shot ,nan
+75365,21500605,4,6:01,nan,Curry 16' Step Back Jump Shot (36 PTS),83 - 103,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+75366,21500605,4,6:01,PISTONS Timeout: Regular (Full 5 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75367,21500605,4,6:01,nan,SUB: Rush FOR Iguodala,nan,2738,Andre Iguodala,GSW,201575,Brandon Rush,GSW,0,nan,nan,Substitution ,nan
+75368,21500605,4,5:48,Jackson 15' Pullup Jump Shot (16 PTS),nan,83 - 105,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75369,21500605,4,5:31,nan,Thompson 14' Jump Shot (21 PTS) (Curry 5 AST),85 - 105,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+75370,21500605,4,5:09,Drummond Bad Pass Turnover (P4.T10),Curry STEAL (2 STL),nan,203083,Andre Drummond,DET,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+75371,21500605,4,5:07,nan,SUB: Barnes FOR Livingston,nan,2733,Shaun Livingston,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Substitution ,nan
+75372,21500605,4,5:01,nan,Thompson 28' 3PT Jump Shot (24 PTS) (Green 9 AST),88 - 105,202691,Klay Thompson,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+75373,21500605,4,4:41,MISS Jackson 14' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75374,21500605,4,4:41,nan,Thompson REBOUND (Off:1 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75375,21500605,4,4:32,nan,MISS Thompson 27' 3PT Jump Shot,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75376,21500605,4,4:32,Drummond REBOUND (Off:6 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75377,21500605,4,4:19,MISS Jackson  Layup,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75378,21500605,4,4:17,Drummond REBOUND (Off:7 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75379,21500605,4,4:13,Drummond 1' Tip Layup Shot (14 PTS),nan,88 - 107,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75380,21500605,4,4:02,Drummond BLOCK (3 BLK),MISS Green 1' Layup,nan,203110,Draymond Green,GSW,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+75381,21500605,4,4:00,Drummond REBOUND (Off:7 Def:12),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75382,21500605,4,3:53,MISS Tolliver 24' 3PT Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75383,21500605,4,3:52,nan,Thompson REBOUND (Off:1 Def:5),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75384,21500605,4,3:44,Drummond S.FOUL (P4.PN) (C.Kirkland),nan,nan,203083,Andre Drummond,DET,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Shooting
+75385,21500605,4,3:44,nan,Curry Free Throw 1 of 2 (37 PTS),89 - 107,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75386,21500605,4,3:44,nan,SUB: Ezeli FOR Green,nan,203110,Draymond Green,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Substitution ,nan
+75387,21500605,4,3:44,nan,SUB: Barbosa FOR Thompson,nan,202691,Klay Thompson,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Substitution ,nan
+75388,21500605,4,3:44,nan,Curry Free Throw 2 of 2 (38 PTS),90 - 107,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75389,21500605,4,3:28,MISS Marc Morris 24' 3PT Jump Shot,nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75390,21500605,4,3:28,Tolliver REBOUND (Off:2 Def:1),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75391,21500605,4,3:23,MISS Drummond 5' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75392,21500605,4,3:21,nan,Ezeli REBOUND (Off:3 Def:4),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75393,21500605,4,3:15,nan,MISS Curry 25' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75394,21500605,4,3:14,Drummond REBOUND (Off:7 Def:13),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75395,21500605,4,2:49,Tolliver  Driving Dunk (5 PTS),nan,90 - 109,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75396,21500605,4,2:49,nan,Warriors Timeout: Regular (Reg.4 Short 1),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+75397,21500605,4,2:49,nan,SUB: Clark FOR Curry,nan,201939,Stephen Curry,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+75398,21500605,4,2:49,SUB: Johnson FOR Tolliver,nan,nan,201229,Anthony Tolliver,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+75399,21500605,4,2:25,nan,Barnes 8' Fadeaway Jumper (5 PTS),92 - 109,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+75400,21500605,4,1:59,Jackson 9' Floating Jump Shot (18 PTS),nan,92 - 111,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75401,21500605,4,1:47,Drummond S.FOUL (P5.PN) (B.Forte),nan,nan,203083,Andre Drummond,DET,203105,Festus Ezeli,GSW,0,nan,nan,Foul ,Shooting
+75402,21500605,4,1:47,nan,MISS Ezeli Free Throw 1 of 2,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+75403,21500605,4,1:47,nan,Warriors Rebound,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+75404,21500605,4,1:47,nan,Ezeli Free Throw 2 of 2 (10 PTS),93 - 111,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+75405,21500605,4,1:27,Jackson 14' Pullup Jump Shot (20 PTS),nan,93 - 113,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+75406,21500605,4,1:18,nan,MISS Clark 10' Jump Bank Shot,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75407,21500605,4,1:16,nan,Ezeli REBOUND (Off:4 Def:4),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75408,21500605,4,1:12,nan,MISS Ezeli  Dunk,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75409,21500605,4,1:10,Caldwell-Pope REBOUND (Off:0 Def:5),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75410,21500605,4,0:52,MISS Jackson 24' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75411,21500605,4,0:52,nan,Ezeli REBOUND (Off:4 Def:5),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75412,21500605,4,0:47,nan,Barbosa  Driving Layup (2 PTS) (Barnes 2 AST),95 - 113,2571,Leandro Barbosa,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+75413,21500605,4,0:23,MISS Drummond  Dunk,Ezeli BLOCK (5 BLK),nan,203083,Andre Drummond,DET,0,nan,nan,203105,Festus Ezeli,GSW,Missed Shot ,nan
+75414,21500605,4,0:23,Jackson REBOUND (Off:2 Def:1),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75415,21500605,4,0:23,PISTONS Turnover: Shot Clock (T#11),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+75416,21500605,4,0:16,nan,MISS Barbosa 24' 3PT Jump Shot,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75417,21500605,4,0:15,nan,Ezeli REBOUND (Off:5 Def:5),nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75418,21500605,4,0:14,nan,MISS Ezeli 1' Tip Layup Shot,nan,203105,Festus Ezeli,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+75419,21500605,4,0:13,Drummond REBOUND (Off:7 Def:14),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+75420,21500605,4,0:00,nan,nan,95 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+73518,21500590,4,12:00,nan,nan,73 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+73519,21500590,4,11:48,nan,Cavaliers Timeout: Regular (Reg.4 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+73520,21500590,4,11:41,nan,Irving  Driving Layup (13 PTS),75 - 72,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73521,21500590,4,11:22,West 13' Step Back Jump Shot (11 PTS),nan,75 - 74,2561,David West,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73522,21500590,4,11:04,nan,MISS Irving 24' 3PT Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73523,21500590,4,11:03,Anderson REBOUND (Off:0 Def:1),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73524,21500590,4,10:53,West 19' Jump Shot (13 PTS) (Anderson 1 AST),nan,75 - 76,2561,David West,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+73525,21500590,4,10:31,nan,MISS Dellavedova 25' 3PT Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73526,21500590,4,10:30,Anderson REBOUND (Off:0 Def:2),nan,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73527,21500590,4,10:30,nan,Mozgov P.FOUL (P3.T1) (R.Garretson),nan,202389,Timofey Mozgov,CLE,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Personal
+73528,21500590,4,10:21,nan,Mozgov Violation:Defensive Goaltending (R.Garretson),nan,202389,Timofey Mozgov,CLE,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+73529,21500590,4,10:21,Parker 2' Driving Finger Roll Layup (22 PTS),nan,75 - 78,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73530,21500590,4,10:11,nan,Shumpert OFF.Foul (P1) (C.Kirkland),nan,202697,Iman Shumpert,CLE,203937,Kyle Anderson,SAS,0,nan,nan,Foul ,Offensive
+73531,21500590,4,10:11,nan,Shumpert Foul Turnover (P2.T15),nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+73532,21500590,4,9:54,MISS Parker 27' 3PT Jump Shot,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73533,21500590,4,9:53,nan,Irving REBOUND (Off:0 Def:2),nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73534,21500590,4,9:48,Parker STEAL (3 STL),Irving Lost Ball Turnover (P3.T16),nan,202681,Kyrie Irving,CLE,2225,Tony Parker,SAS,0,nan,nan,Turnover ,Lost Ball
+73535,21500590,4,9:43,nan,Mozgov S.FOUL (P4.T2) (B.Barnaky),nan,202389,Timofey Mozgov,CLE,201980,Danny Green,SAS,0,nan,nan,Foul ,Shooting
+73536,21500590,4,9:43,MISS Green Free Throw 1 of 3,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+73537,21500590,4,9:43,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+73538,21500590,4,9:43,Green Free Throw 2 of 3 (4 PTS),nan,75 - 79,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+73539,21500590,4,9:43,nan,SUB: Thompson FOR Mozgov,nan,202389,Timofey Mozgov,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+73540,21500590,4,9:43,Green Free Throw 3 of 3 (5 PTS),nan,75 - 80,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+73541,21500590,4,9:24,SUB: Mills FOR Parker,nan,nan,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+73542,21500590,4,9:24,SUB: Duncan FOR Anderson,nan,nan,203937,Kyle Anderson,SAS,1495,Tim Duncan,SAS,0,nan,nan,Substitution ,nan
+73543,21500590,4,9:24,nan,SUB: Love FOR Jefferson,nan,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+73544,21500590,4,9:24,SUB: Leonard FOR Green,nan,nan,201980,Danny Green,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+73545,21500590,4,9:24,nan,SUB: James FOR Irving,nan,202681,Kyrie Irving,CLE,2544,LeBron James,CLE,0,nan,nan,Substitution ,nan
+73546,21500590,4,9:19,nan,MISS Dellavedova 10' Turnaround Jump Shot,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73547,21500590,4,9:18,Duncan REBOUND (Off:2 Def:3),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73548,21500590,4,9:11,Mills 25' 3PT Pullup Jump Shot (6 PTS),nan,75 - 83,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73549,21500590,4,8:48,nan,MISS Love 19' Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73550,21500590,4,8:46,Mills REBOUND (Off:0 Def:1),nan,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73551,21500590,4,8:40,MISS Ginobili 24' 3PT Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73552,21500590,4,8:39,Leonard REBOUND (Off:1 Def:7),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73553,21500590,4,8:20,nan,Dellavedova P.FOUL (P3.T3) (B.Barnaky),nan,203521,Matthew Dellavedova,CLE,201988,Patty Mills,SAS,0,nan,nan,Foul ,Personal
+73554,21500590,4,8:12,Duncan Poss Lost Ball Turnover (P1.T8),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+73555,21500590,4,7:52,nan,MISS James 26' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73556,21500590,4,7:50,Ginobili REBOUND (Off:0 Def:3),nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73557,21500590,4,7:44,MISS Ginobili 25' 3PT Jump Shot,nan,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73558,21500590,4,7:43,nan,James REBOUND (Off:1 Def:4),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73559,21500590,4,7:34,nan,MISS James 20' Turnaround Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73560,21500590,4,7:33,West REBOUND (Off:3 Def:2),nan,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73561,21500590,4,7:30,SPURS Timeout: Regular (Full 4 Short 0),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+73562,21500590,4,7:30,nan,SUB: Smith FOR Shumpert,nan,202697,Iman Shumpert,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+73563,21500590,4,7:20,Leonard  Driving Finger Roll Layup (18 PTS) (Mills 1 AST),nan,75 - 85,202695,Kawhi Leonard,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+73564,21500590,4,7:03,Duncan S.FOUL (P3.T1) (B.Barnaky),nan,nan,1495,Tim Duncan,SAS,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+73565,21500590,4,7:03,nan,James Free Throw 1 of 2 (17 PTS),76 - 85,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+73566,21500590,4,7:03,nan,James Free Throw 2 of 2 (18 PTS),77 - 85,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+73567,21500590,4,6:47,Duncan 7' Floating Jump Shot (7 PTS) (Mills 2 AST),nan,77 - 87,1495,Tim Duncan,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+73568,21500590,4,6:23,Duncan STEAL (1 STL),Dellavedova Lost Ball Turnover (P2.T17),nan,203521,Matthew Dellavedova,CLE,1495,Tim Duncan,SAS,0,nan,nan,Turnover ,Lost Ball
+73569,21500590,4,6:16,SUB: Parker FOR Mills,nan,nan,201988,Patty Mills,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+73570,21500590,4,6:16,SPURS Timeout: Short (Full 4 Short 1),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+73571,21500590,4,6:16,nan,SUB: Irving FOR Dellavedova,nan,203521,Matthew Dellavedova,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Substitution ,nan
+73572,21500590,4,6:16,SUB: Aldridge FOR West,nan,nan,2561,David West,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+73573,21500590,4,6:10,MISS Duncan 16' Jump Shot,nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73574,21500590,4,6:10,nan,James REBOUND (Off:1 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73575,21500590,4,5:56,nan,MISS Love 24' 3PT Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73576,21500590,4,5:55,Leonard REBOUND (Off:1 Def:8),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73577,21500590,4,5:43,Leonard Bad Pass Turnover (P4.T9),Irving STEAL (1 STL),nan,202695,Kawhi Leonard,SAS,202681,Kyrie Irving,CLE,0,nan,nan,Turnover ,Bad Pass
+73578,21500590,4,5:42,SUB: Green FOR Ginobili,nan,nan,1938,Manu Ginobili,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+73579,21500590,4,5:28,nan,Thompson 6' Hook Shot (14 PTS) (James 4 AST),79 - 87,202684,Tristan Thompson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+73580,21500590,4,5:11,MISS Leonard 15' Jump Shot,nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73581,21500590,4,5:11,nan,Smith REBOUND (Off:0 Def:1),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73582,21500590,4,4:53,nan,MISS Irving 24' 3PT Step Back Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73583,21500590,4,4:52,Parker REBOUND (Off:0 Def:4),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73584,21500590,4,4:40,MISS Green  3PT Jump Shot,nan,nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73585,21500590,4,4:37,Leonard REBOUND (Off:2 Def:8),nan,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73586,21500590,4,4:36,Leonard  Tip Dunk Shot (20 PTS),nan,79 - 89,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73587,21500590,4,4:28,nan,MISS Irving 18' Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73588,21500590,4,4:27,Duncan REBOUND (Off:2 Def:4),nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73589,21500590,4,4:16,Parker Traveling Turnover (P1.T10),nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Turnover ,Traveling
+73590,21500590,4,4:02,nan,James 1' Driving Finger Roll Layup (20 PTS),81 - 89,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73591,21500590,4,3:37,Aldridge 1' Cutting Layup Shot (4 PTS) (Duncan 2 AST),nan,81 - 91,200746,LaMarcus Aldridge,SAS,1495,Tim Duncan,SAS,0,nan,nan,Made Shot ,nan
+73592,21500590,4,3:23,nan,Love 26' 3PT Jump Shot (10 PTS) (Irving 4 AST),84 - 91,201567,Kevin Love,CLE,202681,Kyrie Irving,CLE,0,nan,nan,Made Shot ,nan
+73593,21500590,4,2:58,Parker 17' Pullup Jump Shot (24 PTS),nan,84 - 93,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73594,21500590,4,2:57,nan,Cavaliers Timeout: Regular (Reg.5 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+73595,21500590,4,2:57,SUB: Ginobili FOR Green,nan,nan,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+73596,21500590,4,2:46,nan,Love OFF.Foul (P3) (C.Kirkland),nan,201567,Kevin Love,CLE,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Offensive
+73597,21500590,4,2:46,nan,Love Foul Turnover (P2.T18),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+73598,21500590,4,2:34,MISS Ginobili 1' Cutting Finger Roll Layup Shot,Smith BLOCK (1 BLK),nan,1938,Manu Ginobili,SAS,0,nan,nan,2747,JR Smith,CLE,Missed Shot ,nan
+73599,21500590,4,2:33,nan,Thompson REBOUND (Off:2 Def:10),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73600,21500590,4,2:25,nan,Smith 11' Floating Jump Shot (17 PTS),86 - 93,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73601,21500590,4,2:07,Aldridge Lost Ball Turnover (P1.T11),Thompson STEAL (1 STL),nan,200746,LaMarcus Aldridge,SAS,202684,Tristan Thompson,CLE,0,nan,nan,Turnover ,Lost Ball
+73602,21500590,4,1:50,nan,MISS Thompson 6' Hook Shot,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73603,21500590,4,1:49,Aldridge REBOUND (Off:1 Def:6),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73604,21500590,4,1:25,MISS Duncan 26' 3PT Fadeaway Bank Shot,nan,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73605,21500590,4,1:25,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73606,21500590,4,1:25,SPURS Turnover: Shot Clock (T#12),nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+73607,21500590,4,1:16,nan,MISS Irving 1' Driving Finger Roll Layup,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73608,21500590,4,1:16,nan,Thompson REBOUND (Off:3 Def:10),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73609,21500590,4,1:11,nan,Thompson  Tip Layup Shot (16 PTS),88 - 93,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73610,21500590,4,0:55,Duncan 13' Turnaround Bank Shot (9 PTS),nan,88 - 95,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+73611,21500590,4,0:55,nan,Cavaliers Timeout: Regular (Reg.6 Short 0),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+73612,21500590,4,0:48,nan,Thompson  Cutting Dunk Shot (18 PTS) (James 5 AST),90 - 95,202684,Tristan Thompson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+73613,21500590,4,0:28,Ginobili 2' Driving Finger Roll Layup (10 PTS) (Duncan 3 AST),nan,90 - 97,1938,Manu Ginobili,SAS,1495,Tim Duncan,SAS,0,nan,nan,Made Shot ,nan
+73614,21500590,4,0:22,Leonard P.FOUL (P1.T2) (B.Barnaky),nan,nan,202695,Kawhi Leonard,SAS,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+73615,21500590,4,0:22,SUB: Green FOR Duncan,nan,nan,1495,Tim Duncan,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+73616,21500590,4,0:17,nan,Irving 25' 3PT Pullup Jump Shot (16 PTS),93 - 97,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73617,21500590,4,0:12,nan,James Personal Take Foul (P4.T4) (C.Kirkland),nan,2544,LeBron James,CLE,2225,Tony Parker,SAS,0,nan,nan,Foul ,Personal Take
+73618,21500590,4,0:12,nan,Irving Personal Take Foul (P1.PN) (C.Kirkland),nan,202681,Kyrie Irving,CLE,2225,Tony Parker,SAS,0,nan,nan,Foul ,Personal Take
+73619,21500590,4,0:12,MISS Parker Free Throw 1 of 2,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+73620,21500590,4,0:12,SPURS Rebound,nan,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+73621,21500590,4,0:12,MISS Parker Free Throw 2 of 2,nan,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+73622,21500590,4,0:10,Aldridge REBOUND (Off:2 Def:6),nan,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73623,21500590,4,0:09,nan,Thompson Personal Take Foul (P3.PN) (R.Garretson),nan,202684,Tristan Thompson,CLE,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Personal Take
+73624,21500590,4,0:09,Aldridge Free Throw 1 of 2 (5 PTS),nan,93 - 98,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+73625,21500590,4,0:09,SUB: Simmons FOR Green,nan,nan,201980,Danny Green,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+73626,21500590,4,0:09,Aldridge Free Throw 2 of 2 (6 PTS),nan,93 - 99,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+73627,21500590,4,0:09,nan,Cavaliers Timeout: Short (Reg.6 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+73628,21500590,4,0:09,SUB: Duncan FOR Aldridge,nan,nan,200746,LaMarcus Aldridge,SAS,1495,Tim Duncan,SAS,0,nan,nan,Substitution ,nan
+73629,21500590,4,0:06,Ginobili BLOCK (1 BLK),MISS Irving 24' 3PT Pullup Jump Shot,nan,202681,Kyrie Irving,CLE,0,nan,nan,1938,Manu Ginobili,SAS,Missed Shot ,nan
+73630,21500590,4,0:06,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73631,21500590,4,0:06,nan,nan,nan,498,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+73632,21500590,4,0:04,nan,MISS Smith 27' 3PT Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73633,21500590,4,0:03,nan,Thompson REBOUND (Off:4 Def:10),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73634,21500590,4,0:00,nan,MISS Thompson 2' Tip Layup Shot,nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+73635,21500590,4,0:00,nan,James REBOUND (Off:2 Def:5),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+73636,21500590,4,0:00,nan,James 1' Tip Layup Shot (22 PTS),95 - 99,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+73637,21500590,4,0:00,nan,nan,95 - 99,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

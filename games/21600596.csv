@@ -1,0 +1,116 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+226745,21600596,4,12:00,nan,nan,68 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+226746,21600596,4,11:38,nan,MISS Payne 25' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226747,21600596,4,11:37,nan,Kanter REBOUND (Off:6 Def:2),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226748,21600596,4,11:35,nan,Kanter Offensive Charge Foul (P3.T1) (D.Guthrie),nan,202683,Enes Kanter,OKC,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Offensive Charge
+226749,21600596,4,11:35,nan,Kanter Foul Turnover (P2.T14),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+226750,21600596,4,11:21,nan,Payne P.FOUL (P1.T2) (E.Lewis),nan,1626166,Cameron Payne,OKC,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Personal
+226751,21600596,4,11:08,Bjelica 6' Driving Bank Shot (7 PTS),nan,68 - 76,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+226752,21600596,4,11:08,nan,Grant S.FOUL (P1.T3) (D.Guthrie),nan,203924,Jerami Grant,OKC,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Shooting
+226753,21600596,4,11:08,Bjelica Free Throw 1 of 1 (8 PTS),nan,68 - 77,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+226754,21600596,4,10:58,Bjelica P.FOUL (P4.T1) (E.Lewis),nan,nan,202357,Nemanja Bjelica,MIN,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+226755,21600596,4,10:47,nan,MISS Oladipo 17' Jump Shot,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226756,21600596,4,10:46,Dieng REBOUND (Off:0 Def:3),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226757,21600596,4,10:30,MISS Bjelica 25' 3PT Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226758,21600596,4,10:29,nan,Payne REBOUND (Off:0 Def:3),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226759,21600596,4,10:23,Rush STEAL (2 STL),Payne Bad Pass Turnover (P1.T15),nan,1626166,Cameron Payne,OKC,201575,Brandon Rush,MIN,0,nan,nan,Turnover ,Bad Pass
+226760,21600596,4,10:05,Rush 24' 3PT Jump Shot (9 PTS) (Dieng 2 AST),nan,68 - 80,201575,Brandon Rush,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Made Shot ,nan
+226761,21600596,4,10:05,nan,Thunder Timeout: Regular (Reg.4 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+226762,21600596,4,9:50,Dunn STEAL (1 STL),Oladipo Lost Ball Turnover (P1.T16),nan,203506,Victor Oladipo,OKC,1627739,Kris Dunn,MIN,0,nan,nan,Turnover ,Lost Ball
+226763,21600596,4,9:34,MISS Rush 8' Floating Jump Shot,nan,nan,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226764,21600596,4,9:32,Rush REBOUND (Off:2 Def:1),nan,nan,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226765,21600596,4,9:32,Rush 1' Tip Layup Shot (11 PTS),nan,68 - 82,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+226766,21600596,4,9:15,nan,Kanter  Layup (17 PTS) (Lauvergne 1 AST),70 - 82,202683,Enes Kanter,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Made Shot ,nan
+226767,21600596,4,8:58,MISS Dunn 19' Step Back Jump Shot,nan,nan,1627739,Kris Dunn,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226768,21600596,4,8:57,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226769,21600596,4,8:57,nan,Grant L.B.FOUL (P2.T4) (S.Anderson),nan,203924,Jerami Grant,OKC,203476,Gorgui Dieng,MIN,0,nan,nan,Foul ,Loose Ball
+226770,21600596,4,8:57,nan,SUB: Westbrook FOR Oladipo,nan,203506,Victor Oladipo,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+226771,21600596,4,8:44,MISS Dieng 15' Jump Shot,nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226772,21600596,4,8:42,Bjelica REBOUND (Off:1 Def:2),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226773,21600596,4,8:41,MISS Bjelica 1' Layup,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226774,21600596,4,8:40,nan,Westbrook REBOUND (Off:2 Def:7),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226775,21600596,4,8:27,nan,MISS Lauvergne 14' Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226776,21600596,4,8:27,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226777,21600596,4,8:27,Dieng L.B.FOUL (P5.T2) (E.Lewis),nan,nan,203476,Gorgui Dieng,MIN,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Loose Ball
+226778,21600596,4,8:27,SUB: Towns FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+226779,21600596,4,8:21,Dunn S.FOUL (P2.T3) (S.Anderson),nan,nan,1627739,Kris Dunn,MIN,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Shooting
+226780,21600596,4,8:21,nan,Kanter Free Throw 1 of 2 (18 PTS),71 - 82,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+226781,21600596,4,8:21,SUB: Rubio FOR Dunn,nan,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+226782,21600596,4,8:21,nan,Kanter Free Throw 2 of 2 (19 PTS),72 - 82,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+226783,21600596,4,8:09,Towns 19' Jump Shot (21 PTS) (Rubio 12 AST),nan,72 - 84,1626157,Karl-Anthony Towns,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+226784,21600596,4,7:56,nan,Kanter Traveling Turnover (P3.T17),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+226785,21600596,4,7:56,nan,SUB: Oladipo FOR Grant,nan,203924,Jerami Grant,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Substitution ,nan
+226786,21600596,4,7:56,nan,SUB: Adams FOR Lauvergne,nan,203530,Joffrey Lauvergne,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+226787,21600596,4,7:41,Towns 6' Floating Jump Shot (23 PTS),nan,72 - 86,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+226788,21600596,4,7:25,Bjelica P.FOUL (P5.T4) (D.Guthrie),nan,nan,202357,Nemanja Bjelica,MIN,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+226789,21600596,4,7:25,SUB: Dieng FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,203476,Gorgui Dieng,MIN,0,nan,nan,Substitution ,nan
+226790,21600596,4,7:14,nan,MISS Payne 25' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226791,21600596,4,7:12,nan,Westbrook REBOUND (Off:3 Def:7),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226792,21600596,4,7:09,nan,MISS Westbrook 26' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226793,21600596,4,7:08,Muhammad REBOUND (Off:0 Def:1),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226794,21600596,4,6:53,Rubio Bad Pass Turnover (P5.T13),Adams STEAL (2 STL),nan,201937,Ricky Rubio,MIN,203500,Steven Adams,OKC,0,nan,nan,Turnover ,Bad Pass
+226795,21600596,4,6:49,nan,Oladipo 1' Driving Layup (14 PTS) (Westbrook 11 AST),74 - 86,203506,Victor Oladipo,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+226796,21600596,4,6:28,MISS Towns  Driving Layup,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226797,21600596,4,6:27,nan,Payne REBOUND (Off:0 Def:4),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226798,21600596,4,6:24,Rubio S.FOUL (P3.PN) (S.Anderson),nan,nan,201937,Ricky Rubio,MIN,203506,Victor Oladipo,OKC,0,nan,nan,Foul ,Shooting
+226799,21600596,4,6:24,Towns T.FOUL (P4.PN) (S.Anderson),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Foul ,Technical
+226800,21600596,4,6:24,nan,Westbrook Free Throw Technical (19 PTS),75 - 86,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+226801,21600596,4,6:24,nan,Oladipo Free Throw 1 of 2 (15 PTS),76 - 86,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+226802,21600596,4,6:24,SUB: Wiggins FOR Muhammad,nan,nan,203498,Shabazz Muhammad,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+226803,21600596,4,6:24,nan,Oladipo Free Throw 2 of 2 (16 PTS),77 - 86,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+226804,21600596,4,6:14,MISS Rubio 8' Floating Jump Shot,nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226805,21600596,4,6:13,nan,Westbrook REBOUND (Off:3 Def:8),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226806,21600596,4,6:04,nan,MISS Westbrook  3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226807,21600596,4,6:03,Towns REBOUND (Off:0 Def:14),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226808,21600596,4,5:47,Wiggins 13' Turnaround Jump Shot (17 PTS) (Rubio 13 AST),nan,77 - 88,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+226809,21600596,4,5:27,Rubio STEAL (4 STL),Westbrook Lost Ball Turnover (P9.T18),nan,201566,Russell Westbrook,OKC,201937,Ricky Rubio,MIN,0,nan,nan,Turnover ,Lost Ball
+226810,21600596,4,5:09,Towns 5' Jump Shot (25 PTS),nan,77 - 90,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+226811,21600596,4,5:09,nan,Thunder Timeout: Regular (Reg.5 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+226812,21600596,4,5:09,nan,SUB: Roberson FOR Payne,nan,1626166,Cameron Payne,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+226813,21600596,4,4:57,nan,MISS Westbrook 1' Driving Layup,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226814,21600596,4,4:56,Towns REBOUND (Off:0 Def:15),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226815,21600596,4,4:39,MISS Wiggins 5' Turnaround Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226816,21600596,4,4:38,nan,Adams REBOUND (Off:3 Def:2),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226817,21600596,4,4:28,nan,MISS Westbrook 24' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226818,21600596,4,4:27,Rubio REBOUND (Off:0 Def:3),nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226819,21600596,4,4:04,MISS Dieng  3PT Jump Shot,nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226820,21600596,4,4:02,Towns REBOUND (Off:1 Def:15),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226821,21600596,4,3:59,Towns Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+226822,21600596,4,3:49,nan,Kanter 21' Jump Shot (21 PTS) (Westbrook 12 AST),79 - 90,202683,Enes Kanter,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+226823,21600596,4,3:17,MISS Wiggins 19' Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226824,21600596,4,3:16,Towns REBOUND (Off:2 Def:15),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226825,21600596,4,3:01,nan,Roberson P.FOUL (P3.PN) (D.Guthrie),nan,203460,Andre Roberson,OKC,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Personal
+226826,21600596,4,3:01,SUB: Bjelica FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Substitution ,nan
+226827,21600596,4,2:55,nan,Kanter P.FOUL (P4.PN) (E.Lewis),nan,202683,Enes Kanter,OKC,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Personal
+226828,21600596,4,2:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+226829,21600596,4,2:55,nan,SUB: Grant FOR Kanter,nan,202683,Enes Kanter,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+226830,21600596,4,2:55,Towns Free Throw 1 of 2 (26 PTS),nan,79 - 91,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+226831,21600596,4,2:55,Towns Free Throw 2 of 2 (27 PTS),nan,79 - 92,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+226832,21600596,4,2:47,Bjelica Personal Block Foul (P6.PN) (S.Anderson),nan,nan,202357,Nemanja Bjelica,MIN,203924,Jerami Grant,OKC,0,nan,nan,Foul ,Personal Block
+226833,21600596,4,2:47,SUB: Muhammad FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Substitution ,nan
+226834,21600596,4,2:47,nan,Grant Free Throw 1 of 2 (1 PTS),80 - 92,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+226835,21600596,4,2:47,nan,Grant Free Throw 2 of 2 (2 PTS),81 - 92,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+226836,21600596,4,2:25,MISS Wiggins 26' 3PT Jump Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226837,21600596,4,2:24,nan,Grant REBOUND (Off:0 Def:3),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226838,21600596,4,2:13,nan,MISS Oladipo  3PT Jump Shot,nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226839,21600596,4,2:12,nan,Oladipo REBOUND (Off:2 Def:3),nan,203506,Victor Oladipo,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226840,21600596,4,2:09,nan,MISS Westbrook 24' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226841,21600596,4,2:07,Wiggins REBOUND (Off:1 Def:5),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226842,21600596,4,1:49,Wiggins Bad Pass Turnover (P4.T15),Westbrook STEAL (2 STL),nan,203952,Andrew Wiggins,MIN,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Bad Pass
+226843,21600596,4,1:46,nan,Westbrook  Driving Dunk (21 PTS),83 - 92,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+226844,21600596,4,1:30,Wiggins  Layup (19 PTS) (Rubio 14 AST),nan,83 - 94,203952,Andrew Wiggins,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+226845,21600596,4,1:19,nan,Westbrook OFF.Foul (P3) (D.Guthrie),nan,201566,Russell Westbrook,OKC,201937,Ricky Rubio,MIN,0,nan,nan,Foul ,Offensive
+226846,21600596,4,1:19,nan,Westbrook Foul Turnover (P10.T19),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Foul
+226847,21600596,4,1:05,nan,Adams S.FOUL (P4.PN) (S.Anderson),nan,203500,Steven Adams,OKC,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+226848,21600596,4,1:05,nan,Thunder Timeout: Regular (Reg.6 Short 1),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+226849,21600596,4,1:05,nan,SUB: Payne FOR Westbrook,nan,201566,Russell Westbrook,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+226850,21600596,4,1:05,nan,SUB: Sabonis FOR Adams,nan,203500,Steven Adams,OKC,1627734,Domantas Sabonis,OKC,0,nan,nan,Substitution ,nan
+226851,21600596,4,1:05,Towns Free Throw 1 of 2 (28 PTS),nan,83 - 95,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+226852,21600596,4,1:05,Towns Free Throw 2 of 2 (29 PTS),nan,83 - 96,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+226853,21600596,4,0:52,nan,Oladipo 25' 3PT Jump Shot (19 PTS) (Payne 2 AST),86 - 96,203506,Victor Oladipo,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+226854,21600596,4,0:34,MISS Rush  3PT Jump Shot,nan,nan,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226855,21600596,4,0:31,Rush REBOUND (Off:3 Def:1),nan,nan,201575,Brandon Rush,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226856,21600596,4,0:28,MISS Muhammad 24' 3PT Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+226857,21600596,4,0:26,Rubio REBOUND (Off:1 Def:3),nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+226858,21600596,4,0:02,TIMBERWOLVES Turnover: Shot Clock (T#16),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+226859,21600596,4,0:00,nan,nan,86 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,138 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+95003,21500761,4,12:00,nan,nan,75 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+95004,21500761,4,11:44,nan,Oubre Jr. Step Out of Bounds Turnover (P1.T9),nan,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+95005,21500761,4,11:30,nan,Gooden S.FOUL (P3.T1) (L.Wood),nan,2400,Drew Gooden,WAS,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Shooting
+95006,21500761,4,11:30,Hawes Free Throw 1 of 2 (6 PTS),nan,75 - 79,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95007,21500761,4,11:30,Hawes Free Throw 2 of 2 (7 PTS),nan,75 - 80,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95008,21500761,4,11:05,Hawes BLOCK (1 BLK),MISS Wall 2' Layup,nan,202322,John Wall,WAS,0,nan,nan,201150,Spencer Hawes,CHA,Missed Shot ,nan
+95009,21500761,4,11:03,Hawes REBOUND (Off:0 Def:2),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95010,21500761,4,10:57,MISS Lin 22' Jump Shot,nan,nan,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95011,21500761,4,10:56,nan,Gooden REBOUND (Off:1 Def:3),nan,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95012,21500761,4,10:51,Hawes S.FOUL (P2.T1) (R.Mott),nan,nan,201150,Spencer Hawes,CHA,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+95013,21500761,4,10:51,nan,Wall Free Throw 1 of 2 (16 PTS),76 - 80,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95014,21500761,4,10:51,nan,Wall Free Throw 2 of 2 (17 PTS),77 - 80,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95015,21500761,4,10:34,MISS Kaminsky 1' Layup,nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95016,21500761,4,10:34,Hawes REBOUND (Off:1 Def:2),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95017,21500761,4,10:34,nan,Beal S.FOUL (P2.T2) (R.Mott),nan,203078,Bradley Beal,WAS,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Shooting
+95018,21500761,4,10:34,Hawes Free Throw 1 of 2 (8 PTS),nan,77 - 81,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95019,21500761,4,10:34,Hawes Free Throw 2 of 2 (9 PTS),nan,77 - 82,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95020,21500761,4,10:10,nan,MISS Porter Jr. 19' Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95021,21500761,4,10:06,nan,Gooden REBOUND (Off:2 Def:3),nan,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95022,21500761,4,10:06,nan,Gooden 1' Layup (4 PTS),79 - 82,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+95023,21500761,4,9:50,Lin Lost Ball Turnover (P2.T13),Porter Jr. STEAL (4 STL),nan,202391,Jeremy Lin,CHA,203490,Otto Porter Jr.,WAS,0,nan,nan,Turnover ,Lost Ball
+95024,21500761,4,9:45,Hawes BLOCK (2 BLK),MISS Porter Jr. 2' Layup,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,201150,Spencer Hawes,CHA,Missed Shot ,nan
+95025,21500761,4,9:43,Batum REBOUND (Off:1 Def:8),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95026,21500761,4,9:41,Kaminsky OFF.Foul (P2) (B.Adams),nan,nan,1626163,Frank Kaminsky,CHA,202322,John Wall,WAS,0,nan,nan,Foul ,Offensive
+95027,21500761,4,9:41,Kaminsky Foul Turnover (P2.T14),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+95028,21500761,4,9:17,Lin S.FOUL (P3.T2) (R.Mott),nan,nan,202391,Jeremy Lin,CHA,202322,John Wall,WAS,0,nan,nan,Foul ,Shooting
+95029,21500761,4,9:17,nan,Wall Free Throw 1 of 2 (18 PTS),80 - 82,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95030,21500761,4,9:17,nan,Wall Free Throw 2 of 2 (19 PTS),81 - 82,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95031,21500761,4,9:01,MISS Batum 2' Layup,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95032,21500761,4,9:00,Hawes REBOUND (Off:2 Def:2),nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95033,21500761,4,9:00,Hawes 1' Tip Layup Shot (11 PTS),nan,81 - 84,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+95034,21500761,4,8:42,nan,MISS Beal 9' Floating Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95035,21500761,4,8:40,nan,Gooden REBOUND (Off:3 Def:3),nan,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95036,21500761,4,8:40,nan,Gooden 1' Tip Layup Shot (6 PTS),83 - 84,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+95037,21500761,4,8:28,nan,Gooden P.FOUL (P4.T3) (R.Mott),nan,2400,Drew Gooden,WAS,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Personal
+95038,21500761,4,8:28,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+95039,21500761,4,8:28,SUB: Walker FOR Batum,nan,nan,201587,Nicolas Batum,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+95040,21500761,4,8:17,MISS Lamb 2' Layup,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95041,21500761,4,8:15,nan,Gooden REBOUND (Off:3 Def:4),nan,2400,Drew Gooden,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95042,21500761,4,8:07,nan,MISS Wall 17' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95043,21500761,4,8:06,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95044,21500761,4,8:06,nan,Gooden L.B.FOUL (P5.T4) (B.Adams),nan,2400,Drew Gooden,WAS,201150,Spencer Hawes,CHA,0,nan,nan,Foul ,Loose Ball
+95045,21500761,4,8:00,nan,SUB: Sessions FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,201196,Ramon Sessions,WAS,0,nan,nan,Substitution ,nan
+95046,21500761,4,7:42,Hawes 24' 3PT Jump Shot (14 PTS) (Lamb 2 AST),nan,83 - 87,201150,Spencer Hawes,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+95047,21500761,4,7:23,Hawes S.FOUL (P3.T3) (R.Mott),nan,nan,201150,Spencer Hawes,CHA,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+95048,21500761,4,7:23,nan,MISS Beal Free Throw 1 of 2,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95049,21500761,4,7:23,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+95050,21500761,4,7:23,nan,Beal Free Throw 2 of 2 (8 PTS),84 - 87,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95051,21500761,4,7:04,Lamb 9' Floating Jump Shot (2 PTS),nan,84 - 89,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+95052,21500761,4,7:04,nan,Wall S.FOUL (P3.PN) (B.Adams),nan,202322,John Wall,WAS,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Shooting
+95053,21500761,4,7:04,Lamb Free Throw 1 of 1 (3 PTS),nan,84 - 90,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+95054,21500761,4,6:48,nan,MISS Beal 2' Layup,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95055,21500761,4,6:46,Kaminsky REBOUND (Off:0 Def:3),nan,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95056,21500761,4,6:39,Kaminsky  Dunk (5 PTS) (Lamb 3 AST),nan,84 - 92,1626163,Frank Kaminsky,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+95057,21500761,4,6:39,nan,Wizards Timeout: Regular (Reg.4 Short 0),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95058,21500761,4,6:39,nan,nan,nan,421,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+95059,21500761,4,6:39,nan,SUB: Gortat FOR Gooden,nan,2400,Drew Gooden,WAS,101162,Marcin Gortat,WAS,0,nan,nan,Substitution ,nan
+95060,21500761,4,6:39,SUB: Williams FOR Kaminsky,nan,nan,1626163,Frank Kaminsky,CHA,101107,Marvin Williams,CHA,0,nan,nan,Substitution ,nan
+95061,21500761,4,6:23,Lamb S.FOUL (P1.T4) (L.Wood),nan,nan,203087,Jeremy Lamb,CHA,203078,Bradley Beal,WAS,0,nan,nan,Foul ,Shooting
+95062,21500761,4,6:23,nan,Beal Free Throw 1 of 2 (9 PTS),85 - 92,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95063,21500761,4,6:23,nan,Beal Free Throw 2 of 2 (10 PTS),86 - 92,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95064,21500761,4,6:10,MISS Lamb 18' Jump Shot,nan,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95065,21500761,4,6:08,nan,Wall REBOUND (Off:0 Def:4),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95066,21500761,4,6:02,SUB: Batum FOR Lin,nan,nan,202391,Jeremy Lin,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+95067,21500761,4,6:02,SUB: Kidd-Gilchrist FOR Lamb,nan,nan,203087,Jeremy Lamb,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+95068,21500761,4,5:58,nan,Beal 26' 3PT Jump Shot (13 PTS) (Wall 7 AST),89 - 92,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+95069,21500761,4,5:41,Walker 25' 3PT Jump Shot (17 PTS) (Batum 8 AST),nan,89 - 95,202689,Kemba Walker,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+95070,21500761,4,5:14,nan,Wall 25' 3PT Jump Shot (22 PTS) (Beal 3 AST),92 - 95,202322,John Wall,WAS,203078,Bradley Beal,WAS,0,nan,nan,Made Shot ,nan
+95071,21500761,4,4:57,MISS Hawes 9' Floating Jump Shot,nan,nan,201150,Spencer Hawes,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95072,21500761,4,4:56,nan,Porter Jr. REBOUND (Off:2 Def:6),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95073,21500761,4,4:47,nan,Beal 17' Jump Shot (15 PTS) (Wall 8 AST),94 - 95,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+95074,21500761,4,4:32,MISS Batum 26' 3PT Jump Shot,nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95075,21500761,4,4:30,nan,Wall REBOUND (Off:0 Def:5),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95076,21500761,4,4:25,nan,Sessions 2' Layup (8 PTS) (Wall 9 AST),96 - 95,201196,Ramon Sessions,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+95077,21500761,4,4:25,HORNETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95078,21500761,4,4:25,SUB: Zeller FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+95079,21500761,4,4:05,Kidd-Gilchrist Traveling Turnover (P2.T15),nan,nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+95080,21500761,4,3:51,nan,MISS Beal 17' Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95081,21500761,4,3:50,Walker REBOUND (Off:0 Def:5),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95082,21500761,4,3:41,Walker 17' Jump Shot (19 PTS),nan,96 - 97,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+95083,21500761,4,3:25,nan,MISS Sessions 25' 3PT Jump Shot,nan,201196,Ramon Sessions,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95084,21500761,4,3:24,Williams REBOUND (Off:1 Def:8),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95085,21500761,4,3:08,MISS Walker 29' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95086,21500761,4,3:07,nan,Wall REBOUND (Off:0 Def:6),nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95087,21500761,4,3:01,nan,Porter Jr. Step Out of Bounds Turnover (P1.T10),nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+95088,21500761,4,3:01,nan,SUB: Temple FOR Sessions,nan,201196,Ramon Sessions,WAS,202066,Garrett Temple,WAS,0,nan,nan,Substitution ,nan
+95089,21500761,4,2:52,Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T16),nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+95090,21500761,4,2:52,SUB: Lin FOR Kidd-Gilchrist,nan,nan,203077,Michael Kidd-Gilchrist,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Substitution ,nan
+95091,21500761,4,2:37,nan,Beal 1' Layup (17 PTS) (Wall 10 AST),98 - 97,203078,Bradley Beal,WAS,202322,John Wall,WAS,0,nan,nan,Made Shot ,nan
+95092,21500761,4,2:19,Walker 1' Driving Layup (21 PTS),nan,98 - 99,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+95093,21500761,4,2:03,Zeller STEAL (3 STL),Beal Lost Ball Turnover (P1.T11),nan,203078,Bradley Beal,WAS,203469,Cody Zeller,CHA,0,nan,nan,Turnover ,Lost Ball
+95094,21500761,4,1:45,MISS Walker 14' Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95095,21500761,4,1:44,Williams REBOUND (Off:2 Def:8),nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95096,21500761,4,1:25,Lin 2' Driving Reverse Layup (4 PTS),nan,98 - 101,202391,Jeremy Lin,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+95097,21500761,4,1:25,nan,Wizards Timeout: Short (Reg.4 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+95098,21500761,4,1:25,SUB: Kidd-Gilchrist FOR Lin,nan,nan,202391,Jeremy Lin,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+95099,21500761,4,1:08,nan,Beal 15' Step Back Jump Shot (19 PTS),100 - 101,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+95100,21500761,4,0:56,MISS Walker 26' 3PT Jump Shot,nan,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95101,21500761,4,0:54,nan,Gortat REBOUND (Off:1 Def:10),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95102,21500761,4,0:46,nan,MISS Wall 17' Jump Shot,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95103,21500761,4,0:46,Batum REBOUND (Off:1 Def:9),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95104,21500761,4,0:35,HORNETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95105,21500761,4,0:35,SUB: Lin FOR Kidd-Gilchrist,nan,nan,203077,Michael Kidd-Gilchrist,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Substitution ,nan
+95106,21500761,4,0:29,Lin  3PT Jump Shot (7 PTS) (Batum 9 AST),nan,100 - 104,202391,Jeremy Lin,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+95107,21500761,4,0:29,nan,Wizards Timeout: Regular (Reg.5 Short 1),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+95108,21500761,4,0:29,SUB: Kidd-Gilchrist FOR Lin,nan,nan,202391,Jeremy Lin,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+95109,21500761,4,0:21,nan,MISS Porter Jr. 25' 3PT Jump Shot,nan,203490,Otto Porter Jr.,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95110,21500761,4,0:18,Batum REBOUND (Off:1 Def:10),nan,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95111,21500761,4,0:11,nan,Beal Personal Take Foul (P3.PN) (R.Mott),nan,203078,Bradley Beal,WAS,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Foul ,Personal Take
+95112,21500761,4,0:11,Kidd-Gilchrist Free Throw 1 of 2 (9 PTS),nan,100 - 105,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95113,21500761,4,0:11,MISS Kidd-Gilchrist Free Throw 2 of 2,nan,nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95114,21500761,4,0:11,nan,Gortat REBOUND (Off:1 Def:11),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95115,21500761,4,0:11,nan,Wizards Timeout: Short (Reg.5 Short 2),nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+95116,21500761,4,0:11,nan,SUB: Dudley FOR Porter Jr.,nan,203490,Otto Porter Jr.,WAS,201162,Jared Dudley,WAS,0,nan,nan,Substitution ,nan
+95117,21500761,4,0:08,nan,Beal 26' 3PT Jump Shot (22 PTS) (Temple 1 AST),103 - 105,203078,Bradley Beal,WAS,202066,Garrett Temple,WAS,0,nan,nan,Made Shot ,nan
+95118,21500761,4,0:07,nan,Temple Personal Take Foul (P5.PN) (R.Mott),nan,202066,Garrett Temple,WAS,101107,Marvin Williams,CHA,0,nan,nan,Foul ,Personal Take
+95119,21500761,4,0:07,Williams Free Throw 1 of 2 (13 PTS),nan,103 - 106,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95120,21500761,4,0:07,MISS Williams Free Throw 2 of 2,nan,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95121,21500761,4,0:03,nan,Gortat REBOUND (Off:1 Def:12),nan,101162,Marcin Gortat,WAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95122,21500761,4,0:02,Kidd-Gilchrist Personal Take Foul (P3.PN) (R.Mott),nan,nan,203077,Michael Kidd-Gilchrist,CHA,202322,John Wall,WAS,0,nan,nan,Foul ,Personal Take
+95123,21500761,4,0:02,nan,Wall Free Throw 1 of 2 (23 PTS),104 - 106,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95124,21500761,4,0:02,nan,SUB: Gooden FOR Dudley,nan,201162,Jared Dudley,WAS,2400,Drew Gooden,WAS,0,nan,nan,Substitution ,nan
+95125,21500761,4,0:02,nan,Free Throw 2 of 2,nan,202322,John Wall,WAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95126,21500761,4,0:02,HORNETS Rebound,nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95127,21500761,4,0:02,HORNETS Timeout: Short (Full 5 Short 1),nan,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+95128,21500761,4,0:02,SUB: Lin FOR Kidd-Gilchrist,nan,nan,203077,Michael Kidd-Gilchrist,CHA,202391,Jeremy Lin,CHA,0,nan,nan,Substitution ,nan
+95129,21500761,4,0:02,SUB: Hawes FOR Zeller,nan,nan,203469,Cody Zeller,CHA,201150,Spencer Hawes,CHA,0,nan,nan,Substitution ,nan
+95130,21500761,4,0:02,nan,SUB: Oubre Jr. FOR Gooden,nan,2400,Drew Gooden,WAS,1626162,Kelly Oubre Jr.,WAS,0,nan,nan,Substitution ,nan
+95131,21500761,4,0:02,nan,Beal Personal Take Foul (P4.PN) (L.Wood),nan,203078,Bradley Beal,WAS,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal Take
+95132,21500761,4,0:02,Walker Free Throw 1 of 2 (22 PTS),nan,104 - 107,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+95133,21500761,4,0:02,nan,SUB: Dudley FOR Oubre Jr.,nan,1626162,Kelly Oubre Jr.,WAS,201162,Jared Dudley,WAS,0,nan,nan,Substitution ,nan
+95134,21500761,4,0:02,SUB: Zeller FOR Lin,nan,nan,202391,Jeremy Lin,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+95135,21500761,4,0:02,SUB: Kidd-Gilchrist FOR Hawes,nan,nan,201150,Spencer Hawes,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+95136,21500761,4,0:02,Walker Free Throw 2 of 2 (23 PTS),nan,104 - 108,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+95137,21500761,4,0:00,nan,MISS Beal 33' 3PT Jump Shot,nan,203078,Bradley Beal,WAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+95138,21500761,4,0:00,nan,Wizards Rebound,nan,1610612764,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+95139,21500761,4,0:00,nan,nan,104 - 108,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

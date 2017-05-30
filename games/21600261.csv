@@ -1,0 +1,241 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+185650,21600261,4,12:00,nan,nan,86 - 73,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+185651,21600261,4,11:36,MISS Whitehead 18' Jump Shot,nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185652,21600261,4,11:35,nan,Crawford REBOUND (Off:0 Def:3),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185653,21600261,4,11:08,nan,MISS Crawford 25' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185654,21600261,4,11:07,Kilpatrick REBOUND (Off:0 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185655,21600261,4,10:53,Booker Lost Ball Turnover (P1.T8),Speights STEAL (1 STL),nan,202344,Trevor Booker,BKN,201578,Marreese Speights,LAC,0,nan,nan,Turnover ,Lost Ball
+185656,21600261,4,10:34,nan,W. Johnson 24' 3PT Jump Shot (5 PTS) (Rivers 2 AST),89 - 73,202325,Wesley Johnson,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+185657,21600261,4,10:19,Kilpatrick Offensive Charge Foul (P3.T1) (K.Mauer),nan,nan,203930,Sean Kilpatrick,BKN,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Offensive Charge
+185658,21600261,4,10:19,Kilpatrick Foul Turnover (P3.T9),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+185659,21600261,4,10:09,nan,Speights Out of Bounds Lost Ball Turnover (P2.T9),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+185660,21600261,4,9:55,MISS Whitehead 13' Floating Jump Shot,nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185661,21600261,4,9:54,nan,W. Johnson REBOUND (Off:0 Def:1),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185662,21600261,4,9:42,nan,MISS Crawford 18' Pullup Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185663,21600261,4,9:41,Lopez REBOUND (Off:2 Def:5),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185664,21600261,4,9:26,Kilpatrick 26' 3PT Jump Shot (10 PTS) (Booker 3 AST),nan,89 - 76,203930,Sean Kilpatrick,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+185665,21600261,4,9:09,nan,Speights 17' Step Back Jump Shot (6 PTS) (W. Johnson 1 AST),91 - 76,201578,Marreese Speights,LAC,202325,Wesley Johnson,LAC,0,nan,nan,Made Shot ,nan
+185666,21600261,4,9:03,Lopez 2' Layup (21 PTS) (Whitehead 4 AST),nan,91 - 78,201572,Brook Lopez,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+185667,21600261,4,9:01,nan,Speights T.FOUL (P2.T0) (K.Mauer),nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Foul ,Technical
+185668,21600261,4,9:01,Whitehead Free Throw Technical (4 PTS),nan,91 - 79,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+185669,21600261,4,8:44,nan,MISS Speights 24' 3PT Jump Shot,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185670,21600261,4,8:43,Booker REBOUND (Off:1 Def:5),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185671,21600261,4,8:38,nan,Speights P.FOUL (P3.T1) (K.Scott),nan,201578,Marreese Speights,LAC,201572,Brook Lopez,BKN,0,nan,nan,Foul ,Personal
+185672,21600261,4,8:38,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+185673,21600261,4,8:28,Kilpatrick 5' Jump Shot (12 PTS) (Lopez 2 AST),nan,91 - 81,203930,Sean Kilpatrick,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+185674,21600261,4,8:16,nan,Rivers Out of Bounds Lost Ball Turnover (P1.T10),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+185675,21600261,4,7:58,Kilpatrick 24' 3PT Jump Shot (15 PTS) (Lopez 3 AST),nan,91 - 84,203930,Sean Kilpatrick,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+185676,21600261,4,7:42,Whitehead S.FOUL (P3.T2) (K.Scott),nan,nan,1627785,Isaiah Whitehead,BKN,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+185677,21600261,4,7:42,nan,Rivers Free Throw 1 of 2 (15 PTS),92 - 84,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185678,21600261,4,7:42,nan,SUB: Jordan FOR Speights,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+185679,21600261,4,7:42,nan,SUB: Paul FOR Felton,nan,101109,Raymond Felton,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+185680,21600261,4,7:42,nan,SUB: Redick FOR Crawford,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+185681,21600261,4,7:42,nan,MISS Rivers Free Throw 2 of 2,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185682,21600261,4,7:40,Kilpatrick REBOUND (Off:0 Def:5),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185683,21600261,4,7:26,MISS Booker 7' Turnaround Hook Shot,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185684,21600261,4,7:25,nan,Jordan REBOUND (Off:3 Def:16),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185685,21600261,4,7:08,nan,MISS Rivers 18' Step Back Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185686,21600261,4,7:07,Whitehead REBOUND (Off:0 Def:3),nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185687,21600261,4,6:59,MISS Booker 2' Layup,W. Johnson BLOCK (1 BLK),nan,202344,Trevor Booker,BKN,0,nan,nan,202325,Wesley Johnson,LAC,Missed Shot ,nan
+185688,21600261,4,6:58,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185689,21600261,4,6:58,nan,SUB: Bass FOR W. Johnson,nan,202325,Wesley Johnson,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185690,21600261,4,6:54,MISS Kilpatrick 3' Driving Layup,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185691,21600261,4,6:53,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185692,21600261,4,6:47,Harris 25' 3PT Jump Shot (12 PTS) (Lopez 4 AST),nan,92 - 87,203925,Joe Harris,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+185693,21600261,4,6:20,nan,Bass 19' Jump Shot (4 PTS) (Paul 12 AST),94 - 87,101138,Brandon Bass,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+185694,21600261,4,6:06,MISS Lopez 15' Turnaround Fadeaway Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185695,21600261,4,6:05,nan,Paul REBOUND (Off:1 Def:3),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185696,21600261,4,5:50,Booker STEAL (3 STL),Paul Bad Pass Turnover (P1.T11),nan,101108,Chris Paul,LAC,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Bad Pass
+185697,21600261,4,5:47,Kilpatrick 3' Running Layup (17 PTS) (Harris 1 AST),nan,94 - 89,203930,Sean Kilpatrick,BKN,203925,Joe Harris,BKN,0,nan,nan,Made Shot ,nan
+185698,21600261,4,5:47,nan,Redick Shooting Block Foul (P4.T2) (K.Scott),nan,200755,JJ Redick,LAC,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting Block
+185699,21600261,4,5:47,NETS Timeout: Regular (Full 4 Short 2),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185700,21600261,4,5:47,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185701,21600261,4,5:47,Kilpatrick Free Throw 1 of 1 (18 PTS),nan,94 - 90,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+185702,21600261,4,5:26,nan,MISS Bass 18' Jump Shot,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185703,21600261,4,5:25,Kilpatrick REBOUND (Off:0 Def:6),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185704,21600261,4,5:13,Kilpatrick 9' Jump Bank Shot (20 PTS),nan,94 - 92,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185705,21600261,4,4:56,nan,Paul 27' 3PT Jump Shot (16 PTS),97 - 92,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185706,21600261,4,4:36,Kilpatrick 24' 3PT Jump Shot (23 PTS),nan,97 - 95,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185707,21600261,4,4:12,nan,Bass 3' Driving Layup (6 PTS),99 - 95,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185708,21600261,4,4:03,nan,Paul S.FOUL (P1.T3) (L.Holtkamp),nan,101108,Chris Paul,LAC,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+185709,21600261,4,4:03,Kilpatrick Free Throw 1 of 2 (24 PTS),nan,99 - 96,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185710,21600261,4,4:03,Kilpatrick Free Throw 2 of 2 (25 PTS),nan,99 - 97,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185711,21600261,4,3:52,nan,MISS Redick 26' 3PT Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185712,21600261,4,3:50,Kilpatrick REBOUND (Off:0 Def:7),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185713,21600261,4,3:37,Kilpatrick 18' Step Back Jump Shot (27 PTS),nan,99 - 99,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185714,21600261,4,3:25,Whitehead P.FOUL (P4.T3) (K.Mauer),nan,nan,1627785,Isaiah Whitehead,BKN,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+185715,21600261,4,3:25,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185716,21600261,4,3:18,Lopez STEAL (1 STL),Crawford Bad Pass Turnover (P1.T12),nan,2037,Jamal Crawford,LAC,201572,Brook Lopez,BKN,0,nan,nan,Turnover ,Bad Pass
+185717,21600261,4,3:02,Lopez 25' 3PT Jump Shot (24 PTS) (Kilpatrick 1 AST),nan,99 - 102,201572,Brook Lopez,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+185718,21600261,4,3:02,nan,Clippers Timeout: Regular (Reg.4 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185719,21600261,4,2:45,nan,Paul 25' 3PT Jump Shot (19 PTS),102 - 102,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185720,21600261,4,2:30,MISS Harris 2' Driving Layup,nan,nan,203925,Joe Harris,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185721,21600261,4,2:29,Lopez REBOUND (Off:3 Def:5),nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185722,21600261,4,2:28,MISS Lopez 2' Tip Layup Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185723,21600261,4,2:27,nan,Pierce REBOUND (Off:0 Def:3),nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185724,21600261,4,2:17,nan,MISS Paul 15' Pullup Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185725,21600261,4,2:16,Kilpatrick REBOUND (Off:0 Def:8),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185726,21600261,4,2:08,Kilpatrick Bad Pass Turnover (P4.T10),Paul STEAL (2 STL),nan,203930,Sean Kilpatrick,BKN,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Bad Pass
+185727,21600261,4,1:58,nan,Crawford 17' Pullup Jump Shot (8 PTS),104 - 102,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185728,21600261,4,1:58,NETS Timeout: Short (Full 4 Short 3),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185729,21600261,4,1:58,nan,SUB: Mbah a Moute FOR Pierce,nan,1718,Paul Pierce,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+185730,21600261,4,1:58,nan,SUB: Bass FOR Redick,nan,200755,JJ Redick,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185731,21600261,4,1:58,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185732,21600261,4,1:38,Booker 6' Driving Hook Shot (11 PTS),nan,104 - 104,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185733,21600261,4,1:38,nan,Clippers Timeout: Regular (Reg.5 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185734,21600261,4,1:38,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185735,21600261,4,1:38,nan,SUB: Redick FOR Rivers,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+185736,21600261,4,1:38,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185737,21600261,4,1:30,Lopez STEAL (2 STL),Paul Bad Pass Turnover (P2.T13),nan,101108,Chris Paul,LAC,201572,Brook Lopez,BKN,0,nan,nan,Turnover ,Bad Pass
+185738,21600261,4,1:11,Lopez 26' 3PT Jump Shot (27 PTS) (Booker 4 AST),nan,104 - 107,201572,Brook Lopez,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+185739,21600261,4,1:11,nan,Clippers Timeout: Short (Reg.5 Short 1),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185740,21600261,4,1:02,nan,MISS Paul 18' Pullup Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185741,21600261,4,1:01,Kilpatrick REBOUND (Off:0 Def:9),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185742,21600261,4,0:54,Kilpatrick OFF.Foul (P4) (K.Mauer),nan,nan,203930,Sean Kilpatrick,BKN,101108,Chris Paul,LAC,0,nan,nan,Foul ,Offensive
+185743,21600261,4,0:54,Kilpatrick Foul Turnover (P5.T11),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Turnover ,Foul
+185744,21600261,4,0:44,nan,MISS Pierce 24' 3PT Jump Shot,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185745,21600261,4,0:43,nan,Paul REBOUND (Off:2 Def:3),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185746,21600261,4,0:34,nan,MISS Crawford 25' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185747,21600261,4,0:34,Booker REBOUND (Off:1 Def:6),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185748,21600261,4,0:33,nan,Paul P.FOUL (P2.T4) (K.Mauer),nan,101108,Chris Paul,LAC,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Personal
+185749,21600261,4,0:33,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185750,21600261,4,0:33,nan,SUB: Bass FOR Pierce,nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185751,21600261,4,0:33,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+185752,21600261,4,0:12,MISS Kilpatrick 22' Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185753,21600261,4,0:11,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185754,21600261,4,0:11,Booker L.B.FOUL (P4.T4) (K.Scott),nan,nan,202344,Trevor Booker,BKN,201601,Luc Mbah a Moute,LAC,0,nan,nan,Foul ,Loose Ball
+185755,21600261,4,0:11,nan,Clippers Timeout: Short (Reg.5 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185756,21600261,4,0:11,nan,SUB: Redick FOR Rivers,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+185757,21600261,4,0:11,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185758,21600261,4,0:11,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185759,21600261,4,0:11,SUB: Foye FOR Lopez,nan,nan,201572,Brook Lopez,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+185760,21600261,4,0:01,nan,Paul 25' 3PT Jump Shot (22 PTS) (Redick 1 AST),107 - 107,101108,Chris Paul,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+185761,21600261,4,0:01,NETS Timeout: Regular (Full 5 Short 3),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185762,21600261,4,0:01,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+185763,21600261,4,0:01,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185764,21600261,4,0:01,nan,SUB: Bass FOR Pierce,nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185765,21600261,4,0:01,SUB: Bogdanovic FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+185766,21600261,4,0:01,SUB: Lopez FOR Foye,nan,nan,200751,Randy Foye,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+185767,21600261,4,0:01,MISS Kilpatrick 16' Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185768,21600261,4,0:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185769,21600261,4,0:00,nan,nan,107 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+185770,21600261,5,5:00,nan,nan,107 - 107,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+185771,21600261,5,4:58,Jump Ball Lopez vs. Jordan: Tip to Pierce,nan,nan,201572,Brook Lopez,BKN,201599,DeAndre Jordan,LAC,1718,Paul Pierce,LAC,Jump Ball ,nan
+185772,21600261,5,4:45,nan,MISS Crawford 20' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185773,21600261,5,4:44,nan,Jordan REBOUND (Off:4 Def:16),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185774,21600261,5,4:42,nan,Jordan  Putback Dunk (16 PTS),109 - 107,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185775,21600261,5,4:21,Kilpatrick 3' Driving Layup (29 PTS),nan,109 - 109,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185776,21600261,5,3:55,nan,MISS Pierce 17' Jump Shot,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185777,21600261,5,3:54,Kilpatrick REBOUND (Off:0 Def:10),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185778,21600261,5,3:44,MISS Kilpatrick 8' Floating Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185779,21600261,5,3:43,Booker REBOUND (Off:2 Def:6),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185780,21600261,5,3:33,Harris 25' 3PT Jump Shot (15 PTS) (Booker 5 AST),nan,109 - 112,203925,Joe Harris,BKN,202344,Trevor Booker,BKN,0,nan,nan,Made Shot ,nan
+185781,21600261,5,3:15,nan,MISS Paul 17' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185782,21600261,5,3:14,nan,Jordan REBOUND (Off:5 Def:16),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185783,21600261,5,3:13,nan,Jordan  Dunk (18 PTS),111 - 112,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185784,21600261,5,3:00,Booker 3' Cutting Layup Shot (13 PTS) (Kilpatrick 2 AST),nan,111 - 114,202344,Trevor Booker,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+185785,21600261,5,2:42,nan,MISS Crawford 18' Pullup Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185786,21600261,5,2:41,Booker REBOUND (Off:2 Def:7),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185787,21600261,5,2:33,Kilpatrick 2' Driving Layup (31 PTS),nan,111 - 116,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185788,21600261,5,2:33,nan,Clippers Timeout: Regular (Reg.6 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185789,21600261,5,2:33,nan,SUB: Mbah a Moute FOR Crawford,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+185790,21600261,5,2:24,nan,Jordan 2' Cutting Dunk Shot (20 PTS) (Redick 2 AST),113 - 116,201599,DeAndre Jordan,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+185791,21600261,5,2:05,MISS Kilpatrick 24' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185792,21600261,5,2:04,nan,Paul REBOUND (Off:2 Def:4),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185793,21600261,5,1:54,nan,MISS Paul 19' Pullup Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185794,21600261,5,1:53,Kilpatrick REBOUND (Off:0 Def:11),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185795,21600261,5,1:33,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185796,21600261,5,1:32,nan,Paul REBOUND (Off:2 Def:5),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185797,21600261,5,1:14,Booker STEAL (4 STL),Paul Bad Pass Turnover (P3.T14),nan,101108,Chris Paul,LAC,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Bad Pass
+185798,21600261,5,1:13,nan,Pierce P.FOUL (P5.T1) (L.Holtkamp),nan,1718,Paul Pierce,LAC,202344,Trevor Booker,BKN,0,nan,nan,Foul ,Personal
+185799,21600261,5,1:13,nan,SUB: Bass FOR Pierce,nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185800,21600261,5,1:13,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185801,21600261,5,1:02,MISS Kilpatrick 26' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185802,21600261,5,1:01,nan,Jordan REBOUND (Off:5 Def:17),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185803,21600261,5,1:01,nan,Clippers Timeout: Regular (Reg.7 Short 2),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185804,21600261,5,1:01,nan,SUB: Redick FOR Rivers,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+185805,21600261,5,1:01,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185806,21600261,5,0:50,Harris S.FOUL (P3.T1) (K.Mauer),nan,nan,203925,Joe Harris,BKN,201601,Luc Mbah a Moute,LAC,0,nan,nan,Foul ,Shooting
+185807,21600261,5,0:50,nan,MISS Mbah a Moute Free Throw 1 of 2,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185808,21600261,5,0:50,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+185809,21600261,5,0:50,nan,SUB: Bass FOR Pierce,nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185810,21600261,5,0:50,nan,SUB: Rivers FOR Redick,nan,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185811,21600261,5,0:50,nan,Mbah a Moute Free Throw 2 of 2 (2 PTS),114 - 116,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185812,21600261,5,0:29,nan,Bass S.FOUL (P1.PN) (K.Mauer),nan,101138,Brandon Bass,LAC,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+185813,21600261,5,0:29,Kilpatrick Free Throw 1 of 2 (32 PTS),nan,114 - 117,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185814,21600261,5,0:29,nan,SUB: Redick FOR Rivers,nan,203085,Austin Rivers,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+185815,21600261,5,0:29,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185816,21600261,5,0:29,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185817,21600261,5,0:29,SUB: Foye FOR Lopez,nan,nan,201572,Brook Lopez,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+185818,21600261,5,0:29,MISS Kilpatrick Free Throw 2 of 2,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185819,21600261,5,0:27,nan,Jordan REBOUND (Off:5 Def:18),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185820,21600261,5,0:19,Whitehead S.FOUL (P5.PN) (K.Mauer),nan,nan,1627785,Isaiah Whitehead,BKN,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Shooting
+185821,21600261,5,0:19,nan,MISS Jordan Free Throw 1 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185822,21600261,5,0:19,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+185823,21600261,5,0:19,SUB: Lopez FOR Foye,nan,nan,200751,Randy Foye,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+185824,21600261,5,0:19,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185825,21600261,5,0:19,nan,SUB: Bass FOR Pierce,nan,1718,Paul Pierce,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+185826,21600261,5,0:19,nan,Jordan Free Throw 2 of 2 (21 PTS),115 - 117,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185827,21600261,5,0:18,nan,Bass P.FOUL (P2.PN) (L.Holtkamp),nan,101138,Brandon Bass,LAC,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Personal
+185828,21600261,5,0:18,nan,nan,nan,1941,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+185829,21600261,5,0:18,nan,nan,nan,1941,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+185830,21600261,5,0:18,MISS Whitehead Free Throw Technical,nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+185831,21600261,5,0:18,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+185832,21600261,5,0:18,MISS Whitehead Free Throw Technical,nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+185833,21600261,5,0:18,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+185834,21600261,5,0:18,MISS Kilpatrick Free Throw 1 of 2,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+185835,21600261,5,0:18,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+185836,21600261,5,0:18,SUB: Foye FOR Lopez,nan,nan,201572,Brook Lopez,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+185837,21600261,5,0:18,Kilpatrick Free Throw 2 of 2 (33 PTS),nan,115 - 118,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+185838,21600261,5,0:18,nan,Clippers Timeout: Short (Reg.7 Short 3),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185839,21600261,5,0:18,nan,SUB: Crawford FOR Rivers,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185840,21600261,5,0:18,nan,SUB: Pierce FOR Bass,nan,101138,Brandon Bass,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185841,21600261,5,0:10,nan,Crawford 25' 3PT Jump Shot (11 PTS) (Paul 13 AST),118 - 118,2037,Jamal Crawford,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+185842,21600261,5,0:00,MISS Kilpatrick 9' Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185843,21600261,5,0:00,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185844,21600261,5,0:00,nan,nan,118 - 118,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+185845,21600261,6,5:00,nan,nan,118 - 118,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+185846,21600261,6,5:00,Jump Ball Lopez vs. Jordan: Tip to Paul,nan,nan,201572,Brook Lopez,BKN,201599,DeAndre Jordan,LAC,101108,Chris Paul,LAC,Jump Ball ,nan
+185847,21600261,6,4:42,nan,Paul 17' Pullup Jump Shot (24 PTS),120 - 118,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185848,21600261,6,4:25,Booker 5' Hook Bank Shot (15 PTS),nan,120 - 120,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185849,21600261,6,3:59,nan,MISS Redick 14' Fadeaway Jumper,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185850,21600261,6,3:58,Booker REBOUND (Off:2 Def:8),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185851,21600261,6,3:40,Harris Bad Pass Turnover (P2.T12),Mbah a Moute STEAL (2 STL),nan,203925,Joe Harris,BKN,201601,Luc Mbah a Moute,LAC,0,nan,nan,Turnover ,Bad Pass
+185852,21600261,6,3:22,nan,MISS Redick 18' Jump Shot,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185853,21600261,6,3:21,nan,Mbah a Moute REBOUND (Off:1 Def:3),nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185854,21600261,6,3:18,nan,MISS Mbah a Moute 2' Layup,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185855,21600261,6,3:17,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185856,21600261,6,3:06,Kilpatrick 3' Driving Layup (35 PTS),nan,120 - 122,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185857,21600261,6,2:49,nan,MISS Paul 16' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185858,21600261,6,2:48,Kilpatrick REBOUND (Off:0 Def:12),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185859,21600261,6,2:26,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185860,21600261,6,2:25,nan,Paul REBOUND (Off:2 Def:6),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185861,21600261,6,2:16,nan,MISS Crawford 19' Pullup Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185862,21600261,6,2:15,Booker REBOUND (Off:2 Def:9),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185863,21600261,6,2:10,NETS Timeout: Regular (Full 6 Short 3),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185864,21600261,6,2:10,nan,SUB: Rivers FOR Crawford,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+185865,21600261,6,2:03,Booker Lost Ball Turnover (P2.T13),Mbah a Moute STEAL (3 STL),nan,202344,Trevor Booker,BKN,201601,Luc Mbah a Moute,LAC,0,nan,nan,Turnover ,Lost Ball
+185866,21600261,6,1:50,nan,MISS Rivers 24' 3PT Jump Shot,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185867,21600261,6,1:49,nan,Paul REBOUND (Off:3 Def:6),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185868,21600261,6,1:32,nan,MISS Paul 25' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185869,21600261,6,1:31,nan,Rivers REBOUND (Off:1 Def:1),nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185870,21600261,6,1:29,nan,Clippers Timeout: Regular (Reg.8 Short 3),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+185871,21600261,6,1:29,nan,SUB: Crawford FOR Mbah a Moute,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+185872,21600261,6,1:29,nan,SUB: Pierce FOR Rivers,nan,203085,Austin Rivers,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+185873,21600261,6,1:22,nan,Paul Out of Bounds - Bad Pass Turnover Turnover (P4.T15),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+185874,21600261,6,1:22,nan,nan,nan,682,Bob Sura,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+185875,21600261,6,1:07,MISS Lopez 26' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185876,21600261,6,1:06,nan,Paul REBOUND (Off:3 Def:7),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185877,21600261,6,1:03,nan,Clippers Timeout: Short (Reg.8 Short 4),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185878,21600261,6,0:54,nan,Paul 17' Jump Shot (26 PTS),122 - 122,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+185879,21600261,6,0:47,Whitehead 1' Driving Layup (6 PTS),nan,122 - 124,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185880,21600261,6,0:37,nan,MISS Paul 19' Step Back Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185881,21600261,6,0:36,Kilpatrick REBOUND (Off:0 Def:13),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185882,21600261,6,0:13,Kilpatrick 3' Driving Finger Roll Layup (37 PTS),nan,122 - 126,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+185883,21600261,6,0:13,nan,Jordan S.FOUL (P3.T1) (L.Holtkamp),nan,201599,DeAndre Jordan,LAC,203930,Sean Kilpatrick,BKN,0,nan,nan,Foul ,Shooting
+185884,21600261,6,0:13,SUB: Foye FOR Lopez,nan,nan,201572,Brook Lopez,BKN,200751,Randy Foye,BKN,0,nan,nan,Substitution ,nan
+185885,21600261,6,0:13,Kilpatrick Free Throw 1 of 1 (38 PTS),nan,122 - 127,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+185886,21600261,6,0:13,nan,Clippers Timeout: Short (Reg.8 Short 5),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+185887,21600261,6,0:05,nan,MISS Paul 27' 3PT Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+185888,21600261,6,0:03,Kilpatrick REBOUND (Off:0 Def:14),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+185889,21600261,6,0:00,nan,nan,122 - 127,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

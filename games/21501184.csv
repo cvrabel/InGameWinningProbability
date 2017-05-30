@@ -1,0 +1,92 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+147358,21501184,4,12:00,nan,nan,67 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+147359,21501184,4,11:49,MISS Hamilton 25' 3PT Jump Shot,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147360,21501184,4,11:48,nan,Black REBOUND (Off:0 Def:4),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147361,21501184,4,11:36,nan,Clarkson 21' Pullup Jump Shot (14 PTS),69 - 87,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147362,21501184,4,11:22,MISS Perkins 1' Layup,Nance Jr. BLOCK (2 BLK),nan,2570,Kendrick Perkins,NOP,0,nan,nan,1626204,Larry Nance Jr.,LAL,Missed Shot ,nan
+147363,21501184,4,11:20,Perkins REBOUND (Off:1 Def:2),nan,nan,2570,Kendrick Perkins,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147364,21501184,4,11:19,Perkins 1' Putback Layup (2 PTS),nan,69 - 89,2570,Kendrick Perkins,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+147365,21501184,4,11:01,nan,Huertas 15' Pullup Jump Shot (4 PTS),71 - 89,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147366,21501184,4,10:48,Babbitt 1' Driving Layup (15 PTS) (Perkins 1 AST),nan,71 - 91,202337,Luke Babbitt,NOP,2570,Kendrick Perkins,NOP,0,nan,nan,Made Shot ,nan
+147367,21501184,4,10:22,Frazier STEAL (1 STL),Clarkson Bad Pass Turnover (P2.T10),nan,203903,Jordan Clarkson,LAL,204025,Tim Frazier,NOP,0,nan,nan,Turnover ,Bad Pass
+147368,21501184,4,10:15,Hamilton Out of Bounds Lost Ball Turnover (P2.T11),nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+147369,21501184,4,10:03,nan,MISS Huertas 8' Jump Shot,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147370,21501184,4,10:02,Frazier REBOUND (Off:0 Def:3),nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147371,21501184,4,9:55,Cunningham  Driving Dunk (14 PTS) (Frazier 8 AST),nan,71 - 93,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+147372,21501184,4,9:47,nan,Clarkson 25' 3PT Jump Shot (17 PTS) (Huertas 3 AST),74 - 93,203903,Jordan Clarkson,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+147373,21501184,4,9:34,MISS Frazier 19' Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147374,21501184,4,9:32,nan,Kelly REBOUND (Off:1 Def:1),nan,203527,Ryan Kelly,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147375,21501184,4,9:24,nan,Clarkson 26' 3PT Jump Shot (20 PTS),77 - 93,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147376,21501184,4,9:06,Hamilton 17' Pullup Jump Shot (12 PTS) (Frazier 9 AST),nan,77 - 95,202706,Jordan Hamilton,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+147377,21501184,4,8:47,nan,MISS Huertas 24' 3PT Jump Shot,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147378,21501184,4,8:46,Babbitt REBOUND (Off:0 Def:1),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147379,21501184,4,8:30,Cunningham 24' 3PT Jump Shot (17 PTS) (Babbitt 4 AST),nan,77 - 98,201967,Dante Cunningham,NOP,202337,Luke Babbitt,NOP,0,nan,nan,Made Shot ,nan
+147380,21501184,4,8:09,nan,Black 2' Driving Layup (2 PTS) (Huertas 4 AST),79 - 98,204028,Tarik Black,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+147381,21501184,4,7:56,nan,Black P.FOUL (P4.T1) (T.Ford),nan,204028,Tarik Black,LAL,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal
+147382,21501184,4,7:56,SUB: Ajinca FOR Perkins,nan,nan,2570,Kendrick Perkins,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+147383,21501184,4,7:43,Hamilton Bad Pass Turnover (P3.T12),Clarkson STEAL (1 STL),nan,202706,Jordan Hamilton,NOP,203903,Jordan Clarkson,LAL,0,nan,nan,Turnover ,Bad Pass
+147384,21501184,4,7:40,nan,Huertas 1' Running Layup (6 PTS),81 - 98,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147385,21501184,4,7:40,Frazier S.FOUL (P3.T1) (T.Ford),nan,nan,204025,Tim Frazier,NOP,1626273,Marcelo Huertas,LAL,0,nan,nan,Foul ,Shooting
+147386,21501184,4,7:40,nan,Huertas Free Throw 1 of 1 (7 PTS),82 - 98,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+147387,21501184,4,7:20,Cunningham Traveling Turnover (P2.T13),nan,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+147388,21501184,4,7:20,nan,SUB: Bryant FOR Kelly,nan,203527,Ryan Kelly,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+147389,21501184,4,7:04,nan,MISS Black  Dunk,nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147390,21501184,4,7:03,Babbitt REBOUND (Off:0 Def:2),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147391,21501184,4,6:48,Ajinca 17' Jump Shot (24 PTS) (Frazier 10 AST),nan,82 - 100,201582,Alexis Ajinca,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+147392,21501184,4,6:29,nan,MISS Bryant 27' 3PT Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147393,21501184,4,6:28,Babbitt REBOUND (Off:0 Def:3),nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147394,21501184,4,6:12,Hamilton Bad Pass Turnover (P4.T14),Black STEAL (1 STL),nan,202706,Jordan Hamilton,NOP,204028,Tarik Black,LAL,0,nan,nan,Turnover ,Bad Pass
+147395,21501184,4,6:04,nan,Huertas Out of Bounds - Bad Pass Turnover Turnover (P3.T11),nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+147396,21501184,4,6:04,SUB: Douglas FOR Hamilton,nan,nan,202706,Jordan Hamilton,NOP,201962,Toney Douglas,NOP,0,nan,nan,Substitution ,nan
+147397,21501184,4,5:52,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+147398,21501184,4,5:52,nan,SUB: Russell FOR Huertas,nan,1626273,Marcelo Huertas,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+147399,21501184,4,5:52,nan,SUB: Sacre FOR Black,nan,204028,Tarik Black,LAL,203135,Robert Sacre,LAL,0,nan,nan,Substitution ,nan
+147400,21501184,4,5:52,nan,SUB: Randle FOR Nance Jr.,nan,1626204,Larry Nance Jr.,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+147401,21501184,4,5:44,Ajinca 18' Jump Shot (26 PTS) (Frazier 11 AST),nan,82 - 102,201582,Alexis Ajinca,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+147402,21501184,4,5:25,nan,Russell 25' 3PT Jump Shot (27 PTS) (Sacre 1 AST),85 - 102,1626156,D'Angelo Russell,LAL,203135,Robert Sacre,LAL,0,nan,nan,Made Shot ,nan
+147403,21501184,4,5:09,Frazier 1' Driving Layup (7 PTS),nan,85 - 104,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+147404,21501184,4,4:55,nan,MISS Bryant 17' Jump Shot,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147405,21501184,4,4:54,nan,Randle REBOUND (Off:2 Def:2),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147406,21501184,4,4:44,Ajinca STEAL (1 STL),Russell Bad Pass Turnover (P2.T12),nan,1626156,D'Angelo Russell,LAL,201582,Alexis Ajinca,NOP,0,nan,nan,Turnover ,Bad Pass
+147407,21501184,4,4:39,Cunningham  Alley Oop Dunk (19 PTS) (Frazier 12 AST),nan,85 - 106,201967,Dante Cunningham,NOP,204025,Tim Frazier,NOP,0,nan,nan,Made Shot ,nan
+147408,21501184,4,4:29,nan,MISS Russell 11' Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147409,21501184,4,4:28,nan,Clarkson REBOUND (Off:1 Def:1),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147410,21501184,4,4:15,nan,Bryant Backcourt Turnover (P2.T13),nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+147411,21501184,4,4:15,nan,SUB: Kelly FOR Bryant,nan,977,Kobe Bryant,LAL,203527,Ryan Kelly,LAL,0,nan,nan,Substitution ,nan
+147412,21501184,4,4:03,nan,Clarkson P.FOUL (P3.T2) (R.Mott),nan,203903,Jordan Clarkson,LAL,201962,Toney Douglas,NOP,0,nan,nan,Foul ,Personal
+147413,21501184,4,3:55,Frazier Bad Pass Turnover (P3.T15),Sacre STEAL (1 STL),nan,204025,Tim Frazier,NOP,203135,Robert Sacre,LAL,0,nan,nan,Turnover ,Bad Pass
+147414,21501184,4,3:49,Cunningham S.FOUL (P2.T2) (R.Mott),nan,nan,201967,Dante Cunningham,NOP,203944,Julius Randle,LAL,0,nan,nan,Foul ,Shooting
+147415,21501184,4,3:49,nan,Randle Free Throw 1 of 2 (4 PTS),86 - 106,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+147416,21501184,4,3:49,nan,Randle Free Throw 2 of 2 (5 PTS),87 - 106,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+147417,21501184,4,3:35,MISS Babbitt 6' Jump Shot,nan,nan,202337,Luke Babbitt,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147418,21501184,4,3:34,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147419,21501184,4,3:16,nan,Russell 25' 3PT Jump Shot (30 PTS),90 - 106,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147420,21501184,4,2:55,Babbitt Lost Ball Turnover (P1.T16),Randle STEAL (1 STL),nan,202337,Luke Babbitt,NOP,203944,Julius Randle,LAL,0,nan,nan,Turnover ,Lost Ball
+147421,21501184,4,2:50,nan,Randle 1' Running Layup (7 PTS),92 - 106,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147422,21501184,4,2:49,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+147423,21501184,4,2:34,MISS Ajinca 19' Jump Shot,nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147424,21501184,4,2:33,Douglas REBOUND (Off:1 Def:5),nan,nan,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147425,21501184,4,2:33,Douglas  Tip Layup Shot (20 PTS),nan,92 - 108,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+147426,21501184,4,2:08,nan,Clarkson  3PT Jump Shot (23 PTS) (Randle 5 AST),95 - 108,203903,Jordan Clarkson,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+147427,21501184,4,1:49,MISS Frazier 24' 3PT Jump Shot,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147428,21501184,4,1:48,Ajinca REBOUND (Off:5 Def:10),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147429,21501184,4,1:34,nan,Sacre S.FOUL (P3.T3) (T.Ford),nan,203135,Robert Sacre,LAL,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Shooting
+147430,21501184,4,1:34,Ajinca Free Throw 1 of 2 (27 PTS),nan,95 - 109,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+147431,21501184,4,1:34,SUB: Hamilton FOR Cunningham,nan,nan,201967,Dante Cunningham,NOP,202706,Jordan Hamilton,NOP,0,nan,nan,Substitution ,nan
+147432,21501184,4,1:34,Ajinca Free Throw 2 of 2 (28 PTS),nan,95 - 110,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+147433,21501184,4,1:25,Douglas P.FOUL (P3.T3) (M.Boland),nan,nan,201962,Toney Douglas,NOP,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Personal
+147434,21501184,4,1:11,nan,Clarkson  3PT Jump Shot (26 PTS) (Randle 6 AST),98 - 110,203903,Jordan Clarkson,LAL,203944,Julius Randle,LAL,0,nan,nan,Made Shot ,nan
+147435,21501184,4,0:50,MISS Hamilton 24' 3PT Jump Shot,nan,nan,202706,Jordan Hamilton,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147436,21501184,4,0:49,nan,Clarkson REBOUND (Off:1 Def:2),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147437,21501184,4,0:45,nan,MISS Russell 26' 3PT Jump Shot,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+147438,21501184,4,0:44,nan,Kelly REBOUND (Off:2 Def:1),nan,203527,Ryan Kelly,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147439,21501184,4,0:39,nan,Kelly 21' Jump Shot (2 PTS),100 - 110,203527,Ryan Kelly,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+147440,21501184,4,0:33,nan,Russell P.FOUL (P4.PN) (R.Mott),nan,1626156,D'Angelo Russell,LAL,204025,Tim Frazier,NOP,0,nan,nan,Foul ,Personal
+147441,21501184,4,0:33,MISS Frazier Free Throw 1 of 2,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+147442,21501184,4,0:33,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+147443,21501184,4,0:33,MISS Frazier Free Throw 2 of 2,nan,nan,204025,Tim Frazier,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+147444,21501184,4,0:32,nan,Sacre REBOUND (Off:1 Def:3),nan,203135,Robert Sacre,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+147445,21501184,4,0:23,Douglas Personal Block Foul (P4.PN) (M.Boland),nan,nan,201962,Toney Douglas,NOP,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Personal Block
+147446,21501184,4,0:23,nan,Russell Free Throw 1 of 2 (31 PTS),101 - 110,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+147447,21501184,4,0:23,nan,Russell Free Throw 2 of 2 (32 PTS),102 - 110,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+147448,21501184,4,0:00,nan,nan,102 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

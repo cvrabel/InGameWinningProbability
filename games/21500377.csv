@@ -1,0 +1,120 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+47412,21500377,4,12:00,nan,nan,66 - 74,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+47413,21500377,4,11:49,McDermott Traveling Turnover (P1.T13),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+47414,21500377,4,11:25,nan,MISS Green 22' Jump Shot,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47415,21500377,4,11:25,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47416,21500377,4,11:25,nan,Grizzlies Turnover: Shot Clock (T#13),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+47417,21500377,4,11:17,Noah Bad Pass Turnover (P2.T14),nan,nan,201149,Joakim Noah,CHI,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+47418,21500377,4,11:08,Hinrich P.FOUL (P2.T1) (K.Scott),nan,nan,2550,Kirk Hinrich,CHI,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Personal
+47419,21500377,4,10:55,Mirotic STEAL (2 STL),Lee Lost Ball Turnover (P1.T14),nan,201584,Courtney Lee,MEM,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Lost Ball
+47420,21500377,4,10:48,MISS Brooks 27' 3PT Jump Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47421,21500377,4,10:47,nan,Lee REBOUND (Off:0 Def:7),nan,201584,Courtney Lee,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47422,21500377,4,10:37,nan,Green Step Out of Bounds Turnover (P3.T15),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+47423,21500377,4,10:37,nan,Grizzlies Timeout: Regular (Reg.5 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+47424,21500377,4,10:24,MISS McDermott 22' Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47425,21500377,4,10:23,Brooks REBOUND (Off:1 Def:1),nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47426,21500377,4,10:10,McDermott 24' 3PT Jump Shot (12 PTS) (Mirotic 2 AST),nan,66 - 77,203926,Doug McDermott,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+47427,21500377,4,9:53,nan,Randolph 2' Layup (8 PTS) (Ennis 1 AST),68 - 77,2216,Zach Randolph,MEM,203516,James Ennis III,MEM,0,nan,nan,Made Shot ,nan
+47428,21500377,4,9:29,MISS Hinrich 10' Floating Jump Shot,nan,nan,2550,Kirk Hinrich,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47429,21500377,4,9:29,nan,Randolph REBOUND (Off:0 Def:9),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47430,21500377,4,9:29,Noah P.FOUL (P3.T2) (K.Scott),nan,nan,201149,Joakim Noah,CHI,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Personal
+47431,21500377,4,9:29,nan,SUB: Conley FOR Lee,nan,201584,Courtney Lee,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+47432,21500377,4,9:20,Brooks S.FOUL (P4.T3) (B.Spooner),nan,nan,201166,Aaron Brooks,CHI,201596,Mario Chalmers,MEM,0,nan,nan,Foul ,Shooting
+47433,21500377,4,9:20,nan,MISS Chalmers Free Throw 1 of 2,nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47434,21500377,4,9:20,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47435,21500377,4,9:20,nan,MISS Chalmers Free Throw 2 of 2,nan,201596,Mario Chalmers,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47436,21500377,4,9:18,McDermott REBOUND (Off:0 Def:1),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47437,21500377,4,9:10,nan,Chalmers S.FOUL (P2.T1) (B.Spooner),nan,201596,Mario Chalmers,MEM,201166,Aaron Brooks,CHI,0,nan,nan,Foul ,Shooting
+47438,21500377,4,9:10,MISS Brooks Free Throw 1 of 2,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47439,21500377,4,9:10,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47440,21500377,4,9:10,nan,SUB: Gasol FOR Green,nan,203210,JaMychal Green,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+47441,21500377,4,9:10,Brooks Free Throw 2 of 2 (4 PTS),nan,68 - 78,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47442,21500377,4,8:56,nan,Gasol OFF.Foul (P3) (K.Scott),nan,201188,Marc Gasol,MEM,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Offensive
+47443,21500377,4,8:56,nan,Gasol Foul Turnover (P3.T16),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+47444,21500377,4,8:56,SUB: Gasol FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,2200,Pau Gasol,CHI,0,nan,nan,Substitution ,nan
+47445,21500377,4,8:45,MISS McDermott 19' Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47446,21500377,4,8:44,nan,Randolph REBOUND (Off:0 Def:10),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47447,21500377,4,8:37,McDermott S.FOUL (P2.T4) (B.Spooner),nan,nan,203926,Doug McDermott,CHI,203516,James Ennis III,MEM,0,nan,nan,Foul ,Shooting
+47448,21500377,4,8:37,nan,Ennis Free Throw 1 of 2 (1 PTS),69 - 78,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47449,21500377,4,8:37,nan,MISS Ennis Free Throw 2 of 2,nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47450,21500377,4,8:35,Gasol REBOUND (Off:1 Def:8),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47451,21500377,4,8:18,Brooks 26' 3PT Jump Shot (7 PTS) (Hinrich 2 AST),nan,69 - 81,201166,Aaron Brooks,CHI,2550,Kirk Hinrich,CHI,0,nan,nan,Made Shot ,nan
+47452,21500377,4,8:02,nan,Ennis 26' 3PT Jump Shot (4 PTS) (Gasol 6 AST),72 - 81,203516,James Ennis III,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+47453,21500377,4,7:38,MISS McDermott 24' 3PT Jump Shot,Ennis BLOCK (1 BLK),nan,203926,Doug McDermott,CHI,0,nan,nan,203516,James Ennis III,MEM,Missed Shot ,nan
+47454,21500377,4,7:36,Brooks REBOUND (Off:2 Def:1),nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47455,21500377,4,7:34,MISS Brooks 6' Hook Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47456,21500377,4,7:34,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47457,21500377,4,7:34,BULLS Turnover: Shot Clock (T#15),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+47458,21500377,4,7:34,SUB: Butler FOR Hinrich,nan,nan,2550,Kirk Hinrich,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+47459,21500377,4,7:34,nan,SUB: Green FOR Ennis,nan,203516,James Ennis III,MEM,201145,Jeff Green,MEM,0,nan,nan,Substitution ,nan
+47460,21500377,4,7:22,nan,Gasol 2' Layup (8 PTS) (Green 1 AST),74 - 81,201188,Marc Gasol,MEM,201145,Jeff Green,MEM,0,nan,nan,Made Shot ,nan
+47461,21500377,4,7:06,McDermott 25' 3PT Jump Shot (15 PTS) (Gasol 2 AST),nan,74 - 84,203926,Doug McDermott,CHI,2200,Pau Gasol,CHI,0,nan,nan,Made Shot ,nan
+47462,21500377,4,6:40,nan,MISS Conley 25' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47463,21500377,4,6:39,Gasol REBOUND (Off:1 Def:9),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47464,21500377,4,6:23,nan,Randolph P.FOUL (P1.T2) (K.Scott),nan,2216,Zach Randolph,MEM,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Personal
+47465,21500377,4,6:08,MISS Brooks 27' 3PT Jump Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47466,21500377,4,6:07,nan,Gasol REBOUND (Off:0 Def:4),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47467,21500377,4,5:57,nan,Randolph 6' Hook Shot (10 PTS) (Green 2 AST),76 - 84,2216,Zach Randolph,MEM,201145,Jeff Green,MEM,0,nan,nan,Made Shot ,nan
+47468,21500377,4,5:30,MISS Brooks 7' Jump Shot,nan,nan,201166,Aaron Brooks,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47469,21500377,4,5:29,nan,Randolph REBOUND (Off:0 Def:11),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47470,21500377,4,5:07,nan,MISS Randolph 19' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47471,21500377,4,5:06,Gasol REBOUND (Off:1 Def:10),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47472,21500377,4,4:59,nan,Chalmers P.FOUL (P3.T3) (B.Spooner),nan,201596,Mario Chalmers,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+47473,21500377,4,4:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+47474,21500377,4,4:59,SUB: Rose FOR Brooks,nan,nan,201166,Aaron Brooks,CHI,201565,Derrick Rose,CHI,0,nan,nan,Substitution ,nan
+47475,21500377,4,4:59,nan,SUB: Lee FOR Chalmers,nan,201596,Mario Chalmers,MEM,201584,Courtney Lee,MEM,0,nan,nan,Substitution ,nan
+47476,21500377,4,4:46,Rose 8' Jump Bank Shot (18 PTS),nan,76 - 86,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+47477,21500377,4,4:27,nan,Conley 26' 3PT Jump Shot (7 PTS) (Gasol 7 AST),79 - 86,201144,Mike Conley,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+47478,21500377,4,4:14,McDermott 1' Cutting Layup Shot (17 PTS) (Noah 4 AST),nan,79 - 88,203926,Doug McDermott,CHI,201149,Joakim Noah,CHI,0,nan,nan,Made Shot ,nan
+47479,21500377,4,3:54,nan,MISS Conley 13' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47480,21500377,4,3:53,Gasol REBOUND (Off:1 Def:11),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47481,21500377,4,3:29,MISS Butler 8' Floating Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47482,21500377,4,3:28,nan,Gasol REBOUND (Off:0 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47483,21500377,4,3:20,Rose S.FOUL (P1.PN) (K.Scott),nan,nan,201565,Derrick Rose,CHI,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+47484,21500377,4,3:20,nan,MISS Conley Free Throw 1 of 2,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47485,21500377,4,3:20,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47486,21500377,4,3:20,nan,Conley Free Throw 2 of 2 (8 PTS),80 - 88,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47487,21500377,4,3:10,nan,Randolph P.FOUL (P2.T4) (K.Scott),nan,2216,Zach Randolph,MEM,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Personal
+47488,21500377,4,3:07,nan,Randolph P.FOUL (P3.PN) (S.Corbin),nan,2216,Zach Randolph,MEM,201565,Derrick Rose,CHI,0,nan,nan,Foul ,Personal
+47489,21500377,4,3:07,MISS Rose Free Throw 1 of 2,nan,nan,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47490,21500377,4,3:07,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47491,21500377,4,3:07,Rose Free Throw 2 of 2 (19 PTS),nan,80 - 89,201565,Derrick Rose,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47492,21500377,4,2:54,Gasol S.FOUL (P1.PN) (S.Corbin),nan,nan,2200,Pau Gasol,CHI,201145,Jeff Green,MEM,0,nan,nan,Foul ,Shooting
+47493,21500377,4,2:54,BULLS Timeout: Regular (Full 3 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+47494,21500377,4,2:54,nan,SUB: Barnes FOR Randolph,nan,2216,Zach Randolph,MEM,2440,Matt Barnes,MEM,0,nan,nan,Substitution ,nan
+47495,21500377,4,2:54,nan,MISS Green Free Throw 1 of 2,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47496,21500377,4,2:54,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+47497,21500377,4,2:54,nan,Green Free Throw 2 of 2 (11 PTS),81 - 89,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47498,21500377,4,2:44,Gasol 2' Layup (7 PTS) (Noah 5 AST),nan,81 - 91,2200,Pau Gasol,CHI,201149,Joakim Noah,CHI,0,nan,nan,Made Shot ,nan
+47499,21500377,4,2:44,nan,Lee S.FOUL (P2.PN) (S.Corbin),nan,201584,Courtney Lee,MEM,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Shooting
+47500,21500377,4,2:44,Gasol Free Throw 1 of 1 (8 PTS),nan,81 - 92,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+47501,21500377,4,2:33,Noah P.FOUL (P4.PN) (B.Spooner),nan,nan,201149,Joakim Noah,CHI,2440,Matt Barnes,MEM,0,nan,nan,Foul ,Personal
+47502,21500377,4,2:33,nan,Barnes Free Throw 1 of 2 (4 PTS),82 - 92,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47503,21500377,4,2:33,nan,Barnes Free Throw 2 of 2 (5 PTS),83 - 92,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47504,21500377,4,2:19,MISS McDermott 25' 3PT Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47505,21500377,4,2:18,nan,Conley REBOUND (Off:1 Def:5),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47506,21500377,4,2:01,nan,MISS Conley 7' Floating Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47507,21500377,4,2:00,nan,Gasol REBOUND (Off:1 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47508,21500377,4,1:54,nan,MISS Conley  3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47509,21500377,4,1:53,Gasol REBOUND (Off:1 Def:12),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47510,21500377,4,1:44,nan,Barnes S.FOUL (P4.PN) (B.Spooner),nan,2440,Matt Barnes,MEM,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+47511,21500377,4,1:44,Butler Free Throw 1 of 2 (21 PTS),nan,83 - 93,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47512,21500377,4,1:44,Butler Free Throw 2 of 2 (22 PTS),nan,83 - 94,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47513,21500377,4,1:35,nan,Barnes 15' Fadeaway Jumper (7 PTS) (Conley 2 AST),85 - 94,2440,Matt Barnes,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+47514,21500377,4,1:12,MISS Butler 19' Jump Shot,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47515,21500377,4,1:11,nan,Conley REBOUND (Off:1 Def:6),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47516,21500377,4,1:06,Butler Violation:Kicked Ball (.),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+47517,21500377,4,1:02,nan,MISS Conley 21' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47518,21500377,4,1:01,Noah REBOUND (Off:2 Def:4),nan,nan,201149,Joakim Noah,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47519,21500377,4,0:42,Butler 3' Layup (24 PTS) (Rose 5 AST),nan,85 - 96,202710,Jimmy Butler,CHI,201565,Derrick Rose,CHI,0,nan,nan,Made Shot ,nan
+47520,21500377,4,0:30,nan,MISS Green 26' 3PT Jump Shot,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47521,21500377,4,0:29,nan,Gasol REBOUND (Off:2 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47522,21500377,4,0:24,nan,MISS Barnes 25' 3PT Jump Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47523,21500377,4,0:24,Gasol REBOUND (Off:1 Def:13),nan,nan,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47524,21500377,4,0:24,nan,Gasol P.FOUL (P4.PN) (S.Corbin),nan,201188,Marc Gasol,MEM,2200,Pau Gasol,CHI,0,nan,nan,Foul ,Personal
+47525,21500377,4,0:24,Gasol Free Throw 1 of 2 (9 PTS),nan,85 - 97,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47526,21500377,4,0:24,Gasol Free Throw 2 of 2 (10 PTS),nan,85 - 98,2200,Pau Gasol,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47527,21500377,4,0:00,nan,MISS Conley 26' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47528,21500377,4,0:00,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47529,21500377,4,0:00,nan,Grizzlies Turnover: Shot Clock (T#17),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+47530,21500377,4,0:00,nan,nan,85 - 98,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

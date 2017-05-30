@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+19219,21500152,4,12:00,nan,nan,68 - 65,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+19220,21500152,4,11:48,Okafor OFF.Foul (P4) (S.Wright),nan,nan,1626143,Jahlil Okafor,PHI,2585,Zaza Pachulia,DAL,0,nan,nan,Foul ,Offensive
+19221,21500152,4,11:48,Okafor Foul Turnover (P4.T22),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+19222,21500152,4,11:34,nan,Pachulia OFF.Foul (P3) (J.Orr),nan,2585,Zaza Pachulia,DAL,203477,Isaiah Canaan,PHI,0,nan,nan,Foul ,Offensive
+19223,21500152,4,11:34,nan,Pachulia Foul Turnover (P2.T16),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+19224,21500152,4,11:10,MISS McConnell 3' Layup,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19225,21500152,4,11:08,nan,Barea REBOUND (Off:0 Def:1),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19226,21500152,4,10:55,nan,Barea 25' 3PT Pullup Jump Shot (9 PTS),71 - 65,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+19227,21500152,4,10:32,Okafor 1' Driving Reverse Layup (13 PTS),nan,71 - 67,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+19228,21500152,4,10:21,Okafor BLOCK (2 BLK),MISS Barea 8' Driving Floating Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,1626143,Jahlil Okafor,PHI,Missed Shot ,nan
+19229,21500152,4,10:18,McConnell REBOUND (Off:1 Def:4),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19230,21500152,4,10:14,McConnell 26' 3PT Jump Shot (13 PTS),nan,71 - 70,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+19231,21500152,4,10:12,nan,Mavericks Timeout: Regular (Reg.4 Short 0),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19232,21500152,4,10:12,SUB: Grant FOR Sampson,nan,nan,203960,JaKarr Sampson,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+19233,21500152,4,10:12,SUB: Covington FOR McConnell,nan,nan,204456,T.J. McConnell,PHI,203496,Robert Covington,PHI,0,nan,nan,Substitution ,nan
+19234,21500152,4,10:00,nan,Nowitzki 25' 3PT Jump Shot (12 PTS) (Harris 2 AST),74 - 70,1717,Dirk Nowitzki,DAL,2734,Devin Harris,DAL,0,nan,nan,Made Shot ,nan
+19235,21500152,4,9:39,MISS Canaan 24' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19236,21500152,4,9:37,nan,Pachulia REBOUND (Off:1 Def:4),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19237,21500152,4,9:30,nan,MISS Barea 25' 3PT Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19238,21500152,4,9:28,Okafor REBOUND (Off:2 Def:9),nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19239,21500152,4,9:11,Okafor 2' Driving Layup (15 PTS),nan,74 - 72,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+19240,21500152,4,8:59,nan,MISS Nowitzki 27' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19241,21500152,4,8:58,Grant REBOUND (Off:1 Def:2),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19242,21500152,4,8:48,MISS Canaan 26' 3PT Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19243,21500152,4,8:47,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19244,21500152,4,8:47,nan,Harris L.B.FOUL (P2.T1) (S.Wright),nan,2734,Devin Harris,DAL,203496,Robert Covington,PHI,0,nan,nan,Foul ,Loose Ball
+19245,21500152,4,8:47,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+19246,21500152,4,8:40,nan,Matthews S.FOUL (P3.T2) (J.Orr),nan,202083,Wesley Matthews,DAL,203496,Robert Covington,PHI,0,nan,nan,Foul ,Shooting
+19247,21500152,4,8:40,Covington Free Throw 1 of 2 (6 PTS),nan,74 - 73,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19248,21500152,4,8:40,nan,SUB: D. Williams FOR Matthews,nan,202083,Wesley Matthews,DAL,101114,Deron Williams,DAL,0,nan,nan,Substitution ,nan
+19249,21500152,4,8:40,Covington Free Throw 2 of 2 (7 PTS),nan,74 - 74,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19250,21500152,4,8:36,Covington P.FOUL (P4.T1) (M.Lindsay),nan,nan,203496,Robert Covington,PHI,2734,Devin Harris,DAL,0,nan,nan,Foul ,Personal
+19251,21500152,4,8:28,Okafor S.FOUL (P5.T2) (M.Lindsay),nan,nan,1626143,Jahlil Okafor,PHI,2734,Devin Harris,DAL,0,nan,nan,Foul ,Shooting
+19252,21500152,4,8:28,nan,Harris Free Throw 1 of 2 (9 PTS),75 - 74,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19253,21500152,4,8:28,SUB: Thompson FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Substitution ,nan
+19254,21500152,4,8:28,nan,MISS Harris Free Throw 2 of 2,nan,2734,Devin Harris,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19255,21500152,4,8:27,Thompson REBOUND (Off:0 Def:3),nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19256,21500152,4,8:07,MISS Noel 5' Jump Shot,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19257,21500152,4,8:07,Covington REBOUND (Off:2 Def:3),nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19258,21500152,4,8:07,MISS Covington 2' Tip Layup Shot,nan,nan,203496,Robert Covington,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19259,21500152,4,8:07,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19260,21500152,4,7:50,Grant 2' Driving Layup (11 PTS) (Noel 1 AST),nan,75 - 76,203924,Jerami Grant,PHI,203457,Nerlens Noel,PHI,0,nan,nan,Made Shot ,nan
+19261,21500152,4,7:43,Noel Shooting Block Foul (P3.T3) (J.Orr),nan,nan,203457,Nerlens Noel,PHI,101114,Deron Williams,DAL,0,nan,nan,Foul ,Shooting Block
+19262,21500152,4,7:43,nan,D. Williams Free Throw 1 of 2 (7 PTS),76 - 76,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19263,21500152,4,7:43,nan,SUB: Felton FOR Harris,nan,2734,Devin Harris,DAL,101109,Raymond Felton,DAL,0,nan,nan,Substitution ,nan
+19264,21500152,4,7:43,nan,SUB: Matthews FOR Barea,nan,200826,J.J. Barea,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+19265,21500152,4,7:43,nan,D. Williams Free Throw 2 of 2 (8 PTS),77 - 76,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19266,21500152,4,7:30,Noel Bad Pass Turnover (P4.T23),Powell STEAL (2 STL),nan,203457,Nerlens Noel,PHI,203939,Dwight Powell,DAL,0,nan,nan,Turnover ,Bad Pass
+19267,21500152,4,7:25,nan,Powell Out of Bounds Lost Ball Turnover (P3.T17),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+19268,21500152,4,7:07,Grant 2' Driving Layup (13 PTS),nan,77 - 78,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+19269,21500152,4,7:07,nan,Powell S.FOUL (P3.T3) (J.Orr),nan,203939,Dwight Powell,DAL,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Shooting
+19270,21500152,4,7:07,nan,Mavericks Timeout: Short (Reg.4 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+19271,21500152,4,7:07,SUB: McConnell FOR Covington,nan,nan,203496,Robert Covington,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Substitution ,nan
+19272,21500152,4,7:07,nan,SUB: Nowitzki FOR Pachulia,nan,2585,Zaza Pachulia,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+19273,21500152,4,7:07,nan,SUB: Evans FOR Powell,nan,203939,Dwight Powell,DAL,202379,Jeremy Evans,DAL,0,nan,nan,Substitution ,nan
+19274,21500152,4,7:07,MISS Grant Free Throw 1 of 1,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+19275,21500152,4,7:06,nan,D. Williams REBOUND (Off:0 Def:2),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19276,21500152,4,6:45,nan,Nowitzki 22' Turnaround Jump Shot (14 PTS),79 - 78,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+19277,21500152,4,6:27,Noel Traveling Turnover (P5.T24),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+19278,21500152,4,6:13,Grant STEAL (1 STL),Evans Lost Ball Turnover (P1.T18),nan,202379,Jeremy Evans,DAL,203924,Jerami Grant,PHI,0,nan,nan,Turnover ,Lost Ball
+19279,21500152,4,6:05,nan,Nowitzki S.FOUL (P3.T4) (M.Lindsay),nan,1717,Dirk Nowitzki,DAL,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+19280,21500152,4,6:05,MISS Noel Free Throw 1 of 2,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19281,21500152,4,6:05,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19282,21500152,4,6:05,nan,SUB: Powell FOR Evans,nan,202379,Jeremy Evans,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+19283,21500152,4,6:05,Noel Free Throw 2 of 2 (9 PTS),nan,79 - 79,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19284,21500152,4,5:50,nan,MISS Felton 5' Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19285,21500152,4,5:48,nan,Powell REBOUND (Off:2 Def:6),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19286,21500152,4,5:46,nan,MISS Nowitzki 26' 3PT Jump Shot,nan,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19287,21500152,4,5:44,McConnell REBOUND (Off:1 Def:5),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19288,21500152,4,5:37,MISS McConnell 25' 3PT Jump Shot,nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19289,21500152,4,5:35,nan,Matthews REBOUND (Off:1 Def:1),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19290,21500152,4,5:22,nan,MISS Matthews  3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19291,21500152,4,5:19,McConnell REBOUND (Off:1 Def:6),nan,nan,204456,T.J. McConnell,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19292,21500152,4,5:12,Noel  Cutting Dunk Shot (11 PTS) (Thompson 2 AST),nan,79 - 81,203457,Nerlens Noel,PHI,203138,Hollis Thompson,PHI,0,nan,nan,Made Shot ,nan
+19293,21500152,4,5:00,nan,Matthews OFF.Foul (P4) (M.Lindsay),nan,202083,Wesley Matthews,DAL,203924,Jerami Grant,PHI,0,nan,nan,Foul ,Offensive
+19294,21500152,4,5:00,nan,Matthews Foul Turnover (P2.T19),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+19295,21500152,4,5:00,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+19296,21500152,4,4:43,McConnell Bad Pass Turnover (P4.T25),Matthews STEAL (2 STL),nan,204456,T.J. McConnell,PHI,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Bad Pass
+19297,21500152,4,4:39,nan,Matthews  Running Layup (7 PTS),81 - 81,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+19298,21500152,4,4:23,nan,Nowitzki S.FOUL (P4.PN) (S.Wright),nan,1717,Dirk Nowitzki,DAL,203457,Nerlens Noel,PHI,0,nan,nan,Foul ,Shooting
+19299,21500152,4,4:23,MISS Noel Free Throw 1 of 2,nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19300,21500152,4,4:23,76ERS Rebound,nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+19301,21500152,4,4:23,Noel Free Throw 2 of 2 (12 PTS),nan,81 - 82,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19302,21500152,4,4:15,Grant P.FOUL (P4.T4) (M.Lindsay),nan,nan,203924,Jerami Grant,PHI,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+19303,21500152,4,4:15,SUB: Okafor FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,1626143,Jahlil Okafor,PHI,0,nan,nan,Substitution ,nan
+19304,21500152,4,3:59,nan,MISS Felton 26' 3PT Turnaround Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19305,21500152,4,3:56,Noel REBOUND (Off:2 Def:8),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19306,21500152,4,3:45,Grant Offensive Charge Foul (P5.PN) (S.Wright),nan,nan,203924,Jerami Grant,PHI,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Offensive Charge
+19307,21500152,4,3:45,Grant Foul Turnover (P3.T26),nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+19308,21500152,4,3:23,McConnell S.FOUL (P4.PN) (J.Orr),nan,nan,204456,T.J. McConnell,PHI,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Shooting
+19309,21500152,4,3:23,nan,Nowitzki Free Throw 1 of 2 (15 PTS),82 - 82,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19310,21500152,4,3:23,nan,SUB: Pachulia FOR Powell,nan,203939,Dwight Powell,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+19311,21500152,4,3:23,nan,Nowitzki Free Throw 2 of 2 (16 PTS),83 - 82,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19312,21500152,4,3:23,76ERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19313,21500152,4,3:23,SUB: Canaan FOR Grant,nan,nan,203924,Jerami Grant,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+19314,21500152,4,2:59,MISS Okafor 7' Turnaround Fadeaway Shot,nan,nan,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19315,21500152,4,2:56,nan,Pachulia REBOUND (Off:1 Def:5),nan,2585,Zaza Pachulia,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19316,21500152,4,2:41,nan,D. Williams 15' Pullup Jump Shot (10 PTS),85 - 82,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+19317,21500152,4,2:29,Thompson Bad Pass Turnover (P2.T27),D. Williams STEAL (1 STL),nan,203138,Hollis Thompson,PHI,101114,Deron Williams,DAL,0,nan,nan,Turnover ,Bad Pass
+19318,21500152,4,2:20,Thompson P.FOUL (P3.PN) (M.Lindsay),nan,nan,203138,Hollis Thompson,PHI,1717,Dirk Nowitzki,DAL,0,nan,nan,Foul ,Personal
+19319,21500152,4,2:20,nan,Nowitzki Free Throw 1 of 2 (17 PTS),86 - 82,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19320,21500152,4,2:20,nan,Nowitzki Free Throw 2 of 2 (18 PTS),87 - 82,1717,Dirk Nowitzki,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19321,21500152,4,2:00,Okafor  Dunk (17 PTS) (McConnell 6 AST),nan,87 - 84,1626143,Jahlil Okafor,PHI,204456,T.J. McConnell,PHI,0,nan,nan,Made Shot ,nan
+19322,21500152,4,1:47,nan,Nowitzki 26' 3PT Jump Shot (21 PTS) (Pachulia 2 AST),90 - 84,1717,Dirk Nowitzki,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Made Shot ,nan
+19323,21500152,4,1:47,76ERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19324,21500152,4,1:47,nan,SUB: Powell FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+19325,21500152,4,1:27,MISS Canaan 15' Jump Shot,nan,nan,203477,Isaiah Canaan,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19326,21500152,4,1:25,nan,Felton REBOUND (Off:0 Def:2),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19327,21500152,4,1:10,nan,MISS Felton 17' Jump Shot,nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19328,21500152,4,1:08,Noel REBOUND (Off:2 Def:9),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19329,21500152,4,0:53,Okafor 4' Hook Shot (19 PTS),nan,90 - 86,1626143,Jahlil Okafor,PHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+19330,21500152,4,0:53,nan,Mavericks Timeout: Regular (Reg.5 Short 1),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19331,21500152,4,0:53,SUB: Sampson FOR Canaan,nan,nan,203477,Isaiah Canaan,PHI,203960,JaKarr Sampson,PHI,0,nan,nan,Substitution ,nan
+19332,21500152,4,0:53,nan,SUB: Nowitzki FOR Powell,nan,203939,Dwight Powell,DAL,1717,Dirk Nowitzki,DAL,0,nan,nan,Substitution ,nan
+19333,21500152,4,0:53,SUB: Grant FOR Okafor,nan,nan,1626143,Jahlil Okafor,PHI,203924,Jerami Grant,PHI,0,nan,nan,Substitution ,nan
+19334,21500152,4,0:53,nan,SUB: Barea FOR Pachulia,nan,2585,Zaza Pachulia,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+19335,21500152,4,0:31,nan,MISS Matthews 26' 3PT Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19336,21500152,4,0:29,Noel REBOUND (Off:2 Def:10),nan,nan,203457,Nerlens Noel,PHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19337,21500152,4,0:22,MISS Grant 1' Driving Layup,nan,nan,203924,Jerami Grant,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19338,21500152,4,0:21,nan,D. Williams REBOUND (Off:0 Def:3),nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19339,21500152,4,0:21,Sampson P.FOUL (P3.PN) (S.Wright),nan,nan,203960,JaKarr Sampson,PHI,101114,Deron Williams,DAL,0,nan,nan,Foul ,Personal
+19340,21500152,4,0:21,nan,D. Williams Free Throw 1 of 2 (11 PTS),91 - 86,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+19341,21500152,4,0:21,SUB: Canaan FOR Sampson,nan,nan,203960,JaKarr Sampson,PHI,203477,Isaiah Canaan,PHI,0,nan,nan,Substitution ,nan
+19342,21500152,4,0:21,nan,D. Williams Free Throw 2 of 2 (12 PTS),92 - 86,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+19343,21500152,4,0:21,76ERS Timeout: Regular (Full 6 Short 0),nan,nan,1610612755,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+19344,21500152,4,0:21,nan,SUB: Evans FOR Nowitzki,nan,1717,Dirk Nowitzki,DAL,202379,Jeremy Evans,DAL,0,nan,nan,Substitution ,nan
+19345,21500152,4,0:21,nan,SUB: Pachulia FOR Barea,nan,200826,J.J. Barea,DAL,2585,Zaza Pachulia,DAL,0,nan,nan,Substitution ,nan
+19346,21500152,4,0:12,MISS Thompson 28' 3PT Jump Shot,nan,nan,203138,Hollis Thompson,PHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+19347,21500152,4,0:10,nan,Felton REBOUND (Off:0 Def:3),nan,101109,Raymond Felton,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+19348,21500152,4,0:00,nan,nan,92 - 86,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

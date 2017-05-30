@@ -1,0 +1,104 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+254089,21600816,4,12:00,nan,nan,65 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+254090,21600816,4,11:40,nan,Felicio 3 Second Violation Turnover (P1.T16),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+254091,21600816,4,11:40,nan,SUB: Canaan FOR McDermott,nan,203926,Doug McDermott,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+254092,21600816,4,11:26,Bjelica Bad Pass Turnover (P1.T13),Canaan STEAL (2 STL),nan,202357,Nemanja Bjelica,MIN,203477,Isaiah Canaan,CHI,0,nan,nan,Turnover ,Bad Pass
+254093,21600816,4,11:18,nan,MISS Valentine  3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254094,21600816,4,11:17,Bjelica REBOUND (Off:1 Def:3),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254095,21600816,4,11:06,nan,Rondo P.FOUL (P3.T1) (S.Corbin),nan,200765,Rajon Rondo,CHI,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+254096,21600816,4,10:58,Muhammad 1' Layup (9 PTS) (Bjelica 2 AST),nan,65 - 86,203498,Shabazz Muhammad,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+254097,21600816,4,10:36,nan,MISS Portis 24' 3PT Jump Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254098,21600816,4,10:34,Muhammad REBOUND (Off:1 Def:1),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254099,21600816,4,10:25,MISS Muhammad 25' 3PT Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254100,21600816,4,10:23,nan,Valentine REBOUND (Off:0 Def:2),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254101,21600816,4,10:18,nan,Rondo 1' Driving Finger Roll Layup (6 PTS) (Valentine 1 AST),67 - 86,200765,Rajon Rondo,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Made Shot ,nan
+254102,21600816,4,10:03,MISS Bjelica 3' Driving Layup,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254103,21600816,4,10:02,nan,Rondo REBOUND (Off:0 Def:3),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254104,21600816,4,9:55,nan,MISS Felicio  Driving Dunk,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254105,21600816,4,9:55,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254106,21600816,4,9:55,Stephenson L.B.FOUL (P1.T1) (C.Kirkland),nan,nan,202362,Lance Stephenson,MIN,200765,Rajon Rondo,CHI,0,nan,nan,Foul ,Loose Ball
+254107,21600816,4,9:47,nan,Rondo 21' Pullup Jump Shot (8 PTS),69 - 86,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254108,21600816,4,9:28,Stephenson 20' Step Back Jump Shot (2 PTS),nan,69 - 88,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254109,21600816,4,9:00,nan,Portis 22' Jump Shot (11 PTS) (Rondo 6 AST),71 - 88,1626171,Bobby Portis,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+254110,21600816,4,8:37,Stephenson 3' Running Finger Roll Layup (4 PTS),nan,71 - 90,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254111,21600816,4,8:33,Muhammad STEAL (1 STL),Rondo Bad Pass Turnover (P4.T17),nan,200765,Rajon Rondo,CHI,203498,Shabazz Muhammad,MIN,0,nan,nan,Turnover ,Bad Pass
+254112,21600816,4,8:28,Dieng  Dunk (10 PTS) (Bjelica 3 AST),nan,71 - 92,203476,Gorgui Dieng,MIN,202357,Nemanja Bjelica,MIN,0,nan,nan,Made Shot ,nan
+254113,21600816,4,8:16,Dieng Violation:Defensive Goaltending (C.Kirkland),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+254114,21600816,4,8:16,nan,Rondo 1' Driving Finger Roll Layup (10 PTS),73 - 92,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254115,21600816,4,8:07,nan,Valentine P.FOUL (P2.T2) (M.Ayotte),nan,1627756,Denzel Valentine,CHI,202362,Lance Stephenson,MIN,0,nan,nan,Foul ,Personal
+254116,21600816,4,8:07,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254117,21600816,4,8:07,SUB: Rubio FOR Dunn,nan,nan,1627739,Kris Dunn,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+254118,21600816,4,8:07,SUB: Towns FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+254119,21600816,4,7:55,Bjelica 1' Layup (4 PTS) (Towns 4 AST),nan,73 - 94,202357,Nemanja Bjelica,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+254120,21600816,4,7:35,Towns STEAL (1 STL),Rondo Bad Pass Turnover (P5.T18),nan,200765,Rajon Rondo,CHI,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Bad Pass
+254121,21600816,4,7:32,Muhammad 1' Layup (11 PTS) (Rubio 8 AST),nan,73 - 96,203498,Shabazz Muhammad,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+254122,21600816,4,7:32,nan,Canaan S.FOUL (P1.T3) (C.Kirkland),nan,203477,Isaiah Canaan,CHI,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+254123,21600816,4,7:32,SUB: Wiggins FOR Stephenson,nan,nan,202362,Lance Stephenson,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+254124,21600816,4,7:32,nan,SUB: McDermott FOR Canaan,nan,203477,Isaiah Canaan,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+254125,21600816,4,7:32,Muhammad Free Throw 1 of 1 (12 PTS),nan,73 - 97,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+254126,21600816,4,7:21,nan,MISS McDermott 25' 3PT Jump Shot,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254127,21600816,4,7:20,Bjelica REBOUND (Off:1 Def:4),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254128,21600816,4,7:02,Wiggins  Driving Dunk (25 PTS),nan,73 - 99,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254129,21600816,4,6:52,Wiggins BLOCK (1 BLK),MISS McDermott 3' Driving Layup,nan,203926,Doug McDermott,CHI,0,nan,nan,203952,Andrew Wiggins,MIN,Missed Shot ,nan
+254130,21600816,4,6:51,Towns REBOUND (Off:1 Def:6),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254131,21600816,4,6:42,nan,Felicio S.FOUL (P3.T4) (S.Corbin),nan,1626245,Cristiano Felicio,CHI,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Shooting
+254132,21600816,4,6:42,Wiggins Free Throw 1 of 2 (26 PTS),nan,73 - 100,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254133,21600816,4,6:42,nan,SUB: Carter-Williams FOR Rondo,nan,200765,Rajon Rondo,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+254134,21600816,4,6:42,Wiggins Free Throw 2 of 2 (27 PTS),nan,73 - 101,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254135,21600816,4,6:24,nan,MISS Carter-Williams 8' Fadeaway Jumper,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254136,21600816,4,6:23,Rubio REBOUND (Off:0 Def:6),nan,nan,201937,Ricky Rubio,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254137,21600816,4,6:16,Rubio Bad Pass Turnover (P4.T14),Valentine STEAL (2 STL),nan,201937,Ricky Rubio,MIN,1627756,Denzel Valentine,CHI,0,nan,nan,Turnover ,Bad Pass
+254138,21600816,4,6:11,Bjelica BLOCK (1 BLK),MISS McDermott 2' Driving Layup,nan,203926,Doug McDermott,CHI,0,nan,nan,202357,Nemanja Bjelica,MIN,Missed Shot ,nan
+254139,21600816,4,6:10,nan,Portis REBOUND (Off:2 Def:2),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254140,21600816,4,6:09,nan,Portis 1' Putback Layup (13 PTS),75 - 101,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254141,21600816,4,6:02,nan,Felicio S.FOUL (P4.PN) (M.Ayotte),nan,1626245,Cristiano Felicio,CHI,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+254142,21600816,4,6:02,Towns Free Throw 1 of 2 (21 PTS),nan,75 - 102,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254143,21600816,4,6:02,nan,SUB: Canaan FOR McDermott,nan,203926,Doug McDermott,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+254144,21600816,4,6:02,Towns Free Throw 2 of 2 (22 PTS),nan,75 - 103,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254145,21600816,4,5:50,nan,MISS Canaan 24' 3PT Jump Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254146,21600816,4,5:48,Wiggins REBOUND (Off:2 Def:3),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254147,21600816,4,5:29,MISS Wiggins 16' Turnaround Fadeaway Shot,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254148,21600816,4,5:28,nan,Portis REBOUND (Off:2 Def:3),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254149,21600816,4,5:14,nan,Valentine 25' 3PT Jump Shot (3 PTS),78 - 103,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254150,21600816,4,4:52,Bjelica 24' 3PT Jump Shot (7 PTS) (Rubio 9 AST),nan,78 - 106,202357,Nemanja Bjelica,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+254151,21600816,4,4:33,nan,Portis 3' Layup (15 PTS),80 - 106,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254152,21600816,4,4:33,Bjelica S.FOUL (P2.T2) (M.Ayotte),nan,nan,202357,Nemanja Bjelica,MIN,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Shooting
+254153,21600816,4,4:33,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254154,21600816,4,4:33,SUB: Rush FOR Muhammad,nan,nan,203498,Shabazz Muhammad,MIN,201575,Brandon Rush,MIN,0,nan,nan,Substitution ,nan
+254155,21600816,4,4:33,nan,Portis Free Throw 1 of 1 (16 PTS),81 - 106,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+254156,21600816,4,4:12,MISS Bjelica 20' Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254157,21600816,4,4:11,nan,Valentine REBOUND (Off:0 Def:3),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254158,21600816,4,3:54,nan,Carter-Williams 2' Driving Layup (10 PTS),83 - 106,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254159,21600816,4,3:37,Bjelica 24' 3PT Jump Shot (10 PTS) (Rubio 10 AST),nan,83 - 109,202357,Nemanja Bjelica,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+254160,21600816,4,3:21,nan,MISS Valentine 26' 3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254161,21600816,4,3:20,Wiggins REBOUND (Off:2 Def:4),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254162,21600816,4,2:59,Bjelica 2' Cutting Finger Roll Layup Shot (12 PTS) (Rubio 11 AST),nan,83 - 111,202357,Nemanja Bjelica,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Made Shot ,nan
+254163,21600816,4,2:59,nan,Portis S.FOUL (P2.PN) (C.Kirkland),nan,1626171,Bobby Portis,CHI,202357,Nemanja Bjelica,MIN,0,nan,nan,Foul ,Shooting
+254164,21600816,4,2:59,nan,Bulls Timeout: Regular (Reg.5 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254165,21600816,4,2:59,SUB: Aldrich FOR Towns,nan,nan,1626157,Karl-Anthony Towns,MIN,202332,Cole Aldrich,MIN,0,nan,nan,Substitution ,nan
+254166,21600816,4,2:59,Bjelica Free Throw 1 of 1 (13 PTS),nan,83 - 112,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+254167,21600816,4,2:41,Aldrich Shooting Block Foul (P1.T3) (C.Kirkland),nan,nan,202332,Cole Aldrich,MIN,203477,Isaiah Canaan,CHI,0,nan,nan,Foul ,Shooting Block
+254168,21600816,4,2:41,nan,Canaan Free Throw 1 of 2 (4 PTS),84 - 112,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254169,21600816,4,2:41,SUB: Jones FOR Rubio,nan,nan,201937,Ricky Rubio,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Substitution ,nan
+254170,21600816,4,2:41,nan,Canaan Free Throw 2 of 2 (5 PTS),85 - 112,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254171,21600816,4,2:33,Bjelica 25' 3PT Jump Shot (16 PTS) (Jones 1 AST),nan,85 - 115,202357,Nemanja Bjelica,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+254172,21600816,4,2:15,nan,MISS Carter-Williams 6' Jump Shot,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254173,21600816,4,2:14,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254174,21600816,4,2:14,SUB: Stephenson FOR Wiggins,nan,nan,203952,Andrew Wiggins,MIN,202362,Lance Stephenson,MIN,0,nan,nan,Substitution ,nan
+254175,21600816,4,2:00,Stephenson Bad Pass Turnover (P1.T15),Carter-Williams STEAL (2 STL),nan,202362,Lance Stephenson,MIN,203487,Michael Carter-Williams,CHI,0,nan,nan,Turnover ,Bad Pass
+254176,21600816,4,1:49,nan,MISS Felicio 5' Hook Shot,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254177,21600816,4,1:49,Aldrich REBOUND (Off:1 Def:2),nan,nan,202332,Cole Aldrich,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254178,21600816,4,1:24,MISS Bjelica 12' Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254179,21600816,4,1:23,nan,Portis REBOUND (Off:2 Def:4),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254180,21600816,4,1:16,nan,MISS Canaan 13' Jump Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254181,21600816,4,1:15,nan,Felicio REBOUND (Off:1 Def:3),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254182,21600816,4,1:15,nan,Felicio 1' Tip Layup Shot (7 PTS),87 - 115,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254183,21600816,4,0:54,Stephenson 5' Jump Shot (6 PTS),nan,87 - 117,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254184,21600816,4,0:44,nan,Carter-Williams 12' Jump Bank Shot (12 PTS),89 - 117,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+254185,21600816,4,0:27,MISS Bjelica 26' 3PT Jump Shot,nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254186,21600816,4,0:26,nan,Carter-Williams REBOUND (Off:0 Def:7),nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254187,21600816,4,0:15,nan,MISS Canaan 20' Jump Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254188,21600816,4,0:14,nan,Valentine REBOUND (Off:1 Def:3),nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254189,21600816,4,0:10,nan,MISS Valentine 24' 3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254190,21600816,4,0:09,Bjelica REBOUND (Off:1 Def:5),nan,nan,202357,Nemanja Bjelica,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254191,21600816,4,0:00,nan,nan,89 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

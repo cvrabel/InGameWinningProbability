@@ -1,0 +1,129 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+284402,21601067,4,12:00,nan,nan,65 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+284403,21601067,4,11:44,nan,MISS Booker 13' Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284404,21601067,4,11:43,McDaniels REBOUND (Off:2 Def:6),nan,nan,203909,KJ McDaniels,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284405,21601067,4,11:35,Dinwiddie 11' Jump Shot (6 PTS),nan,65 - 86,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284406,21601067,4,11:26,nan,Chriss  Alley Oop Dunk (16 PTS) (Ulis 10 AST),67 - 86,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+284407,21601067,4,11:07,Acy 26' 3PT Jump Shot (10 PTS) (Dinwiddie 2 AST),nan,67 - 89,203112,Quincy Acy,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Made Shot ,nan
+284408,21601067,4,10:51,Dinwiddie STEAL (2 STL),Chriss Bad Pass Turnover (P1.T17),nan,1627737,Marquese Chriss,PHX,203915,Spencer Dinwiddie,BKN,0,nan,nan,Turnover ,Bad Pass
+284409,21601067,4,10:42,nan,Booker P.FOUL (P3.T1) (P.Fraher),nan,1626164,Devin Booker,PHX,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Personal
+284410,21601067,4,10:42,nan,SUB: Len FOR Dudley,nan,201162,Jared Dudley,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+284411,21601067,4,10:33,Booker Traveling Turnover (P1.T16),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Turnover ,Traveling
+284412,21601067,4,10:16,Acy S.FOUL (P4.T1) (S.Wall),nan,nan,203112,Quincy Acy,BKN,203458,Alex Len,PHX,0,nan,nan,Foul ,Shooting
+284413,21601067,4,10:16,nan,Len Free Throw 1 of 2 (10 PTS),68 - 89,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284414,21601067,4,10:16,nan,Len Free Throw 2 of 2 (11 PTS),69 - 89,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284415,21601067,4,9:58,MISS Acy 2' Layup,Len BLOCK (2 BLK),nan,203112,Quincy Acy,BKN,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+284416,21601067,4,9:56,nan,Ulis REBOUND (Off:0 Def:4),nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284417,21601067,4,9:47,nan,MISS Booker 7' Floating Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284418,21601067,4,9:44,Booker REBOUND (Off:4 Def:3),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284419,21601067,4,9:38,Booker 1' Running Layup (11 PTS),nan,69 - 91,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284420,21601067,4,9:27,nan,Len Offensive Charge Foul (P4.T2) (P.Fraher),nan,203458,Alex Len,PHX,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Offensive Charge
+284421,21601067,4,9:27,nan,Len Foul Turnover (P2.T18),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+284422,21601067,4,9:06,McDaniels 24' 3PT Jump Shot (12 PTS) (Acy 4 AST),nan,69 - 94,203909,KJ McDaniels,BKN,203112,Quincy Acy,BKN,0,nan,nan,Made Shot ,nan
+284423,21601067,4,9:00,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+284424,21601067,4,8:53,McDaniels STEAL (2 STL),Ulis Bad Pass Turnover (P3.T19),nan,1627755,Tyler Ulis,PHX,203909,KJ McDaniels,BKN,0,nan,nan,Turnover ,Bad Pass
+284425,21601067,4,8:50,McDaniels 2' Running Layup (14 PTS),nan,69 - 96,203909,KJ McDaniels,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284426,21601067,4,8:35,Foye S.FOUL (P2.T2) (S.Wall),nan,nan,200751,Randy Foye,BKN,1627737,Marquese Chriss,PHX,0,nan,nan,Foul ,Shooting
+284427,21601067,4,8:35,nan,Chriss Free Throw 1 of 2 (17 PTS),70 - 96,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284428,21601067,4,8:35,nan,Chriss Free Throw 2 of 2 (18 PTS),71 - 96,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284429,21601067,4,8:27,nan,Len S.FOUL (P5.T3) (S.Foster),nan,203458,Alex Len,PHX,203909,KJ McDaniels,BKN,0,nan,nan,Foul ,Shooting
+284430,21601067,4,8:27,McDaniels Free Throw 1 of 2 (15 PTS),nan,71 - 97,203909,KJ McDaniels,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284431,21601067,4,8:27,McDaniels Free Throw 2 of 2 (16 PTS),nan,71 - 98,203909,KJ McDaniels,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284432,21601067,4,8:13,nan,MISS Ulis 21' Pullup Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284433,21601067,4,8:12,Booker REBOUND (Off:4 Def:4),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284434,21601067,4,8:01,nan,Len S.FOUL (P6.T4) (S.Foster),nan,203458,Alex Len,PHX,203112,Quincy Acy,BKN,0,nan,nan,Foul ,Shooting
+284435,21601067,4,8:01,nan,SUB: Williams FOR Len,nan,203458,Alex Len,PHX,1626210,Alan Williams,PHX,0,nan,nan,Substitution ,nan
+284436,21601067,4,8:01,Acy Free Throw 1 of 2 (11 PTS),nan,71 - 99,203112,Quincy Acy,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284437,21601067,4,8:01,Acy Free Throw 2 of 2 (12 PTS),nan,71 - 100,203112,Quincy Acy,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284438,21601067,4,7:47,nan,MISS Booker 16' Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284439,21601067,4,7:46,nan,Williams REBOUND (Off:2 Def:2),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284440,21601067,4,7:42,nan,MISS Ulis 17' Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284441,21601067,4,7:39,nan,Ulis REBOUND (Off:1 Def:4),nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284442,21601067,4,7:33,nan,Chriss 25' 3PT Jump Shot (21 PTS) (Ulis 11 AST),74 - 100,1627737,Marquese Chriss,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+284443,21601067,4,7:30,NETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+284444,21601067,4,7:30,SUB: Hamilton FOR Acy,nan,nan,203112,Quincy Acy,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Substitution ,nan
+284445,21601067,4,7:30,SUB: Goodwin FOR Dinwiddie,nan,nan,203915,Spencer Dinwiddie,BKN,203462,Archie Goodwin,BKN,0,nan,nan,Substitution ,nan
+284446,21601067,4,7:30,SUB: Whitehead FOR McDaniels,nan,nan,203909,KJ McDaniels,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Substitution ,nan
+284447,21601067,4,7:18,Booker 25' 3PT Jump Shot (14 PTS),nan,74 - 103,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284448,21601067,4,7:05,nan,Barbosa 13' Jump Shot (2 PTS),76 - 103,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284449,21601067,4,6:57,MISS Booker 2' Driving Finger Roll Layup,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284450,21601067,4,6:56,nan,Williams REBOUND (Off:2 Def:3),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284451,21601067,4,6:51,Whitehead BLOCK (1 BLK),MISS Booker 2' Driving Layup,nan,1626164,Devin Booker,PHX,0,nan,nan,1627785,Isaiah Whitehead,BKN,Missed Shot ,nan
+284452,21601067,4,6:49,Goodwin REBOUND (Off:0 Def:1),nan,nan,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284453,21601067,4,6:45,Goodwin 2' Layup (2 PTS),nan,76 - 105,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284454,21601067,4,6:25,nan,Barbosa 2' Driving Layup (4 PTS),78 - 105,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284455,21601067,4,5:59,MISS Hamilton 25' 3PT Jump Shot,nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284456,21601067,4,5:58,nan,Williams REBOUND (Off:2 Def:4),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284457,21601067,4,5:51,Hamilton P.FOUL (P1.T3) (S.Wall),nan,nan,203120,Justin Hamilton,BKN,2571,Leandro Barbosa,PHX,0,nan,nan,Foul ,Personal
+284458,21601067,4,5:51,SUB: Nicholson FOR Booker,nan,nan,202344,Trevor Booker,BKN,203094,Andrew Nicholson,BKN,0,nan,nan,Substitution ,nan
+284459,21601067,4,5:40,nan,MISS Ulis 24' 3PT Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284460,21601067,4,5:39,nan,Chriss REBOUND (Off:3 Def:5),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284461,21601067,4,5:32,Hamilton STEAL (1 STL),Ulis Bad Pass Turnover (P4.T20),nan,1627755,Tyler Ulis,PHX,203120,Justin Hamilton,BKN,0,nan,nan,Turnover ,Bad Pass
+284462,21601067,4,5:29,nan,Booker S.FOUL (P4.PN) (S.Wall),nan,1626164,Devin Booker,PHX,203120,Justin Hamilton,BKN,0,nan,nan,Foul ,Shooting
+284463,21601067,4,5:29,Hamilton Free Throw 1 of 2 (1 PTS),nan,78 - 106,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284464,21601067,4,5:29,SUB: McDaniels FOR Foye,nan,nan,200751,Randy Foye,BKN,203909,KJ McDaniels,BKN,0,nan,nan,Substitution ,nan
+284465,21601067,4,5:29,Hamilton Free Throw 2 of 2 (2 PTS),nan,78 - 107,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284466,21601067,4,5:11,nan,MISS Williams 4' Hook Shot,nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284467,21601067,4,5:11,Nicholson REBOUND (Off:0 Def:1),nan,nan,203094,Andrew Nicholson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284468,21601067,4,5:01,Hamilton 18' Jump Shot (4 PTS) (Goodwin 1 AST),nan,78 - 109,203120,Justin Hamilton,BKN,203462,Archie Goodwin,BKN,0,nan,nan,Made Shot ,nan
+284469,21601067,4,4:54,Hamilton S.FOUL (P2.T4) (S.Wall),nan,nan,203120,Justin Hamilton,BKN,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+284470,21601067,4,4:54,nan,Booker Free Throw 1 of 2 (28 PTS),79 - 109,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284471,21601067,4,4:54,nan,SUB: Eddie FOR Ulis,nan,1627755,Tyler Ulis,PHX,204067,Jarell Eddie,PHX,0,nan,nan,Substitution ,nan
+284472,21601067,4,4:54,nan,MISS Booker Free Throw 2 of 2,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284473,21601067,4,4:53,nan,Williams REBOUND (Off:3 Def:4),nan,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284474,21601067,4,4:50,nan,Williams 1' Layup (2 PTS),81 - 109,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284475,21601067,4,4:38,Goodwin 3' Driving Finger Roll Layup (4 PTS) (Hamilton 1 AST),nan,81 - 111,203462,Archie Goodwin,BKN,203120,Justin Hamilton,BKN,0,nan,nan,Made Shot ,nan
+284476,21601067,4,4:30,McDaniels S.FOUL (P1.PN) (P.Fraher),nan,nan,203909,KJ McDaniels,BKN,2571,Leandro Barbosa,PHX,0,nan,nan,Foul ,Shooting
+284477,21601067,4,4:30,nan,MISS Barbosa Free Throw 1 of 2,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284478,21601067,4,4:30,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+284479,21601067,4,4:30,nan,Barbosa Free Throw 2 of 2 (5 PTS),82 - 111,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284480,21601067,4,4:18,Hamilton 5' Jump Bank Shot (6 PTS) (Goodwin 2 AST),nan,82 - 113,203120,Justin Hamilton,BKN,203462,Archie Goodwin,BKN,0,nan,nan,Made Shot ,nan
+284481,21601067,4,4:03,nan,MISS Chriss 26' 3PT Step Back Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284482,21601067,4,4:02,Goodwin REBOUND (Off:0 Def:2),nan,nan,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284483,21601067,4,3:57,nan,Booker S.FOUL (P5.PN) (P.Fraher),nan,1626164,Devin Booker,PHX,203462,Archie Goodwin,BKN,0,nan,nan,Foul ,Shooting
+284484,21601067,4,3:57,Goodwin Free Throw 1 of 2 (5 PTS),nan,82 - 114,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284485,21601067,4,3:57,Goodwin Free Throw 2 of 2 (6 PTS),nan,82 - 115,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284486,21601067,4,3:43,nan,Barbosa 4' Floating Jump Shot (7 PTS),84 - 115,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284487,21601067,4,3:37,nan,Booker S.FOUL (P6.PN) (S.Wall),nan,1626164,Devin Booker,PHX,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Shooting
+284488,21601067,4,3:37,nan,SUB: Ulis FOR Booker,nan,1626164,Devin Booker,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Substitution ,nan
+284489,21601067,4,3:37,Whitehead Free Throw 1 of 2 (11 PTS),nan,84 - 116,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284490,21601067,4,3:37,MISS Whitehead Free Throw 2 of 2,nan,nan,1627785,Isaiah Whitehead,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284491,21601067,4,3:36,nan,Chriss REBOUND (Off:3 Def:6),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284492,21601067,4,3:15,McDaniels S.FOUL (P2.PN) (S.Wall),nan,nan,203909,KJ McDaniels,BKN,2571,Leandro Barbosa,PHX,0,nan,nan,Foul ,Shooting
+284493,21601067,4,3:15,nan,Barbosa Free Throw 1 of 2 (8 PTS),85 - 116,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284494,21601067,4,3:15,nan,Barbosa Free Throw 2 of 2 (9 PTS),86 - 116,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284495,21601067,4,3:04,MISS Hamilton 3' Alley Oop Layup,nan,nan,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284496,21601067,4,3:03,nan,Eddie REBOUND (Off:0 Def:2),nan,204067,Jarell Eddie,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284497,21601067,4,2:59,Whitehead Shooting Block Foul (P4.PN) (P.Fraher),nan,nan,1627785,Isaiah Whitehead,BKN,204067,Jarell Eddie,PHX,0,nan,nan,Foul ,Shooting Block
+284498,21601067,4,2:59,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+284499,21601067,4,2:59,nan,Eddie Free Throw 1 of 2 (1 PTS),87 - 116,204067,Jarell Eddie,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284500,21601067,4,2:59,nan,Eddie Free Throw 2 of 2 (2 PTS),88 - 116,204067,Jarell Eddie,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284501,21601067,4,2:42,Goodwin 25' 3PT Jump Shot (9 PTS),nan,88 - 119,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284502,21601067,4,2:27,nan,MISS Chriss 16' Turnaround Fadeaway Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284503,21601067,4,2:26,Goodwin REBOUND (Off:0 Def:3),nan,nan,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284504,21601067,4,2:10,Nicholson Lost Ball Turnover (P1.T17),Eddie STEAL (1 STL),nan,203094,Andrew Nicholson,BKN,204067,Jarell Eddie,PHX,0,nan,nan,Turnover ,Lost Ball
+284505,21601067,4,2:07,McDaniels S.FOUL (P3.PN) (S.Wall),nan,nan,203909,KJ McDaniels,BKN,1626210,Alan Williams,PHX,0,nan,nan,Foul ,Shooting
+284506,21601067,4,2:07,nan,Williams Free Throw 1 of 2 (3 PTS),89 - 119,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284507,21601067,4,2:07,nan,Williams Free Throw 2 of 2 (4 PTS),90 - 119,1626210,Alan Williams,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284508,21601067,4,1:57,Goodwin 2' Driving Layup (11 PTS),nan,90 - 121,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+284509,21601067,4,1:49,nan,MISS Chriss 25' 3PT Jump Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284510,21601067,4,1:48,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284511,21601067,4,1:48,nan,Williams L.B.FOUL (P4.PN) (P.Fraher),nan,1626210,Alan Williams,PHX,203120,Justin Hamilton,BKN,0,nan,nan,Foul ,Loose Ball
+284512,21601067,4,1:48,Hamilton Free Throw 1 of 2 (7 PTS),nan,90 - 122,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284513,21601067,4,1:48,Hamilton Free Throw 2 of 2 (8 PTS),nan,90 - 123,203120,Justin Hamilton,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284514,21601067,4,1:38,nan,Ulis 12' Jump Shot (8 PTS),92 - 123,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284515,21601067,4,1:26,MISS Nicholson 27' 3PT Jump Shot,nan,nan,203094,Andrew Nicholson,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284516,21601067,4,1:25,nan,Chriss REBOUND (Off:3 Def:7),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284517,21601067,4,1:14,nan,Barbosa 17' Jump Shot (11 PTS) (Ulis 12 AST),94 - 123,2571,Leandro Barbosa,PHX,1627755,Tyler Ulis,PHX,0,nan,nan,Made Shot ,nan
+284518,21601067,4,1:05,nan,Barbosa P.FOUL (P2.PN) (S.Wall),nan,2571,Leandro Barbosa,PHX,203462,Archie Goodwin,BKN,0,nan,nan,Foul ,Personal
+284519,21601067,4,1:05,MISS Goodwin Free Throw 1 of 2,nan,nan,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+284520,21601067,4,1:05,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+284521,21601067,4,1:05,Goodwin Free Throw 2 of 2 (12 PTS),nan,94 - 124,203462,Archie Goodwin,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+284522,21601067,4,0:56,nan,Ulis 17' Pullup Jump Shot (10 PTS),96 - 124,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284523,21601067,4,0:37,Hamilton 2' Cutting Layup Shot (10 PTS) (Goodwin 3 AST),nan,96 - 126,203120,Justin Hamilton,BKN,203462,Archie Goodwin,BKN,0,nan,nan,Made Shot ,nan
+284524,21601067,4,0:23,nan,MISS Ulis 20' Jump Shot,nan,1627755,Tyler Ulis,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284525,21601067,4,0:21,nan,Barbosa REBOUND (Off:1 Def:5),nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284526,21601067,4,0:19,nan,MISS Barbosa 25' 3PT Jump Shot,nan,2571,Leandro Barbosa,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+284527,21601067,4,0:19,nan,Chriss REBOUND (Off:4 Def:7),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+284528,21601067,4,0:18,nan,Chriss  Putback Dunk (23 PTS),98 - 126,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+284529,21601067,4,0:00,nan,nan,98 - 126,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

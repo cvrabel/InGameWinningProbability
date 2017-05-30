@@ -1,0 +1,133 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+227446,21600602,4,12:00,nan,nan,71 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+227447,21600602,4,11:44,nan,MISS Cunningham 9' Jump Shot,nan,201967,Dante Cunningham,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227448,21600602,4,11:43,Rondo REBOUND (Off:0 Def:2),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227449,21600602,4,11:42,Rondo Out of Bounds - Bad Pass Turnover Turnover (P2.T7),nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+227450,21600602,4,11:37,Wade FLAGRANT.FOUL.TYPE1 (P2.T1) (J.Goble),nan,nan,2548,Dwyane Wade,CHI,203093,Terrence Jones,NOP,0,nan,nan,Foul ,Flagrant Type 1
+227451,21600602,4,11:37,nan,nan,nan,393,Rod Strickland,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+227452,21600602,4,11:37,nan,MISS Jones Free Throw Flagrant 1 of 2,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+227453,21600602,4,11:37,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+227454,21600602,4,11:37,nan,Jones Free Throw Flagrant 2 of 2 (9 PTS),72 - 77,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+227455,21600602,4,11:21,nan,Cunningham  3PT Jump Shot (7 PTS) (Moore 2 AST),75 - 77,201967,Dante Cunningham,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Made Shot ,nan
+227456,21600602,4,11:01,Wade 20' Jump Shot (7 PTS),nan,75 - 79,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227457,21600602,4,10:54,nan,Evans 1' Driving Layup (10 PTS),77 - 79,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+227458,21600602,4,10:54,Portis S.FOUL (P2.T2) (D.Taylor),nan,nan,1626171,Bobby Portis,CHI,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Shooting
+227459,21600602,4,10:54,nan,Evans Free Throw 1 of 1 (11 PTS),78 - 79,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227460,21600602,4,10:42,MISS Rondo 20' Jump Shot,nan,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227461,21600602,4,10:41,nan,Motiejunas REBOUND (Off:0 Def:1),nan,202700,Donatas Motiejunas,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227462,21600602,4,10:28,McDermott STEAL (1 STL),Motiejunas Bad Pass Turnover (P1.T11),nan,202700,Donatas Motiejunas,NOP,203926,Doug McDermott,CHI,0,nan,nan,Turnover ,Bad Pass
+227463,21600602,4,10:19,Wade 20' Jump Shot (9 PTS),nan,78 - 81,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227464,21600602,4,10:01,nan,MISS Moore 25' 3PT Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227465,21600602,4,10:01,McDermott REBOUND (Off:2 Def:5),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227466,21600602,4,10:01,nan,Cunningham P.FOUL (P2.T1) (J.Goble),nan,201967,Dante Cunningham,NOP,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Personal
+227467,21600602,4,10:01,SUB: Carter-Williams FOR Rondo,nan,nan,200765,Rajon Rondo,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+227468,21600602,4,9:47,Portis Bad Pass Turnover (P1.T8),Evans STEAL (1 STL),nan,1626171,Bobby Portis,CHI,201936,Tyreke Evans,NOP,0,nan,nan,Turnover ,Bad Pass
+227469,21600602,4,9:43,nan,MISS Evans 2' Running Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227470,21600602,4,9:42,nan,Motiejunas REBOUND (Off:1 Def:1),nan,202700,Donatas Motiejunas,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227471,21600602,4,9:42,nan,Motiejunas 2' Putback Layup (2 PTS),80 - 81,202700,Donatas Motiejunas,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+227472,21600602,4,9:22,Wade 5' Floating Jump Shot (11 PTS),nan,80 - 83,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227473,21600602,4,9:11,nan,MISS Evans 1' Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227474,21600602,4,9:09,Portis REBOUND (Off:1 Def:4),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227475,21600602,4,9:01,Wade 18' Jump Shot (13 PTS),nan,80 - 85,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227476,21600602,4,9:01,nan,Pelicans Timeout: Regular (Reg.4 Short 0),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227477,21600602,4,9:01,SUB: Gibson FOR McDermott,nan,nan,203926,Doug McDermott,CHI,201959,Taj Gibson,CHI,0,nan,nan,Substitution ,nan
+227478,21600602,4,9:01,SUB: Butler FOR Portis,nan,nan,1626171,Bobby Portis,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Substitution ,nan
+227479,21600602,4,9:01,nan,SUB: Davis FOR Motiejunas,nan,202700,Donatas Motiejunas,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+227480,21600602,4,8:40,nan,MISS Moore 23' Jump Shot,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227481,21600602,4,8:38,Gibson REBOUND (Off:2 Def:9),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227482,21600602,4,8:29,nan,Jones S.FOUL (P1.T2) (J.Goble),nan,203093,Terrence Jones,NOP,1626245,Cristiano Felicio,CHI,0,nan,nan,Foul ,Shooting
+227483,21600602,4,8:29,Felicio Free Throw 1 of 2 (9 PTS),nan,80 - 86,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227484,21600602,4,8:29,MISS Felicio Free Throw 2 of 2,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227485,21600602,4,8:27,nan,Jones REBOUND (Off:1 Def:7),nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227486,21600602,4,8:14,Jump Ball Felicio vs. Davis: Tip to Evans,nan,nan,1626245,Cristiano Felicio,CHI,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,Jump Ball ,nan
+227487,21600602,4,8:05,nan,Davis 21' Jump Shot (23 PTS) (Evans 3 AST),82 - 86,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+227488,21600602,4,7:56,nan,Cunningham P.FOUL (P3.T3) (M.Boland),nan,201967,Dante Cunningham,NOP,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+227489,21600602,4,7:50,Wade 25' 3PT Jump Shot (16 PTS),nan,82 - 89,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227490,21600602,4,7:39,Gibson BLOCK (2 BLK),MISS Evans 2' Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,201959,Taj Gibson,CHI,Missed Shot ,nan
+227491,21600602,4,7:37,Carter-Williams REBOUND (Off:0 Def:2),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227492,21600602,4,7:32,Carter-Williams 3' Cutting Layup Shot (11 PTS) (Butler 6 AST),nan,82 - 91,203487,Michael Carter-Williams,CHI,202710,Jimmy Butler,CHI,0,nan,nan,Made Shot ,nan
+227493,21600602,4,7:22,Butler P.FOUL (P1.T3) (M.Boland),nan,nan,202710,Jimmy Butler,CHI,201967,Dante Cunningham,NOP,0,nan,nan,Foul ,Personal
+227494,21600602,4,7:22,nan,nan,nan,202710,Jimmy Butler,CHI,201967,Dante Cunningham,NOP,0,nan,nan,Foul ,Double Technical
+227495,21600602,4,7:22,nan,SUB: S. Hill FOR Cunningham,nan,201967,Dante Cunningham,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+227496,21600602,4,7:14,nan,Davis 21' Jump Shot (25 PTS) (Evans 4 AST),84 - 91,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+227497,21600602,4,6:54,Gibson Offensive Charge Foul (P2.T4) (J.Goble),nan,nan,201959,Taj Gibson,CHI,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Offensive Charge
+227498,21600602,4,6:54,Gibson Foul Turnover (P2.T9),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Turnover ,Foul
+227499,21600602,4,6:37,nan,Davis 20' Jump Shot (27 PTS) (Evans 5 AST),86 - 91,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+227500,21600602,4,6:20,Gibson 18' Jump Shot (12 PTS) (Carter-Williams 2 AST),nan,86 - 93,201959,Taj Gibson,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Made Shot ,nan
+227501,21600602,4,6:06,nan,MISS Evans 26' 3PT Jump Shot,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227502,21600602,4,6:05,Butler REBOUND (Off:1 Def:6),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227503,21600602,4,5:56,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227504,21600602,4,5:55,nan,Davis REBOUND (Off:3 Def:8),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227505,21600602,4,5:45,nan,MISS S. Hill 25' 3PT Jump Shot,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227506,21600602,4,5:44,Felicio REBOUND (Off:3 Def:3),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227507,21600602,4,5:33,nan,Jones S.FOUL (P2.T4) (M.Boland),nan,203093,Terrence Jones,NOP,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Shooting
+227508,21600602,4,5:33,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227509,21600602,4,5:33,nan,SUB: Holiday FOR Jones,nan,203093,Terrence Jones,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+227510,21600602,4,5:33,Butler Free Throw 1 of 2 (24 PTS),nan,86 - 94,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227511,21600602,4,5:33,MISS Butler Free Throw 2 of 2,nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227512,21600602,4,5:33,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227513,21600602,4,5:33,nan,S. Hill L.B.FOUL (P5.PN) (J.Goble),nan,203524,Solomon Hill,NOP,201959,Taj Gibson,CHI,0,nan,nan,Foul ,Loose Ball
+227514,21600602,4,5:33,Gibson Free Throw 1 of 2 (13 PTS),nan,86 - 95,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227515,21600602,4,5:33,nan,SUB: Jones FOR S. Hill,nan,203524,Solomon Hill,NOP,203093,Terrence Jones,NOP,0,nan,nan,Substitution ,nan
+227516,21600602,4,5:33,MISS Gibson Free Throw 2 of 2,nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227517,21600602,4,5:31,nan,Davis REBOUND (Off:3 Def:9),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227518,21600602,4,5:19,Carter-Williams P.FOUL (P4.PN) (M.Boland),nan,nan,203487,Michael Carter-Williams,CHI,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Personal
+227519,21600602,4,5:07,nan,MISS Evans 2' Driving Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227520,21600602,4,5:06,Gibson REBOUND (Off:2 Def:10),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227521,21600602,4,4:43,MISS Gibson 2' Layup,nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227522,21600602,4,4:42,nan,Davis REBOUND (Off:3 Def:10),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227523,21600602,4,4:33,nan,MISS Davis 19' Jump Shot,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227524,21600602,4,4:32,Gibson REBOUND (Off:2 Def:11),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227525,21600602,4,4:21,MISS Carter-Williams 3' Layup,Jones BLOCK (2 BLK),nan,203487,Michael Carter-Williams,CHI,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+227526,21600602,4,4:17,nan,Evans REBOUND (Off:0 Def:1),nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227527,21600602,4,4:16,Wade S.FOUL (P3.PN) (D.Taylor),nan,nan,2548,Dwyane Wade,CHI,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+227528,21600602,4,4:16,nan,Davis Free Throw 1 of 2 (28 PTS),87 - 95,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227529,21600602,4,4:16,nan,SUB: Galloway FOR Evans,nan,201936,Tyreke Evans,NOP,204038,Langston Galloway,NOP,0,nan,nan,Substitution ,nan
+227530,21600602,4,4:16,nan,Davis Free Throw 2 of 2 (29 PTS),88 - 95,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227531,21600602,4,3:56,MISS Wade 20' Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227532,21600602,4,3:55,Gibson REBOUND (Off:3 Def:11),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227533,21600602,4,3:50,MISS Wade 5' Jump Shot,Moore BLOCK (1 BLK),nan,2548,Dwyane Wade,CHI,0,nan,nan,202734,E'Twaun Moore,NOP,Missed Shot ,nan
+227534,21600602,4,3:50,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227535,21600602,4,3:41,MISS Carter-Williams 15' Jump Shot,nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227536,21600602,4,3:39,Gibson REBOUND (Off:4 Def:11),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227537,21600602,4,3:36,Gibson 15' Jump Shot (15 PTS),nan,88 - 97,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227538,21600602,4,3:24,Carter-Williams P.FOUL (P5.PN) (D.Taylor),nan,nan,203487,Michael Carter-Williams,CHI,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Personal
+227539,21600602,4,3:24,nan,Holiday Free Throw 1 of 2 (1 PTS),89 - 97,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227540,21600602,4,3:24,nan,SUB: S. Hill FOR Jones,nan,203093,Terrence Jones,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+227541,21600602,4,3:24,nan,MISS Holiday Free Throw 2 of 2,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227542,21600602,4,3:22,Carter-Williams REBOUND (Off:0 Def:3),nan,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227543,21600602,4,3:03,Butler 19' Jump Shot (26 PTS),nan,89 - 99,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227544,21600602,4,2:49,nan,Davis 1' Driving Layup (31 PTS) (Holiday 11 AST),91 - 99,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+227545,21600602,4,2:27,Wade 6' Driving Floating Bank Jump Shot (18 PTS),nan,91 - 101,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227546,21600602,4,2:27,nan,Davis S.FOUL (P2.PN) (D.Taylor),nan,203076,Anthony Davis,NOP,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Shooting
+227547,21600602,4,2:27,BULLS Timeout: Regular (Full 4 Short 0),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227548,21600602,4,2:27,nan,SUB: Evans FOR Galloway,nan,204038,Langston Galloway,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Substitution ,nan
+227549,21600602,4,2:27,Wade Free Throw 1 of 1 (19 PTS),nan,91 - 102,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227550,21600602,4,2:10,nan,Davis 12' Floating Jump Shot (33 PTS) (Evans 6 AST),93 - 102,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+227551,21600602,4,1:48,Wade 20' Jump Shot (21 PTS),nan,93 - 104,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+227552,21600602,4,1:40,nan,Evans 2' Driving Layup (13 PTS),95 - 104,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+227553,21600602,4,1:40,Wade S.FOUL (P4.PN) (D.Taylor),nan,nan,2548,Dwyane Wade,CHI,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Shooting
+227554,21600602,4,1:40,nan,Evans Free Throw 1 of 1 (14 PTS),96 - 104,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227555,21600602,4,1:20,Gibson Out of Bounds Lost Ball Turnover (P3.T10),nan,nan,201959,Taj Gibson,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+227556,21600602,4,1:20,nan,Pelicans Timeout: Short (Reg.4 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+227557,21600602,4,1:09,nan,MISS Holiday 25' 3PT Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227558,21600602,4,1:08,Butler REBOUND (Off:1 Def:7),nan,nan,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227559,21600602,4,0:45,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227560,21600602,4,0:44,nan,Moore REBOUND (Off:0 Def:1),nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227561,21600602,4,0:28,Wade S.FOUL (P5.PN) (J.Goble),nan,nan,2548,Dwyane Wade,CHI,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+227562,21600602,4,0:28,nan,MISS Davis Free Throw 1 of 2,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227563,21600602,4,0:28,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+227564,21600602,4,0:28,nan,Davis Free Throw 2 of 2 (34 PTS),97 - 104,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227565,21600602,4,0:24,nan,Evans Personal Take Foul (P1.PN) (M.Boland),nan,201936,Tyreke Evans,NOP,2548,Dwyane Wade,CHI,0,nan,nan,Foul ,Personal Take
+227566,21600602,4,0:24,Wade Free Throw 1 of 2 (22 PTS),nan,97 - 105,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227567,21600602,4,0:24,MISS Wade Free Throw 2 of 2,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227568,21600602,4,0:24,nan,Davis REBOUND (Off:3 Def:11),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227569,21600602,4,0:24,nan,Pelicans Timeout: Regular (Reg.5 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227570,21600602,4,0:22,nan,Davis 7' Jump Shot (36 PTS) (Holiday 12 AST),99 - 105,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+227571,21600602,4,0:18,nan,Davis P.FOUL (P3.PN) (M.Boland),nan,203076,Anthony Davis,NOP,202710,Jimmy Butler,CHI,0,nan,nan,Foul ,Personal
+227572,21600602,4,0:18,Butler Free Throw 1 of 2 (27 PTS),nan,99 - 106,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227573,21600602,4,0:18,Butler Free Throw 2 of 2 (28 PTS),nan,99 - 107,202710,Jimmy Butler,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227574,21600602,4,0:18,nan,Pelicans Timeout: Short (Reg.5 Short 2),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+227575,21600602,4,0:12,nan,MISS Evans 2' Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227576,21600602,4,0:10,Felicio REBOUND (Off:3 Def:4),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227577,21600602,4,0:00,nan,nan,99 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

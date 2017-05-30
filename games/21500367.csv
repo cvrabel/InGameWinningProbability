@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+46243,21500367,4,12:00,nan,nan,69 - 61,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+46244,21500367,4,11:38,Olynyk 2' Finger Roll Layup (2 PTS),nan,69 - 63,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+46245,21500367,4,11:22,nan,Shumpert  3PT Jump Shot (3 PTS) (James 2 AST),72 - 63,202697,Iman Shumpert,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+46246,21500367,4,11:12,nan,Shumpert P.FOUL (P1.T1) (M.Ayotte),nan,202697,Iman Shumpert,CLE,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+46247,21500367,4,10:58,Olynyk 25' 3PT Jump Shot (5 PTS) (Thomas 4 AST),nan,72 - 66,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+46248,21500367,4,10:44,nan,Williams 16' Pullup Jump Shot (10 PTS),74 - 66,2590,Mo Williams,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+46249,21500367,4,10:28,MISS Thomas 15' Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46250,21500367,4,10:26,Thomas REBOUND (Off:2 Def:1),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46251,21500367,4,10:23,MISS Olynyk 25' 3PT Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46252,21500367,4,10:22,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46253,21500367,4,10:05,nan,Shumpert 25' 3PT Jump Shot (6 PTS) (Jefferson 1 AST),77 - 66,202697,Iman Shumpert,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Made Shot ,nan
+46254,21500367,4,9:49,MISS Young 25' 3PT Jump Shot,nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46255,21500367,4,9:48,Lee REBOUND (Off:2 Def:2),nan,nan,101135,David Lee,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46256,21500367,4,9:38,Turner Bad Pass Turnover (P2.T9),James STEAL (2 STL),nan,202323,Evan Turner,BOS,2544,LeBron James,CLE,202697,Iman Shumpert,CLE,Turnover ,Bad Pass
+46257,21500367,4,9:21,nan,James 3' Cutting Finger Roll Layup Shot (22 PTS) (Williams 3 AST),79 - 66,2544,LeBron James,CLE,2590,Mo Williams,CLE,0,nan,nan,Made Shot ,nan
+46258,21500367,4,9:20,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+46259,21500367,4,9:20,SUB: Johnson FOR Lee,nan,nan,101135,David Lee,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+46260,21500367,4,9:20,SUB: Crowder FOR Young,nan,nan,203923,James Young,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+46261,21500367,4,9:06,MISS Thomas 3' Driving Layup,Shumpert BLOCK (1 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,202697,Iman Shumpert,CLE,Missed Shot ,nan
+46262,21500367,4,9:05,nan,Thompson REBOUND (Off:0 Def:5),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46263,21500367,4,8:47,nan,Williams Out of Bounds Lost Ball Turnover (P3.T13),nan,2590,Mo Williams,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+46264,21500367,4,8:35,MISS Turner 3' Layup,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46265,21500367,4,8:35,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46266,21500367,4,8:35,nan,SUB: Smith FOR Shumpert,nan,202697,Iman Shumpert,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+46267,21500367,4,8:28,nan,James S.FOUL (P3.T2) (M.Ayotte),nan,2544,LeBron James,CLE,101161,Amir Johnson,BOS,0,nan,nan,Foul ,Shooting
+46268,21500367,4,8:28,Johnson Free Throw 1 of 2 (5 PTS),nan,79 - 67,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+46269,21500367,4,8:28,MISS Johnson Free Throw 2 of 2,nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+46270,21500367,4,8:27,Olynyk REBOUND (Off:1 Def:1),nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46271,21500367,4,8:22,MISS Thomas 13' Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46272,21500367,4,8:20,nan,James REBOUND (Off:1 Def:6),nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46273,21500367,4,7:58,nan,MISS Smith 12' Step Back Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46274,21500367,4,7:58,Johnson REBOUND (Off:4 Def:2),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46275,21500367,4,7:53,MISS Turner 2' Running Layup,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46276,21500367,4,7:52,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46277,21500367,4,7:31,nan,MISS James 25' 3PT Jump Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46278,21500367,4,7:30,Johnson REBOUND (Off:4 Def:3),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46279,21500367,4,7:18,MISS Thomas 5' Running Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46280,21500367,4,7:17,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46281,21500367,4,7:17,nan,SUB: Dellavedova FOR Williams,nan,2590,Mo Williams,CLE,203521,Matthew Dellavedova,CLE,0,nan,nan,Substitution ,nan
+46282,21500367,4,7:17,SUB: Bradley FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,202340,Avery Bradley,BOS,0,nan,nan,Substitution ,nan
+46283,21500367,4,7:11,Crowder  3PT Jump Shot (14 PTS) (Turner 3 AST),nan,79 - 70,203109,Jae Crowder,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+46284,21500367,4,6:49,Johnson P.FOUL (P2.T1) (R.Garretson),nan,nan,101161,Amir Johnson,BOS,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+46285,21500367,4,6:49,nan,SUB: Love FOR Jefferson,nan,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+46286,21500367,4,6:35,nan,MISS James 13' Turnaround Fadeaway Shot,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46287,21500367,4,6:34,nan,Cavaliers Rebound,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46288,21500367,4,6:34,nan,Cavaliers Turnover: Shot Clock (T#14),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+46289,21500367,4,6:16,Turner 11' Turnaround Jump Shot (6 PTS),nan,79 - 72,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+46290,21500367,4,5:56,nan,Love 6' Turnaround Bank Shot (16 PTS),81 - 72,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+46291,21500367,4,5:41,MISS Olynyk 21' Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46292,21500367,4,5:40,nan,Love REBOUND (Off:1 Def:6),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46293,21500367,4,5:30,nan,Love 25' 3PT Jump Shot (19 PTS) (James 3 AST),84 - 72,201567,Kevin Love,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+46294,21500367,4,5:19,Johnson Bad Pass Turnover (P1.T10),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+46295,21500367,4,5:19,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+46296,21500367,4,5:19,SUB: Jerebko FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Substitution ,nan
+46297,21500367,4,5:03,Jerebko P.FOUL (P1.T2) (M.Ayotte),nan,nan,201973,Jonas Jerebko,BOS,2544,LeBron James,CLE,0,nan,nan,Foul ,Personal
+46298,21500367,4,4:46,nan,James 10' Turnaround Fadeaway (24 PTS),86 - 72,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+46299,21500367,4,4:27,MISS Turner 14' Jump Shot,nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46300,21500367,4,4:26,nan,Thompson REBOUND (Off:0 Def:6),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46301,21500367,4,4:04,nan,MISS Love 15' Fadeaway Jumper,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46302,21500367,4,4:02,nan,Smith REBOUND (Off:2 Def:3),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46303,21500367,4,3:59,Crowder S.FOUL (P3.T3) (M.Ayotte),nan,nan,203109,Jae Crowder,BOS,201567,Kevin Love,CLE,0,nan,nan,Foul ,Shooting
+46304,21500367,4,3:59,nan,Love Free Throw 1 of 2 (20 PTS),87 - 72,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+46305,21500367,4,3:59,nan,MISS Love Free Throw 2 of 2,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+46306,21500367,4,3:59,Turner REBOUND (Off:1 Def:6),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46307,21500367,4,3:46,MISS Jerebko 24' 3PT Jump Shot,nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46308,21500367,4,3:45,nan,Thompson REBOUND (Off:0 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46309,21500367,4,3:24,nan,MISS Smith 11' Running Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46310,21500367,4,3:23,nan,Thompson REBOUND (Off:1 Def:7),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46311,21500367,4,3:22,Turner BLOCK (1 BLK),MISS Thompson 2' Putback Layup,nan,202684,Tristan Thompson,CLE,0,nan,nan,202323,Evan Turner,BOS,Missed Shot ,nan
+46312,21500367,4,3:21,nan,Smith REBOUND (Off:3 Def:3),nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46313,21500367,4,3:11,Johnson BLOCK (1 BLK),MISS Love 3' Jump Shot,nan,201567,Kevin Love,CLE,0,nan,nan,101161,Amir Johnson,BOS,Missed Shot ,nan
+46314,21500367,4,3:09,Turner REBOUND (Off:1 Def:7),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46315,21500367,4,3:08,nan,Dellavedova P.FOUL (P4.T3) (M.Ayotte),nan,203521,Matthew Dellavedova,CLE,202323,Evan Turner,BOS,0,nan,nan,Foul ,Personal
+46316,21500367,4,3:08,SUB: Zeller FOR Johnson,nan,nan,101161,Amir Johnson,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+46317,21500367,4,2:50,Bradley 20' Jump Shot (17 PTS) (Turner 4 AST),nan,87 - 74,202340,Avery Bradley,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+46318,21500367,4,2:40,Jerebko Personal Take Foul (P2.T4) (E.Dalen),nan,nan,201973,Jonas Jerebko,BOS,202684,Tristan Thompson,CLE,0,nan,nan,Foul ,Personal Take
+46319,21500367,4,2:40,nan,Cavaliers Timeout: Regular (Reg.4 Short 1),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+46320,21500367,4,2:40,SUB: Hunter FOR Crowder,nan,nan,203109,Jae Crowder,BOS,1626154,RJ Hunter,BOS,0,nan,nan,Substitution ,nan
+46321,21500367,4,2:40,nan,SUB: Jefferson FOR Thompson,nan,202684,Tristan Thompson,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+46322,21500367,4,2:21,Bradley STEAL (3 STL),James Lost Ball Turnover (P6.T15),nan,2544,LeBron James,CLE,202340,Avery Bradley,BOS,0,nan,nan,Turnover ,Lost Ball
+46323,21500367,4,2:16,nan,Smith P.FOUL (P4.T4) (E.Dalen),nan,2747,JR Smith,CLE,201973,Jonas Jerebko,BOS,0,nan,nan,Foul ,Personal
+46324,21500367,4,2:07,MISS Zeller 18' Jump Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46325,21500367,4,2:06,nan,Jefferson REBOUND (Off:0 Def:1),nan,2210,Richard Jefferson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46326,21500367,4,1:45,nan,Smith 20' Jump Shot (9 PTS),89 - 74,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+46327,21500367,4,1:28,MISS Hunter 25' 3PT Jump Shot,nan,nan,1626154,RJ Hunter,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46328,21500367,4,1:26,nan,Love REBOUND (Off:1 Def:7),nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46329,21500367,4,1:26,nan,Cavaliers Timeout: Short (Reg.4 Short 2),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+46330,21500367,4,1:26,nan,SUB: Thompson FOR James,nan,2544,LeBron James,CLE,202684,Tristan Thompson,CLE,0,nan,nan,Substitution ,nan
+46331,21500367,4,1:26,nan,SUB: Varejao FOR Love,nan,201567,Kevin Love,CLE,2760,Anderson Varejao,CLE,0,nan,nan,Substitution ,nan
+46332,21500367,4,1:26,SUB: Rozier FOR Bradley,nan,nan,202340,Avery Bradley,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+46333,21500367,4,1:26,SUB: Young FOR Turner,nan,nan,202323,Evan Turner,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+46334,21500367,4,1:11,nan,MISS Dellavedova 8' Fadeaway Jumper,nan,203521,Matthew Dellavedova,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46335,21500367,4,1:10,Young REBOUND (Off:1 Def:4),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46336,21500367,4,0:55,MISS Rozier 8' Floating Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46337,21500367,4,0:54,nan,Thompson REBOUND (Off:1 Def:8),nan,202684,Tristan Thompson,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46338,21500367,4,0:34,nan,MISS Smith 19' Step Back Jump Shot,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+46339,21500367,4,0:33,Rozier REBOUND (Off:0 Def:1),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+46340,21500367,4,0:26,Jerebko  3PT Jump Shot (5 PTS) (Young 3 AST),nan,89 - 77,201973,Jonas Jerebko,BOS,203923,James Young,BOS,0,nan,nan,Made Shot ,nan
+46341,21500367,4,0:02,nan,Cavaliers Turnover: Shot Clock (T#16),nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+46342,21500367,4,0:00,nan,nan,89 - 77,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

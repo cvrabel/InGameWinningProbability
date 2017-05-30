@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+102366,21500818,4,12:00,nan,nan,85 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+102367,21500818,4,11:45,MISS Russell 25' 3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102368,21500818,4,11:45,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102369,21500818,4,11:45,nan,Green L.B.FOUL (P4.T1) (E.Roe),nan,201980,Danny Green,SAS,101138,Brandon Bass,LAL,0,nan,nan,Foul ,Loose Ball
+102370,21500818,4,11:31,nan,Butler P.FOUL (P1.T2) (E.Roe),nan,2446,Rasual Butler,SAS,201156,Nick Young,LAL,0,nan,nan,Foul ,Personal
+102371,21500818,4,11:25,nan,Diaw S.FOUL (P2.T3) (E.Roe),nan,2564,Boris Diaw,SAS,1626156,D'Angelo Russell,LAL,0,nan,nan,Foul ,Shooting
+102372,21500818,4,11:25,Russell Free Throw 1 of 2 (7 PTS),nan,85 - 76,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102373,21500818,4,11:25,Russell Free Throw 2 of 2 (8 PTS),nan,85 - 77,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102374,21500818,4,11:12,Bass S.FOUL (P1.T1) (R.Garretson),nan,nan,101138,Brandon Bass,LAL,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+102375,21500818,4,11:12,nan,Aldridge Free Throw 1 of 2 (7 PTS),86 - 77,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102376,21500818,4,11:12,nan,Aldridge Free Throw 2 of 2 (8 PTS),87 - 77,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102377,21500818,4,11:00,Russell OFF.Foul (P2) (R.Garretson),nan,nan,1626156,D'Angelo Russell,LAL,2225,Tony Parker,SAS,0,nan,nan,Foul ,Offensive
+102378,21500818,4,11:00,Russell Foul Turnover (P3.T15),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+102379,21500818,4,10:44,nan,Diaw 1' Driving Reverse Layup (10 PTS) (Parker 4 AST),89 - 77,2564,Boris Diaw,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+102380,21500818,4,10:23,MISS Clarkson 2' Layup,Aldridge BLOCK (2 BLK),nan,203903,Jordan Clarkson,LAL,0,nan,nan,200746,LaMarcus Aldridge,SAS,Missed Shot ,nan
+102381,21500818,4,10:22,Clarkson REBOUND (Off:2 Def:1),nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102382,21500818,4,10:22,nan,Green S.FOUL (P5.T4) (R.Garretson),nan,201980,Danny Green,SAS,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Shooting
+102383,21500818,4,10:22,Clarkson Free Throw 1 of 2 (19 PTS),nan,89 - 78,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102384,21500818,4,10:22,Clarkson Free Throw 2 of 2 (20 PTS),nan,89 - 79,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102385,21500818,4,10:09,nan,MISS Parker 18' Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102386,21500818,4,10:09,nan,Butler REBOUND (Off:1 Def:0),nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102387,21500818,4,10:09,Clarkson S.FOUL (P2.T2) (R.Garretson),nan,nan,203903,Jordan Clarkson,LAL,2446,Rasual Butler,SAS,0,nan,nan,Foul ,Shooting
+102388,21500818,4,10:09,nan,Butler Free Throw 1 of 2 (9 PTS),90 - 79,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102389,21500818,4,10:09,SUB: Williams FOR Clarkson,nan,nan,203903,Jordan Clarkson,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+102390,21500818,4,10:09,nan,SUB: Mills FOR Green,nan,201980,Danny Green,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+102391,21500818,4,10:09,nan,Butler Free Throw 2 of 2 (10 PTS),91 - 79,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102392,21500818,4,9:53,Nance Jr. 2' Finger Roll Layup (4 PTS) (Bass 1 AST),nan,91 - 81,1626204,Larry Nance Jr.,LAL,101138,Brandon Bass,LAL,0,nan,nan,Made Shot ,nan
+102393,21500818,4,9:28,nan,Aldridge 4' Driving Hook Shot (10 PTS) (Parker 5 AST),93 - 81,200746,LaMarcus Aldridge,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+102394,21500818,4,9:08,MISS Williams 1' Driving Finger Roll Layup,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102395,21500818,4,9:04,nan,Butler REBOUND (Off:1 Def:1),nan,2446,Rasual Butler,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102396,21500818,4,8:59,nan,MISS Mills 24' 3PT Jump Shot,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102397,21500818,4,8:58,Nance Jr. REBOUND (Off:2 Def:1),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102398,21500818,4,8:51,Young 27' 3PT Jump Shot (8 PTS) (Russell 3 AST),nan,93 - 84,201156,Nick Young,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+102399,21500818,4,8:51,nan,Spurs Timeout: Regular (Reg.4 Short 0),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102400,21500818,4,8:51,nan,SUB: Simmons FOR Parker,nan,2225,Tony Parker,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+102401,21500818,4,8:33,nan,MISS Aldridge 14' Turnaround Jump Shot,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102402,21500818,4,8:30,Young REBOUND (Off:0 Def:1),nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102403,21500818,4,8:14,MISS Young 24' 3PT Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102404,21500818,4,8:13,nan,Mills REBOUND (Off:0 Def:1),nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102405,21500818,4,7:57,nan,MISS Diaw 4' Hook Shot,nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102406,21500818,4,7:54,nan,Aldridge REBOUND (Off:2 Def:6),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102407,21500818,4,7:52,nan,Aldridge  Layup (12 PTS),95 - 84,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+102408,21500818,4,7:49,nan,Aldridge S.FOUL (P3.PN) (E.Roe),nan,200746,LaMarcus Aldridge,SAS,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+102409,21500818,4,7:49,MISS Williams Free Throw 1 of 2,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102410,21500818,4,7:49,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102411,21500818,4,7:49,nan,SUB: Duncan FOR Diaw,nan,2564,Boris Diaw,SAS,1495,Tim Duncan,SAS,0,nan,nan,Substitution ,nan
+102412,21500818,4,7:49,Williams Free Throw 2 of 2 (11 PTS),nan,95 - 85,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102413,21500818,4,7:39,nan,Mills 1' Reverse Layup (12 PTS) (Duncan 1 AST),97 - 85,201988,Patty Mills,SAS,1495,Tim Duncan,SAS,0,nan,nan,Made Shot ,nan
+102414,21500818,4,7:18,MISS Young 17' Step Back Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102415,21500818,4,7:13,Nance Jr. REBOUND (Off:3 Def:1),nan,nan,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102416,21500818,4,7:11,Nance Jr. 1' Driving Layup (6 PTS),nan,97 - 87,1626204,Larry Nance Jr.,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102417,21500818,4,7:03,nan,Mills Out of Bounds - Bad Pass Turnover Turnover (P3.T10),nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+102418,21500818,4,6:51,nan,Butler P.FOUL (P2.PN) (E.Roe),nan,2446,Rasual Butler,SAS,201156,Nick Young,LAL,0,nan,nan,Foul ,Personal
+102419,21500818,4,6:51,Young Free Throw 1 of 2 (9 PTS),nan,97 - 88,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102420,21500818,4,6:51,nan,SUB: Anderson FOR Butler,nan,2446,Rasual Butler,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Substitution ,nan
+102421,21500818,4,6:51,Young Free Throw 2 of 2 (10 PTS),nan,97 - 89,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102422,21500818,4,6:36,nan,Simmons  Layup (5 PTS) (Aldridge 3 AST),99 - 89,203613,Jonathon Simmons,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Made Shot ,nan
+102423,21500818,4,6:16,Bass  Driving Dunk (10 PTS),nan,99 - 91,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102424,21500818,4,5:55,Bass BLOCK (2 BLK),MISS Duncan 5' Fadeaway Jumper,nan,1495,Tim Duncan,SAS,0,nan,nan,101138,Brandon Bass,LAL,Missed Shot ,nan
+102425,21500818,4,5:53,nan,Simmons REBOUND (Off:1 Def:2),nan,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102426,21500818,4,5:48,nan,Simmons 21' Pullup Jump Shot (7 PTS),101 - 91,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+102427,21500818,4,5:44,Williams 25' 3PT Pullup Jump Shot (14 PTS),nan,101 - 94,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102428,21500818,4,5:44,nan,Anderson S.FOUL (P3.PN) (E.Roe),nan,203937,Kyle Anderson,SAS,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+102429,21500818,4,5:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+102430,21500818,4,5:44,nan,SUB: Parker FOR Simmons,nan,203613,Jonathon Simmons,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+102431,21500818,4,5:44,SUB: Bryant FOR Young,nan,nan,201156,Nick Young,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+102432,21500818,4,5:44,SUB: Randle FOR Nance Jr.,nan,nan,1626204,Larry Nance Jr.,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+102433,21500818,4,5:44,Williams Free Throw 1 of 1 (15 PTS),nan,101 - 95,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+102434,21500818,4,5:27,nan,MISS Mills 24' 3PT Jump Shot,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102435,21500818,4,5:25,Randle REBOUND (Off:3 Def:10),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102436,21500818,4,5:11,Bass OFF.Foul (P2) (E.Roe),nan,nan,101138,Brandon Bass,LAL,201988,Patty Mills,SAS,0,nan,nan,Foul ,Offensive
+102437,21500818,4,5:11,Bass Foul Turnover (P2.T16),nan,nan,101138,Brandon Bass,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+102438,21500818,4,4:55,nan,MISS Parker 16' Pullup Jump Shot,nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102439,21500818,4,4:52,Bryant REBOUND (Off:1 Def:3),nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102440,21500818,4,4:45,Bryant 11' Turnaround Fadeaway (20 PTS),nan,101 - 97,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102441,21500818,4,4:27,nan,Parker 14' Pullup Jump Shot (21 PTS) (Mills 5 AST),103 - 97,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+102442,21500818,4,4:01,MISS Bryant 13' Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102443,21500818,4,3:58,Randle REBOUND (Off:4 Def:10),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102444,21500818,4,3:58,Randle 1' Tip Layup Shot (8 PTS),nan,103 - 99,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102445,21500818,4,3:45,nan,Parker 15' Jump Shot (23 PTS) (Mills 6 AST),105 - 99,2225,Tony Parker,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+102446,21500818,4,3:22,MISS Bryant 18' Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102447,21500818,4,3:21,Randle REBOUND (Off:5 Def:10),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102448,21500818,4,3:12,MISS Bryant 1' Layup,Duncan BLOCK (3 BLK),nan,977,Kobe Bryant,LAL,0,nan,nan,1495,Tim Duncan,SAS,Missed Shot ,nan
+102449,21500818,4,3:10,nan,Duncan REBOUND (Off:5 Def:6),nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102450,21500818,4,3:06,nan,Aldridge  Running Dunk (14 PTS) (Mills 7 AST),107 - 99,200746,LaMarcus Aldridge,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+102451,21500818,4,3:01,LAKERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102452,21500818,4,3:01,SUB: Clarkson FOR Russell,nan,nan,1626156,D'Angelo Russell,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Substitution ,nan
+102453,21500818,4,3:01,nan,SUB: Green FOR Mills,nan,201988,Patty Mills,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+102454,21500818,4,2:53,nan,Aldridge S.FOUL (P4.PN) (B.Barnaky),nan,200746,LaMarcus Aldridge,SAS,977,Kobe Bryant,LAL,0,nan,nan,Foul ,Shooting
+102455,21500818,4,2:53,nan,nan,nan,459,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+102456,21500818,4,2:53,Bryant Free Throw 1 of 3 (21 PTS),nan,107 - 100,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+102457,21500818,4,2:53,Bryant Free Throw 2 of 3 (22 PTS),nan,107 - 101,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+102458,21500818,4,2:53,Bryant Free Throw 3 of 3 (23 PTS),nan,107 - 102,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+102459,21500818,4,2:30,nan,MISS Aldridge 19' Jump Shot,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102460,21500818,4,2:29,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102461,21500818,4,2:29,nan,Spurs Turnover: Shot Clock (T#11),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+102462,21500818,4,2:14,MISS Bryant 26' 3PT Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102463,21500818,4,2:10,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102464,21500818,4,2:10,SUB: Young FOR Bryant,nan,nan,977,Kobe Bryant,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+102465,21500818,4,1:56,Bass S.FOUL (P3.T3) (E.Roe),nan,nan,101138,Brandon Bass,LAL,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+102466,21500818,4,1:56,nan,Aldridge Free Throw 1 of 2 (15 PTS),108 - 102,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102467,21500818,4,1:56,SUB: Bryant FOR Young,nan,nan,201156,Nick Young,LAL,977,Kobe Bryant,LAL,0,nan,nan,Substitution ,nan
+102468,21500818,4,1:56,nan,SUB: Mills FOR Green,nan,201980,Danny Green,SAS,201988,Patty Mills,SAS,0,nan,nan,Substitution ,nan
+102469,21500818,4,1:56,nan,Aldridge Free Throw 2 of 2 (16 PTS),109 - 102,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102470,21500818,4,1:47,Williams 25' 3PT Jump Shot (18 PTS) (Clarkson 5 AST),nan,109 - 105,101150,Lou Williams,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Made Shot ,nan
+102471,21500818,4,1:35,nan,Anderson 3' Driving Finger Roll Layup (12 PTS) (Parker 6 AST),111 - 105,203937,Kyle Anderson,SAS,2225,Tony Parker,SAS,0,nan,nan,Made Shot ,nan
+102472,21500818,4,1:23,Bryant 9' Pullup Jump Shot (25 PTS) (Clarkson 6 AST),nan,111 - 107,977,Kobe Bryant,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Made Shot ,nan
+102473,21500818,4,1:03,nan,Mills 25' 3PT Jump Shot (15 PTS) (Anderson 3 AST),114 - 107,201988,Patty Mills,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+102474,21500818,4,1:03,LAKERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+102475,21500818,4,0:53,MISS Bryant 25' 3PT Jump Shot,nan,nan,977,Kobe Bryant,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102476,21500818,4,0:52,nan,Duncan REBOUND (Off:5 Def:7),nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102477,21500818,4,0:52,Randle Personal Take Foul (P3.PN) (R.Garretson),nan,nan,203944,Julius Randle,LAL,1495,Tim Duncan,SAS,0,nan,nan,Foul ,Personal Take
+102478,21500818,4,0:52,nan,MISS Duncan Free Throw 1 of 2,nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102479,21500818,4,0:52,nan,Spurs Rebound,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+102480,21500818,4,0:52,nan,Duncan Free Throw 2 of 2 (12 PTS),115 - 107,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102481,21500818,4,0:45,MISS Williams 1' Driving Layup,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+102482,21500818,4,0:42,nan,Duncan REBOUND (Off:5 Def:8),nan,1495,Tim Duncan,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+102483,21500818,4,0:36,Clarkson Personal Take Foul (P3.PN) (R.Garretson),nan,nan,203903,Jordan Clarkson,LAL,2225,Tony Parker,SAS,0,nan,nan,Foul ,Personal Take
+102484,21500818,4,0:36,nan,Parker Free Throw 1 of 2 (24 PTS),116 - 107,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+102485,21500818,4,0:36,nan,SUB: Marjanovic FOR Duncan,nan,1495,Tim Duncan,SAS,1626246,Boban Marjanovic,SAS,0,nan,nan,Substitution ,nan
+102486,21500818,4,0:36,SUB: Young FOR Bryant,nan,nan,977,Kobe Bryant,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+102487,21500818,4,0:36,nan,SUB: McCallum FOR Mills,nan,201988,Patty Mills,SAS,203492,Ray McCallum,SAS,0,nan,nan,Substitution ,nan
+102488,21500818,4,0:36,nan,SUB: Butler FOR Aldridge,nan,200746,LaMarcus Aldridge,SAS,2446,Rasual Butler,SAS,0,nan,nan,Substitution ,nan
+102489,21500818,4,0:36,nan,Parker Free Throw 2 of 2 (25 PTS),117 - 107,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+102490,21500818,4,0:36,LAKERS Timeout: Short (Full 5 Short 1),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+102491,21500818,4,0:36,nan,SUB: Simmons FOR Parker,nan,2225,Tony Parker,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Substitution ,nan
+102492,21500818,4,0:31,Williams 24' 3PT Fadeaway Jumper (21 PTS),nan,117 - 110,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102493,21500818,4,0:08,nan,Anderson 13' Jump Shot (14 PTS),119 - 110,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+102494,21500818,4,0:01,Randle 28' 3PT Jump Shot (11 PTS),nan,119 - 113,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+102495,21500818,4,0:00,nan,nan,119 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

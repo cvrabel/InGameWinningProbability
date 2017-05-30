@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+223580,21600569,4,12:00,nan,nan,89 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+223581,21600569,4,11:48,MISS Wade 1' Driving Layup,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223582,21600569,4,11:47,nan,Payne REBOUND (Off:0 Def:2),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223583,21600569,4,11:41,nan,Abrines  Driving Dunk (5 PTS),91 - 67,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+223584,21600569,4,11:26,Wade 2' Cutting Layup Shot (22 PTS),nan,91 - 69,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+223585,21600569,4,11:09,nan,Lauvergne 3 Second Violation Turnover (P2.T8),nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+223586,21600569,4,10:54,MISS Grant 26' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223587,21600569,4,10:53,nan,Kanter REBOUND (Off:4 Def:6),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223588,21600569,4,10:43,nan,MISS Lauvergne 25' 3PT Jump Shot,nan,203530,Joffrey Lauvergne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223589,21600569,4,10:42,Wade REBOUND (Off:0 Def:4),nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223590,21600569,4,10:23,MISS Mirotic 26' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223591,21600569,4,10:21,nan,Payne REBOUND (Off:0 Def:3),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223592,21600569,4,10:12,nan,MISS Abrines 25' 3PT Jump Shot,nan,203518,Alex Abrines,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223593,21600569,4,10:11,Felicio REBOUND (Off:2 Def:4),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223594,21600569,4,10:03,nan,Payne S.FOUL (P2.T1) (N.Buchert),nan,1626166,Cameron Payne,OKC,203926,Doug McDermott,CHI,0,nan,nan,Foul ,Shooting
+223595,21600569,4,10:03,McDermott Free Throw 1 of 2 (6 PTS),nan,91 - 70,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+223596,21600569,4,10:03,SUB: Portis FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+223597,21600569,4,10:03,McDermott Free Throw 2 of 2 (7 PTS),nan,91 - 71,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+223598,21600569,4,9:47,nan,Lauvergne 3' Layup (6 PTS) (Kanter 3 AST),93 - 71,203530,Joffrey Lauvergne,OKC,202683,Enes Kanter,OKC,0,nan,nan,Made Shot ,nan
+223599,21600569,4,9:28,MISS McDermott 7' Jump Shot,nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223600,21600569,4,9:27,nan,Kanter REBOUND (Off:4 Def:7),nan,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223601,21600569,4,9:27,Wade P.FOUL (P1.T1) (D.Richardson),nan,nan,2548,Dwyane Wade,CHI,202683,Enes Kanter,OKC,0,nan,nan,Foul ,Personal
+223602,21600569,4,9:17,nan,Abrines 22' Jump Shot (7 PTS) (Payne 3 AST),95 - 71,203518,Alex Abrines,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+223603,21600569,4,9:04,Felicio 18' Jump Shot (9 PTS) (Wade 6 AST),nan,95 - 73,1626245,Cristiano Felicio,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+223604,21600569,4,8:37,nan,MISS Payne 2' Driving Finger Roll Layup,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223605,21600569,4,8:36,McDermott REBOUND (Off:0 Def:2),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223606,21600569,4,8:26,nan,Payne S.FOUL (P3.T2) (D.Richardson),nan,1626166,Cameron Payne,OKC,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Shooting
+223607,21600569,4,8:26,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+223608,21600569,4,8:26,SUB: Zipser FOR Wade,nan,nan,2548,Dwyane Wade,CHI,1627835,Paul Zipser,CHI,0,nan,nan,Substitution ,nan
+223609,21600569,4,8:26,SUB: Canaan FOR McDermott,nan,nan,203926,Doug McDermott,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+223610,21600569,4,8:26,nan,SUB: Grant FOR Sabonis,nan,1627734,Domantas Sabonis,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+223611,21600569,4,8:26,Grant Free Throw 1 of 2 (5 PTS),nan,95 - 74,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+223612,21600569,4,8:26,Grant Free Throw 2 of 2 (6 PTS),nan,95 - 75,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+223613,21600569,4,8:11,nan,Kanter 2' Driving Layup (18 PTS) (Abrines 2 AST),97 - 75,202683,Enes Kanter,OKC,203518,Alex Abrines,OKC,0,nan,nan,Made Shot ,nan
+223614,21600569,4,7:52,MISS Zipser 12' Floating Jump Shot,nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223615,21600569,4,7:50,Felicio REBOUND (Off:3 Def:4),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223616,21600569,4,7:49,MISS Felicio 2' Putback Layup,nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223617,21600569,4,7:48,Portis REBOUND (Off:1 Def:0),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223618,21600569,4,7:48,MISS Portis 2' Tip Layup Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223619,21600569,4,7:48,nan,Thunder Rebound,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223620,21600569,4,7:48,nan,SUB: Westbrook FOR Payne,nan,1626166,Cameron Payne,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+223621,21600569,4,7:23,nan,MISS Westbrook 26' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223622,21600569,4,7:21,Felicio REBOUND (Off:3 Def:5),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223623,21600569,4,7:08,Canaan 24' 3PT Jump Shot (3 PTS),nan,97 - 78,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+223624,21600569,4,6:47,nan,Grant 2' Driving Layup (5 PTS),99 - 78,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+223625,21600569,4,6:32,Portis Traveling Turnover (P1.T10),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+223626,21600569,4,6:32,nan,SUB: Adams FOR Kanter,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+223627,21600569,4,6:21,nan,Grant  Driving Dunk (7 PTS) (Westbrook 13 AST),101 - 78,203924,Jerami Grant,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+223628,21600569,4,6:05,MISS Zipser 5' Jump Shot,Grant BLOCK (2 BLK),nan,1627835,Paul Zipser,CHI,0,nan,nan,203924,Jerami Grant,OKC,Missed Shot ,nan
+223629,21600569,4,6:05,BULLS Rebound,nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223630,21600569,4,6:00,Grant 25' 3PT Jump Shot (9 PTS) (Felicio 1 AST),nan,101 - 81,1626170,Jerian Grant,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Made Shot ,nan
+223631,21600569,4,5:43,nan,MISS Grant 1' Driving Layup,nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223632,21600569,4,5:42,Felicio REBOUND (Off:3 Def:6),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223633,21600569,4,5:24,Portis  3PT Jump Shot (3 PTS) (Canaan 1 AST),nan,101 - 84,1626171,Bobby Portis,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Made Shot ,nan
+223634,21600569,4,5:05,Portis STEAL (1 STL),Westbrook Bad Pass Turnover (P3.T9),nan,201566,Russell Westbrook,OKC,1626171,Bobby Portis,CHI,0,nan,nan,Turnover ,Bad Pass
+223635,21600569,4,4:50,Grant  Driving Dunk (11 PTS),nan,101 - 86,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+223636,21600569,4,4:50,nan,Thunder Timeout: Regular (Reg.4 Short 0),nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+223637,21600569,4,4:50,nan,SUB: Oladipo FOR Abrines,nan,203518,Alex Abrines,OKC,203506,Victor Oladipo,OKC,0,nan,nan,Substitution ,nan
+223638,21600569,4,4:50,nan,SUB: Roberson FOR Grant,nan,203924,Jerami Grant,OKC,203460,Andre Roberson,OKC,0,nan,nan,Substitution ,nan
+223639,21600569,4,4:28,Felicio STEAL (2 STL),Lauvergne Bad Pass Turnover (P3.T10),nan,203530,Joffrey Lauvergne,OKC,1626245,Cristiano Felicio,CHI,0,nan,nan,Turnover ,Bad Pass
+223640,21600569,4,4:23,Canaan Step Out of Bounds Turnover (P1.T11),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+223641,21600569,4,4:23,nan,SUB: Kanter FOR Lauvergne,nan,203530,Joffrey Lauvergne,OKC,202683,Enes Kanter,OKC,0,nan,nan,Substitution ,nan
+223642,21600569,4,4:12,nan,MISS Westbrook 15' Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223643,21600569,4,4:10,nan,Adams REBOUND (Off:1 Def:3),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223644,21600569,4,4:05,nan,Westbrook 15' Jump Shot (19 PTS) (Adams 2 AST),103 - 86,201566,Russell Westbrook,OKC,203500,Steven Adams,OKC,0,nan,nan,Made Shot ,nan
+223645,21600569,4,3:49,MISS Portis 26' 3PT Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223646,21600569,4,3:47,Felicio REBOUND (Off:4 Def:6),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223647,21600569,4,3:47,Felicio 2' Putback Layup (11 PTS),nan,103 - 88,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+223648,21600569,4,3:38,nan,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T11),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+223649,21600569,4,3:13,MISS Zipser 3' Driving Layup,nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223650,21600569,4,3:12,Portis REBOUND (Off:2 Def:0),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223651,21600569,4,3:12,Portis 2' Tip Layup Shot (5 PTS),nan,103 - 90,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+223652,21600569,4,2:55,nan,MISS Westbrook 25' 3PT Jump Shot,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223653,21600569,4,2:53,Zipser REBOUND (Off:0 Def:1),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223654,21600569,4,2:38,MISS Canaan 20' Jump Shot,nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223655,21600569,4,2:37,nan,Westbrook REBOUND (Off:0 Def:9),nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223656,21600569,4,2:31,nan,Adams 3' Cutting Layup Shot (22 PTS) (Westbrook 14 AST),105 - 90,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+223657,21600569,4,2:09,Portis 17' Floating Jump Shot (7 PTS) (Canaan 2 AST),nan,105 - 92,1626171,Bobby Portis,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Made Shot ,nan
+223658,21600569,4,1:47,nan,Kanter 4' Driving Hook Shot (20 PTS),107 - 92,202683,Enes Kanter,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+223659,21600569,4,1:35,MISS Portis 25' 3PT Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223660,21600569,4,1:34,nan,Adams REBOUND (Off:1 Def:4),nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223661,21600569,4,1:21,nan,Westbrook 14' Jump Shot (21 PTS),109 - 92,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+223662,21600569,4,1:18,nan,Westbrook Personal Take Foul (P2.T3) (D.Richardson),nan,201566,Russell Westbrook,OKC,1626170,Jerian Grant,CHI,0,nan,nan,Foul ,Personal Take
+223663,21600569,4,1:18,BULLS Timeout: Regular (Full 4 Short 2),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+223664,21600569,4,1:18,nan,SUB: Payne FOR Roberson,nan,203460,Andre Roberson,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Substitution ,nan
+223665,21600569,4,1:18,nan,SUB: Lauvergne FOR Adams,nan,203500,Steven Adams,OKC,203530,Joffrey Lauvergne,OKC,0,nan,nan,Substitution ,nan
+223666,21600569,4,1:18,nan,SUB: Sabonis FOR Oladipo,nan,203506,Victor Oladipo,OKC,1627734,Domantas Sabonis,OKC,0,nan,nan,Substitution ,nan
+223667,21600569,4,1:18,nan,SUB: Grant FOR Westbrook,nan,201566,Russell Westbrook,OKC,203924,Jerami Grant,OKC,0,nan,nan,Substitution ,nan
+223668,21600569,4,1:18,nan,SUB: Abrines FOR Kanter,nan,202683,Enes Kanter,OKC,203518,Alex Abrines,OKC,0,nan,nan,Substitution ,nan
+223669,21600569,4,1:11,MISS Portis 18' Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223670,21600569,4,1:10,nan,Grant REBOUND (Off:0 Def:2),nan,203924,Jerami Grant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223671,21600569,4,0:50,nan,MISS Payne 26' 3PT Jump Shot,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223672,21600569,4,0:49,Felicio REBOUND (Off:4 Def:7),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223673,21600569,4,0:43,nan,Payne P.FOUL (P4.PN) (D.Stafford),nan,1626166,Cameron Payne,OKC,203477,Isaiah Canaan,CHI,0,nan,nan,Foul ,Personal
+223674,21600569,4,0:43,Canaan Free Throw 1 of 2 (4 PTS),nan,109 - 93,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+223675,21600569,4,0:43,Canaan Free Throw 2 of 2 (5 PTS),nan,109 - 94,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+223676,21600569,4,0:26,Felicio STEAL (3 STL),Abrines Bad Pass Turnover (P1.T12),nan,203518,Alex Abrines,OKC,1626245,Cristiano Felicio,CHI,0,nan,nan,Turnover ,Bad Pass
+223677,21600569,4,0:14,MISS Canaan 14' Floating Jump Shot,Abrines BLOCK (1 BLK),nan,203477,Isaiah Canaan,CHI,0,nan,nan,203518,Alex Abrines,OKC,Missed Shot ,nan
+223678,21600569,4,0:13,Canaan REBOUND (Off:1 Def:0),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223679,21600569,4,0:05,MISS Grant 25' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+223680,21600569,4,0:03,nan,Payne REBOUND (Off:0 Def:4),nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+223681,21600569,4,0:00,nan,nan,109 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,139 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+124882,21500998,4,12:00,nan,nan,79 - 85,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+124883,21500998,4,11:49,Watson S.FOUL (P2.T1) (M.Davis),nan,nan,201228,C.J. Watson,ORL,201571,D.J. Augustin,DEN,0,nan,nan,Foul ,Shooting
+124884,21500998,4,11:49,nan,Augustin Free Throw 1 of 3 (9 PTS),80 - 85,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+124885,21500998,4,11:49,nan,Augustin Free Throw 2 of 3 (10 PTS),81 - 85,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+124886,21500998,4,11:49,nan,Augustin Free Throw 3 of 3 (11 PTS),82 - 85,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+124887,21500998,4,11:26,Smith 8' Jump Bank Shot (12 PTS),nan,82 - 87,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+124888,21500998,4,11:08,nan,Augustin Out of Bounds - Bad Pass Turnover Turnover (P3.T14),nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+124889,21500998,4,10:47,Oladipo 2' Driving Layup (20 PTS),nan,82 - 89,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+124890,21500998,4,10:28,nan,MISS Augustin 1' Driving Layup,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124891,21500998,4,10:27,Smith REBOUND (Off:0 Def:6),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124892,21500998,4,10:15,MISS Watson 17' Jump Shot,nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124893,21500998,4,10:14,nan,Arthur REBOUND (Off:0 Def:4),nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124894,21500998,4,10:04,nan,MISS Barton 26' 3PT Jump Shot,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124895,21500998,4,10:02,Smith REBOUND (Off:0 Def:7),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124896,21500998,4,9:51,MISS Hezonja 29' 3PT Jump Shot,nan,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124897,21500998,4,9:49,nan,Lauvergne REBOUND (Off:1 Def:7),nan,203530,Joffrey Lauvergne,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124898,21500998,4,9:39,nan,Barton 2' Driving Layup (12 PTS),84 - 89,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124899,21500998,4,9:25,nan,Lauvergne P.FOUL (P2.T1) (M.Ervin),nan,203530,Joffrey Lauvergne,DEN,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Personal
+124900,21500998,4,9:15,Smith 20' Jump Shot (14 PTS) (Watson 3 AST),nan,84 - 91,201160,Jason Smith,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+124901,21500998,4,8:55,Hezonja S.FOUL (P1.T2) (C.Kirkland),nan,nan,1626209,Mario Hezonja,ORL,203115,Will Barton,DEN,0,nan,nan,Foul ,Shooting
+124902,21500998,4,8:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+124903,21500998,4,8:55,SUB: Fournier FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+124904,21500998,4,8:55,nan,Barton Free Throw 1 of 2 (13 PTS),85 - 91,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124905,21500998,4,8:55,nan,MISS Barton Free Throw 2 of 2,nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124906,21500998,4,8:55,Ilyasova REBOUND (Off:0 Def:2),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124907,21500998,4,8:38,Fournier Bad Pass Turnover (P3.T12),Augustin STEAL (3 STL),nan,203095,Evan Fournier,ORL,201571,D.J. Augustin,DEN,0,nan,nan,Turnover ,Bad Pass
+124908,21500998,4,8:19,nan,MISS Augustin 24' 3PT Jump Shot,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124909,21500998,4,8:18,Ilyasova REBOUND (Off:0 Def:3),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124910,21500998,4,8:13,MISS Fournier 26' 3PT Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124911,21500998,4,8:11,Smith REBOUND (Off:1 Def:7),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124912,21500998,4,8:04,nan,Arthur S.FOUL (P3.T2) (C.Kirkland),nan,201589,Darrell Arthur,DEN,203506,Victor Oladipo,ORL,0,nan,nan,Foul ,Shooting
+124913,21500998,4,8:04,Oladipo Free Throw 1 of 2 (21 PTS),nan,85 - 92,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124914,21500998,4,8:04,MISS Oladipo Free Throw 2 of 2,nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124915,21500998,4,8:03,nan,Barton REBOUND (Off:1 Def:1),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124916,21500998,4,7:49,nan,Barton 3' Driving Layup (15 PTS) (Augustin 8 AST),87 - 92,203115,Will Barton,DEN,201571,D.J. Augustin,DEN,0,nan,nan,Made Shot ,nan
+124917,21500998,4,7:36,MISS Fournier 2' Driving Layup,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124918,21500998,4,7:34,Smith REBOUND (Off:2 Def:7),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124919,21500998,4,7:34,Smith  Tip Dunk Shot (16 PTS),nan,87 - 94,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+124920,21500998,4,7:23,nan,MISS Arthur 26' 3PT Jump Shot,nan,201589,Darrell Arthur,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124921,21500998,4,7:21,Watson REBOUND (Off:0 Def:1),nan,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124922,21500998,4,7:02,MISS Fournier 2' Driving Layup,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124923,21500998,4,7:00,Smith REBOUND (Off:3 Def:7),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124924,21500998,4,6:47,Ilyasova 16' Fadeaway Jumper (5 PTS) (Smith 1 AST),nan,87 - 96,101141,Ersan Ilyasova,ORL,201160,Jason Smith,ORL,0,nan,nan,Made Shot ,nan
+124925,21500998,4,6:47,nan,Augustin S.FOUL (P1.T3) (M.Ervin),nan,201571,D.J. Augustin,DEN,101141,Ersan Ilyasova,ORL,0,nan,nan,Foul ,Shooting
+124926,21500998,4,6:47,Ilyasova Free Throw 1 of 1 (6 PTS),nan,87 - 97,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+124927,21500998,4,6:47,nan,Arthur P.FOUL (P4.T4) (M.Ervin),nan,201589,Darrell Arthur,DEN,201160,Jason Smith,ORL,0,nan,nan,Foul ,Personal
+124928,21500998,4,6:47,Smith Free Throw 1 of 1 (17 PTS),nan,87 - 98,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+124929,21500998,4,6:33,nan,MISS Augustin 19' Pullup Jump Shot,nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124930,21500998,4,6:31,Oladipo REBOUND (Off:0 Def:3),nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124931,21500998,4,6:25,Oladipo 2' Driving Layup (23 PTS),nan,87 - 100,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+124932,21500998,4,6:25,nan,Nuggets Timeout: Regular (Reg.5 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+124933,21500998,4,6:25,nan,SUB: Mudiay FOR Lauvergne,nan,203530,Joffrey Lauvergne,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+124934,21500998,4,6:25,nan,SUB: Jokic FOR Arthur,nan,201589,Darrell Arthur,DEN,203999,Nikola Jokic,DEN,0,nan,nan,Substitution ,nan
+124935,21500998,4,6:13,nan,Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T15),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+124936,21500998,4,6:04,Smith OFF.Foul (P3) (M.Ervin),nan,nan,201160,Jason Smith,ORL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Offensive
+124937,21500998,4,6:04,Smith Foul Turnover (P1.T13),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Turnover ,Foul
+124938,21500998,4,5:57,Fournier P.FOUL (P2.T3) (C.Kirkland),nan,nan,203095,Evan Fournier,ORL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Personal
+124939,21500998,4,5:50,nan,Mudiay 12' Pullup Jump Shot (8 PTS),89 - 100,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124940,21500998,4,5:30,Smith 18' Jump Shot (19 PTS) (Fournier 3 AST),nan,89 - 102,201160,Jason Smith,ORL,203095,Evan Fournier,ORL,0,nan,nan,Made Shot ,nan
+124941,21500998,4,5:15,Oladipo L.B.FOUL (P2.T4) (C.Kirkland),nan,nan,203506,Victor Oladipo,ORL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Loose Ball
+124942,21500998,4,5:09,nan,Mudiay 16' Jump Shot (10 PTS),91 - 102,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124943,21500998,4,4:53,MISS Smith 19' Jump Shot,nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124944,21500998,4,4:51,nan,Barton REBOUND (Off:1 Def:2),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124945,21500998,4,4:44,Ilyasova STEAL (1 STL),Barton Lost Ball Turnover (P2.T16),nan,203115,Will Barton,DEN,101141,Ersan Ilyasova,ORL,0,nan,nan,Turnover ,Lost Ball
+124946,21500998,4,4:43,nan,Jokic P.FOUL (P1.PN) (M.Ervin),nan,203999,Nikola Jokic,DEN,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal
+124947,21500998,4,4:43,Fournier T.FOUL (P2.T4) (M.Ervin),nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Foul ,Technical
+124948,21500998,4,4:43,nan,Augustin Free Throw Technical (12 PTS),92 - 102,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+124949,21500998,4,4:43,Fournier Free Throw 1 of 2 (28 PTS),nan,92 - 103,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124950,21500998,4,4:43,MISS Fournier Free Throw 2 of 2,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124951,21500998,4,4:42,nan,Barton REBOUND (Off:1 Def:3),nan,203115,Will Barton,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124952,21500998,4,4:33,nan,Mudiay 2' Driving Layup (12 PTS),94 - 103,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124953,21500998,4,4:15,MISS Fournier 3' Layup,Jokic BLOCK (1 BLK),nan,203095,Evan Fournier,ORL,0,nan,nan,203999,Nikola Jokic,DEN,Missed Shot ,nan
+124954,21500998,4,4:15,nan,Augustin REBOUND (Off:0 Def:4),nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124955,21500998,4,4:09,Oladipo S.FOUL (P3.PN) (C.Kirkland),nan,nan,203506,Victor Oladipo,ORL,203914,Gary Harris,DEN,0,nan,nan,Foul ,Shooting
+124956,21500998,4,4:09,nan,Harris Free Throw 1 of 2 (13 PTS),95 - 103,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124957,21500998,4,4:09,SUB: Jennings FOR Watson,nan,nan,201228,C.J. Watson,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Substitution ,nan
+124958,21500998,4,4:09,nan,MISS Harris Free Throw 2 of 2,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124959,21500998,4,4:08,Ilyasova REBOUND (Off:0 Def:4),nan,nan,101141,Ersan Ilyasova,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124960,21500998,4,3:57,Smith 19' Jump Shot (21 PTS) (Jennings 11 AST),nan,95 - 105,201160,Jason Smith,ORL,201943,Brandon Jennings,ORL,0,nan,nan,Made Shot ,nan
+124961,21500998,4,3:43,nan,Harris 27' 3PT Jump Shot (16 PTS) (Mudiay 3 AST),98 - 105,203914,Gary Harris,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+124962,21500998,4,3:25,MISS Oladipo 20' Jump Shot,nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124963,21500998,4,3:24,Smith REBOUND (Off:4 Def:7),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124964,21500998,4,3:08,MISS Oladipo 18' Pullup Jump Shot,nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124965,21500998,4,3:06,nan,Harris REBOUND (Off:1 Def:2),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124966,21500998,4,2:48,nan,MISS Jokic 8' Jump Shot,nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124967,21500998,4,2:48,nan,Jokic REBOUND (Off:3 Def:2),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124968,21500998,4,2:48,Oladipo S.FOUL (P4.PN) (M.Davis),nan,nan,203506,Victor Oladipo,ORL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Shooting
+124969,21500998,4,2:48,MAGIC Timeout: Regular (Full 4 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+124970,21500998,4,2:48,SUB: Gordon FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+124971,21500998,4,2:48,nan,Jokic Free Throw 1 of 2 (10 PTS),99 - 105,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124972,21500998,4,2:48,nan,Jokic Free Throw 2 of 2 (11 PTS),100 - 105,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124973,21500998,4,2:33,nan,Jokic P.FOUL (P2.PN) (C.Kirkland),nan,203999,Nikola Jokic,DEN,201160,Jason Smith,ORL,0,nan,nan,Foul ,Personal
+124974,21500998,4,2:33,Smith Free Throw 1 of 2 (22 PTS),nan,100 - 106,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124975,21500998,4,2:33,Smith Free Throw 2 of 2 (23 PTS),nan,100 - 107,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124976,21500998,4,2:16,nan,MISS Harris 26' 3PT Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124977,21500998,4,2:15,Smith REBOUND (Off:4 Def:8),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124978,21500998,4,2:05,nan,Jokic P.FOUL (P3.PN) (M.Ervin),nan,203999,Nikola Jokic,DEN,201160,Jason Smith,ORL,0,nan,nan,Foul ,Personal
+124979,21500998,4,2:05,nan,Augustin T.FOUL (P1.PN) (M.Ervin),nan,201571,D.J. Augustin,DEN,0,nan,nan,0,nan,nan,Foul ,Technical
+124980,21500998,4,2:05,MISS Smith Free Throw Technical,nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+124981,21500998,4,2:05,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+124982,21500998,4,2:05,Smith Free Throw 1 of 2 (24 PTS),nan,100 - 108,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124983,21500998,4,2:05,Smith Free Throw 2 of 2 (25 PTS),nan,100 - 109,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124984,21500998,4,1:55,nan,MISS Mudiay 8' Turnaround Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124985,21500998,4,1:54,Jennings REBOUND (Off:1 Def:2),nan,nan,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124986,21500998,4,1:30,MISS Jennings 25' 3PT Jump Shot,nan,nan,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124987,21500998,4,1:29,nan,Mudiay REBOUND (Off:0 Def:2),nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+124988,21500998,4,1:19,nan,Jokic 4' Hook Shot (13 PTS),102 - 109,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+124989,21500998,4,1:19,Smith S.FOUL (P4.PN) (M.Ervin),nan,nan,201160,Jason Smith,ORL,203999,Nikola Jokic,DEN,0,nan,nan,Foul ,Shooting
+124990,21500998,4,1:19,nan,Jokic Free Throw 1 of 1 (14 PTS),103 - 109,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+124991,21500998,4,1:08,Jump Ball Oladipo vs. Barton: Tip to Gordon,nan,nan,203506,Victor Oladipo,ORL,203115,Will Barton,DEN,203932,Aaron Gordon,ORL,Jump Ball ,nan
+124992,21500998,4,1:00,nan,Mudiay P.FOUL (P2.PN) (C.Kirkland),nan,1626144,Emmanuel Mudiay,DEN,203095,Evan Fournier,ORL,0,nan,nan,Foul ,Personal
+124993,21500998,4,1:00,Fournier Free Throw 1 of 2 (29 PTS),nan,103 - 110,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+124994,21500998,4,1:00,Fournier Free Throw 2 of 2 (30 PTS),nan,103 - 111,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+124995,21500998,4,1:00,nan,Nuggets Timeout: Regular (Reg.6 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+124996,21500998,4,1:00,nan,SUB: Arthur FOR Barton,nan,203115,Will Barton,DEN,201589,Darrell Arthur,DEN,0,nan,nan,Substitution ,nan
+124997,21500998,4,0:54,nan,Harris 2' Driving Layup (18 PTS) (Mudiay 4 AST),105 - 111,203914,Gary Harris,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Made Shot ,nan
+124998,21500998,4,0:35,MISS Oladipo 24' 3PT Jump Shot,nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+124999,21500998,4,0:33,nan,Jokic REBOUND (Off:3 Def:3),nan,203999,Nikola Jokic,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125000,21500998,4,0:27,nan,MISS Mudiay 5' Running Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125001,21500998,4,0:26,Smith REBOUND (Off:4 Def:9),nan,nan,201160,Jason Smith,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125002,21500998,4,0:23,nan,Augustin Personal Take Foul (P2.PN) (C.Kirkland),nan,201571,D.J. Augustin,DEN,201943,Brandon Jennings,ORL,0,nan,nan,Foul ,Personal Take
+125003,21500998,4,0:23,Jennings Free Throw 1 of 2 (8 PTS),nan,105 - 112,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125004,21500998,4,0:23,Jennings Free Throw 2 of 2 (9 PTS),nan,105 - 113,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125005,21500998,4,0:23,nan,Nuggets Timeout: Short (Reg.6 Short 1),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+125006,21500998,4,0:17,nan,Arthur 25' 3PT Jump Shot (13 PTS) (Harris 3 AST),108 - 113,201589,Darrell Arthur,DEN,203914,Gary Harris,DEN,0,nan,nan,Made Shot ,nan
+125007,21500998,4,0:16,nan,Harris Personal Take Foul (P1.PN) (M.Ervin),nan,203914,Gary Harris,DEN,201943,Brandon Jennings,ORL,0,nan,nan,Foul ,Personal Take
+125008,21500998,4,0:16,MISS Jennings Free Throw 1 of 2,nan,nan,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125009,21500998,4,0:16,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+125010,21500998,4,0:16,Jennings Free Throw 2 of 2 (10 PTS),nan,108 - 114,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125011,21500998,4,0:10,Smith S.FOUL (P5.PN) (M.Davis),nan,nan,201160,Jason Smith,ORL,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Shooting
+125012,21500998,4,0:10,nan,Mudiay Free Throw 1 of 2 (13 PTS),109 - 114,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125013,21500998,4,0:10,nan,Mudiay Free Throw 2 of 2 (14 PTS),110 - 114,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125014,21500998,4,0:09,nan,Mudiay Personal Take Foul (P3.PN) (M.Ervin),nan,1626144,Emmanuel Mudiay,DEN,201943,Brandon Jennings,ORL,0,nan,nan,Foul ,Personal Take
+125015,21500998,4,0:09,Jennings Free Throw 1 of 2 (11 PTS),nan,110 - 115,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+125016,21500998,4,0:09,Jennings Free Throw 2 of 2 (12 PTS),nan,110 - 116,201943,Brandon Jennings,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+125017,21500998,4,0:03,nan,MISS Mudiay 28' 3PT Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+125018,21500998,4,0:01,Oladipo REBOUND (Off:0 Def:4),nan,nan,203506,Victor Oladipo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+125019,21500998,4,0:00,nan,nan,110 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,113 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+132003,21501057,4,12:00,nan,nan,62 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+132004,21501057,4,11:45,MISS Olynyk 10' Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132005,21501057,4,11:45,nan,Ross REBOUND (Off:0 Def:3),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132006,21501057,4,11:41,Smart Shooting Block Foul (P2.T1) (M.McCutchen),nan,nan,203935,Marcus Smart,BOS,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Shooting Block
+132007,21501057,4,11:41,nan,MISS Ross Free Throw 1 of 2,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132008,21501057,4,11:41,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+132009,21501057,4,11:41,nan,Ross Free Throw 2 of 2 (9 PTS),63 - 69,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132010,21501057,4,11:30,MISS Bradley 17' Pullup Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132011,21501057,4,11:29,nan,Biyombo REBOUND (Off:2 Def:7),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132012,21501057,4,11:08,nan,Johnson 25' 3PT Jump Shot (3 PTS) (Biyombo 1 AST),66 - 69,201949,James Johnson,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Made Shot ,nan
+132013,21501057,4,10:49,MISS Rozier 2' Reverse Layup,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132014,21501057,4,10:48,nan,Thompson REBOUND (Off:1 Def:2),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132015,21501057,4,10:39,nan,MISS Wright 2' Driving Layup,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132016,21501057,4,10:38,nan,Biyombo REBOUND (Off:3 Def:7),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132017,21501057,4,10:38,Smart S.FOUL (P3.T2) (B.Forte),nan,nan,203935,Marcus Smart,BOS,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Shooting
+132018,21501057,4,10:38,nan,MISS Biyombo Free Throw 1 of 2,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132019,21501057,4,10:38,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+132020,21501057,4,10:38,SUB: Sullinger FOR Jerebko,nan,nan,201973,Jonas Jerebko,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Substitution ,nan
+132021,21501057,4,10:38,nan,MISS Biyombo Free Throw 2 of 2,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132022,21501057,4,10:38,Bradley REBOUND (Off:0 Def:5),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132023,21501057,4,10:16,MISS Rozier 25' 3PT Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132024,21501057,4,10:15,nan,Biyombo REBOUND (Off:3 Def:8),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132025,21501057,4,9:54,nan,MISS Ross 15' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132026,21501057,4,9:53,Bradley REBOUND (Off:0 Def:6),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132027,21501057,4,9:41,MISS Bradley 21' Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132028,21501057,4,9:40,nan,Thompson REBOUND (Off:1 Def:3),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132029,21501057,4,9:31,nan,MISS Wright 2' Driving Layup,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132030,21501057,4,9:30,nan,Thompson REBOUND (Off:2 Def:3),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132031,21501057,4,9:25,nan,Ross 8' Floating Jump Shot (11 PTS) (Thompson 1 AST),68 - 69,203082,Terrence Ross,TOR,201574,Jason Thompson,TOR,0,nan,nan,Made Shot ,nan
+132032,21501057,4,9:25,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132033,21501057,4,9:25,SUB: Thomas FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Substitution ,nan
+132034,21501057,4,9:25,SUB: Johnson FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+132035,21501057,4,9:08,MISS Thomas 8' Driving Floating Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132036,21501057,4,9:07,nan,Wright REBOUND (Off:1 Def:6),nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132037,21501057,4,8:54,nan,MISS Ross 19' Pullup Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132038,21501057,4,8:53,Thomas REBOUND (Off:0 Def:2),nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132039,21501057,4,8:33,MISS Sullinger 3' Jump Shot,Johnson BLOCK (1 BLK),nan,203096,Jared Sullinger,BOS,0,nan,nan,201949,James Johnson,TOR,Missed Shot ,nan
+132040,21501057,4,8:32,Smart REBOUND (Off:1 Def:1),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132041,21501057,4,8:30,MISS Smart 9' Fadeaway Jumper,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132042,21501057,4,8:27,nan,Wright REBOUND (Off:1 Def:7),nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132043,21501057,4,8:20,Thomas P.FOUL (P3.T3) (M.McCutchen),nan,nan,202738,Isaiah Thomas,BOS,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Personal
+132044,21501057,4,8:06,Smart S.FOUL (P4.T4) (S.Wall),nan,nan,203935,Marcus Smart,BOS,201949,James Johnson,TOR,0,nan,nan,Foul ,Shooting
+132045,21501057,4,8:06,nan,MISS Johnson Free Throw 1 of 2,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132046,21501057,4,8:06,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+132047,21501057,4,8:06,nan,MISS Johnson Free Throw 2 of 2,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132048,21501057,4,8:06,Johnson REBOUND (Off:2 Def:8),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132049,21501057,4,7:47,Smart 1' Driving Layup (2 PTS) (Johnson 4 AST),nan,68 - 71,203935,Marcus Smart,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+132050,21501057,4,7:31,Johnson BLOCK (2 BLK),MISS Wright 1' Driving Layup,nan,1626153,Delon Wright,TOR,0,nan,nan,101161,Amir Johnson,BOS,Missed Shot ,nan
+132051,21501057,4,7:30,Sullinger REBOUND (Off:1 Def:7),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132052,21501057,4,7:25,MISS Thomas 1' Running Layup,Thompson BLOCK (1 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,201574,Jason Thompson,TOR,Missed Shot ,nan
+132053,21501057,4,7:23,nan,Thompson REBOUND (Off:2 Def:4),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132054,21501057,4,7:15,nan,MISS Ross 16' Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132055,21501057,4,7:15,nan,Thompson REBOUND (Off:3 Def:4),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132056,21501057,4,7:12,nan,MISS Thompson 1' Layup,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132057,21501057,4,7:11,nan,Johnson REBOUND (Off:1 Def:0),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132058,21501057,4,7:01,nan,Wright 3' Driving Finger Roll Layup (6 PTS),70 - 71,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+132059,21501057,4,6:43,Thomas 24' 3PT Jump Shot (20 PTS) (Sullinger 2 AST),nan,70 - 74,202738,Isaiah Thomas,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+132060,21501057,4,6:17,nan,MISS Johnson 4' Driving Layup,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132061,21501057,4,6:17,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132062,21501057,4,6:04,Johnson  Cutting Dunk Shot (9 PTS) (Thomas 2 AST),nan,70 - 76,101161,Amir Johnson,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+132063,21501057,4,5:40,nan,MISS Wright 26' 3PT Jump Shot,nan,1626153,Delon Wright,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132064,21501057,4,5:38,nan,Biyombo REBOUND (Off:4 Def:8),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132065,21501057,4,5:27,nan,Thompson 3' Cutting Layup Shot (4 PTS) (Johnson 1 AST),72 - 76,201574,Jason Thompson,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+132066,21501057,4,5:12,Thomas 24' 3PT Jump Shot (23 PTS) (Sullinger 3 AST),nan,72 - 79,202738,Isaiah Thomas,BOS,203096,Jared Sullinger,BOS,0,nan,nan,Made Shot ,nan
+132067,21501057,4,4:51,nan,MISS Johnson  3PT Jump Shot,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132068,21501057,4,4:51,Johnson REBOUND (Off:2 Def:9),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132069,21501057,4,4:45,MISS Thomas 25' 3PT Pullup Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132070,21501057,4,4:43,nan,Thompson REBOUND (Off:3 Def:5),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132071,21501057,4,4:37,nan,Raptors Timeout: Regular (Reg.5 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132072,21501057,4,4:37,nan,SUB: DeRozan FOR Wright,nan,1626153,Delon Wright,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+132073,21501057,4,4:37,nan,SUB: Joseph FOR Johnson,nan,201949,James Johnson,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+132074,21501057,4,4:29,nan,Thompson 2' Layup (6 PTS) (Joseph 4 AST),74 - 79,201574,Jason Thompson,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+132075,21501057,4,4:29,Sullinger S.FOUL (P3.PN) (S.Wall),nan,nan,203096,Jared Sullinger,BOS,201574,Jason Thompson,TOR,0,nan,nan,Foul ,Shooting
+132076,21501057,4,4:29,nan,MISS Thompson Free Throw 1 of 1,nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+132077,21501057,4,4:29,Bradley REBOUND (Off:0 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132078,21501057,4,4:13,Bradley 24' 3PT Pullup Jump Shot (11 PTS) (Johnson 5 AST),nan,74 - 82,202340,Avery Bradley,BOS,101161,Amir Johnson,BOS,0,nan,nan,Made Shot ,nan
+132079,21501057,4,3:56,Sullinger P.FOUL (P4.PN) (M.McCutchen),nan,nan,203096,Jared Sullinger,BOS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Personal
+132080,21501057,4,3:56,nan,Joseph Free Throw 1 of 2 (9 PTS),75 - 82,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+132081,21501057,4,3:56,SUB: Turner FOR Smart,nan,nan,203935,Marcus Smart,BOS,202323,Evan Turner,BOS,0,nan,nan,Substitution ,nan
+132082,21501057,4,3:56,nan,MISS Joseph Free Throw 2 of 2,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+132083,21501057,4,3:55,Turner REBOUND (Off:1 Def:3),nan,nan,202323,Evan Turner,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132084,21501057,4,3:45,Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T8),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+132085,21501057,4,3:23,nan,MISS Joseph 3' Turnaround Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132086,21501057,4,3:22,Johnson REBOUND (Off:2 Def:10),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132087,21501057,4,3:07,MISS Thomas 25' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132088,21501057,4,3:07,Sullinger REBOUND (Off:2 Def:7),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132089,21501057,4,3:06,MISS Sullinger 2' Putback Layup,nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132090,21501057,4,3:05,nan,Thompson REBOUND (Off:3 Def:6),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132091,21501057,4,2:55,nan,MISS DeRozan 2' Driving Layup,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132092,21501057,4,2:54,Johnson REBOUND (Off:2 Def:11),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132093,21501057,4,2:39,Johnson 5' Turnaround Hook Shot (11 PTS),nan,75 - 84,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+132094,21501057,4,2:22,nan,DeRozan 13' Jump Shot (21 PTS),77 - 84,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+132095,21501057,4,2:22,nan,Biyombo L.B.FOUL (P3.T1) (S.Wall),nan,202687,Bismack Biyombo,TOR,202323,Evan Turner,BOS,0,nan,nan,Foul ,Loose Ball
+132096,21501057,4,2:22,nan,nan,nan,487,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+132097,21501057,4,2:09,Turner 13' Pullup Jump Shot (17 PTS) (Thomas 3 AST),nan,77 - 86,202323,Evan Turner,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+132098,21501057,4,1:46,nan,MISS Joseph 5' Driving Floating Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132099,21501057,4,1:45,Johnson REBOUND (Off:2 Def:12),nan,nan,101161,Amir Johnson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132100,21501057,4,1:25,MISS Bradley 25' 3PT Jump Shot,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132101,21501057,4,1:23,Bradley REBOUND (Off:1 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132102,21501057,4,1:20,MISS Sullinger 2' Layup,nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132103,21501057,4,1:19,nan,Thompson REBOUND (Off:3 Def:7),nan,201574,Jason Thompson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132104,21501057,4,1:11,nan,MISS Ross 24' 3PT Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132105,21501057,4,1:10,nan,Biyombo REBOUND (Off:5 Def:8),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132106,21501057,4,0:55,nan,MISS Joseph 6' Turnaround Fadeaway Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132107,21501057,4,0:55,Sullinger REBOUND (Off:2 Def:8),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132108,21501057,4,0:33,Bradley 24' 3PT Jump Shot (14 PTS) (Thomas 4 AST),nan,77 - 89,202340,Avery Bradley,BOS,202738,Isaiah Thomas,BOS,0,nan,nan,Made Shot ,nan
+132109,21501057,4,0:33,nan,Raptors Timeout: Regular (Reg.6 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+132110,21501057,4,0:19,nan,Ross 3' Driving Finger Roll Layup (13 PTS),79 - 89,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+132111,21501057,4,0:14,Bradley  Dunk (16 PTS) (Turner 7 AST),nan,79 - 91,202340,Avery Bradley,BOS,202323,Evan Turner,BOS,0,nan,nan,Made Shot ,nan
+132112,21501057,4,0:05,nan,MISS Joseph 25' 3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+132113,21501057,4,0:04,Sullinger REBOUND (Off:2 Def:9),nan,nan,203096,Jared Sullinger,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+132114,21501057,4,0:00,nan,nan,79 - 91,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

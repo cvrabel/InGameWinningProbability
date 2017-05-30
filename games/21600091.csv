@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+164424,21600091,4,12:00,nan,nan,103 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+164425,21600091,4,11:43,Thomas P.FOUL (P3.T1) (B.Kennedy),nan,nan,202738,Isaiah Thomas,BOS,201568,Danilo Gallinari,DEN,0,nan,nan,Foul ,Personal
+164426,21600091,4,11:38,Green S.FOUL (P2.T2) (S.Twardoski),nan,nan,101123,Gerald Green,BOS,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+164427,21600091,4,11:38,nan,Faried Free Throw 1 of 2 (5 PTS),104 - 83,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164428,21600091,4,11:38,nan,MISS Faried Free Throw 2 of 2,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164429,21600091,4,11:38,Bradley REBOUND (Off:1 Def:6),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164430,21600091,4,11:16,Jackson 26' 3PT Jump Shot (3 PTS) (Green 4 AST),nan,104 - 86,1627743,Demetrius Jackson,BOS,101123,Gerald Green,BOS,0,nan,nan,Made Shot ,nan
+164431,21600091,4,10:53,nan,Harris 26' 3PT Jump Shot (12 PTS),107 - 86,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+164432,21600091,4,10:30,MISS Thomas 8' Driving Floating Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164433,21600091,4,10:29,nan,Harris REBOUND (Off:0 Def:3),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164434,21600091,4,10:11,nan,MISS Harris 17' Step Back Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164435,21600091,4,10:10,nan,Faried REBOUND (Off:1 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164436,21600091,4,9:58,Green S.FOUL (P3.T3) (B.Kennedy),nan,nan,101123,Gerald Green,BOS,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+164437,21600091,4,9:58,nan,Faried Free Throw 1 of 2 (6 PTS),108 - 86,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164438,21600091,4,9:58,SUB: Smart FOR Green,nan,nan,101123,Gerald Green,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+164439,21600091,4,9:58,SUB: Zeller FOR Mickey,nan,nan,1626175,Jordan Mickey,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Substitution ,nan
+164440,21600091,4,9:58,nan,Faried Free Throw 2 of 2 (7 PTS),109 - 86,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164441,21600091,4,9:49,Thomas 25' 3PT Jump Shot (30 PTS) (Zeller 2 AST),nan,109 - 89,202738,Isaiah Thomas,BOS,203092,Tyler Zeller,BOS,0,nan,nan,Made Shot ,nan
+164442,21600091,4,9:34,nan,MISS Harris 9' Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164443,21600091,4,9:28,nan,Faried REBOUND (Off:2 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164444,21600091,4,9:28,nan,Faried 1' Tip Layup Shot (9 PTS),111 - 89,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+164445,21600091,4,9:16,Smart 2' Driving Layup (13 PTS) (Jackson 1 AST),nan,111 - 91,203935,Marcus Smart,BOS,1627743,Demetrius Jackson,BOS,0,nan,nan,Made Shot ,nan
+164446,21600091,4,8:58,nan,MISS Nelson 4' Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164447,21600091,4,8:54,nan,Faried REBOUND (Off:3 Def:2),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164448,21600091,4,8:54,nan,MISS Faried 2' Tip Layup Shot,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164449,21600091,4,8:53,Bradley REBOUND (Off:1 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164450,21600091,4,8:49,MISS Bradley 1' Finger Roll Layup,nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164451,21600091,4,8:47,nan,Gallinari REBOUND (Off:1 Def:1),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164452,21600091,4,8:39,Zeller S.FOUL (P5.T4) (E.Lewis),nan,nan,203092,Tyler Zeller,BOS,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Shooting
+164453,21600091,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+164454,21600091,4,8:39,nan,SUB: Mudiay FOR Murray,nan,1627750,Jamal Murray,DEN,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Substitution ,nan
+164455,21600091,4,8:39,nan,Faried Free Throw 1 of 2 (10 PTS),112 - 91,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164456,21600091,4,8:39,nan,Faried Free Throw 2 of 2 (11 PTS),113 - 91,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164457,21600091,4,8:26,MISS Zeller 19' Jump Shot,nan,nan,203092,Tyler Zeller,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164458,21600091,4,8:25,nan,Gallinari REBOUND (Off:1 Def:2),nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164459,21600091,4,8:04,Bradley P.FOUL (P2.PN) (B.Kennedy),nan,nan,202340,Avery Bradley,BOS,1626144,Emmanuel Mudiay,DEN,0,nan,nan,Foul ,Personal
+164460,21600091,4,8:04,nan,Mudiay Free Throw 1 of 2 (27 PTS),114 - 91,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164461,21600091,4,8:04,SUB: Brown FOR Jackson,nan,nan,1627743,Demetrius Jackson,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Substitution ,nan
+164462,21600091,4,8:04,nan,Mudiay Free Throw 2 of 2 (28 PTS),115 - 91,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164463,21600091,4,7:52,MISS Bradley 3' Layup,Harris BLOCK (1 BLK),nan,202340,Avery Bradley,BOS,0,nan,nan,203914,Gary Harris,DEN,Missed Shot ,nan
+164464,21600091,4,7:51,Bradley REBOUND (Off:2 Def:7),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164465,21600091,4,7:49,MISS Brown 28' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164466,21600091,4,7:48,nan,Faried REBOUND (Off:3 Def:3),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164467,21600091,4,7:29,nan,Nelson Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+164468,21600091,4,7:29,SUB: Mickey FOR Zeller,nan,nan,203092,Tyler Zeller,BOS,1626175,Jordan Mickey,BOS,0,nan,nan,Substitution ,nan
+164469,21600091,4,7:15,MISS Thomas 27' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164470,21600091,4,7:14,nan,Faried REBOUND (Off:3 Def:4),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164471,21600091,4,7:01,Thomas STEAL (1 STL),Mudiay Lost Ball Turnover (P7.T15),nan,1626144,Emmanuel Mudiay,DEN,202738,Isaiah Thomas,BOS,0,nan,nan,Turnover ,Lost Ball
+164472,21600091,4,6:56,MISS Thomas  Layup,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164473,21600091,4,6:55,Brown REBOUND (Off:1 Def:0),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164474,21600091,4,6:55,Brown 1' Putback Layup (2 PTS),nan,115 - 93,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+164475,21600091,4,6:55,nan,Nuggets Timeout: Regular (Reg.4 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+164476,21600091,4,6:55,SUB: Rozier FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+164477,21600091,4,6:31,nan,MISS Gallinari 3' Driving Finger Roll Layup,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164478,21600091,4,6:28,nan,Faried REBOUND (Off:4 Def:4),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164479,21600091,4,6:28,nan,MISS Faried 1' Tip Layup Shot,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164480,21600091,4,6:27,Smart REBOUND (Off:2 Def:3),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164481,21600091,4,6:19,MISS Brown 29' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164482,21600091,4,6:18,nan,Harris REBOUND (Off:0 Def:4),nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164483,21600091,4,5:56,nan,MISS Nelson 20' Step Back Jump Shot,nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164484,21600091,4,5:55,Bradley REBOUND (Off:2 Def:8),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164485,21600091,4,5:46,MISS Rozier 2' Driving Layup,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164486,21600091,4,5:45,nan,Faried REBOUND (Off:4 Def:5),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164487,21600091,4,5:33,nan,MISS Gallinari 24' 3PT Jump Shot,nan,201568,Danilo Gallinari,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164488,21600091,4,5:32,Bradley REBOUND (Off:2 Def:9),nan,nan,202340,Avery Bradley,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164489,21600091,4,5:14,MISS Smart 25' 3PT Jump Shot,nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164490,21600091,4,5:13,nan,Nelson REBOUND (Off:0 Def:3),nan,2749,Jameer Nelson,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164491,21600091,4,5:02,Brown P.FOUL (P3.PN) (S.Twardoski),nan,nan,1627759,Jaylen Brown,BOS,202702,Kenneth Faried,DEN,0,nan,nan,Foul ,Personal
+164492,21600091,4,5:02,nan,Faried Free Throw 1 of 2 (12 PTS),116 - 93,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164493,21600091,4,5:02,SUB: Jackson FOR Smart,nan,nan,203935,Marcus Smart,BOS,1627743,Demetrius Jackson,BOS,0,nan,nan,Substitution ,nan
+164494,21600091,4,5:02,SUB: Young FOR Bradley,nan,nan,202340,Avery Bradley,BOS,203923,James Young,BOS,0,nan,nan,Substitution ,nan
+164495,21600091,4,5:02,nan,MISS Faried Free Throw 2 of 2,nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164496,21600091,4,5:02,Young REBOUND (Off:0 Def:1),nan,nan,203923,James Young,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164497,21600091,4,4:43,MISS Jackson 16' Jump Shot,nan,nan,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164498,21600091,4,4:42,Brown REBOUND (Off:2 Def:0),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164499,21600091,4,4:40,MISS Brown 2' Layup,Faried BLOCK (1 BLK),nan,1627759,Jaylen Brown,BOS,0,nan,nan,202702,Kenneth Faried,DEN,Missed Shot ,nan
+164500,21600091,4,4:38,Jackson REBOUND (Off:1 Def:0),nan,nan,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164501,21600091,4,4:37,CELTICS Turnover: Shot Clock (T#11),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+164502,21600091,4,4:27,nan,MISS Mudiay 14' Pullup Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164503,21600091,4,4:26,Rozier REBOUND (Off:0 Def:1),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164504,21600091,4,4:21,Jackson 2' Finger Roll Layup (5 PTS) (Rozier 1 AST),nan,116 - 95,1627743,Demetrius Jackson,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+164505,21600091,4,3:59,nan,MISS Harris 27' 3PT Jump Shot,nan,203914,Gary Harris,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164506,21600091,4,3:57,nan,Faried REBOUND (Off:5 Def:5),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164507,21600091,4,3:57,nan,Nuggets Timeout: Regular (Reg.5 Short 0),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+164508,21600091,4,3:45,nan,MISS Mudiay 19' Pullup Jump Shot,nan,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164509,21600091,4,3:44,Jackson REBOUND (Off:1 Def:1),nan,nan,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164510,21600091,4,3:34,Mickey 3' Cutting Layup Shot (8 PTS) (Jackson 2 AST),nan,116 - 97,1626175,Jordan Mickey,BOS,1627743,Demetrius Jackson,BOS,0,nan,nan,Made Shot ,nan
+164511,21600091,4,3:34,nan,Nelson S.FOUL (P5.T1) (S.Twardoski),nan,2749,Jameer Nelson,DEN,1626175,Jordan Mickey,BOS,0,nan,nan,Foul ,Shooting
+164512,21600091,4,3:34,nan,SUB: Murray FOR Harris,nan,203914,Gary Harris,DEN,1627750,Jamal Murray,DEN,0,nan,nan,Substitution ,nan
+164513,21600091,4,3:34,MISS Mickey Free Throw 1 of 1,nan,nan,1626175,Jordan Mickey,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+164514,21600091,4,3:34,nan,Murray REBOUND (Off:0 Def:1),nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164515,21600091,4,3:18,nan,Gallinari 16' Jump Shot (16 PTS) (Nelson 7 AST),118 - 97,201568,Danilo Gallinari,DEN,2749,Jameer Nelson,DEN,0,nan,nan,Made Shot ,nan
+164516,21600091,4,3:01,Mickey Lost Ball Turnover (P1.T12),Faried STEAL (1 STL),nan,1626175,Jordan Mickey,BOS,202702,Kenneth Faried,DEN,0,nan,nan,Turnover ,Lost Ball
+164517,21600091,4,2:40,nan,Mudiay 8' Turnaround Fadeaway (30 PTS),120 - 97,1626144,Emmanuel Mudiay,DEN,0,nan,nan,0,nan,nan,Made Shot ,nan
+164518,21600091,4,2:26,nan,Faried S.FOUL (P1.T2) (E.Lewis),nan,202702,Kenneth Faried,DEN,1627759,Jaylen Brown,BOS,0,nan,nan,Foul ,Shooting
+164519,21600091,4,2:26,Brown Free Throw 1 of 2 (3 PTS),nan,120 - 98,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164520,21600091,4,2:26,nan,SUB: Beasley FOR Mudiay,nan,1626144,Emmanuel Mudiay,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Substitution ,nan
+164521,21600091,4,2:26,nan,SUB: Hernangomez FOR Gallinari,nan,201568,Danilo Gallinari,DEN,1627823,Juan Hernangomez,DEN,0,nan,nan,Substitution ,nan
+164522,21600091,4,2:26,Brown Free Throw 2 of 2 (4 PTS),nan,120 - 99,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164523,21600091,4,2:11,nan,Murray 26' 3PT Jump Shot (9 PTS) (Beasley 1 AST),123 - 99,1627750,Jamal Murray,DEN,1627736,Malik Beasley,DEN,0,nan,nan,Made Shot ,nan
+164524,21600091,4,1:55,MISS Rozier 20' Jump Shot,nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164525,21600091,4,1:54,Jackson REBOUND (Off:2 Def:1),nan,nan,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164526,21600091,4,1:53,nan,Hernangomez P.FOUL (P1.T3) (E.Lewis),nan,1627823,Juan Hernangomez,DEN,1627743,Demetrius Jackson,BOS,0,nan,nan,Foul ,Personal
+164527,21600091,4,1:40,MISS Brown 27' 3PT Jump Shot,nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164528,21600091,4,1:39,nan,Faried REBOUND (Off:5 Def:6),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164529,21600091,4,1:28,nan,Hernangomez Step Out of Bounds Turnover (P1.T16),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+164530,21600091,4,1:18,nan,Faried S.FOUL (P2.PN) (B.Kennedy),nan,202702,Kenneth Faried,DEN,1627743,Demetrius Jackson,BOS,0,nan,nan,Foul ,Shooting
+164531,21600091,4,1:18,Jackson Free Throw 1 of 2 (6 PTS),nan,123 - 100,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164532,21600091,4,1:18,Jackson Free Throw 2 of 2 (7 PTS),nan,123 - 101,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164533,21600091,4,1:02,nan,MISS Murray 21' Jump Shot,nan,1627750,Jamal Murray,DEN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+164534,21600091,4,1:01,Rozier REBOUND (Off:0 Def:2),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164535,21600091,4,0:55,Rozier 2' Driving Finger Roll Layup (2 PTS),nan,123 - 103,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+164536,21600091,4,0:47,Brown BLOCK (1 BLK),MISS Beasley 1' Layup,nan,1627736,Malik Beasley,DEN,0,nan,nan,1627759,Jaylen Brown,BOS,Missed Shot ,nan
+164537,21600091,4,0:46,Brown REBOUND (Off:2 Def:1),nan,nan,1627759,Jaylen Brown,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164538,21600091,4,0:42,Rozier 27' 3PT Jump Shot (5 PTS) (Brown 4 AST),nan,123 - 106,1626179,Terry Rozier,BOS,1627759,Jaylen Brown,BOS,0,nan,nan,Made Shot ,nan
+164539,21600091,4,0:25,nan,Faried L.B.FOUL (P3.PN) (E.Lewis),nan,202702,Kenneth Faried,DEN,1627743,Demetrius Jackson,BOS,0,nan,nan,Foul ,Loose Ball
+164540,21600091,4,0:25,nan,Faried Foul Turnover (P2.T17),nan,202702,Kenneth Faried,DEN,0,nan,nan,0,nan,nan,Turnover ,Foul
+164541,21600091,4,0:25,Jackson Free Throw 1 of 2 (8 PTS),nan,123 - 107,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+164542,21600091,4,0:25,MISS Jackson Free Throw 2 of 2,nan,nan,1627743,Demetrius Jackson,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+164543,21600091,4,0:25,nan,Hernangomez REBOUND (Off:0 Def:1),nan,1627823,Juan Hernangomez,DEN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+164544,21600091,4,0:01,nan,Nuggets Turnover: Shot Clock (T#18),nan,1610612743,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+164545,21600091,4,0:00,nan,nan,123 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

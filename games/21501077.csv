@@ -1,0 +1,168 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+134415,21501077,4,12:00,nan,nan,78 - 79,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+134416,21501077,4,11:45,MISS Terry 17' Pullup Jump Shot,nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134417,21501077,4,11:44,nan,Patterson REBOUND (Off:0 Def:1),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134418,21501077,4,11:29,Harden STEAL (1 STL),Joseph Bad Pass Turnover (P3.T11),nan,202709,Cory Joseph,TOR,201935,James Harden,HOU,0,nan,nan,Turnover ,Bad Pass
+134419,21501077,4,11:23,Terry 21' Jump Shot (2 PTS) (Harden 11 AST),nan,78 - 81,1891,Jason Terry,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+134420,21501077,4,10:54,nan,MISS Joseph 16' Fadeaway Jumper,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134421,21501077,4,10:53,Terry REBOUND (Off:1 Def:4),nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134422,21501077,4,10:43,Beasley 20' Jump Shot (17 PTS) (Terry 2 AST),nan,78 - 83,201563,Michael Beasley,HOU,1891,Jason Terry,HOU,0,nan,nan,Made Shot ,nan
+134423,21501077,4,10:43,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+134424,21501077,4,10:30,nan,Joseph OFF.Foul (P1) (K.Fitzgerald),nan,202709,Cory Joseph,TOR,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive
+134425,21501077,4,10:30,nan,Joseph Foul Turnover (P4.T12),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+134426,21501077,4,10:17,Harden 25' 3PT Pullup Jump Shot (28 PTS),nan,78 - 86,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+134427,21501077,4,10:03,nan,Patterson 2' Driving Layup (6 PTS) (Lowry 8 AST),80 - 86,202335,Patrick Patterson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+134428,21501077,4,9:47,Terry 24' 3PT Jump Shot (5 PTS) (Harden 12 AST),nan,80 - 89,1891,Jason Terry,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+134429,21501077,4,9:25,nan,MISS Lowry 20' Step Back Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134430,21501077,4,9:24,Beasley REBOUND (Off:0 Def:4),nan,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134431,21501077,4,9:18,Brewer 4' Running Layup (5 PTS) (Harden 13 AST),nan,80 - 91,201147,Corey Brewer,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+134432,21501077,4,9:18,nan,Johnson S.FOUL (P1.T1) (E.Malloy),nan,201949,James Johnson,TOR,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Shooting
+134433,21501077,4,9:18,nan,SUB: DeRozan FOR Biyombo,nan,202687,Bismack Biyombo,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+134434,21501077,4,9:18,nan,SUB: Valanciunas FOR Johnson,nan,201949,James Johnson,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+134435,21501077,4,9:18,Brewer Free Throw 1 of 1 (6 PTS),nan,80 - 92,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+134436,21501077,4,8:54,nan,Joseph  3PT Jump Shot (8 PTS) (Valanciunas 2 AST),83 - 92,202709,Cory Joseph,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Made Shot ,nan
+134437,21501077,4,8:33,MISS Harden 25' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134438,21501077,4,8:32,nan,Valanciunas REBOUND (Off:5 Def:6),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134439,21501077,4,8:24,Harden S.FOUL (P1.T1) (E.Malloy),nan,nan,201935,James Harden,HOU,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+134440,21501077,4,8:24,nan,Valanciunas Free Throw 1 of 2 (12 PTS),84 - 92,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134441,21501077,4,8:24,nan,Valanciunas Free Throw 2 of 2 (13 PTS),85 - 92,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134442,21501077,4,8:10,nan,Valanciunas S.FOUL (P5.T2) (K.Fitzgerald),nan,202685,Jonas Valanciunas,TOR,201563,Michael Beasley,HOU,0,nan,nan,Foul ,Shooting
+134443,21501077,4,8:10,Beasley Free Throw 1 of 2 (18 PTS),nan,85 - 93,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134444,21501077,4,8:10,MISS Beasley Free Throw 2 of 2,nan,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134445,21501077,4,8:10,nan,Patterson REBOUND (Off:0 Def:2),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134446,21501077,4,7:43,nan,DeRozan 20' Fadeaway Jumper (14 PTS),87 - 93,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134447,21501077,4,7:38,SUB: Howard FOR Beasley,nan,nan,201563,Michael Beasley,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+134448,21501077,4,7:34,Brewer 19' Pullup Jump Shot (8 PTS) (Terry 3 AST),nan,87 - 95,201147,Corey Brewer,HOU,1891,Jason Terry,HOU,0,nan,nan,Made Shot ,nan
+134449,21501077,4,7:22,nan,Lowry 2' Driving Layup (11 PTS),89 - 95,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134450,21501077,4,7:22,Howard S.FOUL (P5.T2) (K.Fitzgerald),nan,nan,2730,Dwight Howard,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+134451,21501077,4,7:22,nan,SUB: Powell FOR Patterson,nan,202335,Patrick Patterson,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+134452,21501077,4,7:22,nan,MISS Lowry Free Throw 1 of 1,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+134453,21501077,4,7:22,Harden REBOUND (Off:0 Def:7),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134454,21501077,4,7:03,MISS Terry 15' Pullup Jump Shot,nan,nan,1891,Jason Terry,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134455,21501077,4,7:02,nan,Lowry REBOUND (Off:0 Def:2),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134456,21501077,4,6:52,nan,MISS DeRozan 25' 3PT Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134457,21501077,4,6:51,Harden REBOUND (Off:0 Def:8),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134458,21501077,4,6:45,Harden Lost Ball Turnover (P6.T14),Lowry STEAL (1 STL),nan,201935,James Harden,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Lost Ball
+134459,21501077,4,6:39,Beverley BLOCK (1 BLK),MISS Joseph 3' Running Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,201976,Patrick Beverley,HOU,Missed Shot ,nan
+134460,21501077,4,6:39,nan,DeRozan REBOUND (Off:1 Def:3),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134461,21501077,4,6:39,Brewer S.FOUL (P1.T3) (T.Ford),nan,nan,201147,Corey Brewer,HOU,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+134462,21501077,4,6:39,nan,DeRozan Free Throw 1 of 2 (15 PTS),90 - 95,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134463,21501077,4,6:39,SUB: Ariza FOR Terry,nan,nan,1891,Jason Terry,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+134464,21501077,4,6:39,nan,DeRozan Free Throw 2 of 2 (16 PTS),91 - 95,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134465,21501077,4,6:18,Brewer 2' Driving Layup (10 PTS) (Howard 1 AST),nan,91 - 97,201147,Corey Brewer,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+134466,21501077,4,5:57,nan,MISS Joseph  3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134467,21501077,4,5:56,Harden REBOUND (Off:0 Def:9),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134468,21501077,4,5:48,MISS Harden 3' Driving Layup,Powell BLOCK (1 BLK),nan,201935,James Harden,HOU,0,nan,nan,1626181,Norman Powell,TOR,Missed Shot ,nan
+134469,21501077,4,5:48,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134470,21501077,4,5:48,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+134471,21501077,4,5:37,MISS Harden 17' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134472,21501077,4,5:36,nan,Valanciunas REBOUND (Off:5 Def:7),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134473,21501077,4,5:26,nan,MISS Lowry 3' Driving Reverse Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134474,21501077,4,5:25,Brewer REBOUND (Off:0 Def:1),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134475,21501077,4,5:19,Ariza  3PT Jump Shot (3 PTS) (Brewer 1 AST),nan,91 - 100,2772,Trevor Ariza,HOU,201147,Corey Brewer,HOU,0,nan,nan,Made Shot ,nan
+134476,21501077,4,4:57,nan,MISS DeRozan 19' Pullup Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134477,21501077,4,4:56,nan,Valanciunas REBOUND (Off:6 Def:7),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134478,21501077,4,4:44,nan,Lowry 25' 3PT Pullup Jump Shot (14 PTS),94 - 100,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134479,21501077,4,4:29,nan,Powell S.FOUL (P3.T3) (T.Ford),nan,1626181,Norman Powell,TOR,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+134480,21501077,4,4:29,Harden Free Throw 1 of 2 (29 PTS),nan,94 - 101,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134481,21501077,4,4:29,MISS Harden Free Throw 2 of 2,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134482,21501077,4,4:29,nan,Valanciunas REBOUND (Off:6 Def:8),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134483,21501077,4,4:18,Harden S.FOUL (P2.T4) (T.Ford),nan,nan,201935,James Harden,HOU,202685,Jonas Valanciunas,TOR,0,nan,nan,Foul ,Shooting
+134484,21501077,4,4:18,nan,MISS Valanciunas Free Throw 1 of 2,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134485,21501077,4,4:18,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134486,21501077,4,4:18,nan,Valanciunas Free Throw 2 of 2 (14 PTS),95 - 101,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134487,21501077,4,4:05,Beverley 8' Driving Floating Jump Shot (17 PTS),nan,95 - 103,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+134488,21501077,4,3:54,nan,MISS DeRozan 15' Pullup Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134489,21501077,4,3:53,Brewer REBOUND (Off:0 Def:2),nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134490,21501077,4,3:43,Ariza Bad Pass Turnover (P3.T15),Valanciunas STEAL (2 STL),nan,2772,Trevor Ariza,HOU,202685,Jonas Valanciunas,TOR,0,nan,nan,Turnover ,Bad Pass
+134491,21501077,4,3:30,nan,MISS Valanciunas 8' Jump Shot,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134492,21501077,4,3:29,Howard REBOUND (Off:2 Def:3),nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134493,21501077,4,3:19,nan,Joseph S.FOUL (P2.T4) (K.Fitzgerald),nan,202709,Cory Joseph,TOR,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+134494,21501077,4,3:19,MISS Howard Free Throw 1 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134495,21501077,4,3:19,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134496,21501077,4,3:19,MISS Howard Free Throw 2 of 2,nan,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134497,21501077,4,3:19,nan,Valanciunas REBOUND (Off:6 Def:9),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134498,21501077,4,3:06,SUB: Beasley FOR Howard,nan,nan,2730,Dwight Howard,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+134499,21501077,4,3:06,Jump Ball Brewer vs. Joseph: Tip to DeRozan,nan,nan,201147,Corey Brewer,HOU,202709,Cory Joseph,TOR,201942,DeMar DeRozan,TOR,Jump Ball ,nan
+134500,21501077,4,2:59,nan,MISS DeRozan 18' Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134501,21501077,4,2:58,nan,DeRozan REBOUND (Off:2 Def:3),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134502,21501077,4,2:57,nan,DeRozan 1' Layup (18 PTS),97 - 103,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134503,21501077,4,2:55,nan,DeRozan T.FOUL (P3.T4) (K.Fitzgerald),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Foul ,Technical
+134504,21501077,4,2:55,nan,DeRozan T.FOUL (P3.T4) (K.Fitzgerald),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Foul ,Technical
+134505,21501077,4,2:55,ROCKETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+134506,21501077,4,2:55,nan,nan,nan,478,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+134507,21501077,4,2:55,nan,DeRozan Ejection:Second Technical,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Ejection ,nan
+134508,21501077,4,2:55,nan,SUB: Patterson FOR DeRozan,nan,201942,DeMar DeRozan,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Substitution ,nan
+134509,21501077,4,2:55,MISS Harden Free Throw Technical,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+134510,21501077,4,2:55,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134511,21501077,4,2:55,Harden Free Throw Technical (30 PTS),nan,97 - 104,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+134512,21501077,4,2:39,MISS Harden 18' Step Back Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134513,21501077,4,2:38,nan,Valanciunas REBOUND (Off:6 Def:10),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134514,21501077,4,2:26,nan,MISS Lowry 25' 3PT Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134515,21501077,4,2:25,Harden REBOUND (Off:0 Def:10),nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134516,21501077,4,2:23,nan,Lowry S.FOUL (P3.PN) (E.Malloy),nan,200768,Kyle Lowry,TOR,201563,Michael Beasley,HOU,0,nan,nan,Foul ,Shooting
+134517,21501077,4,2:23,MISS Beasley Free Throw 1 of 2,nan,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134518,21501077,4,2:23,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134519,21501077,4,2:23,Beasley Free Throw 2 of 2 (19 PTS),nan,97 - 105,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134520,21501077,4,2:13,Beasley S.FOUL (P4.PN) (K.Fitzgerald),nan,nan,201563,Michael Beasley,HOU,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Shooting
+134521,21501077,4,2:13,nan,Joseph Free Throw 1 of 2 (9 PTS),98 - 105,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134522,21501077,4,2:13,nan,Joseph Free Throw 2 of 2 (10 PTS),99 - 105,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134523,21501077,4,2:01,Beasley 3' Driving Layup (21 PTS) (Ariza 1 AST),nan,99 - 107,201563,Michael Beasley,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+134524,21501077,4,1:53,Harden BLOCK (1 BLK),MISS Joseph 3' Driving Reverse Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,201935,James Harden,HOU,Missed Shot ,nan
+134525,21501077,4,1:53,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134526,21501077,4,1:46,Beverley BLOCK (2 BLK),MISS Lowry 27' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,201976,Patrick Beverley,HOU,Missed Shot ,nan
+134527,21501077,4,1:45,Beasley REBOUND (Off:0 Def:5),nan,nan,201563,Michael Beasley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134528,21501077,4,1:25,MISS Ariza 10' Jump Bank Shot,nan,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134529,21501077,4,1:24,Beverley REBOUND (Off:1 Def:3),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134530,21501077,4,1:05,MISS Harden 24' 3PT Pullup Jump Shot,nan,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134531,21501077,4,1:05,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134532,21501077,4,1:05,nan,Raptors Timeout: Short (Reg.4 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+134533,21501077,4,1:05,SUB: Howard FOR Beasley,nan,nan,201563,Michael Beasley,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+134534,21501077,4,1:01,nan,MISS Lowry 3' Driving Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134535,21501077,4,1:00,nan,Valanciunas REBOUND (Off:7 Def:10),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134536,21501077,4,1:00,nan,Valanciunas 1' Tip Layup Shot (16 PTS),101 - 107,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134537,21501077,4,0:40,Beverley Offensive Charge Foul (P3.PN) (T.Ford),nan,nan,201976,Patrick Beverley,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Offensive Charge
+134538,21501077,4,0:40,Beverley Foul Turnover (P2.T16),nan,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Foul
+134539,21501077,4,0:35,Howard S.FOUL (P6.PN) (E.Malloy),nan,nan,2730,Dwight Howard,HOU,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+134540,21501077,4,0:35,SUB: Beasley FOR Howard,nan,nan,2730,Dwight Howard,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+134541,21501077,4,0:35,nan,MISS Lowry Free Throw 1 of 3,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+134542,21501077,4,0:35,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134543,21501077,4,0:35,nan,MISS Lowry Free Throw 2 of 3,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+134544,21501077,4,0:35,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134545,21501077,4,0:35,nan,Lowry Free Throw 3 of 3 (15 PTS),102 - 107,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+134546,21501077,4,0:25,nan,Lowry P.FOUL (P4.PN) (T.Ford),nan,200768,Kyle Lowry,TOR,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+134547,21501077,4,0:25,nan,Lowry T.FOUL (P4.PN) (T.Ford),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Foul ,Technical
+134548,21501077,4,0:25,nan,Lowry Ejection:Second Technical,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Ejection ,nan
+134549,21501077,4,0:25,nan,SUB: Johnson FOR Lowry,nan,200768,Kyle Lowry,TOR,201949,James Johnson,TOR,0,nan,nan,Substitution ,nan
+134550,21501077,4,0:25,Ariza Free Throw Technical (4 PTS),nan,102 - 108,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+134551,21501077,4,0:25,Harden Free Throw 1 of 2 (31 PTS),nan,102 - 109,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134552,21501077,4,0:25,Harden Free Throw 2 of 2 (32 PTS),nan,102 - 110,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134553,21501077,4,0:25,nan,Raptors Timeout: Regular (Reg.5 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+134554,21501077,4,0:21,Brewer BLOCK (2 BLK),MISS Powell 5' Jump Shot,nan,1626181,Norman Powell,TOR,0,nan,nan,201147,Corey Brewer,HOU,Missed Shot ,nan
+134555,21501077,4,0:19,nan,Valanciunas REBOUND (Off:8 Def:10),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134556,21501077,4,0:17,nan,MISS Valanciunas 1' Layup,nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+134557,21501077,4,0:17,nan,Patterson REBOUND (Off:1 Def:2),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134558,21501077,4,0:17,nan,Patterson 3' Tip Layup Shot (8 PTS),104 - 110,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134559,21501077,4,0:11,Harden Bad Pass Turnover (P7.T17),Johnson STEAL (1 STL),nan,201935,James Harden,HOU,201949,James Johnson,TOR,0,nan,nan,Turnover ,Bad Pass
+134560,21501077,4,0:10,nan,Patterson  Dunk (10 PTS) (Johnson 2 AST),106 - 110,202335,Patrick Patterson,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+134561,21501077,4,0:10,Harden S.FOUL (P3.PN) (K.Fitzgerald),nan,nan,201935,James Harden,HOU,202335,Patrick Patterson,TOR,0,nan,nan,Foul ,Shooting
+134562,21501077,4,0:10,nan,SUB: Biyombo FOR Valanciunas,nan,202685,Jonas Valanciunas,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+134563,21501077,4,0:10,SUB: Motiejunas FOR Beverley,nan,nan,201976,Patrick Beverley,HOU,202700,Donatas Motiejunas,HOU,0,nan,nan,Substitution ,nan
+134564,21501077,4,0:10,nan,Patterson Free Throw 1 of 1 (11 PTS),107 - 110,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+134565,21501077,4,0:10,ROCKETS Timeout: Regular (Full 5 Short 0),nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+134566,21501077,4,0:10,SUB: Beverley FOR Motiejunas,nan,nan,202700,Donatas Motiejunas,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+134567,21501077,4,0:10,SUB: Terry FOR Beasley,nan,nan,201563,Michael Beasley,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+134568,21501077,4,0:08,nan,Patterson Personal Take Foul (P1.PN) (E.Malloy),nan,202335,Patrick Patterson,TOR,2772,Trevor Ariza,HOU,0,nan,nan,Foul ,Personal Take
+134569,21501077,4,0:08,Ariza Free Throw 1 of 2 (5 PTS),nan,107 - 111,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134570,21501077,4,0:08,Ariza Free Throw 2 of 2 (6 PTS),nan,107 - 112,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134571,21501077,4,0:08,nan,Raptors Timeout: Short (Reg.5 Short 3),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+134572,21501077,4,0:08,SUB: Beasley FOR Terry,nan,nan,1891,Jason Terry,HOU,201563,Michael Beasley,HOU,0,nan,nan,Substitution ,nan
+134573,21501077,4,0:08,nan,SUB: Valanciunas FOR Biyombo,nan,202687,Bismack Biyombo,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+134574,21501077,4,0:03,nan,Joseph 3' Driving Layup (12 PTS),109 - 112,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+134575,21501077,4,0:00,nan,Valanciunas Personal Take Foul (P6.PN) (E.Malloy),nan,202685,Jonas Valanciunas,TOR,201147,Corey Brewer,HOU,0,nan,nan,Foul ,Personal Take
+134576,21501077,4,0:00,nan,SUB: Scola FOR Valanciunas,nan,202685,Jonas Valanciunas,TOR,2449,Luis Scola,TOR,0,nan,nan,Substitution ,nan
+134577,21501077,4,0:00,MISS Brewer Free Throw 1 of 2,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+134578,21501077,4,0:00,ROCKETS Rebound,nan,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+134579,21501077,4,0:00,MISS Brewer Free Throw 2 of 2,nan,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+134580,21501077,4,0:00,nan,Powell REBOUND (Off:0 Def:4),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+134581,21501077,4,0:00,nan,nan,109 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

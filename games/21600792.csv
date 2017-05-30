@@ -1,0 +1,103 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+251163,21600792,4,12:00,nan,nan,70 - 86,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+251164,21600792,4,11:38,Green 27' 3PT Jump Shot (16 PTS) (Livingston 1 AST),nan,70 - 89,203110,Draymond Green,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+251165,21600792,4,11:23,nan,MISS Rondo 12' Jump Shot,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251166,21600792,4,11:23,nan,Rondo REBOUND (Off:1 Def:4),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251167,21600792,4,11:23,nan,Rondo 3' Layup (8 PTS),72 - 89,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+251168,21600792,4,11:23,Livingston S.FOUL (P2.T1) (J.Tiven),nan,nan,2733,Shaun Livingston,GSW,200765,Rajon Rondo,CHI,0,nan,nan,Foul ,Shooting
+251169,21600792,4,11:23,nan,MISS Rondo Free Throw 1 of 1,nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+251170,21600792,4,11:21,Iguodala REBOUND (Off:1 Def:2),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251171,21600792,4,11:16,MISS Livingston 14' Turnaround Fadeaway Shot,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251172,21600792,4,11:12,nan,Rondo REBOUND (Off:1 Def:5),nan,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251173,21600792,4,10:55,nan,McDermott 18' Jump Shot (2 PTS) (Canaan 1 AST),74 - 89,203926,Doug McDermott,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Made Shot ,nan
+251174,21600792,4,10:36,MISS Green  3PT Jump Shot,nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251175,21600792,4,10:36,nan,Canaan REBOUND (Off:0 Def:2),nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251176,21600792,4,10:24,nan,Mirotic Traveling Turnover (P1.T12),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Turnover ,Traveling
+251177,21600792,4,10:04,Thompson 17' Pullup Jump Shot (17 PTS) (Livingston 2 AST),nan,74 - 91,202691,Klay Thompson,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+251178,21600792,4,9:46,nan,Mirotic 27' 3PT Pullup Jump Shot (10 PTS) (McDermott 1 AST),77 - 91,202703,Nikola Mirotic,CHI,203926,Doug McDermott,CHI,0,nan,nan,Made Shot ,nan
+251179,21600792,4,9:32,nan,Mirotic P.FOUL (P3.T1) (G.Petraitis),nan,202703,Nikola Mirotic,CHI,203110,Draymond Green,GSW,0,nan,nan,Foul ,Personal
+251180,21600792,4,9:26,Thompson 24' 3PT Step Back Jump Shot (20 PTS) (Iguodala 4 AST),nan,77 - 94,202691,Klay Thompson,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+251181,21600792,4,9:13,nan,MISS McDermott 17' Jump Shot,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251182,21600792,4,9:12,Livingston REBOUND (Off:0 Def:1),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251183,21600792,4,9:04,MISS Thompson 3' Running Layup,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251184,21600792,4,9:04,nan,Felicio REBOUND (Off:2 Def:2),nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251185,21600792,4,8:56,nan,Rondo 6' Driving Hook Shot (10 PTS),79 - 94,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+251186,21600792,4,8:34,Thompson 22' Jump Shot (22 PTS),nan,79 - 96,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+251187,21600792,4,8:17,nan,Rondo 2' Driving Finger Roll Layup (12 PTS),81 - 96,200765,Rajon Rondo,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+251188,21600792,4,7:59,Thompson 15' Jump Shot (24 PTS) (Iguodala 5 AST),nan,81 - 98,202691,Klay Thompson,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+251189,21600792,4,7:43,McAdoo S.FOUL (P2.T2) (G.Petraitis),nan,nan,203949,James Michael McAdoo,GSW,203477,Isaiah Canaan,CHI,0,nan,nan,Foul ,Shooting
+251190,21600792,4,7:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+251191,21600792,4,7:43,nan,SUB: Carter-Williams FOR McDermott,nan,203926,Doug McDermott,CHI,203487,Michael Carter-Williams,CHI,0,nan,nan,Substitution ,nan
+251192,21600792,4,7:43,nan,Canaan Free Throw 1 of 2 (5 PTS),82 - 98,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+251193,21600792,4,7:43,nan,Canaan Free Throw 2 of 2 (6 PTS),83 - 98,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+251194,21600792,4,7:28,nan,Carter-Williams S.FOUL (P1.T2) (S.Foster),nan,203487,Michael Carter-Williams,CHI,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Shooting
+251195,21600792,4,7:28,Thompson Free Throw 1 of 2 (25 PTS),nan,83 - 99,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+251196,21600792,4,7:28,Thompson Free Throw 2 of 2 (26 PTS),nan,83 - 100,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+251197,21600792,4,7:12,nan,MISS Canaan 27' 3PT Jump Shot,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251198,21600792,4,7:12,Thompson REBOUND (Off:0 Def:4),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251199,21600792,4,7:07,Thompson Bad Pass Turnover (P3.T12),Felicio STEAL (1 STL),nan,202691,Klay Thompson,GSW,1626245,Cristiano Felicio,CHI,0,nan,nan,Turnover ,Bad Pass
+251200,21600792,4,6:49,nan,Felicio 3' Layup (6 PTS) (Rondo 8 AST),85 - 100,1626245,Cristiano Felicio,CHI,200765,Rajon Rondo,CHI,0,nan,nan,Made Shot ,nan
+251201,21600792,4,6:38,nan,Mirotic P.FOUL (P4.T3) (J.Tiven),nan,202703,Nikola Mirotic,CHI,202691,Klay Thompson,GSW,0,nan,nan,Foul ,Personal
+251202,21600792,4,6:38,nan,SUB: Valentine FOR Canaan,nan,203477,Isaiah Canaan,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Substitution ,nan
+251203,21600792,4,6:38,SUB: Curry FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+251204,21600792,4,6:26,Green Bad Pass Turnover (P1.T13),Mirotic STEAL (1 STL),nan,203110,Draymond Green,GSW,202703,Nikola Mirotic,CHI,0,nan,nan,Turnover ,Bad Pass
+251205,21600792,4,6:17,nan,MISS Carter-Williams 25' 3PT Jump Shot,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251206,21600792,4,6:16,Green REBOUND (Off:0 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251207,21600792,4,6:10,nan,Mirotic Violation:Kicked Ball (J.Tiven),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+251208,21600792,4,6:05,Thompson 13' Pullup Jump Shot (28 PTS) (Curry 6 AST),nan,85 - 102,202691,Klay Thompson,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+251209,21600792,4,5:40,nan,MISS Mirotic 26' 3PT Step Back Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251210,21600792,4,5:39,Thompson REBOUND (Off:0 Def:5),nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251211,21600792,4,5:31,MISS Thompson 2' Layup,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251212,21600792,4,5:31,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251213,21600792,4,5:31,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+251214,21600792,4,5:31,SUB: Durant FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,201142,Kevin Durant,GSW,0,nan,nan,Substitution ,nan
+251215,21600792,4,5:31,nan,SUB: Lopez FOR Rondo,nan,200765,Rajon Rondo,CHI,201577,Robin Lopez,CHI,0,nan,nan,Substitution ,nan
+251216,21600792,4,5:31,nan,SUB: Portis FOR Mirotic,nan,202703,Nikola Mirotic,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Substitution ,nan
+251217,21600792,4,5:31,nan,SUB: Canaan FOR Felicio,nan,1626245,Cristiano Felicio,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Substitution ,nan
+251218,21600792,4,5:28,McAdoo 14' Jump Shot (2 PTS) (Green 5 AST),nan,85 - 104,203949,James Michael McAdoo,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+251219,21600792,4,5:09,nan,MISS Carter-Williams 17' Jump Shot,nan,203487,Michael Carter-Williams,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251220,21600792,4,5:09,Green REBOUND (Off:0 Def:8),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251221,21600792,4,5:04,Durant  Running Dunk (22 PTS) (Green 6 AST),nan,85 - 106,201142,Kevin Durant,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+251222,21600792,4,4:50,nan,MISS Valentine 8' Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251223,21600792,4,4:50,nan,Bulls Rebound,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251224,21600792,4,4:50,Thompson L.B.FOUL (P2.T3) (S.Foster),nan,nan,202691,Klay Thompson,GSW,201577,Robin Lopez,CHI,0,nan,nan,Foul ,Loose Ball
+251225,21600792,4,4:41,nan,Valentine 27' 3PT Jump Shot (5 PTS) (Portis 1 AST),88 - 106,1627756,Denzel Valentine,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Made Shot ,nan
+251226,21600792,4,4:26,Green 28' 3PT Jump Shot (19 PTS) (Thompson 3 AST),nan,88 - 109,203110,Draymond Green,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+251227,21600792,4,4:03,SUB: Clark FOR Curry,nan,nan,201939,Stephen Curry,GSW,203546,Ian Clark,GSW,0,nan,nan,Substitution ,nan
+251228,21600792,4,4:03,SUB: McCaw FOR Thompson,nan,nan,202691,Klay Thompson,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Substitution ,nan
+251229,21600792,4,4:03,nan,SUB: Mirotic FOR Lopez,nan,201577,Robin Lopez,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Substitution ,nan
+251230,21600792,4,3:59,nan,MISS Valentine 25' 3PT Jump Shot,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251231,21600792,4,3:58,Clark REBOUND (Off:0 Def:1),nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251232,21600792,4,3:49,Clark 28' 3PT Jump Shot (5 PTS) (Durant 7 AST),nan,88 - 112,203546,Ian Clark,GSW,201142,Kevin Durant,GSW,0,nan,nan,Made Shot ,nan
+251233,21600792,4,3:48,nan,Bulls Timeout: Regular (Reg.4 Short 1),nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+251234,21600792,4,3:48,SUB: Looney FOR Durant,nan,nan,201142,Kevin Durant,GSW,1626172,Kevon Looney,GSW,0,nan,nan,Substitution ,nan
+251235,21600792,4,3:48,SUB: Weber FOR Green,nan,nan,203110,Draymond Green,GSW,1627362,Briante Weber,GSW,0,nan,nan,Substitution ,nan
+251236,21600792,4,3:48,SUB: Jones FOR McAdoo,nan,nan,203949,James Michael McAdoo,GSW,1627745,Damian Jones,GSW,0,nan,nan,Substitution ,nan
+251237,21600792,4,3:48,nan,SUB: McDermott FOR Carter-Williams,nan,203487,Michael Carter-Williams,CHI,203926,Doug McDermott,CHI,0,nan,nan,Substitution ,nan
+251238,21600792,4,3:36,Clark STEAL (1 STL),Valentine Bad Pass Turnover (P1.T13),nan,1627756,Denzel Valentine,CHI,203546,Ian Clark,GSW,0,nan,nan,Turnover ,Bad Pass
+251239,21600792,4,3:13,Looney  Dunk (8 PTS) (Clark 3 AST),nan,88 - 114,1626172,Kevon Looney,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+251240,21600792,4,2:55,nan,MISS Portis 7' Hook Bank Shot,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251241,21600792,4,2:55,Weber REBOUND (Off:0 Def:1),nan,nan,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251242,21600792,4,2:42,McCaw  3PT Jump Shot (3 PTS) (Weber 1 AST),nan,88 - 117,1627775,Patrick McCaw,GSW,1627362,Briante Weber,GSW,0,nan,nan,Made Shot ,nan
+251243,21600792,4,2:26,nan,MISS Mirotic 26' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251244,21600792,4,2:25,Weber REBOUND (Off:0 Def:2),nan,nan,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251245,21600792,4,2:15,Jones 18' Jump Shot (2 PTS) (Clark 4 AST),nan,88 - 119,1627745,Damian Jones,GSW,203546,Ian Clark,GSW,0,nan,nan,Made Shot ,nan
+251246,21600792,4,2:01,Clark STEAL (2 STL),Valentine Bad Pass Turnover (P2.T14),nan,1627756,Denzel Valentine,CHI,203546,Ian Clark,GSW,0,nan,nan,Turnover ,Bad Pass
+251247,21600792,4,2:00,nan,Canaan P.FOUL (P1.T4) (J.Tiven),nan,203477,Isaiah Canaan,CHI,203546,Ian Clark,GSW,0,nan,nan,Foul ,Personal
+251248,21600792,4,1:38,MISS Clark 27' 3PT Pullup Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251249,21600792,4,1:38,nan,Portis REBOUND (Off:0 Def:1),nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251250,21600792,4,1:28,nan,McDermott 9' Fadeaway Jumper (4 PTS) (Mirotic 1 AST),90 - 119,203926,Doug McDermott,CHI,202703,Nikola Mirotic,CHI,0,nan,nan,Made Shot ,nan
+251251,21600792,4,1:09,MISS McCaw 22' Jump Shot,nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251252,21600792,4,1:09,Jones REBOUND (Off:1 Def:0),nan,nan,1627745,Damian Jones,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251253,21600792,4,1:03,MISS Clark 26' 3PT Jump Shot,nan,nan,203546,Ian Clark,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251254,21600792,4,1:03,nan,Mirotic REBOUND (Off:0 Def:2),nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251255,21600792,4,0:50,nan,Portis 9' Turnaround Hook Shot (2 PTS) (Canaan 2 AST),92 - 119,1626171,Bobby Portis,CHI,203477,Isaiah Canaan,CHI,0,nan,nan,Made Shot ,nan
+251256,21600792,4,0:50,Jones S.FOUL (P1.T4) (S.Foster),nan,nan,1627745,Damian Jones,GSW,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Shooting
+251257,21600792,4,0:50,nan,MISS Portis Free Throw 1 of 1,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+251258,21600792,4,0:48,Jones REBOUND (Off:1 Def:1),nan,nan,1627745,Damian Jones,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251259,21600792,4,0:43,Weber 2' Running Layup (2 PTS),nan,92 - 121,1627362,Briante Weber,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+251260,21600792,4,0:31,McCaw STEAL (1 STL),Mirotic Bad Pass Turnover (P2.T15),nan,202703,Nikola Mirotic,CHI,1627775,Patrick McCaw,GSW,0,nan,nan,Turnover ,Bad Pass
+251261,21600792,4,0:28,Looney  Running Dunk (10 PTS) (McCaw 3 AST),nan,92 - 123,1626172,Kevon Looney,GSW,1627775,Patrick McCaw,GSW,0,nan,nan,Made Shot ,nan
+251262,21600792,4,0:18,nan,MISS Mirotic 27' 3PT Jump Shot,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251263,21600792,4,0:17,McCaw REBOUND (Off:0 Def:1),nan,nan,1627775,Patrick McCaw,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251264,21600792,4,0:00,nan,nan,92 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,123 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+196738,21600349,4,12:00,nan,nan,81 - 92,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+196739,21600349,4,11:51,nan,MISS Kaminsky 1' Reverse Layup,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196740,21600349,4,11:51,nan,Kaminsky REBOUND (Off:2 Def:2),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196741,21600349,4,11:49,James BLOCK (1 BLK),MISS Kaminsky 1' Layup,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,2544,LeBron James,CLE,Missed Shot ,nan
+196742,21600349,4,11:48,Shumpert REBOUND (Off:0 Def:4),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196743,21600349,4,11:33,nan,Kaminsky S.FOUL (P1.T1) (B.Barnaky),nan,1626163,Frank Kaminsky,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+196744,21600349,4,11:33,MISS James Free Throw 1 of 2,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196745,21600349,4,11:33,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+196746,21600349,4,11:33,James Free Throw 2 of 2 (28 PTS),nan,81 - 93,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196747,21600349,4,11:22,Shumpert STEAL (1 STL),Sessions Bad Pass Turnover (P1.T11),nan,201196,Ramon Sessions,CHA,202697,Iman Shumpert,CLE,0,nan,nan,Turnover ,Bad Pass
+196748,21600349,4,11:16,Jefferson  Driving Dunk (4 PTS) (James 9 AST),nan,81 - 95,2210,Richard Jefferson,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+196749,21600349,4,11:16,nan,Hornets Timeout: Regular (Reg.4 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196750,21600349,4,10:59,nan,MISS Belinelli 18' Pullup Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196751,21600349,4,10:59,nan,Kaminsky REBOUND (Off:3 Def:2),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196752,21600349,4,10:59,James S.FOUL (P1.T1) (B.Barnaky),nan,nan,2544,LeBron James,CLE,1626163,Frank Kaminsky,CHA,0,nan,nan,Foul ,Shooting
+196753,21600349,4,10:59,nan,MISS Kaminsky Free Throw 1 of 2,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196754,21600349,4,10:59,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+196755,21600349,4,10:59,nan,Kaminsky Free Throw 2 of 2 (4 PTS),82 - 95,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196756,21600349,4,10:43,Liggins Out of Bounds Lost Ball Turnover (P3.T15),nan,nan,202732,DeAndre Liggins,CLE,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+196757,21600349,4,10:25,nan,Kaminsky 1' Cutting Layup Shot (6 PTS) (Lamb 1 AST),84 - 95,1626163,Frank Kaminsky,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+196758,21600349,4,9:52,James 24' 3PT Step Back Jump Shot (31 PTS),nan,84 - 98,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+196759,21600349,4,9:40,nan,Lamb 1' Driving Reverse Layup (7 PTS),86 - 98,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+196760,21600349,4,9:40,Jefferson S.FOUL (P2.T2) (L.Holtkamp),nan,nan,2210,Richard Jefferson,CLE,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Shooting
+196761,21600349,4,9:40,nan,Lamb Free Throw 1 of 1 (8 PTS),87 - 98,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+196762,21600349,4,9:29,MISS Irving 7' Pullup Jump Shot,nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196763,21600349,4,9:27,nan,Lamb REBOUND (Off:0 Def:2),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196764,21600349,4,9:12,nan,MISS Lamb 25' 3PT Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196765,21600349,4,9:12,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196766,21600349,4,8:52,MISS James 25' 3PT Jump Shot,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196767,21600349,4,8:51,nan,Sessions REBOUND (Off:0 Def:2),nan,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196768,21600349,4,8:38,nan,MISS Lamb 5' Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196769,21600349,4,8:36,nan,Belinelli REBOUND (Off:1 Def:0),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196770,21600349,4,8:34,nan,MISS Belinelli 10' Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196771,21600349,4,8:33,nan,Williams REBOUND (Off:1 Def:2),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196772,21600349,4,8:31,nan,MISS Williams 3' Putback Layup,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196773,21600349,4,8:30,nan,Kaminsky REBOUND (Off:4 Def:2),nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196774,21600349,4,8:30,nan,MISS Kaminsky 1' Tip Layup Shot,nan,1626163,Frank Kaminsky,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196775,21600349,4,8:29,nan,Lamb REBOUND (Off:1 Def:2),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196776,21600349,4,8:13,James STEAL (3 STL),Kaminsky Lost Ball Turnover (P1.T12),nan,1626163,Frank Kaminsky,CHA,2544,LeBron James,CLE,0,nan,nan,Turnover ,Lost Ball
+196777,21600349,4,8:03,James  Layup (33 PTS) (Jefferson 4 AST),nan,87 - 100,2544,LeBron James,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Made Shot ,nan
+196778,21600349,4,7:49,Jefferson S.FOUL (P3.T3) (B.Barnaky),nan,nan,2210,Richard Jefferson,CLE,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Shooting
+196779,21600349,4,7:49,nan,Lamb Free Throw 1 of 2 (9 PTS),88 - 100,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196780,21600349,4,7:49,nan,SUB: Walker FOR Sessions,nan,201196,Ramon Sessions,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+196781,21600349,4,7:49,nan,Lamb Free Throw 2 of 2 (10 PTS),89 - 100,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196782,21600349,4,7:34,James OFF.Foul (P2) (B.Barnaky),nan,nan,2544,LeBron James,CLE,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Offensive
+196783,21600349,4,7:34,James Foul Turnover (P4.T16),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+196784,21600349,4,7:34,SUB: Smith FOR Liggins,nan,nan,202732,DeAndre Liggins,CLE,2747,JR Smith,CLE,0,nan,nan,Substitution ,nan
+196785,21600349,4,7:19,nan,MISS Lamb 7' Floating Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196786,21600349,4,7:18,James REBOUND (Off:1 Def:6),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196787,21600349,4,7:13,James 1' Running Layup (35 PTS),nan,89 - 102,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+196788,21600349,4,7:06,nan,Williams  Cutting Finger Roll Layup Shot (9 PTS) (Walker 4 AST),91 - 102,101107,Marvin Williams,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+196789,21600349,4,7:06,Smith S.FOUL (P4.T4) (S.Foster),nan,nan,2747,JR Smith,CLE,101107,Marvin Williams,CHA,0,nan,nan,Foul ,Shooting
+196790,21600349,4,7:06,nan,MISS Williams Free Throw 1 of 1,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+196791,21600349,4,7:00,Smith REBOUND (Off:0 Def:2),nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196792,21600349,4,6:51,MISS Smith 26' 3PT Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196793,21600349,4,6:51,nan,Williams REBOUND (Off:1 Def:3),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196794,21600349,4,6:39,nan,MISS Walker 20' Step Back Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196795,21600349,4,6:38,Shumpert REBOUND (Off:0 Def:5),nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196796,21600349,4,6:34,CAVALIERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196797,21600349,4,6:34,SUB: Love FOR Jefferson,nan,nan,2210,Richard Jefferson,CLE,201567,Kevin Love,CLE,0,nan,nan,Substitution ,nan
+196798,21600349,4,6:34,nan,SUB: Zeller FOR Kaminsky,nan,1626163,Frank Kaminsky,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+196799,21600349,4,6:26,nan,Belinelli S.FOUL (P2.T2) (L.Holtkamp),nan,201158,Marco Belinelli,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+196800,21600349,4,6:26,James Free Throw 1 of 2 (36 PTS),nan,91 - 103,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196801,21600349,4,6:26,MISS James Free Throw 2 of 2,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196802,21600349,4,6:25,nan,Walker REBOUND (Off:0 Def:1),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196803,21600349,4,6:15,nan,MISS Belinelli 22' Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196804,21600349,4,6:14,nan,Lamb REBOUND (Off:2 Def:2),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196805,21600349,4,6:14,nan,MISS Lamb 1' Tip Layup Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196806,21600349,4,6:13,James REBOUND (Off:1 Def:7),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196807,21600349,4,6:09,James OFF.Foul (P3) (B.Barnaky),nan,nan,2544,LeBron James,CLE,201158,Marco Belinelli,CHA,0,nan,nan,Foul ,Offensive
+196808,21600349,4,6:09,James Foul Turnover (P5.T17),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Turnover ,Foul
+196809,21600349,4,6:01,Love P.FOUL (P4.PN) (B.Barnaky),nan,nan,201567,Kevin Love,CLE,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+196810,21600349,4,6:01,nan,Walker Free Throw 1 of 2 (23 PTS),92 - 103,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196811,21600349,4,6:01,nan,Walker Free Throw 2 of 2 (24 PTS),93 - 103,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196812,21600349,4,5:38,MISS James 25' 3PT Jump Shot,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196813,21600349,4,5:37,nan,Lamb REBOUND (Off:2 Def:3),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196814,21600349,4,5:27,nan,Zeller 1' Cutting Layup Shot (11 PTS) (Lamb 2 AST),95 - 103,203469,Cody Zeller,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+196815,21600349,4,5:03,Irving Out of Bounds - Bad Pass Turnover Turnover (P3.T18),nan,nan,202681,Kyrie Irving,CLE,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+196816,21600349,4,5:03,nan,SUB: Batum FOR Lamb,nan,203087,Jeremy Lamb,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+196817,21600349,4,4:50,nan,Zeller OFF.Foul (P5) (S.Foster),nan,203469,Cody Zeller,CHA,202697,Iman Shumpert,CLE,0,nan,nan,Foul ,Offensive
+196818,21600349,4,4:50,nan,Zeller Foul Turnover (P5.T13),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+196819,21600349,4,4:35,MISS Smith 25' 3PT Jump Shot,nan,nan,2747,JR Smith,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196820,21600349,4,4:34,nan,Williams REBOUND (Off:1 Def:4),nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196821,21600349,4,4:18,nan,MISS Walker 28' 3PT Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196822,21600349,4,4:18,Love REBOUND (Off:1 Def:4),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196823,21600349,4,4:09,James 1' Driving Layup (38 PTS),nan,95 - 105,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+196824,21600349,4,3:54,nan,Williams 23' Jump Shot (11 PTS) (Walker 5 AST),97 - 105,101107,Marvin Williams,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+196825,21600349,4,3:38,nan,Belinelli S.FOUL (P3.T3) (S.Foster),nan,201158,Marco Belinelli,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+196826,21600349,4,3:38,nan,Hornets Timeout: Regular (Reg.5 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196827,21600349,4,3:38,nan,SUB: Sessions FOR Walker,nan,202689,Kemba Walker,CHA,201196,Ramon Sessions,CHA,0,nan,nan,Substitution ,nan
+196828,21600349,4,3:38,MISS James Free Throw 1 of 2,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196829,21600349,4,3:38,CAVALIERS Rebound,nan,nan,1610612739,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+196830,21600349,4,3:38,James Free Throw 2 of 2 (39 PTS),nan,97 - 106,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196831,21600349,4,3:23,nan,MISS Belinelli 29' 3PT Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196832,21600349,4,3:23,Love REBOUND (Off:1 Def:5),nan,nan,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196833,21600349,4,3:11,James 16' Turnaround Fadeaway (41 PTS),nan,97 - 108,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Made Shot ,nan
+196834,21600349,4,2:55,nan,Belinelli Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+196835,21600349,4,2:31,Shumpert  3PT Jump Shot (16 PTS) (James 10 AST),nan,97 - 111,202697,Iman Shumpert,CLE,2544,LeBron James,CLE,0,nan,nan,Made Shot ,nan
+196836,21600349,4,2:31,nan,Hornets Timeout: Regular (Reg.6 Short 1),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+196837,21600349,4,2:19,nan,Zeller  Cutting Dunk Shot (13 PTS) (Batum 4 AST),99 - 111,203469,Cody Zeller,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+196838,21600349,4,1:53,MISS James 25' 3PT Jump Shot,nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196839,21600349,4,1:52,nan,Zeller REBOUND (Off:1 Def:6),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196840,21600349,4,1:41,nan,Zeller 1' Cutting Layup Shot (15 PTS) (Williams 1 AST),101 - 111,203469,Cody Zeller,CHA,101107,Marvin Williams,CHA,0,nan,nan,Made Shot ,nan
+196841,21600349,4,1:16,MISS Shumpert 24' 3PT Jump Shot,nan,nan,202697,Iman Shumpert,CLE,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196842,21600349,4,1:16,nan,Batum REBOUND (Off:0 Def:6),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196843,21600349,4,1:09,nan,MISS Batum 11' Driving Floating Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196844,21600349,4,1:07,nan,Zeller REBOUND (Off:2 Def:6),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196845,21600349,4,1:05,nan,MISS Williams 10' Driving Floating Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196846,21600349,4,1:03,nan,Zeller REBOUND (Off:3 Def:6),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196847,21600349,4,1:03,nan,Zeller 1' Tip Layup Shot (17 PTS),103 - 111,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+196848,21600349,4,0:41,nan,Sessions S.FOUL (P3.T4) (S.Foster),nan,201196,Ramon Sessions,CHA,201567,Kevin Love,CLE,0,nan,nan,Foul ,Shooting
+196849,21600349,4,0:41,Love Free Throw 1 of 2 (21 PTS),nan,103 - 112,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+196850,21600349,4,0:41,SUB: Liggins FOR Irving,nan,nan,202681,Kyrie Irving,CLE,202732,DeAndre Liggins,CLE,0,nan,nan,Substitution ,nan
+196851,21600349,4,0:41,Love Free Throw 2 of 2 (22 PTS),nan,103 - 113,201567,Kevin Love,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+196852,21600349,4,0:34,nan,Sessions  Driving Dunk (7 PTS),105 - 113,201196,Ramon Sessions,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+196853,21600349,4,0:27,James  Running Layup (43 PTS) (Shumpert 2 AST),nan,105 - 115,2544,LeBron James,CLE,202697,Iman Shumpert,CLE,0,nan,nan,Made Shot ,nan
+196854,21600349,4,0:27,nan,Belinelli S.FOUL (P4.PN) (L.Holtkamp),nan,201158,Marco Belinelli,CHA,2544,LeBron James,CLE,0,nan,nan,Foul ,Shooting
+196855,21600349,4,0:27,SUB: Jefferson FOR Love,nan,nan,201567,Kevin Love,CLE,2210,Richard Jefferson,CLE,0,nan,nan,Substitution ,nan
+196856,21600349,4,0:27,James Free Throw 1 of 1 (44 PTS),nan,105 - 116,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+196857,21600349,4,0:18,nan,MISS Williams 28' 3PT Jump Shot,nan,101107,Marvin Williams,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+196858,21600349,4,0:17,James REBOUND (Off:1 Def:8),nan,nan,2544,LeBron James,CLE,0,nan,nan,0,nan,nan,Rebound ,Unknown
+196859,21600349,4,0:00,nan,nan,105 - 116,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

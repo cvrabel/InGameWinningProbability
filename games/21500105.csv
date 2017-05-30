@@ -1,0 +1,165 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+13306,21500105,4,12:00,nan,nan,66 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+13307,21500105,4,11:43,MISS Rivers 2' Layup,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13308,21500105,4,11:43,nan,Randolph REBOUND (Off:2 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13309,21500105,4,11:27,Rivers STEAL (2 STL),Conley Lost Ball Turnover (P1.T12),nan,201144,Mike Conley,MEM,203085,Austin Rivers,LAC,0,nan,nan,Turnover ,Lost Ball
+13310,21500105,4,11:24,nan,Green S.FOUL (P3.T1) (T.Brothers),nan,201145,Jeff Green,MEM,2746,Josh Smith,LAC,0,nan,nan,Foul ,Shooting
+13311,21500105,4,11:24,Smith Free Throw 1 of 2 (1 PTS),nan,66 - 71,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13312,21500105,4,11:24,SUB: Jordan FOR Paul,nan,nan,101108,Chris Paul,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+13313,21500105,4,11:24,Smith Free Throw 2 of 2 (2 PTS),nan,66 - 72,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13314,21500105,4,11:00,nan,MISS Green 8' Jump Shot,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13315,21500105,4,10:59,Jordan REBOUND (Off:4 Def:5),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13316,21500105,4,10:53,MISS Rivers 2' Alley Oop Layup,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13317,21500105,4,10:51,nan,Green REBOUND (Off:0 Def:3),nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13318,21500105,4,10:42,nan,MISS Randolph 17' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13319,21500105,4,10:41,Smith REBOUND (Off:0 Def:6),nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13320,21500105,4,10:35,Jordan 1' Alley Oop Layup (13 PTS) (Smith 2 AST),nan,66 - 74,201599,DeAndre Jordan,LAC,2746,Josh Smith,LAC,0,nan,nan,Made Shot ,nan
+13321,21500105,4,10:29,nan,Grizzlies Timeout: Regular (Reg.4 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+13322,21500105,4,10:29,CLIPPERS Violation: Delay of game Violation,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+13323,21500105,4,10:17,nan,Barnes 3' No Shot (2 PTS) (Gasol 2 AST),68 - 74,2440,Matt Barnes,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,No Shot
+13324,21500105,4,10:05,nan,Barnes P.FOUL (P4.T2) (T.Brothers),nan,2440,Matt Barnes,MEM,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal
+13325,21500105,4,10:05,nan,nan,nan,433,Buck Williams,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+13326,21500105,4,9:52,MISS Crawford 1' Layup,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13327,21500105,4,9:51,nan,Randolph REBOUND (Off:2 Def:6),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13328,21500105,4,9:40,Jordan S.FOUL (P3.T1) (T.Brothers),nan,nan,201599,DeAndre Jordan,LAC,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+13329,21500105,4,9:40,nan,Conley Free Throw 1 of 2 (12 PTS),69 - 74,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13330,21500105,4,9:40,nan,Conley Free Throw 2 of 2 (13 PTS),70 - 74,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13331,21500105,4,9:30,Crawford Poss Lost Ball Turnover (P2.T16),Barnes STEAL (1 STL),nan,2037,Jamal Crawford,LAC,2440,Matt Barnes,MEM,0,nan,nan,Turnover ,Poss Lost Ball Turnover
+13332,21500105,4,9:26,Pierce FLAGRANT.FOUL.TYPE1 (P1.T2) (T.Brothers),nan,nan,1718,Paul Pierce,LAC,201145,Jeff Green,MEM,0,nan,nan,Foul ,Flagrant Type 1
+13333,21500105,4,9:26,nan,nan,nan,445,Wesley Person,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+13334,21500105,4,9:26,nan,Green Free Throw Flagrant 1 of 2 (5 PTS),71 - 74,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+13335,21500105,4,9:26,nan,MISS Green Free Throw Flagrant 2 of 2,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+13336,21500105,4,9:26,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13337,21500105,4,9:26,SUB: Griffin FOR Smith,nan,nan,2746,Josh Smith,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+13338,21500105,4,9:16,nan,MISS Green  3PT Jump Shot,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13339,21500105,4,9:15,Jordan REBOUND (Off:4 Def:6),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13340,21500105,4,9:13,Jordan Lost Ball Turnover (P1.T17),Randolph STEAL (3 STL),nan,201599,DeAndre Jordan,LAC,2216,Zach Randolph,MEM,0,nan,nan,Turnover ,Lost Ball
+13341,21500105,4,8:56,Jordan S.FOUL (P4.T3) (P.Fraher),nan,nan,201599,DeAndre Jordan,LAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+13342,21500105,4,8:56,nan,Gasol Free Throw 1 of 2 (11 PTS),72 - 74,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13343,21500105,4,8:56,nan,MISS Gasol Free Throw 2 of 2,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13344,21500105,4,8:55,Griffin REBOUND (Off:2 Def:8),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13345,21500105,4,8:39,SUB: Paul FOR Rivers,nan,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+13346,21500105,4,8:34,nan,Gasol FLAGRANT.FOUL.TYPE1 (P3.T3) (J.Orr),nan,201188,Marc Gasol,MEM,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Flagrant Type 1
+13347,21500105,4,8:34,nan,nan,nan,469,Jamal Mashburn,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+13348,21500105,4,8:34,Griffin Free Throw Flagrant 1 of 2 (19 PTS),nan,72 - 75,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+13349,21500105,4,8:34,Griffin Free Throw Flagrant 2 of 2 (20 PTS),nan,72 - 76,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+13350,21500105,4,8:25,MISS Paul 25' 3PT Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13351,21500105,4,8:24,nan,Gasol REBOUND (Off:0 Def:3),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13352,21500105,4,8:08,nan,Gasol  No Shot (13 PTS) (Randolph 3 AST),74 - 76,201188,Marc Gasol,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,No Shot
+13353,21500105,4,7:48,Griffin 19' Jump Shot (22 PTS) (Paul 3 AST),nan,74 - 78,201933,Blake Griffin,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+13354,21500105,4,7:22,nan,MISS Green 12' Jump Shot,nan,201145,Jeff Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13355,21500105,4,7:22,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13356,21500105,4,7:22,Griffin L.B.FOUL (P2.T4) (J.Orr),nan,nan,201933,Blake Griffin,LAC,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+13357,21500105,4,7:22,SUB: Redick FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+13358,21500105,4,7:08,nan,MISS Barnes 22' Jump Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13359,21500105,4,7:07,Jordan REBOUND (Off:4 Def:7),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13360,21500105,4,6:40,MISS Paul 24' 3PT Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13361,21500105,4,6:39,nan,Conley REBOUND (Off:2 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13362,21500105,4,6:28,nan,Gasol OFF.Foul (P4) (P.Fraher),nan,201188,Marc Gasol,MEM,200755,JJ Redick,LAC,0,nan,nan,Foul ,Offensive
+13363,21500105,4,6:28,nan,Gasol Foul Turnover (P4.T13),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+13364,21500105,4,6:15,MISS Redick 25' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13365,21500105,4,6:15,nan,Gasol REBOUND (Off:0 Def:4),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13366,21500105,4,5:56,nan,MISS Conley 10' Floating Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13367,21500105,4,5:53,Griffin REBOUND (Off:2 Def:9),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13368,21500105,4,5:36,MISS Griffin 7' Jump Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13369,21500105,4,5:35,nan,Gasol REBOUND (Off:0 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13370,21500105,4,5:30,Redick STEAL (1 STL),Conley Lost Ball Turnover (P2.T14),nan,201144,Mike Conley,MEM,200755,JJ Redick,LAC,0,nan,nan,Turnover ,Lost Ball
+13371,21500105,4,5:23,MISS Redick 24' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13372,21500105,4,5:21,nan,Barnes REBOUND (Off:0 Def:5),nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13373,21500105,4,5:15,Griffin S.FOUL (P3.PN) (J.Orr),nan,nan,201933,Blake Griffin,LAC,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Shooting
+13374,21500105,4,5:15,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+13375,21500105,4,5:15,nan,SUB: Allen FOR Green,nan,201145,Jeff Green,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+13376,21500105,4,5:15,nan,Randolph Free Throw 1 of 2 (25 PTS),75 - 78,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13377,21500105,4,5:15,nan,Randolph Free Throw 2 of 2 (26 PTS),76 - 78,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13378,21500105,4,5:00,Paul 20' Jump Shot (11 PTS) (Griffin 2 AST),nan,76 - 80,101108,Chris Paul,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+13379,21500105,4,4:34,nan,Barnes 24' 3PT Jump Shot (5 PTS) (Randolph 4 AST),79 - 80,2440,Matt Barnes,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+13380,21500105,4,4:19,Paul Bad Pass Turnover (P4.T18),Barnes STEAL (2 STL),nan,101108,Chris Paul,LAC,2440,Matt Barnes,MEM,0,nan,nan,Turnover ,Bad Pass
+13381,21500105,4,4:14,nan,MISS Barnes  Dunk,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13382,21500105,4,4:13,nan,Conley REBOUND (Off:3 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13383,21500105,4,4:11,nan,Conley 1' Layup (15 PTS),81 - 80,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+13384,21500105,4,3:54,MISS Pierce  3PT Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13385,21500105,4,3:54,nan,Barnes REBOUND (Off:0 Def:6),nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13386,21500105,4,3:34,nan,MISS Barnes 25' 3PT Jump Shot,nan,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13387,21500105,4,3:34,Griffin REBOUND (Off:2 Def:10),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13388,21500105,4,3:21,Griffin 3' Driving Layup (24 PTS),nan,81 - 82,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+13389,21500105,4,2:58,Paul S.FOUL (P3.PN) (P.Fraher),nan,nan,101108,Chris Paul,LAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+13390,21500105,4,2:58,CLIPPERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+13391,21500105,4,2:58,nan,Gasol Free Throw 1 of 2 (14 PTS),82 - 82,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13392,21500105,4,2:58,nan,Gasol Free Throw 2 of 2 (15 PTS),83 - 82,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13393,21500105,4,2:47,Paul 15' Jump Shot (13 PTS),nan,83 - 84,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+13394,21500105,4,2:20,nan,MISS Randolph 16' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13395,21500105,4,2:20,Pierce REBOUND (Off:0 Def:2),nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13396,21500105,4,2:06,nan,Gasol P.FOUL (P5.T4) (P.Fraher),nan,201188,Marc Gasol,MEM,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+13397,21500105,4,1:53,MISS Paul 27' 3PT Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13398,21500105,4,1:52,nan,Randolph REBOUND (Off:2 Def:7),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13399,21500105,4,1:39,nan,Allen 2' Layup (6 PTS) (Gasol 3 AST),85 - 84,2754,Tony Allen,MEM,201188,Marc Gasol,MEM,0,nan,nan,Made Shot ,nan
+13400,21500105,4,1:25,MISS Griffin 18' Jump Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13401,21500105,4,1:25,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13402,21500105,4,1:25,nan,SUB: Lee FOR Allen,nan,2754,Tony Allen,MEM,201584,Courtney Lee,MEM,0,nan,nan,Substitution ,nan
+13403,21500105,4,1:10,Paul S.FOUL (P4.PN) (J.Orr),nan,nan,101108,Chris Paul,LAC,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+13404,21500105,4,1:10,nan,Conley Free Throw 1 of 2 (16 PTS),86 - 84,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13405,21500105,4,1:10,nan,SUB: Allen FOR Lee,nan,201584,Courtney Lee,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+13406,21500105,4,1:10,nan,MISS Conley Free Throw 2 of 2,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13407,21500105,4,1:08,Jordan REBOUND (Off:4 Def:8),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13408,21500105,4,1:08,CLIPPERS Timeout: Regular (Full 5 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+13409,21500105,4,0:55,Redick 25' 3PT Jump Shot (13 PTS) (Paul 4 AST),nan,86 - 87,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+13410,21500105,4,0:31,nan,MISS Conley 25' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+13411,21500105,4,0:30,Paul REBOUND (Off:1 Def:2),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13412,21500105,4,0:13,nan,Allen S.FOUL (P2.PN) (T.Brothers),nan,2754,Tony Allen,MEM,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+13413,21500105,4,0:13,Redick Free Throw 1 of 3 (14 PTS),nan,86 - 88,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+13414,21500105,4,0:13,Redick Free Throw 2 of 3 (15 PTS),nan,86 - 89,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+13415,21500105,4,0:13,SUB: Rivers FOR Pierce,nan,nan,1718,Paul Pierce,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+13416,21500105,4,0:13,Redick Free Throw 3 of 3 (16 PTS),nan,86 - 90,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+13417,21500105,4,0:13,nan,Grizzlies Timeout: Short (Reg.4 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+13418,21500105,4,0:13,SUB: Mbah a Moute FOR Redick,nan,nan,200755,JJ Redick,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+13419,21500105,4,0:13,nan,SUB: Lee FOR Allen,nan,2754,Tony Allen,MEM,201584,Courtney Lee,MEM,0,nan,nan,Substitution ,nan
+13420,21500105,4,0:08,Paul S.FOUL (P5.PN) (P.Fraher),nan,nan,101108,Chris Paul,LAC,2440,Matt Barnes,MEM,0,nan,nan,Foul ,Shooting
+13421,21500105,4,0:08,nan,Barnes Free Throw 1 of 3 (6 PTS),87 - 90,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+13422,21500105,4,0:08,nan,Barnes Free Throw 2 of 3 (7 PTS),88 - 90,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+13423,21500105,4,0:08,nan,Barnes Free Throw 3 of 3 (8 PTS),89 - 90,2440,Matt Barnes,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+13424,21500105,4,0:08,CLIPPERS Timeout: Short (Full 5 Short 2),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+13425,21500105,4,0:08,nan,SUB: Allen FOR Randolph,nan,2216,Zach Randolph,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+13426,21500105,4,0:08,nan,SUB: Green FOR Gasol,nan,201188,Marc Gasol,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+13427,21500105,4,0:08,SUB: Redick FOR Jordan,nan,nan,201599,DeAndre Jordan,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+13428,21500105,4,0:08,SUB: Crawford FOR Rivers,nan,nan,203085,Austin Rivers,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+13429,21500105,4,0:08,SUB: Pierce FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,1718,Paul Pierce,LAC,0,nan,nan,Substitution ,nan
+13430,21500105,4,0:07,nan,Lee Personal Take Foul (P4.PN) (T.Brothers),nan,201584,Courtney Lee,MEM,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal Take
+13431,21500105,4,0:07,Crawford Free Throw 1 of 2 (11 PTS),nan,89 - 91,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13432,21500105,4,0:07,SUB: Jordan FOR Redick,nan,nan,200755,JJ Redick,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+13433,21500105,4,0:07,nan,SUB: Gasol FOR Allen,nan,2754,Tony Allen,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+13434,21500105,4,0:07,nan,SUB: Randolph FOR Green,nan,203210,JaMychal Green,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+13435,21500105,4,0:07,Crawford Free Throw 2 of 2 (12 PTS),nan,89 - 92,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13436,21500105,4,0:07,nan,Grizzlies Timeout: Short (Reg.4 Short 2),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+13437,21500105,4,0:07,SUB: Redick FOR Pierce,nan,nan,1718,Paul Pierce,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+13438,21500105,4,0:07,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+13439,21500105,4,0:06,Griffin Personal Take Foul (P4.PN) (P.Fraher),nan,nan,201933,Blake Griffin,LAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal Take
+13440,21500105,4,0:06,nan,MISS Gasol Free Throw 1 of 2,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13441,21500105,4,0:06,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+13442,21500105,4,0:06,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+13443,21500105,4,0:06,nan,SUB: Allen FOR Randolph,nan,2216,Zach Randolph,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+13444,21500105,4,0:06,nan,Gasol Free Throw 2 of 2 (16 PTS),90 - 92,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13445,21500105,4,0:05,nan,Lee Personal Take Foul (P5.PN) (T.Brothers),nan,201584,Courtney Lee,MEM,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Personal Take
+13446,21500105,4,0:05,MISS Crawford Free Throw 1 of 2,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13447,21500105,4,0:05,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+13448,21500105,4,0:05,nan,SUB: Randolph FOR Allen,nan,2754,Tony Allen,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+13449,21500105,4,0:05,SUB: Mbah a Moute FOR Redick,nan,nan,200755,JJ Redick,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+13450,21500105,4,0:05,Crawford Free Throw 2 of 2 (13 PTS),nan,90 - 93,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13451,21500105,4,0:05,nan,Grizzlies Timeout: Regular (Reg.5 Short 2),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+13452,21500105,4,0:05,SUB: Redick FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+13453,21500105,4,0:04,Griffin Personal Take Foul (P5.PN) (P.Fraher),nan,nan,201933,Blake Griffin,LAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal Take
+13454,21500105,4,0:04,nan,Gasol Free Throw 1 of 2 (17 PTS),91 - 93,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13455,21500105,4,0:04,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+13456,21500105,4,0:04,nan,MISS Gasol Free Throw 2 of 2,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13457,21500105,4,0:03,nan,Gasol REBOUND (Off:1 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13458,21500105,4,0:03,Redick L.B.FOUL (P2.PN) (J.Orr),nan,nan,200755,JJ Redick,LAC,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Loose Ball
+13459,21500105,4,0:03,nan,Gasol Free Throw 1 of 2 (18 PTS),92 - 93,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13460,21500105,4,0:03,nan,SUB: Allen FOR Randolph,nan,2216,Zach Randolph,MEM,2754,Tony Allen,MEM,0,nan,nan,Substitution ,nan
+13461,21500105,4,0:03,nan,MISS Gasol Free Throw 2 of 2,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13462,21500105,4,0:01,Paul REBOUND (Off:1 Def:3),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13463,21500105,4,0:00,nan,Allen Personal Take Foul (P3.PN) (P.Fraher),nan,2754,Tony Allen,MEM,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal Take
+13464,21500105,4,0:00,nan,nan,nan,624,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+13465,21500105,4,0:00,Paul Free Throw 1 of 2 (14 PTS),nan,92 - 94,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+13466,21500105,4,0:00,nan,SUB: Randolph FOR Allen,nan,2754,Tony Allen,MEM,2216,Zach Randolph,MEM,0,nan,nan,Substitution ,nan
+13467,21500105,4,0:00,MISS Paul Free Throw 2 of 2,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+13468,21500105,4,0:00,nan,Gasol REBOUND (Off:1 Def:6),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+13469,21500105,4,0:00,nan,nan,92 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

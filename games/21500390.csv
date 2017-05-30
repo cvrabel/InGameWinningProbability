@@ -1,0 +1,100 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+48965,21500390,4,12:00,nan,nan,81 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+48966,21500390,4,11:43,Bosh  Driving Dunk (11 PTS),nan,81 - 79,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+48967,21500390,4,11:23,nan,Scola 1' Layup (18 PTS) (Lowry 3 AST),83 - 79,2449,Luis Scola,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+48968,21500390,4,11:09,nan,Scola Shooting Block Foul (P2.T1) (J.Phillips),nan,2449,Luis Scola,TOR,201609,Goran Dragic,MIA,0,nan,nan,Foul ,Shooting Block
+48969,21500390,4,11:09,Dragic Free Throw 1 of 2 (18 PTS),nan,83 - 80,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+48970,21500390,4,11:09,MISS Dragic Free Throw 2 of 2,nan,nan,201609,Goran Dragic,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+48971,21500390,4,11:08,nan,Patterson REBOUND (Off:0 Def:4),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48972,21500390,4,10:45,nan,MISS Joseph 2' Driving Layup,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48973,21500390,4,10:44,nan,Scola REBOUND (Off:1 Def:2),nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48974,21500390,4,10:43,nan,Scola 1' Layup (20 PTS),85 - 80,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+48975,21500390,4,10:22,MISS Green 19' Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48976,21500390,4,10:21,nan,Patterson REBOUND (Off:0 Def:5),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48977,21500390,4,10:12,nan,MISS Scola 20' Jump Shot,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48978,21500390,4,10:11,Winslow REBOUND (Off:0 Def:1),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48979,21500390,4,10:00,Dragic Bad Pass Turnover (P2.T11),Lowry STEAL (4 STL),nan,201609,Goran Dragic,MIA,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Bad Pass
+48980,21500390,4,9:54,Winslow Violation:Defensive Goaltending (J.Phillips),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+48981,21500390,4,9:54,nan,Lowry 1' Driving Layup (11 PTS),87 - 80,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+48982,21500390,4,9:39,nan,Scola P.FOUL (P3.T2) (M.Boland),nan,2449,Luis Scola,TOR,2547,Chris Bosh,MIA,0,nan,nan,Foul ,Personal
+48983,21500390,4,9:30,MISS Bosh 21' Jump Shot,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48984,21500390,4,9:29,nan,Joseph REBOUND (Off:0 Def:3),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48985,21500390,4,9:21,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48986,21500390,4,9:20,Winslow REBOUND (Off:0 Def:2),nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48987,21500390,4,9:10,Udrih 24' 3PT Jump Shot (5 PTS) (Dragic 5 AST),nan,87 - 83,2757,Beno Udrih,MIA,201609,Goran Dragic,MIA,0,nan,nan,Made Shot ,nan
+48988,21500390,4,8:49,nan,MISS Ross 24' 3PT Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48989,21500390,4,8:48,Bosh REBOUND (Off:0 Def:3),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48990,21500390,4,8:29,Green Traveling Turnover (P1.T12),nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+48991,21500390,4,8:29,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+48992,21500390,4,8:29,nan,SUB: DeRozan FOR Scola,nan,2449,Luis Scola,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+48993,21500390,4,8:29,nan,SUB: Biyombo FOR Joseph,nan,202709,Cory Joseph,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+48994,21500390,4,8:29,SUB: Whiteside FOR Bosh,nan,nan,2547,Chris Bosh,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+48995,21500390,4,8:07,Dragic STEAL (1 STL),Biyombo Lost Ball Turnover (P1.T6),nan,202687,Bismack Biyombo,TOR,201609,Goran Dragic,MIA,0,nan,nan,Turnover ,Lost Ball
+48996,21500390,4,7:48,Green 21' Jump Shot (17 PTS),nan,87 - 85,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+48997,21500390,4,7:22,Dragic S.FOUL (P2.T1) (M.Boland),nan,nan,201609,Goran Dragic,MIA,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+48998,21500390,4,7:22,nan,Lowry Free Throw 1 of 2 (12 PTS),88 - 85,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+48999,21500390,4,7:22,SUB: Wade FOR Dragic,nan,nan,201609,Goran Dragic,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Substitution ,nan
+49000,21500390,4,7:22,nan,Lowry Free Throw 2 of 2 (13 PTS),89 - 85,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49001,21500390,4,7:05,MISS Green  Driving Layup,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49002,21500390,4,7:04,nan,Biyombo REBOUND (Off:3 Def:7),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49003,21500390,4,6:57,nan,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T7),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+49004,21500390,4,6:42,nan,Ross S.FOUL (P1.T3) (J.Phillips),nan,203082,Terrence Ross,TOR,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Shooting
+49005,21500390,4,6:42,Wade Free Throw 1 of 2 (16 PTS),nan,89 - 86,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49006,21500390,4,6:42,Wade Free Throw 2 of 2 (17 PTS),nan,89 - 87,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49007,21500390,4,6:29,Green S.FOUL (P2.T2) (J.Phillips),nan,nan,101123,Gerald Green,MIA,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+49008,21500390,4,6:29,nan,DeRozan Free Throw 1 of 2 (26 PTS),90 - 87,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49009,21500390,4,6:29,nan,SUB: Johnson FOR Ross,nan,203082,Terrence Ross,TOR,201949,James Johnson,TOR,0,nan,nan,Substitution ,nan
+49010,21500390,4,6:29,nan,MISS DeRozan Free Throw 2 of 2,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49011,21500390,4,6:28,Whiteside REBOUND (Off:1 Def:11),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49012,21500390,4,6:12,Wade 8' Driving Floating Jump Shot (19 PTS),nan,90 - 89,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+49013,21500390,4,5:54,nan,DeRozan 13' Pullup Jump Shot (28 PTS),92 - 89,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+49014,21500390,4,5:37,MISS Winslow 24' 3PT Jump Shot,nan,nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49015,21500390,4,5:36,nan,Biyombo REBOUND (Off:3 Def:8),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49016,21500390,4,5:26,nan,Lowry 8' Hook Shot (15 PTS),94 - 89,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+49017,21500390,4,5:26,HEAT Timeout: Regular (Full 4 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49018,21500390,4,5:26,SUB: Deng FOR Winslow,nan,nan,1626159,Justise Winslow,MIA,2736,Luol Deng,MIA,0,nan,nan,Substitution ,nan
+49019,21500390,4,5:03,MISS Deng 19' Jump Shot,nan,nan,2736,Luol Deng,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49020,21500390,4,5:02,nan,Biyombo REBOUND (Off:3 Def:9),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49021,21500390,4,4:38,nan,MISS DeRozan 26' 3PT Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49022,21500390,4,4:37,Whiteside REBOUND (Off:1 Def:12),nan,nan,202355,Hassan Whiteside,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49023,21500390,4,4:25,MISS Wade 10' Driving Floating Jump Shot,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49024,21500390,4,4:24,nan,Biyombo REBOUND (Off:3 Def:10),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49025,21500390,4,4:07,nan,Johnson 3' Driving Layup (13 PTS) (Lowry 4 AST),96 - 89,201949,James Johnson,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+49026,21500390,4,3:49,Green 25' 3PT Jump Shot (20 PTS) (Wade 5 AST),nan,96 - 92,101123,Gerald Green,MIA,2548,Dwyane Wade,MIA,0,nan,nan,Made Shot ,nan
+49027,21500390,4,3:33,Whiteside S.FOUL (P2.T3) (L.Wood),nan,nan,202355,Hassan Whiteside,MIA,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Shooting
+49028,21500390,4,3:33,nan,DeRozan Free Throw 1 of 2 (29 PTS),97 - 92,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49029,21500390,4,3:33,SUB: Dragic FOR Udrih,nan,nan,2757,Beno Udrih,MIA,201609,Goran Dragic,MIA,0,nan,nan,Substitution ,nan
+49030,21500390,4,3:33,SUB: Bosh FOR Whiteside,nan,nan,202355,Hassan Whiteside,MIA,2547,Chris Bosh,MIA,0,nan,nan,Substitution ,nan
+49031,21500390,4,3:33,nan,DeRozan Free Throw 2 of 2 (30 PTS),98 - 92,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49032,21500390,4,3:17,Wade Bad Pass Turnover (P8.T13),DeRozan STEAL (2 STL),nan,2548,Dwyane Wade,MIA,201942,DeMar DeRozan,TOR,0,nan,nan,Turnover ,Bad Pass
+49033,21500390,4,3:08,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49034,21500390,4,3:07,nan,Johnson REBOUND (Off:1 Def:0),nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49035,21500390,4,3:04,nan,Patterson 10' Jump Bank Shot (2 PTS) (Johnson 5 AST),100 - 92,202335,Patrick Patterson,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+49036,21500390,4,3:04,HEAT Timeout: Regular (Full 5 Short 1),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+49037,21500390,4,2:52,MISS Green 25' 3PT Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49038,21500390,4,2:51,nan,Biyombo REBOUND (Off:3 Def:11),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49039,21500390,4,2:25,nan,Lowry 1' Finger Roll Layup (17 PTS),102 - 92,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+49040,21500390,4,2:14,nan,Johnson S.FOUL (P1.T4) (L.Wood),nan,201949,James Johnson,TOR,2548,Dwyane Wade,MIA,0,nan,nan,Foul ,Shooting
+49041,21500390,4,2:14,Wade Free Throw 1 of 2 (20 PTS),nan,102 - 93,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49042,21500390,4,2:14,Wade Free Throw 2 of 2 (21 PTS),nan,102 - 94,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49043,21500390,4,1:55,nan,Biyombo  Dunk (5 PTS) (DeRozan 4 AST),104 - 94,202687,Bismack Biyombo,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+49044,21500390,4,1:48,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49045,21500390,4,1:47,nan,Patterson REBOUND (Off:0 Def:6),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49046,21500390,4,1:26,nan,MISS Lowry 20' Pullup Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49047,21500390,4,1:25,nan,Biyombo REBOUND (Off:4 Def:11),nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49048,21500390,4,1:23,Deng P.FOUL (P2.T4) (L.Wood),nan,nan,2736,Luol Deng,MIA,202687,Bismack Biyombo,TOR,0,nan,nan,Foul ,Personal
+49049,21500390,4,1:12,nan,MISS Johnson 2' Reverse Layup,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49050,21500390,4,1:11,Bosh REBOUND (Off:0 Def:4),nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49051,21500390,4,1:04,MISS Deng 26' 3PT Jump Shot,Johnson BLOCK (1 BLK),nan,2736,Luol Deng,MIA,0,nan,nan,201949,James Johnson,TOR,Missed Shot ,nan
+49052,21500390,4,1:03,nan,Patterson REBOUND (Off:0 Def:7),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49053,21500390,4,0:57,Bosh S.FOUL (P4.PN) (J.Phillips),nan,nan,2547,Chris Bosh,MIA,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+49054,21500390,4,0:57,nan,Lowry Free Throw 1 of 2 (18 PTS),105 - 94,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+49055,21500390,4,0:57,nan,Lowry Free Throw 2 of 2 (19 PTS),106 - 94,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+49056,21500390,4,0:57,HEAT Timeout: Short (Full 5 Short 2),nan,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49057,21500390,4,0:51,MISS Green 24' 3PT Jump Shot,nan,nan,101123,Gerald Green,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49058,21500390,4,0:50,nan,Patterson REBOUND (Off:0 Def:8),nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49059,21500390,4,0:45,nan,Raptors Timeout: Short (Reg.3 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+49060,21500390,4,0:32,nan,Lowry 2' Driving Layup (21 PTS),108 - 94,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+49061,21500390,4,0:21,MISS Bosh  3PT Jump Shot,nan,nan,2547,Chris Bosh,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+49062,21500390,4,0:20,nan,DeRozan REBOUND (Off:0 Def:4),nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+49063,21500390,4,0:00,nan,nan,108 - 94,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

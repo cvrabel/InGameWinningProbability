@@ -1,0 +1,105 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+40736,21500323,4,12:00,nan,nan,62 - 73,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+40737,21500323,4,11:45,Ross S.FOUL (P3.T1) (M.McCutchen),nan,nan,203082,Terrence Ross,TOR,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Shooting
+40738,21500323,4,11:45,nan,Simmons Free Throw 1 of 2 (7 PTS),63 - 73,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+40739,21500323,4,11:45,nan,Simmons Free Throw 2 of 2 (8 PTS),64 - 73,203613,Jonathon Simmons,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+40740,21500323,4,11:37,Joseph OFF.Foul (P3) (M.McCutchen),nan,nan,202709,Cory Joseph,TOR,203613,Jonathon Simmons,SAS,0,nan,nan,Foul ,Offensive
+40741,21500323,4,11:37,Joseph Foul Turnover (P1.T15),nan,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+40742,21500323,4,11:20,nan,MISS Anderson 5' Jump Shot,nan,203937,Kyle Anderson,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40743,21500323,4,11:20,Johnson REBOUND (Off:0 Def:1),nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40744,21500323,4,11:15,Ross  Dunk (6 PTS) (Johnson 2 AST),nan,64 - 75,203082,Terrence Ross,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+40745,21500323,4,10:58,nan,West 3' Layup (5 PTS) (Anderson 1 AST),66 - 75,2561,David West,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+40746,21500323,4,10:44,Scola Bad Pass Turnover (P2.T16),Mills STEAL (1 STL),nan,2449,Luis Scola,TOR,201988,Patty Mills,SAS,0,nan,nan,Turnover ,Bad Pass
+40747,21500323,4,10:28,nan,West 18' Jump Shot (7 PTS) (Simmons 2 AST),68 - 75,2561,David West,SAS,203613,Jonathon Simmons,SAS,0,nan,nan,Made Shot ,nan
+40748,21500323,4,10:04,Patterson  3PT Jump Shot (8 PTS) (Johnson 3 AST),nan,68 - 78,202335,Patrick Patterson,TOR,201949,James Johnson,TOR,0,nan,nan,Made Shot ,nan
+40749,21500323,4,9:54,nan,West OFF.Foul (P2) (M.McCutchen),nan,2561,David West,SAS,202709,Cory Joseph,TOR,0,nan,nan,Foul ,Offensive
+40750,21500323,4,9:54,nan,West Foul Turnover (P1.T15),nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Turnover ,Foul
+40751,21500323,4,9:54,SUB: Lowry FOR Ross,nan,nan,203082,Terrence Ross,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Substitution ,nan
+40752,21500323,4,9:41,Scola 6' Hook Shot (16 PTS) (Joseph 4 AST),nan,68 - 80,2449,Luis Scola,TOR,202709,Cory Joseph,TOR,0,nan,nan,Made Shot ,nan
+40753,21500323,4,9:24,nan,MISS West 5' Jump Shot,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40754,21500323,4,9:24,nan,Diaw REBOUND (Off:1 Def:1),nan,2564,Boris Diaw,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40755,21500323,4,9:19,nan,Mills 26' 3PT Jump Shot (3 PTS) (Anderson 2 AST),71 - 80,201988,Patty Mills,SAS,203937,Kyle Anderson,SAS,0,nan,nan,Made Shot ,nan
+40756,21500323,4,9:16,nan,Spurs Delay,nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Foul ,Delay Technical
+40757,21500323,4,9:16,Lowry Free Throw Technical (13 PTS),nan,71 - 81,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+40758,21500323,4,8:53,Patterson 6' Driving Floating Jump Shot (10 PTS),nan,71 - 83,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+40759,21500323,4,8:43,nan,West 9' Jump Shot (9 PTS) (Mills 4 AST),73 - 83,2561,David West,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+40760,21500323,4,8:43,Scola S.FOUL (P4.T2) (E.Dalen),nan,nan,2449,Luis Scola,TOR,2561,David West,SAS,0,nan,nan,Foul ,Shooting
+40761,21500323,4,8:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+40762,21500323,4,8:43,nan,SUB: Leonard FOR Anderson,nan,203937,Kyle Anderson,SAS,202695,Kawhi Leonard,SAS,0,nan,nan,Substitution ,nan
+40763,21500323,4,8:43,nan,West Free Throw 1 of 1 (10 PTS),74 - 83,2561,David West,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+40764,21500323,4,8:28,Lowry 10' Driving Bank Shot (15 PTS),nan,74 - 85,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+40765,21500323,4,8:12,nan,MISS Mills 18' Pullup Jump Shot,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40766,21500323,4,8:11,Johnson REBOUND (Off:0 Def:2),nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40767,21500323,4,7:56,MISS Johnson 3' Driving Layup,nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40768,21500323,4,7:55,nan,West REBOUND (Off:0 Def:3),nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40769,21500323,4,7:41,nan,MISS West 16' Jump Shot,nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40770,21500323,4,7:40,Johnson REBOUND (Off:0 Def:3),nan,nan,201949,James Johnson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40771,21500323,4,7:19,MISS Lowry 24' 3PT Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40772,21500323,4,7:19,Scola REBOUND (Off:1 Def:6),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40773,21500323,4,7:17,MISS Scola 1' Layup,Leonard BLOCK (1 BLK),nan,2449,Luis Scola,TOR,0,nan,nan,202695,Kawhi Leonard,SAS,Missed Shot ,nan
+40774,21500323,4,7:15,nan,Mills REBOUND (Off:0 Def:1),nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40775,21500323,4,7:12,nan,Leonard 14' Running Jump Shot (2 PTS) (Mills 5 AST),76 - 85,202695,Kawhi Leonard,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+40776,21500323,4,7:12,Johnson S.FOUL (P2.T3) (M.McCutchen),nan,nan,201949,James Johnson,TOR,202695,Kawhi Leonard,SAS,0,nan,nan,Foul ,Shooting
+40777,21500323,4,7:12,nan,SUB: Ginobili FOR Diaw,nan,2564,Boris Diaw,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Substitution ,nan
+40778,21500323,4,7:12,nan,SUB: Parker FOR Simmons,nan,203613,Jonathon Simmons,SAS,2225,Tony Parker,SAS,0,nan,nan,Substitution ,nan
+40779,21500323,4,7:12,SUB: DeRozan FOR Johnson,nan,nan,201949,James Johnson,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+40780,21500323,4,7:12,nan,MISS Leonard Free Throw 1 of 1,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+40781,21500323,4,7:10,Scola REBOUND (Off:1 Def:7),nan,nan,2449,Luis Scola,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40782,21500323,4,6:54,Joseph Lost Ball Turnover (P2.T17),Parker STEAL (1 STL),nan,202709,Cory Joseph,TOR,2225,Tony Parker,SAS,0,nan,nan,Turnover ,Lost Ball
+40783,21500323,4,6:40,Lowry Violation:Kicked Ball (J.Williams),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Violation ,Kicked Ball
+40784,21500323,4,6:30,nan,West Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,2561,David West,SAS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+40785,21500323,4,6:18,DeRozan Bad Pass Turnover (P5.T18),Ginobili STEAL (1 STL),nan,201942,DeMar DeRozan,TOR,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Bad Pass
+40786,21500323,4,6:08,nan,Leonard 15' Pullup Jump Shot (4 PTS),78 - 85,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+40787,21500323,4,5:58,RAPTORS Timeout: Regular (Full 4 Short 1),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+40788,21500323,4,5:58,nan,SUB: Aldridge FOR West,nan,2561,David West,SAS,200746,LaMarcus Aldridge,SAS,0,nan,nan,Substitution ,nan
+40789,21500323,4,5:48,nan,Aldridge S.FOUL (P2.T1) (M.McCutchen),nan,200746,LaMarcus Aldridge,SAS,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Shooting
+40790,21500323,4,5:48,Lowry Free Throw 1 of 2 (16 PTS),nan,78 - 86,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+40791,21500323,4,5:48,SUB: Biyombo FOR Scola,nan,nan,2449,Luis Scola,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+40792,21500323,4,5:48,Lowry Free Throw 2 of 2 (17 PTS),nan,78 - 87,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+40793,21500323,4,5:34,nan,MISS Ginobili 24' 3PT Jump Shot,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40794,21500323,4,5:34,nan,Mills REBOUND (Off:1 Def:1),nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40795,21500323,4,5:22,nan,Ginobili 4' Driving Reverse Layup (13 PTS) (Mills 6 AST),80 - 87,1938,Manu Ginobili,SAS,201988,Patty Mills,SAS,0,nan,nan,Made Shot ,nan
+40796,21500323,4,4:58,Lowry 4' Driving Floating Jump Shot (19 PTS),nan,80 - 89,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+40797,21500323,4,4:44,nan,Leonard 25' 3PT Jump Shot (7 PTS) (Ginobili 2 AST),83 - 89,202695,Kawhi Leonard,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+40798,21500323,4,4:28,Joseph Lost Ball Turnover (P3.T19),Parker STEAL (2 STL),nan,202709,Cory Joseph,TOR,2225,Tony Parker,SAS,0,nan,nan,Turnover ,Lost Ball
+40799,21500323,4,4:12,nan,MISS Leonard 25' 3PT Jump Shot,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40800,21500323,4,4:11,nan,Aldridge REBOUND (Off:2 Def:4),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40801,21500323,4,4:05,nan,MISS Mills 11' Fadeaway Jumper,nan,201988,Patty Mills,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40802,21500323,4,4:03,Patterson REBOUND (Off:0 Def:4),nan,nan,202335,Patrick Patterson,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40803,21500323,4,3:57,DeRozan 7' Jump Bank Shot (24 PTS) (Lowry 7 AST),nan,83 - 91,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+40804,21500323,4,3:46,nan,Ginobili 1' Driving Layup (15 PTS),85 - 91,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+40805,21500323,4,3:24,MISS Biyombo  Alley Oop Dunk,nan,nan,202687,Bismack Biyombo,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40806,21500323,4,3:22,nan,Parker REBOUND (Off:1 Def:3),nan,2225,Tony Parker,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40807,21500323,4,3:14,Lowry S.FOUL (P2.T4) (M.McCutchen),nan,nan,200768,Kyle Lowry,TOR,200746,LaMarcus Aldridge,SAS,0,nan,nan,Foul ,Shooting
+40808,21500323,4,3:14,nan,Aldridge Free Throw 1 of 2 (12 PTS),86 - 91,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+40809,21500323,4,3:14,nan,SUB: Green FOR Mills,nan,201988,Patty Mills,SAS,201980,Danny Green,SAS,0,nan,nan,Substitution ,nan
+40810,21500323,4,3:14,nan,Aldridge Free Throw 2 of 2 (13 PTS),87 - 91,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+40811,21500323,4,3:04,DeRozan 19' Pullup Jump Shot (26 PTS),nan,87 - 93,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+40812,21500323,4,3:03,nan,Spurs Timeout: Regular (Reg.4 Short 0),nan,1610612759,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+40813,21500323,4,2:47,nan,Green 24' 3PT Jump Shot (8 PTS) (Ginobili 3 AST),90 - 93,201980,Danny Green,SAS,1938,Manu Ginobili,SAS,0,nan,nan,Made Shot ,nan
+40814,21500323,4,2:31,DeRozan Lost Ball Turnover (P6.T20),Ginobili STEAL (2 STL),nan,201942,DeMar DeRozan,TOR,1938,Manu Ginobili,SAS,0,nan,nan,Turnover ,Lost Ball
+40815,21500323,4,2:14,nan,MISS Ginobili 26' 3PT Jump Shot,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40816,21500323,4,2:13,RAPTORS Rebound,nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40817,21500323,4,1:50,Biyombo  Dunk (10 PTS) (Patterson 1 AST),nan,90 - 95,202687,Bismack Biyombo,TOR,202335,Patrick Patterson,TOR,0,nan,nan,Made Shot ,nan
+40818,21500323,4,1:42,Joseph P.FOUL (P4.PN) (M.McCutchen),nan,nan,202709,Cory Joseph,TOR,1938,Manu Ginobili,SAS,0,nan,nan,Foul ,Personal
+40819,21500323,4,1:42,nan,Ginobili Free Throw 1 of 2 (16 PTS),91 - 95,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+40820,21500323,4,1:42,SUB: Scola FOR Biyombo,nan,nan,202687,Bismack Biyombo,TOR,2449,Luis Scola,TOR,0,nan,nan,Substitution ,nan
+40821,21500323,4,1:42,nan,Ginobili Free Throw 2 of 2 (17 PTS),92 - 95,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+40822,21500323,4,1:22,DeRozan 3' Driving Floating Jump Shot (28 PTS) (Lowry 8 AST),nan,92 - 97,201942,DeMar DeRozan,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+40823,21500323,4,1:04,Patterson STEAL (3 STL),Green Bad Pass Turnover (P1.T17),nan,201980,Danny Green,SAS,202335,Patrick Patterson,TOR,0,nan,nan,Turnover ,Bad Pass
+40824,21500323,4,0:48,Lowry Out of Bounds Lost Ball Turnover (P4.T21),nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+40825,21500323,4,0:48,nan,nan,nan,494,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+40826,21500323,4,0:48,SUB: Biyombo FOR Scola,nan,nan,2449,Luis Scola,TOR,202687,Bismack Biyombo,TOR,0,nan,nan,Substitution ,nan
+40827,21500323,4,0:37,nan,MISS Leonard 6' Jump Shot,nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40828,21500323,4,0:36,nan,Aldridge REBOUND (Off:3 Def:4),nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40829,21500323,4,0:34,nan,MISS Aldridge  Dunk,nan,200746,LaMarcus Aldridge,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40830,21500323,4,0:33,nan,Leonard REBOUND (Off:3 Def:3),nan,202695,Kawhi Leonard,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40831,21500323,4,0:31,nan,MISS Ginobili 28' 3PT Jump Shot,nan,1938,Manu Ginobili,SAS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40832,21500323,4,0:30,nan,Green REBOUND (Off:1 Def:3),nan,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40833,21500323,4,0:28,nan,Green 1' Tip Layup Shot (10 PTS),94 - 97,201980,Danny Green,SAS,0,nan,nan,0,nan,nan,Made Shot ,nan
+40834,21500323,4,0:08,MISS Lowry 6' Jump Shot,nan,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+40835,21500323,4,0:07,DeRozan REBOUND (Off:1 Def:3),nan,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+40836,21500323,4,0:05,nan,Ginobili P.FOUL (P5.T2) (M.McCutchen),nan,1938,Manu Ginobili,SAS,201942,DeMar DeRozan,TOR,0,nan,nan,Foul ,Personal
+40837,21500323,4,0:05,SUB: Scola FOR Biyombo,nan,nan,202687,Bismack Biyombo,TOR,2449,Luis Scola,TOR,0,nan,nan,Substitution ,nan
+40838,21500323,4,0:05,RAPTORS Timeout: Regular (Full 5 Short 1),nan,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+40839,21500323,4,0:00,nan,nan,94 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

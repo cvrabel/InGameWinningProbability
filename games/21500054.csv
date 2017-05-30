@@ -1,0 +1,126 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+6910,21500054,4,12:00,nan,nan,85 - 67,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+6911,21500054,4,11:45,MISS Johnson 21' Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6912,21500054,4,11:42,Drummond REBOUND (Off:7 Def:10),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6913,21500054,4,11:26,Drummond  Layup (23 PTS) (Johnson 2 AST),nan,85 - 69,203083,Andre Drummond,DET,1626169,Stanley Johnson,DET,0,nan,nan,Made Shot ,nan
+6914,21500054,4,11:09,nan,MISS Allen 8' Hook Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6915,21500054,4,11:07,Dinwiddie REBOUND (Off:0 Def:1),nan,nan,203915,Spencer Dinwiddie,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6916,21500054,4,11:04,nan,Turner P.FOUL (P1.T1) (K.Scott),nan,1626167,Myles Turner,IND,203915,Spencer Dinwiddie,DET,0,nan,nan,Foul ,Personal
+6917,21500054,4,10:55,MISS Drummond 7' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6918,21500054,4,10:53,nan,Stuckey REBOUND (Off:0 Def:4),nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6919,21500054,4,10:48,Tolliver P.FOUL (P1.T1) (G.Zielinski),nan,nan,201229,Anthony Tolliver,DET,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Personal
+6920,21500054,4,10:47,Johnson P.FOUL (P3.T2) (G.Zielinski),nan,nan,1626169,Stanley Johnson,DET,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Personal
+6921,21500054,4,10:30,nan,Stuckey 16' Jump Shot (16 PTS),87 - 69,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+6922,21500054,4,10:15,Dinwiddie  Driving Layup (2 PTS),nan,87 - 71,203915,Spencer Dinwiddie,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+6923,21500054,4,10:01,nan,MISS G. Hill 16' Jump Shot,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6924,21500054,4,10:01,nan,Allen REBOUND (Off:3 Def:3),nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6925,21500054,4,9:58,Caldwell-Pope STEAL (1 STL),Allen Bad Pass Turnover (P2.T12),nan,202730,Lavoy Allen,IND,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Turnover ,Bad Pass
+6926,21500054,4,9:56,Caldwell-Pope 1' Layup (7 PTS),nan,87 - 73,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+6927,21500054,4,9:56,nan,Turner S.FOUL (P2.T2) (G.Zielinski),nan,1626167,Myles Turner,IND,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Shooting
+6928,21500054,4,9:56,Caldwell-Pope Free Throw 1 of 1 (8 PTS),nan,87 - 74,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+6929,21500054,4,9:41,nan,MISS Turner 15' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6930,21500054,4,9:40,Johnson REBOUND (Off:0 Def:2),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6931,21500054,4,9:36,Johnson Offensive Charge Foul (P4.T3) (G.Zielinski),nan,nan,1626169,Stanley Johnson,DET,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Offensive Charge
+6932,21500054,4,9:36,Johnson Foul Turnover (P1.T21),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+6933,21500054,4,9:21,Dinwiddie P.FOUL (P3.T4) (G.Zielinski),nan,nan,203915,Spencer Dinwiddie,DET,201588,George Hill,IND,0,nan,nan,Foul ,Personal
+6934,21500054,4,9:16,Drummond STEAL (3 STL),Stuckey Bad Pass Turnover (P2.T13),nan,201155,Rodney Stuckey,IND,203083,Andre Drummond,DET,0,nan,nan,Turnover ,Bad Pass
+6935,21500054,4,9:13,nan,Stuckey FLAGRANT.FOUL.TYPE1 (P2.T3) (J.Capers),nan,201155,Rodney Stuckey,IND,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Flagrant Type 1
+6936,21500054,4,9:13,nan,nan,nan,387,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+6937,21500054,4,9:13,MISS Johnson Free Throw Flagrant 1 of 2,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+6938,21500054,4,9:13,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+6939,21500054,4,9:13,MISS Johnson Free Throw Flagrant 2 of 2,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+6940,21500054,4,9:13,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+6941,21500054,4,9:00,MISS Tolliver 26' 3PT Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6942,21500054,4,9:00,nan,Budinger REBOUND (Off:0 Def:1),nan,201978,Chase Budinger,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6943,21500054,4,8:51,nan,Stuckey 8' Jump Shot (18 PTS),89 - 74,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+6944,21500054,4,8:37,MISS Johnson  Layup,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6945,21500054,4,8:37,Johnson REBOUND (Off:1 Def:2),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6946,21500054,4,8:37,MISS Johnson 1' Layup,Allen BLOCK (1 BLK),nan,1626169,Stanley Johnson,DET,0,nan,nan,202730,Lavoy Allen,IND,Missed Shot ,nan
+6947,21500054,4,8:37,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6948,21500054,4,8:37,SUB: Jackson FOR Dinwiddie,nan,nan,203915,Spencer Dinwiddie,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+6949,21500054,4,8:37,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+6950,21500054,4,8:25,nan,Turner S.FOUL (P3.T4) (G.Zielinski),nan,1626167,Myles Turner,IND,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Shooting
+6951,21500054,4,8:25,Jackson Free Throw 1 of 2 (19 PTS),nan,89 - 75,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+6952,21500054,4,8:25,SUB: Marc Morris FOR Tolliver,nan,nan,201229,Anthony Tolliver,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+6953,21500054,4,8:25,SUB: Ilyasova FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+6954,21500054,4,8:25,nan,SUB: George FOR Budinger,nan,201978,Chase Budinger,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+6955,21500054,4,8:25,Jackson Free Throw 2 of 2 (20 PTS),nan,89 - 76,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+6956,21500054,4,8:05,nan,MISS Stuckey 17' Jump Shot,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6957,21500054,4,8:02,Drummond REBOUND (Off:7 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6958,21500054,4,7:56,MISS Caldwell-Pope 25' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6959,21500054,4,7:56,Ilyasova REBOUND (Off:4 Def:0),nan,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6960,21500054,4,7:51,MISS Ilyasova 1' Layup,nan,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6961,21500054,4,7:50,Drummond REBOUND (Off:8 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6962,21500054,4,7:47,MISS Drummond 1' Tip Layup Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6963,21500054,4,7:44,Drummond REBOUND (Off:9 Def:11),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6964,21500054,4,7:40,Drummond 1' Tip Layup Shot (25 PTS),nan,89 - 78,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+6965,21500054,4,7:27,nan,Stuckey 6' Jump Shot (20 PTS) (Allen 2 AST),91 - 78,201155,Rodney Stuckey,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+6966,21500054,4,7:04,MISS Caldwell-Pope 2' Layup,Turner BLOCK (2 BLK),nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+6967,21500054,4,7:02,nan,Turner REBOUND (Off:0 Def:3),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6968,21500054,4,6:53,nan,MISS G. Hill 27' 3PT Jump Shot,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6969,21500054,4,6:53,Drummond REBOUND (Off:9 Def:12),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6970,21500054,4,6:46,MISS Jackson 27' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6971,21500054,4,6:45,nan,Turner REBOUND (Off:0 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6972,21500054,4,6:31,nan,MISS Allen 18' Jump Shot,nan,202730,Lavoy Allen,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6973,21500054,4,6:30,Drummond REBOUND (Off:9 Def:13),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6974,21500054,4,6:21,MISS Jackson 5' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6975,21500054,4,6:21,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6976,21500054,4,6:21,Drummond L.B.FOUL (P3.PN) (K.Scott),nan,nan,203083,Andre Drummond,DET,201588,George Hill,IND,0,nan,nan,Foul ,Loose Ball
+6977,21500054,4,6:21,nan,SUB: Ellis FOR G. Hill,nan,201588,George Hill,IND,101145,Monta Ellis,IND,0,nan,nan,Substitution ,nan
+6978,21500054,4,6:09,nan,Ellis Bad Pass Turnover (P2.T14),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+6979,21500054,4,6:00,MISS Jackson 1' Driving Layup,Turner BLOCK (3 BLK),nan,202704,Reggie Jackson,DET,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+6980,21500054,4,5:58,Drummond REBOUND (Off:10 Def:13),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6981,21500054,4,5:54,Marc Morris Bad Pass Turnover (P4.T22),Stuckey STEAL (1 STL),nan,202694,Marcus Morris,DET,201155,Rodney Stuckey,IND,0,nan,nan,Turnover ,Bad Pass
+6982,21500054,4,5:52,Caldwell-Pope S.FOUL (P3.PN) (G.Zielinski),nan,nan,203484,Kentavious Caldwell-Pope,DET,201155,Rodney Stuckey,IND,0,nan,nan,Foul ,Shooting
+6983,21500054,4,5:52,PISTONS Timeout: Regular (Full 5 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+6984,21500054,4,5:52,nan,SUB: Hill FOR Turner,nan,1626167,Myles Turner,IND,201941,Jordan Hill,IND,0,nan,nan,Substitution ,nan
+6985,21500054,4,5:52,nan,SUB: Miles FOR Allen,nan,202730,Lavoy Allen,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+6986,21500054,4,5:52,nan,MISS Stuckey Free Throw 1 of 2,nan,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+6987,21500054,4,5:52,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+6988,21500054,4,5:52,nan,Stuckey Free Throw 2 of 2 (21 PTS),92 - 78,201155,Rodney Stuckey,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+6989,21500054,4,5:39,MISS Caldwell-Pope 27' 3PT Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6990,21500054,4,5:39,nan,George REBOUND (Off:1 Def:6),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6991,21500054,4,5:16,nan,MISS Miles 19' Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6992,21500054,4,5:15,Drummond REBOUND (Off:10 Def:14),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6993,21500054,4,5:02,Caldwell-Pope  Driving Dunk (10 PTS),nan,92 - 80,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+6994,21500054,4,4:34,nan,Stuckey 21' Jump Shot (23 PTS) (George 6 AST),94 - 80,201155,Rodney Stuckey,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+6995,21500054,4,4:16,Caldwell-Pope 18' Jump Shot (12 PTS),nan,94 - 82,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+6996,21500054,4,3:51,nan,MISS Ellis 15' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6997,21500054,4,3:50,Drummond REBOUND (Off:10 Def:15),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+6998,21500054,4,3:40,MISS Ilyasova 26' 3PT Jump Shot,nan,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+6999,21500054,4,3:40,nan,George REBOUND (Off:1 Def:7),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7000,21500054,4,3:35,nan,Pacers Timeout: Regular (Reg.4 Short 1),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+7001,21500054,4,3:35,nan,SUB: G. Hill FOR Stuckey,nan,201155,Rodney Stuckey,IND,201588,George Hill,IND,0,nan,nan,Substitution ,nan
+7002,21500054,4,3:25,nan,Ellis OFF.Foul (P4) (J.Capers),nan,101145,Monta Ellis,IND,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Offensive
+7003,21500054,4,3:25,nan,Ellis Foul Turnover (P3.T15),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+7004,21500054,4,3:14,MISS Ilyasova 21' Jump Shot,nan,nan,101141,Ersan Ilyasova,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7005,21500054,4,3:14,nan,G. Hill REBOUND (Off:0 Def:4),nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7006,21500054,4,2:52,nan,MISS Ellis 12' Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7007,21500054,4,2:52,Drummond REBOUND (Off:10 Def:16),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7008,21500054,4,2:42,MISS Jackson 9' Floating Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7009,21500054,4,2:40,Drummond REBOUND (Off:11 Def:16),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7010,21500054,4,2:34,MISS Caldwell-Pope 14' Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7011,21500054,4,2:33,nan,Ellis REBOUND (Off:1 Def:2),nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7012,21500054,4,2:14,nan,MISS George 10' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7013,21500054,4,2:13,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7014,21500054,4,2:11,nan,MISS G. Hill 27' 3PT Jump Shot,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7015,21500054,4,2:09,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7016,21500054,4,2:09,nan,Pacers Turnover: Shot Clock (T#16),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+7017,21500054,4,1:57,MISS Jackson 16' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7018,21500054,4,1:56,nan,Miles REBOUND (Off:1 Def:2),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7019,21500054,4,1:39,nan,MISS George 16' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7020,21500054,4,1:39,nan,Hill REBOUND (Off:4 Def:2),nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7021,21500054,4,1:35,nan,MISS Hill 6' Jump Shot,nan,201941,Jordan Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7022,21500054,4,1:35,Drummond REBOUND (Off:11 Def:17),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7023,21500054,4,1:27,Caldwell-Pope Lost Ball Turnover (P2.T23),Ellis STEAL (3 STL),nan,203484,Kentavious Caldwell-Pope,DET,101145,Monta Ellis,IND,0,nan,nan,Turnover ,Lost Ball
+7024,21500054,4,1:03,nan,MISS Ellis 28' 3PT Jump Shot,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7025,21500054,4,1:02,nan,George REBOUND (Off:2 Def:7),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7026,21500054,4,0:42,nan,MISS George 26' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7027,21500054,4,0:41,Caldwell-Pope REBOUND (Off:0 Def:5),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7028,21500054,4,0:33,MISS Jackson 27' 3PT Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7029,21500054,4,0:32,nan,G. Hill REBOUND (Off:0 Def:5),nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7030,21500054,4,0:10,nan,MISS George 27' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7031,21500054,4,0:09,nan,G. Hill REBOUND (Off:1 Def:5),nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7032,21500054,4,0:09,nan,MISS G. Hill 1' Layup,nan,201588,George Hill,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+7033,21500054,4,0:07,Drummond REBOUND (Off:11 Def:18),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+7034,21500054,4,0:00,nan,nan,94 - 82,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

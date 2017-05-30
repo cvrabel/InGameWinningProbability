@@ -1,0 +1,118 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+214419,21600494,4,12:00,nan,nan,78 - 82,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+214420,21600494,4,11:47,MISS Thomas 3' Driving Layup,Richardson BLOCK (2 BLK),nan,202738,Isaiah Thomas,BOS,0,nan,nan,1626196,Josh Richardson,MIA,Missed Shot ,nan
+214421,21600494,4,11:46,nan,Richardson REBOUND (Off:1 Def:3),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214422,21600494,4,11:40,nan,MISS Richardson 20' Pullup Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214423,21600494,4,11:39,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214424,21600494,4,11:24,nan,Reed P.FOUL (P2.T1) (M.McCutchen),nan,203186,Willie Reed,MIA,203482,Kelly Olynyk,BOS,0,nan,nan,Foul ,Personal
+214425,21600494,4,11:12,MISS Thomas 25' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214426,21600494,4,11:11,nan,Johnson REBOUND (Off:0 Def:3),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214427,21600494,4,10:47,nan,Reed 18' Jump Shot (6 PTS) (Johnson 5 AST),80 - 82,203186,Willie Reed,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+214428,21600494,4,10:37,MISS Olynyk 26' 3PT Jump Shot,nan,nan,203482,Kelly Olynyk,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214429,21600494,4,10:36,nan,Richardson REBOUND (Off:1 Def:4),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214430,21600494,4,10:31,nan,Johnson 3' Driving Layup (14 PTS) (Richardson 6 AST),82 - 82,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+214431,21600494,4,10:31,Olynyk S.FOUL (P1.T1) (M.McCutchen),nan,nan,203482,Kelly Olynyk,BOS,201949,James Johnson,MIA,0,nan,nan,Foul ,Shooting
+214432,21600494,4,10:31,nan,Johnson Free Throw 1 of 1 (15 PTS),83 - 82,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+214433,21600494,4,10:15,Thomas 14' Jump Shot (25 PTS) (Jerebko 3 AST),nan,83 - 84,202738,Isaiah Thomas,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+214434,21600494,4,9:55,nan,MISS Richardson 2' Driving Layup,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214435,21600494,4,9:54,nan,Reed REBOUND (Off:2 Def:2),nan,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214436,21600494,4,9:54,nan,Reed  Putback Dunk (8 PTS),85 - 84,203186,Willie Reed,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+214437,21600494,4,9:44,Olynyk Lost Ball Turnover (P2.T9),Johnson STEAL (1 STL),nan,203482,Kelly Olynyk,BOS,201949,James Johnson,MIA,0,nan,nan,Turnover ,Lost Ball
+214438,21600494,4,9:40,Jerebko S.FOUL (P1.T2) (A.Smith),nan,nan,201973,Jonas Jerebko,BOS,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Shooting
+214439,21600494,4,9:40,nan,Johnson Free Throw 1 of 2 (9 PTS),86 - 84,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214440,21600494,4,9:40,SUB: Johnson FOR Olynyk,nan,nan,203482,Kelly Olynyk,BOS,101161,Amir Johnson,BOS,0,nan,nan,Substitution ,nan
+214441,21600494,4,9:40,nan,Johnson Free Throw 2 of 2 (10 PTS),87 - 84,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214442,21600494,4,9:30,Jerebko Bad Pass Turnover (P1.T10),Richardson STEAL (4 STL),nan,201973,Jonas Jerebko,BOS,1626196,Josh Richardson,MIA,0,nan,nan,Turnover ,Bad Pass
+214443,21600494,4,9:27,nan,Richardson  Running Dunk (14 PTS),89 - 84,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+214444,21600494,4,9:27,CELTICS Timeout: Regular (Full 4 Short 0),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214445,21600494,4,9:15,nan,Johnson P.FOUL (P2.T2) (M.McCutchen),nan,201949,James Johnson,MIA,101161,Amir Johnson,BOS,0,nan,nan,Foul ,Personal
+214446,21600494,4,9:08,Thomas 25' 3PT Pullup Jump Shot (28 PTS) (Jerebko 4 AST),nan,89 - 87,202738,Isaiah Thomas,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+214447,21600494,4,8:42,nan,MISS Richardson 26' 3PT Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214448,21600494,4,8:41,Jerebko REBOUND (Off:0 Def:1),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214449,21600494,4,8:33,nan,SUB: McGruder FOR Johnson,nan,204020,Tyler Johnson,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Substitution ,nan
+214450,21600494,4,8:22,Thomas 25' 3PT Pullup Jump Shot (31 PTS),nan,89 - 90,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214451,21600494,4,8:12,Brown P.FOUL (P1.T3) (P.Fraher),nan,nan,1627759,Jaylen Brown,BOS,1626196,Josh Richardson,MIA,0,nan,nan,Foul ,Personal
+214452,21600494,4,8:02,nan,MISS Richardson 19' Pullup Jump Shot,nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214453,21600494,4,8:01,Rozier REBOUND (Off:0 Def:5),nan,nan,1626179,Terry Rozier,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214454,21600494,4,7:52,MISS Thomas 30' 3PT Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214455,21600494,4,7:51,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214456,21600494,4,7:34,nan,MISS Ellington 24' 3PT Jump Shot,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214457,21600494,4,7:33,Jerebko REBOUND (Off:0 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214458,21600494,4,7:14,Thomas 25' 3PT Pullup Jump Shot (34 PTS),nan,89 - 93,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214459,21600494,4,7:14,nan,Heat Timeout: Regular (Reg.4 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214460,21600494,4,7:14,nan,nan,nan,389,Toni Kukoc,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+214461,21600494,4,7:14,nan,SUB: Johnson FOR McGruder,nan,203585,Rodney McGruder,MIA,204020,Tyler Johnson,MIA,0,nan,nan,Substitution ,nan
+214462,21600494,4,7:14,nan,SUB: Whiteside FOR Reed,nan,203186,Willie Reed,MIA,202355,Hassan Whiteside,MIA,0,nan,nan,Substitution ,nan
+214463,21600494,4,6:49,Rozier STEAL (1 STL),Richardson Lost Ball Turnover (P3.T9),nan,1626196,Josh Richardson,MIA,1626179,Terry Rozier,BOS,0,nan,nan,Turnover ,Lost Ball
+214464,21600494,4,6:43,Brown  Running Dunk (6 PTS) (Rozier 2 AST),nan,89 - 95,1627759,Jaylen Brown,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Made Shot ,nan
+214465,21600494,4,6:33,nan,Johnson 25' 3PT Pullup Jump Shot (18 PTS),92 - 95,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+214466,21600494,4,6:14,Thomas 25' 3PT Jump Shot (37 PTS) (Jerebko 5 AST),nan,92 - 98,202738,Isaiah Thomas,BOS,201973,Jonas Jerebko,BOS,0,nan,nan,Made Shot ,nan
+214467,21600494,4,5:59,Thomas S.FOUL (P2.T4) (P.Fraher),nan,nan,202738,Isaiah Thomas,BOS,201949,James Johnson,MIA,0,nan,nan,Foul ,Shooting
+214468,21600494,4,5:59,nan,MISS Johnson Free Throw 1 of 2,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214469,21600494,4,5:59,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+214470,21600494,4,5:59,SUB: Horford FOR Johnson,nan,nan,101161,Amir Johnson,BOS,201143,Al Horford,BOS,0,nan,nan,Substitution ,nan
+214471,21600494,4,5:59,nan,Johnson Free Throw 2 of 2 (19 PTS),93 - 98,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214472,21600494,4,5:38,Thomas 26' 3PT Pullup Jump Shot (40 PTS),nan,93 - 101,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214473,21600494,4,5:23,nan,Johnson 20' Pullup Jump Shot (12 PTS),95 - 101,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+214474,21600494,4,5:08,Thomas Lost Ball Turnover (P2.T11),Whiteside STEAL (1 STL),nan,202738,Isaiah Thomas,BOS,202355,Hassan Whiteside,MIA,0,nan,nan,Turnover ,Lost Ball
+214475,21600494,4,5:02,nan,Johnson 25' 3PT Jump Shot (15 PTS) (Richardson 7 AST),98 - 101,204020,Tyler Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+214476,21600494,4,4:44,nan,Richardson Personal Block Foul (P2.T3) (M.McCutchen),nan,1626196,Josh Richardson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal Block
+214477,21600494,4,4:44,SUB: Crowder FOR Brown,nan,nan,1627759,Jaylen Brown,BOS,203109,Jae Crowder,BOS,0,nan,nan,Substitution ,nan
+214478,21600494,4,4:44,SUB: Smart FOR Rozier,nan,nan,1626179,Terry Rozier,BOS,203935,Marcus Smart,BOS,0,nan,nan,Substitution ,nan
+214479,21600494,4,4:40,Horford OFF.Foul (P1) (M.McCutchen),nan,nan,201143,Al Horford,BOS,204020,Tyler Johnson,MIA,0,nan,nan,Foul ,Offensive
+214480,21600494,4,4:40,Horford Foul Turnover (P1.T12),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Turnover ,Foul
+214481,21600494,4,4:27,nan,Johnson Out of Bounds - Bad Pass Turnover Turnover (P5.T10),nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+214482,21600494,4,4:16,Horford Bad Pass Turnover (P2.T13),Johnson STEAL (2 STL),nan,201143,Al Horford,BOS,201949,James Johnson,MIA,0,nan,nan,Turnover ,Bad Pass
+214483,21600494,4,4:11,nan,MISS Johnson 2' Layup,nan,201949,James Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214484,21600494,4,4:10,Horford REBOUND (Off:0 Def:6),nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214485,21600494,4,4:05,Thomas 2' Running Layup (42 PTS) (Crowder 5 AST),nan,98 - 103,202738,Isaiah Thomas,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+214486,21600494,4,4:05,nan,Johnson S.FOUL (P4.T4) (A.Smith),nan,204020,Tyler Johnson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Shooting
+214487,21600494,4,4:05,Thomas Free Throw 1 of 1 (43 PTS),nan,98 - 104,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+214488,21600494,4,4:05,nan,Heat Timeout: Regular (Reg.5 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214489,21600494,4,4:05,nan,SUB: Winslow FOR Johnson,nan,201949,James Johnson,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Substitution ,nan
+214490,21600494,4,3:56,nan,MISS Ellington 24' 3PT Jump Shot,nan,201961,Wayne Ellington,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214491,21600494,4,3:55,nan,Richardson REBOUND (Off:2 Def:4),nan,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214492,21600494,4,3:41,Horford STEAL (1 STL),Winslow Bad Pass Turnover (P1.T11),nan,1626159,Justise Winslow,MIA,201143,Al Horford,BOS,0,nan,nan,Turnover ,Bad Pass
+214493,21600494,4,3:22,MISS Horford 25' 3PT Jump Shot,nan,nan,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214494,21600494,4,3:21,nan,Johnson REBOUND (Off:0 Def:4),nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214495,21600494,4,3:12,nan,Whiteside 1' Cutting Layup Shot (11 PTS) (Winslow 5 AST),100 - 104,202355,Hassan Whiteside,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Made Shot ,nan
+214496,21600494,4,2:48,Smart Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,nan,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+214497,21600494,4,2:36,nan,Richardson 15' Pullup Jump Shot (16 PTS),102 - 104,1626196,Josh Richardson,MIA,0,nan,nan,0,nan,nan,Made Shot ,nan
+214498,21600494,4,2:17,MISS Crowder 25' 3PT Jump Shot,nan,nan,203109,Jae Crowder,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214499,21600494,4,2:16,nan,Winslow REBOUND (Off:4 Def:5),nan,1626159,Justise Winslow,MIA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214500,21600494,4,2:12,nan,Ellington 1' Running Finger Roll Layup (14 PTS) (Winslow 6 AST),104 - 104,201961,Wayne Ellington,MIA,1626159,Justise Winslow,MIA,0,nan,nan,Made Shot ,nan
+214501,21600494,4,1:57,Thomas 2' Driving Finger Roll Layup (45 PTS),nan,104 - 106,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Made Shot ,nan
+214502,21600494,4,1:36,nan,MISS Johnson 25' 3PT Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214503,21600494,4,1:36,nan,Heat Rebound,nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214504,21600494,4,1:36,nan,nan,nan,439,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+214505,21600494,4,1:36,nan,SUB: Johnson FOR Whiteside,nan,202355,Hassan Whiteside,MIA,201949,James Johnson,MIA,0,nan,nan,Substitution ,nan
+214506,21600494,4,1:27,Thomas STEAL (1 STL),Johnson Lost Ball Turnover (P1.T12),nan,204020,Tyler Johnson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Turnover ,Lost Ball
+214507,21600494,4,1:23,nan,Richardson P.FOUL (P3.PN) (M.McCutchen),nan,1626196,Josh Richardson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+214508,21600494,4,1:23,Thomas Free Throw 1 of 2 (46 PTS),nan,104 - 107,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214509,21600494,4,1:23,Thomas Free Throw 2 of 2 (47 PTS),nan,104 - 108,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214510,21600494,4,1:17,nan,Johnson 22' Pullup Jump Shot (17 PTS) (Johnson 6 AST),106 - 108,204020,Tyler Johnson,MIA,201949,James Johnson,MIA,0,nan,nan,Made Shot ,nan
+214511,21600494,4,1:00,MISS Thomas 12' Pullup Jump Shot,nan,nan,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214512,21600494,4,0:59,Jerebko REBOUND (Off:1 Def:2),nan,nan,201973,Jonas Jerebko,BOS,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214513,21600494,4,0:37,Thomas 30' 3PT Jump Shot (50 PTS) (Crowder 6 AST),nan,106 - 111,202738,Isaiah Thomas,BOS,203109,Jae Crowder,BOS,0,nan,nan,Made Shot ,nan
+214514,21600494,4,0:37,nan,Heat Timeout: Regular (Reg.6 Short 0),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+214515,21600494,4,0:32,nan,MISS Johnson 26' 3PT Jump Shot,nan,204020,Tyler Johnson,MIA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+214516,21600494,4,0:31,CELTICS Rebound,nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+214517,21600494,4,0:31,nan,Winslow L.B.FOUL (P4.PN) (P.Fraher),nan,1626159,Justise Winslow,MIA,201143,Al Horford,BOS,0,nan,nan,Foul ,Loose Ball
+214518,21600494,4,0:31,Horford Free Throw 1 of 2 (20 PTS),nan,106 - 112,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214519,21600494,4,0:31,nan,SUB: McGruder FOR Winslow,nan,1626159,Justise Winslow,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Substitution ,nan
+214520,21600494,4,0:31,Horford Free Throw 2 of 2 (21 PTS),nan,106 - 113,201143,Al Horford,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214521,21600494,4,0:17,nan,Johnson  Driving Dunk (19 PTS) (McGruder 5 AST),108 - 113,204020,Tyler Johnson,MIA,203585,Rodney McGruder,MIA,0,nan,nan,Made Shot ,nan
+214522,21600494,4,0:14,CELTICS Timeout: Short (Full 4 Short 1),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+214523,21600494,4,0:11,nan,Johnson P.FOUL (P3.PN) (M.McCutchen),nan,201949,James Johnson,MIA,202738,Isaiah Thomas,BOS,0,nan,nan,Foul ,Personal
+214524,21600494,4,0:11,Thomas Free Throw 1 of 2 (51 PTS),nan,108 - 114,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214525,21600494,4,0:11,Thomas Free Throw 2 of 2 (52 PTS),nan,108 - 115,202738,Isaiah Thomas,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214526,21600494,4,0:11,nan,Heat Timeout: Short (Reg.6 Short 1),nan,1610612748,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+214527,21600494,4,0:08,nan,Richardson 25' 3PT Jump Shot (19 PTS) (Ellington 2 AST),111 - 115,1626196,Josh Richardson,MIA,201961,Wayne Ellington,MIA,0,nan,nan,Made Shot ,nan
+214528,21600494,4,0:08,CELTICS Timeout: Short (Full 4 Short 2),nan,nan,1610612738,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+214529,21600494,4,0:06,nan,Johnson Personal Take Foul (P5.PN) (M.McCutchen),nan,204020,Tyler Johnson,MIA,203935,Marcus Smart,BOS,0,nan,nan,Foul ,Personal Take
+214530,21600494,4,0:06,Smart Free Throw 1 of 2 (5 PTS),nan,111 - 116,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+214531,21600494,4,0:06,SUB: Rozier FOR Thomas,nan,nan,202738,Isaiah Thomas,BOS,1626179,Terry Rozier,BOS,0,nan,nan,Substitution ,nan
+214532,21600494,4,0:06,Smart Free Throw 2 of 2 (6 PTS),nan,111 - 117,203935,Marcus Smart,BOS,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+214533,21600494,4,0:00,nan,Johnson 25' 3PT Jump Shot (22 PTS) (Richardson 8 AST),114 - 117,201949,James Johnson,MIA,1626196,Josh Richardson,MIA,0,nan,nan,Made Shot ,nan
+214534,21600494,4,0:00,nan,nan,nan,496,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+214535,21600494,4,0:00,nan,nan,114 - 117,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

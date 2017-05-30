@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+250917,21600790,4,12:00,nan,nan,88 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+250918,21600790,4,11:46,MISS Stephenson 13' Jump Shot,nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250919,21600790,4,11:45,Dieng REBOUND (Off:3 Def:6),nan,nan,203476,Gorgui Dieng,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250920,21600790,4,11:40,Muhammad 16' Pullup Jump Shot (13 PTS),nan,88 - 85,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250921,21600790,4,11:23,nan,Sullinger OFF.Foul (P1) (M.Kogut),nan,203096,Jared Sullinger,TOR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Offensive
+250922,21600790,4,11:23,nan,Sullinger Foul Turnover (P1.T10),nan,203096,Jared Sullinger,TOR,0,nan,nan,0,nan,nan,Turnover ,Foul
+250923,21600790,4,11:01,MISS Stephenson 18' Step Back Jump Shot,nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250924,21600790,4,11:00,nan,Joseph REBOUND (Off:0 Def:2),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250925,21600790,4,10:40,nan,MISS Joseph  3PT Jump Shot,nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250926,21600790,4,10:38,Stephenson REBOUND (Off:0 Def:3),nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250927,21600790,4,10:34,MISS Muhammad 1' Alley Oop Layup,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250928,21600790,4,10:33,nan,Ross REBOUND (Off:0 Def:2),nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250929,21600790,4,10:32,Bjelica P.FOUL (P1.T1) (T.Washington),nan,nan,202357,Nemanja Bjelica,MIN,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal
+250930,21600790,4,10:18,nan,Ross 6' Floating Jump Shot (9 PTS),90 - 85,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250931,21600790,4,9:57,MISS Jones  3PT Jump Shot,nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250932,21600790,4,9:55,nan,Sullinger REBOUND (Off:0 Def:1),nan,203096,Jared Sullinger,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250933,21600790,4,9:47,nan,MISS Lowry 16' Turnaround Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250934,21600790,4,9:46,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250935,21600790,4,9:46,Bjelica L.B.FOUL (P2.T2) (M.Kogut),nan,nan,202357,Nemanja Bjelica,MIN,1627751,Jakob Poeltl,TOR,0,nan,nan,Foul ,Loose Ball
+250936,21600790,4,9:46,SUB: Towns FOR Dieng,nan,nan,203476,Gorgui Dieng,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Substitution ,nan
+250937,21600790,4,9:35,nan,Joseph Out of Bounds - Bad Pass Turnover Turnover (P2.T11),nan,202709,Cory Joseph,TOR,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+250938,21600790,4,9:17,Stephenson Bad Pass Turnover (P1.T4),Joseph STEAL (1 STL),nan,202362,Lance Stephenson,MIN,202709,Cory Joseph,TOR,0,nan,nan,Turnover ,Bad Pass
+250939,21600790,4,9:09,nan,MISS Ross 26' 3PT Jump Shot,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250940,21600790,4,9:08,Stephenson REBOUND (Off:0 Def:4),nan,nan,202362,Lance Stephenson,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250941,21600790,4,9:04,nan,Ross P.FOUL (P1.T1) (M.Kogut),nan,203082,Terrence Ross,TOR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+250942,21600790,4,8:50,MISS Jones 25' 3PT Jump Shot,nan,nan,1626145,Tyus Jones,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250943,21600790,4,8:49,TIMBERWOLVES Rebound,nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250944,21600790,4,8:49,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250945,21600790,4,8:49,nan,SUB: Nogueira FOR Poeltl,nan,1627751,Jakob Poeltl,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Substitution ,nan
+250946,21600790,4,8:49,Jump Ball Towns vs. Sullinger: Tip to Muhammad,nan,nan,1626157,Karl-Anthony Towns,MIN,203096,Jared Sullinger,TOR,203498,Shabazz Muhammad,MIN,Jump Ball ,nan
+250947,21600790,4,8:38,nan,Ross S.FOUL (P2.T2) (S.Twardoski),nan,203082,Terrence Ross,TOR,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Foul ,Shooting
+250948,21600790,4,8:38,Towns Free Throw 1 of 2 (22 PTS),nan,90 - 86,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+250949,21600790,4,8:38,Towns Free Throw 2 of 2 (23 PTS),nan,90 - 87,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+250950,21600790,4,8:19,nan,MISS Ross 1' Driving Layup,nan,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250951,21600790,4,8:18,nan,Sullinger REBOUND (Off:1 Def:1),nan,203096,Jared Sullinger,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250952,21600790,4,8:14,Towns STEAL (1 STL),Sullinger Lost Ball Turnover (P2.T12),nan,203096,Jared Sullinger,TOR,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Turnover ,Lost Ball
+250953,21600790,4,7:56,MISS Towns 17' Step Back Jump Shot,nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250954,21600790,4,7:55,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250955,21600790,4,7:55,Jones L.B.FOUL (P3.T3) (M.Kogut),nan,nan,1626145,Tyus Jones,MIN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Loose Ball
+250956,21600790,4,7:39,Muhammad P.FOUL (P2.T4) (T.Washington),nan,nan,203498,Shabazz Muhammad,MIN,203082,Terrence Ross,TOR,0,nan,nan,Foul ,Personal
+250957,21600790,4,7:33,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250958,21600790,4,7:32,Muhammad REBOUND (Off:0 Def:1),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250959,21600790,4,7:17,Bjelica Lost Ball Turnover (P2.T5),Ross STEAL (1 STL),nan,202357,Nemanja Bjelica,MIN,203082,Terrence Ross,TOR,0,nan,nan,Turnover ,Lost Ball
+250960,21600790,4,7:13,nan,Ross  Driving Dunk (11 PTS),92 - 87,203082,Terrence Ross,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250961,21600790,4,7:13,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250962,21600790,4,7:13,nan,SUB: Carroll FOR Joseph,nan,202709,Cory Joseph,TOR,201960,DeMarre Carroll,TOR,0,nan,nan,Substitution ,nan
+250963,21600790,4,7:13,nan,SUB: DeRozan FOR Ross,nan,203082,Terrence Ross,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Substitution ,nan
+250964,21600790,4,7:13,SUB: Wiggins FOR Bjelica,nan,nan,202357,Nemanja Bjelica,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Substitution ,nan
+250965,21600790,4,7:13,nan,SUB: Powell FOR Sullinger,nan,203096,Jared Sullinger,TOR,1626181,Norman Powell,TOR,0,nan,nan,Substitution ,nan
+250966,21600790,4,6:50,Wiggins 24' 3PT Pullup Jump Shot (27 PTS),nan,92 - 90,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250967,21600790,4,6:28,Towns BLOCK (2 BLK),MISS Lowry 1' Layup,nan,200768,Kyle Lowry,TOR,0,nan,nan,1626157,Karl-Anthony Towns,MIN,Missed Shot ,nan
+250968,21600790,4,6:26,Towns REBOUND (Off:4 Def:6),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250969,21600790,4,6:24,Towns Bad Pass Turnover (P1.T6),Nogueira STEAL (1 STL),nan,1626157,Karl-Anthony Towns,MIN,203512,Lucas Nogueira,TOR,0,nan,nan,Turnover ,Bad Pass
+250970,21600790,4,6:20,nan,Lowry 24' 3PT Jump Shot (18 PTS) (Nogueira 1 AST),95 - 90,200768,Kyle Lowry,TOR,203512,Lucas Nogueira,TOR,0,nan,nan,Made Shot ,nan
+250971,21600790,4,5:56,Muhammad 24' 3PT Jump Shot (16 PTS) (Jones 3 AST),nan,95 - 93,203498,Shabazz Muhammad,MIN,1626145,Tyus Jones,MIN,0,nan,nan,Made Shot ,nan
+250972,21600790,4,5:40,nan,DeRozan 12' Turnaround Jump Shot (24 PTS),97 - 93,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250973,21600790,4,5:17,MISS Muhammad 24' 3PT Jump Shot,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250974,21600790,4,5:16,Towns REBOUND (Off:5 Def:6),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250975,21600790,4,5:15,Towns 1' Putback Layup (25 PTS),nan,97 - 95,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250976,21600790,4,5:00,nan,Carroll 1' Cutting Layup Shot (19 PTS) (DeRozan 2 AST),99 - 95,201960,DeMarre Carroll,TOR,201942,DeMar DeRozan,TOR,0,nan,nan,Made Shot ,nan
+250977,21600790,4,4:41,Muhammad 1' Driving Layup (18 PTS) (Wiggins 5 AST),nan,99 - 97,203498,Shabazz Muhammad,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+250978,21600790,4,4:20,nan,MISS DeRozan 15' Turnaround Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250979,21600790,4,4:18,nan,Lowry REBOUND (Off:2 Def:0),nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250980,21600790,4,4:08,nan,Lowry 2' Driving Layup (20 PTS),101 - 97,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250981,21600790,4,4:08,TIMBERWOLVES Timeout: Short (Full 4 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+250982,21600790,4,3:53,Towns 1' Layup (27 PTS) (Muhammad 2 AST),nan,101 - 99,1626157,Karl-Anthony Towns,MIN,203498,Shabazz Muhammad,MIN,0,nan,nan,Made Shot ,nan
+250983,21600790,4,3:32,nan,Powell Traveling Turnover (P1.T13),nan,1626181,Norman Powell,TOR,0,nan,nan,0,nan,nan,Turnover ,Traveling
+250984,21600790,4,3:21,Wiggins Offensive Charge Foul (P2.PN) (M.Kogut),nan,nan,203952,Andrew Wiggins,MIN,200768,Kyle Lowry,TOR,0,nan,nan,Foul ,Offensive Charge
+250985,21600790,4,3:21,Wiggins Foul Turnover (P2.T7),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Turnover ,Foul
+250986,21600790,4,3:01,nan,DeRozan 2' Reverse Layup (26 PTS),103 - 99,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250987,21600790,4,2:42,Wiggins Lost Ball Turnover (P3.T8),Lowry STEAL (1 STL),nan,203952,Andrew Wiggins,MIN,200768,Kyle Lowry,TOR,0,nan,nan,Turnover ,Lost Ball
+250988,21600790,4,2:36,nan,MISS Lowry 23' Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250989,21600790,4,2:35,Towns REBOUND (Off:5 Def:7),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250990,21600790,4,2:31,nan,Powell P.FOUL (P1.T3) (S.Twardoski),nan,1626181,Norman Powell,TOR,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+250991,21600790,4,2:31,nan,Raptors Timeout: Regular (Reg.4 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+250992,21600790,4,2:31,nan,nan,nan,436,Juwan Howard,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+250993,21600790,4,2:20,MISS Wiggins 2' Layup,nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250994,21600790,4,2:19,Towns REBOUND (Off:6 Def:7),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+250995,21600790,4,2:19,Towns  Putback Dunk (29 PTS),nan,103 - 101,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+250996,21600790,4,1:57,nan,DeRozan 13' Pullup Jump Shot (28 PTS),105 - 101,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+250997,21600790,4,1:42,Muhammad  Cutting Dunk Shot (20 PTS) (Towns 1 AST),nan,105 - 103,203498,Shabazz Muhammad,MIN,1626157,Karl-Anthony Towns,MIN,0,nan,nan,Made Shot ,nan
+250998,21600790,4,1:24,nan,MISS DeRozan 7' Floating Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+250999,21600790,4,1:23,Wiggins REBOUND (Off:2 Def:3),nan,nan,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251000,21600790,4,1:18,nan,DeRozan S.FOUL (P3.T4) (M.Kogut),nan,201942,DeMar DeRozan,TOR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Shooting
+251001,21600790,4,1:18,Muhammad Free Throw 1 of 2 (21 PTS),nan,105 - 104,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+251002,21600790,4,1:18,MISS Muhammad Free Throw 2 of 2,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+251003,21600790,4,1:16,nan,Nogueira REBOUND (Off:0 Def:1),nan,203512,Lucas Nogueira,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251004,21600790,4,1:00,nan,MISS DeRozan 18' Pullup Jump Shot,nan,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251005,21600790,4,0:59,Towns REBOUND (Off:6 Def:8),nan,nan,1626157,Karl-Anthony Towns,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251006,21600790,4,0:47,Wiggins 17' Turnaround Jump Shot (29 PTS),nan,105 - 106,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Made Shot ,nan
+251007,21600790,4,0:47,nan,Raptors Timeout: Regular (Reg.5 Short 1),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+251008,21600790,4,0:35,nan,MISS Lowry 25' 3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251009,21600790,4,0:34,Muhammad REBOUND (Off:0 Def:2),nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251010,21600790,4,0:34,nan,Carroll P.FOUL (P2.PN) (T.Washington),nan,201960,DeMarre Carroll,TOR,203498,Shabazz Muhammad,MIN,0,nan,nan,Foul ,Personal
+251011,21600790,4,0:34,Muhammad Free Throw 1 of 2 (22 PTS),nan,105 - 107,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+251012,21600790,4,0:34,nan,SUB: Valanciunas FOR Powell,nan,1626181,Norman Powell,TOR,202685,Jonas Valanciunas,TOR,0,nan,nan,Substitution ,nan
+251013,21600790,4,0:34,MISS Muhammad Free Throw 2 of 2,nan,nan,203498,Shabazz Muhammad,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+251014,21600790,4,0:33,nan,Valanciunas REBOUND (Off:1 Def:4),nan,202685,Jonas Valanciunas,TOR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251015,21600790,4,0:33,nan,Raptors Timeout: Short (Reg.5 Short 2),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+251016,21600790,4,0:33,nan,SUB: Joseph FOR Nogueira,nan,203512,Lucas Nogueira,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+251017,21600790,4,0:29,nan,DeRozan 1' Driving Layup (30 PTS),107 - 107,201942,DeMar DeRozan,TOR,0,nan,nan,0,nan,nan,Made Shot ,nan
+251018,21600790,4,0:29,TIMBERWOLVES Timeout: Regular (Full 5 Short 1),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+251019,21600790,4,0:19,Jones 25' 3PT Jump Shot (5 PTS) (Wiggins 6 AST),nan,107 - 110,1626145,Tyus Jones,MIN,203952,Andrew Wiggins,MIN,0,nan,nan,Made Shot ,nan
+251020,21600790,4,0:19,nan,Raptors Timeout: Short (Reg.5 Short 3),nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+251021,21600790,4,0:19,nan,SUB: Ross FOR Joseph,nan,202709,Cory Joseph,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+251022,21600790,4,0:13,nan,Valanciunas  Dunk (16 PTS) (Lowry 5 AST),109 - 110,202685,Jonas Valanciunas,TOR,200768,Kyle Lowry,TOR,0,nan,nan,Made Shot ,nan
+251023,21600790,4,0:13,TIMBERWOLVES Timeout: Short (Full 5 Short 2),nan,nan,1610612750,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+251024,21600790,4,0:13,nan,SUB: Joseph FOR Ross,nan,203082,Terrence Ross,TOR,202709,Cory Joseph,TOR,0,nan,nan,Substitution ,nan
+251025,21600790,4,0:13,SUB: Rubio FOR Muhammad,nan,nan,203498,Shabazz Muhammad,MIN,201937,Ricky Rubio,MIN,0,nan,nan,Substitution ,nan
+251026,21600790,4,0:10,nan,Joseph P.FOUL (P1.PN) (S.Twardoski),nan,202709,Cory Joseph,TOR,203952,Andrew Wiggins,MIN,0,nan,nan,Foul ,Personal
+251027,21600790,4,0:10,Wiggins Free Throw 1 of 2 (30 PTS),nan,109 - 111,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+251028,21600790,4,0:10,nan,SUB: Ross FOR Joseph,nan,202709,Cory Joseph,TOR,203082,Terrence Ross,TOR,0,nan,nan,Substitution ,nan
+251029,21600790,4,0:10,Wiggins Free Throw 2 of 2 (31 PTS),nan,109 - 112,203952,Andrew Wiggins,MIN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+251030,21600790,4,0:00,nan,MISS Lowry  3PT Jump Shot,nan,200768,Kyle Lowry,TOR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+251031,21600790,4,0:00,nan,Raptors Rebound,nan,1610612761,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+251032,21600790,4,0:00,nan,nan,109 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

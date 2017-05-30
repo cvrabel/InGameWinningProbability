@@ -1,0 +1,137 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+201161,21600385,4,12:00,nan,nan,74 - 71,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+201162,21600385,4,11:37,Jones 7' Floating Jump Shot (7 PTS) (Evans 1 AST),nan,74 - 73,203093,Terrence Jones,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+201163,21600385,4,11:26,nan,Brooks Out of Bounds - Bad Pass Turnover Turnover (P2.T8),nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+201164,21600385,4,11:06,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201165,21600385,4,11:05,nan,Robinson III REBOUND (Off:1 Def:5),nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201166,21600385,4,10:51,nan,Jefferson 9' Jump Shot (12 PTS),76 - 73,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+201167,21600385,4,10:41,Evans 3' Driving Layup (4 PTS),nan,76 - 75,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+201168,21600385,4,10:18,nan,Jefferson 3' Jump Shot (14 PTS),78 - 75,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+201169,21600385,4,10:08,Davis 26' 3PT Jump Shot (25 PTS) (Evans 2 AST),nan,78 - 78,203076,Anthony Davis,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+201170,21600385,4,10:00,PELICANS Violation: Delay of game Violation,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+201171,21600385,4,9:44,Jones BLOCK (1 BLK),MISS Brooks 24' 3PT Jump Shot,nan,201166,Aaron Brooks,IND,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+201172,21600385,4,9:44,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201173,21600385,4,9:44,nan,SUB: Allen FOR Robinson III,nan,203922,Glenn Robinson III,IND,202730,Lavoy Allen,IND,0,nan,nan,Substitution ,nan
+201174,21600385,4,9:39,nan,George 10' Pullup Jump Shot (13 PTS),80 - 78,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+201175,21600385,4,9:29,Evans 25' 3PT Jump Shot (7 PTS),nan,80 - 81,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+201176,21600385,4,9:12,nan,MISS George 13' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201177,21600385,4,9:11,Davis REBOUND (Off:1 Def:13),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201178,21600385,4,9:05,MISS Davis 2' Layup,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201179,21600385,4,9:04,nan,Miles REBOUND (Off:0 Def:2),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201180,21600385,4,8:54,nan,MISS Jefferson 5' Jump Shot,nan,2744,Al Jefferson,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201181,21600385,4,8:54,Evans REBOUND (Off:0 Def:3),nan,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201182,21600385,4,8:45,nan,Jefferson P.FOUL (P2.T1) (M.Smith),nan,2744,Al Jefferson,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+201183,21600385,4,8:45,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+201184,21600385,4,8:45,nan,SUB: Young FOR Jefferson,nan,2744,Al Jefferson,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+201185,21600385,4,8:45,nan,SUB: Teague FOR Allen,nan,202730,Lavoy Allen,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+201186,21600385,4,8:45,nan,SUB: Turner FOR Brooks,nan,201166,Aaron Brooks,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+201187,21600385,4,8:45,SUB: Holiday FOR Davis,nan,nan,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+201188,21600385,4,8:45,SUB: Ajinca FOR Evans,nan,nan,201936,Tyreke Evans,NOP,201582,Alexis Ajinca,NOP,0,nan,nan,Substitution ,nan
+201189,21600385,4,8:34,Ajinca Traveling Turnover (P3.T15),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Turnover ,Traveling
+201190,21600385,4,8:22,nan,MISS George 25' 3PT Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201191,21600385,4,8:22,Ajinca REBOUND (Off:2 Def:4),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201192,21600385,4,8:12,MISS Moore 11' Jump Bank Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201193,21600385,4,8:10,nan,Teague REBOUND (Off:0 Def:6),nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201194,21600385,4,8:04,nan,MISS Young 17' Jump Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201195,21600385,4,8:02,Ajinca REBOUND (Off:2 Def:5),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201196,21600385,4,7:57,MISS Moore 24' 3PT Jump Shot,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201197,21600385,4,7:55,nan,Young REBOUND (Off:1 Def:5),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201198,21600385,4,7:41,nan,MISS Teague 3' Reverse Layup,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201199,21600385,4,7:41,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201200,21600385,4,7:29,nan,MISS Teague 25' 3PT Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201201,21600385,4,7:27,Ajinca REBOUND (Off:2 Def:6),nan,nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201202,21600385,4,7:20,nan,Young S.FOUL (P2.T2) (M.Smith),nan,201152,Thaddeus Young,IND,201950,Jrue Holiday,NOP,0,nan,nan,Foul ,Shooting
+201203,21600385,4,7:20,Holiday Free Throw 1 of 2 (13 PTS),nan,80 - 82,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201204,21600385,4,7:20,SUB: Hield FOR Galloway,nan,nan,204038,Langston Galloway,NOP,1627741,Buddy Hield,NOP,0,nan,nan,Substitution ,nan
+201205,21600385,4,7:20,Holiday Free Throw 2 of 2 (14 PTS),nan,80 - 83,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201206,21600385,4,7:09,Holiday S.FOUL (P4.T1) (B.Spooner),nan,nan,201950,Jrue Holiday,NOP,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+201207,21600385,4,7:09,nan,Teague Free Throw 1 of 2 (18 PTS),81 - 83,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201208,21600385,4,7:09,nan,Teague Free Throw 2 of 2 (19 PTS),82 - 83,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201209,21600385,4,6:52,MISS Hield 18' Jump Shot,nan,nan,1627741,Buddy Hield,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201210,21600385,4,6:51,nan,Miles REBOUND (Off:0 Def:3),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201211,21600385,4,6:37,nan,Turner  Dunk (22 PTS) (George 3 AST),84 - 83,1626167,Myles Turner,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+201212,21600385,4,6:21,MISS Ajinca 2' Layup,Turner BLOCK (1 BLK),nan,201582,Alexis Ajinca,NOP,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+201213,21600385,4,6:19,nan,Miles REBOUND (Off:0 Def:4),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201214,21600385,4,6:10,nan,Turner 8' Hook Shot (24 PTS),86 - 83,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+201215,21600385,4,6:06,PELICANS Timeout: Regular (Full 4 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201216,21600385,4,6:06,SUB: Davis FOR Ajinca,nan,nan,201582,Alexis Ajinca,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+201217,21600385,4,5:48,Jones 3' Layup (9 PTS) (Holiday 12 AST),nan,86 - 85,203093,Terrence Jones,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+201218,21600385,4,5:31,Moore STEAL (1 STL),George Lost Ball Turnover (P4.T9),nan,202331,Paul George,IND,202734,E'Twaun Moore,NOP,0,nan,nan,Turnover ,Lost Ball
+201219,21600385,4,5:26,nan,Turner S.FOUL (P3.T3) (M.Smith),nan,1626167,Myles Turner,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+201220,21600385,4,5:26,MISS Davis Free Throw 1 of 2,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201221,21600385,4,5:26,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201222,21600385,4,5:26,MISS Davis Free Throw 2 of 2,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201223,21600385,4,5:25,nan,Young REBOUND (Off:1 Def:6),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201224,21600385,4,5:10,nan,MISS George 2' Layup,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201225,21600385,4,5:09,nan,Turner REBOUND (Off:1 Def:4),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201226,21600385,4,5:09,nan,Turner 2' Tip Layup Shot (26 PTS),88 - 85,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+201227,21600385,4,5:00,Davis Lost Ball Turnover (P4.T16),George STEAL (2 STL),nan,203076,Anthony Davis,NOP,202331,Paul George,IND,0,nan,nan,Turnover ,Lost Ball
+201228,21600385,4,4:52,nan,George 2' Layup (15 PTS) (Miles 1 AST),90 - 85,202331,Paul George,IND,101139,CJ Miles,IND,0,nan,nan,Made Shot ,nan
+201229,21600385,4,4:39,MISS Moore  3PT Jump Shot,Teague BLOCK (1 BLK),nan,202734,E'Twaun Moore,NOP,0,nan,nan,201952,Jeff Teague,IND,Missed Shot ,nan
+201230,21600385,4,4:39,Holiday REBOUND (Off:2 Def:3),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201231,21600385,4,4:38,Holiday 2' Layup (16 PTS),nan,90 - 87,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+201232,21600385,4,4:20,Jones BLOCK (2 BLK),MISS Teague 2' Layup,nan,201952,Jeff Teague,IND,0,nan,nan,203093,Terrence Jones,NOP,Missed Shot ,nan
+201233,21600385,4,4:19,Holiday REBOUND (Off:2 Def:4),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201234,21600385,4,4:11,MISS Davis 25' 3PT Jump Shot,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201235,21600385,4,4:09,nan,Miles REBOUND (Off:0 Def:5),nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201236,21600385,4,3:56,Jones STEAL (1 STL),Young Bad Pass Turnover (P3.T10),nan,201152,Thaddeus Young,IND,203093,Terrence Jones,NOP,0,nan,nan,Turnover ,Bad Pass
+201237,21600385,4,3:51,MISS Jones 2' Layup,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201238,21600385,4,3:51,nan,Pacers Rebound,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201239,21600385,4,3:51,nan,Pacers Timeout: Regular (Reg.4 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201240,21600385,4,3:51,SUB: S. Hill FOR Moore,nan,nan,202734,E'Twaun Moore,NOP,203524,Solomon Hill,NOP,0,nan,nan,Substitution ,nan
+201241,21600385,4,3:34,nan,MISS George 16' Jump Shot,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201242,21600385,4,3:34,Holiday REBOUND (Off:2 Def:5),nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201243,21600385,4,3:21,Hield 27' 3PT Jump Shot (21 PTS) (Holiday 13 AST),nan,90 - 90,1627741,Buddy Hield,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+201244,21600385,4,3:03,Davis BLOCK (4 BLK),MISS Teague 25' 3PT Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+201245,21600385,4,3:01,Jones REBOUND (Off:1 Def:8),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201246,21600385,4,3:01,Davis  Dunk (27 PTS) (Jones 1 AST),nan,90 - 92,203076,Anthony Davis,NOP,203093,Terrence Jones,NOP,0,nan,nan,Made Shot ,nan
+201247,21600385,4,3:01,nan,Teague S.FOUL (P2.T4) (T.Maddox),nan,201952,Jeff Teague,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+201248,21600385,4,3:01,Davis Free Throw 1 of 1 (28 PTS),nan,90 - 93,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+201249,21600385,4,2:44,nan,MISS Miles 25' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201250,21600385,4,2:43,Hield REBOUND (Off:2 Def:2),nan,nan,1627741,Buddy Hield,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201251,21600385,4,2:36,nan,Turner S.FOUL (P4.PN) (M.Smith),nan,1626167,Myles Turner,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Shooting
+201252,21600385,4,2:36,Davis Free Throw 1 of 2 (29 PTS),nan,90 - 94,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201253,21600385,4,2:36,Davis Free Throw 2 of 2 (30 PTS),nan,90 - 95,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201254,21600385,4,2:36,nan,Pacers Timeout: Regular (Reg.5 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201255,21600385,4,2:23,nan,MISS Turner 6' Jump Shot,nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201256,21600385,4,2:23,nan,George REBOUND (Off:1 Def:4),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201257,21600385,4,2:23,S. Hill P.FOUL (P2.T2) (T.Maddox),nan,nan,203524,Solomon Hill,NOP,202331,Paul George,IND,0,nan,nan,Foul ,Personal
+201258,21600385,4,2:17,nan,George Offensive Charge Foul (P4.PN) (M.Smith),nan,202331,Paul George,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Offensive Charge
+201259,21600385,4,2:17,nan,George Foul Turnover (P5.T11),nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+201260,21600385,4,2:17,nan,SUB: Robinson III FOR Miles,nan,101139,CJ Miles,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+201261,21600385,4,2:05,MISS Holiday 10' Jump Shot,nan,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201262,21600385,4,2:05,nan,Turner REBOUND (Off:1 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201263,21600385,4,1:51,nan,MISS Robinson III 24' 3PT Jump Shot,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201264,21600385,4,1:47,nan,Turner REBOUND (Off:2 Def:5),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201265,21600385,4,1:42,nan,MISS Teague 25' 3PT Jump Shot,nan,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201266,21600385,4,1:42,S. Hill REBOUND (Off:1 Def:1),nan,nan,203524,Solomon Hill,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201267,21600385,4,1:29,Davis 25' 3PT Jump Shot (33 PTS) (Holiday 14 AST),nan,90 - 98,203076,Anthony Davis,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Made Shot ,nan
+201268,21600385,4,1:17,Davis BLOCK (5 BLK),MISS Young 8' Jump Shot,nan,201152,Thaddeus Young,IND,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+201269,21600385,4,1:12,Davis REBOUND (Off:1 Def:14),nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201270,21600385,4,0:54,MISS Davis 3' Driving Layup,nan,nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201271,21600385,4,0:54,Jones REBOUND (Off:2 Def:8),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201272,21600385,4,0:54,MISS Jones 2' Putback Layup,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201273,21600385,4,0:50,nan,Young REBOUND (Off:1 Def:7),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201274,21600385,4,0:46,nan,Young Out of Bounds Lost Ball Turnover (P4.T12),nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+201275,21600385,4,0:46,nan,nan,nan,581,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+201276,21600385,4,0:46,PELICANS Timeout: Regular (Full 5 Short 0),nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201277,21600385,4,0:45,nan,Turner Personal Take Foul (P5.PN) (T.Maddox),nan,1626167,Myles Turner,IND,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal Take
+201278,21600385,4,0:45,Davis Free Throw 1 of 2 (34 PTS),nan,90 - 99,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201279,21600385,4,0:45,SUB: Moore FOR Hield,nan,nan,1627741,Buddy Hield,NOP,202734,E'Twaun Moore,NOP,0,nan,nan,Substitution ,nan
+201280,21600385,4,0:45,Davis Free Throw 2 of 2 (35 PTS),nan,90 - 100,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201281,21600385,4,0:45,nan,Pacers Timeout: Regular (Reg.6 Short 0),nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+201282,21600385,4,0:45,nan,Pacers Violation: Delay of game Violation,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+201283,21600385,4,0:45,nan,SUB: Miles FOR Robinson III,nan,203922,Glenn Robinson III,IND,101139,CJ Miles,IND,0,nan,nan,Substitution ,nan
+201284,21600385,4,0:36,nan,Teague 4' Driving Floating Jump Shot (21 PTS) (George 4 AST),92 - 100,201952,Jeff Teague,IND,202331,Paul George,IND,0,nan,nan,Made Shot ,nan
+201285,21600385,4,0:31,nan,George Personal Take Foul (P5.PN) (T.Maddox),nan,202331,Paul George,IND,203093,Terrence Jones,NOP,0,nan,nan,Foul ,Personal Take
+201286,21600385,4,0:31,Jones Free Throw 1 of 2 (10 PTS),nan,92 - 101,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201287,21600385,4,0:31,MISS Jones Free Throw 2 of 2,nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201288,21600385,4,0:30,nan,Turner REBOUND (Off:2 Def:6),nan,1626167,Myles Turner,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201289,21600385,4,0:26,nan,George 27' 3PT Jump Shot (18 PTS) (Teague 10 AST),95 - 101,202331,Paul George,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+201290,21600385,4,0:22,nan,Teague Personal Take Foul (P3.PN) (M.Smith),nan,201952,Jeff Teague,IND,202734,E'Twaun Moore,NOP,0,nan,nan,Foul ,Personal Take
+201291,21600385,4,0:22,MISS Moore Free Throw 1 of 2,nan,nan,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+201292,21600385,4,0:22,PELICANS Rebound,nan,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+201293,21600385,4,0:22,Moore Free Throw 2 of 2 (1 PTS),nan,95 - 102,202734,E'Twaun Moore,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+201294,21600385,4,0:11,nan,MISS Miles 24' 3PT Jump Shot,nan,101139,CJ Miles,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+201295,21600385,4,0:10,Jones REBOUND (Off:2 Def:9),nan,nan,203093,Terrence Jones,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+201296,21600385,4,0:00,nan,nan,95 - 102,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

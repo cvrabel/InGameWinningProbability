@@ -1,0 +1,157 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+165825,21600103,4,12:00,nan,nan,82 - 89,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+165826,21600103,4,11:51,nan,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P2.T14),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+165827,21600103,4,11:38,nan,Bledsoe P.FOUL (P1.T1) (R.Mott),nan,202339,Eric Bledsoe,PHX,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+165828,21600103,4,11:35,nan,Bledsoe S.FOUL (P2.T2) (S.Anderson),nan,202339,Eric Bledsoe,PHX,203468,CJ McCollum,POR,0,nan,nan,Foul ,Shooting
+165829,21600103,4,11:35,McCollum Free Throw 1 of 2 (27 PTS),nan,82 - 90,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165830,21600103,4,11:35,McCollum Free Throw 2 of 2 (28 PTS),nan,82 - 91,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165831,21600103,4,11:22,nan,Chriss OFF.Foul (P3) (R.Mott),nan,1627737,Marquese Chriss,PHX,202323,Evan Turner,POR,0,nan,nan,Foul ,Offensive
+165832,21600103,4,11:22,nan,Chriss Foul Turnover (P1.T15),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Turnover ,Foul
+165833,21600103,4,11:10,MISS McCollum 2' Driving Layup,Chriss BLOCK (1 BLK),nan,203468,CJ McCollum,POR,0,nan,nan,1627737,Marquese Chriss,PHX,Missed Shot ,nan
+165834,21600103,4,11:10,nan,Dudley REBOUND (Off:0 Def:3),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165835,21600103,4,11:10,nan,Dudley Out of Bounds - Bad Pass Turnover Turnover (P2.T16),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+165836,21600103,4,10:58,MISS Crabbe  3PT Jump Shot,nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165837,21600103,4,10:57,nan,Bledsoe REBOUND (Off:0 Def:2),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165838,21600103,4,10:46,nan,MISS Booker 6' Pullup Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165839,21600103,4,10:45,Vonleh REBOUND (Off:1 Def:5),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165840,21600103,4,10:36,MISS Turner 11' Turnaround Fadeaway Shot,nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165841,21600103,4,10:36,nan,Dudley REBOUND (Off:0 Def:4),nan,201162,Jared Dudley,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165842,21600103,4,10:34,McCollum Personal Block Foul (P1.T1) (J.Tiven),nan,nan,203468,CJ McCollum,POR,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal Block
+165843,21600103,4,10:23,nan,MISS Warren 15' Pullup Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165844,21600103,4,10:22,Turner REBOUND (Off:0 Def:2),nan,nan,202323,Evan Turner,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165845,21600103,4,10:12,MISS Davis 6' Jump Shot,nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165846,21600103,4,10:11,Vonleh REBOUND (Off:2 Def:5),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165847,21600103,4,10:09,MISS Vonleh 3' Layup,nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165848,21600103,4,10:08,Vonleh REBOUND (Off:3 Def:5),nan,nan,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165849,21600103,4,10:08,Vonleh  Layup (5 PTS),nan,82 - 93,203943,Noah Vonleh,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165850,21600103,4,9:52,Crabbe P.FOUL (P4.T2) (J.Tiven),nan,nan,203459,Allen Crabbe,POR,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Personal
+165851,21600103,4,9:52,nan,SUB: Tucker FOR Dudley,nan,201162,Jared Dudley,PHX,200782,PJ Tucker,PHX,0,nan,nan,Substitution ,nan
+165852,21600103,4,9:47,nan,MISS Booker 25' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165853,21600103,4,9:46,nan,Tucker REBOUND (Off:4 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165854,21600103,4,9:41,nan,Tucker 4' Hook Shot (9 PTS),84 - 93,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165855,21600103,4,9:38,Davis OFF.Foul (P4) (S.Anderson),nan,nan,202334,Ed Davis,POR,203933,TJ Warren,PHX,0,nan,nan,Foul ,Offensive
+165856,21600103,4,9:38,Davis Foul Turnover (P3.T18),nan,nan,202334,Ed Davis,POR,0,nan,nan,0,nan,nan,Turnover ,Foul
+165857,21600103,4,9:31,nan,Booker 2' Driving Layup (15 PTS),86 - 93,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165858,21600103,4,9:31,Davis S.FOUL (P5.T3) (S.Anderson),nan,nan,202334,Ed Davis,POR,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+165859,21600103,4,9:31,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165860,21600103,4,9:31,SUB: Lillard FOR McCollum,nan,nan,203468,CJ McCollum,POR,203081,Damian Lillard,POR,0,nan,nan,Substitution ,nan
+165861,21600103,4,9:31,SUB: Plumlee FOR Vonleh,nan,nan,203943,Noah Vonleh,POR,203486,Mason Plumlee,POR,0,nan,nan,Substitution ,nan
+165862,21600103,4,9:31,SUB: Harkless FOR Davis,nan,nan,202334,Ed Davis,POR,203090,Maurice Harkless,POR,0,nan,nan,Substitution ,nan
+165863,21600103,4,9:31,nan,Booker Free Throw 1 of 1 (16 PTS),87 - 93,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+165864,21600103,4,9:13,MISS Lillard 9' Driving Floating Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165865,21600103,4,9:12,nan,Chriss REBOUND (Off:0 Def:1),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165866,21600103,4,9:00,nan,Warren 14' Driving Floating Jump Shot (8 PTS) (Bledsoe 4 AST),89 - 93,203933,TJ Warren,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Made Shot ,nan
+165867,21600103,4,8:43,nan,Tucker P.FOUL (P2.T3) (S.Anderson),nan,200782,PJ Tucker,PHX,202323,Evan Turner,POR,0,nan,nan,Foul ,Personal
+165868,21600103,4,8:37,Lillard Lost Ball Turnover (P3.T19),Tucker STEAL (4 STL),nan,203081,Damian Lillard,POR,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Lost Ball
+165869,21600103,4,8:33,nan,Warren  Running Dunk (10 PTS) (Tucker 4 AST),91 - 93,203933,TJ Warren,PHX,200782,PJ Tucker,PHX,0,nan,nan,Made Shot ,nan
+165870,21600103,4,8:05,nan,Chriss S.FOUL (P4.T4) (R.Mott),nan,1627737,Marquese Chriss,PHX,203486,Mason Plumlee,POR,0,nan,nan,Foul ,Shooting
+165871,21600103,4,8:05,MISS Plumlee Free Throw 1 of 2,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165872,21600103,4,8:05,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+165873,21600103,4,8:05,nan,Bledsoe Violation:Lane (R.Mott),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Violation ,Lane
+165874,21600103,4,8:05,MISS Plumlee Free Throw 2 of 2,nan,nan,203486,Mason Plumlee,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165875,21600103,4,8:04,nan,Chriss REBOUND (Off:0 Def:2),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165876,21600103,4,7:54,Crabbe S.FOUL (P5.T4) (S.Anderson),nan,nan,203459,Allen Crabbe,POR,1626164,Devin Booker,PHX,0,nan,nan,Foul ,Shooting
+165877,21600103,4,7:54,nan,Booker Free Throw 1 of 2 (17 PTS),92 - 93,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165878,21600103,4,7:54,SUB: McCollum FOR Turner,nan,nan,202323,Evan Turner,POR,203468,CJ McCollum,POR,0,nan,nan,Substitution ,nan
+165879,21600103,4,7:54,nan,Booker Free Throw 2 of 2 (18 PTS),93 - 93,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165880,21600103,4,7:42,Lillard 28' 3PT Pullup Jump Shot (19 PTS),nan,93 - 96,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165881,21600103,4,7:24,nan,MISS Booker 6' Driving Floating Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165882,21600103,4,7:20,nan,Chriss REBOUND (Off:1 Def:2),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165883,21600103,4,7:20,nan,Chriss REBOUND (Off:2 Def:2),nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165884,21600103,4,7:20,nan,MISS Chriss 1' Tip Layup Shot,nan,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165885,21600103,4,7:20,nan,Chriss 2' Putback Layup (7 PTS),95 - 96,1627737,Marquese Chriss,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165886,21600103,4,7:11,nan,Booker P.FOUL (P3.PN) (S.Anderson),nan,1626164,Devin Booker,PHX,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+165887,21600103,4,7:11,Lillard Free Throw 1 of 2 (20 PTS),nan,95 - 97,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165888,21600103,4,7:11,Lillard Free Throw 2 of 2 (21 PTS),nan,95 - 98,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165889,21600103,4,6:53,nan,MISS Bledsoe 25' 3PT Pullup Jump Shot,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165890,21600103,4,6:51,Harkless REBOUND (Off:0 Def:5),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165891,21600103,4,6:45,Lillard 25' 3PT Pullup Jump Shot (24 PTS),nan,95 - 101,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165892,21600103,4,6:44,nan,Suns Timeout: Regular (Reg.5 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165893,21600103,4,6:30,nan,Booker 12' Pullup Jump Shot (20 PTS),97 - 101,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165894,21600103,4,6:17,MISS Lillard 1' Driving Layup,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165895,21600103,4,6:17,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165896,21600103,4,6:12,McCollum 1' Driving Layup (30 PTS),nan,97 - 103,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165897,21600103,4,5:53,Plumlee BLOCK (1 BLK),MISS Chriss  Dunk,nan,1627737,Marquese Chriss,PHX,0,nan,nan,203486,Mason Plumlee,POR,Missed Shot ,nan
+165898,21600103,4,5:52,Lillard REBOUND (Off:1 Def:2),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165899,21600103,4,5:40,Lillard 18' Fadeaway Jumper (26 PTS),nan,97 - 105,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165900,21600103,4,5:19,nan,Bledsoe 2' Driving Layup (16 PTS),99 - 105,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165901,21600103,4,4:58,Harkless 1' Driving Reverse Layup (18 PTS),nan,99 - 107,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165902,21600103,4,4:41,nan,MISS Warren 11' Floating Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165903,21600103,4,4:41,nan,Warren REBOUND (Off:2 Def:0),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165904,21600103,4,4:41,Lillard P.FOUL (P3.PN) (J.Tiven),nan,nan,203081,Damian Lillard,POR,203933,TJ Warren,PHX,0,nan,nan,Foul ,Personal
+165905,21600103,4,4:41,nan,MISS Warren Free Throw 1 of 2,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165906,21600103,4,4:41,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+165907,21600103,4,4:41,nan,SUB: Bender FOR Chriss,nan,1627737,Marquese Chriss,PHX,1627733,Dragan Bender,PHX,0,nan,nan,Substitution ,nan
+165908,21600103,4,4:41,nan,MISS Warren Free Throw 2 of 2,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165909,21600103,4,4:40,Crabbe REBOUND (Off:0 Def:1),nan,nan,203459,Allen Crabbe,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165910,21600103,4,4:28,Lillard 2' Driving Layup (28 PTS),nan,99 - 109,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165911,21600103,4,4:20,nan,MISS Booker 3' Layup,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165912,21600103,4,4:19,nan,Bender REBOUND (Off:1 Def:1),nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165913,21600103,4,4:16,nan,MISS Bender 1' Hook Shot,nan,1627733,Dragan Bender,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165914,21600103,4,4:13,nan,Warren REBOUND (Off:3 Def:0),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165915,21600103,4,4:13,nan,Warren 2' Putback Layup (12 PTS),101 - 109,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165916,21600103,4,3:58,Lillard Bad Pass Turnover (P4.T20),Tucker STEAL (5 STL),nan,203081,Damian Lillard,POR,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+165917,21600103,4,3:52,nan,Bledsoe 1' Running Layup (18 PTS),103 - 109,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165918,21600103,4,3:35,nan,Tucker P.FOUL (P3.PN) (S.Anderson),nan,200782,PJ Tucker,PHX,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal
+165919,21600103,4,3:35,McCollum Free Throw 1 of 2 (31 PTS),nan,103 - 110,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165920,21600103,4,3:35,McCollum Free Throw 2 of 2 (32 PTS),nan,103 - 111,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165921,21600103,4,3:19,nan,Bledsoe 4' Pullup Bank Shot (20 PTS),105 - 111,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165922,21600103,4,3:04,MISS McCollum 3' Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165923,21600103,4,3:04,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165924,21600103,4,2:53,MISS Harkless 25' 3PT Jump Shot,nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165925,21600103,4,2:53,nan,Bledsoe REBOUND (Off:0 Def:3),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165926,21600103,4,2:31,nan,Bledsoe 1' Driving Finger Roll Layup (22 PTS),107 - 111,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165927,21600103,4,2:14,nan,Bledsoe P.FOUL (P3.PN) (R.Mott),nan,202339,Eric Bledsoe,PHX,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+165928,21600103,4,2:14,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+165929,21600103,4,2:14,Lillard Free Throw 1 of 2 (29 PTS),nan,107 - 112,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165930,21600103,4,2:14,Lillard Free Throw 2 of 2 (30 PTS),nan,107 - 113,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165931,21600103,4,2:02,nan,MISS Bledsoe 2' Driving Layup,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165932,21600103,4,2:02,nan,Tucker REBOUND (Off:5 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165933,21600103,4,2:02,Lillard S.FOUL (P4.PN) (S.Anderson),nan,nan,203081,Damian Lillard,POR,200782,PJ Tucker,PHX,0,nan,nan,Foul ,Shooting
+165934,21600103,4,2:02,nan,Tucker Free Throw 1 of 2 (10 PTS),108 - 113,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165935,21600103,4,2:02,nan,Tucker Free Throw 2 of 2 (11 PTS),109 - 113,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165936,21600103,4,1:41,MISS McCollum 22' Pullup Jump Shot,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165937,21600103,4,1:41,nan,Bledsoe REBOUND (Off:0 Def:4),nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165938,21600103,4,1:31,nan,Bledsoe 24' 3PT Pullup Jump Shot (25 PTS),112 - 113,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165939,21600103,4,1:09,MISS Lillard 28' 3PT Jump Shot,nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165940,21600103,4,1:08,Harkless REBOUND (Off:1 Def:5),nan,nan,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165941,21600103,4,1:07,Harkless 3' Layup (20 PTS),nan,112 - 115,203090,Maurice Harkless,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165942,21600103,4,0:57,Harkless S.FOUL (P2.PN) (J.Tiven),nan,nan,203090,Maurice Harkless,POR,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+165943,21600103,4,0:57,nan,nan,nan,524,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+165944,21600103,4,0:57,nan,Bledsoe Free Throw 1 of 3 (26 PTS),113 - 115,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+165945,21600103,4,0:57,nan,Bledsoe Free Throw 2 of 3 (27 PTS),114 - 115,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+165946,21600103,4,0:57,nan,MISS Bledsoe Free Throw 3 of 3,nan,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+165947,21600103,4,0:56,Lillard REBOUND (Off:1 Def:3),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165948,21600103,4,0:42,Lillard 1' Driving Layup (32 PTS),nan,114 - 117,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Made Shot ,nan
+165949,21600103,4,0:32,Harkless S.FOUL (P3.PN) (S.Anderson),nan,nan,203090,Maurice Harkless,POR,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Shooting
+165950,21600103,4,0:32,nan,Bledsoe Free Throw 1 of 2 (28 PTS),115 - 117,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165951,21600103,4,0:32,nan,Bledsoe Free Throw 2 of 2 (29 PTS),116 - 117,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165952,21600103,4,0:15,MISS Lillard 27' 3PT Jump Shot,Bender BLOCK (1 BLK),nan,203081,Damian Lillard,POR,0,nan,nan,1627733,Dragan Bender,PHX,Missed Shot ,nan
+165953,21600103,4,0:15,TRAIL BLAZERS Rebound,nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165954,21600103,4,0:15,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612757,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165955,21600103,4,0:13,nan,Tucker S.FOUL (P4.PN) (R.Mott),nan,200782,PJ Tucker,PHX,203081,Damian Lillard,POR,0,nan,nan,Foul ,Shooting
+165956,21600103,4,0:13,Lillard Free Throw 1 of 2 (33 PTS),nan,116 - 118,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165957,21600103,4,0:13,nan,SUB: Chriss FOR Booker,nan,1626164,Devin Booker,PHX,1627737,Marquese Chriss,PHX,0,nan,nan,Substitution ,nan
+165958,21600103,4,0:13,nan,SUB: Len FOR Bledsoe,nan,202339,Eric Bledsoe,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+165959,21600103,4,0:13,SUB: Turner FOR Crabbe,nan,nan,203459,Allen Crabbe,POR,202323,Evan Turner,POR,0,nan,nan,Substitution ,nan
+165960,21600103,4,0:13,Lillard Free Throw 2 of 2 (34 PTS),nan,116 - 119,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165961,21600103,4,0:13,nan,Suns Timeout: Regular (Reg.6 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165962,21600103,4,0:13,nan,SUB: Bledsoe FOR Chriss,nan,1627737,Marquese Chriss,PHX,202339,Eric Bledsoe,PHX,0,nan,nan,Substitution ,nan
+165963,21600103,4,0:13,nan,SUB: Booker FOR Len,nan,203458,Alex Len,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+165964,21600103,4,0:11,McCollum P.FOUL (P2.PN) (J.Tiven),nan,nan,203468,CJ McCollum,POR,202339,Eric Bledsoe,PHX,0,nan,nan,Foul ,Personal
+165965,21600103,4,0:11,nan,Bledsoe Free Throw 1 of 2 (30 PTS),117 - 119,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165966,21600103,4,0:11,nan,Bledsoe Free Throw 2 of 2 (31 PTS),118 - 119,202339,Eric Bledsoe,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165967,21600103,4,0:10,nan,Warren Personal Take Foul (P2.PN) (R.Mott),nan,203933,TJ Warren,PHX,203468,CJ McCollum,POR,0,nan,nan,Foul ,Personal Take
+165968,21600103,4,0:10,McCollum Free Throw 1 of 2 (33 PTS),nan,118 - 120,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165969,21600103,4,0:10,MISS McCollum Free Throw 2 of 2,nan,nan,203468,CJ McCollum,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165970,21600103,4,0:09,Lillard REBOUND (Off:2 Def:3),nan,nan,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165971,21600103,4,0:08,nan,Tucker P.FOUL (P5.PN) (R.Mott),nan,200782,PJ Tucker,PHX,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal
+165972,21600103,4,0:08,Lillard Free Throw 1 of 2 (35 PTS),nan,118 - 121,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165973,21600103,4,0:08,Lillard Free Throw 2 of 2 (36 PTS),nan,118 - 122,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165974,21600103,4,0:04,nan,Booker 26' 3PT Running Pull-Up Jump Shot (23 PTS),121 - 122,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+165975,21600103,4,0:03,nan,Warren Personal Take Foul (P3.PN) (J.Tiven),nan,203933,TJ Warren,PHX,203081,Damian Lillard,POR,0,nan,nan,Foul ,Personal Take
+165976,21600103,4,0:03,Lillard Free Throw 1 of 2 (37 PTS),nan,121 - 123,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165977,21600103,4,0:03,Lillard Free Throw 2 of 2 (38 PTS),nan,121 - 124,203081,Damian Lillard,POR,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165978,21600103,4,0:00,nan,MISS Booker 34' 3PT Jump Shot,nan,1626164,Devin Booker,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165979,21600103,4,0:00,nan,Suns Rebound,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165980,21600103,4,0:00,nan,nan,121 - 124,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,131 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+108647,21500867,4,12:00,nan,nan,98 - 83,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+108648,21500867,4,11:39,nan,MISS W. Johnson 7' Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108649,21500867,4,11:37,nan,Aldrich REBOUND (Off:1 Def:1),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108650,21500867,4,11:37,nan,MISS Aldrich 2' Tip Layup Shot,nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108651,21500867,4,11:37,Cauley-Stein REBOUND (Off:1 Def:1),nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108652,21500867,4,11:22,nan,W. Johnson S.FOUL (P4.T1) (S.Wall),nan,202325,Wesley Johnson,LAC,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Foul ,Shooting
+108653,21500867,4,11:22,Cauley-Stein Free Throw 1 of 2 (3 PTS),nan,98 - 84,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108654,21500867,4,11:22,Cauley-Stein Free Throw 2 of 2 (4 PTS),nan,98 - 85,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108655,21500867,4,11:10,nan,MISS Crawford 20' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108656,21500867,4,11:10,Cauley-Stein REBOUND (Off:1 Def:2),nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108657,21500867,4,11:03,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,nan,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+108658,21500867,4,10:50,nan,MISS W. Johnson 25' 3PT Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108659,21500867,4,10:50,Casspi REBOUND (Off:1 Def:3),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108660,21500867,4,10:39,nan,Prigioni P.FOUL (P1.T2) (K.Cutler),nan,203143,Pablo Prigioni,LAC,201956,Omri Casspi,SAC,0,nan,nan,Foul ,Personal
+108661,21500867,4,10:30,Casspi 4' Driving Layup (4 PTS),nan,98 - 87,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108662,21500867,4,10:12,nan,MISS Crawford 22' Pullup Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108663,21500867,4,10:11,nan,Prigioni REBOUND (Off:1 Def:1),nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108664,21500867,4,10:00,Cauley-Stein S.FOUL (P3.T1) (K.Cutler),nan,nan,1626161,Willie Cauley-Stein,SAC,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+108665,21500867,4,10:00,nan,Crawford Free Throw 1 of 2 (13 PTS),99 - 87,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108666,21500867,4,10:00,nan,MISS Crawford Free Throw 2 of 2,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108667,21500867,4,9:59,Cauley-Stein REBOUND (Off:1 Def:3),nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108668,21500867,4,9:36,KINGS Turnover: Shot Clock (T#14),nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+108669,21500867,4,9:20,nan,Crawford 14' Floating Jump Shot (15 PTS),101 - 87,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108670,21500867,4,9:18,KINGS Timeout: Regular (Full 5 Short 0),nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+108671,21500867,4,9:18,SUB: Cousins FOR Koufos,nan,nan,201585,Kosta Koufos,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Substitution ,nan
+108672,21500867,4,9:15,Belinelli Bad Pass Turnover (P1.T15),Prigioni STEAL (1 STL),nan,201158,Marco Belinelli,SAC,203143,Pablo Prigioni,LAC,0,nan,nan,Turnover ,Bad Pass
+108673,21500867,4,9:10,nan,Crawford 3' Driving Layup (17 PTS) (Prigioni 1 AST),103 - 87,2037,Jamal Crawford,LAC,203143,Pablo Prigioni,LAC,0,nan,nan,Made Shot ,nan
+108674,21500867,4,8:55,nan,Aldrich P.FOUL (P5.T3) (K.Cutler),nan,202332,Cole Aldrich,LAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Personal
+108675,21500867,4,8:50,Casspi Bad Pass Turnover (P1.T16),W. Johnson STEAL (1 STL),nan,201956,Omri Casspi,SAC,202325,Wesley Johnson,LAC,0,nan,nan,Turnover ,Bad Pass
+108676,21500867,4,8:31,nan,MISS Crawford 26' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108677,21500867,4,8:29,nan,Aldrich REBOUND (Off:2 Def:1),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108678,21500867,4,8:20,nan,MISS Wilcox 25' 3PT Jump Shot,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108679,21500867,4,8:20,Casspi REBOUND (Off:1 Def:4),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108680,21500867,4,8:13,MISS Curry 7' Jump Shot,Wilcox BLOCK (1 BLK),nan,203552,Seth Curry,SAC,0,nan,nan,203912,CJ Wilcox,LAC,Missed Shot ,nan
+108681,21500867,4,8:11,Casspi REBOUND (Off:2 Def:4),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108682,21500867,4,8:11,MISS Casspi 4' Jump Shot,nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108683,21500867,4,8:11,nan,Aldrich REBOUND (Off:2 Def:2),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108684,21500867,4,8:11,Curry P.FOUL (P4.T2) (K.Cutler),nan,nan,203552,Seth Curry,SAC,202332,Cole Aldrich,LAC,0,nan,nan,Foul ,Personal
+108685,21500867,4,8:11,SUB: Gay FOR Casspi,nan,nan,201956,Omri Casspi,SAC,200752,Rudy Gay,SAC,0,nan,nan,Substitution ,nan
+108686,21500867,4,7:56,nan,MISS Wilcox 20' Jump Shot,nan,203912,CJ Wilcox,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108687,21500867,4,7:55,Cousins REBOUND (Off:5 Def:8),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108688,21500867,4,7:46,MISS Cousins 4' Hook Shot,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108689,21500867,4,7:45,nan,Aldrich REBOUND (Off:2 Def:3),nan,202332,Cole Aldrich,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108690,21500867,4,7:29,Cousins BLOCK (1 BLK),MISS Crawford 5' Driving Layup,nan,2037,Jamal Crawford,LAC,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+108691,21500867,4,7:29,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108692,21500867,4,7:29,SUB: Collison FOR Belinelli,nan,nan,201158,Marco Belinelli,SAC,201954,Darren Collison,SAC,0,nan,nan,Substitution ,nan
+108693,21500867,4,7:22,nan,MISS Prigioni 39' 3PT Jump Shot,nan,203143,Pablo Prigioni,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108694,21500867,4,7:22,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108695,21500867,4,7:13,nan,Prigioni S.FOUL (P2.T4) (S.Wall),nan,203143,Pablo Prigioni,LAC,201954,Darren Collison,SAC,0,nan,nan,Foul ,Shooting
+108696,21500867,4,7:13,MISS Collison Free Throw 1 of 2,nan,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108697,21500867,4,7:13,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+108698,21500867,4,7:13,nan,SUB: Paul FOR Wilcox,nan,203912,CJ Wilcox,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+108699,21500867,4,7:13,nan,SUB: Redick FOR Prigioni,nan,203143,Pablo Prigioni,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+108700,21500867,4,7:13,Collison Free Throw 2 of 2 (12 PTS),nan,103 - 88,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108701,21500867,4,6:58,nan,MISS Crawford 26' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108702,21500867,4,6:57,Cousins REBOUND (Off:5 Def:9),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108703,21500867,4,6:49,MISS Cousins 27' 3PT Jump Shot,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108704,21500867,4,6:48,Cauley-Stein REBOUND (Off:2 Def:3),nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108705,21500867,4,6:46,MISS Cauley-Stein 2' Layup,nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108706,21500867,4,6:45,nan,Paul REBOUND (Off:1 Def:5),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108707,21500867,4,6:40,nan,Crawford 3' Layup (19 PTS) (Paul 12 AST),105 - 88,2037,Jamal Crawford,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+108708,21500867,4,6:28,MISS Collison 15' Jump Shot,nan,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108709,21500867,4,6:28,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108710,21500867,4,6:28,nan,Paul L.B.FOUL (P1.PN) (R.Mott),nan,101108,Chris Paul,LAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Loose Ball
+108711,21500867,4,6:28,MISS Cousins Free Throw 1 of 2,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108712,21500867,4,6:28,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+108713,21500867,4,6:28,Cousins Free Throw 2 of 2 (25 PTS),nan,105 - 89,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108714,21500867,4,6:11,Cousins T.FOUL (P3.T2) (R.Mott),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Foul ,Technical
+108715,21500867,4,6:11,nan,Paul Free Throw Technical (37 PTS),106 - 89,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+108716,21500867,4,6:11,nan,SUB: Jordan FOR Aldrich,nan,202332,Cole Aldrich,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+108717,21500867,4,5:56,nan,MISS Crawford 27' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108718,21500867,4,5:55,nan,Jordan REBOUND (Off:4 Def:7),nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108719,21500867,4,5:51,nan,MISS Crawford 26' 3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108720,21500867,4,5:50,nan,W. Johnson REBOUND (Off:2 Def:3),nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108721,21500867,4,5:47,nan,MISS W. Johnson 6' Jump Shot,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108722,21500867,4,5:46,Cousins REBOUND (Off:5 Def:10),nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108723,21500867,4,5:39,MISS Gay 26' 3PT Jump Shot,nan,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108724,21500867,4,5:37,nan,Crawford REBOUND (Off:0 Def:1),nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108725,21500867,4,5:22,nan,Paul 27' 3PT Jump Shot (40 PTS),109 - 89,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108726,21500867,4,5:04,MISS Gay 4' Jump Shot,W. Johnson BLOCK (1 BLK),nan,200752,Rudy Gay,SAC,0,nan,nan,202325,Wesley Johnson,LAC,Missed Shot ,nan
+108727,21500867,4,5:02,Cauley-Stein REBOUND (Off:3 Def:3),nan,nan,1626161,Willie Cauley-Stein,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108728,21500867,4,4:55,Collison 26' 3PT Jump Shot (15 PTS) (Cauley-Stein 1 AST),nan,109 - 92,201954,Darren Collison,SAC,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Made Shot ,nan
+108729,21500867,4,4:38,nan,Redick 26' 3PT Turnaround Jump Shot (16 PTS) (Paul 13 AST),112 - 92,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+108730,21500867,4,4:24,MISS Gay 9' Jump Shot,nan,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108731,21500867,4,4:24,nan,Paul REBOUND (Off:1 Def:6),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108732,21500867,4,4:18,Gay P.FOUL (P2.T3) (R.Mott),nan,nan,200752,Rudy Gay,SAC,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal
+108733,21500867,4,4:18,SUB: Casspi FOR Cauley-Stein,nan,nan,1626161,Willie Cauley-Stein,SAC,201956,Omri Casspi,SAC,0,nan,nan,Substitution ,nan
+108734,21500867,4,4:18,nan,SUB: Green FOR W. Johnson,nan,202325,Wesley Johnson,LAC,201145,Jeff Green,LAC,0,nan,nan,Substitution ,nan
+108735,21500867,4,4:08,Cousins STEAL (1 STL),Paul Bad Pass Turnover (P1.T7),nan,101108,Chris Paul,LAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Turnover ,Bad Pass
+108736,21500867,4,3:58,Gay 26' 3PT Jump Shot (20 PTS),nan,112 - 95,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108737,21500867,4,3:27,nan,MISS Crawford 18' Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108738,21500867,4,3:26,Casspi REBOUND (Off:2 Def:5),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108739,21500867,4,3:20,nan,Jordan Shooting Block Foul (P5.PN) (S.Wall),nan,201599,DeAndre Jordan,LAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Foul ,Shooting Block
+108740,21500867,4,3:20,MISS Cousins Free Throw 1 of 2,nan,nan,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108741,21500867,4,3:20,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+108742,21500867,4,3:20,Cousins Free Throw 2 of 2 (26 PTS),nan,112 - 96,202326,DeMarcus Cousins,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108743,21500867,4,3:07,Gay S.FOUL (P3.T4) (R.Mott),nan,nan,200752,Rudy Gay,SAC,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+108744,21500867,4,3:07,nan,Crawford Free Throw 1 of 2 (20 PTS),113 - 96,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+108745,21500867,4,3:07,nan,Crawford Free Throw 2 of 2 (21 PTS),114 - 96,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+108746,21500867,4,2:46,MISS Gay 18' Jump Shot,nan,nan,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108747,21500867,4,2:44,nan,Paul REBOUND (Off:1 Def:7),nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108748,21500867,4,2:39,Cousins STEAL (2 STL),Paul Bad Pass Turnover (P2.T8),nan,101108,Chris Paul,LAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Turnover ,Bad Pass
+108749,21500867,4,2:36,nan,Clippers Timeout: Regular (Reg.4 Short 0),nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+108750,21500867,4,2:27,MISS Collison 11' Driving Floating Jump Shot,nan,nan,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108751,21500867,4,2:26,Casspi REBOUND (Off:3 Def:5),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108752,21500867,4,2:21,Casspi 4' Layup (6 PTS),nan,114 - 98,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108753,21500867,4,2:04,Cousins BLOCK (2 BLK),MISS Jordan 7' Jump Shot,nan,201599,DeAndre Jordan,LAC,0,nan,nan,202326,DeMarcus Cousins,SAC,Missed Shot ,nan
+108754,21500867,4,2:04,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108755,21500867,4,1:51,Gay  Cutting Dunk Shot (22 PTS) (Cousins 9 AST),nan,114 - 100,200752,Rudy Gay,SAC,202326,DeMarcus Cousins,SAC,0,nan,nan,Made Shot ,nan
+108756,21500867,4,1:51,nan,Green S.FOUL (P5.PN) (S.Wall),nan,201145,Jeff Green,LAC,200752,Rudy Gay,SAC,0,nan,nan,Foul ,Shooting
+108757,21500867,4,1:51,Gay Free Throw 1 of 1 (23 PTS),nan,114 - 101,200752,Rudy Gay,SAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+108758,21500867,4,1:51,Casspi FLAGRANT.FOUL.TYPE1 (P1.PN) (K.Cutler),nan,nan,201956,Omri Casspi,SAC,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Flagrant Type 1
+108759,21500867,4,1:51,nan,nan,nan,558,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+108760,21500867,4,1:51,nan,Jordan Free Throw Flagrant 1 of 2 (8 PTS),115 - 101,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 1 of 2
+108761,21500867,4,1:51,nan,MISS Jordan Free Throw Flagrant 2 of 2,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Flagrant 2 of 2
+108762,21500867,4,1:51,nan,Clippers Rebound,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+108763,21500867,4,1:51,SUB: Cauley-Stein FOR Gay,nan,nan,200752,Rudy Gay,SAC,1626161,Willie Cauley-Stein,SAC,0,nan,nan,Substitution ,nan
+108764,21500867,4,1:51,SUB: Koufos FOR Cousins,nan,nan,202326,DeMarcus Cousins,SAC,201585,Kosta Koufos,SAC,0,nan,nan,Substitution ,nan
+108765,21500867,4,1:31,nan,MISS Paul 17' Jump Shot,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108766,21500867,4,1:31,Koufos REBOUND (Off:2 Def:1),nan,nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108767,21500867,4,1:18,MISS Casspi 5' Finger Roll Layup,nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108768,21500867,4,1:18,KINGS Rebound,nan,nan,1610612758,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108769,21500867,4,1:12,Curry 26' 3PT Fadeaway Jumper (19 PTS),nan,115 - 104,203552,Seth Curry,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108770,21500867,4,0:49,nan,MISS Crawford  3PT Jump Shot,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+108771,21500867,4,0:47,Casspi REBOUND (Off:3 Def:6),nan,nan,201956,Omri Casspi,SAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+108772,21500867,4,0:37,Koufos Out of Bounds - Bad Pass Turnover Turnover (P1.T17),nan,nan,201585,Kosta Koufos,SAC,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+108773,21500867,4,0:37,nan,SUB: Wilcox FOR Paul,nan,101108,Chris Paul,LAC,203912,CJ Wilcox,LAC,0,nan,nan,Substitution ,nan
+108774,21500867,4,0:15,nan,Green 18' Pullup Jump Shot (22 PTS),117 - 104,201145,Jeff Green,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108775,21500867,4,0:04,Collison 26' 3PT Jump Shot (18 PTS),nan,117 - 107,201954,Darren Collison,SAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+108776,21500867,4,0:00,nan,nan,117 - 107,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

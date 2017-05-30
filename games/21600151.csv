@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+171916,21600151,4,12:00,nan,nan,73 - 70,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+171917,21600151,4,11:50,MISS Johnson 24' 3PT Jump Shot,nan,nan,2207,Joe Johnson,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171918,21600151,4,11:50,nan,Randolph REBOUND (Off:2 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171919,21600151,4,11:32,nan,Randolph 1' Reverse Layup (14 PTS),75 - 70,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+171920,21600151,4,11:06,JAZZ Turnover: Shot Clock (T#7),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+171921,21600151,4,10:50,nan,MISS Randolph 19' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171922,21600151,4,10:49,Ingles REBOUND (Off:0 Def:3),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171923,21600151,4,10:36,Ingles 24' 3PT Step Back Jump Shot (18 PTS),nan,75 - 73,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+171924,21600151,4,10:14,Gobert P.FOUL (P5.T1) (D.Crawford),nan,nan,203497,Rudy Gobert,UTA,1626150,Andrew Harrison,MEM,0,nan,nan,Foul ,Personal
+171925,21600151,4,10:14,SUB: Lyles FOR Gobert,nan,nan,203497,Rudy Gobert,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Substitution ,nan
+171926,21600151,4,10:05,nan,Harrison OFF.Foul (P4) (D.Crawford),nan,1626150,Andrew Harrison,MEM,203957,Dante Exum,UTA,0,nan,nan,Foul ,Offensive
+171927,21600151,4,10:05,nan,Harrison Foul Turnover (P1.T13),nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+171928,21600151,4,9:48,nan,Randolph S.FOUL (P3.T1) (K.Scott),nan,2216,Zach Randolph,MEM,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Shooting
+171929,21600151,4,9:48,Lyles Free Throw 1 of 2 (15 PTS),nan,75 - 74,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+171930,21600151,4,9:48,Lyles Free Throw 2 of 2 (16 PTS),nan,75 - 75,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+171931,21600151,4,9:33,nan,MISS Carter 3' Driving Layup,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171932,21600151,4,9:33,nan,Davis REBOUND (Off:1 Def:1),nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171933,21600151,4,9:33,nan,MISS Davis 2' Tip Layup Shot,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171934,21600151,4,9:33,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171935,21600151,4,9:33,Diaw L.B.FOUL (P2.T2) (K.Scott),nan,nan,2564,Boris Diaw,UTA,2216,Zach Randolph,MEM,0,nan,nan,Foul ,Loose Ball
+171936,21600151,4,9:20,nan,MISS Randolph 4' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171937,21600151,4,9:17,nan,Davis REBOUND (Off:2 Def:1),nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171938,21600151,4,9:17,nan,MISS Davis 2' Tip Layup Shot,nan,1627738,Deyonta Davis,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171939,21600151,4,9:16,nan,Randolph REBOUND (Off:3 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171940,21600151,4,9:16,nan,Randolph 3' Layup (16 PTS),77 - 75,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+171941,21600151,4,8:55,Lyles 6' Driving Floating Jump Shot (18 PTS) (Ingles 1 AST),nan,77 - 77,1626168,Trey Lyles,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+171942,21600151,4,8:44,nan,Carter OFF.Foul (P3) (D.Crawford),nan,1713,Vince Carter,MEM,2564,Boris Diaw,UTA,0,nan,nan,Foul ,Offensive
+171943,21600151,4,8:44,nan,Carter Foul Turnover (P3.T14),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+171944,21600151,4,8:44,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+171945,21600151,4,8:44,nan,SUB: Ennis FOR Martin,nan,1626185,Jarell Martin,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+171946,21600151,4,8:31,Diaw 2' Layup (4 PTS),nan,77 - 79,2564,Boris Diaw,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+171947,21600151,4,8:11,nan,MISS Harrison 2' Layup,nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171948,21600151,4,8:10,nan,Randolph REBOUND (Off:4 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171949,21600151,4,8:10,nan,MISS Randolph 3' Tip Layup Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171950,21600151,4,8:09,nan,Randolph REBOUND (Off:5 Def:5),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171951,21600151,4,8:09,nan,Randolph 2' Tip Layup Shot (18 PTS),79 - 79,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+171952,21600151,4,7:57,Exum  Driving Dunk (8 PTS),nan,79 - 81,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+171953,21600151,4,7:36,nan,Carter 25' 3PT Jump Shot (16 PTS),82 - 81,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+171954,21600151,4,7:17,MISS Lyles 2' Driving Finger Roll Layup,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171955,21600151,4,7:16,nan,Ennis REBOUND (Off:1 Def:2),nan,203516,James Ennis III,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171956,21600151,4,7:00,nan,Harrison  3PT Jump Shot (3 PTS) (Ennis 1 AST),85 - 81,1626150,Andrew Harrison,MEM,203516,James Ennis III,MEM,0,nan,nan,Made Shot ,nan
+171957,21600151,4,6:50,nan,Harrison S.FOUL (P5.T2) (D.Crawford),nan,1626150,Andrew Harrison,MEM,203957,Dante Exum,UTA,0,nan,nan,Foul ,Shooting
+171958,21600151,4,6:50,MISS Exum Free Throw 1 of 2,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+171959,21600151,4,6:50,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+171960,21600151,4,6:50,nan,SUB: Conley FOR Harrison,nan,1626150,Andrew Harrison,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+171961,21600151,4,6:50,nan,SUB: Gasol FOR Davis,nan,1627738,Deyonta Davis,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+171962,21600151,4,6:50,SUB: Hayward FOR Johnson,nan,nan,2207,Joe Johnson,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+171963,21600151,4,6:50,Exum Free Throw 2 of 2 (9 PTS),nan,85 - 82,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+171964,21600151,4,6:36,Diaw STEAL (1 STL),Gasol Lost Ball Turnover (P5.T15),nan,201188,Marc Gasol,MEM,2564,Boris Diaw,UTA,0,nan,nan,Turnover ,Lost Ball
+171965,21600151,4,6:31,Hayward  Running Layup (9 PTS) (Ingles 2 AST),nan,85 - 84,202330,Gordon Hayward,UTA,204060,Joe Ingles,UTA,0,nan,nan,Made Shot ,nan
+171966,21600151,4,6:27,nan,Grizzlies Timeout: Regular (Reg.4 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+171967,21600151,4,6:16,nan,MISS Carter 24' 3PT Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171968,21600151,4,6:15,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171969,21600151,4,6:08,nan,Ennis S.FOUL (P5.T3) (K.Scott),nan,203516,James Ennis III,MEM,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+171970,21600151,4,6:08,Hayward Free Throw 1 of 2 (10 PTS),nan,85 - 85,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+171971,21600151,4,6:08,Hayward Free Throw 2 of 2 (11 PTS),nan,85 - 86,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+171972,21600151,4,5:44,nan,Conley 24' 3PT Step Back Jump Shot (16 PTS),88 - 86,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+171973,21600151,4,5:30,nan,Randolph P.FOUL (P4.T4) (C.Washington),nan,2216,Zach Randolph,MEM,1626168,Trey Lyles,UTA,0,nan,nan,Foul ,Personal
+171974,21600151,4,5:30,nan,SUB: Green FOR Randolph,nan,2216,Zach Randolph,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+171975,21600151,4,5:30,nan,SUB: Harrison FOR Carter,nan,1713,Vince Carter,MEM,1626150,Andrew Harrison,MEM,0,nan,nan,Substitution ,nan
+171976,21600151,4,5:18,MISS Exum 25' 3PT Jump Shot,nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171977,21600151,4,5:18,nan,Conley REBOUND (Off:0 Def:3),nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171978,21600151,4,5:14,Ingles P.FOUL (P3.T3) (D.Crawford),nan,nan,204060,Joe Ingles,UTA,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+171979,21600151,4,5:14,SUB: Mack FOR Ingles,nan,nan,204060,Joe Ingles,UTA,202714,Shelvin Mack,UTA,0,nan,nan,Substitution ,nan
+171980,21600151,4,4:56,nan,MISS Green 3' Layup,nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171981,21600151,4,4:55,Lyles REBOUND (Off:1 Def:4),nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171982,21600151,4,4:45,Exum Offensive Charge Foul (P4.T4) (D.Crawford),nan,nan,203957,Dante Exum,UTA,201144,Mike Conley,MEM,0,nan,nan,Foul ,Offensive Charge
+171983,21600151,4,4:45,Exum Foul Turnover (P1.T8),nan,nan,203957,Dante Exum,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+171984,21600151,4,4:29,nan,MISS Harrison 24' 3PT Jump Shot,nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171985,21600151,4,4:29,Hayward REBOUND (Off:0 Def:3),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171986,21600151,4,4:11,Diaw 2' Cutting Layup Shot (6 PTS) (Lyles 2 AST),nan,88 - 88,2564,Boris Diaw,UTA,1626168,Trey Lyles,UTA,0,nan,nan,Made Shot ,nan
+171987,21600151,4,3:54,nan,Gasol OFF.Foul (P2) (K.Scott),nan,201188,Marc Gasol,MEM,2564,Boris Diaw,UTA,0,nan,nan,Foul ,Offensive
+171988,21600151,4,3:54,nan,Gasol Foul Turnover (P6.T16),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+171989,21600151,4,3:54,SUB: Ingles FOR Exum,nan,nan,203957,Dante Exum,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+171990,21600151,4,3:44,MISS Hayward 25' 3PT Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171991,21600151,4,3:43,nan,Harrison REBOUND (Off:0 Def:2),nan,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171992,21600151,4,3:27,nan,MISS Conley 3' Layup,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+171993,21600151,4,3:27,Hayward REBOUND (Off:0 Def:4),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+171994,21600151,4,3:12,Lyles Bad Pass Turnover (P1.T9),Gasol STEAL (1 STL),nan,1626168,Trey Lyles,UTA,201188,Marc Gasol,MEM,0,nan,nan,Turnover ,Bad Pass
+171995,21600151,4,2:55,Diaw S.FOUL (P3.PN) (C.Washington),nan,nan,2564,Boris Diaw,UTA,1626150,Andrew Harrison,MEM,0,nan,nan,Foul ,Shooting
+171996,21600151,4,2:55,JAZZ Timeout: Regular (Full 4 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+171997,21600151,4,2:55,nan,Harrison Free Throw 1 of 2 (4 PTS),89 - 88,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+171998,21600151,4,2:55,nan,Harrison Free Throw 2 of 2 (5 PTS),90 - 88,1626150,Andrew Harrison,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+171999,21600151,4,2:38,MISS Mack  3PT Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172000,21600151,4,2:37,nan,Green REBOUND (Off:3 Def:2),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172001,21600151,4,2:14,nan,MISS Gasol 25' 3PT Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172002,21600151,4,2:13,nan,Green REBOUND (Off:4 Def:2),nan,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172003,21600151,4,1:57,nan,Gasol 5' Jump Shot (20 PTS),92 - 88,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+172004,21600151,4,1:57,Diaw S.FOUL (P4.PN) (C.Washington),nan,nan,2564,Boris Diaw,UTA,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Shooting
+172005,21600151,4,1:57,nan,SUB: Carter FOR Ennis,nan,203516,James Ennis III,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+172006,21600151,4,1:57,nan,Gasol Free Throw 1 of 1 (21 PTS),93 - 88,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+172007,21600151,4,1:43,MISS Mack 19' Jump Shot,nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172008,21600151,4,1:42,nan,Gasol REBOUND (Off:0 Def:5),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172009,21600151,4,1:25,nan,MISS Conley 19' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172010,21600151,4,1:25,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172011,21600151,4,1:25,Mack L.B.FOUL (P1.PN) (D.Crawford),nan,nan,202714,Shelvin Mack,UTA,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Loose Ball
+172012,21600151,4,1:25,nan,Gasol Free Throw 1 of 2 (22 PTS),94 - 88,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+172013,21600151,4,1:25,nan,MISS Gasol Free Throw 2 of 2,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+172014,21600151,4,1:24,Ingles REBOUND (Off:0 Def:4),nan,nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172015,21600151,4,1:23,JAZZ Timeout: Regular (Full 5 Short 0),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+172016,21600151,4,1:15,nan,Green P.FOUL (P2.PN) (C.Washington),nan,203210,JaMychal Green,MEM,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+172017,21600151,4,1:15,Hayward Free Throw 1 of 2 (12 PTS),nan,94 - 89,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+172018,21600151,4,1:15,Hayward Free Throw 2 of 2 (13 PTS),nan,94 - 90,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+172019,21600151,4,0:54,nan,Carter  Cutting Dunk Shot (18 PTS) (Conley 7 AST),96 - 90,1713,Vince Carter,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+172020,21600151,4,0:37,Ingles 2' Driving Layup (20 PTS),nan,96 - 92,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+172021,21600151,4,0:37,nan,Grizzlies Timeout: Regular (Reg.5 Short 1),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+172022,21600151,4,0:33,Ingles P.FOUL (P4.PN) (C.Washington),nan,nan,204060,Joe Ingles,UTA,203210,JaMychal Green,MEM,0,nan,nan,Foul ,Personal
+172023,21600151,4,0:33,nan,Green Free Throw 1 of 2 (7 PTS),97 - 92,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+172024,21600151,4,0:33,nan,Green Free Throw 2 of 2 (8 PTS),98 - 92,203210,JaMychal Green,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+172025,21600151,4,0:33,JAZZ Timeout: Short (Full 5 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+172026,21600151,4,0:22,Mack 2' Driving Layup (15 PTS) (Hayward 3 AST),nan,98 - 94,202714,Shelvin Mack,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+172027,21600151,4,0:22,nan,Grizzlies Timeout: Short (Reg.5 Short 2),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+172028,21600151,4,0:22,nan,Grizzlies Timeout: Short (Reg.5 Short 3),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+172029,21600151,4,0:18,Mack P.FOUL (P2.PN) (K.Scott),nan,nan,202714,Shelvin Mack,UTA,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+172030,21600151,4,0:18,nan,Conley Free Throw 1 of 2 (17 PTS),99 - 94,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+172031,21600151,4,0:18,nan,Conley Free Throw 2 of 2 (18 PTS),100 - 94,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+172032,21600151,4,0:10,MISS Hayward 2' Layup,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172033,21600151,4,0:10,Mack REBOUND (Off:2 Def:1),nan,nan,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172034,21600151,4,0:10,Mack 1' Tip Layup Shot (17 PTS),nan,100 - 96,202714,Shelvin Mack,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+172035,21600151,4,0:08,Diaw P.FOUL (P5.PN) (K.Scott),nan,nan,2564,Boris Diaw,UTA,1713,Vince Carter,MEM,0,nan,nan,Foul ,Personal
+172036,21600151,4,0:08,nan,Carter Free Throw 1 of 2 (19 PTS),101 - 96,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+172037,21600151,4,0:08,nan,Carter Free Throw 2 of 2 (20 PTS),102 - 96,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+172038,21600151,4,0:08,JAZZ Timeout: Short (Full 5 Short 2),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+172039,21600151,4,0:05,MISS Lyles  3PT Jump Shot,nan,nan,1626168,Trey Lyles,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+172040,21600151,4,0:04,nan,Carter REBOUND (Off:1 Def:6),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+172041,21600151,4,0:00,nan,nan,102 - 96,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

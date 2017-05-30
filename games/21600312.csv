@@ -1,0 +1,130 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+192168,21600312,4,12:00,nan,nan,75 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+192169,21600312,4,11:46,MISS Gibson 17' Pullup Jump Shot,nan,nan,1626780,Jonathan Gibson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192170,21600312,4,11:45,nan,Hibbert REBOUND (Off:2 Def:3),nan,201579,Roy Hibbert,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192171,21600312,4,11:34,nan,Belinelli 25' 3PT Floating Jump Shot (10 PTS) (Lamb 1 AST),78 - 78,201158,Marco Belinelli,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+192172,21600312,4,11:19,Powell 1' Driving Layup (9 PTS) (D. Williams 10 AST),nan,78 - 80,203939,Dwight Powell,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+192173,21600312,4,11:03,nan,MISS Belinelli 19' Floating Jump Shot,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192174,21600312,4,11:02,Anderson REBOUND (Off:0 Def:1),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192175,21600312,4,10:54,MISS Powell 1' Alley Oop Layup,nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192176,21600312,4,10:52,nan,Belinelli REBOUND (Off:0 Def:2),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192177,21600312,4,10:45,Powell BLOCK (1 BLK),MISS Kidd-Gilchrist 3' Layup,nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,203939,Dwight Powell,DAL,Missed Shot ,nan
+192178,21600312,4,10:44,nan,Kidd-Gilchrist REBOUND (Off:4 Def:8),nan,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192179,21600312,4,10:44,nan,Kidd-Gilchrist 1' Putback Layup (10 PTS),80 - 80,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+192180,21600312,4,10:44,Powell S.FOUL (P2.T1) (S.Corbin),nan,nan,203939,Dwight Powell,DAL,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Foul ,Shooting
+192181,21600312,4,10:44,nan,Kidd-Gilchrist Free Throw 1 of 1 (11 PTS),81 - 80,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+192182,21600312,4,10:23,Anderson Out of Bounds Lost Ball Turnover (P1.T7),nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+192183,21600312,4,10:09,nan,MISS Lamb 21' Floating Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192184,21600312,4,10:09,MAVERICKS Rebound,nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192185,21600312,4,10:09,nan,Hibbert L.B.FOUL (P3.T1) (S.Corbin),nan,201579,Roy Hibbert,CHA,101114,Deron Williams,DAL,0,nan,nan,Foul ,Loose Ball
+192186,21600312,4,9:51,Gibson 26' 3PT Jump Shot (11 PTS) (D. Williams 11 AST),nan,81 - 83,1626780,Jonathan Gibson,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+192187,21600312,4,9:25,nan,Hibbert 18' Jump Shot (6 PTS) (Lamb 2 AST),83 - 83,201579,Roy Hibbert,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+192188,21600312,4,9:06,MISS D. Williams 24' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192189,21600312,4,9:06,Barnes REBOUND (Off:3 Def:3),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192190,21600312,4,8:57,Barnes  3PT Jump Shot (27 PTS) (D. Williams 12 AST),nan,83 - 86,203084,Harrison Barnes,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+192191,21600312,4,8:39,nan,Lamb 11' Floating Jump Shot (6 PTS),85 - 86,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+192192,21600312,4,8:24,nan,Sessions P.FOUL (P2.T2) (D.Stafford),nan,201196,Ramon Sessions,CHA,1626780,Jonathan Gibson,DAL,0,nan,nan,Foul ,Personal
+192193,21600312,4,8:24,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+192194,21600312,4,8:24,SUB: Finney-Smith FOR Barnes,nan,nan,203084,Harrison Barnes,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+192195,21600312,4,8:24,nan,SUB: Walker FOR Kidd-Gilchrist,nan,203077,Michael Kidd-Gilchrist,CHA,202689,Kemba Walker,CHA,0,nan,nan,Substitution ,nan
+192196,21600312,4,8:24,nan,SUB: Batum FOR Sessions,nan,201196,Ramon Sessions,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Substitution ,nan
+192197,21600312,4,8:10,MISS Powell 1' Layup,Hibbert BLOCK (1 BLK),nan,203939,Dwight Powell,DAL,0,nan,nan,201579,Roy Hibbert,CHA,Missed Shot ,nan
+192198,21600312,4,8:08,nan,Batum REBOUND (Off:0 Def:10),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192199,21600312,4,8:05,Gibson Personal Block Foul (P2.T2) (S.Corbin),nan,nan,1626780,Jonathan Gibson,DAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal Block
+192200,21600312,4,7:56,nan,Walker 1' Driving Layup (16 PTS),87 - 86,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+192201,21600312,4,7:39,MISS Gibson 20' Pullup Jump Shot,nan,nan,1626780,Jonathan Gibson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192202,21600312,4,7:39,nan,Batum REBOUND (Off:0 Def:11),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192203,21600312,4,7:27,nan,Belinelli 5' Turnaround Hook Shot (12 PTS) (Lamb 3 AST),89 - 86,201158,Marco Belinelli,CHA,203087,Jeremy Lamb,CHA,0,nan,nan,Made Shot ,nan
+192204,21600312,4,7:07,MISS Anderson 7' Fadeaway Jumper,nan,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192205,21600312,4,7:06,Powell REBOUND (Off:3 Def:3),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192206,21600312,4,6:55,D. Williams 14' Driving Floating Jump Shot (12 PTS),nan,89 - 88,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192207,21600312,4,6:34,nan,Batum 13' Step Back Jump Shot (13 PTS) (Belinelli 1 AST),91 - 88,201587,Nicolas Batum,CHA,201158,Marco Belinelli,CHA,0,nan,nan,Made Shot ,nan
+192208,21600312,4,6:12,MISS Finney-Smith 24' 3PT Jump Shot,nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192209,21600312,4,6:11,nan,Belinelli REBOUND (Off:0 Def:3),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192210,21600312,4,6:05,D. Williams S.FOUL (P1.T3) (D.Collins),nan,nan,101114,Deron Williams,DAL,201158,Marco Belinelli,CHA,0,nan,nan,Foul ,Shooting
+192211,21600312,4,6:05,MAVERICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192212,21600312,4,6:05,nan,nan,nan,437,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192213,21600312,4,6:05,SUB: Harris FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,2734,Devin Harris,DAL,0,nan,nan,Substitution ,nan
+192214,21600312,4,6:05,SUB: Matthews FOR Anderson,nan,nan,1626147,Justin Anderson,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+192215,21600312,4,6:05,SUB: Barnes FOR Gibson,nan,nan,1626780,Jonathan Gibson,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+192216,21600312,4,6:05,nan,SUB: Zeller FOR Hibbert,nan,201579,Roy Hibbert,CHA,203469,Cody Zeller,CHA,0,nan,nan,Substitution ,nan
+192217,21600312,4,6:05,nan,MISS Belinelli Free Throw 1 of 3,nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+192218,21600312,4,6:05,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192219,21600312,4,6:05,nan,Belinelli Free Throw 2 of 3 (13 PTS),92 - 88,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+192220,21600312,4,6:05,nan,Belinelli Free Throw 3 of 3 (14 PTS),93 - 88,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+192221,21600312,4,5:54,D. Williams  3PT Jump Shot (15 PTS) (Barnes 2 AST),nan,93 - 91,101114,Deron Williams,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Made Shot ,nan
+192222,21600312,4,5:36,nan,Zeller 7' Running Jump Shot (12 PTS) (Belinelli 2 AST),95 - 91,203469,Cody Zeller,CHA,201158,Marco Belinelli,CHA,0,nan,nan,Made Shot ,nan
+192223,21600312,4,5:16,MISS Barnes 4' Driving Hook Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192224,21600312,4,5:14,Barnes REBOUND (Off:4 Def:3),nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192225,21600312,4,5:11,MISS D. Williams 25' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192226,21600312,4,5:10,nan,Batum REBOUND (Off:0 Def:12),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192227,21600312,4,5:06,nan,Walker 1' Running Layup (18 PTS) (Batum 7 AST),97 - 91,202689,Kemba Walker,CHA,201587,Nicolas Batum,CHA,0,nan,nan,Made Shot ,nan
+192228,21600312,4,5:05,MAVERICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192229,21600312,4,4:56,MISS Barnes 15' Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192230,21600312,4,4:55,nan,Lamb REBOUND (Off:1 Def:3),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192231,21600312,4,4:45,nan,Walker Out of Bounds Lost Ball Turnover (P1.T9),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+192232,21600312,4,4:34,MISS Barnes 1' Driving Layup,Lamb BLOCK (1 BLK),nan,203084,Harrison Barnes,DAL,0,nan,nan,203087,Jeremy Lamb,CHA,Missed Shot ,nan
+192233,21600312,4,4:31,nan,Batum REBOUND (Off:0 Def:13),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192234,21600312,4,4:26,Barnes Personal Block Foul (P4.T4) (D.Collins),nan,nan,203084,Harrison Barnes,DAL,201158,Marco Belinelli,CHA,0,nan,nan,Foul ,Personal Block
+192235,21600312,4,4:26,nan,nan,nan,1320,nan,nan,0,nan,nan,0,nan,nan,Foul ,Technical
+192236,21600312,4,4:26,nan,Batum Free Throw Technical (14 PTS),98 - 91,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw Technical
+192237,21600312,4,4:26,nan,Zeller OFF.Foul (P3) (D.Stafford),nan,203469,Cody Zeller,CHA,2734,Devin Harris,DAL,0,nan,nan,Foul ,Offensive
+192238,21600312,4,4:26,nan,Zeller Foul Turnover (P2.T10),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+192239,21600312,4,4:09,Powell 1' Driving Layup (11 PTS),nan,98 - 93,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192240,21600312,4,3:51,nan,MISS Batum 19' Jump Shot,nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192241,21600312,4,3:51,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192242,21600312,4,3:51,Harris L.B.FOUL (P2.PN) (D.Collins),nan,nan,2734,Devin Harris,DAL,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Loose Ball
+192243,21600312,4,3:51,nan,nan,nan,480,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+192244,21600312,4,3:51,nan,Lamb Free Throw 1 of 2 (7 PTS),99 - 93,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192245,21600312,4,3:51,SUB: Finney-Smith FOR Harris,nan,nan,2734,Devin Harris,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+192246,21600312,4,3:51,nan,Lamb Free Throw 2 of 2 (8 PTS),100 - 93,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192247,21600312,4,3:40,MISS D. Williams 25' 3PT Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192248,21600312,4,3:39,nan,Belinelli REBOUND (Off:0 Def:4),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192249,21600312,4,3:28,nan,Walker Out of Bounds - Bad Pass Turnover Turnover (P2.T11),nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+192250,21600312,4,3:21,Powell 1' Cutting Finger Roll Layup Shot (13 PTS) (D. Williams 13 AST),nan,100 - 95,203939,Dwight Powell,DAL,101114,Deron Williams,DAL,0,nan,nan,Made Shot ,nan
+192251,21600312,4,3:01,nan,Lamb 6' Driving Bank Shot (10 PTS),102 - 95,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Made Shot ,nan
+192252,21600312,4,3:01,Finney-Smith S.FOUL (P1.PN) (S.Corbin),nan,nan,1627827,Dorian Finney-Smith,DAL,203087,Jeremy Lamb,CHA,0,nan,nan,Foul ,Shooting
+192253,21600312,4,3:01,nan,Lamb Free Throw 1 of 1 (11 PTS),103 - 95,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+192254,21600312,4,2:53,MISS Matthews 24' 3PT Jump Shot,nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192255,21600312,4,2:52,nan,Lamb REBOUND (Off:1 Def:4),nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192256,21600312,4,2:36,nan,MISS Lamb 13' Floating Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192257,21600312,4,2:35,Matthews REBOUND (Off:0 Def:5),nan,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192258,21600312,4,2:25,SUB: Gibson FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,1626780,Jonathan Gibson,DAL,0,nan,nan,Substitution ,nan
+192259,21600312,4,2:11,MISS Barnes 25' 3PT Jump Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192260,21600312,4,2:10,nan,Belinelli REBOUND (Off:0 Def:5),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192261,21600312,4,2:01,Matthews P.FOUL (P2.PN) (D.Stafford),nan,nan,202083,Wesley Matthews,DAL,202689,Kemba Walker,CHA,0,nan,nan,Foul ,Personal
+192262,21600312,4,2:01,nan,MISS Walker Free Throw 1 of 2,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192263,21600312,4,2:01,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+192264,21600312,4,2:01,nan,Walker Free Throw 2 of 2 (19 PTS),104 - 95,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192265,21600312,4,1:50,nan,Batum S.FOUL (P3.T3) (S.Corbin),nan,201587,Nicolas Batum,CHA,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+192266,21600312,4,1:50,Barnes Free Throw 1 of 2 (28 PTS),nan,104 - 96,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192267,21600312,4,1:50,SUB: Finney-Smith FOR Gibson,nan,nan,1626780,Jonathan Gibson,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+192268,21600312,4,1:50,Barnes Free Throw 2 of 2 (29 PTS),nan,104 - 97,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192269,21600312,4,1:34,nan,Zeller OFF.Foul (P4) (D.Collins),nan,203469,Cody Zeller,CHA,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Offensive
+192270,21600312,4,1:34,nan,Zeller Foul Turnover (P3.T12),nan,203469,Cody Zeller,CHA,0,nan,nan,0,nan,nan,Turnover ,Foul
+192271,21600312,4,1:34,SUB: Gibson FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,1626780,Jonathan Gibson,DAL,0,nan,nan,Substitution ,nan
+192272,21600312,4,1:28,MISS D. Williams 13' Driving Floating Bank Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192273,21600312,4,1:26,Powell REBOUND (Off:4 Def:3),nan,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192274,21600312,4,1:26,Powell 1' Tip Layup Shot (15 PTS),nan,104 - 99,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192275,21600312,4,1:02,nan,MISS Walker 17' Driving Floating Jump Shot,nan,202689,Kemba Walker,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192276,21600312,4,1:01,Gibson REBOUND (Off:0 Def:2),nan,nan,1626780,Jonathan Gibson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192277,21600312,4,0:56,Gibson 6' Driving Hook Shot (13 PTS),nan,104 - 101,1626780,Jonathan Gibson,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+192278,21600312,4,0:56,nan,Hornets Timeout: Regular (Reg.4 Short 2),nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192279,21600312,4,0:56,SUB: Finney-Smith FOR Gibson,nan,nan,1626780,Jonathan Gibson,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+192280,21600312,4,0:48,nan,MISS Lamb 24' 3PT Jump Shot,nan,203087,Jeremy Lamb,CHA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192281,21600312,4,0:47,Finney-Smith REBOUND (Off:0 Def:2),nan,nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192282,21600312,4,0:34,MISS D. Williams 7' Driving Floating Jump Shot,Zeller BLOCK (1 BLK),nan,101114,Deron Williams,DAL,0,nan,nan,203469,Cody Zeller,CHA,Missed Shot ,nan
+192283,21600312,4,0:32,nan,Batum REBOUND (Off:0 Def:14),nan,201587,Nicolas Batum,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192284,21600312,4,0:13,nan,Lamb 26' 3PT Jump Shot (14 PTS) (Walker 4 AST),107 - 101,203087,Jeremy Lamb,CHA,202689,Kemba Walker,CHA,0,nan,nan,Made Shot ,nan
+192285,21600312,4,0:13,MAVERICKS Timeout: Regular (Full 6 Short 1),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+192286,21600312,4,0:13,SUB: Gibson FOR Finney-Smith,nan,nan,1627827,Dorian Finney-Smith,DAL,1626780,Jonathan Gibson,DAL,0,nan,nan,Substitution ,nan
+192287,21600312,4,0:13,nan,SUB: Kidd-Gilchrist FOR Lamb,nan,203087,Jeremy Lamb,CHA,203077,Michael Kidd-Gilchrist,CHA,0,nan,nan,Substitution ,nan
+192288,21600312,4,0:09,MISS Barnes 24' 3PT Jump Bank Shot,nan,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192289,21600312,4,0:08,nan,Belinelli REBOUND (Off:0 Def:6),nan,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192290,21600312,4,0:08,D. Williams Personal Take Foul (P2.PN) (S.Corbin),nan,nan,101114,Deron Williams,DAL,201158,Marco Belinelli,CHA,0,nan,nan,Foul ,Personal Take
+192291,21600312,4,0:08,nan,Belinelli Free Throw 1 of 2 (15 PTS),108 - 101,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+192292,21600312,4,0:08,nan,Belinelli Free Throw 2 of 2 (16 PTS),109 - 101,201158,Marco Belinelli,CHA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+192293,21600312,4,0:08,MAVERICKS Timeout: Short (Full 6 Short 2),nan,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+192294,21600312,4,0:02,MISS D. Williams 20' Jump Shot,nan,nan,101114,Deron Williams,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+192295,21600312,4,0:02,nan,Hornets Rebound,nan,1610612766,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+192296,21600312,4,0:00,nan,nan,109 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

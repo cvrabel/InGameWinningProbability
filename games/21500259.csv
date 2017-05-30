@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+32456,21500259,4,12:00,nan,nan,83 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+32457,21500259,4,11:41,nan,Livingston S.FOUL (P1.T1) (C.Kirkland),nan,2733,Shaun Livingston,GSW,203918,Rodney Hood,UTA,0,nan,nan,Foul ,Shooting
+32458,21500259,4,11:41,Hood Free Throw 1 of 2 (6 PTS),nan,83 - 78,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32459,21500259,4,11:41,Hood Free Throw 2 of 2 (7 PTS),nan,83 - 79,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32460,21500259,4,11:24,nan,Speights 19' Fadeaway Jumper (2 PTS) (Barbosa 1 AST),85 - 79,201578,Marreese Speights,GSW,2571,Leandro Barbosa,GSW,0,nan,nan,Made Shot ,nan
+32461,21500259,4,11:01,MISS Gobert 3' Layup,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32462,21500259,4,11:00,Gobert REBOUND (Off:3 Def:5),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32463,21500259,4,10:59,MISS Gobert 1' Layup,nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32464,21500259,4,10:59,nan,Livingston REBOUND (Off:0 Def:2),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32465,21500259,4,10:59,Booker P.FOUL (P2.T1) (M.Callahan),nan,nan,202344,Trevor Booker,UTA,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Personal
+32466,21500259,4,10:42,Burke STEAL (1 STL),Barbosa Bad Pass Turnover (P1.T11),nan,2571,Leandro Barbosa,GSW,203504,Trey Burke,UTA,0,nan,nan,Turnover ,Bad Pass
+32467,21500259,4,10:27,Hood  3PT Step Back Jump Shot (10 PTS),nan,85 - 82,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32468,21500259,4,10:10,Booker STEAL (2 STL),Bogut Bad Pass Turnover (P2.T12),nan,101106,Andrew Bogut,GSW,202344,Trevor Booker,UTA,0,nan,nan,Turnover ,Bad Pass
+32469,21500259,4,10:06,Booker  Running Dunk (6 PTS),nan,85 - 84,202344,Trevor Booker,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32470,21500259,4,9:54,Gobert STEAL (1 STL),Speights Bad Pass Turnover (P1.T13),nan,201578,Marreese Speights,GSW,203497,Rudy Gobert,UTA,0,nan,nan,Turnover ,Bad Pass
+32471,21500259,4,9:54,nan,Bogut P.FOUL (P5.T2) (T.Ford),nan,101106,Andrew Bogut,GSW,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Personal
+32472,21500259,4,9:38,MISS Hood 24' 3PT Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32473,21500259,4,9:37,nan,Speights REBOUND (Off:0 Def:1),nan,201578,Marreese Speights,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32474,21500259,4,9:25,Burke P.FOUL (P2.T2) (M.Callahan),nan,nan,203504,Trey Burke,UTA,2571,Leandro Barbosa,GSW,0,nan,nan,Foul ,Personal
+32475,21500259,4,9:25,SUB: Favors FOR Booker,nan,nan,202344,Trevor Booker,UTA,202324,Derrick Favors,UTA,0,nan,nan,Substitution ,nan
+32476,21500259,4,9:21,Burke STEAL (2 STL),Livingston Bad Pass Turnover (P2.T14),nan,2733,Shaun Livingston,GSW,203504,Trey Burke,UTA,0,nan,nan,Turnover ,Bad Pass
+32477,21500259,4,9:15,MISS Burke 2' Running Layup,nan,nan,203504,Trey Burke,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32478,21500259,4,9:14,nan,Barbosa REBOUND (Off:1 Def:2),nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32479,21500259,4,9:05,nan,MISS Livingston 10' Floating Jump Shot,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32480,21500259,4,9:04,nan,Bogut REBOUND (Off:2 Def:2),nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32481,21500259,4,9:04,nan,Bogut 1' Tip Layup Shot (4 PTS),87 - 84,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32482,21500259,4,8:40,MISS Favors 2' Layup,Bogut BLOCK (1 BLK),nan,202324,Derrick Favors,UTA,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+32483,21500259,4,8:39,nan,Iguodala REBOUND (Off:0 Def:2),nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32484,21500259,4,8:39,Hood P.FOUL (P1.T3) (T.Ford),nan,nan,203918,Rodney Hood,UTA,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+32485,21500259,4,8:39,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+32486,21500259,4,8:39,SUB: Burks FOR Burke,nan,nan,203504,Trey Burke,UTA,202692,Alec Burks,UTA,0,nan,nan,Substitution ,nan
+32487,21500259,4,8:28,Favors P.FOUL (P3.T4) (T.Ford),nan,nan,202324,Derrick Favors,UTA,2738,Andre Iguodala,GSW,0,nan,nan,Foul ,Personal
+32488,21500259,4,8:19,nan,MISS Barbosa 24' 3PT Jump Shot,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32489,21500259,4,8:19,Gobert REBOUND (Off:3 Def:6),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32490,21500259,4,8:04,Gobert  Alley Oop Dunk (13 PTS) (Hayward 3 AST),nan,87 - 86,203497,Rudy Gobert,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+32491,21500259,4,7:51,Gobert BLOCK (1 BLK),MISS Livingston 3' Driving Layup,nan,2733,Shaun Livingston,GSW,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+32492,21500259,4,7:50,Hayward REBOUND (Off:0 Def:4),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32493,21500259,4,7:40,MISS Favors 14' Jump Shot,nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32494,21500259,4,7:39,Favors REBOUND (Off:4 Def:5),nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32495,21500259,4,7:39,nan,Bogut S.FOUL (P6.T3) (M.Callahan),nan,101106,Andrew Bogut,GSW,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+32496,21500259,4,7:39,nan,SUB: Thompson FOR Speights,nan,201578,Marreese Speights,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+32497,21500259,4,7:39,nan,SUB: Ezeli FOR Bogut,nan,101106,Andrew Bogut,GSW,203105,Festus Ezeli,GSW,0,nan,nan,Substitution ,nan
+32498,21500259,4,7:39,Favors Free Throw 1 of 2 (17 PTS),nan,87 - 87,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32499,21500259,4,7:39,nan,SUB: Green FOR Barbosa,nan,2571,Leandro Barbosa,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+32500,21500259,4,7:39,Favors Free Throw 2 of 2 (18 PTS),nan,87 - 88,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32501,21500259,4,7:22,nan,MISS Thompson 2' Driving Layup,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32502,21500259,4,7:21,Gobert REBOUND (Off:3 Def:7),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32503,21500259,4,7:08,Burks 21' Pullup Jump Shot (15 PTS),nan,87 - 90,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32504,21500259,4,6:52,nan,MISS Green 5' Turnaround Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32505,21500259,4,6:49,Hayward REBOUND (Off:0 Def:5),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32506,21500259,4,6:36,MISS Hayward 5' Jump Shot,Iguodala BLOCK (1 BLK),nan,202330,Gordon Hayward,UTA,0,nan,nan,2738,Andre Iguodala,GSW,Missed Shot ,nan
+32507,21500259,4,6:36,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32508,21500259,4,6:36,nan,SUB: Curry FOR Iguodala,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+32509,21500259,4,6:27,MISS Hayward 9' Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32510,21500259,4,6:26,nan,Curry REBOUND (Off:2 Def:3),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32511,21500259,4,6:20,nan,Curry 24' 3PT Jump Shot (19 PTS),90 - 90,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32512,21500259,4,6:12,JAZZ Timeout: Regular (Full 4 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32513,21500259,4,5:59,Burks 10' Pullup Jump Shot (17 PTS) (Hayward 4 AST),nan,90 - 92,202692,Alec Burks,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Made Shot ,nan
+32514,21500259,4,5:39,nan,Livingston  3PT Jump Shot (7 PTS) (Green 8 AST),93 - 92,2733,Shaun Livingston,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+32515,21500259,4,5:21,MISS Hayward 26' 3PT Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32516,21500259,4,5:21,nan,Curry REBOUND (Off:2 Def:4),nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32517,21500259,4,5:06,nan,Livingston 7' Step Back Jump Shot (9 PTS),95 - 92,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32518,21500259,4,4:41,Burks 14' Jump Shot (19 PTS),nan,95 - 94,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32519,21500259,4,4:31,nan,Ezeli 2' Alley Oop Layup (8 PTS) (Curry 5 AST),97 - 94,203105,Festus Ezeli,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+32520,21500259,4,4:10,MISS Favors 15' Jump Shot,nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32521,21500259,4,4:10,nan,Livingston REBOUND (Off:0 Def:3),nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32522,21500259,4,4:01,nan,Green Bad Pass Turnover (P5.T15),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+32523,21500259,4,3:37,MISS Burks 26' 3PT Jump Shot,nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32524,21500259,4,3:36,Favors REBOUND (Off:5 Def:5),nan,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32525,21500259,4,3:13,MISS Hood 25' 3PT Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32526,21500259,4,3:13,nan,Thompson REBOUND (Off:1 Def:4),nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32527,21500259,4,2:50,nan,MISS Green 25' 3PT Jump Shot,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32528,21500259,4,2:50,Gobert REBOUND (Off:3 Def:8),nan,nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32529,21500259,4,2:33,Hayward 17' Jump Shot (24 PTS) (Gobert 3 AST),nan,97 - 96,202330,Gordon Hayward,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Made Shot ,nan
+32530,21500259,4,2:33,nan,Warriors Timeout: Regular (Reg.4 Short 0),nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32531,21500259,4,2:33,nan,SUB: Iguodala FOR Livingston,nan,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+32532,21500259,4,2:24,nan,MISS Curry 25' 3PT Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32533,21500259,4,2:24,Hayward REBOUND (Off:0 Def:6),nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32534,21500259,4,2:14,nan,Ezeli P.FOUL (P2.T4) (M.Callahan),nan,203105,Festus Ezeli,GSW,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Personal
+32535,21500259,4,2:06,Favors 3' Turnaround Jump Shot (20 PTS),nan,97 - 98,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32536,21500259,4,2:06,nan,Ezeli S.FOUL (P3.PN) (T.Ford),nan,203105,Festus Ezeli,GSW,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+32537,21500259,4,2:06,Favors Free Throw 1 of 1 (21 PTS),nan,97 - 99,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+32538,21500259,4,1:46,nan,Curry 22' Step Back Jump Shot (21 PTS),99 - 99,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32539,21500259,4,1:32,Burks Bad Pass Turnover (P3.T9),Curry STEAL (2 STL),nan,202692,Alec Burks,UTA,201939,Stephen Curry,GSW,0,nan,nan,Turnover ,Bad Pass
+32540,21500259,4,1:29,nan,MISS Curry 1' Running Layup,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32541,21500259,4,1:29,nan,Green REBOUND (Off:7 Def:4),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32542,21500259,4,1:29,nan,Green 1' Layup (20 PTS),101 - 99,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32543,21500259,4,1:29,Hood S.FOUL (P2.PN) (T.Ford),nan,nan,203918,Rodney Hood,UTA,203110,Draymond Green,GSW,0,nan,nan,Foul ,Shooting
+32544,21500259,4,1:29,nan,MISS Green Free Throw 1 of 1,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+32545,21500259,4,1:28,Burks REBOUND (Off:0 Def:2),nan,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32546,21500259,4,1:28,JAZZ Timeout: Regular (Full 5 Short 1),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+32547,21500259,4,1:13,MISS Hood 16' Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32548,21500259,4,1:12,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32549,21500259,4,1:03,nan,Green S.FOUL (P2.PN) (T.Ford),nan,203110,Draymond Green,GSW,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+32550,21500259,4,1:03,Favors Free Throw 1 of 2 (22 PTS),nan,101 - 100,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32551,21500259,4,1:03,Favors Free Throw 2 of 2 (23 PTS),nan,101 - 101,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32552,21500259,4,0:51,nan,Curry 26' 3PT Step Back Jump Shot (24 PTS),104 - 101,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+32553,21500259,4,0:46,JAZZ Timeout: Short (Full 5 Short 2),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32554,21500259,4,0:37,Hood 1' Fadeaway Bank Shot (12 PTS),nan,104 - 103,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+32555,21500259,4,0:16,nan,MISS Curry 23' Jump Shot,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32556,21500259,4,0:16,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32557,21500259,4,0:16,JAZZ Timeout: Short (Full 5 Short 3),nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+32558,21500259,4,0:05,MISS Hood 24' 3PT Jump Shot,nan,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32559,21500259,4,0:04,nan,Green REBOUND (Off:7 Def:5),nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32560,21500259,4,0:02,Burks P.FOUL (P2.PN) (T.Ford),nan,nan,202692,Alec Burks,UTA,201939,Stephen Curry,GSW,0,nan,nan,Foul ,Personal
+32561,21500259,4,0:02,nan,Curry Free Throw 1 of 2 (25 PTS),105 - 103,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+32562,21500259,4,0:02,nan,Curry Free Throw 2 of 2 (26 PTS),106 - 103,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+32563,21500259,4,0:01,MISS Hayward 49' 3PT Jump Shot,nan,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+32564,21500259,4,0:00,JAZZ Rebound,nan,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+32565,21500259,4,0:00,nan,nan,106 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

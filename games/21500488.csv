@@ -1,0 +1,111 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+61139,21500488,4,12:00,nan,nan,80 - 87,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+61140,21500488,4,11:52,Singler 11' Jump Shot (2 PTS) (Payne 4 AST),nan,80 - 89,202713,Kyle Singler,OKC,1626166,Cameron Payne,OKC,0,nan,nan,Made Shot ,nan
+61141,21500488,4,11:36,nan,MISS Warren 17' Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61142,21500488,4,11:35,Waiters REBOUND (Off:1 Def:4),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61143,21500488,4,11:33,Waiters Bad Pass Turnover (P3.T10),Warren STEAL (2 STL),nan,203079,Dion Waiters,OKC,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Bad Pass
+61144,21500488,4,11:24,nan,Teletovic 25' 3PT Jump Shot (15 PTS) (Tucker 3 AST),83 - 89,203141,Mirza Teletovic,PHX,200782,PJ Tucker,PHX,0,nan,nan,Made Shot ,nan
+61145,21500488,4,11:13,MISS Singler 1' Layup,Teletovic BLOCK (1 BLK),nan,202713,Kyle Singler,OKC,0,nan,nan,203141,Mirza Teletovic,PHX,Missed Shot ,nan
+61146,21500488,4,11:12,Singler REBOUND (Off:1 Def:0),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61147,21500488,4,11:01,MISS Payne 13' Pullup Jump Shot,nan,nan,1626166,Cameron Payne,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61148,21500488,4,11:01,nan,Warren REBOUND (Off:1 Def:5),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61149,21500488,4,10:52,nan,Chandler  Alley Oop Dunk (6 PTS) (Warren 3 AST),85 - 89,2199,Tyson Chandler,PHX,203933,TJ Warren,PHX,0,nan,nan,Made Shot ,nan
+61150,21500488,4,10:25,MISS Morrow 12' Fadeaway Jumper,nan,nan,201627,Anthony Morrow,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61151,21500488,4,10:24,nan,Warren REBOUND (Off:1 Def:6),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61152,21500488,4,10:11,Singler P.FOUL (P1.T1) (B.Forte),nan,nan,202713,Kyle Singler,OKC,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Personal
+61153,21500488,4,10:11,SUB: Adams FOR Kanter,nan,nan,202683,Enes Kanter,OKC,203500,Steven Adams,OKC,0,nan,nan,Substitution ,nan
+61154,21500488,4,10:11,nan,SUB: Len FOR Chandler,nan,2199,Tyson Chandler,PHX,203458,Alex Len,PHX,0,nan,nan,Substitution ,nan
+61155,21500488,4,9:58,nan,Warren 10' Pullup Jump Shot (27 PTS),87 - 89,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+61156,21500488,4,9:44,Payne Bad Pass Turnover (P1.T11),Warren STEAL (3 STL),nan,1626166,Cameron Payne,OKC,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Bad Pass
+61157,21500488,4,9:31,nan,Teletovic Out of Bounds - Bad Pass Turnover Turnover (P2.T13),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+61158,21500488,4,9:31,THUNDER Timeout: Regular (Full 4 Short 1),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61159,21500488,4,9:19,MISS Singler 6' Jump Shot,Len BLOCK (2 BLK),nan,202713,Kyle Singler,OKC,0,nan,nan,203458,Alex Len,PHX,Missed Shot ,nan
+61160,21500488,4,9:17,nan,Len REBOUND (Off:0 Def:3),nan,203458,Alex Len,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61161,21500488,4,9:11,nan,MISS Knight 25' 3PT Pullup Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61162,21500488,4,9:10,nan,Teletovic REBOUND (Off:2 Def:1),nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61163,21500488,4,8:54,Morrow STEAL (1 STL),Knight Bad Pass Turnover (P4.T14),nan,202688,Brandon Knight,PHX,201627,Anthony Morrow,OKC,0,nan,nan,Turnover ,Bad Pass
+61164,21500488,4,8:50,Payne  Dunk (7 PTS) (Waiters 2 AST),nan,87 - 91,1626166,Cameron Payne,OKC,203079,Dion Waiters,OKC,0,nan,nan,Made Shot ,nan
+61165,21500488,4,8:30,nan,MISS Warren 9' Pullup Jump Shot,nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61166,21500488,4,8:30,Waiters REBOUND (Off:1 Def:5),nan,nan,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61167,21500488,4,8:23,Singler  3PT Jump Shot (5 PTS) (Waiters 3 AST),nan,87 - 94,202713,Kyle Singler,OKC,203079,Dion Waiters,OKC,0,nan,nan,Made Shot ,nan
+61168,21500488,4,8:20,nan,Suns Timeout: Regular (Reg.4 Short 0),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61169,21500488,4,8:20,SUB: Westbrook FOR Payne,nan,nan,1626166,Cameron Payne,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Substitution ,nan
+61170,21500488,4,8:20,SUB: Durant FOR Morrow,nan,nan,201627,Anthony Morrow,OKC,201142,Kevin Durant,OKC,0,nan,nan,Substitution ,nan
+61171,21500488,4,8:20,nan,SUB: Chandler FOR Len,nan,203458,Alex Len,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Substitution ,nan
+61172,21500488,4,8:08,nan,MISS Teletovic 25' 3PT Jump Shot,nan,203141,Mirza Teletovic,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61173,21500488,4,8:04,nan,Chandler REBOUND (Off:3 Def:3),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61174,21500488,4,8:04,nan,MISS Chandler 2' Tip Layup Shot,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61175,21500488,4,8:03,Singler REBOUND (Off:1 Def:1),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61176,21500488,4,7:51,MISS Durant 25' 3PT Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61177,21500488,4,7:50,nan,Warren REBOUND (Off:1 Def:7),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61178,21500488,4,7:41,Waiters STEAL (2 STL),Knight Lost Ball Turnover (P5.T15),nan,202688,Brandon Knight,PHX,203079,Dion Waiters,OKC,0,nan,nan,Turnover ,Lost Ball
+61179,21500488,4,7:37,Waiters 2' Layup (6 PTS),nan,87 - 96,203079,Dion Waiters,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+61180,21500488,4,7:31,nan,Suns Timeout: Short (Reg.4 Short 1),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+61181,21500488,4,7:31,nan,SUB: Booker FOR Teletovic,nan,203141,Mirza Teletovic,PHX,1626164,Devin Booker,PHX,0,nan,nan,Substitution ,nan
+61182,21500488,4,7:20,nan,Knight 1' Layup (11 PTS) (Chandler 1 AST),89 - 96,202688,Brandon Knight,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Made Shot ,nan
+61183,21500488,4,7:02,Adams Bad Pass Turnover (P2.T12),Tucker STEAL (3 STL),nan,203500,Steven Adams,OKC,200782,PJ Tucker,PHX,0,nan,nan,Turnover ,Bad Pass
+61184,21500488,4,6:57,nan,Tucker 1' Layup (20 PTS),91 - 96,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+61185,21500488,4,6:57,nan,Suns Violation: Delay of game Violation,nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Violation ,Delay Of Game
+61186,21500488,4,6:39,MISS Durant 24' 3PT Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61187,21500488,4,6:38,Adams REBOUND (Off:3 Def:4),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61188,21500488,4,6:21,Adams 1' Layup (6 PTS) (Westbrook 12 AST),nan,91 - 98,203500,Steven Adams,OKC,201566,Russell Westbrook,OKC,0,nan,nan,Made Shot ,nan
+61189,21500488,4,6:08,nan,Chandler  Alley Oop Dunk (8 PTS) (Knight 6 AST),93 - 98,2199,Tyson Chandler,PHX,202688,Brandon Knight,PHX,0,nan,nan,Made Shot ,nan
+61190,21500488,4,5:48,Singler 9' Floating Jump Shot (7 PTS) (Adams 1 AST),nan,93 - 100,202713,Kyle Singler,OKC,203500,Steven Adams,OKC,0,nan,nan,Made Shot ,nan
+61191,21500488,4,5:28,Waiters S.FOUL (P4.T2) (E.Malloy),nan,nan,203079,Dion Waiters,OKC,203933,TJ Warren,PHX,0,nan,nan,Foul ,Shooting
+61192,21500488,4,5:28,nan,Warren Free Throw 1 of 2 (28 PTS),94 - 100,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61193,21500488,4,5:28,nan,Warren Free Throw 2 of 2 (29 PTS),95 - 100,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61194,21500488,4,5:17,MISS Westbrook 25' 3PT Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61195,21500488,4,5:17,nan,Tucker REBOUND (Off:2 Def:4),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61196,21500488,4,5:03,nan,MISS Knight 17' Pullup Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61197,21500488,4,5:03,Adams REBOUND (Off:3 Def:5),nan,nan,203500,Steven Adams,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61198,21500488,4,4:58,Westbrook Lost Ball Turnover (P2.T13),Warren STEAL (4 STL),nan,201566,Russell Westbrook,OKC,203933,TJ Warren,PHX,0,nan,nan,Turnover ,Lost Ball
+61199,21500488,4,4:51,nan,Chandler 3' Alley Oop Layup (10 PTS) (Booker 5 AST),97 - 100,2199,Tyson Chandler,PHX,1626164,Devin Booker,PHX,0,nan,nan,Made Shot ,nan
+61200,21500488,4,4:51,Adams S.FOUL (P2.T3) (E.Roe),nan,nan,203500,Steven Adams,OKC,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Shooting
+61201,21500488,4,4:51,nan,Chandler Free Throw 1 of 1 (11 PTS),98 - 100,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+61202,21500488,4,4:37,MISS Westbrook 14' Pullup Jump Shot,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61203,21500488,4,4:36,nan,Tucker REBOUND (Off:2 Def:5),nan,200782,PJ Tucker,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61204,21500488,4,4:18,Westbrook STEAL (5 STL),Tucker Lost Ball Turnover (P1.T16),nan,200782,PJ Tucker,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Turnover ,Lost Ball
+61205,21500488,4,4:16,nan,Knight Personal Take Foul (P3.T1) (E.Roe),nan,202688,Brandon Knight,PHX,201142,Kevin Durant,OKC,0,nan,nan,Foul ,Personal Take
+61206,21500488,4,4:03,MISS Durant 18' Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61207,21500488,4,4:03,nan,Warren REBOUND (Off:1 Def:8),nan,203933,TJ Warren,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61208,21500488,4,3:47,nan,MISS Knight 10' Floating Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61209,21500488,4,3:47,nan,Chandler REBOUND (Off:4 Def:3),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61210,21500488,4,3:43,nan,Tucker 23' Jump Shot (22 PTS) (Chandler 2 AST),100 - 100,200782,PJ Tucker,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Made Shot ,nan
+61211,21500488,4,3:35,THUNDER Timeout: Regular (Full 5 Short 1),nan,nan,1610612760,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61212,21500488,4,3:34,SUB: Ibaka FOR Adams,nan,nan,203500,Steven Adams,OKC,201586,Serge Ibaka,OKC,0,nan,nan,Substitution ,nan
+61213,21500488,4,3:19,MISS Durant 13' Fadeaway Jumper,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61214,21500488,4,3:19,nan,Chandler REBOUND (Off:4 Def:4),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61215,21500488,4,2:54,nan,MISS Knight 13' Floating Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61216,21500488,4,2:52,Singler REBOUND (Off:1 Def:2),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61217,21500488,4,2:34,MISS Westbrook 2' Driving Layup,nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61218,21500488,4,2:33,nan,Chandler REBOUND (Off:4 Def:5),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61219,21500488,4,2:16,nan,Chandler Traveling Turnover (P2.T17),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Turnover ,Traveling
+61220,21500488,4,2:02,nan,Knight P.FOUL (P4.T2) (B.Forte),nan,202688,Brandon Knight,PHX,201586,Serge Ibaka,OKC,0,nan,nan,Foul ,Personal
+61221,21500488,4,1:57,Westbrook 13' Jump Bank Shot (32 PTS),nan,100 - 102,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+61222,21500488,4,1:37,nan,nan,nan,454,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+61223,21500488,4,1:34,nan,MISS Chandler 1' Alley Oop Dunk,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61224,21500488,4,1:34,nan,Chandler REBOUND (Off:5 Def:5),nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61225,21500488,4,1:34,nan,Chandler 2' Layup (13 PTS),102 - 102,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Made Shot ,nan
+61226,21500488,4,1:34,Ibaka S.FOUL (P1.T4) (E.Malloy),nan,nan,201586,Serge Ibaka,OKC,2199,Tyson Chandler,PHX,0,nan,nan,Foul ,Shooting
+61227,21500488,4,1:34,nan,MISS Chandler Free Throw 1 of 1,nan,2199,Tyson Chandler,PHX,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+61228,21500488,4,1:34,Ibaka REBOUND (Off:1 Def:4),nan,nan,201586,Serge Ibaka,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61229,21500488,4,1:17,Durant 13' Fadeaway Jumper (21 PTS),nan,102 - 104,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Made Shot ,nan
+61230,21500488,4,0:57,nan,MISS Knight 25' 3PT Jump Shot,nan,202688,Brandon Knight,PHX,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61231,21500488,4,0:56,Durant REBOUND (Off:0 Def:2),nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61232,21500488,4,0:35,MISS Durant 25' 3PT Jump Shot,nan,nan,201142,Kevin Durant,OKC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+61233,21500488,4,0:34,Singler REBOUND (Off:2 Def:2),nan,nan,202713,Kyle Singler,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61234,21500488,4,0:31,Durant  Cutting Dunk Shot (23 PTS) (Singler 2 AST),nan,102 - 106,201142,Kevin Durant,OKC,202713,Kyle Singler,OKC,0,nan,nan,Made Shot ,nan
+61235,21500488,4,0:31,nan,Suns Timeout: Short (Reg.4 Short 2),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+61236,21500488,4,0:28,nan,Knight 1' Layup (13 PTS) (Chandler 3 AST),104 - 106,202688,Brandon Knight,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Made Shot ,nan
+61237,21500488,4,0:20,nan,Chandler Personal Take Foul (P4.T3) (B.Forte),nan,2199,Tyson Chandler,PHX,202713,Kyle Singler,OKC,0,nan,nan,Foul ,Personal Take
+61238,21500488,4,0:18,nan,Knight Personal Block Foul (P5.PN) (B.Forte),nan,202688,Brandon Knight,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal Block
+61239,21500488,4,0:18,Westbrook Free Throw 1 of 2 (33 PTS),nan,104 - 107,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61240,21500488,4,0:18,Westbrook Free Throw 2 of 2 (34 PTS),nan,104 - 108,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61241,21500488,4,0:18,nan,Suns Timeout: Regular (Reg.5 Short 2),nan,1610612756,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+61242,21500488,4,0:15,nan,Knight  Driving Dunk (15 PTS) (Chandler 4 AST),106 - 108,202688,Brandon Knight,PHX,2199,Tyson Chandler,PHX,0,nan,nan,Made Shot ,nan
+61243,21500488,4,0:14,nan,Tucker Personal Take Foul (P4.PN) (E.Roe),nan,200782,PJ Tucker,PHX,201566,Russell Westbrook,OKC,0,nan,nan,Foul ,Personal Take
+61244,21500488,4,0:14,Westbrook Free Throw 1 of 2 (35 PTS),nan,106 - 109,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+61245,21500488,4,0:14,Westbrook Free Throw 2 of 2 (36 PTS),nan,106 - 110,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+61246,21500488,4,0:04,Westbrook BLOCK (1 BLK),MISS Booker 2' Driving Layup,nan,1626164,Devin Booker,PHX,0,nan,nan,201566,Russell Westbrook,OKC,Missed Shot ,nan
+61247,21500488,4,0:01,Westbrook REBOUND (Off:0 Def:1),nan,nan,201566,Russell Westbrook,OKC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+61248,21500488,4,0:00,nan,nan,106 - 110,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

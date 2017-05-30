@@ -1,0 +1,110 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+165028,21600096,4,12:00,nan,nan,63 - 88,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+165029,21600096,4,11:37,nan,MISS Green 16' Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165030,21600096,4,11:36,Canaan REBOUND (Off:0 Def:3),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165031,21600096,4,11:27,Wade 12' Floating Jump Shot (16 PTS),nan,63 - 90,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+165032,21600096,4,11:08,Wade P.FOUL (P3.T1) (L.Wood),nan,nan,2548,Dwyane Wade,CHI,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Personal
+165033,21600096,4,11:00,nan,MISS Augustin 26' 3PT Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165034,21600096,4,10:59,McDermott REBOUND (Off:0 Def:4),nan,nan,203926,Doug McDermott,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165035,21600096,4,10:46,MISS Mirotic 1' Driving Layup,Biyombo BLOCK (2 BLK),nan,202703,Nikola Mirotic,CHI,0,nan,nan,202687,Bismack Biyombo,ORL,Missed Shot ,nan
+165036,21600096,4,10:44,nan,Green REBOUND (Off:2 Def:2),nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165037,21600096,4,10:37,nan,MISS Hezonja 24' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165038,21600096,4,10:35,Mirotic REBOUND (Off:1 Def:2),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165039,21600096,4,10:21,Mirotic 8' Turnaround Hook Shot (5 PTS) (Wade 3 AST),nan,63 - 92,202703,Nikola Mirotic,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+165040,21600096,4,9:58,nan,Green 7' Jump Shot (5 PTS) (Gordon 3 AST),65 - 92,201145,Jeff Green,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+165041,21600096,4,9:43,Portis  Cutting Dunk Shot (5 PTS) (Wade 4 AST),nan,65 - 94,1626171,Bobby Portis,CHI,2548,Dwyane Wade,CHI,0,nan,nan,Made Shot ,nan
+165042,21600096,4,9:43,nan,Magic Timeout: Regular (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165043,21600096,4,9:43,nan,SUB: Rudez FOR Green,nan,201145,Jeff Green,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Substitution ,nan
+165044,21600096,4,9:43,nan,SUB: Watson FOR Augustin,nan,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+165045,21600096,4,9:43,nan,SUB: Wilcox FOR Hezonja,nan,1626209,Mario Hezonja,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Substitution ,nan
+165046,21600096,4,9:19,nan,Biyombo 6' Jump Shot (2 PTS) (Gordon 4 AST),67 - 94,202687,Bismack Biyombo,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Made Shot ,nan
+165047,21600096,4,9:09,MISS Wade 25' 3PT Jump Shot,nan,nan,2548,Dwyane Wade,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165048,21600096,4,9:08,nan,Rudez REBOUND (Off:0 Def:1),nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165049,21600096,4,8:59,nan,MISS Gordon 25' 3PT Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165050,21600096,4,8:58,Mirotic REBOUND (Off:1 Def:3),nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165051,21600096,4,8:40,Mirotic Bad Pass Turnover (P1.T6),Gordon STEAL (1 STL),nan,202703,Nikola Mirotic,CHI,203932,Aaron Gordon,ORL,0,nan,nan,Turnover ,Bad Pass
+165052,21600096,4,8:35,nan,MISS Gordon 2' Driving Layup,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165053,21600096,4,8:34,nan,Gordon REBOUND (Off:1 Def:3),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165054,21600096,4,8:34,nan,Gordon 3' Tip Layup Shot (12 PTS),69 - 94,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+165055,21600096,4,8:28,nan,Gordon S.FOUL (P2.T1) (L.Wood),nan,203932,Aaron Gordon,ORL,202703,Nikola Mirotic,CHI,0,nan,nan,Foul ,Shooting
+165056,21600096,4,8:28,Mirotic Free Throw 1 of 2 (6 PTS),nan,69 - 95,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165057,21600096,4,8:28,MISS Mirotic Free Throw 2 of 2,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165058,21600096,4,8:27,nan,Biyombo REBOUND (Off:2 Def:5),nan,202687,Bismack Biyombo,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165059,21600096,4,8:12,Wade STEAL (2 STL),Rudez Bad Pass Turnover (P1.T13),nan,204014,Damjan Rudez,ORL,2548,Dwyane Wade,CHI,0,nan,nan,Turnover ,Bad Pass
+165060,21600096,4,8:08,nan,Watson S.FOUL (P1.T2) (T.Brothers),nan,201228,C.J. Watson,ORL,203477,Isaiah Canaan,CHI,0,nan,nan,Foul ,Shooting
+165061,21600096,4,8:08,Canaan Free Throw 1 of 2 (9 PTS),nan,69 - 96,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165062,21600096,4,8:08,SUB: Grant FOR Wade,nan,nan,2548,Dwyane Wade,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Substitution ,nan
+165063,21600096,4,8:08,Canaan Free Throw 2 of 2 (10 PTS),nan,69 - 97,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165064,21600096,4,7:55,nan,Gordon 25' 3PT Jump Shot (15 PTS) (Watson 1 AST),72 - 97,203932,Aaron Gordon,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+165065,21600096,4,7:31,MISS Grant 17' Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165066,21600096,4,7:30,nan,Watson REBOUND (Off:0 Def:1),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165067,21600096,4,7:25,nan,MISS Gordon 26' 3PT Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165068,21600096,4,7:24,Grant REBOUND (Off:0 Def:1),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165069,21600096,4,7:11,McDermott 6' Jump Shot (9 PTS) (Portis 1 AST),nan,72 - 99,203926,Doug McDermott,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Made Shot ,nan
+165070,21600096,4,6:54,nan,MISS Gordon 22' Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165071,21600096,4,6:53,Canaan REBOUND (Off:0 Def:4),nan,nan,203477,Isaiah Canaan,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165072,21600096,4,6:42,MISS Mirotic 25' 3PT Jump Shot,nan,nan,202703,Nikola Mirotic,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165073,21600096,4,6:41,nan,Watson REBOUND (Off:0 Def:2),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165074,21600096,4,6:32,nan,MISS Watson 15' Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165075,21600096,4,6:31,Portis REBOUND (Off:2 Def:2),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165076,21600096,4,6:17,McDermott 1' Alley Oop Layup (11 PTS) (Portis 2 AST),nan,72 - 101,203926,Doug McDermott,CHI,1626171,Bobby Portis,CHI,0,nan,nan,Made Shot ,nan
+165077,21600096,4,6:17,nan,Magic Timeout: Short (Reg.4 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+165078,21600096,4,6:17,SUB: Felicio FOR Mirotic,nan,nan,202703,Nikola Mirotic,CHI,1626245,Cristiano Felicio,CHI,0,nan,nan,Substitution ,nan
+165079,21600096,4,6:17,SUB: Zipser FOR McDermott,nan,nan,203926,Doug McDermott,CHI,1627835,Paul Zipser,CHI,0,nan,nan,Substitution ,nan
+165080,21600096,4,6:17,SUB: Valentine FOR Canaan,nan,nan,203477,Isaiah Canaan,CHI,1627756,Denzel Valentine,CHI,0,nan,nan,Substitution ,nan
+165081,21600096,4,6:17,nan,SUB: Hezonja FOR Gordon,nan,203932,Aaron Gordon,ORL,1626209,Mario Hezonja,ORL,0,nan,nan,Substitution ,nan
+165082,21600096,4,6:17,nan,SUB: Onuaku FOR Biyombo,nan,202687,Bismack Biyombo,ORL,202620,Arinze Onuaku,ORL,0,nan,nan,Substitution ,nan
+165083,21600096,4,6:05,nan,Wilcox Out of Bounds - Bad Pass Turnover Turnover (P1.T14),nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+165084,21600096,4,5:53,nan,Hezonja P.FOUL (P3.T3) (L.Wood),nan,1626209,Mario Hezonja,ORL,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Personal
+165085,21600096,4,5:53,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165086,21600096,4,5:46,MISS Grant  3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165087,21600096,4,5:44,Portis REBOUND (Off:3 Def:2),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165088,21600096,4,5:39,BULLS Turnover: Shot Clock (T#7),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+165089,21600096,4,5:31,Grant P.FOUL (P1.T2) (T.Brothers),nan,nan,1626170,Jerian Grant,CHI,204014,Damjan Rudez,ORL,0,nan,nan,Foul ,Personal
+165090,21600096,4,5:22,nan,MISS Hezonja 25' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165091,21600096,4,5:21,Grant REBOUND (Off:0 Def:2),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165092,21600096,4,5:15,Felicio  Cutting Dunk Shot (2 PTS) (Zipser 1 AST),nan,72 - 103,1626245,Cristiano Felicio,CHI,1627835,Paul Zipser,CHI,0,nan,nan,Made Shot ,nan
+165093,21600096,4,4:55,nan,MISS Hezonja 2' Layup,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165094,21600096,4,4:55,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165095,21600096,4,4:55,nan,Hezonja Traveling Turnover (P2.T15),nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Turnover ,Traveling
+165096,21600096,4,4:38,MISS Portis 22' Jump Shot,nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165097,21600096,4,4:37,nan,Wilcox REBOUND (Off:0 Def:1),nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165098,21600096,4,4:23,nan,MISS Rudez 18' Jump Shot,nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165099,21600096,4,4:22,Valentine REBOUND (Off:0 Def:1),nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165100,21600096,4,4:07,MISS Zipser 25' 3PT Jump Shot,nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165101,21600096,4,4:06,Grant REBOUND (Off:1 Def:2),nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165102,21600096,4,4:00,Portis  Dunk (7 PTS) (Grant 1 AST),nan,72 - 105,1626171,Bobby Portis,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Made Shot ,nan
+165103,21600096,4,3:46,nan,MISS Hezonja 28' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165104,21600096,4,3:45,Zipser REBOUND (Off:0 Def:1),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165105,21600096,4,3:35,nan,Onuaku P.FOUL (P1.T4) (J.Williams),nan,202620,Arinze Onuaku,ORL,1627835,Paul Zipser,CHI,0,nan,nan,Foul ,Personal
+165106,21600096,4,3:29,Valentine 26' 3PT Jump Shot (3 PTS) (Grant 2 AST),nan,72 - 108,1627756,Denzel Valentine,CHI,1626170,Jerian Grant,CHI,0,nan,nan,Made Shot ,nan
+165107,21600096,4,3:17,nan,MISS Hezonja 5' Floating Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165108,21600096,4,3:16,Portis REBOUND (Off:3 Def:3),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165109,21600096,4,3:06,MISS Grant 17' Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165110,21600096,4,3:05,Felicio REBOUND (Off:1 Def:0),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165111,21600096,4,2:51,MISS Grant 20' Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165112,21600096,4,2:49,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165113,21600096,4,2:49,BULLS Timeout: Regular (Full 4 Short 1),nan,nan,1610612741,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+165114,21600096,4,2:49,nan,SUB: Augustin FOR Hezonja,nan,1626209,Mario Hezonja,ORL,201571,D.J. Augustin,ORL,0,nan,nan,Substitution ,nan
+165115,21600096,4,2:22,nan,MISS Watson 22' Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165116,21600096,4,2:21,Zipser REBOUND (Off:0 Def:2),nan,nan,1627835,Paul Zipser,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165117,21600096,4,2:10,nan,Rudez P.FOUL (P1.PN) (T.Brothers),nan,204014,Damjan Rudez,ORL,1626171,Bobby Portis,CHI,0,nan,nan,Foul ,Personal
+165118,21600096,4,2:10,Portis Free Throw 1 of 2 (8 PTS),nan,72 - 109,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165119,21600096,4,2:10,Portis Free Throw 2 of 2 (9 PTS),nan,72 - 110,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165120,21600096,4,1:55,Zipser S.FOUL (P1.T3) (T.Brothers),nan,nan,1627835,Paul Zipser,CHI,203912,CJ Wilcox,ORL,0,nan,nan,Foul ,Shooting
+165121,21600096,4,1:55,nan,Wilcox Free Throw 1 of 2 (1 PTS),73 - 110,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165122,21600096,4,1:55,nan,Wilcox Free Throw 2 of 2 (2 PTS),74 - 110,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165123,21600096,4,1:38,MISS Valentine 20' Jump Shot,nan,nan,1627756,Denzel Valentine,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165124,21600096,4,1:37,nan,Onuaku REBOUND (Off:0 Def:1),nan,202620,Arinze Onuaku,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165125,21600096,4,1:27,nan,Watson 25' 3PT Jump Shot (3 PTS) (Wilcox 1 AST),77 - 110,201228,C.J. Watson,ORL,203912,CJ Wilcox,ORL,0,nan,nan,Made Shot ,nan
+165126,21600096,4,1:15,Grant 15' Fadeaway Jumper (2 PTS),nan,77 - 112,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Made Shot ,nan
+165127,21600096,4,1:02,nan,MISS Rudez 15' Jump Shot,nan,204014,Damjan Rudez,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165128,21600096,4,1:01,Felicio REBOUND (Off:1 Def:1),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165129,21600096,4,0:51,Zipser Bad Pass Turnover (P1.T8),Rudez STEAL (1 STL),nan,1627835,Paul Zipser,CHI,204014,Damjan Rudez,ORL,0,nan,nan,Turnover ,Bad Pass
+165130,21600096,4,0:45,nan,MISS Wilcox 25' 3PT Jump Shot,nan,203912,CJ Wilcox,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165131,21600096,4,0:44,Felicio REBOUND (Off:1 Def:2),nan,nan,1626245,Cristiano Felicio,CHI,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165132,21600096,4,0:32,MISS Grant 26' 3PT Jump Shot,nan,nan,1626170,Jerian Grant,CHI,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165133,21600096,4,0:31,nan,Watson REBOUND (Off:0 Def:3),nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165134,21600096,4,0:25,nan,Wilcox 24' 3PT Jump Shot (5 PTS) (Rudez 1 AST),80 - 112,203912,CJ Wilcox,ORL,204014,Damjan Rudez,ORL,0,nan,nan,Made Shot ,nan
+165135,21600096,4,0:01,Portis Out of Bounds Lost Ball Turnover (P1.T9),nan,nan,1626171,Bobby Portis,CHI,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+165136,21600096,4,0:00,nan,nan,80 - 112,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

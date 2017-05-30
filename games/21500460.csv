@@ -1,0 +1,108 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+57470,21500460,4,12:00,nan,nan,64 - 75,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+57471,21500460,4,11:42,Nicholson 6' Hook Shot (4 PTS),nan,64 - 77,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57472,21500460,4,11:29,nan,Ajinca  Dunk (2 PTS) (Evans 7 AST),66 - 77,201582,Alexis Ajinca,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+57473,21500460,4,11:08,Nicholson 7' Hook Shot (6 PTS),nan,66 - 79,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57474,21500460,4,10:52,nan,Evans 25' 3PT Jump Shot (12 PTS) (Anderson 3 AST),69 - 79,201936,Tyreke Evans,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+57475,21500460,4,10:38,Hezonja 25' 3PT Jump Shot (5 PTS) (Smith 1 AST),nan,69 - 82,1626209,Mario Hezonja,ORL,201160,Jason Smith,ORL,0,nan,nan,Made Shot ,nan
+57476,21500460,4,10:20,nan,MISS Gee 24' 3PT Jump Shot,nan,202087,Alonzo Gee,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57477,21500460,4,10:19,nan,Evans REBOUND (Off:2 Def:1),nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57478,21500460,4,10:16,nan,MISS Evans 1' Driving Layup,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57479,21500460,4,10:15,Nicholson REBOUND (Off:0 Def:1),nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57480,21500460,4,10:07,Nicholson 24' 3PT Jump Shot (9 PTS) (Oladipo 4 AST),nan,69 - 85,203094,Andrew Nicholson,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+57481,21500460,4,9:50,nan,MISS Cole 20' Pullup Jump Shot,nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57482,21500460,4,9:50,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57483,21500460,4,9:36,Smith 21' Jump Shot (4 PTS) (Oladipo 5 AST),nan,69 - 87,201160,Jason Smith,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+57484,21500460,4,9:36,nan,Pelicans Timeout: Regular (Reg.5 Short 1),nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57485,21500460,4,9:36,nan,SUB: Gordon FOR Gee,nan,202087,Alonzo Gee,NOP,201569,Eric Gordon,NOP,0,nan,nan,Substitution ,nan
+57486,21500460,4,9:36,nan,SUB: Holiday FOR Cole,nan,202708,Norris Cole,NOP,201950,Jrue Holiday,NOP,0,nan,nan,Substitution ,nan
+57487,21500460,4,9:26,Smith P.FOUL (P2.T1) (M.Lindsay),nan,nan,201160,Jason Smith,ORL,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Personal
+57488,21500460,4,9:20,nan,Ajinca 6' Floating Jump Shot (4 PTS),71 - 87,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+57489,21500460,4,9:20,Smith S.FOUL (P3.T2) (M.Lindsay),nan,nan,201160,Jason Smith,ORL,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Shooting
+57490,21500460,4,9:20,nan,Ajinca Free Throw 1 of 1 (5 PTS),72 - 87,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57491,21500460,4,9:06,Nicholson 8' Hook Shot (11 PTS),nan,72 - 89,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57492,21500460,4,8:50,nan,Evans 1' Driving Layup (14 PTS) (Anderson 4 AST),74 - 89,201936,Tyreke Evans,NOP,201583,Ryan Anderson,NOP,0,nan,nan,Made Shot ,nan
+57493,21500460,4,8:43,nan,Ajinca P.FOUL (P1.T1) (M.Lindsay),nan,201582,Alexis Ajinca,NOP,203094,Andrew Nicholson,ORL,0,nan,nan,Foul ,Personal
+57494,21500460,4,8:27,nan,Ajinca S.FOUL (P2.T2) (K.Lane),nan,201582,Alexis Ajinca,NOP,203094,Andrew Nicholson,ORL,0,nan,nan,Foul ,Shooting
+57495,21500460,4,8:27,MISS Nicholson Free Throw 1 of 2,nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57496,21500460,4,8:27,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+57497,21500460,4,8:27,SUB: Fournier FOR Hezonja,nan,nan,1626209,Mario Hezonja,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+57498,21500460,4,8:27,MISS Nicholson Free Throw 2 of 2,nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57499,21500460,4,8:26,nan,Ajinca REBOUND (Off:0 Def:1),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57500,21500460,4,8:14,nan,MISS Gordon 24' 3PT Jump Shot,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57501,21500460,4,8:14,Harris REBOUND (Off:1 Def:7),nan,nan,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57502,21500460,4,7:49,MISS Fournier 8' Floating Jump Shot,Ajinca BLOCK (1 BLK),nan,203095,Evan Fournier,ORL,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+57503,21500460,4,7:49,Nicholson REBOUND (Off:1 Def:1),nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57504,21500460,4,7:49,MAGIC Turnover: Shot Clock (T#8),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+57505,21500460,4,7:49,nan,SUB: Davis FOR Anderson,nan,201583,Ryan Anderson,NOP,203076,Anthony Davis,NOP,0,nan,nan,Substitution ,nan
+57506,21500460,4,7:35,nan,Holiday 2' Driving Layup (11 PTS),76 - 89,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+57507,21500460,4,7:19,Harris 3' Driving Layup (10 PTS),nan,76 - 91,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57508,21500460,4,7:19,nan,Evans S.FOUL (P2.T3) (J.Goble),nan,201936,Tyreke Evans,NOP,202699,Tobias Harris,ORL,0,nan,nan,Foul ,Shooting
+57509,21500460,4,7:19,SUB: Vucevic FOR Smith,nan,nan,201160,Jason Smith,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+57510,21500460,4,7:19,Harris Free Throw 1 of 1 (11 PTS),nan,76 - 92,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57511,21500460,4,6:58,nan,MISS Holiday  3PT Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57512,21500460,4,6:57,Nicholson REBOUND (Off:1 Def:2),nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57513,21500460,4,6:45,Nicholson  Driving Dunk (13 PTS) (Vucevic 7 AST),nan,76 - 94,203094,Andrew Nicholson,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+57514,21500460,4,6:45,nan,Evans S.FOUL (P3.T4) (K.Lane),nan,201936,Tyreke Evans,NOP,203094,Andrew Nicholson,ORL,0,nan,nan,Foul ,Shooting
+57515,21500460,4,6:45,MISS Nicholson Free Throw 1 of 1,nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57516,21500460,4,6:43,nan,Ajinca REBOUND (Off:0 Def:2),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57517,21500460,4,6:21,nan,Gordon  3PT Jump Shot (3 PTS) (Evans 8 AST),79 - 94,201569,Eric Gordon,NOP,201936,Tyreke Evans,NOP,0,nan,nan,Made Shot ,nan
+57518,21500460,4,5:57,Harris 25' 3PT Jump Shot (14 PTS) (Nicholson 1 AST),nan,79 - 97,202699,Tobias Harris,ORL,203094,Andrew Nicholson,ORL,0,nan,nan,Made Shot ,nan
+57519,21500460,4,5:36,nan,MISS Holiday 7' Floating Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57520,21500460,4,5:35,Harris REBOUND (Off:1 Def:8),nan,nan,202699,Tobias Harris,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57521,21500460,4,5:27,MISS Nicholson 2' Layup,Davis BLOCK (1 BLK),nan,203094,Andrew Nicholson,ORL,0,nan,nan,203076,Anthony Davis,NOP,Missed Shot ,nan
+57522,21500460,4,5:27,nan,Pelicans Rebound,nan,1610612740,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57523,21500460,4,5:27,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+57524,21500460,4,5:07,nan,Gordon Out of Bounds - Bad Pass Turnover Turnover (P2.T12),nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+57525,21500460,4,4:48,MISS Vucevic 7' Hook Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57526,21500460,4,4:47,nan,Davis REBOUND (Off:2 Def:5),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57527,21500460,4,4:34,nan,MISS Gordon 20' Pullup Jump Shot,nan,201569,Eric Gordon,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57528,21500460,4,4:34,Vucevic REBOUND (Off:0 Def:8),nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57529,21500460,4,4:09,MISS Oladipo 12' Jump Shot,Holiday BLOCK (1 BLK),nan,203506,Victor Oladipo,ORL,0,nan,nan,201950,Jrue Holiday,NOP,Missed Shot ,nan
+57530,21500460,4,4:09,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57531,21500460,4,4:09,MAGIC Turnover: Shot Clock (T#9),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+57532,21500460,4,4:04,Nicholson P.FOUL (P2.T3) (M.Lindsay),nan,nan,203094,Andrew Nicholson,ORL,203076,Anthony Davis,NOP,0,nan,nan,Foul ,Personal
+57533,21500460,4,3:58,nan,Davis Backcourt Turnover (P2.T13),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Turnover ,Backcourt Turnover
+57534,21500460,4,3:58,nan,SUB: Cole FOR Gordon,nan,201569,Eric Gordon,NOP,202708,Norris Cole,NOP,0,nan,nan,Substitution ,nan
+57535,21500460,4,3:49,MISS Vucevic 19' Jump Shot,nan,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57536,21500460,4,3:49,nan,Davis REBOUND (Off:2 Def:6),nan,203076,Anthony Davis,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57537,21500460,4,3:30,nan,MISS Holiday 8' Floating Jump Shot,nan,201950,Jrue Holiday,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57538,21500460,4,3:29,Nicholson REBOUND (Off:1 Def:3),nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57539,21500460,4,3:11,MISS Fournier 25' 3PT Pullup Jump Shot,nan,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57540,21500460,4,3:10,nan,Evans REBOUND (Off:2 Def:2),nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57541,21500460,4,2:57,nan,MISS Evans 10' Jump Shot,nan,201936,Tyreke Evans,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57542,21500460,4,2:56,Nicholson REBOUND (Off:1 Def:4),nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57543,21500460,4,2:34,Fournier Bad Pass Turnover (P1.T10),Cole STEAL (1 STL),nan,203095,Evan Fournier,ORL,202708,Norris Cole,NOP,0,nan,nan,Turnover ,Bad Pass
+57544,21500460,4,2:28,nan,Evans 1' Running Layup (16 PTS) (Cole 3 AST),81 - 97,201936,Tyreke Evans,NOP,202708,Norris Cole,NOP,0,nan,nan,Made Shot ,nan
+57545,21500460,4,2:10,Vucevic 2' Driving Layup (28 PTS) (Oladipo 6 AST),nan,81 - 99,202696,Nikola Vucevic,ORL,203506,Victor Oladipo,ORL,0,nan,nan,Made Shot ,nan
+57546,21500460,4,2:02,Harris Personal Take Foul (P1.T4) (K.Lane),nan,nan,202699,Tobias Harris,ORL,201936,Tyreke Evans,NOP,0,nan,nan,Foul ,Personal Take
+57547,21500460,4,2:02,MAGIC Timeout: Regular (Full 5 Short 0),nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+57548,21500460,4,2:02,SUB: Dedmon FOR Harris,nan,nan,202699,Tobias Harris,ORL,203473,Dewayne Dedmon,ORL,0,nan,nan,Substitution ,nan
+57549,21500460,4,2:02,SUB: Napier FOR Vucevic,nan,nan,202696,Nikola Vucevic,ORL,203894,Shabazz Napier,ORL,0,nan,nan,Substitution ,nan
+57550,21500460,4,2:02,SUB: Gordon FOR Fournier,nan,nan,203095,Evan Fournier,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+57551,21500460,4,2:02,SUB: Marble FOR Oladipo,nan,nan,203506,Victor Oladipo,ORL,203906,Devyn Marble,ORL,0,nan,nan,Substitution ,nan
+57552,21500460,4,2:02,nan,SUB: Douglas FOR Davis,nan,203076,Anthony Davis,NOP,201962,Toney Douglas,NOP,0,nan,nan,Substitution ,nan
+57553,21500460,4,2:02,nan,SUB: Gee FOR Evans,nan,201936,Tyreke Evans,NOP,202087,Alonzo Gee,NOP,0,nan,nan,Substitution ,nan
+57554,21500460,4,2:02,nan,SUB: Cunningham FOR Holiday,nan,201950,Jrue Holiday,NOP,201967,Dante Cunningham,NOP,0,nan,nan,Substitution ,nan
+57555,21500460,4,1:53,Dedmon P.FOUL (P1.PN) (K.Lane),nan,nan,203473,Dewayne Dedmon,ORL,201582,Alexis Ajinca,NOP,0,nan,nan,Foul ,Personal
+57556,21500460,4,1:53,nan,Ajinca Free Throw 1 of 2 (6 PTS),82 - 99,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+57557,21500460,4,1:53,nan,Ajinca Free Throw 2 of 2 (7 PTS),83 - 99,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+57558,21500460,4,1:39,Napier Bad Pass Turnover (P1.T11),Douglas STEAL (1 STL),nan,203894,Shabazz Napier,ORL,201962,Toney Douglas,NOP,0,nan,nan,Turnover ,Bad Pass
+57559,21500460,4,1:33,nan,Gee 1' Running Layup (2 PTS) (Douglas 1 AST),85 - 99,202087,Alonzo Gee,NOP,201962,Toney Douglas,NOP,0,nan,nan,Made Shot ,nan
+57560,21500460,4,1:16,MISS Napier 17' Pullup Jump Shot,nan,nan,203894,Shabazz Napier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57561,21500460,4,1:16,nan,Ajinca REBOUND (Off:0 Def:3),nan,201582,Alexis Ajinca,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57562,21500460,4,1:06,nan,Cunningham 6' Hook Shot (4 PTS) (Douglas 2 AST),87 - 99,201967,Dante Cunningham,NOP,201962,Toney Douglas,NOP,0,nan,nan,Made Shot ,nan
+57563,21500460,4,0:56,MISS Napier 2' Driving Layup,Ajinca BLOCK (2 BLK),nan,203894,Shabazz Napier,ORL,0,nan,nan,201582,Alexis Ajinca,NOP,Missed Shot ,nan
+57564,21500460,4,0:56,MAGIC Rebound,nan,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57565,21500460,4,0:49,Gordon  Driving Reverse Layup (4 PTS),nan,87 - 101,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57566,21500460,4,0:41,nan,MISS Douglas 21' Pullup Jump Shot,nan,201962,Toney Douglas,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57567,21500460,4,0:41,Marble REBOUND (Off:0 Def:1),nan,nan,203906,Devyn Marble,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57568,21500460,4,0:19,MISS Nicholson 1' Reverse Layup,nan,nan,203094,Andrew Nicholson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57569,21500460,4,0:19,Gordon REBOUND (Off:1 Def:3),nan,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57570,21500460,4,0:19,Gordon 1' Putback Layup (6 PTS),nan,87 - 103,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+57571,21500460,4,0:19,nan,Gee S.FOUL (P2.PN) (J.Goble),nan,202087,Alonzo Gee,NOP,203932,Aaron Gordon,ORL,0,nan,nan,Foul ,Shooting
+57572,21500460,4,0:19,Gordon Free Throw 1 of 1 (7 PTS),nan,87 - 104,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+57573,21500460,4,0:07,nan,MISS Cole 18' Pullup Jump Shot,nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Missed Shot ,nan
+57574,21500460,4,0:06,nan,Cole REBOUND (Off:1 Def:7),nan,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Rebound ,Unknown
+57575,21500460,4,0:05,nan,Cole 20' Jump Shot (17 PTS),89 - 104,202708,Norris Cole,NOP,0,nan,nan,0,nan,nan,Made Shot ,nan
+57576,21500460,4,0:00,nan,nan,89 - 104,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

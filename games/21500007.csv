@@ -1,0 +1,128 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+781,21500007,4,12:00,nan,nan,64 - 69,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+782,21500007,4,11:40,nan,MISS Burks 15' Jump Shot,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+783,21500007,4,11:39,Johnson REBOUND (Off:1 Def:3),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+784,21500007,4,11:17,Blake 12' Jump Shot (2 PTS),nan,64 - 71,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+785,21500007,4,11:00,nan,MISS Millsap 1' Layup,nan,202407,Elijah Millsap,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+786,21500007,4,10:59,Blake REBOUND (Off:0 Def:4),nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+787,21500007,4,10:58,nan,Hood S.FOUL (P4.T1) (S.Wall),nan,203918,Rodney Hood,UTA,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+788,21500007,4,10:58,Johnson Free Throw 1 of 2 (4 PTS),nan,64 - 72,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+789,21500007,4,10:58,nan,SUB: Ingles FOR Lyles,nan,1626168,Trey Lyles,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+790,21500007,4,10:58,Johnson Free Throw 2 of 2 (5 PTS),nan,64 - 73,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+791,21500007,4,10:46,nan,Hood 15' Jump Shot (12 PTS),66 - 73,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+792,21500007,4,10:27,MISS Baynes 11' Jump Shot,nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+793,21500007,4,10:27,Tolliver REBOUND (Off:1 Def:3),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+794,21500007,4,10:15,MISS Johnson 6' Jump Shot,Gobert BLOCK (2 BLK),nan,1626169,Stanley Johnson,DET,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+795,21500007,4,10:14,Johnson REBOUND (Off:2 Def:3),nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+796,21500007,4,10:14,nan,Hood S.FOUL (P5.T2) (S.Wall),nan,203918,Rodney Hood,UTA,1626169,Stanley Johnson,DET,0,nan,nan,Foul ,Shooting
+797,21500007,4,10:14,Johnson Free Throw 1 of 2 (6 PTS),nan,66 - 74,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+798,21500007,4,10:14,nan,SUB: Neto FOR Hood,nan,203918,Rodney Hood,UTA,203526,Raul Neto,UTA,0,nan,nan,Substitution ,nan
+799,21500007,4,10:14,Johnson Free Throw 2 of 2 (7 PTS),nan,66 - 75,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+800,21500007,4,9:55,Baynes S.FOUL (P2.T1) (S.Wall),nan,nan,203382,Aron Baynes,DET,202692,Alec Burks,UTA,0,nan,nan,Foul ,Shooting
+801,21500007,4,9:55,nan,Burks Free Throw 1 of 2 (9 PTS),67 - 75,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+802,21500007,4,9:55,nan,Burks Free Throw 2 of 2 (10 PTS),68 - 75,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+803,21500007,4,9:41,MISS Bullock  3PT Jump Shot,nan,nan,203493,Reggie Bullock,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+804,21500007,4,9:41,nan,Gobert REBOUND (Off:0 Def:11),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+805,21500007,4,9:31,nan,Burks 1' Driving Layup (12 PTS),70 - 75,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+806,21500007,4,9:24,Johnson 1' Layup (9 PTS) (Blake 7 AST),nan,70 - 77,1626169,Stanley Johnson,DET,2581,Steve Blake,DET,0,nan,nan,Made Shot ,nan
+807,21500007,4,9:16,nan,MISS Burks  Layup,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+808,21500007,4,9:15,Tolliver REBOUND (Off:1 Def:4),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+809,21500007,4,9:04,MISS Tolliver 17' Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+810,21500007,4,9:04,nan,Burks REBOUND (Off:0 Def:4),nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+811,21500007,4,8:44,nan,Ingles 1' Driving Layup (4 PTS),72 - 77,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+812,21500007,4,8:26,MISS Johnson 27' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+813,21500007,4,8:25,nan,Gobert REBOUND (Off:0 Def:12),nan,203497,Rudy Gobert,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+814,21500007,4,8:03,nan,MISS Neto 10' Jump Shot,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+815,21500007,4,8:03,Baynes REBOUND (Off:2 Def:1),nan,nan,203382,Aron Baynes,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+816,21500007,4,7:50,MISS Tolliver 9' Jump Shot,nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+817,21500007,4,7:50,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+818,21500007,4,7:50,nan,Millsap L.B.FOUL (P2.T3) (J.Crawford),nan,202407,Elijah Millsap,UTA,203382,Aron Baynes,DET,0,nan,nan,Foul ,Loose Ball
+819,21500007,4,7:50,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+820,21500007,4,7:50,nan,SUB: Hayward FOR Millsap,nan,202407,Elijah Millsap,UTA,202330,Gordon Hayward,UTA,0,nan,nan,Substitution ,nan
+821,21500007,4,7:37,MISS Johnson 5' Jump Shot,Hayward BLOCK (1 BLK),nan,1626169,Stanley Johnson,DET,0,nan,nan,202330,Gordon Hayward,UTA,Missed Shot ,nan
+822,21500007,4,7:35,nan,Ingles REBOUND (Off:0 Def:2),nan,204060,Joe Ingles,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+823,21500007,4,7:19,nan,Neto 24' 3PT Jump Shot (8 PTS) (Burks 1 AST),75 - 77,203526,Raul Neto,UTA,202692,Alec Burks,UTA,0,nan,nan,Made Shot ,nan
+824,21500007,4,6:58,MISS Blake 25' 3PT Jump Shot,nan,nan,2581,Steve Blake,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+825,21500007,4,6:58,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+826,21500007,4,6:58,Baynes L.B.FOUL (P3.T2) (J.VanDuyne),nan,nan,203382,Aron Baynes,DET,203497,Rudy Gobert,UTA,0,nan,nan,Foul ,Loose Ball
+827,21500007,4,6:58,SUB: Jackson FOR Blake,nan,nan,2581,Steve Blake,DET,202704,Reggie Jackson,DET,0,nan,nan,Substitution ,nan
+828,21500007,4,6:58,SUB: Drummond FOR Baynes,nan,nan,203382,Aron Baynes,DET,203083,Andre Drummond,DET,0,nan,nan,Substitution ,nan
+829,21500007,4,6:44,nan,MISS Burks 21' Jump Shot,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+830,21500007,4,6:44,Tolliver REBOUND (Off:1 Def:5),nan,nan,201229,Anthony Tolliver,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+831,21500007,4,6:35,Johnson 1' Driving Finger Roll Layup (11 PTS),nan,75 - 79,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+832,21500007,4,6:20,Johnson S.FOUL (P2.T3) (S.Wall),nan,nan,1626169,Stanley Johnson,DET,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+833,21500007,4,6:20,nan,MISS Hayward Free Throw 1 of 2,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+834,21500007,4,6:20,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+835,21500007,4,6:20,SUB: Marc Morris FOR Tolliver,nan,nan,201229,Anthony Tolliver,DET,202694,Marcus Morris,DET,0,nan,nan,Substitution ,nan
+836,21500007,4,6:20,nan,SUB: Favors FOR Gobert,nan,203497,Rudy Gobert,UTA,202324,Derrick Favors,UTA,0,nan,nan,Substitution ,nan
+837,21500007,4,6:20,nan,Hayward Free Throw 2 of 2 (10 PTS),76 - 79,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+838,21500007,4,5:55,MISS Johnson 26' 3PT Jump Shot,nan,nan,1626169,Stanley Johnson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+839,21500007,4,5:55,nan,Burks REBOUND (Off:0 Def:5),nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+840,21500007,4,5:48,nan,Neto Traveling Turnover (P1.T11),nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Turnover ,Traveling
+841,21500007,4,5:48,PISTONS Timeout: Regular (Full 4 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+842,21500007,4,5:48,SUB: Caldwell-Pope FOR Bullock,nan,nan,203493,Reggie Bullock,DET,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Substitution ,nan
+843,21500007,4,5:31,Jackson OFF.Foul (P1) (S.Wall),nan,nan,202704,Reggie Jackson,DET,203526,Raul Neto,UTA,0,nan,nan,Foul ,Offensive
+844,21500007,4,5:31,Jackson Foul Turnover (P3.T9),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Turnover ,Foul
+845,21500007,4,5:11,Drummond BLOCK (2 BLK),MISS Burks 5' Jump Shot,nan,202692,Alec Burks,UTA,0,nan,nan,203083,Andre Drummond,DET,Missed Shot ,nan
+846,21500007,4,5:09,Jackson REBOUND (Off:0 Def:1),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+847,21500007,4,5:04,Caldwell-Pope 9' Running Jump Shot (14 PTS),nan,76 - 81,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+848,21500007,4,4:55,Johnson S.FOUL (P3.T4) (J.VanDuyne),nan,nan,1626169,Stanley Johnson,DET,202324,Derrick Favors,UTA,0,nan,nan,Foul ,Shooting
+849,21500007,4,4:55,nan,Favors Free Throw 1 of 2 (25 PTS),77 - 81,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+850,21500007,4,4:55,nan,Favors Free Throw 2 of 2 (26 PTS),78 - 81,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+851,21500007,4,4:42,nan,Favors S.FOUL (P2.T4) (S.Wall),nan,202324,Derrick Favors,UTA,203083,Andre Drummond,DET,0,nan,nan,Foul ,Shooting
+852,21500007,4,4:42,Drummond Free Throw 1 of 2 (17 PTS),nan,78 - 82,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+853,21500007,4,4:42,nan,SUB: Gobert FOR Ingles,nan,204060,Joe Ingles,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+854,21500007,4,4:42,SUB: Ilyasova FOR Johnson,nan,nan,1626169,Stanley Johnson,DET,101141,Ersan Ilyasova,DET,0,nan,nan,Substitution ,nan
+855,21500007,4,4:42,Drummond Free Throw 2 of 2 (18 PTS),nan,78 - 83,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+856,21500007,4,4:23,nan,MISS Neto 9' Jump Shot,nan,203526,Raul Neto,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+857,21500007,4,4:20,Marc Morris REBOUND (Off:1 Def:4),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+858,21500007,4,3:58,MISS Caldwell-Pope 8' Jump Shot,nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+859,21500007,4,3:58,nan,Burks REBOUND (Off:0 Def:6),nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+860,21500007,4,3:48,nan,Burks 8' Floating Jump Shot (14 PTS),80 - 83,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+861,21500007,4,3:32,Jackson 26' 3PT Jump Shot (15 PTS),nan,80 - 86,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+862,21500007,4,3:27,nan,Jazz Timeout: Regular (Reg.4 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+863,21500007,4,3:27,nan,SUB: Hood FOR Neto,nan,203526,Raul Neto,UTA,203918,Rodney Hood,UTA,0,nan,nan,Substitution ,nan
+864,21500007,4,3:20,nan,Hayward OFF.Foul (P3) (J.Crawford),nan,202330,Gordon Hayward,UTA,202694,Marcus Morris,DET,0,nan,nan,Foul ,Offensive
+865,21500007,4,3:20,nan,Hayward Foul Turnover (P4.T12),nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Turnover ,Foul
+866,21500007,4,2:57,MISS Drummond 6' Hook Shot,nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+867,21500007,4,2:57,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+868,21500007,4,2:38,Ilyasova S.FOUL (P4.PN) (J.VanDuyne),nan,nan,101141,Ersan Ilyasova,DET,202330,Gordon Hayward,UTA,0,nan,nan,Foul ,Shooting
+869,21500007,4,2:38,nan,MISS Hayward Free Throw 1 of 2,nan,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+870,21500007,4,2:38,nan,Jazz Rebound,nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+871,21500007,4,2:38,nan,Hayward Free Throw 2 of 2 (11 PTS),81 - 86,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+872,21500007,4,2:12,MISS Jackson 7' Jump Shot,nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Missed Shot ,nan
+873,21500007,4,2:10,PISTONS Rebound,nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+874,21500007,4,2:10,PISTONS Turnover: Shot Clock (T#10),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+875,21500007,4,1:58,nan,Burks 14' Jump Shot (16 PTS),83 - 86,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+876,21500007,4,1:42,Caldwell-Pope Bad Pass Turnover (P2.T11),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Turnover ,Bad Pass
+877,21500007,4,1:21,nan,Burks 10' Jump Shot (18 PTS),85 - 86,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+878,21500007,4,1:04,MISS Marc Morris 5' Jump Shot,Gobert BLOCK (3 BLK),nan,202694,Marcus Morris,DET,0,nan,nan,203497,Rudy Gobert,UTA,Missed Shot ,nan
+879,21500007,4,1:02,nan,Hood REBOUND (Off:1 Def:3),nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Rebound ,Unknown
+880,21500007,4,0:52,nan,MISS Favors 10' Jump Shot,nan,202324,Derrick Favors,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+881,21500007,4,0:51,Drummond REBOUND (Off:2 Def:8),nan,nan,203083,Andre Drummond,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+882,21500007,4,0:41,Jackson Lost Ball Turnover (P4.T12),Favors STEAL (1 STL),nan,202704,Reggie Jackson,DET,202324,Derrick Favors,UTA,0,nan,nan,Turnover ,Lost Ball
+883,21500007,4,0:23,nan,Hayward 1' Driving Layup (13 PTS),87 - 86,202330,Gordon Hayward,UTA,0,nan,nan,0,nan,nan,Made Shot ,nan
+884,21500007,4,0:23,PISTONS Timeout: Regular (Full 5 Short 0),nan,nan,1610612765,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+885,21500007,4,0:17,Jackson 1' Driving Layup (17 PTS),nan,87 - 88,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Made Shot ,nan
+886,21500007,4,0:17,nan,Jazz Timeout: Regular (Reg.5 Short 1),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+887,21500007,4,0:17,nan,SUB: Ingles FOR Gobert,nan,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+888,21500007,4,0:17,SUB: Johnson FOR Ilyasova,nan,nan,101141,Ersan Ilyasova,DET,1626169,Stanley Johnson,DET,0,nan,nan,Substitution ,nan
+889,21500007,4,0:09,nan,MISS Burks 13' Jump Shot,nan,202692,Alec Burks,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+890,21500007,4,0:09,Caldwell-Pope REBOUND (Off:0 Def:5),nan,nan,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+891,21500007,4,0:09,nan,Burks P.FOUL (P4.PN) (J.VanDuyne),nan,202692,Alec Burks,UTA,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,Foul ,Personal
+892,21500007,4,0:09,Caldwell-Pope Free Throw 1 of 2 (15 PTS),nan,87 - 89,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+893,21500007,4,0:09,nan,SUB: Gobert FOR Ingles,nan,204060,Joe Ingles,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+894,21500007,4,0:09,Caldwell-Pope Free Throw 2 of 2 (16 PTS),nan,87 - 90,203484,Kentavious Caldwell-Pope,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+895,21500007,4,0:09,nan,Jazz Timeout: Short (Reg.5 Short 2),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+896,21500007,4,0:09,nan,SUB: Ingles FOR Gobert,nan,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+897,21500007,4,0:05,Caldwell-Pope BLOCK (1 BLK),MISS Hood 26' 3PT Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,203484,Kentavious Caldwell-Pope,DET,Missed Shot ,nan
+898,21500007,4,0:05,Jackson REBOUND (Off:0 Def:2),nan,nan,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+899,21500007,4,0:05,nan,Favors P.FOUL (P3.PN) (J.Crawford),nan,202324,Derrick Favors,UTA,202704,Reggie Jackson,DET,0,nan,nan,Foul ,Personal
+900,21500007,4,0:05,Jackson Free Throw 1 of 2 (18 PTS),nan,87 - 91,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+901,21500007,4,0:05,nan,SUB: Gobert FOR Ingles,nan,204060,Joe Ingles,UTA,203497,Rudy Gobert,UTA,0,nan,nan,Substitution ,nan
+902,21500007,4,0:05,Jackson Free Throw 2 of 2 (19 PTS),nan,87 - 92,202704,Reggie Jackson,DET,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+903,21500007,4,0:05,nan,Jazz Timeout: Short (Reg.5 Short 3),nan,1610612762,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+904,21500007,4,0:05,nan,SUB: Ingles FOR Gobert,nan,203497,Rudy Gobert,UTA,204060,Joe Ingles,UTA,0,nan,nan,Substitution ,nan
+905,21500007,4,0:01,nan,MISS Hood 27' 3PT Jump Shot,nan,203918,Rodney Hood,UTA,0,nan,nan,0,nan,nan,Missed Shot ,nan
+906,21500007,4,0:00,Marc Morris REBOUND (Off:1 Def:5),nan,nan,202694,Marcus Morris,DET,0,nan,nan,0,nan,nan,Rebound ,Unknown
+907,21500007,4,0:00,nan,nan,87 - 92,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

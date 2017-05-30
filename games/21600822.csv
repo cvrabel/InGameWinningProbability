@@ -1,0 +1,121 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+254773,21600822,4,12:00,nan,nan,79 - 72,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+254774,21600822,4,11:45,MISS LeVert 25' 3PT Jump Shot,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254775,21600822,4,11:44,Scola REBOUND (Off:1 Def:2),nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254776,21600822,4,11:35,Booker 3' Cutting Layup Shot (11 PTS) (Whitehead 2 AST),nan,79 - 74,202344,Trevor Booker,BKN,1627785,Isaiah Whitehead,BKN,0,nan,nan,Made Shot ,nan
+254777,21600822,4,11:18,nan,Carter 25' 3PT Jump Shot (12 PTS) (Randolph 1 AST),82 - 74,1713,Vince Carter,MEM,2216,Zach Randolph,MEM,0,nan,nan,Made Shot ,nan
+254778,21600822,4,11:04,MISS Booker 6' Floating Jump Shot,nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254779,21600822,4,11:03,nan,Wright REBOUND (Off:0 Def:2),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254780,21600822,4,10:55,Whitehead P.FOUL (P2.T1) (D.Stafford),nan,nan,1627785,Isaiah Whitehead,BKN,201148,Brandan Wright,MEM,0,nan,nan,Foul ,Personal
+254781,21600822,4,10:47,nan,Wright 2' Layup (12 PTS) (Douglas 3 AST),84 - 74,201148,Brandan Wright,MEM,201962,Toney Douglas,MEM,0,nan,nan,Made Shot ,nan
+254782,21600822,4,10:47,Whitehead S.FOUL (P3.T2) (M.Ervin),nan,nan,1627785,Isaiah Whitehead,BKN,201148,Brandan Wright,MEM,0,nan,nan,Foul ,Shooting
+254783,21600822,4,10:47,nan,Wright Free Throw 1 of 1 (13 PTS),85 - 74,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+254784,21600822,4,10:30,MISS Scola 25' 3PT Jump Shot,nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254785,21600822,4,10:29,nan,Douglas REBOUND (Off:1 Def:2),nan,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254786,21600822,4,10:16,nan,MISS Randolph 21' Jump Shot,nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254787,21600822,4,10:15,Scola REBOUND (Off:1 Def:3),nan,nan,2449,Luis Scola,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254788,21600822,4,10:07,Whitehead 24' 3PT Jump Shot (7 PTS) (Kilpatrick 3 AST),nan,85 - 77,1627785,Isaiah Whitehead,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Made Shot ,nan
+254789,21600822,4,9:49,nan,Randolph 2' Layup (7 PTS) (Wright 1 AST),87 - 77,2216,Zach Randolph,MEM,201148,Brandan Wright,MEM,0,nan,nan,Made Shot ,nan
+254790,21600822,4,9:30,MISS Kilpatrick 25' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254791,21600822,4,9:29,nan,Wright REBOUND (Off:0 Def:3),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254792,21600822,4,9:22,nan,Randolph Offensive Charge Foul (P1.T1) (E.Lewis),nan,2216,Zach Randolph,MEM,1627785,Isaiah Whitehead,BKN,0,nan,nan,Foul ,Offensive Charge
+254793,21600822,4,9:22,nan,Randolph Foul Turnover (P2.T11),nan,2216,Zach Randolph,MEM,0,nan,nan,0,nan,nan,Turnover ,Foul
+254794,21600822,4,9:22,nan,SUB: Conley FOR Douglas,nan,201962,Toney Douglas,MEM,201144,Mike Conley,MEM,0,nan,nan,Substitution ,nan
+254795,21600822,4,9:11,MISS Kilpatrick 7' Running Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254796,21600822,4,9:10,Booker REBOUND (Off:2 Def:2),nan,nan,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254797,21600822,4,9:07,Booker 2' Layup (13 PTS),nan,87 - 79,202344,Trevor Booker,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254798,21600822,4,8:55,Kilpatrick P.FOUL (P1.T3) (E.Lewis),nan,nan,203930,Sean Kilpatrick,BKN,203584,Troy Daniels,MEM,0,nan,nan,Foul ,Personal
+254799,21600822,4,8:55,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+254800,21600822,4,8:55,SUB: Dinwiddie FOR Whitehead,nan,nan,1627785,Isaiah Whitehead,BKN,203915,Spencer Dinwiddie,BKN,0,nan,nan,Substitution ,nan
+254801,21600822,4,8:48,Booker STEAL (1 STL),Conley Bad Pass Turnover (P1.T12),nan,201144,Mike Conley,MEM,202344,Trevor Booker,BKN,0,nan,nan,Turnover ,Bad Pass
+254802,21600822,4,8:46,Booker Lost Ball Turnover (P2.T10),Randolph STEAL (1 STL),nan,202344,Trevor Booker,BKN,2216,Zach Randolph,MEM,0,nan,nan,Turnover ,Lost Ball
+254803,21600822,4,8:27,nan,Daniels 27' 3PT Jump Shot (3 PTS) (Conley 5 AST),90 - 79,203584,Troy Daniels,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+254804,21600822,4,8:14,MISS LeVert 25' 3PT Jump Shot,nan,nan,1627747,Caris LeVert,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254805,21600822,4,8:13,nan,Daniels REBOUND (Off:0 Def:1),nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254806,21600822,4,7:58,nan,Wright  Cutting Dunk Shot (15 PTS) (Daniels 1 AST),92 - 79,201148,Brandan Wright,MEM,203584,Troy Daniels,MEM,0,nan,nan,Made Shot ,nan
+254807,21600822,4,7:30,Kilpatrick Bad Pass Turnover (P1.T11),Conley STEAL (1 STL),nan,203930,Sean Kilpatrick,BKN,201144,Mike Conley,MEM,0,nan,nan,Turnover ,Bad Pass
+254808,21600822,4,7:24,nan,Daniels 27' 3PT Jump Shot (6 PTS) (Conley 6 AST),95 - 79,203584,Troy Daniels,MEM,201144,Mike Conley,MEM,0,nan,nan,Made Shot ,nan
+254809,21600822,4,7:23,NETS Timeout: Regular (Full 3 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254810,21600822,4,7:23,nan,SUB: Gasol FOR Randolph,nan,2216,Zach Randolph,MEM,201188,Marc Gasol,MEM,0,nan,nan,Substitution ,nan
+254811,21600822,4,7:23,SUB: Lopez FOR Scola,nan,nan,2449,Luis Scola,BKN,201572,Brook Lopez,BKN,0,nan,nan,Substitution ,nan
+254812,21600822,4,7:23,SUB: Bogdanovic FOR LeVert,nan,nan,1627747,Caris LeVert,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Substitution ,nan
+254813,21600822,4,7:23,SUB: Hollis-Jefferson FOR Booker,nan,nan,202344,Trevor Booker,BKN,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Substitution ,nan
+254814,21600822,4,7:05,MISS Kilpatrick 24' 3PT Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254815,21600822,4,7:04,nan,Grizzlies Rebound,nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254816,21600822,4,6:50,nan,MISS Daniels 25' 3PT Jump Shot,nan,203584,Troy Daniels,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254817,21600822,4,6:49,Dinwiddie REBOUND (Off:0 Def:2),nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254818,21600822,4,6:46,Bogdanovic Discontinue Dribble Turnover (P2.T12),nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Turnover ,Discontinue Dribble
+254819,21600822,4,6:34,nan,MISS Conley 18' Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254820,21600822,4,6:33,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254821,21600822,4,6:19,nan,Carter S.FOUL (P1.T2) (M.Ervin),nan,1713,Vince Carter,MEM,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Shooting
+254822,21600822,4,6:19,Hollis-Jefferson Free Throw 1 of 2 (8 PTS),nan,95 - 80,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254823,21600822,4,6:19,Hollis-Jefferson Free Throw 2 of 2 (9 PTS),nan,95 - 81,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254824,21600822,4,6:06,nan,MISS Carter 25' 3PT Jump Shot,nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254825,21600822,4,6:05,Kilpatrick REBOUND (Off:0 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254826,21600822,4,5:51,nan,Carter Violation:Defensive Goaltending (D.Stafford),nan,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+254827,21600822,4,5:51,Lopez 7' Driving Hook Shot (17 PTS),nan,95 - 83,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254828,21600822,4,5:37,nan,Carter 3' Driving Layup (14 PTS),97 - 83,1713,Vince Carter,MEM,0,nan,nan,0,nan,nan,Made Shot ,nan
+254829,21600822,4,5:23,Dinwiddie 25' 3PT Jump Shot (13 PTS),nan,97 - 86,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254830,21600822,4,5:05,nan,Wright 1' Cutting Layup Shot (17 PTS) (Carter 1 AST),99 - 86,201148,Brandan Wright,MEM,1713,Vince Carter,MEM,0,nan,nan,Made Shot ,nan
+254831,21600822,4,4:57,Dinwiddie 25' 3PT Jump Shot (16 PTS),nan,99 - 89,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254832,21600822,4,4:57,nan,Conley S.FOUL (P2.T3) (M.Ervin),nan,201144,Mike Conley,MEM,203915,Spencer Dinwiddie,BKN,0,nan,nan,Foul ,Shooting
+254833,21600822,4,4:57,SUB: LeVert FOR Kilpatrick,nan,nan,203930,Sean Kilpatrick,BKN,1627747,Caris LeVert,BKN,0,nan,nan,Substitution ,nan
+254834,21600822,4,4:57,Dinwiddie Free Throw 1 of 1 (17 PTS),nan,99 - 90,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+254835,21600822,4,4:45,nan,MISS Wright  Alley Oop Layup,nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254836,21600822,4,4:44,Dinwiddie REBOUND (Off:0 Def:3),nan,nan,203915,Spencer Dinwiddie,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254837,21600822,4,4:40,MISS Bogdanovic  3PT Jump Shot,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254838,21600822,4,4:38,nan,Gasol REBOUND (Off:1 Def:7),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254839,21600822,4,4:14,nan,MISS Gasol 26' 3PT Jump Shot,nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254840,21600822,4,4:13,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254841,21600822,4,3:55,Hollis-Jefferson  Dunk (11 PTS) (Lopez 4 AST),nan,99 - 92,1626178,Rondae Hollis-Jefferson,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+254842,21600822,4,3:53,nan,Grizzlies Timeout: Regular (Reg.5 Short 0),nan,1610612763,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254843,21600822,4,3:53,nan,SUB: Douglas FOR Carter,nan,1713,Vince Carter,MEM,201962,Toney Douglas,MEM,0,nan,nan,Substitution ,nan
+254844,21600822,4,3:53,nan,SUB: Ennis III FOR Daniels,nan,203584,Troy Daniels,MEM,203516,James Ennis III,MEM,0,nan,nan,Substitution ,nan
+254845,21600822,4,3:35,LeVert S.FOUL (P3.T4) (D.Stafford),nan,nan,1627747,Caris LeVert,BKN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Shooting
+254846,21600822,4,3:35,nan,Conley Free Throw 1 of 2 (22 PTS),100 - 92,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254847,21600822,4,3:35,nan,Conley Free Throw 2 of 2 (23 PTS),101 - 92,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254848,21600822,4,3:25,nan,Wright S.FOUL (P1.T4) (D.Stafford),nan,201148,Brandan Wright,MEM,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Shooting
+254849,21600822,4,3:25,MISS Bogdanovic Free Throw 1 of 2,nan,nan,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254850,21600822,4,3:25,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+254851,21600822,4,3:25,Bogdanovic Free Throw 2 of 2 (7 PTS),nan,101 - 93,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254852,21600822,4,3:11,nan,MISS Conley 3' Driving Layup,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254853,21600822,4,3:09,nan,Wright REBOUND (Off:1 Def:3),nan,201148,Brandan Wright,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254854,21600822,4,2:46,nan,MISS Conley 26' 3PT Jump Shot,nan,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254855,21600822,4,2:45,Hollis-Jefferson REBOUND (Off:0 Def:3),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254856,21600822,4,2:33,MISS Lopez 5' Driving Hook Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254857,21600822,4,2:32,nan,Gasol REBOUND (Off:1 Def:8),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254858,21600822,4,2:17,Hollis-Jefferson P.FOUL (P3.PN) (E.Lewis),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+254859,21600822,4,2:17,nan,Conley Free Throw 1 of 2 (24 PTS),102 - 93,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254860,21600822,4,2:17,SUB: Kilpatrick FOR Dinwiddie,nan,nan,203915,Spencer Dinwiddie,BKN,203930,Sean Kilpatrick,BKN,0,nan,nan,Substitution ,nan
+254861,21600822,4,2:17,nan,Conley Free Throw 2 of 2 (25 PTS),103 - 93,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254862,21600822,4,2:06,Bogdanovic 2' Driving Layup (9 PTS) (Lopez 5 AST),nan,103 - 95,202711,Bojan Bogdanovic,BKN,201572,Brook Lopez,BKN,0,nan,nan,Made Shot ,nan
+254863,21600822,4,1:47,nan,Conley 3' Driving Layup (27 PTS) (Douglas 4 AST),105 - 95,201144,Mike Conley,MEM,201962,Toney Douglas,MEM,0,nan,nan,Made Shot ,nan
+254864,21600822,4,1:41,nan,Conley P.FOUL (P3.PN) (E.Lewis),nan,201144,Mike Conley,MEM,202711,Bojan Bogdanovic,BKN,0,nan,nan,Foul ,Personal
+254865,21600822,4,1:41,Bogdanovic Free Throw 1 of 2 (10 PTS),nan,105 - 96,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254866,21600822,4,1:41,Bogdanovic Free Throw 2 of 2 (11 PTS),nan,105 - 97,202711,Bojan Bogdanovic,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254867,21600822,4,1:27,nan,Conley 25' 3PT Jump Shot (30 PTS) (Douglas 5 AST),108 - 97,201144,Mike Conley,MEM,201962,Toney Douglas,MEM,0,nan,nan,Made Shot ,nan
+254868,21600822,4,1:27,NETS Timeout: Regular (Full 4 Short 0),nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+254869,21600822,4,1:23,MISS Lopez 25' 3PT Jump Shot,nan,nan,201572,Brook Lopez,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254870,21600822,4,1:20,nan,Gasol REBOUND (Off:1 Def:9),nan,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254871,21600822,4,1:14,Lopez P.FOUL (P4.PN) (D.Stafford),nan,nan,201572,Brook Lopez,BKN,201188,Marc Gasol,MEM,0,nan,nan,Foul ,Personal
+254872,21600822,4,1:14,nan,Gasol Free Throw 1 of 2 (18 PTS),109 - 97,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254873,21600822,4,1:14,nan,Gasol Free Throw 2 of 2 (19 PTS),110 - 97,201188,Marc Gasol,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254874,21600822,4,1:07,MISS Kilpatrick 5' Jump Shot,Gasol BLOCK (1 BLK),nan,203930,Sean Kilpatrick,BKN,0,nan,nan,201188,Marc Gasol,MEM,Missed Shot ,nan
+254875,21600822,4,1:06,Kilpatrick REBOUND (Off:1 Def:4),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254876,21600822,4,1:05,MISS Kilpatrick 4' Jump Shot,nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254877,21600822,4,1:02,NETS Rebound,nan,nan,1610612751,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254878,21600822,4,1:02,nan,nan,nan,464,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Overturn Ruling
+254879,21600822,4,1:02,nan,Ennis III P.FOUL (P3.PN) (M.Ervin),nan,203516,James Ennis III,MEM,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,Foul ,Personal
+254880,21600822,4,1:02,Hollis-Jefferson Free Throw 1 of 2 (12 PTS),nan,110 - 98,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254881,21600822,4,1:02,nan,SUB: Carter FOR Wright,nan,201148,Brandan Wright,MEM,1713,Vince Carter,MEM,0,nan,nan,Substitution ,nan
+254882,21600822,4,1:02,Hollis-Jefferson Free Throw 2 of 2 (13 PTS),nan,110 - 99,1626178,Rondae Hollis-Jefferson,BKN,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254883,21600822,4,0:58,Hollis-Jefferson P.FOUL (P4.PN) (M.Ervin),nan,nan,1626178,Rondae Hollis-Jefferson,BKN,201144,Mike Conley,MEM,0,nan,nan,Foul ,Personal
+254884,21600822,4,0:58,nan,Conley Free Throw 1 of 2 (31 PTS),111 - 99,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+254885,21600822,4,0:58,nan,SUB: Green FOR Carter,nan,1713,Vince Carter,MEM,203210,JaMychal Green,MEM,0,nan,nan,Substitution ,nan
+254886,21600822,4,0:58,SUB: McCullough FOR Lopez,nan,nan,201572,Brook Lopez,BKN,1626191,Chris McCullough,BKN,0,nan,nan,Substitution ,nan
+254887,21600822,4,0:58,nan,Conley Free Throw 2 of 2 (32 PTS),112 - 99,201144,Mike Conley,MEM,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+254888,21600822,4,0:49,Kilpatrick 2' Driving Layup (13 PTS),nan,112 - 101,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Made Shot ,nan
+254889,21600822,4,0:26,nan,MISS Douglas 17' Fadeaway Jumper,nan,201962,Toney Douglas,MEM,0,nan,nan,0,nan,nan,Missed Shot ,nan
+254890,21600822,4,0:25,Kilpatrick REBOUND (Off:1 Def:5),nan,nan,203930,Sean Kilpatrick,BKN,0,nan,nan,0,nan,nan,Rebound ,Unknown
+254891,21600822,4,0:18,Kilpatrick 2' Cutting Layup Shot (15 PTS) (Bogdanovic 2 AST),nan,112 - 103,203930,Sean Kilpatrick,BKN,202711,Bojan Bogdanovic,BKN,0,nan,nan,Made Shot ,nan
+254892,21600822,4,0:00,nan,nan,112 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

@@ -1,0 +1,112 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+165981,21600104,4,12:00,nan,nan,83 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+165982,21600104,4,11:45,MISS Black 1' Layup,nan,nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165983,21600104,4,11:44,nan,Bogut REBOUND (Off:1 Def:7),nan,101106,Andrew Bogut,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165984,21600104,4,11:22,nan,MISS Powell 3' Hook Shot,nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165985,21600104,4,11:21,nan,Curry REBOUND (Off:1 Def:2),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+165986,21600104,4,11:21,nan,Curry OFF.Foul (P2) (D.Crawford),nan,203552,Seth Curry,DAL,101150,Lou Williams,LAL,0,nan,nan,Foul ,Offensive
+165987,21600104,4,11:21,nan,Curry Foul Turnover (P1.T8),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+165988,21600104,4,11:08,Clarkson 26' 3PT Jump Shot (17 PTS) (Deng 3 AST),nan,83 - 80,203903,Jordan Clarkson,LAL,2736,Luol Deng,LAL,0,nan,nan,Made Shot ,nan
+165989,21600104,4,10:44,nan,Curry 20' Pullup Jump Shot (20 PTS) (Bogut 2 AST),85 - 80,203552,Seth Curry,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Made Shot ,nan
+165990,21600104,4,10:22,Clarkson 27' 3PT Step Back Jump Shot (20 PTS) (Black 2 AST),nan,85 - 83,203903,Jordan Clarkson,LAL,204028,Tarik Black,LAL,0,nan,nan,Made Shot ,nan
+165991,21600104,4,9:57,nan,Powell 20' Jump Shot (8 PTS) (Barea 7 AST),87 - 83,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+165992,21600104,4,9:50,nan,Anderson S.FOUL (P2.T1) (M.Ayotte),nan,1626147,Justin Anderson,DAL,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+165993,21600104,4,9:50,MISS Williams Free Throw 1 of 2,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+165994,21600104,4,9:50,LAKERS Rebound,nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+165995,21600104,4,9:50,nan,SUB: Barnes FOR Bogut,nan,101106,Andrew Bogut,DAL,203084,Harrison Barnes,DAL,0,nan,nan,Substitution ,nan
+165996,21600104,4,9:50,Williams Free Throw 2 of 2 (10 PTS),nan,87 - 84,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+165997,21600104,4,9:26,nan,Barea 17' Fadeaway Jumper (13 PTS),89 - 84,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+165998,21600104,4,9:13,MISS Williams 19' Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+165999,21600104,4,9:11,nan,Powell REBOUND (Off:0 Def:3),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166000,21600104,4,8:58,nan,MISS Barea 19' Jump Shot,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166001,21600104,4,8:56,Williams REBOUND (Off:1 Def:2),nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166002,21600104,4,8:45,Williams 25' 3PT Jump Shot (13 PTS) (Clarkson 2 AST),nan,89 - 87,101150,Lou Williams,LAL,203903,Jordan Clarkson,LAL,0,nan,nan,Made Shot ,nan
+166003,21600104,4,8:16,nan,MISS Curry 25' 3PT Jump Shot,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166004,21600104,4,8:13,nan,Anderson REBOUND (Off:2 Def:3),nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166005,21600104,4,8:11,nan,Barea Out of Bounds - Bad Pass Turnover Turnover (P4.T9),nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Turnover ,Out-of-Bounds Bad Pass Turnover
+166006,21600104,4,8:11,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+166007,21600104,4,8:11,nan,SUB: Bogut FOR Barea,nan,200826,J.J. Barea,DAL,101106,Andrew Bogut,DAL,0,nan,nan,Substitution ,nan
+166008,21600104,4,8:11,nan,SUB: Matthews FOR Powell,nan,203939,Dwight Powell,DAL,202083,Wesley Matthews,DAL,0,nan,nan,Substitution ,nan
+166009,21600104,4,7:56,Clarkson 5' Floating Jump Shot (22 PTS),nan,89 - 89,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166010,21600104,4,7:39,nan,MISS Barnes 24' 3PT Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166011,21600104,4,7:37,Williams REBOUND (Off:1 Def:3),nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166012,21600104,4,7:31,nan,Bogut S.FOUL (P1.T2) (C.Washington),nan,101106,Andrew Bogut,DAL,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+166013,21600104,4,7:31,Williams Free Throw 1 of 2 (14 PTS),nan,89 - 90,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+166014,21600104,4,7:31,Williams Free Throw 2 of 2 (15 PTS),nan,89 - 91,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+166015,21600104,4,7:15,Deng P.FOUL (P2.T1) (M.Ayotte),nan,nan,2736,Luol Deng,LAL,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Personal
+166016,21600104,4,7:04,nan,Barnes 11' Turnaround Fadeaway (26 PTS),91 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166017,21600104,4,6:52,MISS Williams 14' Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166018,21600104,4,6:50,nan,Barnes REBOUND (Off:0 Def:1),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166019,21600104,4,6:38,nan,Barnes 18' Jump Shot (28 PTS) (Curry 4 AST),93 - 91,203084,Harrison Barnes,DAL,203552,Seth Curry,DAL,0,nan,nan,Made Shot ,nan
+166020,21600104,4,6:38,LAKERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+166021,21600104,4,6:38,SUB: World Peace FOR Deng,nan,nan,2736,Luol Deng,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+166022,21600104,4,6:24,MISS World Peace 24' 3PT Jump Shot,nan,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166023,21600104,4,6:22,nan,Matthews REBOUND (Off:1 Def:1),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166024,21600104,4,6:01,nan,Barnes 3' Driving Hook Shot (30 PTS),95 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166025,21600104,4,5:42,MISS Williams 25' 3PT Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166026,21600104,4,5:41,World Peace REBOUND (Off:1 Def:0),nan,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166027,21600104,4,5:39,MISS World Peace  Layup,Anderson BLOCK (1 BLK),nan,1897,Metta World Peace,LAL,0,nan,nan,1626147,Justin Anderson,DAL,Missed Shot ,nan
+166028,21600104,4,5:39,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166029,21600104,4,5:39,Black L.B.FOUL (P1.T2) (M.Ayotte),nan,nan,204028,Tarik Black,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Loose Ball
+166030,21600104,4,5:30,World Peace S.FOUL (P1.T3) (C.Washington),nan,nan,1897,Metta World Peace,LAL,203084,Harrison Barnes,DAL,0,nan,nan,Foul ,Shooting
+166031,21600104,4,5:30,nan,Barnes Free Throw 1 of 2 (31 PTS),96 - 91,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+166032,21600104,4,5:30,SUB: Randle FOR World Peace,nan,nan,1897,Metta World Peace,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+166033,21600104,4,5:30,SUB: Young FOR Williams,nan,nan,101150,Lou Williams,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+166034,21600104,4,5:30,SUB: Russell FOR Black,nan,nan,204028,Tarik Black,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+166035,21600104,4,5:30,nan,MISS Barnes Free Throw 2 of 2,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+166036,21600104,4,5:29,Randle REBOUND (Off:3 Def:3),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166037,21600104,4,5:15,MISS Clarkson 20' Jump Shot,nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166038,21600104,4,5:14,Randle REBOUND (Off:4 Def:3),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166039,21600104,4,5:12,Randle Lost Ball Turnover (P3.T13),Curry STEAL (3 STL),nan,203944,Julius Randle,LAL,203552,Seth Curry,DAL,0,nan,nan,Turnover ,Lost Ball
+166040,21600104,4,4:53,nan,MISS Anderson 5' Floating Jump Shot,nan,1626147,Justin Anderson,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166041,21600104,4,4:50,Randle REBOUND (Off:4 Def:4),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166042,21600104,4,4:46,Randle OFF.Foul (P2) (M.Ayotte),nan,nan,203944,Julius Randle,LAL,1626147,Justin Anderson,DAL,0,nan,nan,Foul ,Offensive
+166043,21600104,4,4:46,Randle Foul Turnover (P4.T14),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+166044,21600104,4,4:46,nan,SUB: Barea FOR Anderson,nan,1626147,Justin Anderson,DAL,200826,J.J. Barea,DAL,0,nan,nan,Substitution ,nan
+166045,21600104,4,4:31,nan,MISS Matthews 20' Step Back Jump Shot,nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166046,21600104,4,4:29,nan,Bogut REBOUND (Off:2 Def:7),nan,101106,Andrew Bogut,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166047,21600104,4,4:27,nan,Matthews 26' 3PT Jump Shot (9 PTS),99 - 91,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166048,21600104,4,4:27,LAKERS Timeout: Short (Full 4 Short 2),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+166049,21600104,4,4:27,nan,SUB: Powell FOR Bogut,nan,101106,Andrew Bogut,DAL,203939,Dwight Powell,DAL,0,nan,nan,Substitution ,nan
+166050,21600104,4,4:16,MISS Russell 25' 3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166051,21600104,4,4:15,nan,Barnes REBOUND (Off:0 Def:2),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166052,21600104,4,4:02,nan,Curry 5' Floating Jump Shot (22 PTS),101 - 91,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166053,21600104,4,3:32,Randle 4' Driving Hook Shot (13 PTS),nan,101 - 93,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166054,21600104,4,3:08,nan,MISS Barea 7' Fadeaway Jumper,nan,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166055,21600104,4,3:06,Randle REBOUND (Off:4 Def:5),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166056,21600104,4,2:59,Clarkson Out of Bounds Lost Ball Turnover (P3.T15),nan,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+166057,21600104,4,2:59,nan,Mavericks Timeout: Regular (Reg.5 Short 2),nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+166058,21600104,4,2:59,SUB: Williams FOR Ingram,nan,nan,1627742,Brandon Ingram,LAL,101150,Lou Williams,LAL,0,nan,nan,Substitution ,nan
+166059,21600104,4,2:44,nan,Barnes Offensive Charge Foul (P3.T3) (C.Washington),nan,203084,Harrison Barnes,DAL,201156,Nick Young,LAL,0,nan,nan,Foul ,Offensive Charge
+166060,21600104,4,2:44,nan,Barnes Foul Turnover (P1.T10),nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+166061,21600104,4,2:35,MISS Williams 1' Layup,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166062,21600104,4,2:34,nan,Matthews REBOUND (Off:1 Def:2),nan,202083,Wesley Matthews,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166063,21600104,4,2:17,nan,MISS Barnes 15' Jump Shot,nan,203084,Harrison Barnes,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166064,21600104,4,2:16,nan,Powell REBOUND (Off:1 Def:3),nan,203939,Dwight Powell,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166065,21600104,4,2:13,nan,MISS Curry  Layup,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166066,21600104,4,2:12,Russell REBOUND (Off:0 Def:5),nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166067,21600104,4,2:08,MISS Young 24' 3PT Jump Shot,nan,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166068,21600104,4,2:05,nan,Curry REBOUND (Off:1 Def:3),nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166069,21600104,4,1:50,nan,Barea 26' 3PT Jump Shot (16 PTS),104 - 93,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+166070,21600104,4,1:41,Randle  Layup (15 PTS) (Russell 7 AST),nan,104 - 95,203944,Julius Randle,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Made Shot ,nan
+166071,21600104,4,1:38,Randle P.FOUL (P3.T4) (D.Crawford),nan,nan,203944,Julius Randle,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Foul ,Personal
+166072,21600104,4,1:25,Randle P.FOUL (P4.PN) (M.Ayotte),nan,nan,203944,Julius Randle,LAL,200826,J.J. Barea,DAL,0,nan,nan,Foul ,Personal
+166073,21600104,4,1:25,nan,Barea Free Throw 1 of 2 (17 PTS),105 - 95,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+166074,21600104,4,1:25,nan,Barea Free Throw 2 of 2 (18 PTS),106 - 95,200826,J.J. Barea,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+166075,21600104,4,1:13,MISS Williams 25' 3PT Jump Shot,nan,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166076,21600104,4,1:12,Randle REBOUND (Off:5 Def:5),nan,nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166077,21600104,4,1:08,Randle Lost Ball Turnover (P5.T16),Powell STEAL (5 STL),nan,203944,Julius Randle,LAL,203939,Dwight Powell,DAL,0,nan,nan,Turnover ,Lost Ball
+166078,21600104,4,1:05,Williams STEAL (1 STL),Powell Bad Pass Turnover (P1.T11),nan,203939,Dwight Powell,DAL,101150,Lou Williams,LAL,0,nan,nan,Turnover ,Bad Pass
+166079,21600104,4,1:04,Young 2' Dunk (20 PTS) (Williams 3 AST),nan,106 - 97,201156,Nick Young,LAL,101150,Lou Williams,LAL,0,nan,nan,Made Shot ,nan
+166080,21600104,4,0:42,nan,Powell 17' Jump Shot (10 PTS) (Barea 8 AST),108 - 97,203939,Dwight Powell,DAL,200826,J.J. Barea,DAL,0,nan,nan,Made Shot ,nan
+166081,21600104,4,0:42,LAKERS Timeout: Regular (Full 5 Short 2),nan,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+166082,21600104,4,0:42,nan,SUB: Finney-Smith FOR Barea,nan,200826,J.J. Barea,DAL,1627827,Dorian Finney-Smith,DAL,0,nan,nan,Substitution ,nan
+166083,21600104,4,0:38,Randle Bad Pass Turnover (P6.T17),Matthews STEAL (2 STL),nan,203944,Julius Randle,LAL,202083,Wesley Matthews,DAL,0,nan,nan,Turnover ,Bad Pass
+166084,21600104,4,0:17,Williams P.FOUL (P2.PN) (D.Crawford),nan,nan,101150,Lou Williams,LAL,203552,Seth Curry,DAL,0,nan,nan,Foul ,Personal
+166085,21600104,4,0:17,nan,MISS Curry Free Throw 1 of 2,nan,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+166086,21600104,4,0:17,nan,Mavericks Rebound,nan,1610612742,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+166087,21600104,4,0:17,nan,SUB: Anderson FOR Barnes,nan,203084,Harrison Barnes,DAL,1626147,Justin Anderson,DAL,0,nan,nan,Substitution ,nan
+166088,21600104,4,0:17,nan,Curry Free Throw 2 of 2 (23 PTS),109 - 97,203552,Seth Curry,DAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+166089,21600104,4,0:06,MISS Russell 25' 3PT Jump Shot,nan,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+166090,21600104,4,0:04,nan,Finney-Smith REBOUND (Off:0 Def:3),nan,1627827,Dorian Finney-Smith,DAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+166091,21600104,4,0:00,nan,nan,109 - 97,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

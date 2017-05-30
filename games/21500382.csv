@@ -1,0 +1,86 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+47953,21500382,4,12:00,nan,nan,66 - 78,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+47954,21500382,4,11:40,Smith 13' Jump Shot (13 PTS) (Pierce 2 AST),nan,66 - 80,2746,Josh Smith,LAC,1718,Paul Pierce,LAC,0,nan,nan,Made Shot ,nan
+47955,21500382,4,11:32,nan,MISS Middleton 29' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47956,21500382,4,11:32,Pierce REBOUND (Off:0 Def:3),nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47957,21500382,4,11:27,MISS Smith 5' Jump Shot,Henson BLOCK (3 BLK),nan,2746,Josh Smith,LAC,0,nan,nan,203089,John Henson,MIL,Missed Shot ,nan
+47958,21500382,4,11:25,nan,Henson REBOUND (Off:4 Def:2),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47959,21500382,4,11:24,Crawford S.FOUL (P1.T1) (D.Jones),nan,nan,2037,Jamal Crawford,LAC,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+47960,21500382,4,11:24,nan,Middleton Free Throw 1 of 2 (12 PTS),67 - 80,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47961,21500382,4,11:24,nan,Middleton Free Throw 2 of 2 (13 PTS),68 - 80,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47962,21500382,4,11:12,MISS Crawford 6' Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47963,21500382,4,11:11,nan,Henson REBOUND (Off:4 Def:3),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47964,21500382,4,10:47,Stephenson S.FOUL (P2.T2) (D.Jones),nan,nan,202362,Lance Stephenson,LAC,203114,Khris Middleton,MIL,0,nan,nan,Foul ,Shooting
+47965,21500382,4,10:47,nan,nan,nan,403,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+47966,21500382,4,10:47,nan,Middleton Free Throw 1 of 2 (14 PTS),69 - 80,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47967,21500382,4,10:47,nan,Middleton Free Throw 2 of 2 (15 PTS),70 - 80,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47968,21500382,4,10:28,Smith 3 Second Violation Turnover (P1.T14),nan,nan,2746,Josh Smith,LAC,0,nan,nan,0,nan,nan,Turnover ,3 Second Violation
+47969,21500382,4,10:10,nan,Mayo 25' 3PT Jump Shot (17 PTS) (Antetokounmpo 2 AST),73 - 80,201564,O.J. Mayo,MIL,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Made Shot ,nan
+47970,21500382,4,9:53,nan,Carter-Williams S.FOUL (P2.T1) (D.Jones),nan,203487,Michael Carter-Williams,MIL,203085,Austin Rivers,LAC,0,nan,nan,Foul ,Shooting
+47971,21500382,4,9:53,Rivers Free Throw 1 of 2 (1 PTS),nan,73 - 81,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+47972,21500382,4,9:53,SUB: Griffin FOR Smith,nan,nan,2746,Josh Smith,LAC,201933,Blake Griffin,LAC,0,nan,nan,Substitution ,nan
+47973,21500382,4,9:53,Rivers Free Throw 2 of 2 (2 PTS),nan,73 - 82,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+47974,21500382,4,9:30,nan,MISS Mayo 25' 3PT Jump Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47975,21500382,4,9:29,nan,Middleton REBOUND (Off:2 Def:2),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47976,21500382,4,9:23,nan,Carter-Williams 4' Driving Reverse Layup (15 PTS),75 - 82,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+47977,21500382,4,9:01,MISS Pierce 27' 3PT Jump Shot,nan,nan,1718,Paul Pierce,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47978,21500382,4,9:01,nan,Henson REBOUND (Off:4 Def:4),nan,203089,John Henson,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47979,21500382,4,8:43,nan,MISS Carter-Williams 2' Cutting Layup Shot,nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47980,21500382,4,8:43,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47981,21500382,4,8:43,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+47982,21500382,4,8:32,Rivers 2' Driving Layup (4 PTS),nan,75 - 84,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+47983,21500382,4,8:17,nan,Antetokounmpo OFF.Foul (P4) (K.Lane),nan,203507,Giannis Antetokounmpo,MIL,201933,Blake Griffin,LAC,0,nan,nan,Foul ,Offensive
+47984,21500382,4,8:17,nan,Antetokounmpo Foul Turnover (P3.T10),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Turnover ,Foul
+47985,21500382,4,8:01,MISS Griffin 20' Jump Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47986,21500382,4,8:00,nan,Middleton REBOUND (Off:2 Def:3),nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47987,21500382,4,7:45,nan,MISS Middleton 26' 3PT Jump Shot,nan,203114,Khris Middleton,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47988,21500382,4,7:45,nan,Antetokounmpo REBOUND (Off:2 Def:7),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47989,21500382,4,7:45,nan,MISS Antetokounmpo  Putback Dunk,nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+47990,21500382,4,7:45,nan,Bucks Rebound,nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+47991,21500382,4,7:37,nan,Antetokounmpo 3' Hook Shot (2 PTS) (Mayo 2 AST),77 - 84,203507,Giannis Antetokounmpo,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+47992,21500382,4,7:21,Rivers 28' 3PT Jump Shot (7 PTS) (Griffin 3 AST),nan,77 - 87,203085,Austin Rivers,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+47993,21500382,4,7:03,Stephenson P.FOUL (P3.T3) (M.Davis),nan,nan,202362,Lance Stephenson,LAC,203507,Giannis Antetokounmpo,MIL,0,nan,nan,Foul ,Personal
+47994,21500382,4,7:03,SUB: Paul FOR Rivers,nan,nan,203085,Austin Rivers,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+47995,21500382,4,7:03,SUB: Redick FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+47996,21500382,4,6:50,nan,Antetokounmpo 3' Layup (4 PTS) (Mayo 3 AST),79 - 87,203507,Giannis Antetokounmpo,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+47997,21500382,4,6:38,Redick 21' Jump Shot (13 PTS) (Griffin 4 AST),nan,79 - 89,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+47998,21500382,4,6:20,SUB: Mbah a Moute FOR Pierce,nan,nan,1718,Paul Pierce,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+47999,21500382,4,6:13,nan,Bucks Turnover: Shot Clock (T#11),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+48000,21500382,4,5:53,MISS Griffin 19' Jump Shot,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48001,21500382,4,5:52,nan,Antetokounmpo REBOUND (Off:2 Def:8),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48002,21500382,4,5:40,nan,Antetokounmpo 2' Driving Layup (6 PTS) (Mayo 4 AST),81 - 89,203507,Giannis Antetokounmpo,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+48003,21500382,4,5:31,nan,Mayo P.FOUL (P4.T2) (M.Davis),nan,201564,O.J. Mayo,MIL,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal
+48004,21500382,4,5:31,CLIPPERS Timeout: Regular (Full 4 Short 1),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+48005,21500382,4,5:31,nan,SUB: Parker FOR Henson,nan,203089,John Henson,MIL,203953,Jabari Parker,MIL,0,nan,nan,Substitution ,nan
+48006,21500382,4,5:18,Mbah a Moute 2' Driving Layup (7 PTS) (Paul 8 AST),nan,81 - 91,201601,Luc Mbah a Moute,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+48007,21500382,4,4:53,Griffin BLOCK (1 BLK),MISS Mayo 3' Layup,nan,201564,O.J. Mayo,MIL,0,nan,nan,201933,Blake Griffin,LAC,Missed Shot ,nan
+48008,21500382,4,4:51,Mbah a Moute REBOUND (Off:2 Def:3),nan,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48009,21500382,4,4:29,MISS Redick 20' Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48010,21500382,4,4:29,nan,Antetokounmpo REBOUND (Off:2 Def:9),nan,203507,Giannis Antetokounmpo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48011,21500382,4,4:18,nan,Carter-Williams 13' Jump Shot (17 PTS),83 - 91,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Made Shot ,nan
+48012,21500382,4,3:49,MISS Griffin 11' Fadeaway Jumper,nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48013,21500382,4,3:49,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48014,21500382,4,3:49,CLIPPERS Turnover: Shot Clock (T#15),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+48015,21500382,4,3:49,SUB: Rivers FOR Stephenson,nan,nan,202362,Lance Stephenson,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+48016,21500382,4,3:41,Paul STEAL (2 STL),Carter-Williams Lost Ball Turnover (P4.T12),nan,203487,Michael Carter-Williams,MIL,101108,Chris Paul,LAC,0,nan,nan,Turnover ,Lost Ball
+48017,21500382,4,3:24,nan,Mayo S.FOUL (P5.T3) (K.Lane),nan,201564,O.J. Mayo,MIL,200755,JJ Redick,LAC,0,nan,nan,Foul ,Shooting
+48018,21500382,4,3:24,Redick Free Throw 1 of 3 (14 PTS),nan,83 - 92,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+48019,21500382,4,3:24,Redick Free Throw 2 of 3 (15 PTS),nan,83 - 93,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+48020,21500382,4,3:24,Redick Free Throw 3 of 3 (16 PTS),nan,83 - 94,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+48021,21500382,4,3:13,nan,MISS Mayo 24' 3PT Jump Shot,nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48022,21500382,4,3:13,Griffin REBOUND (Off:1 Def:7),nan,nan,201933,Blake Griffin,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48023,21500382,4,2:51,MISS Rivers 4' Jump Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48024,21500382,4,2:50,Mbah a Moute REBOUND (Off:3 Def:3),nan,nan,201601,Luc Mbah a Moute,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48025,21500382,4,2:32,Paul 26' 3PT Jump Shot (18 PTS),nan,83 - 97,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+48026,21500382,4,2:32,nan,Bucks Timeout: Regular (Reg.4 Short 0),nan,1610612749,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+48027,21500382,4,2:13,nan,Parker  Cutting Dunk Shot (12 PTS) (Mayo 5 AST),85 - 97,203953,Jabari Parker,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+48028,21500382,4,1:44,Paul 27' 3PT Jump Shot (21 PTS),nan,85 - 100,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+48029,21500382,4,1:23,nan,Antetokounmpo 26' 3PT Jump Shot (9 PTS) (Carter-Williams 5 AST),88 - 100,203507,Giannis Antetokounmpo,MIL,203487,Michael Carter-Williams,MIL,0,nan,nan,Made Shot ,nan
+48030,21500382,4,1:00,MISS Paul 26' 3PT Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48031,21500382,4,0:59,nan,Mayo REBOUND (Off:1 Def:3),nan,201564,O.J. Mayo,MIL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48032,21500382,4,0:52,nan,Parker 2' Reverse Layup (14 PTS) (Mayo 6 AST),90 - 100,203953,Jabari Parker,MIL,201564,O.J. Mayo,MIL,0,nan,nan,Made Shot ,nan
+48033,21500382,4,0:36,Redick 28' 3PT Jump Shot (19 PTS) (Griffin 5 AST),nan,90 - 103,200755,JJ Redick,LAC,201933,Blake Griffin,LAC,0,nan,nan,Made Shot ,nan
+48034,21500382,4,0:24,nan,MISS Carter-Williams 14' Turnaround Jump Shot,nan,203487,Michael Carter-Williams,MIL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+48035,21500382,4,0:23,Paul REBOUND (Off:0 Def:6),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+48036,21500382,4,0:00,CLIPPERS Turnover: Shot Clock (T#16),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+48037,21500382,4,0:00,nan,nan,90 - 103,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

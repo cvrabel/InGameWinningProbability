@@ -1,0 +1,124 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+98575,21500788,4,12:00,nan,nan,93 - 93,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+98576,21500788,4,11:43,Iguodala 25' 3PT Pullup Jump Shot (10 PTS),nan,93 - 96,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+98577,21500788,4,11:20,nan,MISS Thornton 16' Fadeaway Jumper,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98578,21500788,4,11:19,Barnes REBOUND (Off:1 Def:4),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98579,21500788,4,11:11,Barnes 27' 3PT Pullup Jump Shot (5 PTS) (Iguodala 6 AST),nan,93 - 99,203084,Harrison Barnes,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Made Shot ,nan
+98580,21500788,4,11:11,nan,Rockets Timeout: Regular (Reg.4 Short 2),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+98581,21500788,4,10:53,Bogut BLOCK (4 BLK),MISS Thornton 3' Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+98582,21500788,4,10:52,Iguodala REBOUND (Off:1 Def:4),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98583,21500788,4,10:47,MISS Barnes 26' 3PT Pullup Jump Shot,nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98584,21500788,4,10:45,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98585,21500788,4,10:22,nan,MISS Howard 8' Jump Shot,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98586,21500788,4,10:21,Livingston REBOUND (Off:0 Def:1),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98587,21500788,4,10:10,Barbosa 2' Layup (4 PTS) (Livingston 2 AST),nan,93 - 101,2571,Leandro Barbosa,GSW,2733,Shaun Livingston,GSW,0,nan,nan,Made Shot ,nan
+98588,21500788,4,10:05,nan,Howard OFF.Foul (P4) (S.Foster),nan,2730,Dwight Howard,HOU,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Offensive
+98589,21500788,4,10:05,nan,Howard Offensive Foul Turnover (P4.T10),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Turnover ,Offensive Foul Turnover
+98590,21500788,4,10:05,nan,SUB: Harden FOR Thornton,nan,201977,Marcus Thornton,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+98591,21500788,4,10:05,nan,SUB: Beverley FOR Lawson,nan,201951,Ty Lawson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+98592,21500788,4,9:55,MISS Barbosa 19' Jump Shot,nan,nan,2571,Leandro Barbosa,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98593,21500788,4,9:53,nan,Ariza REBOUND (Off:2 Def:2),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98594,21500788,4,9:43,nan,Howard 3' Layup (15 PTS) (Harden 4 AST),95 - 101,2730,Dwight Howard,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+98595,21500788,4,9:43,Bogut S.FOUL (P4.T1) (K.Cutler),nan,nan,101106,Andrew Bogut,GSW,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+98596,21500788,4,9:43,nan,Howard Free Throw 1 of 1 (16 PTS),96 - 101,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+98597,21500788,4,9:31,MISS Iguodala 19' Jump Shot,nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98598,21500788,4,9:30,Bogut REBOUND (Off:4 Def:5),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98599,21500788,4,9:30,MISS Bogut 1' Tip Layup Shot,nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98600,21500788,4,9:28,Bogut REBOUND (Off:5 Def:5),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98601,21500788,4,9:28,MISS Bogut 2' Tip Layup Shot,nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98602,21500788,4,9:27,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98603,21500788,4,9:27,SUB: Thompson FOR Barbosa,nan,nan,2571,Leandro Barbosa,GSW,202691,Klay Thompson,GSW,0,nan,nan,Substitution ,nan
+98604,21500788,4,9:20,nan,Ariza S.FOUL (P2.T1) (S.Foster),nan,2772,Trevor Ariza,HOU,2733,Shaun Livingston,GSW,0,nan,nan,Foul ,Shooting
+98605,21500788,4,9:20,Livingston Free Throw 1 of 2 (3 PTS),nan,96 - 102,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+98606,21500788,4,9:20,Livingston Free Throw 2 of 2 (4 PTS),nan,96 - 103,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+98607,21500788,4,9:01,Bogut BLOCK (5 BLK),MISS Howard 5' Jump Shot,nan,2730,Dwight Howard,HOU,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+98608,21500788,4,9:01,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98609,21500788,4,8:40,Barnes 12' Turnaround Fadeaway (7 PTS),nan,96 - 105,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+98610,21500788,4,8:25,Bogut BLOCK (6 BLK),MISS Ariza 6' Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,101106,Andrew Bogut,GSW,Missed Shot ,nan
+98611,21500788,4,8:24,Bogut REBOUND (Off:5 Def:6),nan,nan,101106,Andrew Bogut,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98612,21500788,4,8:20,Iguodala Traveling Turnover (P1.T10),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Turnover ,Traveling
+98613,21500788,4,8:08,nan,MISS Harden 16' Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98614,21500788,4,8:08,WARRIORS Rebound,nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98615,21500788,4,8:08,nan,Howard L.B.FOUL (P5.T2) (S.Foster),nan,2730,Dwight Howard,HOU,101106,Andrew Bogut,GSW,0,nan,nan,Foul ,Loose Ball
+98616,21500788,4,8:08,nan,SUB: Capela FOR Howard,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+98617,21500788,4,7:58,Barnes 2' Layup (9 PTS),nan,96 - 107,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+98618,21500788,4,7:58,nan,Ariza S.FOUL (P3.T3) (M.Lindsay),nan,2772,Trevor Ariza,HOU,203084,Harrison Barnes,GSW,0,nan,nan,Foul ,Shooting
+98619,21500788,4,7:58,Barnes Free Throw 1 of 1 (10 PTS),nan,96 - 108,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+98620,21500788,4,7:46,nan,Capela 2' Driving Finger Roll Layup (4 PTS) (Harden 5 AST),98 - 108,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+98621,21500788,4,7:21,Barnes 10' Turnaround Jump Shot (12 PTS) (Thompson 3 AST),nan,98 - 110,203084,Harrison Barnes,GSW,202691,Klay Thompson,GSW,0,nan,nan,Made Shot ,nan
+98622,21500788,4,7:04,nan,Beverley Step Out of Bounds Turnover (P2.T11),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Turnover ,Step Out of Bounds Turnover
+98623,21500788,4,7:04,SUB: Green FOR Bogut,nan,nan,101106,Andrew Bogut,GSW,203110,Draymond Green,GSW,0,nan,nan,Substitution ,nan
+98624,21500788,4,6:49,MISS Thompson 25' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98625,21500788,4,6:46,Barnes REBOUND (Off:2 Def:4),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98626,21500788,4,6:45,Barnes Bad Pass Turnover (P1.T11),Ariza STEAL (2 STL),nan,203084,Harrison Barnes,GSW,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+98627,21500788,4,6:40,Livingston S.FOUL (P3.T2) (M.Lindsay),nan,nan,2733,Shaun Livingston,GSW,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+98628,21500788,4,6:40,nan,MISS Harden Free Throw 1 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+98629,21500788,4,6:40,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+98630,21500788,4,6:40,nan,SUB: Howard FOR Capela,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+98631,21500788,4,6:40,nan,SUB: Thornton FOR Brewer,nan,201147,Corey Brewer,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+98632,21500788,4,6:40,SUB: Curry FOR Iguodala,nan,nan,2738,Andre Iguodala,GSW,201939,Stephen Curry,GSW,0,nan,nan,Substitution ,nan
+98633,21500788,4,6:40,nan,Harden Free Throw 2 of 2 (28 PTS),99 - 110,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+98634,21500788,4,6:23,MISS Curry 27' 3PT Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98635,21500788,4,6:23,nan,Howard REBOUND (Off:2 Def:11),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98636,21500788,4,6:13,nan,MISS Thornton 27' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98637,21500788,4,6:10,nan,Ariza REBOUND (Off:3 Def:2),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98638,21500788,4,6:07,Livingston STEAL (1 STL),Thornton Lost Ball Turnover (P2.T12),nan,201977,Marcus Thornton,HOU,2733,Shaun Livingston,GSW,0,nan,nan,Turnover ,Lost Ball
+98639,21500788,4,5:57,Livingston Bad Pass Turnover (P1.T12),Thornton STEAL (1 STL),nan,2733,Shaun Livingston,GSW,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Bad Pass
+98640,21500788,4,5:57,Livingston P.FOUL (P4.T3) (M.Lindsay),nan,nan,2733,Shaun Livingston,GSW,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Personal
+98641,21500788,4,5:57,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+98642,21500788,4,5:39,nan,MISS Beverley 8' Floating Jump Shot,nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98643,21500788,4,5:37,Livingston REBOUND (Off:0 Def:2),nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98644,21500788,4,5:19,Barnes 17' Pullup Jump Shot (14 PTS),nan,99 - 112,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+98645,21500788,4,5:09,Thompson P.FOUL (P2.T4) (M.Lindsay),nan,nan,202691,Klay Thompson,GSW,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+98646,21500788,4,5:09,nan,Harden Free Throw 1 of 2 (29 PTS),100 - 112,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+98647,21500788,4,5:09,nan,Harden Free Throw 2 of 2 (30 PTS),101 - 112,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+98648,21500788,4,4:51,MISS Livingston 14' Fadeaway Jumper,nan,nan,2733,Shaun Livingston,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98649,21500788,4,4:50,Curry REBOUND (Off:1 Def:3),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98650,21500788,4,4:38,MISS Curry 11' Floating Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98651,21500788,4,4:37,nan,Ariza REBOUND (Off:3 Def:3),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98652,21500788,4,4:29,nan,MISS Harden 26' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98653,21500788,4,4:29,nan,Howard REBOUND (Off:3 Def:11),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98654,21500788,4,4:12,nan,Beverley 6' Floating Jump Shot (7 PTS),103 - 112,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+98655,21500788,4,3:51,MISS Thompson 24' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98656,21500788,4,3:50,nan,Harden REBOUND (Off:0 Def:5),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98657,21500788,4,3:43,nan,MISS Ariza 24' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98658,21500788,4,3:43,Curry REBOUND (Off:1 Def:4),nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98659,21500788,4,3:35,MISS Thompson 25' 3PT Jump Shot,nan,nan,202691,Klay Thompson,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98660,21500788,4,3:35,Barnes REBOUND (Off:3 Def:4),nan,nan,203084,Harrison Barnes,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98661,21500788,4,3:30,MISS Curry 27' 3PT Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98662,21500788,4,3:29,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98663,21500788,4,3:29,SUB: Iguodala FOR Livingston,nan,nan,2733,Shaun Livingston,GSW,2738,Andre Iguodala,GSW,0,nan,nan,Substitution ,nan
+98664,21500788,4,3:29,WARRIORS Timeout: Regular (Full 4 Short 0),nan,nan,1610612744,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+98665,21500788,4,3:18,Barnes P.FOUL (P1.PN) (S.Foster),nan,nan,203084,Harrison Barnes,GSW,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Personal
+98666,21500788,4,3:18,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+98667,21500788,4,3:18,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+98668,21500788,4,3:18,nan,SUB: Brewer FOR Thornton,nan,201977,Marcus Thornton,HOU,201147,Corey Brewer,HOU,0,nan,nan,Substitution ,nan
+98669,21500788,4,3:18,nan,MISS Howard Free Throw 2 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+98670,21500788,4,3:15,Green REBOUND (Off:2 Def:5),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98671,21500788,4,2:56,Iguodala  Alley Oop Dunk (12 PTS) (Green 4 AST),nan,103 - 114,2738,Andre Iguodala,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+98672,21500788,4,2:45,nan,MISS Ariza 25' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98673,21500788,4,2:43,nan,Howard REBOUND (Off:4 Def:11),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98674,21500788,4,2:23,nan,MISS Brewer 26' 3PT Jump Shot,nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98675,21500788,4,2:22,Iguodala REBOUND (Off:1 Def:5),nan,nan,2738,Andre Iguodala,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98676,21500788,4,2:10,Green 1' Driving Reverse Layup (6 PTS),nan,103 - 116,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Made Shot ,nan
+98677,21500788,4,2:10,nan,Rockets Timeout: Regular (Reg.5 Short 2),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+98678,21500788,4,2:10,nan,SUB: Thornton FOR Brewer,nan,201147,Corey Brewer,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+98679,21500788,4,2:04,Green P.FOUL (P4.PN) (K.Cutler),nan,nan,203110,Draymond Green,GSW,201935,James Harden,HOU,0,nan,nan,Foul ,Personal
+98680,21500788,4,2:04,nan,Harden Free Throw 1 of 2 (31 PTS),104 - 116,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+98681,21500788,4,2:04,nan,Harden Free Throw 2 of 2 (32 PTS),105 - 116,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+98682,21500788,4,1:51,Barnes  Cutting Dunk Shot (16 PTS) (Curry 9 AST),nan,105 - 118,203084,Harrison Barnes,GSW,201939,Stephen Curry,GSW,0,nan,nan,Made Shot ,nan
+98683,21500788,4,1:39,nan,Harden 25' 3PT Jump Shot (35 PTS) (Beverley 7 AST),108 - 118,201935,James Harden,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+98684,21500788,4,1:22,MISS Curry 25' 3PT Pullup Jump Shot,nan,nan,201939,Stephen Curry,GSW,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98685,21500788,4,1:22,nan,Ariza REBOUND (Off:3 Def:4),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98686,21500788,4,1:14,nan,Harden 2' Driving Reverse Layup (37 PTS),110 - 118,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+98687,21500788,4,1:14,Green S.FOUL (P5.PN) (K.Cutler),nan,nan,203110,Draymond Green,GSW,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+98688,21500788,4,1:14,nan,SUB: Lawson FOR Ariza,nan,2772,Trevor Ariza,HOU,201951,Ty Lawson,HOU,0,nan,nan,Substitution ,nan
+98689,21500788,4,1:14,nan,SUB: Capela FOR Howard,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+98690,21500788,4,1:14,nan,SUB: Harrell FOR Beverley,nan,201976,Patrick Beverley,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+98691,21500788,4,1:14,nan,MISS Harden Free Throw 1 of 1,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+98692,21500788,4,1:12,Green REBOUND (Off:2 Def:6),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98693,21500788,4,0:56,Green 1' Driving Finger Roll Layup (8 PTS) (Barnes 2 AST),nan,110 - 120,203110,Draymond Green,GSW,203084,Harrison Barnes,GSW,0,nan,nan,Made Shot ,nan
+98694,21500788,4,0:39,nan,MISS Capela 6' Hook Shot,nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+98695,21500788,4,0:38,Green REBOUND (Off:2 Def:7),nan,nan,203110,Draymond Green,GSW,0,nan,nan,0,nan,nan,Rebound ,Unknown
+98696,21500788,4,0:20,Barnes  3PT Pullup Jump Shot (19 PTS) (Green 5 AST),nan,110 - 123,203084,Harrison Barnes,GSW,203110,Draymond Green,GSW,0,nan,nan,Made Shot ,nan
+98697,21500788,4,0:00,nan,nan,110 - 123,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

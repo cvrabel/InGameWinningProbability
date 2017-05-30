@@ -1,0 +1,117 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+227330,21600601,4,12:00,nan,nan,68 - 84,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+227331,21600601,4,11:47,MISS Anderson 24' 3PT Jump Shot,nan,nan,101187,Alan Anderson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227332,21600601,4,11:47,nan,Ingram REBOUND (Off:0 Def:5),nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227333,21600601,4,11:34,nan,MISS Huertas 15' Pullup Jump Shot,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227334,21600601,4,11:32,Felton REBOUND (Off:0 Def:2),nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227335,21600601,4,11:14,W. Johnson 25' 3PT Jump Shot (3 PTS) (Felton 3 AST),nan,68 - 87,202325,Wesley Johnson,LAC,101109,Raymond Felton,LAC,0,nan,nan,Made Shot ,nan
+227336,21600601,4,11:04,nan,Clarkson 6' Driving Floating Jump Shot (15 PTS),70 - 87,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227337,21600601,4,10:54,Felton 1' Driving Layup (11 PTS),nan,70 - 89,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227338,21600601,4,10:43,nan,Williams 25' 3PT Jump Shot (8 PTS),73 - 89,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227339,21600601,4,10:23,Crawford 2' Driving Finger Roll Layup (2 PTS) (Felton 4 AST),nan,73 - 91,2037,Jamal Crawford,LAC,101109,Raymond Felton,LAC,0,nan,nan,Made Shot ,nan
+227340,21600601,4,10:16,nan,Williams 10' Floating Jump Shot (10 PTS),75 - 91,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227341,21600601,4,10:16,Speights S.FOUL (P3.T1) (B.Barnaky),nan,nan,201578,Marreese Speights,LAC,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+227342,21600601,4,10:16,nan,MISS Williams Free Throw 1 of 1,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227343,21600601,4,10:15,W. Johnson REBOUND (Off:0 Def:4),nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227344,21600601,4,9:53,MISS Felton 20' Step Back Jump Shot,nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227345,21600601,4,9:53,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227346,21600601,4,9:53,Speights L.B.FOUL (P4.T2) (R.Mott),nan,nan,201578,Marreese Speights,LAC,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Loose Ball
+227347,21600601,4,9:46,Anderson P.FOUL (P1.T3) (R.Mott),nan,nan,101187,Alan Anderson,LAC,203903,Jordan Clarkson,LAL,0,nan,nan,Foul ,Personal
+227348,21600601,4,9:31,Speights S.FOUL (P5.T4) (B.Barnaky),nan,nan,201578,Marreese Speights,LAC,1627742,Brandon Ingram,LAL,0,nan,nan,Foul ,Shooting
+227349,21600601,4,9:31,nan,MISS Ingram Free Throw 1 of 2,nan,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227350,21600601,4,9:31,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+227351,21600601,4,9:31,SUB: Jordan FOR Speights,nan,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+227352,21600601,4,9:31,nan,Ingram Free Throw 2 of 2 (14 PTS),76 - 91,1627742,Brandon Ingram,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227353,21600601,4,9:07,MISS Crawford 6' Driving Floating Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227354,21600601,4,9:04,nan,Black REBOUND (Off:1 Def:4),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227355,21600601,4,8:58,nan,Huertas 8' Running Pull-Up Jump Shot (2 PTS),78 - 91,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227356,21600601,4,8:38,Jordan  Alley Oop Dunk (20 PTS) (Anderson 1 AST),nan,78 - 93,201599,DeAndre Jordan,LAC,101187,Alan Anderson,LAC,0,nan,nan,Made Shot ,nan
+227357,21600601,4,8:33,Anderson S.FOUL (P2.PN) (H.Workman),nan,nan,101187,Alan Anderson,LAC,101150,Lou Williams,LAL,0,nan,nan,Foul ,Shooting
+227358,21600601,4,8:33,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+227359,21600601,4,8:33,nan,nan,nan,427,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+227360,21600601,4,8:33,SUB: Redick FOR W. Johnson,nan,nan,202325,Wesley Johnson,LAC,200755,JJ Redick,LAC,0,nan,nan,Substitution ,nan
+227361,21600601,4,8:33,SUB: Paul FOR Anderson,nan,nan,101187,Alan Anderson,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+227362,21600601,4,8:33,nan,Williams Free Throw 1 of 3 (11 PTS),79 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+227363,21600601,4,8:33,nan,Williams Free Throw 2 of 3 (12 PTS),80 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+227364,21600601,4,8:33,nan,Williams Free Throw 3 of 3 (13 PTS),81 - 93,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+227365,21600601,4,8:16,Paul 17' Pullup Jump Shot (18 PTS),nan,81 - 95,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227366,21600601,4,8:02,nan,Black OFF.Foul (P4) (B.Barnaky),nan,204028,Tarik Black,LAL,200755,JJ Redick,LAC,0,nan,nan,Foul ,Offensive
+227367,21600601,4,8:02,nan,Black Foul Turnover (P2.T15),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Turnover ,Foul
+227368,21600601,4,7:48,Paul 12' Pullup Jump Shot (20 PTS),nan,81 - 97,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227369,21600601,4,7:32,Felton S.FOUL (P1.PN) (R.Mott),nan,nan,101109,Raymond Felton,LAC,204028,Tarik Black,LAL,0,nan,nan,Foul ,Shooting
+227370,21600601,4,7:32,nan,Black Free Throw 1 of 2 (5 PTS),82 - 97,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227371,21600601,4,7:32,nan,Black Free Throw 2 of 2 (6 PTS),83 - 97,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227372,21600601,4,7:17,MISS Crawford 14' Pullup Jump Shot,nan,nan,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227373,21600601,4,7:14,nan,Black REBOUND (Off:1 Def:5),nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227374,21600601,4,7:10,nan,Black 3' Cutting Layup Shot (8 PTS) (Huertas 1 AST),85 - 97,204028,Tarik Black,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+227375,21600601,4,7:10,Redick S.FOUL (P4.PN) (H.Workman),nan,nan,200755,JJ Redick,LAC,204028,Tarik Black,LAL,0,nan,nan,Foul ,Shooting
+227376,21600601,4,7:10,nan,SUB: Young FOR Huertas,nan,1626273,Marcelo Huertas,LAL,201156,Nick Young,LAL,0,nan,nan,Substitution ,nan
+227377,21600601,4,7:10,nan,SUB: Russell FOR Ingram,nan,1627742,Brandon Ingram,LAL,1626156,D'Angelo Russell,LAL,0,nan,nan,Substitution ,nan
+227378,21600601,4,7:10,nan,MISS Black Free Throw 1 of 1,nan,204028,Tarik Black,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+227379,21600601,4,7:08,Jordan REBOUND (Off:2 Def:14),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227380,21600601,4,6:49,Paul Bad Pass Turnover (P4.T7),Williams STEAL (1 STL),nan,101108,Chris Paul,LAC,101150,Lou Williams,LAL,0,nan,nan,Turnover ,Bad Pass
+227381,21600601,4,6:40,nan,MISS Williams 8' Driving Floating Jump Shot,nan,101150,Lou Williams,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227382,21600601,4,6:36,Jordan REBOUND (Off:2 Def:15),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227383,21600601,4,6:24,Felton 5' Driving Floating Bank Jump Shot (13 PTS),nan,85 - 99,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227384,21600601,4,6:12,nan,MISS Russell 1' Reverse Layup,nan,1626156,D'Angelo Russell,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227385,21600601,4,6:08,Jordan REBOUND (Off:2 Def:16),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227386,21600601,4,6:07,Redick 25' 3PT Jump Shot (8 PTS) (Paul 11 AST),nan,85 - 102,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+227387,21600601,4,6:07,nan,Lakers Timeout: Regular (Reg.4 Short 1),nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227388,21600601,4,6:07,nan,SUB: Ingram FOR Williams,nan,101150,Lou Williams,LAL,1627742,Brandon Ingram,LAL,0,nan,nan,Substitution ,nan
+227389,21600601,4,6:07,nan,SUB: Huertas FOR Russell,nan,1626156,D'Angelo Russell,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Substitution ,nan
+227390,21600601,4,6:07,nan,SUB: Randle FOR Black,nan,204028,Tarik Black,LAL,203944,Julius Randle,LAL,0,nan,nan,Substitution ,nan
+227391,21600601,4,6:07,SUB: Rivers FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+227392,21600601,4,5:46,nan,MISS Young 25' 3PT Jump Shot,nan,201156,Nick Young,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227393,21600601,4,5:45,Paul REBOUND (Off:2 Def:3),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227394,21600601,4,5:38,nan,Huertas Personal Take Foul (P1.T1) (H.Workman),nan,1626273,Marcelo Huertas,LAL,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Personal Take
+227395,21600601,4,5:33,nan,Huertas P.FOUL (P2.T2) (B.Barnaky),nan,1626273,Marcelo Huertas,LAL,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+227396,21600601,4,5:25,Redick 18' Pullup Jump Shot (10 PTS) (Paul 12 AST),nan,85 - 104,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+227397,21600601,4,5:08,Jordan BLOCK (1 BLK),MISS Huertas 1' Driving Layup,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+227398,21600601,4,5:08,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227399,21600601,4,4:58,nan,MISS Clarkson 17' Turnaround Fadeaway Shot,nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227400,21600601,4,4:56,Jordan REBOUND (Off:2 Def:17),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227401,21600601,4,4:45,MISS Jordan 2' Alley Oop Layup,nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227402,21600601,4,4:41,Jordan REBOUND (Off:3 Def:17),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227403,21600601,4,4:41,Jordan 2' Tip Layup Shot (22 PTS),nan,85 - 106,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227404,21600601,4,4:24,nan,Clarkson 25' 3PT Jump Shot (18 PTS) (Huertas 2 AST),88 - 106,203903,Jordan Clarkson,LAL,1626273,Marcelo Huertas,LAL,0,nan,nan,Made Shot ,nan
+227405,21600601,4,3:59,Felton 23' Pullup Jump Shot (15 PTS),nan,88 - 108,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+227406,21600601,4,3:47,Jordan BLOCK (2 BLK),MISS Clarkson 2' Layup,nan,203903,Jordan Clarkson,LAL,0,nan,nan,201599,DeAndre Jordan,LAC,Missed Shot ,nan
+227407,21600601,4,3:46,nan,Clarkson REBOUND (Off:1 Def:3),nan,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227408,21600601,4,3:34,nan,Clarkson 25' 3PT Pullup Jump Shot (21 PTS),91 - 108,203903,Jordan Clarkson,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227409,21600601,4,3:14,MISS Rivers 7' Driving Bank Shot,nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227410,21600601,4,3:14,nan,Randle REBOUND (Off:1 Def:7),nan,203944,Julius Randle,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227411,21600601,4,3:14,Paul P.FOUL (P2.PN) (B.Barnaky),nan,nan,101108,Chris Paul,LAC,1626273,Marcelo Huertas,LAL,0,nan,nan,Foul ,Personal
+227412,21600601,4,3:14,nan,MISS Huertas Free Throw 1 of 2,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+227413,21600601,4,3:14,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+227414,21600601,4,3:14,nan,MISS Huertas Free Throw 2 of 2,nan,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+227415,21600601,4,3:12,Jordan REBOUND (Off:3 Def:18),nan,nan,201599,DeAndre Jordan,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227416,21600601,4,2:55,Jordan  Alley Oop Dunk (24 PTS) (Paul 13 AST),nan,91 - 110,201599,DeAndre Jordan,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+227417,21600601,4,2:42,nan,Huertas 5' Driving Floating Jump Shot (4 PTS),93 - 110,1626273,Marcelo Huertas,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227418,21600601,4,2:33,nan,Clarkson P.FOUL (P3.T3) (H.Workman),nan,203903,Jordan Clarkson,LAL,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal
+227419,21600601,4,2:33,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+227420,21600601,4,2:33,nan,nan,nan,496,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+227421,21600601,4,2:33,nan,SUB: Robinson FOR Young,nan,201156,Nick Young,LAL,203080,Thomas Robinson,LAL,0,nan,nan,Substitution ,nan
+227422,21600601,4,2:33,nan,SUB: Zubac FOR Randle,nan,203944,Julius Randle,LAL,1627826,Ivica Zubac,LAL,0,nan,nan,Substitution ,nan
+227423,21600601,4,2:33,nan,SUB: World Peace FOR Clarkson,nan,203903,Jordan Clarkson,LAL,1897,Metta World Peace,LAL,0,nan,nan,Substitution ,nan
+227424,21600601,4,2:33,nan,SUB: Calderon FOR Ingram,nan,1627742,Brandon Ingram,LAL,101181,Jose Calderon,LAL,0,nan,nan,Substitution ,nan
+227425,21600601,4,2:33,SUB: Anderson FOR Jordan,nan,nan,201599,DeAndre Jordan,LAC,101187,Alan Anderson,LAC,0,nan,nan,Substitution ,nan
+227426,21600601,4,2:33,SUB: Crawford FOR Redick,nan,nan,200755,JJ Redick,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+227427,21600601,4,2:33,SUB: Speights FOR Paul,nan,nan,101108,Chris Paul,LAC,201578,Marreese Speights,LAC,0,nan,nan,Substitution ,nan
+227428,21600601,4,2:32,SUB: Bass FOR Rivers,nan,nan,203085,Austin Rivers,LAC,101138,Brandon Bass,LAC,0,nan,nan,Substitution ,nan
+227429,21600601,4,2:21,MISS Anderson 25' 3PT Jump Shot,nan,nan,101187,Alan Anderson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227430,21600601,4,2:21,nan,World Peace REBOUND (Off:0 Def:1),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227431,21600601,4,2:03,nan,MISS World Peace 25' 3PT Jump Shot,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227432,21600601,4,2:02,Bass REBOUND (Off:0 Def:2),nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227433,21600601,4,1:38,MISS Felton 25' 3PT Jump Shot,nan,nan,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227434,21600601,4,1:38,nan,World Peace REBOUND (Off:0 Def:2),nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227435,21600601,4,1:30,nan,MISS Robinson 18' Jump Shot,nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227436,21600601,4,1:29,Speights REBOUND (Off:0 Def:2),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227437,21600601,4,1:09,Anderson 25' 3PT Jump Shot (3 PTS) (Crawford 5 AST),nan,93 - 113,101187,Alan Anderson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+227438,21600601,4,0:55,nan,Zubac 13' Turnaround Hook Shot (2 PTS) (World Peace 1 AST),95 - 113,1627826,Ivica Zubac,LAL,1897,Metta World Peace,LAL,0,nan,nan,Made Shot ,nan
+227439,21600601,4,0:36,MISS Bass 15' Jump Shot,nan,nan,101138,Brandon Bass,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227440,21600601,4,0:35,nan,Robinson REBOUND (Off:0 Def:3),nan,203080,Thomas Robinson,LAL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227441,21600601,4,0:27,nan,Calderon 13' Jump Shot (5 PTS),97 - 113,101181,Jose Calderon,LAL,0,nan,nan,0,nan,nan,Made Shot ,nan
+227442,21600601,4,0:03,CLIPPERS Turnover: Shot Clock (T#8),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Turnover ,Shot Clock Turnover
+227443,21600601,4,0:01,nan,MISS World Peace 31' 3PT Jump Shot,nan,1897,Metta World Peace,LAL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+227444,21600601,4,0:00,nan,Lakers Rebound,nan,1610612747,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+227445,21600601,4,0:00,nan,nan,97 - 113,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

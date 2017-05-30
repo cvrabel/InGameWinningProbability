@@ -1,0 +1,156 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+31513,21500252,4,12:00,nan,nan,69 - 77,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+31514,21500252,4,11:44,Porzingis Violation:Defensive Goaltending (H.Workman),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+31515,21500252,4,11:44,nan,Howard 2' Hook Shot (11 PTS),71 - 77,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31516,21500252,4,11:28,Porzingis 17' Jump Shot (16 PTS) (Galloway 4 AST),nan,71 - 79,204001,Kristaps Porzingis,NYK,204038,Langston Galloway,NYK,0,nan,nan,Made Shot ,nan
+31517,21500252,4,11:13,nan,Brewer Out of Bounds Lost Ball Turnover (P1.T5),nan,201147,Corey Brewer,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+31518,21500252,4,10:59,MISS Galloway 19' Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31519,21500252,4,10:59,nan,Howard REBOUND (Off:1 Def:3),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31520,21500252,4,10:49,nan,MISS Howard  Layup,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31521,21500252,4,10:49,nan,Capela REBOUND (Off:4 Def:5),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31522,21500252,4,10:48,Seraphin BLOCK (2 BLK),MISS Capela  Layup,nan,203991,Clint Capela,HOU,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+31523,21500252,4,10:46,Williams REBOUND (Off:0 Def:3),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31524,21500252,4,10:36,Porzingis Bad Pass Turnover (P2.T16),Capela STEAL (3 STL),nan,204001,Kristaps Porzingis,NYK,203991,Clint Capela,HOU,0,nan,nan,Turnover ,Bad Pass
+31525,21500252,4,10:30,Galloway STEAL (1 STL),Brewer Lost Ball Turnover (P2.T6),nan,201147,Corey Brewer,HOU,204038,Langston Galloway,NYK,0,nan,nan,Turnover ,Lost Ball
+31526,21500252,4,10:26,nan,Capela P.FOUL (P2.T1) (D.Jones),nan,203991,Clint Capela,HOU,202338,Kevin Seraphin,NYK,0,nan,nan,Foul ,Personal
+31527,21500252,4,10:26,nan,SUB: Ariza FOR Capela,nan,203991,Clint Capela,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Substitution ,nan
+31528,21500252,4,10:26,nan,SUB: Beverley FOR Brewer,nan,201147,Corey Brewer,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Substitution ,nan
+31529,21500252,4,10:19,Seraphin 11' Hook Shot (12 PTS),nan,71 - 81,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31530,21500252,4,10:05,nan,Thornton 21' Jump Shot (2 PTS),73 - 81,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31531,21500252,4,9:54,nan,Terry S.FOUL (P3.T2) (J.Goble),nan,1891,Jason Terry,HOU,202682,Derrick Williams,NYK,0,nan,nan,Foul ,Shooting
+31532,21500252,4,9:54,Williams Free Throw 1 of 2 (8 PTS),nan,73 - 82,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31533,21500252,4,9:54,Williams Free Throw 2 of 2 (9 PTS),nan,73 - 83,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31534,21500252,4,9:40,nan,Ariza 18' Jump Shot (8 PTS),75 - 83,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31535,21500252,4,9:24,Grant 7' Fadeaway Jumper (4 PTS),nan,75 - 85,1626170,Jerian Grant,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31536,21500252,4,9:10,Seraphin STEAL (1 STL),Thornton Lost Ball Turnover (P1.T7),nan,201977,Marcus Thornton,HOU,202338,Kevin Seraphin,NYK,0,nan,nan,Turnover ,Lost Ball
+31537,21500252,4,9:06,Seraphin Out of Bounds Lost Ball Turnover (P4.T17),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+31538,21500252,4,9:06,nan,SUB: Harden FOR Terry,nan,1891,Jason Terry,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+31539,21500252,4,8:50,nan,MISS Howard 5' Jump Shot,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31540,21500252,4,8:49,Williams REBOUND (Off:0 Def:4),nan,nan,202682,Derrick Williams,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31541,21500252,4,8:42,Grant 25' 3PT Jump Shot (7 PTS) (Williams 1 AST),nan,75 - 88,1626170,Jerian Grant,NYK,202682,Derrick Williams,NYK,0,nan,nan,Made Shot ,nan
+31542,21500252,4,8:42,nan,Rockets Timeout: Regular (Reg.4 Short 0),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31543,21500252,4,8:42,SUB: Thomas FOR Porzingis,nan,nan,204001,Kristaps Porzingis,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+31544,21500252,4,8:23,Seraphin BLOCK (3 BLK),MISS Howard 1' Layup,nan,2730,Dwight Howard,HOU,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+31545,21500252,4,8:22,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31546,21500252,4,8:20,Galloway S.FOUL (P2.T1) (H.Workman),nan,nan,204038,Langston Galloway,NYK,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Shooting
+31547,21500252,4,8:20,nan,Thornton Free Throw 1 of 2 (3 PTS),76 - 88,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31548,21500252,4,8:20,nan,SUB: Capela FOR Howard,nan,2730,Dwight Howard,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+31549,21500252,4,8:20,nan,Thornton Free Throw 2 of 2 (4 PTS),77 - 88,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31550,21500252,4,8:05,Williams 24' 3PT Jump Shot (12 PTS) (Grant 2 AST),nan,77 - 91,202682,Derrick Williams,NYK,1626170,Jerian Grant,NYK,0,nan,nan,Made Shot ,nan
+31551,21500252,4,7:48,nan,Capela 2' Layup (15 PTS) (Beverley 2 AST),79 - 91,203991,Clint Capela,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+31552,21500252,4,7:48,Williams S.FOUL (P2.T2) (D.Jones),nan,nan,202682,Derrick Williams,NYK,203991,Clint Capela,HOU,0,nan,nan,Foul ,Shooting
+31553,21500252,4,7:48,nan,Capela Free Throw 1 of 1 (16 PTS),80 - 91,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31554,21500252,4,7:40,nan,Beverley P.FOUL (P4.T3) (H.Workman),nan,201976,Patrick Beverley,HOU,1626170,Jerian Grant,NYK,0,nan,nan,Foul ,Personal
+31555,21500252,4,7:28,MISS Thomas 16' Jump Shot,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31556,21500252,4,7:28,nan,Harden REBOUND (Off:2 Def:3),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31557,21500252,4,7:21,nan,Ariza 24' 3PT Jump Shot (11 PTS) (Harden 8 AST),83 - 91,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+31558,21500252,4,6:52,MISS Galloway 25' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31559,21500252,4,6:51,nan,Capela REBOUND (Off:4 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31560,21500252,4,6:35,SUB: Afflalo FOR Grant,nan,nan,1626170,Jerian Grant,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Substitution ,nan
+31561,21500252,4,6:35,nan,Rockets Timeout: Short (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+31562,21500252,4,6:33,Galloway Violation:Defensive Goaltending (H.Workman),nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Violation ,Defensive Goaltending
+31563,21500252,4,6:33,nan,Beverley 1' Layup (7 PTS),85 - 91,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31564,21500252,4,6:17,Williams Bad Pass Turnover (P1.T18),Beverley STEAL (3 STL),nan,202682,Derrick Williams,NYK,201976,Patrick Beverley,HOU,0,nan,nan,Turnover ,Bad Pass
+31565,21500252,4,6:08,Seraphin S.FOUL (P2.T3) (H.Workman),nan,nan,202338,Kevin Seraphin,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31566,21500252,4,6:08,nan,MISS Harden Free Throw 1 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31567,21500252,4,6:08,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31568,21500252,4,6:08,SUB: Calderon FOR Williams,nan,nan,202682,Derrick Williams,NYK,101181,Jose Calderon,NYK,0,nan,nan,Substitution ,nan
+31569,21500252,4,6:08,nan,MISS Harden Free Throw 2 of 2,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31570,21500252,4,6:07,Thomas REBOUND (Off:1 Def:2),nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31571,21500252,4,5:42,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31572,21500252,4,5:42,nan,Ariza REBOUND (Off:3 Def:3),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31573,21500252,4,5:36,nan,MISS Harden 1' Layup,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31574,21500252,4,5:35,nan,Capela REBOUND (Off:5 Def:6),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31575,21500252,4,5:35,nan,Capela  Putback Layup (18 PTS),87 - 91,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31576,21500252,4,5:32,Seraphin Bad Pass Turnover (P5.T19),Thornton STEAL (1 STL),nan,202338,Kevin Seraphin,NYK,201977,Marcus Thornton,HOU,0,nan,nan,Turnover ,Bad Pass
+31577,21500252,4,5:29,nan,Thornton 1' Layup (6 PTS),89 - 91,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31578,21500252,4,5:29,KNICKS Timeout: Regular (Full 4 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31579,21500252,4,5:29,SUB: Porzingis FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,204001,Kristaps Porzingis,NYK,0,nan,nan,Substitution ,nan
+31580,21500252,4,5:08,Afflalo 9' Jump Shot (23 PTS),nan,89 - 93,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31581,21500252,4,4:48,Afflalo STEAL (1 STL),Harden Bad Pass Turnover (P2.T8),nan,201935,James Harden,HOU,201167,Arron Afflalo,NYK,0,nan,nan,Turnover ,Bad Pass
+31582,21500252,4,4:36,Porzingis 4' Jump Bank Shot (18 PTS) (Calderon 4 AST),nan,89 - 95,204001,Kristaps Porzingis,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+31583,21500252,4,4:13,nan,Thornton 19' Pullup Jump Shot (8 PTS),91 - 95,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31584,21500252,4,3:57,MISS Thomas 1' Layup,Capela BLOCK (1 BLK),nan,202498,Lance Thomas,NYK,0,nan,nan,203991,Clint Capela,HOU,Missed Shot ,nan
+31585,21500252,4,3:56,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31586,21500252,4,3:51,Thomas 18' Jump Shot (15 PTS) (Calderon 5 AST),nan,91 - 97,202498,Lance Thomas,NYK,101181,Jose Calderon,NYK,0,nan,nan,Made Shot ,nan
+31587,21500252,4,3:33,nan,Harden 12' Jump Bank Shot (21 PTS),93 - 97,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31588,21500252,4,3:10,MISS Thomas  3PT Jump Shot,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31589,21500252,4,3:09,nan,Ariza REBOUND (Off:3 Def:4),nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31590,21500252,4,3:04,nan,Harden 3' Jump Shot (23 PTS),95 - 97,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31591,21500252,4,3:04,Afflalo S.FOUL (P1.T4) (J.Goble),nan,nan,201167,Arron Afflalo,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Shooting
+31592,21500252,4,3:04,nan,SUB: Howard FOR Capela,nan,203991,Clint Capela,HOU,2730,Dwight Howard,HOU,0,nan,nan,Substitution ,nan
+31593,21500252,4,3:04,SUB: Seraphin FOR Galloway,nan,nan,204038,Langston Galloway,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Substitution ,nan
+31594,21500252,4,3:04,nan,Harden Free Throw 1 of 1 (24 PTS),96 - 97,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31595,21500252,4,2:43,Seraphin 11' Jump Shot (14 PTS) (Afflalo 3 AST),nan,96 - 99,202338,Kevin Seraphin,NYK,201167,Arron Afflalo,NYK,0,nan,nan,Made Shot ,nan
+31596,21500252,4,2:20,nan,Ariza 19' Jump Shot (13 PTS),98 - 99,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31597,21500252,4,2:15,KNICKS Timeout: Regular (Full 5 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31598,21500252,4,1:56,Calderon Bad Pass Turnover (P3.T20),Beverley STEAL (4 STL),nan,101181,Jose Calderon,NYK,201976,Patrick Beverley,HOU,0,nan,nan,Turnover ,Bad Pass
+31599,21500252,4,1:49,Seraphin BLOCK (4 BLK),MISS Harden 4' Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,202338,Kevin Seraphin,NYK,Missed Shot ,nan
+31600,21500252,4,1:47,nan,Harden REBOUND (Off:3 Def:3),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31601,21500252,4,1:44,nan,MISS Ariza 24' 3PT Jump Shot,nan,2772,Trevor Ariza,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31602,21500252,4,1:43,Calderon REBOUND (Off:0 Def:4),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31603,21500252,4,1:27,Afflalo 18' Jump Shot (25 PTS),nan,98 - 101,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31604,21500252,4,1:01,nan,MISS Thornton 26' 3PT Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31605,21500252,4,1:00,Afflalo REBOUND (Off:1 Def:6),nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31606,21500252,4,0:49,Calderon Out of Bounds Lost Ball Turnover (P4.T21),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+31607,21500252,4,0:49,nan,nan,nan,510,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+31608,21500252,4,0:35,nan,MISS Harden 26' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31609,21500252,4,0:35,nan,Howard REBOUND (Off:2 Def:3),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31610,21500252,4,0:32,nan,Thornton 24' 3PT Jump Shot (11 PTS) (Howard 2 AST),101 - 101,201977,Marcus Thornton,HOU,2730,Dwight Howard,HOU,0,nan,nan,Made Shot ,nan
+31611,21500252,4,0:32,KNICKS Timeout: Regular (Full 6 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31612,21500252,4,0:32,SUB: Galloway FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,204038,Langston Galloway,NYK,0,nan,nan,Substitution ,nan
+31613,21500252,4,0:18,MISS Thomas 23' Jump Shot,nan,nan,202498,Lance Thomas,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31614,21500252,4,0:18,nan,Beverley REBOUND (Off:0 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31615,21500252,4,0:00,nan,MISS Harden 19' Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31616,21500252,4,0:00,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31617,21500252,4,0:00,nan,nan,101 - 101,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
+31618,21500252,5,5:00,nan,nan,101 - 101,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+31619,21500252,5,5:00,Jump Ball Porzingis vs. Howard: Tip to Beverley,nan,nan,204001,Kristaps Porzingis,NYK,2730,Dwight Howard,HOU,201976,Patrick Beverley,HOU,Jump Ball ,nan
+31620,21500252,5,4:46,nan,Howard  Alley Oop Dunk (13 PTS) (Thornton 1 AST),103 - 101,2730,Dwight Howard,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Made Shot ,nan
+31621,21500252,5,4:46,Porzingis S.FOUL (P4.T1) (J.Goble),nan,nan,204001,Kristaps Porzingis,NYK,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+31622,21500252,5,4:46,nan,MISS Howard Free Throw 1 of 1,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+31623,21500252,5,4:45,Seraphin REBOUND (Off:0 Def:6),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31624,21500252,5,4:28,Porzingis 2' Running Layup (20 PTS) (Seraphin 3 AST),nan,103 - 103,204001,Kristaps Porzingis,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Made Shot ,nan
+31625,21500252,5,4:15,nan,Thornton 19' Pullup Jump Shot (13 PTS),105 - 103,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31626,21500252,5,3:53,Galloway Bad Pass Turnover (P3.T22),Ariza STEAL (2 STL),nan,204038,Langston Galloway,NYK,2772,Trevor Ariza,HOU,0,nan,nan,Turnover ,Bad Pass
+31627,21500252,5,3:47,nan,MISS Harden 25' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31628,21500252,5,3:46,Calderon REBOUND (Off:0 Def:5),nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31629,21500252,5,3:43,Calderon Lost Ball Turnover (P5.T23),Beverley STEAL (5 STL),nan,101181,Jose Calderon,NYK,201976,Patrick Beverley,HOU,0,nan,nan,Turnover ,Lost Ball
+31630,21500252,5,3:36,nan,Thornton 24' 3PT Jump Shot (16 PTS) (Ariza 1 AST),108 - 103,201977,Marcus Thornton,HOU,2772,Trevor Ariza,HOU,0,nan,nan,Made Shot ,nan
+31631,21500252,5,3:35,KNICKS Timeout: Regular (Full 7 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31632,21500252,5,3:16,Afflalo 9' Jump Shot (27 PTS),nan,108 - 105,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31633,21500252,5,2:58,nan,MISS Thornton 13' Jump Shot,nan,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31634,21500252,5,2:57,Porzingis REBOUND (Off:3 Def:10),nan,nan,204001,Kristaps Porzingis,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31635,21500252,5,2:39,Afflalo 11' Turnaround Jump Shot (29 PTS),nan,108 - 107,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31636,21500252,5,2:17,Porzingis S.FOUL (P5.T2) (D.Jones),nan,nan,204001,Kristaps Porzingis,NYK,2730,Dwight Howard,HOU,0,nan,nan,Foul ,Shooting
+31637,21500252,5,2:17,nan,MISS Howard Free Throw 1 of 2,nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31638,21500252,5,2:17,nan,Rockets Rebound,nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+31639,21500252,5,2:17,nan,Howard Free Throw 2 of 2 (14 PTS),109 - 107,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31640,21500252,5,1:59,Afflalo 19' Jump Shot (31 PTS) (Seraphin 4 AST),nan,109 - 109,201167,Arron Afflalo,NYK,202338,Kevin Seraphin,NYK,0,nan,nan,Made Shot ,nan
+31641,21500252,5,1:41,nan,Harden 2' Driving Layup (26 PTS),111 - 109,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+31642,21500252,5,1:31,Galloway 15' Jump Shot (4 PTS),nan,111 - 111,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Made Shot ,nan
+31643,21500252,5,1:12,nan,Ariza 25' 3PT Jump Shot (16 PTS) (Harden 9 AST),114 - 111,2772,Trevor Ariza,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+31644,21500252,5,1:12,KNICKS Timeout: Regular (Full 8 Short 1),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31645,21500252,5,1:12,nan,SUB: Capela FOR Thornton,nan,201977,Marcus Thornton,HOU,203991,Clint Capela,HOU,0,nan,nan,Substitution ,nan
+31646,21500252,5,0:56,nan,Beverley P.FOUL (P5.T1) (J.Goble),nan,201976,Patrick Beverley,HOU,101181,Jose Calderon,NYK,0,nan,nan,Foul ,Personal
+31647,21500252,5,0:42,MISS Galloway 26' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31648,21500252,5,0:42,nan,Howard REBOUND (Off:2 Def:4),nan,2730,Dwight Howard,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31649,21500252,5,0:21,nan,MISS Harden 24' 3PT Jump Shot,nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31650,21500252,5,0:20,Seraphin REBOUND (Off:0 Def:7),nan,nan,202338,Kevin Seraphin,NYK,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31651,21500252,5,0:10,MISS Afflalo 23' Jump Shot,nan,nan,201167,Arron Afflalo,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31652,21500252,5,0:10,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31653,21500252,5,0:10,KNICKS Timeout: Short (Full 8 Short 2),nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+31654,21500252,5,0:07,MISS Calderon 25' 3PT Jump Shot,nan,nan,101181,Jose Calderon,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31655,21500252,5,0:06,nan,Harden REBOUND (Off:3 Def:4),nan,201935,James Harden,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31656,21500252,5,0:01,Seraphin Personal Take Foul (P3.T3) (D.Jones),nan,nan,202338,Kevin Seraphin,NYK,201935,James Harden,HOU,0,nan,nan,Foul ,Personal Take
+31657,21500252,5,0:01,nan,Rockets Timeout: Regular (Reg.5 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+31658,21500252,5,0:01,SUB: Early FOR Calderon,nan,nan,101181,Jose Calderon,NYK,203921,Cleanthony Early,NYK,0,nan,nan,Substitution ,nan
+31659,21500252,5,0:01,SUB: Thomas FOR Seraphin,nan,nan,202338,Kevin Seraphin,NYK,202498,Lance Thomas,NYK,0,nan,nan,Substitution ,nan
+31660,21500252,5,0:01,nan,SUB: Terry FOR Capela,nan,203991,Clint Capela,HOU,1891,Jason Terry,HOU,0,nan,nan,Substitution ,nan
+31661,21500252,5,0:01,nan,SUB: Thornton FOR Beverley,nan,201976,Patrick Beverley,HOU,201977,Marcus Thornton,HOU,0,nan,nan,Substitution ,nan
+31662,21500252,5,0:00,Galloway P.FOUL (P3.PN) (J.Goble),nan,nan,204038,Langston Galloway,NYK,201977,Marcus Thornton,HOU,0,nan,nan,Foul ,Personal
+31663,21500252,5,0:00,nan,Thornton Free Throw 1 of 2 (17 PTS),115 - 111,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+31664,21500252,5,0:00,nan,Thornton Free Throw 2 of 2 (18 PTS),116 - 111,201977,Marcus Thornton,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+31665,21500252,5,0:00,MISS Galloway 73' 3PT Jump Shot,nan,nan,204038,Langston Galloway,NYK,0,nan,nan,0,nan,nan,Missed Shot ,nan
+31666,21500252,5,0:00,KNICKS Rebound,nan,nan,1610612752,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+31667,21500252,5,0:00,nan,nan,116 - 111,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

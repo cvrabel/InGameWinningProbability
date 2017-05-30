@@ -1,0 +1,127 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+225333,21600584,4,12:00,nan,nan,75 - 73,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+225334,21600584,4,11:53,nan,Hezonja S.FOUL (P1.T1) (D.Richardson),nan,1626209,Mario Hezonja,ORL,2037,Jamal Crawford,LAC,0,nan,nan,Foul ,Shooting
+225335,21600584,4,11:53,Crawford Free Throw 1 of 3 (7 PTS),nan,75 - 74,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+225336,21600584,4,11:53,Crawford Free Throw 2 of 3 (8 PTS),nan,75 - 75,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+225337,21600584,4,11:53,Crawford Free Throw 3 of 3 (9 PTS),nan,75 - 76,2037,Jamal Crawford,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+225338,21600584,4,11:38,nan,MISS Meeks 26' 3PT Jump Shot,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225339,21600584,4,11:36,W. Johnson REBOUND (Off:0 Def:2),nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225340,21600584,4,11:32,Crawford Bad Pass Turnover (P4.T17),Meeks STEAL (3 STL),nan,2037,Jamal Crawford,LAC,201975,Jodie Meeks,ORL,0,nan,nan,Turnover ,Bad Pass
+225341,21600584,4,11:28,nan,Meeks  Running Dunk (14 PTS),77 - 76,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+225342,21600584,4,11:10,Speights 25' 3PT Jump Shot (3 PTS) (Redick 3 AST),nan,77 - 79,201578,Marreese Speights,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+225343,21600584,4,10:52,nan,MISS Green 27' 3PT Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225344,21600584,4,10:51,W. Johnson REBOUND (Off:0 Def:3),nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225345,21600584,4,10:39,W. Johnson 18' Jump Shot (5 PTS) (Crawford 2 AST),nan,77 - 81,202325,Wesley Johnson,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+225346,21600584,4,10:21,nan,MISS Hezonja 25' 3PT Jump Shot,nan,1626209,Mario Hezonja,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225347,21600584,4,10:19,Speights REBOUND (Off:0 Def:2),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225348,21600584,4,10:12,Speights 2' Cutting Layup Shot (5 PTS) (Crawford 3 AST),nan,77 - 83,201578,Marreese Speights,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+225349,21600584,4,10:12,nan,Hezonja S.FOUL (P2.T2) (J.Goble),nan,1626209,Mario Hezonja,ORL,201578,Marreese Speights,LAC,0,nan,nan,Foul ,Shooting
+225350,21600584,4,10:12,nan,Magic Timeout: Regular (Reg.4 Short 1),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+225351,21600584,4,10:12,nan,SUB: Watson FOR Hezonja,nan,1626209,Mario Hezonja,ORL,201228,C.J. Watson,ORL,0,nan,nan,Substitution ,nan
+225352,21600584,4,10:12,MISS Speights Free Throw 1 of 1,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+225353,21600584,4,10:10,nan,Meeks REBOUND (Off:0 Def:4),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225354,21600584,4,9:48,nan,MISS Green 13' Turnaround Jump Shot,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225355,21600584,4,9:46,Redick REBOUND (Off:0 Def:3),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225356,21600584,4,9:43,Speights Traveling Turnover (P1.T18),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Traveling
+225357,21600584,4,9:26,nan,Green 15' Turnaround Jump Shot (9 PTS),79 - 83,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+225358,21600584,4,9:11,Crawford Bad Pass Turnover (P5.T19),Meeks STEAL (4 STL),nan,2037,Jamal Crawford,LAC,201975,Jodie Meeks,ORL,0,nan,nan,Turnover ,Bad Pass
+225359,21600584,4,9:06,nan,Augustin 3' Running Layup (4 PTS) (Watson 1 AST),81 - 83,201571,D.J. Augustin,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+225360,21600584,4,8:48,Speights  Cutting Dunk Shot (7 PTS) (Redick 4 AST),nan,81 - 85,201578,Marreese Speights,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+225361,21600584,4,8:30,nan,MISS Watson 3' Driving Floating Jump Shot,nan,201228,C.J. Watson,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225362,21600584,4,8:27,Speights REBOUND (Off:0 Def:3),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225363,21600584,4,8:23,Felton 2' Running Layup (6 PTS),nan,81 - 87,101109,Raymond Felton,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+225364,21600584,4,8:09,Speights Shooting Block Foul (P2.T1) (J.Goble),nan,nan,201578,Marreese Speights,LAC,201145,Jeff Green,ORL,0,nan,nan,Foul ,Shooting Block
+225365,21600584,4,8:09,nan,MISS Green Free Throw 1 of 2,nan,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+225366,21600584,4,8:09,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225367,21600584,4,8:09,nan,SUB: Fournier FOR Meeks,nan,201975,Jodie Meeks,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+225368,21600584,4,8:09,nan,Green Free Throw 2 of 2 (10 PTS),82 - 87,201145,Jeff Green,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+225369,21600584,4,7:49,Felton 1' Cutting Layup Shot (8 PTS) (Speights 1 AST),nan,82 - 89,101109,Raymond Felton,LAC,201578,Marreese Speights,LAC,0,nan,nan,Made Shot ,nan
+225370,21600584,4,7:37,nan,MISS Augustin 18' Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225371,21600584,4,7:36,nan,Augustin REBOUND (Off:1 Def:0),nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225372,21600584,4,7:35,Crawford P.FOUL (P1.T2) (B.Adams),nan,nan,2037,Jamal Crawford,LAC,201571,D.J. Augustin,ORL,0,nan,nan,Foul ,Personal
+225373,21600584,4,7:35,nan,SUB: Gordon FOR Green,nan,201145,Jeff Green,ORL,203932,Aaron Gordon,ORL,0,nan,nan,Substitution ,nan
+225374,21600584,4,7:28,nan,MISS Fournier 11' Floating Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225375,21600584,4,7:26,Redick REBOUND (Off:0 Def:4),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225376,21600584,4,7:14,MISS W. Johnson 21' Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225377,21600584,4,7:12,nan,Augustin REBOUND (Off:1 Def:1),nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225378,21600584,4,7:08,Felton P.FOUL (P2.T3) (B.Adams),nan,nan,101109,Raymond Felton,LAC,201571,D.J. Augustin,ORL,0,nan,nan,Foul ,Personal
+225379,21600584,4,7:08,nan,SUB: Vucevic FOR Biyombo,nan,202687,Bismack Biyombo,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Substitution ,nan
+225380,21600584,4,6:53,Felton S.FOUL (P3.T4) (D.Richardson),nan,nan,101109,Raymond Felton,LAC,201571,D.J. Augustin,ORL,0,nan,nan,Foul ,Shooting
+225381,21600584,4,6:53,nan,nan,nan,452,Vin Baker,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+225382,21600584,4,6:53,nan,Augustin Free Throw 1 of 3 (5 PTS),83 - 89,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 3
+225383,21600584,4,6:53,nan,Augustin Free Throw 2 of 3 (6 PTS),84 - 89,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 3
+225384,21600584,4,6:53,SUB: Paul FOR Felton,nan,nan,101109,Raymond Felton,LAC,101108,Chris Paul,LAC,0,nan,nan,Substitution ,nan
+225385,21600584,4,6:53,nan,Augustin Free Throw 3 of 3 (7 PTS),85 - 89,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 3 of 3
+225386,21600584,4,6:40,Speights 26' 3PT Jump Shot (10 PTS) (Crawford 4 AST),nan,85 - 92,201578,Marreese Speights,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Made Shot ,nan
+225387,21600584,4,6:24,nan,Fournier 17' Jump Shot (6 PTS),87 - 92,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+225388,21600584,4,6:09,Speights OFF.Foul (P3) (D.Richardson),nan,nan,201578,Marreese Speights,LAC,201228,C.J. Watson,ORL,0,nan,nan,Foul ,Offensive
+225389,21600584,4,6:09,Speights Foul Turnover (P2.T20),nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Turnover ,Foul
+225390,21600584,4,5:58,nan,Gordon 28' 3PT Jump Shot (28 PTS) (Vucevic 3 AST),90 - 92,203932,Aaron Gordon,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+225391,21600584,4,5:38,Speights 26' 3PT Jump Shot (13 PTS) (Redick 5 AST),nan,90 - 95,201578,Marreese Speights,LAC,200755,JJ Redick,LAC,0,nan,nan,Made Shot ,nan
+225392,21600584,4,5:14,nan,Vucevic 13' Turnaround Hook Shot (14 PTS) (Watson 2 AST),92 - 95,202696,Nikola Vucevic,ORL,201228,C.J. Watson,ORL,0,nan,nan,Made Shot ,nan
+225393,21600584,4,5:00,MISS Speights 26' 3PT Jump Shot,nan,nan,201578,Marreese Speights,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225394,21600584,4,4:59,nan,Fournier REBOUND (Off:0 Def:2),nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225395,21600584,4,4:45,nan,MISS Gordon 13' Turnaround Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225396,21600584,4,4:42,Redick REBOUND (Off:0 Def:5),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225397,21600584,4,4:35,MISS W. Johnson 26' 3PT Jump Shot,nan,nan,202325,Wesley Johnson,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225398,21600584,4,4:33,nan,Vucevic REBOUND (Off:0 Def:9),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225399,21600584,4,4:27,nan,MISS Fournier 24' 3PT Running Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225400,21600584,4,4:25,Paul REBOUND (Off:0 Def:5),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225401,21600584,4,4:25,CLIPPERS Timeout: Regular (Full 4 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+225402,21600584,4,4:25,SUB: Rivers FOR W. Johnson,nan,nan,202325,Wesley Johnson,LAC,203085,Austin Rivers,LAC,0,nan,nan,Substitution ,nan
+225403,21600584,4,4:25,SUB: Jordan FOR Speights,nan,nan,201578,Marreese Speights,LAC,201599,DeAndre Jordan,LAC,0,nan,nan,Substitution ,nan
+225404,21600584,4,4:07,MISS Redick 27' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225405,21600584,4,4:07,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225406,21600584,4,4:07,nan,Fournier L.B.FOUL (P5.T3) (J.Goble),nan,203095,Evan Fournier,ORL,201599,DeAndre Jordan,LAC,0,nan,nan,Foul ,Loose Ball
+225407,21600584,4,4:07,nan,SUB: Meeks FOR Watson,nan,201228,C.J. Watson,ORL,201975,Jodie Meeks,ORL,0,nan,nan,Substitution ,nan
+225408,21600584,4,3:50,MISS Redick 6' Driving Floating Jump Shot,Vucevic BLOCK (2 BLK),nan,200755,JJ Redick,LAC,0,nan,nan,202696,Nikola Vucevic,ORL,Missed Shot ,nan
+225409,21600584,4,3:49,nan,Vucevic REBOUND (Off:0 Def:10),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225410,21600584,4,3:38,nan,MISS Vucevic 26' 3PT Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225411,21600584,4,3:36,Rivers REBOUND (Off:0 Def:2),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225412,21600584,4,3:31,Paul Lost Ball Turnover (P5.T21),Meeks STEAL (5 STL),nan,101108,Chris Paul,LAC,201975,Jodie Meeks,ORL,0,nan,nan,Turnover ,Lost Ball
+225413,21600584,4,3:25,Redick BLOCK (1 BLK),MISS Augustin 2' Layup,nan,201571,D.J. Augustin,ORL,0,nan,nan,200755,JJ Redick,LAC,Missed Shot ,nan
+225414,21600584,4,3:21,Rivers REBOUND (Off:0 Def:3),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225415,21600584,4,3:16,Redick 29' 3PT Running Pull-Up Jump Shot (20 PTS) (Paul 6 AST),nan,92 - 98,200755,JJ Redick,LAC,101108,Chris Paul,LAC,0,nan,nan,Made Shot ,nan
+225416,21600584,4,2:57,nan,MISS Augustin 26' 3PT Jump Shot,nan,201571,D.J. Augustin,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225417,21600584,4,2:56,Rivers REBOUND (Off:0 Def:4),nan,nan,203085,Austin Rivers,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225418,21600584,4,2:34,MISS Paul 16' Step Back Jump Shot,nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225419,21600584,4,2:30,nan,Meeks REBOUND (Off:0 Def:5),nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225420,21600584,4,2:15,nan,MISS Vucevic 7' Turnaround Hook Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225421,21600584,4,2:15,nan,Magic Rebound,nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225422,21600584,4,2:15,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+225423,21600584,4,2:15,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+225424,21600584,4,2:15,nan,SUB: Green FOR Fournier,nan,203095,Evan Fournier,ORL,201145,Jeff Green,ORL,0,nan,nan,Substitution ,nan
+225425,21600584,4,2:04,nan,MISS Vucevic 19' Jump Shot,nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225426,21600584,4,2:04,Paul REBOUND (Off:0 Def:6),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225427,21600584,4,2:04,CLIPPERS Timeout: Regular (Full 5 Short 0),nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+225428,21600584,4,2:04,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+225429,21600584,4,1:48,MISS Redick 26' 3PT Jump Shot,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225430,21600584,4,1:47,nan,Gordon REBOUND (Off:1 Def:2),nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225431,21600584,4,1:41,nan,MISS Meeks 2' Running Layup,nan,201975,Jodie Meeks,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225432,21600584,4,1:40,nan,Vucevic REBOUND (Off:1 Def:10),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225433,21600584,4,1:40,nan,Vucevic 1' Tip Layup Shot (16 PTS),94 - 98,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Made Shot ,nan
+225434,21600584,4,1:19,Redick 16' Step Back Jump Shot (22 PTS) (Rivers 5 AST),nan,94 - 100,200755,JJ Redick,LAC,203085,Austin Rivers,LAC,0,nan,nan,Made Shot ,nan
+225435,21600584,4,1:19,nan,Magic Timeout: Short (Reg.4 Short 2),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+225436,21600584,4,1:19,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+225437,21600584,4,1:19,nan,SUB: Fournier FOR Green,nan,201145,Jeff Green,ORL,203095,Evan Fournier,ORL,0,nan,nan,Substitution ,nan
+225438,21600584,4,1:09,nan,MISS Fournier 26' 3PT Jump Shot,nan,203095,Evan Fournier,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225439,21600584,4,1:08,Paul REBOUND (Off:0 Def:7),nan,nan,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225440,21600584,4,0:49,Paul 26' 3PT Jump Shot (16 PTS),nan,94 - 103,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Made Shot ,nan
+225441,21600584,4,0:49,nan,Magic Timeout: Short (Reg.4 Short 3),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Short
+225442,21600584,4,0:46,nan,Fournier 1' Cutting Layup Shot (8 PTS) (Vucevic 4 AST),96 - 103,203095,Evan Fournier,ORL,202696,Nikola Vucevic,ORL,0,nan,nan,Made Shot ,nan
+225443,21600584,4,0:43,nan,Gordon Personal Take Foul (P2.T4) (D.Richardson),nan,203932,Aaron Gordon,ORL,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal Take
+225444,21600584,4,0:43,SUB: Crawford FOR Mbah a Moute,nan,nan,201601,Luc Mbah a Moute,LAC,2037,Jamal Crawford,LAC,0,nan,nan,Substitution ,nan
+225445,21600584,4,0:39,nan,Gordon Personal Take Foul (P3.PN) (B.Adams),nan,203932,Aaron Gordon,ORL,200755,JJ Redick,LAC,0,nan,nan,Foul ,Personal Take
+225446,21600584,4,0:39,MISS Redick Free Throw 1 of 2,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+225447,21600584,4,0:39,CLIPPERS Rebound,nan,nan,1610612746,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+225448,21600584,4,0:39,SUB: Mbah a Moute FOR Crawford,nan,nan,2037,Jamal Crawford,LAC,201601,Luc Mbah a Moute,LAC,0,nan,nan,Substitution ,nan
+225449,21600584,4,0:39,MISS Redick Free Throw 2 of 2,nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+225450,21600584,4,0:37,nan,Vucevic REBOUND (Off:1 Def:11),nan,202696,Nikola Vucevic,ORL,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225451,21600584,4,0:37,nan,Magic Timeout: Regular (Reg.5 Short 3),nan,1610612753,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+225452,21600584,4,0:27,Mbah a Moute STEAL (2 STL),Gordon Lost Ball Turnover (P2.T13),nan,203932,Aaron Gordon,ORL,201601,Luc Mbah a Moute,LAC,0,nan,nan,Turnover ,Lost Ball
+225453,21600584,4,0:22,nan,Vucevic Personal Take Foul (P2.PN) (J.Goble),nan,202696,Nikola Vucevic,ORL,101108,Chris Paul,LAC,0,nan,nan,Foul ,Personal Take
+225454,21600584,4,0:22,Paul Free Throw 1 of 2 (17 PTS),nan,96 - 104,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+225455,21600584,4,0:22,Paul Free Throw 2 of 2 (18 PTS),nan,96 - 105,101108,Chris Paul,LAC,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+225456,21600584,4,0:13,nan,MISS Gordon 27' 3PT Jump Shot,nan,203932,Aaron Gordon,ORL,0,nan,nan,0,nan,nan,Missed Shot ,nan
+225457,21600584,4,0:12,Redick REBOUND (Off:0 Def:6),nan,nan,200755,JJ Redick,LAC,0,nan,nan,0,nan,nan,Rebound ,Unknown
+225458,21600584,4,0:00,nan,nan,96 - 105,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan

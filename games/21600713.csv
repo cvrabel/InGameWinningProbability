@@ -1,0 +1,101 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description
+241114,21600713,4,12:00,nan,nan,70 - 90,0,nan,nan,0,nan,nan,0,nan,nan,Start Period ,nan
+241115,21600713,4,11:46,Jefferson Shooting Block Foul (P4.T1) (S.Corbin),nan,nan,2744,Al Jefferson,IND,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Shooting Block
+241116,21600713,4,11:46,nan,Gordon Free Throw 1 of 2 (10 PTS),71 - 90,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241117,21600713,4,11:46,nan,Gordon Free Throw 2 of 2 (11 PTS),72 - 90,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241118,21600713,4,11:34,Robinson III 2' Cutting Dunk Shot (12 PTS) (Ellis 4 AST),nan,72 - 92,203922,Glenn Robinson III,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+241119,21600713,4,11:22,nan,MISS Anderson 19' Step Back Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241120,21600713,4,11:21,Ellis REBOUND (Off:0 Def:2),nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241121,21600713,4,10:56,MISS Brooks 26' 3PT Jump Shot,nan,nan,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241122,21600713,4,10:54,nan,Capela REBOUND (Off:1 Def:3),nan,203991,Clint Capela,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241123,21600713,4,10:43,nan,Anderson 3' Driving Dunk (23 PTS) (Beverley 2 AST),74 - 92,201583,Ryan Anderson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+241124,21600713,4,10:43,Brooks S.FOUL (P2.T2) (J.Capers),nan,nan,201166,Aaron Brooks,IND,201583,Ryan Anderson,HOU,0,nan,nan,Foul ,Shooting
+241125,21600713,4,10:43,nan,Anderson Free Throw 1 of 1 (24 PTS),75 - 92,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+241126,21600713,4,10:31,nan,Anderson P.FOUL (P2.T1) (B.Nansel),nan,201583,Ryan Anderson,HOU,202730,Lavoy Allen,IND,0,nan,nan,Foul ,Personal
+241127,21600713,4,10:20,Robinson III 10' Driving Bank Shot (14 PTS),nan,75 - 94,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+241128,21600713,4,10:07,nan,Gordon 2' Cutting Layup Shot (13 PTS) (Beverley 3 AST),77 - 94,201569,Eric Gordon,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+241129,21600713,4,10:07,Ellis S.FOUL (P1.T3) (B.Nansel),nan,nan,101145,Monta Ellis,IND,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Shooting
+241130,21600713,4,10:07,nan,Gordon Free Throw 1 of 1 (14 PTS),78 - 94,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 1
+241131,21600713,4,9:47,Brooks 2' Driving Layup (2 PTS),nan,78 - 96,201166,Aaron Brooks,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+241132,21600713,4,9:27,nan,MISS Anderson 29' 3PT Jump Shot,nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241133,21600713,4,9:26,nan,Dekker REBOUND (Off:1 Def:1),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241134,21600713,4,9:25,nan,Dekker 1' Putback Layup (2 PTS),80 - 96,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+241135,21600713,4,9:07,Allen 2' Layup (10 PTS) (Ellis 5 AST),nan,80 - 98,202730,Lavoy Allen,IND,101145,Monta Ellis,IND,0,nan,nan,Made Shot ,nan
+241136,21600713,4,8:47,nan,Anderson  3PT Jump Shot (27 PTS) (Beverley 4 AST),83 - 98,201583,Ryan Anderson,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+241137,21600713,4,8:22,Jefferson 2' Layup (6 PTS) (Allen 1 AST),nan,83 - 100,2744,Al Jefferson,IND,202730,Lavoy Allen,IND,0,nan,nan,Made Shot ,nan
+241138,21600713,4,8:07,nan,MISS Gordon 25' 3PT Jump Shot,nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241139,21600713,4,8:06,Robinson III REBOUND (Off:1 Def:4),nan,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241140,21600713,4,7:54,MISS Robinson III 10' Jump Shot,Dekker BLOCK (1 BLK),nan,203922,Glenn Robinson III,IND,0,nan,nan,1626155,Sam Dekker,HOU,Missed Shot ,nan
+241141,21600713,4,7:54,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241142,21600713,4,7:54,nan,nan,nan,0,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Official
+241143,21600713,4,7:54,SUB: George FOR Robinson III,nan,nan,203922,Glenn Robinson III,IND,202331,Paul George,IND,0,nan,nan,Substitution ,nan
+241144,21600713,4,7:54,SUB: Young FOR Allen,nan,nan,202730,Lavoy Allen,IND,201152,Thaddeus Young,IND,0,nan,nan,Substitution ,nan
+241145,21600713,4,7:54,SUB: Teague FOR Brooks,nan,nan,201166,Aaron Brooks,IND,201952,Jeff Teague,IND,0,nan,nan,Substitution ,nan
+241146,21600713,4,7:54,nan,SUB: Harden FOR Capela,nan,203991,Clint Capela,HOU,201935,James Harden,HOU,0,nan,nan,Substitution ,nan
+241147,21600713,4,7:54,nan,SUB: Harrell FOR Gordon,nan,201569,Eric Gordon,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Substitution ,nan
+241148,21600713,4,7:43,MISS Ellis 19' Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241149,21600713,4,7:42,nan,Dekker REBOUND (Off:1 Def:2),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241150,21600713,4,7:31,Jefferson STEAL (1 STL),Harden Bad Pass Turnover (P7.T11),nan,201935,James Harden,HOU,2744,Al Jefferson,IND,0,nan,nan,Turnover ,Bad Pass
+241151,21600713,4,7:25,George 26' 3PT Jump Shot (31 PTS),nan,83 - 103,202331,Paul George,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+241152,21600713,4,7:10,nan,Dekker 3' Driving Finger Roll Layup (4 PTS),85 - 103,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+241153,21600713,4,6:56,Jefferson 1' Layup (8 PTS) (Teague 13 AST),nan,85 - 105,2744,Al Jefferson,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+241154,21600713,4,6:32,nan,Dekker Out of Bounds Lost Ball Turnover (P1.T12),nan,1626155,Sam Dekker,HOU,0,nan,nan,0,nan,nan,Turnover ,Out of Bounds Lost Ball Turnover
+241155,21600713,4,6:32,SUB: Turner FOR Jefferson,nan,nan,2744,Al Jefferson,IND,1626167,Myles Turner,IND,0,nan,nan,Substitution ,nan
+241156,21600713,4,6:21,MISS George 21' Step Back Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241157,21600713,4,6:19,nan,Beverley REBOUND (Off:1 Def:3),nan,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241158,21600713,4,6:14,nan,Dekker 2' Cutting Layup Shot (6 PTS) (Harden 8 AST),87 - 105,1626155,Sam Dekker,HOU,201935,James Harden,HOU,0,nan,nan,Made Shot ,nan
+241159,21600713,4,6:03,nan,Harrell P.FOUL (P2.T2) (S.Corbin),nan,1626149,Montrezl Harrell,HOU,201152,Thaddeus Young,IND,0,nan,nan,Foul ,Personal
+241160,21600713,4,5:50,MISS Ellis  3PT Jump Shot,nan,nan,101145,Monta Ellis,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241161,21600713,4,5:49,nan,Anderson REBOUND (Off:1 Def:6),nan,201583,Ryan Anderson,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241162,21600713,4,5:39,Turner BLOCK (4 BLK),MISS Harden  Driving Layup,nan,201935,James Harden,HOU,0,nan,nan,1626167,Myles Turner,IND,Missed Shot ,nan
+241163,21600713,4,5:38,Young REBOUND (Off:2 Def:3),nan,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241164,21600713,4,5:29,MISS Turner 16' Jump Shot,Dekker BLOCK (2 BLK),nan,1626167,Myles Turner,IND,0,nan,nan,1626155,Sam Dekker,HOU,Missed Shot ,nan
+241165,21600713,4,5:28,nan,Harrell REBOUND (Off:6 Def:1),nan,1626149,Montrezl Harrell,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241166,21600713,4,5:20,George STEAL (1 STL),Harden Bad Pass Turnover (P8.T13),nan,201935,James Harden,HOU,202331,Paul George,IND,0,nan,nan,Turnover ,Bad Pass
+241167,21600713,4,5:00,George 19' Jump Shot (33 PTS) (Teague 14 AST),nan,87 - 107,202331,Paul George,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+241168,21600713,4,5:00,nan,Rockets Timeout: Regular (Reg.4 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241169,21600713,4,5:00,nan,nan,nan,455,nan,nan,0,nan,nan,0,nan,nan,Instant Replay ,Support Ruling
+241170,21600713,4,5:00,nan,SUB: Gordon FOR Harden,nan,201935,James Harden,HOU,201569,Eric Gordon,HOU,0,nan,nan,Substitution ,nan
+241171,21600713,4,4:50,nan,Beverley 2' Driving Layup (7 PTS),89 - 107,201976,Patrick Beverley,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+241172,21600713,4,4:24,nan,Beverley S.FOUL (P5.T3) (B.Nansel),nan,201976,Patrick Beverley,HOU,201952,Jeff Teague,IND,0,nan,nan,Foul ,Shooting
+241173,21600713,4,4:24,Teague Free Throw 1 of 2 (14 PTS),nan,89 - 108,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241174,21600713,4,4:24,Teague Free Throw 2 of 2 (15 PTS),nan,89 - 109,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241175,21600713,4,4:10,nan,Harrell 19' Jump Shot (10 PTS) (Gordon 3 AST),91 - 109,1626149,Montrezl Harrell,HOU,201569,Eric Gordon,HOU,0,nan,nan,Made Shot ,nan
+241176,21600713,4,3:53,MISS George 18' Jump Shot,nan,nan,202331,Paul George,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241177,21600713,4,3:53,nan,Gordon REBOUND (Off:0 Def:1),nan,201569,Eric Gordon,HOU,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241178,21600713,4,3:48,Ellis Personal Block Foul (P2.T4) (S.Corbin),nan,nan,101145,Monta Ellis,IND,201569,Eric Gordon,HOU,0,nan,nan,Foul ,Personal Block
+241179,21600713,4,3:44,nan,Dekker  Cutting Dunk Shot (8 PTS) (Beverley 5 AST),93 - 109,1626155,Sam Dekker,HOU,201976,Patrick Beverley,HOU,0,nan,nan,Made Shot ,nan
+241180,21600713,4,3:28,Turner 8' Jump Shot (18 PTS) (Teague 15 AST),nan,93 - 111,1626167,Myles Turner,IND,201952,Jeff Teague,IND,0,nan,nan,Made Shot ,nan
+241181,21600713,4,3:08,Turner STEAL (2 STL),Harrell Bad Pass Turnover (P1.T14),nan,1626149,Montrezl Harrell,HOU,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Bad Pass
+241182,21600713,4,3:04,Young Offensive Charge Foul (P3.PN) (J.Capers),nan,nan,201152,Thaddeus Young,IND,201976,Patrick Beverley,HOU,0,nan,nan,Foul ,Offensive Charge
+241183,21600713,4,3:04,Young Foul Turnover (P2.T10),nan,nan,201152,Thaddeus Young,IND,0,nan,nan,0,nan,nan,Turnover ,Foul
+241184,21600713,4,2:52,Turner STEAL (3 STL),Beverley Bad Pass Turnover (P2.T15),nan,201976,Patrick Beverley,HOU,1626167,Myles Turner,IND,0,nan,nan,Turnover ,Bad Pass
+241185,21600713,4,2:33,Teague 2' Driving Finger Roll Layup (17 PTS),nan,93 - 113,201952,Jeff Teague,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+241186,21600713,4,2:33,nan,Rockets Timeout: Regular (Reg.5 Short 1),nan,1610612745,nan,nan,0,nan,nan,0,nan,nan,Timeout ,Regular
+241187,21600713,4,2:33,SUB: Brooks FOR George,nan,nan,202331,Paul George,IND,201166,Aaron Brooks,IND,0,nan,nan,Substitution ,nan
+241188,21600713,4,2:33,SUB: Young FOR Young,nan,nan,201152,Thaddeus Young,IND,1626202,Joe Young,IND,0,nan,nan,Substitution ,nan
+241189,21600713,4,2:33,SUB: Robinson III FOR Turner,nan,nan,1626167,Myles Turner,IND,203922,Glenn Robinson III,IND,0,nan,nan,Substitution ,nan
+241190,21600713,4,2:33,SUB: Niang FOR Teague,nan,nan,201952,Jeff Teague,IND,1627777,Georges Niang,IND,0,nan,nan,Substitution ,nan
+241191,21600713,4,2:33,SUB: Christmas FOR Ellis,nan,nan,101145,Monta Ellis,IND,1626176,Rakeem Christmas,IND,0,nan,nan,Substitution ,nan
+241192,21600713,4,2:33,nan,SUB: McDaniels FOR Anderson,nan,201583,Ryan Anderson,HOU,203909,KJ McDaniels,HOU,0,nan,nan,Substitution ,nan
+241193,21600713,4,2:33,nan,SUB: B. Brown FOR Beverley,nan,201976,Patrick Beverley,HOU,201628,Bobby Brown,HOU,0,nan,nan,Substitution ,nan
+241194,21600713,4,2:33,nan,SUB: Ennis FOR Gordon,nan,201569,Eric Gordon,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Substitution ,nan
+241195,21600713,4,2:26,Christmas BLOCK (1 BLK),MISS Harrell 4' Driving Layup,nan,1626149,Montrezl Harrell,HOU,0,nan,nan,1626176,Rakeem Christmas,IND,Missed Shot ,nan
+241196,21600713,4,2:24,Christmas REBOUND (Off:0 Def:1),nan,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241197,21600713,4,2:04,Niang 3' Turnaround Jump Shot (2 PTS),nan,93 - 115,1627777,Georges Niang,IND,0,nan,nan,0,nan,nan,Made Shot ,nan
+241198,21600713,4,1:55,nan,B. Brown 28' 3PT Pullup Jump Shot (3 PTS) (Ennis 1 AST),96 - 115,201628,Bobby Brown,HOU,203898,Tyler Ennis,HOU,0,nan,nan,Made Shot ,nan
+241199,21600713,4,1:32,MISS Young 27' 3PT Jump Shot,nan,nan,1626202,Joe Young,IND,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241200,21600713,4,1:31,Christmas REBOUND (Off:1 Def:1),nan,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241201,21600713,4,1:31,nan,Harrell S.FOUL (P3.T4) (J.Capers),nan,1626149,Montrezl Harrell,HOU,1626176,Rakeem Christmas,IND,0,nan,nan,Foul ,Shooting
+241202,21600713,4,1:31,Christmas Free Throw 1 of 2 (1 PTS),nan,96 - 116,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241203,21600713,4,1:31,Christmas Free Throw 2 of 2 (2 PTS),nan,96 - 117,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241204,21600713,4,1:19,nan,B. Brown 29' 3PT Pullup Jump Shot (6 PTS) (Harrell 1 AST),99 - 117,201628,Bobby Brown,HOU,1626149,Montrezl Harrell,HOU,0,nan,nan,Made Shot ,nan
+241205,21600713,4,1:08,nan,Harrell S.FOUL (P4.PN) (B.Nansel),nan,1626149,Montrezl Harrell,HOU,1626176,Rakeem Christmas,IND,0,nan,nan,Foul ,Shooting
+241206,21600713,4,1:08,MISS Christmas Free Throw 1 of 2,nan,nan,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 1 of 2
+241207,21600713,4,1:08,PACERS Rebound,nan,nan,1610612754,nan,nan,0,nan,nan,0,nan,nan,Rebound ,Normal Rebound
+241208,21600713,4,1:08,Christmas Free Throw 2 of 2 (3 PTS),nan,99 - 118,1626176,Rakeem Christmas,IND,0,nan,nan,0,nan,nan,Free Throw ,Free Throw 2 of 2
+241209,21600713,4,0:57,nan,Ennis 1' Driving Reverse Layup (2 PTS),101 - 118,203898,Tyler Ennis,HOU,0,nan,nan,0,nan,nan,Made Shot ,nan
+241210,21600713,4,0:37,Christmas 2' Dunk (5 PTS) (Brooks 1 AST),nan,101 - 120,1626176,Rakeem Christmas,IND,201166,Aaron Brooks,IND,0,nan,nan,Made Shot ,nan
+241211,21600713,4,0:16,nan,MISS B. Brown 13' Floating Jump Shot,nan,201628,Bobby Brown,HOU,0,nan,nan,0,nan,nan,Missed Shot ,nan
+241212,21600713,4,0:16,Robinson III REBOUND (Off:1 Def:5),nan,nan,203922,Glenn Robinson III,IND,0,nan,nan,0,nan,nan,Rebound ,Unknown
+241213,21600713,4,0:00,nan,nan,101 - 120,0,nan,nan,0,nan,nan,0,nan,nan,End Period ,nan
