@@ -105,8 +105,8 @@ def getProbsGame():
 
 		predictions = []
 		for i in range(0, len(data)):
-			row = data.irow(i)
-			next_row = data.irow(i+1) if (i < len(data)-1) else data.irow(i)
+			row = data.iloc[i]
+			next_row = data.iloc[i+1] if (i < len(data)-1) else data.iloc[i]
 
 			if str(row.score) != 'nan':
 				home, away = classifier3.getScores(row.score) 
