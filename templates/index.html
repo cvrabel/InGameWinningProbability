@@ -112,7 +112,8 @@ function runPyGetProbs(filename){
 	var jqXHR = $.ajax({
 		type: "POST",
 		url: "/getProbsGame",
-		async: false,
+		async: true,
+		contentType: "application/json",
 		data: {myfile: filename}
 	});
 	return jqXHR.responseText;
@@ -146,6 +147,7 @@ $('#run-button').click(function() {
 $('#run-button-2').click(function() {
 	var file = document.getElementById("games_dd").value;
 	result = runPyGetProbs(file);
+	console.log(result);
 	events = JSON.parse(result);
 
 	addEvents(svg, events);
