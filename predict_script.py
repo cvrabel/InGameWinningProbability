@@ -82,9 +82,34 @@ def predict():
 def getGameIds():
 	message = None
 	files = os.listdir("games/")
+	games = []
+	# Get teams playing the game
+	for file in os.listdir("games/"):
+		df = pd.read_csv("games/" + file)
+		homeName = ''
+		awayName = ''
+		for i in range(0, len(df)):
+			row = df.iloc[i]
+			if str(row.home_description) != 'nan':
+				homeName = str(row.player1_team)
+			if str(row.home_description) == 'nan' and str(row.away_description) != 'nan':
+				awayName = str(row.player1_team)
+			if str(row.home_description) != 'nan' and str(row.away_description) != 'nan':
+				homeName = str(row.player1_team)
+				if str(row.player2_team) != 'nan':
+					awayName = str(row.player2_team)
+				else:
+					awayName = str(row.player3_team)
+
+			if len(homeName) != 0 and len(awayName) != 0:
+				games.append(homeName + '-' + awayName + " (" + file + ")")
+				break
+
+
+
 
 	if request.method == 'POST':
-		files = json.dumps(files)
+		files = json.dumps(games)
 		resp = make_response(files)
 		resp.headers['Content-Type'] = "application/json"
 		return resp

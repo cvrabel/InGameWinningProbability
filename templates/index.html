@@ -121,18 +121,6 @@ function runPyGetProbs(filename){
 	return jqXHR.responseText;
 }
 
-//Populate the file dropdown list
-var fileSelect = document.getElementById("games_dd");
-var jsonFiles = runPyGetCSVs();
-var files = JSON.parse(jsonFiles);
-for(var i = 0; i < files.length; i++){
-	var next = files[i];
-	var temp = document.createElement("option");
-	temp.textContent = next;
-	temp.value = next;
-	fileSelect.appendChild(temp);
-}
-
 $('#run-button').click(function() {
     var clock_min = document.getElementById("clock-min").value;
     var clock_sec = document.getElementById("clock-sec").value;
@@ -144,14 +132,6 @@ $('#run-button').click(function() {
 	result = runPyScript(clock, home_score, away_score, event);
 
 	document.getElementById("probability").innerHTML = result
-  });
-
-$('#run-button-2').click(function() {
-	var file = document.getElementById("games_dd").value;
-	result = runPyGetProbs(file);
-	console.log(result);
-	events = JSON.parse(result);
-	addEvents(svg, events);
   });
 
 
@@ -191,7 +171,6 @@ async function addEvents(svg, results) {
 		};
 
 		if(i != 0){
-			console.log("drawing line");
 			var line = svg.append("line")
 			.attr("x1", xScale(prevEvent.time)).attr("y1", yScale(prevEvent.prob))
 			.transition().duration(200).delay(50)
@@ -220,7 +199,6 @@ async function addEvents(svg, results) {
 
 
 		var circle = svg.selectAll("circle").data(res, function(d){return d.clock + " " + d.home_desc + " " + d.away_desc;});
-		console.log("circle");
 		circle.enter().append("circle")
 		.style("opacity", ".7")
 		.attr("cx", xScale(prevEvent.time))
@@ -325,6 +303,27 @@ function setupGraph(svg){
           .attr("opacity", 1)
           .text("Away");
 }
+
+//Populate the file dropdown list
+var fileSelect = document.getElementById("games_dd");
+var jsonFiles = runPyGetCSVs();
+var files = JSON.parse(jsonFiles);
+for(var i = 0; i < files.length; i++){
+	var next = files[i];
+	var val = next.substring(next.indexOf("(")+1, next.indexOf(")"));
+	var temp = document.createElement("option");
+	temp.textContent = next;
+	temp.value = val;
+	fileSelect.appendChild(temp);
+}
+
+$('#run-button-2').click(function() {
+	var file = document.getElementById("games_dd").value;
+	result = runPyGetProbs(file);
+	events = JSON.parse(result);
+	addEvents(svg, events);
+  });
+
 
 function sleep(ms){
 	return new Promise(resolve => setTimeout(resolve, ms));
