@@ -12,12 +12,15 @@ svg { border: solid black 1px; }
 div {vertical-align: top; margin-bottom: 10px;}
 .tooltip {
 	position: absolute;
+	left: 0px;
+	top: 0px;
 	text-align: center;
 	width: 315px;
 	height: 70px;
 	padding: 2px;
 	font: 12px;
 	background: lightsteelblue;
+	opacity: 0;
 	border: 0px;
 	border-radius: 8px;
 	pointer-events:none;
@@ -165,12 +168,12 @@ var xScale = d3.scale.linear()
 var yScale = d3.scale.linear()
 .domain([0,1]).range([600,0]);
 
-async function addEvents(svg, results) {
-	setupGraph(svg);
-
-	var tip = d3.select(".below").append("div")
+var tip = d3.select(".below").append("div")
 				  .attr("class", "tooltip")
 				  .attr("opacity", "0");
+
+async function addEvents(svg, results) {
+	setupGraph(svg);
 	
 	var prevEvent = {
 					time: 720, 
@@ -188,9 +191,10 @@ async function addEvents(svg, results) {
 		};
 
 		if(i != 0){
+			console.log("drawing line");
 			var line = svg.append("line")
 			.attr("x1", xScale(prevEvent.time)).attr("y1", yScale(prevEvent.prob))
-			.transition().duration(100).delay(50)
+			.transition().duration(200).delay(50)
 			.attr("x2", xScale(event.time)).attr("y2", yScale(event.prob))
 			.attr("stroke-width", 2)
             .style("opacity", "1")
@@ -215,8 +219,8 @@ async function addEvents(svg, results) {
 		}];
 
 
-		var circle = svg.selectAll("circle").data(res, function(d){return d.clock});
-
+		var circle = svg.selectAll("circle").data(res, function(d){return d.clock + " " + d.home_desc + " " + d.away_desc;});
+		console.log("circle");
 		circle.enter().append("circle")
 		.style("opacity", ".7")
 		.attr("cx", xScale(prevEvent.time))
@@ -237,7 +241,7 @@ async function addEvents(svg, results) {
 				.duration(500)
 				.style("opacity", 0);
 		})
-		.transition().duration(100)
+		.transition().duration(150)
 		.attr("cx", xScale(event.time))
 		.attr("cy", yScale(event.prob))
 		.attr("fill", "red" )
@@ -246,7 +250,7 @@ async function addEvents(svg, results) {
 
 		prevEvent = event;
 		
-		await sleep(100);
+		await sleep(150);
 	}
 
 }
