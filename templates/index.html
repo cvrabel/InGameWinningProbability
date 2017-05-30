@@ -112,7 +112,7 @@ function runPyGetProbs(filename){
 	var jqXHR = $.ajax({
 		type: "POST",
 		url: "/getProbsGame",
-		async: true,
+		async: false,
 		contentType: "application/json",
 		data: {myfile: filename}
 	});
@@ -134,7 +134,7 @@ for(var i = 0; i < files.length; i++){
 $('#run-button').click(function() {
     var clock_min = document.getElementById("clock-min").value;
     var clock_sec = document.getElementById("clock-sec").value;
-    var clock = clock_min*60 + clock_sec;
+    var clock = parseInt(clock_min)*60 + parseInt(clock_sec);
 	var home_score = document.getElementById("home-score").value;
 	var away_score = document.getElementById("away-score").value;
 	var event = document.getElementById("last-event").value;

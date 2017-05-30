@@ -100,7 +100,7 @@ def getProbsGame():
 	if request.method == 'POST':
 		file = request.form['myfile']
 		data = pd.read_csv("games/" + file)
-		with open('classifier_score_clutch_adj_2_KNN_500.pkl', 'rb') as f:
+		with open('classifier_score_clutch_adj_2_KNN_500.pkl',  'rb') as f:
 			classifier = pickle.load(f)
 
 		predictions = []
