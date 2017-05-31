@@ -157,15 +157,18 @@ var homeName = "Home";
 var awayName = "Away";
 $('#run-button-2').click(function() {
 	var file = document.getElementById("games_dd").value;
-
-	var gameName = document.getElementById("games_dd").textContent;
-	var ind = gameName.indexOf("-")
-	var homeName = gameName.substring(ind - 3, ind);
-	var awayName = gameName.substring(ind+1, ind + 4);
-
 	result = runPyGetProbs(file);
 	events = JSON.parse(result);
 	document.getElementById("run-button-2").disabled = true;
+
+	var sel = document.getElementById("games_dd");
+	var gameName = sel.options[sel.selectedIndex].text;
+	var ind = gameName.indexOf("-")
+	var homeName = gameName.substring(ind - 3, ind);
+	var awayName = gameName.substring(ind+1, ind + 4);
+	console.log(homeName);
+	console.log(awayName);
+
 	addEvents(svg, events, homeName, awayName);
   });
 
@@ -174,7 +177,7 @@ var events = [];
 var svg = d3.select("#canvas").append("svg")
 .attr("width", 1200).attr("height", 600);
 
-setupGraph(svg);
+setupGraph(svg, homeName, awayName);
 
 var xScale = d3.scale.linear()
 .domain([0,720]).range([1200,0]);
@@ -188,7 +191,6 @@ var tip = d3.select(".below").append("div")
 
 async function addEvents(svg, results, homeName, awayName) {
 	setupGraph(svg, homeName, awayName);
-
 	
 	var prevEvent = {
 					time: 720, 
