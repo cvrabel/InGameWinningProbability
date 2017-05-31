@@ -43,10 +43,10 @@ def func(x, a, b, c):
 
 
 def main():
-	with open('Xvector_score_adj_clutch_2.pkl', 'rb') as f:
+	with open('Xvector_ot.pkl', 'rb') as f:
 		Xvector = pickle.load(f)
 
-	with open('Yvector_score_adj_clutch_2.pkl', 'rb') as f:
+	with open('Yvector_ot.pkl', 'rb') as f:
 		Yvector = pickle.load(f)
 
 	Yvector = np.array(Yvector)
@@ -76,7 +76,7 @@ def main():
 	classifier = KNN(n_neighbors = 500)
 	classifier.fit(Xtrain, Ytrain)
 
-	with open('classifier.pkl', 'wb') as f:
+	with open('classifier_ot.pkl', 'wb') as f:
 		pickle.dump(classifier, f, protocol=2)
 
 	probs = classifier.predict_proba(Xtest)
@@ -164,6 +164,9 @@ def addPredictions(filename):
 			event = classifier3.getEvent(row, next_row)
 
 		time = classifier3.getTime(row.play_clock)
+		period = int(row.period)
+		if(period > 4):
+			time = time - float((period-4)*300)
 		event = event*classifier3.clutchAdj(time)
 		score = home - away + event
 		prob = classifier.predict_proba([[time  /720, score /53]])

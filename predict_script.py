@@ -53,7 +53,7 @@ def eventParse(event):
 @predict_script.route('/predict', methods=['GET', 'POST'])
 def predict():
 	message = None
-	with open('classifier_score_clutch_adj_2_KNN_500.pkl', 'rb') as f:
+	with open('classifier_ot.pkl', 'rb') as f:
 		classifier = pickle.load(f)
 
 	if request.method == 'POST':
@@ -82,34 +82,37 @@ def predict():
 def getGameIds():
 	message = None
 	files = os.listdir("games/")
+	files.sort()
 	games = []
-	# Get teams playing the game
-	for file in os.listdir("games/"):
-		df = pd.read_csv("games/" + file)
-		homeName = ''
-		awayName = ''
-		for i in range(0, len(df)):
-			row = df.iloc[i]
-			if str(row.home_description) != 'nan':
-				homeName = str(row.player1_team)
-			if str(row.home_description) == 'nan' and str(row.away_description) != 'nan':
-				awayName = str(row.player1_team)
-			if str(row.home_description) != 'nan' and str(row.away_description) != 'nan':
-				homeName = str(row.player1_team)
-				if str(row.player2_team) != 'nan':
-					awayName = str(row.player2_team)
-				else:
-					awayName = str(row.player3_team)
 
-			if len(homeName) != 0 and len(awayName) != 0:
-				games.append(homeName + '-' + awayName + " (" + file + ")")
-				break
+
+	# Get teams playing the game
+	# for file in os.listdir("games/"):
+	# 	df = pd.read_csv("games/" + file)
+	# 	homeName = ''
+	# 	awayName = ''
+	# 	for i in range(0, len(df)):
+	# 		row = df.iloc[i]
+	# 		if str(row.home_description) != 'nan':
+	# 			homeName = str(row.player1_team)
+	# 		if str(row.home_description) == 'nan' and str(row.away_description) != 'nan':
+	# 			awayName = str(row.player1_team)
+	# 		if str(row.home_description) != 'nan' and str(row.away_description) != 'nan':
+	# 			homeName = str(row.player1_team)
+	# 			if str(row.player2_team) != 'nan':
+	# 				awayName = str(row.player2_team)
+	# 			else:
+	# 				awayName = str(row.player3_team)
+
+	# 		if len(homeName) != 0 and len(awayName) != 0:
+	# 			games.append(homeName + '-' + awayName + " (" + file + ")")
+	# 			break
 
 
 
 
 	if request.method == 'POST':
-		files = json.dumps(games)
+		files = json.dumps(files)
 		resp = make_response(files)
 		resp.headers['Content-Type'] = "application/json"
 		return resp
@@ -125,7 +128,7 @@ def getProbsGame():
 	if request.method == 'POST':
 		file = request.form['myfile']
 		data = pd.read_csv("games/" + file)
-		with open('classifier_score_clutch_adj_2_KNN_500.pkl',  'rb') as f:
+		with open('classifier_ot.pkl',  'rb') as f:
 			classifier = pickle.load(f)
 
 		predictions = []
@@ -144,12 +147,15 @@ def getProbsGame():
 				event = classifier3.getEvent(row, next_row)
 
 			time = classifier3.getTime(row.play_clock)
+			period = int(row.period)
+			if(period > 4):
+				time = time - float((period-4)*300)
 			event_adj = event*classifier3.clutchAdj(time)
 			score = home - away + event_adj
 			prob = classifier.predict_proba([[time  /720, score /53]])
-			predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), prob[0][1]])
+			predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), prob[0][1], int(row.period)])
 
-
+		print(predictions)
 		preds = json.dumps(predictions)
 		resp = make_response(preds)
 		resp.headers['Content-Type'] = "application/json"

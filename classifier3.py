@@ -224,7 +224,9 @@ def parseCSV(filename):
 		row = data.irow(i)
 		next_row = data.irow(i+1) if (i < len(data)-1) else data.irow(i)
 		time = getTime(row.play_clock)
-
+		period = int(row.period)
+		if(period > 4):
+			time = time - float((period-4)*300)
 
 		if str(row.score) != 'nan':
 			home_score, away_score = getScores(row.score) 
@@ -239,6 +241,8 @@ def parseCSV(filename):
 		# Logistical regression that predicts the drop in points per possession as game is nearing end
 
 		adjust = adjust*clutchAdj(time)
+
+
 		# print(adjust)
 
 		Xtemp = [time/720, (home_score-away_score+adjust)/53]
@@ -268,10 +272,10 @@ def main():
 		Yvector.extend(y)
 
 
-	with open('Xvector_score_adj_clutch_2.pkl', 'wb') as f:
+	with open('Xvector_ot.pkl', 'wb') as f:
 		pickle.dump(Xvector, f, protocol=2)
 
-	with open('Yvector_score_adj_clutch_2.pkl', 'wb') as f:
+	with open('Yvector_ot.pkl', 'wb') as f:
 		pickle.dump(Yvector, f, protocol=2)
 
 

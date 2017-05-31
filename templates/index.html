@@ -8,7 +8,7 @@
 <style>
 /* put a border around the svg element so we can see the coordinate system better. */
 body { font-family: "Open Sans"; } div { margin: 30px; }
-svg { border: solid black 1px; }
+svg { border: solid black 1px; margin-bottom: 50px; margin-right: 315px;}
 div {vertical-align: top; margin-bottom: 10px;}
 .tooltip {
 	position: absolute;
@@ -36,7 +36,8 @@ div {vertical-align: top; margin-bottom: 10px;}
 <div class="row overall-stats">
     <div class="col-xs-12">
       <h1 class="blue">Thunder Project</h3>
-      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win.
+      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win. 
+      (Enter negative minutes for OT. Ex: -2:00=3:00 OT1; -7:00=3:00 OT2)
       <br></p><br>
       <form>
       <span><strong>4th Quarter Clock: </strong></span><input id="clock-min" size="3"></input>
@@ -134,6 +135,25 @@ $('#run-button').click(function() {
 	document.getElementById("probability").innerHTML = result
   });
 
+//Populate the file dropdown list
+var fileSelect = document.getElementById("games_dd");
+var jsonFiles = runPyGetCSVs();
+var files = JSON.parse(jsonFiles);
+for(var i = 0; i < files.length; i++){
+	var next = files[i];
+	var val = next.substring(next.indexOf("(")+1, next.indexOf(")"));
+	var temp = document.createElement("option");
+	temp.textContent = next;
+	temp.value = next;
+	fileSelect.appendChild(temp);
+}
+
+$('#run-button-2').click(function() {
+	var file = document.getElementById("games_dd").value;
+	result = runPyGetProbs(file);
+	events = JSON.parse(result);
+	addEvents(svg, events);
+  });
 
 var events = [];
 
@@ -164,11 +184,51 @@ async function addEvents(svg, results) {
 		var minutes = parseInt(results[i][0].substring(0,colon));
 		var seconds = parseInt(results[i][0].substring(colon+1, results[i][0].length));
 		var time = minutes*60 + seconds;
-
+		var period = results[i][6];
+		if(period > 4){
+			time = time - ((period-4)*300)
+		}
 		var event = {
 			time: time,
 			prob: results[i][5]
 		};
+
+		//OT Handlers
+		if(time < 0){
+			svg.attr("width", 1500).attr("font-family", "Open Sans");
+			xScale = d3.scale.linear().domain([-300,0]).range([1500,1200]);
+			d3.select("#timeline").attr("x2", 1500);
+			d3.select("#ot1-line").attr("opacity", 0.3);
+			d3.select("#ot1-text").attr("opacity", 0.7);
+
+			window.scrollTo(1500,800);
+		}
+		if(time < -300){
+			svg.attr("width", 1800);
+			xScale = d3.scale.linear().domain([-600,0]).range([1800,1200]);
+			d3.select("#timeline").attr("x2", 1800);
+			d3.select("#ot2-line").attr("opacity", 0.3);
+			d3.select("#ot2-line-text").attr("opacity", 0.7);
+			window.scrollTo(1800,800);
+		}
+		if(time < -600){
+			svg.attr("width", 2100);
+			xScale = d3.scale.linear().domain([-900,0]).range([2100,1200]);
+			d3.select("#timeline").attr("x2", 2100);
+			d3.select("#ot3-line").attr("opacity", 0.3);
+			d3.select("#ot3-text").attr("opacity", 0.7);
+			window.scrollTo(2100,800);
+		}
+		if(time < -900){
+			svg.attr("width", 2400);
+			xScale = d3.scale.linear().domain([-1200,0]).range([2400,1200]);
+			d3.select("#timeline").attr("x2", 2400);
+			d3.select("#ot4-line").attr("opacity", 0.3);
+			d3.select("#ot4-text").attr("opacity", 0.7);
+			window.scrollTo(2400,800);
+		}
+		//End OT Handlers
+
 
 		if(i != 0){
 			var line = svg.append("line")
@@ -234,8 +294,14 @@ async function addEvents(svg, results) {
 }
 
 function setupGraph(svg){
+	xScale = d3.scale.linear()
+	.domain([0,720]).range([1200,0]);
+	svg.attr("width", 1200);
+
 	svg.selectAll("*").remove();
-	svg.append("line")
+	window.scrollTo(0,800);
+
+	svg.append("line").attr("id", "timeline")
 	.attr("x1", 0).attr("y1", 300)
 	.attr("x2", 1200).attr("y2", 300)
 	.attr("stroke-width", 1)
@@ -259,6 +325,34 @@ function setupGraph(svg){
 	.attr("x1", 900).attr("y1", 0)
 	.attr("x2", 900).attr("y2", 600)
 	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line").attr("id", "ot1-line")
+	.attr("x1", 1200).attr("y1", 0)
+	.attr("x2", 1200).attr("y2", 600)
+	.attr("opacity", 0.0)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line").attr("id", "ot2-line")
+	.attr("x1", 1500).attr("y1", 0)
+	.attr("x2", 1500).attr("y2", 600)
+	.attr("opacity", 0.0)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line").attr("id", "ot3-line")
+	.attr("x1", 1800).attr("y1", 0)
+	.attr("x2", 1800).attr("y2", 600)
+	.attr("opacity", 0.0)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line").attr("id", "ot4-line")
+	.attr("x1", 2100).attr("y1", 0)
+	.attr("x2", 2100).attr("y2", 600)
+	.attr("opacity", 0.0)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
@@ -289,6 +383,34 @@ function setupGraph(svg){
           .attr("opacity", 0.7)
           .text("3:00");
 
+    svg.append("text").attr("id", "ot1-text")
+          .attr("x", 1202)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.0)
+          .text("OT1");
+
+    svg.append("text").attr("id", "ot2-text")
+          .attr("x", 1502)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.0)
+          .text("OT2");
+
+    svg.append("text").attr("id", "ot3-text")
+          .attr("x", 1802)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.0)
+          .text("OT3");
+
+    svg.append("text").attr("id", "ot4-text")
+          .attr("x", 2102)
+          .attr("y", 295)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.0)
+          .text("OT4");
+
     svg.append("text")
           .attr("x", 1)
           .attr("y", 15)
@@ -304,25 +426,7 @@ function setupGraph(svg){
           .text("Away");
 }
 
-//Populate the file dropdown list
-var fileSelect = document.getElementById("games_dd");
-var jsonFiles = runPyGetCSVs();
-var files = JSON.parse(jsonFiles);
-for(var i = 0; i < files.length; i++){
-	var next = files[i];
-	var val = next.substring(next.indexOf("(")+1, next.indexOf(")"));
-	var temp = document.createElement("option");
-	temp.textContent = next;
-	temp.value = val;
-	fileSelect.appendChild(temp);
-}
 
-$('#run-button-2').click(function() {
-	var file = document.getElementById("games_dd").value;
-	result = runPyGetProbs(file);
-	events = JSON.parse(result);
-	addEvents(svg, events);
-  });
 
 
 function sleep(ms){
