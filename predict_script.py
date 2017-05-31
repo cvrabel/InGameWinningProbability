@@ -155,7 +155,6 @@ def getProbsGame():
 			prob = classifier.predict_proba([[time  /720, score /53]])
 			predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), prob[0][1], int(row.period)])
 
-		print(predictions)
 		preds = json.dumps(predictions)
 		resp = make_response(preds)
 		resp.headers['Content-Type'] = "application/json"

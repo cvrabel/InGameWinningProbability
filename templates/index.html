@@ -37,7 +37,7 @@ div {vertical-align: top; margin-bottom: 10px;}
     <div class="col-xs-12">
       <h1 class="blue">Thunder Project</h3>
       <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win. 
-      (Enter negative minutes for OT. Ex: -2:00=3:00 OT1; -7:00=3:00 OT2)
+      (Overtime minutes flow into negative time. Ex: -1:-30=3:30 OT1; -7:-10=2:50 OT2)
       <br></p><br>
       <form>
       <span><strong>4th Quarter Clock: </strong></span><input id="clock-min" size="3"></input>
@@ -155,6 +155,7 @@ $('#run-button-2').click(function() {
 	var file = document.getElementById("games_dd").value;
 	result = runPyGetProbs(file);
 	events = JSON.parse(result);
+	document.getElementById("run-button-2").disabled = true;
 	addEvents(svg, events);
   });
 
@@ -293,7 +294,7 @@ async function addEvents(svg, results) {
 		
 		await sleep(150);
 	}
-
+	document.getElementById("run-button-2").disabled = false;
 }
 
 function setupGraph(svg){
