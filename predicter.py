@@ -73,64 +73,65 @@ def main():
 	# KNN Classifier
 
 	# --------- Train again -------------- #
-	classifier = KNN(n_neighbors = 100)
-	classifier.fit(Xtrain, Ytrain)
+	# classifier = KNN(n_neighbors = 100)
+	# classifier.fit(Xtrain, Ytrain)
 
-	with open('classifier_ot_2.pkl', 'wb') as f:
-		pickle.dump(classifier, f, protocol=2)
+	# with open('classifier_ot_2.pkl', 'wb') as f:
+	# 	pickle.dump(classifier, f, protocol=2)
 
-	probs = classifier.predict_proba(Xtest)
+	# probs = classifier.predict_proba(Xtest)
 
-	for i in range(0, len(probs)):
-		print(str(probs[i]) + " --- " + str(Xtest[i][0]*720) + ", " + str(Xtest[i][1]*53) + " --- " + str(Ytest[i]))
+	# for i in range(0, len(probs)):
+	# 	print(str(probs[i]) + " --- " + str(Xtest[i][0]*720) + ", " + str(Xtest[i][1]*53) + " --- " + str(Ytest[i]))
 	
 
 	# ---------- Already Trained ------------- #
-	# with open('classifier_ot.pkl', 'rb') as f:
-	# 	classifier = pickle.load(f)
+	with open('classifier_ot_2.pkl', 'rb') as f:
+		classifier = pickle.load(f)
 
 
 	#---------------REPL-------------------------------------
-	while(True):
+	# while(True):
 
-		timeleft = float(input("Time Left: "))
-		homeScore = float(input("Home Score: "))
-		awayScore = float(input("Away Score: "))
-		evt = input("Last Event: ")
-		event = eval("Action."+evt+".value")
+	# 	timeleft = float(input("Time Left: "))
+	# 	homeScore = float(input("Home Score: "))
+	# 	awayScore = float(input("Away Score: "))
+	# 	evt = input("Last Event: ")
+	# 	event = eval("Action."+evt+".value")
 
-		print(event)
-		event = event * classifier3.clutchAdj(timeleft)
-		score = homeScore - awayScore + event
+	# 	print(event)
+	# 	event = event * classifier3.clutchAdj(timeleft)
+	# 	score = homeScore - awayScore + event
 		
-		probs = classifier.predict_proba([[timeleft /720, score /53]])
-		print("Probability of winning: " + str(probs[0][1]) + '\n')
+	# 	probs = classifier.predict_proba([[timeleft /720, score /53]])
+	# 	print("Probability of winning: " + str(probs[0][1]) + '\n')
 
 
 	#--------------REST CALCULATIONS-------------------------
-	# restValues = []
-	# for t in range(0,961,2):
-	# 	for s in range(0,25):
-	# 		probs = classifier.predict_proba([[t  /720, s /53]])
-	# 		if probs[0][1] >= 0.975:
-	# 			restValues.append([(720-t),s])
-	# 			print(str([t,s]))
-	# 			break
+	restValues = []
+	for t in range(0,820,5):
+		for s in range(0, -40, -1):
+			# print(s)
+			probs = classifier.predict_proba([[t  /720, s /53]])
+			if probs[0][1] <= 0.01:
+				restValues.append([(720-t),s])
+				print(str([t,s]))
+				break
 
 
-	# restValues = np.array(restValues)
+	restValues = np.array(restValues)
 
-	# plt.scatter(restValues[:,0], restValues[:,1], s=120, alpha=0.25, edgecolors='white')
-	# popt, pcov = curve_fit(func, restValues[:,0], restValues[:,1])
-	# plt.plot(restValues[:,0], func(restValues[:,0], *popt), 'r-')
-	# plt.xlabel('4th Quarter Time')
-	# plt.ylabel('Point Lead')
-	# plt.xticks([0, 120, 240, 360, 480, 600, 720], ['12:00', '10:00', '8:00', '6:00', '4:00', '2:00', '0:00'])
-	# plt.xlim([0,720])
-	# plt.ylim([0,25])
-	# plt.title('Probility Win > 97% Threshold')
-	# plt.tight_layout()
-	# plt.show()
+	plt.scatter(restValues[:,0], restValues[:,1], s=120, alpha=0.25, edgecolors='white')
+	popt, pcov = curve_fit(func, restValues[:,0], restValues[:,1])
+	plt.plot(restValues[:,0], func(restValues[:,0], *popt), 'r-')
+	plt.xlabel('4th Quarter Time')
+	plt.ylabel('Point Lead')
+	plt.xticks([0, 120, 240, 360, 480, 600, 720], ['12:00', '10:00', '8:00', '6:00', '4:00', '2:00', '0:00'])
+	plt.xlim([0,720])
+	plt.ylim([-25,0])
+	plt.title('Probability Win < 1% Threshold')
+	plt.tight_layout()
+	plt.show()
 
 
 

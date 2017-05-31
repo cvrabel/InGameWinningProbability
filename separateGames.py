@@ -103,5 +103,51 @@ def getExpectedPPP():
 
 
 
-getExpectedPPP()
+def getTimeoutPPP():
+
+	timeouts = 0
+	timeoutPoints = 0
+	for file in os.listdir("games/"):
+		print(file)
+		data = pd.read_csv("games/" + file)
+		
+		for i in range(0, len(data)):
+			row = data.iloc[i]
+
+			if str(row.score) != 'nan':
+				prev_home, prev_away = getScores(row.score)
+				prev_score = prev_home + prev_away
+
+			if("Timeout" in str(row.event_type)):
+				new_home, new_away = prev_home, prev_away
+				new_score = new_home + new_away
+				timeouts += 1
+				print("Timeouts: " + str(timeouts))
+				print("timeoutPoints: " + str(timeoutPoints))
+				n = i+1
+				nxt = data.iloc[n]
+				while True:
+					if str(data.iloc[n].score) != 'nan':
+						new_home, new_away = getScores(data.iloc[n].score)
+						new_score = new_home + new_away
+
+					if 'Made Shot' in nxt.event_type or 'Free Throw 2 of 2' in str(nxt.event_description) \
+						or 'Free Throw 3 of 3' in str(nxt.event_description):
+						timeoutPoints += new_score - prev_score
+						prev_home = new_home
+						prev_away = new_away
+						prev_score = new_score
+						break
+					elif 'Missed Shot' in nxt.event_type or 'Turnover' in nxt.event_type or 'End Period' in nxt.event_type:
+						break
+					n += 1
+					nxt = data.iloc[n]
+
+	print(timeouts)
+	print(timeoutPoints)
+
+
+
+getTimeoutPPP()
+# getExpectedPPP()
 # separateGames()
