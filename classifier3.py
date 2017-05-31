@@ -226,7 +226,7 @@ def parseCSV(filename):
 		time = getTime(row.play_clock)
 		period = int(row.period)
 		if(period > 4):
-			time = time - float((period-4)*300)
+			time = time - 300
 
 		if str(row.score) != 'nan':
 			home_score, away_score = getScores(row.score) 
@@ -272,10 +272,10 @@ def main():
 		Yvector.extend(y)
 
 
-	with open('Xvector_ot.pkl', 'wb') as f:
+	with open('Xvector_ot_1.pkl', 'wb') as f:
 		pickle.dump(Xvector, f, protocol=2)
 
-	with open('Yvector_ot.pkl', 'wb') as f:
+	with open('Yvector_ot_1.pkl', 'wb') as f:
 		pickle.dump(Yvector, f, protocol=2)
 
 

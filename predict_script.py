@@ -149,7 +149,7 @@ def getProbsGame():
 			time = classifier3.getTime(row.play_clock)
 			period = int(row.period)
 			if(period > 4):
-				time = time - float((period-4)*300)
+				time = time - 300
 			event_adj = event*classifier3.clutchAdj(time)
 			score = home - away + event_adj
 			prob = classifier.predict_proba([[time  /720, score /53]])

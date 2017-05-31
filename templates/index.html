@@ -126,6 +126,9 @@ $('#run-button').click(function() {
     var clock_min = document.getElementById("clock-min").value;
     var clock_sec = document.getElementById("clock-sec").value;
     var clock = parseInt(clock_min)*60 + parseInt(clock_sec);
+    while(clock < -300){
+    	clock += 300;
+    }
 	var home_score = document.getElementById("home-score").value;
 	var away_score = document.getElementById("away-score").value;
 	var event = document.getElementById("last-event").value;
@@ -195,34 +198,34 @@ async function addEvents(svg, results) {
 
 		//OT Handlers
 		if(time < 0){
-			svg.attr("width", 1500).attr("font-family", "Open Sans");
+			svg.attr("width", 1505).attr("font-family", "Open Sans");
 			xScale = d3.scale.linear().domain([-300,0]).range([1500,1200]);
-			d3.select("#timeline").attr("x2", 1500);
+			d3.select("#timeline").attr("x2", 1505);
 			d3.select("#ot1-line").attr("opacity", 0.3);
 			d3.select("#ot1-text").attr("opacity", 0.7);
 
 			window.scrollTo(1500,800);
 		}
 		if(time < -300){
-			svg.attr("width", 1800);
+			svg.attr("width", 1805);
 			xScale = d3.scale.linear().domain([-600,0]).range([1800,1200]);
-			d3.select("#timeline").attr("x2", 1800);
+			d3.select("#timeline").attr("x2", 1805);
 			d3.select("#ot2-line").attr("opacity", 0.3);
-			d3.select("#ot2-line-text").attr("opacity", 0.7);
+			d3.select("#ot2-text").attr("opacity", 0.7);
 			window.scrollTo(1800,800);
 		}
 		if(time < -600){
-			svg.attr("width", 2100);
+			svg.attr("width", 2105);
 			xScale = d3.scale.linear().domain([-900,0]).range([2100,1200]);
-			d3.select("#timeline").attr("x2", 2100);
+			d3.select("#timeline").attr("x2", 2105);
 			d3.select("#ot3-line").attr("opacity", 0.3);
 			d3.select("#ot3-text").attr("opacity", 0.7);
 			window.scrollTo(2100,800);
 		}
 		if(time < -900){
-			svg.attr("width", 2400);
+			svg.attr("width", 2405);
 			xScale = d3.scale.linear().domain([-1200,0]).range([2400,1200]);
-			d3.select("#timeline").attr("x2", 2400);
+			d3.select("#timeline").attr("x2", 2405);
 			d3.select("#ot4-line").attr("opacity", 0.3);
 			d3.select("#ot4-text").attr("opacity", 0.7);
 			window.scrollTo(2400,800);
