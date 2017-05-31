@@ -152,12 +152,21 @@ for(var i = 0; i < files.length; i++){
 	fileSelect.appendChild(temp);
 }
 
+
+var homeName = "Home";
+var awayName = "Away";
 $('#run-button-2').click(function() {
 	var file = document.getElementById("games_dd").value;
+
+	var gameName = document.getElementById("games_dd").textContent;
+	var ind = gameName.indexOf("-")
+	var homeName = gameName.substring(ind - 3, ind);
+	var awayName = gameName.substring(ind+1, ind + 4);
+
 	result = runPyGetProbs(file);
 	events = JSON.parse(result);
 	document.getElementById("run-button-2").disabled = true;
-	addEvents(svg, events);
+	addEvents(svg, events, homeName, awayName);
   });
 
 var events = [];
@@ -177,8 +186,9 @@ var tip = d3.select(".below").append("div")
 				  .attr("class", "tooltip")
 				  .attr("opacity", "0");
 
-async function addEvents(svg, results) {
-	setupGraph(svg);
+async function addEvents(svg, results, homeName, awayName) {
+	setupGraph(svg, homeName, awayName);
+
 	
 	var prevEvent = {
 					time: 720, 
@@ -298,7 +308,7 @@ async function addEvents(svg, results) {
 	document.getElementById("run-button-2").disabled = false;
 }
 
-function setupGraph(svg){
+function setupGraph(svg, homeName, awayName){
 	xScale = d3.scale.linear()
 	.domain([0,720]).range([1200,0]);
 	svg.attr("width", 1200);
@@ -416,19 +426,19 @@ function setupGraph(svg){
           .attr("opacity", 0.0)
           .text("OT4");
 
-    svg.append("text")
+    svg.append("text").attr("id", "hometext")
           .attr("x", 1)
           .attr("y", 15)
           .attr("font-size", "18px")
           .attr("opacity", 1)
-          .text("Home");
+          .text(homeName);
 
-    svg.append("text")
+    svg.append("text").attr("id", "awaytext")
           .attr("x", 1)
           .attr("y", 595)
           .attr("font-size", "18px")
           .attr("opacity", 1)
-          .text("Away");
+          .text(awayName);
 }
 
 
