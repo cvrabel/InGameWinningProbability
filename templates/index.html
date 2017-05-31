@@ -148,7 +148,7 @@ for(var i = 0; i < files.length; i++){
 	var val = next.substring(next.indexOf("(")+1, next.indexOf(")"));
 	var temp = document.createElement("option");
 	temp.textContent = next;
-	temp.value = next;
+	temp.value = val;
 	fileSelect.appendChild(temp);
 }
 

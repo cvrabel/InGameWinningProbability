@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-
+import pickle
 
 #Take in the master csv, and separate it into csv by game
 def separateGames():
@@ -147,7 +147,37 @@ def getTimeoutPPP():
 	print(timeoutPoints)
 
 
+def getGameNames():
+# Get teams playing the game
+	games = []
+	for file in os.listdir("games/"):
+		df = pd.read_csv("games/" + file)
+		homeName = ''
+		awayName = ''
+		for i in range(0, len(df)):
+			row = df.iloc[i]
+			if str(row.home_description) != 'nan' and str(row.player1_team) != 'nan':
+				homeName = str(row.player1_team)
+			if str(row.home_description) == 'nan' and str(row.away_description) != 'nan' and str(row.player1_team) != 'nan':
+				awayName = str(row.player1_team)
+			if str(row.home_description) != 'nan' and str(row.away_description) != 'nan':
+				homeName = str(row.player1_team)
+				if str(row.player2_team) != 'nan':
+					awayName = str(row.player2_team)
+				else:
+					awayName = str(row.player3_team)
 
-getTimeoutPPP()
+			if len(homeName) != 0 and len(awayName) != 0:
+				games.append(homeName + '-' + awayName + " (" + file + ")")
+				break
+
+	games.sort()
+	print(games)
+	with open('game_names.pkl', 'wb') as f:
+		pickle.dump(games, f, protocol=2)
+
+
+getGameNames()
+# getTimeoutPPP()
 # getExpectedPPP()
 # separateGames()
