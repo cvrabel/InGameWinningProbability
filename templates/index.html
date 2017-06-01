@@ -25,6 +25,21 @@ div {vertical-align: top; margin-bottom: 10px;}
 	border-radius: 8px;
 	pointer-events:none;
 }
+.tooltip2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	text-align: center;
+	width: 120px;
+	height: 45;
+	padding: 2px;
+	font: 12px;
+	background: lightsteelblue;
+	opacity: 0;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events:none;
+}
 .prob-div {text-align: center; display: inline-block;}
 .below {margin-top: 10px;}
 .sec2 {float: left;}
@@ -44,7 +59,7 @@ div {vertical-align: top; margin-bottom: 10px;}
       <strong> : </strong><input id="clock-sec" size="3"></input>
       <span><strong>Home Score: </strong></span><input id="home-score" size="5"></input>
       <span><strong>Away Score: </strong></span><input id="away-score" size="5"></input>
-      <span><strong>Last Event </strong></span>
+      <span><strong>Last Event: </strong></span>
       <span>
       <select class="team-dropdown" id="last-event">
       <option selected disabled>Select Event</option>
@@ -86,6 +101,14 @@ div {vertical-align: top; margin-bottom: 10px;}
   	<button type="button" id="run-button-2">Run</button>
   	</div>
     <div id="canvas" class="below"></div>
+    <div>
+      <span>A visualization of game situations where the probability of winning is within a specified range.  
+      Be patient, it takes around 10 seconds. 
+      <br>&emsp; &emsp; &emsp; &emsp; Specify the window (decimal values): &emsp;</span><input id="prob-floor" size="3"></input>
+      &le; P &le; <input id="prob-ceil" size="3"></input> &emsp;
+      <span><button type="button" id="run-button-3">Run</button></span></center>
+    </div>
+    <div id="canvas2" class="below"></div>
 
 </div>
 
@@ -119,6 +142,15 @@ function runPyGetProbs(filename){
 		url: "/getProbsGame",
 		async: false,
 		data: {myfile: filename}
+	});
+	return jqXHR.responseText;
+}
+function runPyGetProbWindow(lower, upper){
+	var jqXHR = $.ajax({
+		type: "POST",
+		url: "/getProbWindow",
+		async: false,
+		data: {mylower: lower, myupper: upper}
 	});
 	return jqXHR.responseText;
 }
@@ -172,12 +204,24 @@ $('#run-button-2').click(function() {
 	addEvents(svg, events, homeName, awayName);
   });
 
+$('#run-button-3').click(function() {
+	var floor = document.getElementById("prob-floor").value;
+	var ceil = document.getElementById("prob-ceil").value;
+	result = runPyGetProbWindow(floor, ceil);
+	vals = JSON.parse(result);
+	addVals(svg2, vals);
+  });
+
 var events = [];
 
 var svg = d3.select("#canvas").append("svg")
 .attr("width", 1200).attr("height", 600);
 
+var svg2 = d3.select("#canvas2").append("svg")
+.attr("width", 1200).attr("height", 600);
+
 setupGraph(svg, homeName, awayName);
+setupGraph2(svg2);
 
 var xScale = d3.scale.linear()
 .domain([0,720]).range([1200,0]);
@@ -185,8 +229,18 @@ var xScale = d3.scale.linear()
 var yScale = d3.scale.linear()
 .domain([0,1]).range([600,0]);
 
+var xScale2 = d3.scale.linear()
+.domain([0,720]).range([1200,0]);
+
+var yScale2 = d3.scale.linear()
+.domain([-25,25]).range([600,0]);
+
 var tip = d3.select(".below").append("div")
 				  .attr("class", "tooltip")
+				  .attr("opacity", "0");
+
+var tip2 = d3.select(".below").append("div")
+				  .attr("class", "tooltip2")
 				  .attr("opacity", "0");
 
 async function addEvents(svg, results, homeName, awayName) {
@@ -309,6 +363,61 @@ async function addEvents(svg, results, homeName, awayName) {
 	}
 	document.getElementById("run-button-2").disabled = false;
 }
+
+function addVals(svg2, vals) {
+	setupGraph2(svg2);
+	var data = []
+	for(var i = 0; i < vals.length; i++){
+		var time = vals[i][0];
+		var min = parseInt(time/60);
+		var sec = parseInt(time%60);
+		var x = Math.floor((Math.random() * 1200) + 1);
+		var y = Math.floor((Math.random() * 600) + 1);
+		var speed = Math.floor((Math.random() * 2500) + 750);
+		if(sec < 10){
+			sec = "0" + sec.toString();
+		}
+		var clk = min.toString() + ":" + sec.toString();
+		data.push({
+			time  : time,
+			clock : clk,
+			score : vals[i][1],
+			randX : x,
+			randY : y,
+			speed : speed
+		});
+	}
+	
+	var color = d3.rgb("#007AC2");
+	var circle = svg2.selectAll("circle").data(data, function(d){return d.clock + " " + d.score;});
+	circle.enter().append("circle")
+	.style("opacity", 0.1)
+	.attr("cx", function(d) { return d.randX;})
+	.attr("cy", function(d) { return d.randY;})
+	.on("mouseover", function(d) {
+		tip2.transition()
+			.duration(200)
+			.style("opacity", 0.8);
+		tip2.html(
+		        "<b>Time: </b>" + d.clock + "<b> <br>Score-Diff: </b>" + d.score)
+	       .style("left", (d3.event.pageX) + "px")
+	       .style("top", (d3.event.pageY - 28) + "px");
+	})
+	.on("mouseout", function(d){
+		tip2.transition()
+			.duration(500)
+			.style("opacity", 0);
+	})
+	.transition().duration(function(d) {return d.speed;})
+	.attr("cx", function(d) { return xScale2(d.time); })
+	.attr("cy", function(d) { return yScale2(d.score); })
+	.attr("fill", color )
+	.style("opacity", 1)
+	.attr("r", 5);
+		
+	
+}
+
 
 function setupGraph(svg, homeName, awayName){
 	xScale = d3.scale.linear()
@@ -443,7 +552,136 @@ function setupGraph(svg, homeName, awayName){
           .text(awayName);
 }
 
+function setupGraph2(svg){
+	svg.selectAll("*").remove();
 
+	svg.append("line").attr("id", "timeline")
+	.attr("x1", 0).attr("y1", 300)
+	.attr("x2", 1200).attr("y2", 300)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 300).attr("y1", 0)
+	.attr("x2", 300).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 600).attr("y1", 0)
+	.attr("x2", 600).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 900).attr("y1", 0)
+	.attr("x2", 900).attr("y2", 600)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 360)
+	.attr("x2", 1200).attr("y2", 360)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 420)
+	.attr("x2", 1200).attr("y2", 420)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 480)
+	.attr("x2", 1200).attr("y2", 480)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 540)
+	.attr("x2", 1200).attr("y2", 540)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 60)
+	.attr("x2", 1200).attr("y2", 60)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 120)
+	.attr("x2", 1200).attr("y2", 120)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 180)
+	.attr("x2", 1200).attr("y2", 180)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+	svg.append("line")
+	.attr("x1", 0).attr("y1", 240)
+	.attr("x2", 1200).attr("y2", 240)
+	.attr("opacity", 0.3)
+	.attr("stroke-width", 1)
+	.attr("stroke", "black");
+
+
+	svg.append("text")
+          .attr("x", -283)
+          .attr("y", 12)
+          .attr("text-anchor", "middle")
+          .attr("font-size", "15px")
+          .attr("transform", "rotate(-90)")
+          .text("Score Difference");
+
+    svg.append("text")
+          .attr("x", 302)
+          .attr("y", 595)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("9:00");
+
+    svg.append("text")
+          .attr("x", 602)
+          .attr("y", 595)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("6:00");
+
+    svg.append("text")
+          .attr("x", 902)
+          .attr("y", 595)
+          .attr("font-size", "15px")
+          .attr("opacity", 0.7)
+          .text("3:00");
+
+    svg.append("text").attr("id", "hometext")
+          .attr("x", 1)
+          .attr("y", 15)
+          .attr("font-size", "15px")
+          .attr("opacity", 1)
+          .text("25");
+
+    svg.append("text").attr("id", "awaytext")
+          .attr("x", 1)
+          .attr("y", 595)
+          .attr("font-size", "15px")
+          .attr("opacity", 1)
+          .text("-25");
+}
 
 
 function sleep(ms){

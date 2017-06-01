@@ -53,7 +53,7 @@ def eventParse(event):
 @predict_script.route('/predict', methods=['GET', 'POST'])
 def predict():
 	message = None
-	with open('classifier_ot.pkl', 'rb') as f:
+	with open('classifier_ot_3.pkl', 'rb') as f:
 		classifier = pickle.load(f)
 
 	if request.method == 'POST':
@@ -98,6 +98,38 @@ def getGameIds():
 	return render_template('index.html', message='')
 
 @predict_script.route("/", methods=['GET', 'POST'])
+@predict_script.route('/getProbWindow', methods=['GET', 'POST'])
+def getProbWindow():
+
+	with open('classifier_ot_3.pkl', 'rb') as f:
+		classifier = pickle.load(f)
+
+	if request.method == 'POST':
+		lower = float(request.form['mylower'])
+		upper = float(request.form['myupper'])
+
+		values = []
+		for t in range(721,-1,-5):
+			for s in range(-25, 25, 1):
+				probs = classifier.predict_proba([[t  /720, s /53]])
+				if probs[0][1] <= upper and probs[0][1] >= lower:
+					values.append([t,s])
+
+		# values = []
+		# for t in range(721,-1,-1):
+		# 	probs = classifier.predict_proba([[t  /720, 1 /53]])
+		# 	values.append([t,probs[0,1]])
+
+
+		values = json.dumps(values)
+		resp = make_response(values)
+		resp.headers['Content-Type'] = "application/json"
+		return resp
+
+		return render_template('index.html', message='')
+	return render_template('index.html', message='')
+
+@predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/getProbsGame', methods=['GET', 'POST'])
 def getProbsGame():
 	message = None
@@ -105,7 +137,7 @@ def getProbsGame():
 	if request.method == 'POST':
 		file = request.form['myfile']
 		data = pd.read_csv("games/" + file)
-		with open('classifier_ot.pkl',  'rb') as f:
+		with open('classifier_ot_3.pkl',  'rb') as f:
 			classifier = pickle.load(f)
 
 		predictions = []
