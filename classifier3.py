@@ -1,3 +1,11 @@
+# Chris Vrabel
+# 5/25/17
+# Prediting Game Probabilities
+
+# This python script reads through the files in the games folder
+# and creates the X and Y vectors for classification.
+
+
 import pandas as pd
 import numpy as np
 import os
@@ -7,18 +15,6 @@ from enum import Enum
 import pickle
 from sklearn.model_selection import train_test_split
 
-# class Action(Enum):
-# 	push = 0
-# 	homeMake = homeTurnover = homeFoulNonS = homeFreeMakeLast = awayRebound = awayJumpBall = awayTimeout = -1.088
-# 	awayMake = awayTurnover = awayFoulNonS = awayFreeMakeLast = homeRebound = homeJumpBall = homeTimeout = 1.088
-# 	homeMiss = homeFreeMiss = -0.8323
-# 	awayMiss = awayFreeMiss = 0.8323
-# 	homeFt1 = 0.7645
-# 	homeFt2 = 1.529
-# 	homeFt3 = 2.294
-# 	awayFt1 = -0.7645
-# 	awayFt2 = -1.529
-# 	awayFt3 = -2.294
 
 class Action(Enum):
 	push = 0
@@ -34,14 +30,16 @@ class Action(Enum):
 	awayFt3 = -2.294
 
 
+# Adjust expected points once time is less than a minute
+# Actual values based on iterating through games and counting points per possession
+# Values were found to be roughly 0.82 PPP under a minute, and 0.95 otherwise.
 def clutchAdj(val):
 	if val <= 60:
 		return 0.87
 	else:
 		return 1
-# def clutchAdj(val):
-# 	return 0.9899211327 / (1 + 0.4777664303*math.exp(-0.0076053924*val))
 
+# The following methods are for parsing the rows and getting values we need
 def getTime(clock):
 	index = clock.index(':')
 	minutes = int(clock[0:index])
@@ -210,6 +208,7 @@ def getEvent(row, next_row):
 
 	return Action.push.value
 
+# Iterate through each game csv
 def parseCSV(filename):
 	x = []
 	y = []
@@ -242,9 +241,6 @@ def parseCSV(filename):
 
 		adjust = adjust*clutchAdj(time)
 
-
-		# print(adjust)
-
 		Xtemp = [time/720, (home_score-away_score+adjust)/53]
 		x.append(Xtemp)
 
@@ -256,11 +252,11 @@ def parseCSV(filename):
 	y = [1]*len(data) if home_score-away_score > 0 else [0]*len(data)
 	y = np.reshape(y, (-1,1))
 
-
 	return x, y
 
-def main():
 
+
+def main():
 	Xvector = []
 	Yvector = []
 	for file in os.listdir("games/"):

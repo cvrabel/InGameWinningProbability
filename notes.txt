@@ -25,3 +25,42 @@ Points per Possession Values
 9715 --- 10149 --- 0.9572371662232733
 8894 --- 11292 --- 0.787637265320581
 6705 --- 7645 --- 0.8770438194898627
+
+Timeout PPP
+12399
+11435
+= 0.9222517945 //Roughly same
+
+
+
+#-----Score change-----------
+values1 = []
+	values2 = []
+	for t in range(240,721,40):
+		for s in range(15, -15, -1):
+			probs1 = classifier.predict_proba([[t  /720, s /53]])
+			probs2 = classifier.predict_proba([[t /720, (s-2)/53]])
+			if (probs1[0][1]- probs2[0][1]) > .1:
+				values1.append([(720-t),s])
+				values2.append([(720-t),s-2])
+				print(str([t,s]))
+				
+
+
+	print(len(values1))
+	t = np.arange(len(values1))
+	values1 = np.array(values1)
+	values2 = np.array(values2)
+
+	plt.scatter(values1[:,0], values1[:,1], c=t, s=120, alpha=0.75, edgecolors='white')
+	plt.scatter(values2[:,0], values2[:,1], c=t, s=120, alpha=0.75, edgecolors='white')
+	# popt, pcov = curve_fit(func, values[:,0], values[:,1])
+	# plt.plot(values[:,0], func(values[:,0], *popt), 'r-')
+	plt.xlabel('4th Quarter Time')
+	plt.ylabel('Point Lead')
+	plt.xticks([0, 120, 240, 360, 480], ['12:00', '10:00', '8:00', '6:00', '4:00'])
+	plt.xlim([0,480])
+	plt.ylim([-15,15])
+	plt.title('Close Games')
+	plt.tight_layout()
+	plt.show()

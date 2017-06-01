@@ -1,3 +1,9 @@
+# Chris Vrabel
+# 5/27/17
+# Prediting Game Probabilities
+
+# This python script uses flask for communicate with our javascript.  
+
 from flask import Flask, render_template, redirect, url_for, request
 from flask import make_response
 from sklearn.neighbors import KNeighborsClassifier as KNN
@@ -13,19 +19,6 @@ import pickle
 
 predict_script = Flask(__name__)
 predict_script.debug=True
-
-# class Action(Enum):
-# 	push = 0
-# 	homeMake = homeTurnover = homeFoulNonS = homeFreeMakeLast = awayRebound = awayJumpBall = awayTimeout = -1.088
-# 	awayMake = awayTurnover = awayFoulNonS = awayFreeMakeLast = homeRebound = homeJumpBall = homeTimeout = 1.088
-# 	homeMiss = homeFreeMiss = -0.8323
-# 	awayMiss = awayFreeMiss = 0.8323
-# 	homeFt1 = 0.7645
-# 	homeFt2 = 1.529
-# 	homeFt3 = 2.294
-# 	awayFt1 = -0.7645
-# 	awayFt2 = -1.529
-# 	awayFt3 = -2.294
 
 class Action(Enum):
 	push = 0
@@ -48,7 +41,7 @@ def eventParse(event):
 	return 0
 
 
-
+# Perform individual predictions for the top part of our page
 @predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/predict', methods=['GET', 'POST'])
 def predict():
@@ -77,6 +70,7 @@ def predict():
 	return render_template('index.html', message='')
 
 
+# Get the name of each game csv for our dropdown menu
 @predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/getGameIds', methods=['GET', 'POST'])
 def getGameIds():
@@ -97,6 +91,7 @@ def getGameIds():
 		return render_template('index.html', message='')
 	return render_template('index.html', message='')
 
+# Used for the bottom of our page. Get all values within a specified probability window
 @predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/getProbWindow', methods=['GET', 'POST'])
 def getProbWindow():
@@ -110,7 +105,7 @@ def getProbWindow():
 
 		values = []
 		for t in range(720,-1,-10):
-			for s in range(-22, 22, 1):
+			for s in range(-24, 25, 1):
 				probs = classifier.predict_proba([[t  /720, s /53]])
 				if probs[0][1] <= upper and probs[0][1] >= lower:
 					values.append([t,s,probs[0][1]])
@@ -129,6 +124,8 @@ def getProbWindow():
 		return render_template('index.html', message='')
 	return render_template('index.html', message='')
 
+
+# Get probabilities for each event throughout a specified game
 @predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/getProbsGame', methods=['GET', 'POST'])
 def getProbsGame():
@@ -171,7 +168,6 @@ def getProbsGame():
 
 		return render_template('index.html', message='')
 	return render_template('index.html', message='')
-
 
 
 

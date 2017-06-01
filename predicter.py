@@ -38,6 +38,7 @@ class Action(Enum):
 	awayFt3 = -2.294
 
 
+#Our function for best fit line 
 def func(x, a, b, c):
 	return a*x**2 + b*x + c
 
@@ -53,31 +54,27 @@ def main():
 	Yvector = Yvector.flatten()
 
 
-
 	Xtrain, Xtest, Ytrain, Ytest = train_test_split(Xvector, Yvector, test_size=0.1, random_state=42)
 
 
 
-
-
 	# KNN Classifier
-
 	# --------- Train again -------------- #
-	classifier = KNN(n_neighbors = 500)
-	classifier.fit(Xtrain, Ytrain)
+	# classifier = KNN(n_neighbors = 500)
+	# classifier.fit(Xtrain, Ytrain)
 
-	with open('classifier_ot_2.pkl', 'wb') as f:
-		pickle.dump(classifier, f, protocol=2)
+	# with open('classifier_ot_2.pkl', 'wb') as f:
+	# 	pickle.dump(classifier, f, protocol=2)
 
-	probs = classifier.predict_proba(Xtest)
+	# probs = classifier.predict_proba(Xtest)
 
-	for i in range(0, len(probs)):
-		print(str(probs[i]) + " --- " + str(Xtest[i][0]*720) + ", " + str(Xtest[i][1]*53) + " --- " + str(Ytest[i]))
+	# for i in range(0, len(probs)):
+	# 	print(str(probs[i]) + " --- " + str(Xtest[i][0]*720) + ", " + str(Xtest[i][1]*53) + " --- " + str(Ytest[i]))
 	
 
 	# ---------- Already Trained ------------- #
-	# with open('classifier_ot_2.pkl', 'rb') as f:
-	# 	classifier = pickle.load(f)
+	with open('classifier_ot_2.pkl', 'rb') as f:
+		classifier = pickle.load(f)
 
 
 	#---------------REPL-------------------------------------
@@ -97,24 +94,19 @@ def main():
 	# 	print("Probability of winning: " + str(probs[0][1]) + '\n')
 
 
-
 	#--------------REST CALCULATIONS-------------------------
 	# restValues = []
 	# for t in range(0,820,5):
 	# 	second = False
 	# 	for s in range(0, -30, -1):
 	# 		probs = classifier.predict_proba([[t  /720, s /53]])
-	# 		if probs[0][1] < .02:
+	# 		if probs[0][1] < .015:
 	# 			if second == False:
 	# 				second = True
 	# 			else:
 	# 				restValues.append([(720-t),s])
 	# 				print(str([t,s]))
 	# 				break
-
-
-
-
 	# restValues = np.array(restValues)
 
 	# plt.scatter(restValues[:,0], restValues[:,1], s=120, alpha=0.25, edgecolors='white')
@@ -125,7 +117,7 @@ def main():
 	# plt.xticks([0, 120, 240, 360, 480, 600, 720], ['12:00', '10:00', '8:00', '6:00', '4:00', '2:00', '0:00'])
 	# plt.xlim([0,720])
 	# plt.ylim([-25,0])
-	# plt.title('Probability Win < 2% Threshold')
+	# plt.title('Probability Win < 1.5% Threshold')
 	# plt.tight_layout()
 	# plt.show()
 

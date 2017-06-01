@@ -1,3 +1,10 @@
+<!--
+# Chris Vrabel
+# 5/27/17
+# Prediting Game Probabilities
+
+# This is the html file for the webpage of visualizations. Contains the javascript as well. 
+-->
 <html>
 <title>Computing Win Probability</title>
 <head>
@@ -113,11 +120,9 @@ div {vertical-align: top; margin-bottom: 10px;}
 </div>
 
 
-<!-- The SVG element will go in here -->
-
-
 <script type="text/javascript">
 
+//Ajax calls to our python scripts
 function runPyScript(clock, home, away, event){
 	var jqXHR = $.ajax({
 		type: "POST",
@@ -155,6 +160,7 @@ function runPyGetProbWindow(lower, upper){
 	return jqXHR.responseText;
 }
 
+// Handler for clicking the top run button
 $('#run-button').click(function() {
     var clock_min = document.getElementById("clock-min").value;
     var clock_sec = document.getElementById("clock-sec").value;
@@ -185,6 +191,7 @@ for(var i = 0; i < files.length; i++){
 }
 
 
+// Handler for our game graph run button
 var homeName = "Home";
 var awayName = "Away";
 $('#run-button-2').click(function() {
@@ -204,16 +211,20 @@ $('#run-button-2').click(function() {
 	addEvents(svg, events, homeName, awayName);
   });
 
+
+// Handler for our probability window graph run button
 $('#run-button-3').click(function() {
 	var floor = document.getElementById("prob-floor").value;
 	var ceil = document.getElementById("prob-ceil").value;
 	result = runPyGetProbWindow(floor, ceil);
+	console.log(result)
 	vals = JSON.parse(result);
 	addVals(svg2, vals);
   });
 
 var events = [];
 
+//Creating the svg areas for our graphs
 var svg = d3.select("#canvas").append("svg")
 .attr("width", 1200).attr("height", 600);
 
@@ -235,6 +246,7 @@ var xScale2 = d3.scale.linear()
 var yScale2 = d3.scale.linear()
 .domain([-25,25]).range([600,0]);
 
+// Creating the tooltips
 var tip = d3.select(".below").append("div")
 				  .attr("class", "tooltip")
 				  .attr("opacity", "0");
@@ -243,6 +255,7 @@ var tip2 = d3.select(".below").append("div")
 				  .attr("class", "tooltip2")
 				  .attr("opacity", "0");
 
+// Add events to the game graph
 async function addEvents(svg, results, homeName, awayName) {
 	setupGraph(svg, homeName, awayName);
 	
@@ -272,7 +285,7 @@ async function addEvents(svg, results, homeName, awayName) {
 			d3.select("#ot1-line").attr("opacity", 0.3);
 			d3.select("#ot1-text").attr("opacity", 0.7);
 
-			window.scrollTo(1500,800);
+			window.scrollTo(1500,300);
 		}
 		if(time < -300){
 			svg.attr("width", 1805);
@@ -288,7 +301,7 @@ async function addEvents(svg, results, homeName, awayName) {
 			d3.select("#timeline").attr("x2", 2105);
 			d3.select("#ot3-line").attr("opacity", 0.3);
 			d3.select("#ot3-text").attr("opacity", 0.7);
-			window.scrollTo(2100,800);
+			window.scrollTo(2100,300);
 		}
 		if(time < -900){
 			svg.attr("width", 2405);
@@ -296,11 +309,14 @@ async function addEvents(svg, results, homeName, awayName) {
 			d3.select("#timeline").attr("x2", 2405);
 			d3.select("#ot4-line").attr("opacity", 0.3);
 			d3.select("#ot4-text").attr("opacity", 0.7);
-			window.scrollTo(2400,800);
+			window.scrollTo(2400,300);
 		}
 		//End OT Handlers
 
+		var circleCol = d3.rgb("#002D62");
+		var lineCol = d3.rgb("#FDBB30");
 
+		//Make the line
 		if(i != 0){
 			var line = svg.append("line")
 			.attr("x1", xScale(prevEvent.time)).attr("y1", yScale(prevEvent.prob))
@@ -308,9 +324,10 @@ async function addEvents(svg, results, homeName, awayName) {
 			.attr("x2", xScale(event.time)).attr("y2", yScale(event.prob))
 			.attr("stroke-width", 2)
             .style("opacity", "1")
-			.attr("stroke", "blue");
+			.attr("stroke", circleCol);
 		}
 
+		//Get the data in correct form for our tooltips
 		home_d = "-";
 		away_d = "-";
 		if(results[i][3] != "nan")
@@ -328,7 +345,7 @@ async function addEvents(svg, results, homeName, awayName) {
 			prob : proba
 		}];
 
-
+		// Make the circles
 		var circle = svg.selectAll("circle").data(res, function(d){return d.clock + " " + d.home_desc + " " + d.away_desc;});
 		circle.enter().append("circle")
 		.style("opacity", ".7")
@@ -353,20 +370,25 @@ async function addEvents(svg, results, homeName, awayName) {
 		.transition().duration(150)
 		.attr("cx", xScale(event.time))
 		.attr("cy", yScale(event.prob))
-		.attr("fill", "red" )
+		.attr("fill", lineCol )
 		.style("opacity", ".8")
 		.attr("r", 5);
 
 		prevEvent = event;
 		
+		//Just for visual effects
 		await sleep(150);
 	}
 	document.getElementById("run-button-2").disabled = false;
 }
 
+
+//Creating our probability graph on the bottom
 function addVals(svg2, vals) {
 	setupGraph2(svg2);
 	var data = []
+
+	// Iterate through values and get in correct form for the tooltips
 	for(var i = 0; i < vals.length; i++){
 		var time = vals[i][0];
 		var min = parseInt(time/60);
@@ -389,6 +411,7 @@ function addVals(svg2, vals) {
 		});
 	}
 	
+	// Create all the circles at the same time using selectAll and our data array
 	var color = d3.rgb("#007AC2");
 	var circle = svg2.selectAll("circle").data(data, function(d){return d.clock + " " + d.score;});
 	circle.enter().append("circle")
@@ -421,6 +444,7 @@ function addVals(svg2, vals) {
 }
 
 
+//Called to set up the graph. Creates axes, lines, labels
 function setupGraph(svg, homeName, awayName){
 	xScale = d3.scale.linear()
 	.domain([0,720]).range([1200,0]);
@@ -554,6 +578,7 @@ function setupGraph(svg, homeName, awayName){
           .text(awayName);
 }
 
+//Called to set up the graph. Creates axes, lines, labels
 function setupGraph2(svg){
 	svg.selectAll("*").remove();
 
@@ -686,6 +711,8 @@ function setupGraph2(svg){
 }
 
 
+
+//Only used for making the visualization of the game graph look nice
 function sleep(ms){
 	return new Promise(resolve => setTimeout(resolve, ms));
 }

@@ -1,7 +1,14 @@
+# Chris Vrabel
+# 5/25/17
+# Prediting Game Probabilities
+
+# This python file contains some helper methods used throughout the project.
+
 import pandas as pd
 import numpy as np
 import os
 import pickle
+import classifier3
 
 #Take in the master csv, and separate it into csv by game
 def separateGames():
@@ -177,7 +184,52 @@ def getGameNames():
 		pickle.dump(games, f, protocol=2)
 
 
-getGameNames()
+
+def addPredictions(filename):
+	df = pd.read_csv("pbp.csv")
+
+	with open('classifier_ot_2.pkl', 'rb') as f:
+		classifier = pickle.load(f)
+
+	predictions = []
+	prev = 0
+	print(prev)
+	for i in range(0, len(df)):
+		load = int(i/len(df) * 100)
+		if load != prev:
+			print(load)
+			prev = load
+		row = df.iloc[i]
+		next_row = df.iloc[i+1] if (i < len(df)-1) else df.iloc[i]
+
+		if str(row.score) != 'nan':
+			home, away = classifier3.getScores(row.score) 
+		else:
+			pass
+
+		if "Violation" in row.event_type or "Substitution" in row.event_type or "Ejection" in row.event_type:
+			pass # Keep event the same as previous
+		else:
+			event = classifier3.getEvent(row, next_row)
+
+		time = classifier3.getTime(row.play_clock)
+		period = int(row.period)
+		if(period > 4):
+			time = time - 300
+
+		event = event*classifier3.clutchAdj(time)
+		score = home - away + event
+		prob = classifier.predict_proba([[time  /720, score /53]])
+		# print(str(home) + "-" + str(away) + " -- " + str(event) + ", " + str(time) + " --- " + str(prob[0][1]))
+		predictions.append(prob[0][1])
+
+	df['win_probability'] = predictions
+
+	df.to_csv(filename, index=False)
+
+
+addPredictions("pbp_predictions.csv")		
+# getGameNames()
 # getTimeoutPPP()
 # getExpectedPPP()
 # separateGames()
