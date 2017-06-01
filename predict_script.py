@@ -109,8 +109,8 @@ def getProbWindow():
 		upper = float(request.form['myupper'])
 
 		values = []
-		for t in range(720,-1,-5):
-			for s in range(-25, 25, 1):
+		for t in range(720,-1,-10):
+			for s in range(-22, 22, 1):
 				probs = classifier.predict_proba([[t  /720, s /53]])
 				if probs[0][1] <= upper and probs[0][1] >= lower:
 					values.append([t,s,probs[0][1]])
