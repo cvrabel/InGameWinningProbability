@@ -98,8 +98,8 @@ div {vertical-align: top; margin-bottom: 10px;}
     </div>
 
 	<div class="sec2">
-	Select a game and click 'Run' to see a graph of the 
-  	win probability throughout the 4th quarter.</div>
+	Select a game and click 'Run' for a graph of 
+  	win probability through the 4th quarter. (Hover points for more info)</div>
   	<div class="sec2">
   	<select class="team-dropdown" id="games_dd">
   		<option selected disabled>Select Game CSV</option>
@@ -110,7 +110,7 @@ div {vertical-align: top; margin-bottom: 10px;}
     <div id="canvas" class="below"></div>
     <div>
       <span>A visualization of game situations where the probability of winning is within a specified range.  
-      Be patient, it takes around 15 seconds. 
+      Be patient, it takes around 20 seconds. (Hover points for more info)
       <br>&emsp; &emsp; &emsp; &emsp; Specify the window (Range[0.00, 1.00]): &emsp;</span><input id="prob-floor" size="3"></input>
       &le; P &le; <input id="prob-ceil" size="3"></input> &emsp;
       <span><button type="button" id="run-button-3">Run</button></span></center>
@@ -195,6 +195,7 @@ for(var i = 0; i < files.length; i++){
 var homeName = "Home";
 var awayName = "Away";
 $('#run-button-2').click(function() {
+	window.scrollTo(0,300);
 	var file = document.getElementById("games_dd").value;
 	result = runPyGetProbs(file);
 	events = JSON.parse(result);
@@ -451,7 +452,6 @@ function setupGraph(svg, homeName, awayName){
 	svg.attr("width", 1200);
 
 	svg.selectAll("*").remove();
-	window.scrollTo(0,300);
 
 	svg.append("line").attr("id", "timeline")
 	.attr("x1", 0).attr("y1", 300)
