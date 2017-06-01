@@ -53,7 +53,7 @@ def eventParse(event):
 @predict_script.route('/predict', methods=['GET', 'POST'])
 def predict():
 	message = None
-	with open('classifier_ot_3.pkl', 'rb') as f:
+	with open('classifier_ot_2.pkl', 'rb') as f:
 		classifier = pickle.load(f)
 
 	if request.method == 'POST':
@@ -101,7 +101,7 @@ def getGameIds():
 @predict_script.route('/getProbWindow', methods=['GET', 'POST'])
 def getProbWindow():
 
-	with open('classifier_ot_3.pkl', 'rb') as f:
+	with open('classifier_ot_2.pkl', 'rb') as f:
 		classifier = pickle.load(f)
 
 	if request.method == 'POST':
@@ -137,7 +137,7 @@ def getProbsGame():
 	if request.method == 'POST':
 		file = request.form['myfile']
 		data = pd.read_csv("games/" + file)
-		with open('classifier_ot_3.pkl',  'rb') as f:
+		with open('classifier_ot_2.pkl',  'rb') as f:
 			classifier = pickle.load(f)
 
 		predictions = []

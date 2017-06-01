@@ -63,10 +63,10 @@ def main():
 	# KNN Classifier
 
 	# --------- Train again -------------- #
-	classifier = KNN(n_neighbors = 201)
+	classifier = KNN(n_neighbors = 500)
 	classifier.fit(Xtrain, Ytrain)
 
-	with open('classifier_ot_3.pkl', 'wb') as f:
+	with open('classifier_ot_2.pkl', 'wb') as f:
 		pickle.dump(classifier, f, protocol=2)
 
 	probs = classifier.predict_proba(Xtest)
