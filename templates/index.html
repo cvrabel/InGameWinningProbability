@@ -30,8 +30,8 @@ div {vertical-align: top; margin-bottom: 10px;}
 	left: 0px;
 	top: 0px;
 	text-align: center;
-	width: 120px;
-	height: 45;
+	width: 115px;
+	height: 65;
 	padding: 2px;
 	font: 12px;
 	background: lightsteelblue;
@@ -104,7 +104,7 @@ div {vertical-align: top; margin-bottom: 10px;}
     <div>
       <span>A visualization of game situations where the probability of winning is within a specified range.  
       Be patient, it takes around 10 seconds. 
-      <br>&emsp; &emsp; &emsp; &emsp; Specify the window (decimal values): &emsp;</span><input id="prob-floor" size="3"></input>
+      <br>&emsp; &emsp; &emsp; &emsp; Specify the window (Range[0.00, 1.00]): &emsp;</span><input id="prob-floor" size="3"></input>
       &le; P &le; <input id="prob-ceil" size="3"></input> &emsp;
       <span><button type="button" id="run-button-3">Run</button></span></center>
     </div>
@@ -384,7 +384,8 @@ function addVals(svg2, vals) {
 			score : vals[i][1],
 			randX : x,
 			randY : y,
-			speed : speed
+			speed : speed,
+			prob  : vals[i][2]
 		});
 	}
 	
@@ -399,7 +400,8 @@ function addVals(svg2, vals) {
 			.duration(200)
 			.style("opacity", 0.8);
 		tip2.html(
-		        "<b>Time: </b>" + d.clock + "<b> <br>Score-Diff: </b>" + d.score)
+		        "<b>Time: </b>" + d.clock + "<b> <br>Score-Diff: </b>" 
+		        + d.score + "<br><b>Prob: </b>" + d.prob)
 	       .style("left", (d3.event.pageX) + "px")
 	       .style("top", (d3.event.pageY - 28) + "px");
 	})
@@ -425,7 +427,7 @@ function setupGraph(svg, homeName, awayName){
 	svg.attr("width", 1200);
 
 	svg.selectAll("*").remove();
-	window.scrollTo(0,800);
+	window.scrollTo(0,300);
 
 	svg.append("line").attr("id", "timeline")
 	.attr("x1", 0).attr("y1", 300)
