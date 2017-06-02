@@ -158,9 +158,9 @@ def getTimeoutType(row):
 def getEnd(row):
 	home, away = getScores(row.score)
 	if home > away:
-		return 100
+		return 30
 	elif away > home:
-		return -100
+		return -30
 	else:
 		return 0
 

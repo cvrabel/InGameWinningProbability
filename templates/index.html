@@ -47,6 +47,9 @@ div {vertical-align: top; margin-bottom: 10px;}
 	border-radius: 8px;
 	pointer-events:none;
 }
+#inputs-3{width: 650px; margin-left: auto; margin-right: auto;}
+.orange {color: #F05133;}
+.blue {color: #007DC3;}
 .prob-div {text-align: center; display: inline-block;}
 .below {margin-top: 10px;}
 .sec2 {float: left;}
@@ -57,7 +60,8 @@ div {vertical-align: top; margin-bottom: 10px;}
 <body>
 <div class="row overall-stats">
     <div class="col-xs-12">
-      <h1 class="blue">Thunder Project</h3>
+      <h1 class="orange">Thunder Project</h3>
+      <h3 class="blue">Calculator</h3>
       <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win. 
       (Overtime minutes flow into negative time. Ex: -1:-30=3:30 OT1; -7:-10=2:50 OT2)
       <br></p><br>
@@ -98,22 +102,25 @@ div {vertical-align: top; margin-bottom: 10px;}
     </div>
 
 	<div class="sec2">
+	<h3 class="blue">Game Play-by-Play Visualization</h3>
 	Select a game and click 'Run' for a graph of 
-  	win probability through the 4th quarter. (Hover points for more info)</div>
-  	<div class="sec2">
+  	win probability through the 4th quarter. (Hover points for more info)
   	<select class="team-dropdown" id="games_dd">
   		<option selected disabled>Select Game CSV</option>
-  	</select></div>
-  	<div class="sec2">
+  	</select>
   	<button type="button" id="run-button-2">Run</button>
   	</div>
     <div id="canvas" class="below"></div>
+    
     <div>
-      <span>A visualization of game situations where the probability of winning is within a specified range.  
-      Be patient, it takes around 20 seconds. (Hover points for more info)
-      <br>&emsp; &emsp; &emsp; &emsp; Specify the window (Range[0.00, 1.00]): &emsp;</span><input id="prob-floor" size="3"></input>
+    <h3 class="blue">Probability Range Visualization</h3>
+      <span>A visualization of game situations where the probability of winning is within a specified range 
+      (Hover points for more info).
+      <br>
+      <div id="inputs-3">
+      Specify the window (Range[0.00, 1.00]): &emsp;</span><input id="prob-floor" size="3"></input>
       &le; P &le; <input id="prob-ceil" size="3"></input> &emsp;
-      <span><button type="button" id="run-button-3">Run</button></span></center>
+      <span><button type="button" id="run-button-3">Run</button></span></center> </div>
     </div>
     <div id="canvas2" class="below"></div>
 
@@ -245,7 +252,7 @@ var xScale2 = d3.scale.linear()
 .domain([0,720]).range([1200,0]);
 
 var yScale2 = d3.scale.linear()
-.domain([-25,25]).range([600,0]);
+.domain([-20,20]).range([600,0]);
 
 // Creating the tooltips
 var tip = d3.select(".below").append("div")
@@ -294,7 +301,7 @@ async function addEvents(svg, results, homeName, awayName) {
 			d3.select("#timeline").attr("x2", 1805);
 			d3.select("#ot2-line").attr("opacity", 0.3);
 			d3.select("#ot2-text").attr("opacity", 0.7);
-			window.scrollTo(1800,800);
+			window.scrollTo(1800,300);
 		}
 		if(time < -600){
 			svg.attr("width", 2105);
@@ -610,61 +617,46 @@ function setupGraph2(svg){
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 360)
-	.attr("x2", 1200).attr("y2", 360)
+	.attr("x1", 0).attr("y1", 375)
+	.attr("x2", 1200).attr("y2", 375)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 420)
-	.attr("x2", 1200).attr("y2", 420)
+	.attr("x1", 0).attr("y1", 450)
+	.attr("x2", 1200).attr("y2", 450)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 480)
-	.attr("x2", 1200).attr("y2", 480)
+	.attr("x1", 0).attr("y1", 525)
+	.attr("x2", 1200).attr("y2", 525)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 540)
-	.attr("x2", 1200).attr("y2", 540)
+	.attr("x1", 0).attr("y1", 75)
+	.attr("x2", 1200).attr("y2", 75)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 60)
-	.attr("x2", 1200).attr("y2", 60)
+	.attr("x1", 0).attr("y1", 150)
+	.attr("x2", 1200).attr("y2", 150)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
 
 	svg.append("line")
-	.attr("x1", 0).attr("y1", 120)
-	.attr("x2", 1200).attr("y2", 120)
+	.attr("x1", 0).attr("y1", 225)
+	.attr("x2", 1200).attr("y2", 225)
 	.attr("opacity", 0.3)
 	.attr("stroke-width", 1)
 	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 180)
-	.attr("x2", 1200).attr("y2", 180)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 240)
-	.attr("x2", 1200).attr("y2", 240)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
 
 	svg.append("text")
           .attr("x", -283)
@@ -700,14 +692,14 @@ function setupGraph2(svg){
           .attr("y", 15)
           .attr("font-size", "15px")
           .attr("opacity", 1)
-          .text("25");
+          .text("20");
 
     svg.append("text").attr("id", "awaytext")
           .attr("x", 1)
           .attr("y", 595)
           .attr("font-size", "15px")
           .attr("opacity", 1)
-          .text("-25");
+          .text("-20");
 }
 
 

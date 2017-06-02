@@ -9,6 +9,8 @@ import numpy as np
 import os
 import pickle
 import classifier3
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
 
 #Take in the master csv, and separate it into csv by game
 def separateGames():
@@ -227,8 +229,82 @@ def addPredictions(filename):
 
 	df.to_csv(filename, index=False)
 
+#Our function for best fit line 
+def func(x, a, b, c, d, e, f):
+	return a*x**5 + b*x**4 + c*x**3 + d*x**2 + e*x + f
 
-addPredictions("pbp_predictions.csv")		
+# def func(x, a, b, c, d, e, f, g):
+# 	return a*x**6 + b*x**5 + c*x**4 + d*x**3 + e*x**2 + f*x + g
+
+# def func(x, a, b, c):
+# 	return a*x**2 + b*x + c
+
+def getCurves():
+
+	with open('classifier_ot_2.pkl', 'rb') as f:
+		classifier = pickle.load(f)
+
+	allVals = []
+	for s in range(-60,61,1):
+		print(s)
+		values = []
+		for t in range(0, 761, 10):
+			probs = classifier.predict_proba([[t  /720, s /53]])
+			prob = probs[0][1]
+			if t == 0:
+				if s > 0:
+					prob = 1.1
+				elif s < 0:
+					prob = -.1
+			elif t != 0:
+				if prob >= 1:
+					prob = 0.99
+				if prob <= 0:
+					prob = 0.01
+			values.append([(t), prob])
+
+		values = np.array(values)
+		popt, pcov = curve_fit(func, values[:,0], values[:,1])
+		
+		allVals.append(popt)
+
+	with open('pred_curves_5degree.pkl', 'wb') as f:
+			pickle.dump(allVals, f, protocol=2)
+
+	# s = 3
+	# values = []
+	# for t in range(0, 761, 10):
+	# 	probs = classifier.predict_proba([[t  /720, s /53]])
+	# 	prob = probs[0][1]
+	# 	if t == 0:
+	# 		if s > 0:
+	# 			prob = 1.1
+	# 		elif s < 0:
+	# 			prob = -.1
+	# 	elif t != 0:
+	# 		if prob >= 1:
+	# 			prob = 0.99
+	# 		if prob <= 0:
+	# 			prob = 0.01
+	# 	print(prob)
+	# 	values.append([(720-t), prob])
+
+	# values = np.array(values)
+	# popt, pcov = curve_fit(func, values[:,0], values[:,1])
+
+	# plt.plot(values[:,0], func(values[:,0], *popt), 'r-')
+	# plt.xlabel('4th Quarter Time')
+	# plt.ylabel('Prob')
+	# plt.xticks([0, 120, 240, 360, 480, 600, 720], ['12:00', '10:00', '8:00', '6:00', '4:00', '2:00', '0:00'])
+	# plt.xlim([0,720])
+	# plt.ylim([0,1])
+	# plt.title('Probability Win for 0 pts Difference')
+	# plt.tight_layout()
+	# plt.show()
+
+
+getCurves()
+# addPredictions("pbp_predictions.csv")		
 # getGameNames()
 # getTimeoutPPP()
 # getExpectedPPP()

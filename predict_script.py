@@ -40,14 +40,66 @@ def eventParse(event):
 		return Action.homeMiss.value
 	return 0
 
+#Our function for best fit line 
+def func(x, a, b, c, d, e, f):
+	return a*x**5 + b*x**4 + c*x**3 + d*x**2 + e*x + f
+
+def pred(time, score):
+	with open('pred_curves_5degree.pkl', 'rb') as f:
+		curves = pickle.load(f)
+	if score > 0:
+		ceil = math.ceil(score)
+		floor = math.floor(score)
+		if floor == 0:
+			remain = score
+		else:
+			remain = score % floor
+	elif score < 0:
+		ceil = math.floor(score)
+		floor = math.ceil(score)
+		if floor == 0:
+			remain = score*-1
+		else:
+			remain = (score%floor)*-1
+	else:
+		ceil = floor = score
+
+	indexHelp = 60
+	pred = 0
+	if ceil == floor:
+		pred =  func(time, *curves[int(score)+indexHelp])
+	else:
+		print(remain)
+		# print(func(time, *curves[ceil+indexHelp]))
+		# print(func(time, *curves[floor+indexHelp]))
+		pred = (remain*func(time, *curves[ceil+indexHelp]) + (1-remain)*func(time, *curves[floor+indexHelp])) 
+		# pred = func(time, *curves[floor+indexHelp])
+
+	if score >= 1 and time == 0:
+		pred = 1
+	elif score <= -1 and time==0:
+		pred=0
+	elif pred >= 1 and time>0 and score<10:
+		pred = 0.9999
+	elif pred <= 0 and time>0 and score>-10:
+		pred = 0.0001
+	elif pred > 1:
+		pred = 1
+	elif pred < 0:
+		pred = 0.0001
+
+
+	return pred
+
+
 
 # Perform individual predictions for the top part of our page
 @predict_script.route("/", methods=['GET', 'POST'])
 @predict_script.route('/predict', methods=['GET', 'POST'])
 def predict():
 	message = None
-	with open('classifier_ot_2.pkl', 'rb') as f:
-		classifier = pickle.load(f)
+	# with open('classifier_ot_2.pkl', 'rb') as f:
+	# 	classifier = pickle.load(f)
 
 	if request.method == 'POST':
 		clock = float(request.form['myclock'])
@@ -57,9 +109,14 @@ def predict():
 		
 		event = eval("Action."+evt+".value")
 		event = event * classifier3.clutchAdj(clock)
+		print(event)
+		print(home-away)
 		score = home - away + event
-		probs = classifier.predict_proba([[clock /720, score /53]])
-		result = probs[0][1] * 100
+		# probs = classifier.predict_proba([[clock /720, score /53]])
+		# result = probs[0][1] * 100
+
+		probs = pred(clock, score)
+		result = probs * 100
 
 
 		resp = make_response(str(result)+'%')
@@ -79,7 +136,6 @@ def getGameIds():
 	# files.sort()
 	with open('game_names.pkl', 'rb') as f:
 		games = pickle.load(f)
-	print(games)
 
 
 	if request.method == 'POST':
@@ -96,8 +152,10 @@ def getGameIds():
 @predict_script.route('/getProbWindow', methods=['GET', 'POST'])
 def getProbWindow():
 
-	with open('classifier_ot_2.pkl', 'rb') as f:
-		classifier = pickle.load(f)
+	# with open('classifier_ot_2.pkl', 'rb') as f:
+	# 	classifier = pickle.load(f)
+	with open('pred_curves.pkl', 'rb') as f:
+		curves = pickle.load(f)
 
 	if request.method == 'POST':
 		lower = float(request.form['mylower'])
@@ -106,9 +164,14 @@ def getProbWindow():
 		values = []
 		for t in range(720,-1,-10):
 			for s in range(-24, 25, 1):
-				probs = classifier.predict_proba([[t  /720, s /53]])
-				if probs[0][1] <= upper and probs[0][1] >= lower:
-					values.append([t,s,probs[0][1]])
+				# probs = classifier.predict_proba([[t  /720, s /53]])
+				# if probs[0][1] <= upper and probs[0][1] >= lower:
+				# 	values.append([t,s,probs[0][1]])
+
+				probs = pred(t, s)
+				# probs = func(t, *curves[s+55])
+				if probs <= upper and probs >= lower:
+					values.append([t,s,probs])
 
 		# values = []
 		# for t in range(721,-1,-1):
@@ -134,8 +197,8 @@ def getProbsGame():
 	if request.method == 'POST':
 		file = request.form['myfile']
 		data = pd.read_csv("games/" + file)
-		with open('classifier_ot_2.pkl',  'rb') as f:
-			classifier = pickle.load(f)
+		# with open('classifier_ot_2.pkl',  'rb') as f:
+		# 	classifier = pickle.load(f)
 
 		predictions = []
 		for i in range(0, len(data)):
@@ -154,12 +217,15 @@ def getProbsGame():
 
 			time = classifier3.getTime(row.play_clock)
 			period = int(row.period)
-			if(period > 4):
-				time = time - 300
+			# if(period > 4):
+			# 	time = time - 300
 			event_adj = event*classifier3.clutchAdj(time)
 			score = home - away + event_adj
-			prob = classifier.predict_proba([[time  /720, score /53]])
-			predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), prob[0][1], int(row.period)])
+			# prob = classifier.predict_proba([[time  /720, score /53]])
+			# predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), prob[0][1], int(row.period)])
+			print(score)
+			probs = pred(time, score)
+			predictions.append([row.play_clock, home, away, str(row.home_description), str(row.away_description), probs, int(row.period)])
 
 		preds = json.dumps(predictions)
 		resp = make_response(preds)
