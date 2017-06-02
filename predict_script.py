@@ -44,9 +44,12 @@ def eventParse(event):
 def func(x, a, b, c, d, e, f):
 	return a*x**5 + b*x**4 + c*x**3 + d*x**2 + e*x + f
 
+#Predict the probability using best fit curves
 def pred(time, score):
 	with open('pred_curves_5degree.pkl', 'rb') as f:
 		curves = pickle.load(f)
+
+	#Different to handle negatives and positives
 	if score > 0:
 		ceil = math.ceil(score)
 		floor = math.floor(score)
@@ -70,11 +73,10 @@ def pred(time, score):
 		pred =  func(time, *curves[int(score)+indexHelp])
 	else:
 		print(remain)
-		# print(func(time, *curves[ceil+indexHelp]))
-		# print(func(time, *curves[floor+indexHelp]))
 		pred = (remain*func(time, *curves[ceil+indexHelp]) + (1-remain)*func(time, *curves[floor+indexHelp])) 
-		# pred = func(time, *curves[floor+indexHelp])
 
+	# If end of game, force prob to 1 or 0
+	# If not end of game, don't allow prob of 1 or 0s
 	if score >= 1 and time == 0:
 		pred = 1
 	elif score <= -1 and time==0:
@@ -87,7 +89,6 @@ def pred(time, score):
 		pred = 1
 	elif pred < 0:
 		pred = 0.0001
-
 
 	return pred
 
