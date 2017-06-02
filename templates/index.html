@@ -213,8 +213,7 @@ $('#run-button-2').click(function() {
 	var ind = gameName.indexOf("-")
 	var homeName = gameName.substring(ind - 3, ind);
 	var awayName = gameName.substring(ind+1, ind + 4);
-	console.log(homeName);
-	console.log(awayName);
+
 
 	addEvents(svg, events, homeName, awayName);
   });
@@ -224,10 +223,17 @@ $('#run-button-2').click(function() {
 $('#run-button-3').click(function() {
 	var floor = document.getElementById("prob-floor").value;
 	var ceil = document.getElementById("prob-ceil").value;
-	result = runPyGetProbWindow(floor, ceil);
-	console.log(result)
-	vals = JSON.parse(result);
-	addVals(svg2, vals);
+	if(parseFloat(ceil) < 0 || parseFloat(floor) < 0 || parseFloat(ceil) > 1 
+		|| parseFloat(floor) > 1 || parseFloat(floor) >= parseFloat(ceil)){
+		console.log(ceil);
+		console.log(floor);
+		alert("Invalid values.");
+	}
+	else{
+		result = runPyGetProbWindow(floor, ceil);
+		vals = JSON.parse(result);
+		addVals(svg2, vals);
+	}
   });
 
 var events = [];

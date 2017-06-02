@@ -11,7 +11,7 @@ import pickle
 import classifier3
 from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
-
+import math
 #Take in the master csv, and separate it into csv by game
 def separateGames():
 
@@ -185,7 +185,64 @@ def getGameNames():
 	with open('game_names.pkl', 'wb') as f:
 		pickle.dump(games, f, protocol=2)
 
+#Our function for best fit line 
+def func(x, a, b, c, d, e, f):
+	return a*x**5 + b*x**4 + c*x**3 + d*x**2 + e*x + f
 
+#Predict the probability using best fit curves
+def pred(time, score):
+	with open('pred_curves_5degree.pkl', 'rb') as f:
+		curves = pickle.load(f)
+
+	#Different to handle negatives and positives
+	if score > 0:
+		ceil = math.ceil(score)
+		floor = math.floor(score)
+		if floor == 0:
+			remain = score
+		else:
+			remain = score % floor
+	elif score < 0:
+		ceil = math.floor(score)
+		floor = math.ceil(score)
+		if floor == 0:
+			remain = score*-1
+		else:
+			remain = (score%floor)*-1
+	else:
+		ceil = floor = score
+
+	indexHelp = 60
+	pred = 0
+	if ceil == floor:
+		pred =  func(time, *curves[int(score)+indexHelp])
+	else:
+		cIndex = ceil + indexHelp
+		fIndex = floor + indexHelp
+		if cIndex > 120:
+			cIndex = 120
+		if fIndex > 120:
+			fIndex = 120
+		# print(cIndex)
+		# print(fIndex)
+		pred = (remain*func(time, *curves[cIndex]) + (1-remain)*func(time, *curves[fIndex])) 
+
+	# If end of game, force prob to 1 or 0
+	# If not end of game, don't allow prob of 1 or 0s
+	if score >= 1 and time == 0:
+		pred = 1
+	elif score <= -1 and time==0:
+		pred=0
+	elif pred >= 1 and time>0 and score<10:
+		pred = 0.9999
+	elif pred <= 0 and time>0 and score>-10:
+		pred = 0.0001
+	elif pred > 1:
+		pred = 1
+	elif pred < 0:
+		pred = 0.0001
+
+	return pred
 
 def addPredictions(filename):
 	df = pd.read_csv("pbp.csv")
@@ -216,22 +273,21 @@ def addPredictions(filename):
 
 		time = classifier3.getTime(row.play_clock)
 		period = int(row.period)
-		if(period > 4):
-			time = time - 300
+		# if(period > 4):
+		# 	time = time - 300
 
 		event = event*classifier3.clutchAdj(time)
 		score = home - away + event
-		prob = classifier.predict_proba([[time  /720, score /53]])
+		# prob = classifier.predict_proba([[time  /720, score /53]])
 		# print(str(home) + "-" + str(away) + " -- " + str(event) + ", " + str(time) + " --- " + str(prob[0][1]))
-		predictions.append(prob[0][1])
+		# predictions.append(prob[0][1])
+		prob = pred(time, score)
+		predictions.append(prob)
 
 	df['win_probability'] = predictions
 
 	df.to_csv(filename, index=False)
 
-#Our function for best fit line 
-def func(x, a, b, c, d, e, f):
-	return a*x**5 + b*x**4 + c*x**3 + d*x**2 + e*x + f
 
 #Get the best fit curves
 def getCurves():
@@ -268,8 +324,8 @@ def getCurves():
 
 
 
-getCurves()
-# addPredictions("pbp_predictions.csv")		
+# getCurves()
+addPredictions("pbp_predictions.csv")		
 # getGameNames()
 # getTimeoutPPP()
 # getExpectedPPP()
