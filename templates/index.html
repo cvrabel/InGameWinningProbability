@@ -38,7 +38,7 @@ div {vertical-align: top; margin-bottom: 10px;}
 	top: 0px;
 	text-align: center;
 	width: 115px;
-	height: 65;
+	height: 68;
 	padding: 2px;
 	font: 12px;
 	background: lightsteelblue;
@@ -408,6 +408,7 @@ function addVals(svg2, vals) {
 			sec = "0" + sec.toString();
 		}
 		var clk = min.toString() + ":" + sec.toString();
+		var proba = String(vals[i][2]*100).substring(0,5);
 		data.push({
 			time  : time,
 			clock : clk,
@@ -415,7 +416,7 @@ function addVals(svg2, vals) {
 			randX : x,
 			randY : y,
 			speed : speed,
-			prob  : vals[i][2]
+			prob  : proba
 		});
 	}
 	
@@ -429,10 +430,10 @@ function addVals(svg2, vals) {
 	.on("mouseover", function(d) {
 		tip2.transition()
 			.duration(200)
-			.style("opacity", 0.8);
+			.style("opacity", 0.8);	
 		tip2.html(
 		        "<b>Time: </b>" + d.clock + "<b> <br>Score-Diff: </b>" 
-		        + d.score + "<br><b>Prob: </b>" + d.prob)
+		        + d.score + "<br><b>Prob: </b>" + d.prob + "%")
 	       .style("left", (d3.event.pageX) + "px")
 	       .style("top", (d3.event.pageY - 28) + "px");
 	})
