@@ -1,135 +1,67 @@
-<!--
-# Chris Vrabel
-# 5/27/17
-# Prediting Game Probabilities
-
-# This is the html file for the webpage of visualizations. Contains the javascript as well. 
--->
 <html>
-<title>Computing Win Probability</title>
 <head>
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <!-- Load the d3 library. -->
-<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 <style>
 /* put a border around the svg element so we can see the coordinate system better. */
 body { font-family: "Open Sans"; } div { margin: 30px; }
-svg { border: solid black 1px; margin-bottom: 50px; margin-right: 315px;}
-div {vertical-align: top; margin-bottom: 10px;}
-.tooltip {
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	text-align: center;
-	width: 315px;
-	height: 70px;
-	padding: 2px;
-	font: 12px;
-	background: lightsteelblue;
-	opacity: 0;
-	border: 0px;
-	border-radius: 8px;
-	pointer-events:none;
-}
-.tooltip2 {
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	text-align: center;
-	width: 115px;
-	height: 68;
-	padding: 2px;
-	font: 12px;
-	background: lightsteelblue;
-	opacity: 0;
-	border: 0px;
-	border-radius: 8px;
-	pointer-events:none;
-}
-#inputs-3{width: 650px; margin-left: auto; margin-right: auto;}
-.orange {color: #F05133;}
-.blue {color: #007DC3;}
-.prob-div {text-align: center; display: inline-block;}
-.below {margin-top: 10px;}
-.sec2 {float: left;}
-
-
+svg { border: solid black 1px; }
+div {vertical-align: top;}
+.prob-div {display: inline-block;}
+.below {margin-top: 20px;}
 </style>
 </head>
 <body>
 <div class="row overall-stats">
-    <div class="col-xs-12">
-      <h1 class="orange">Thunder Project</h3>
-      <h3 class="blue">Calculator</h3>
-      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win. 
-      (Overtime minutes flow into negative time. Ex: -1:-30=3:30 OT1; -7:-10=2:50 OT2)
+    <div class="col-xs-12 scatterplot-dropdowns">
+      <h1 class="blue">In Game Probabilities</h3>
+      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win.
       <br></p><br>
       <form>
-      <span><strong>4th Quarter Clock: </strong></span><input id="clock-min" size="3"></input>
-      <strong> : </strong><input id="clock-sec" size="3"></input>
-      <span><strong>Home Score: </strong></span><input id="home-score" size="5"></input>
-      <span><strong>Away Score: </strong></span><input id="away-score" size="5"></input>
-      <span><strong>Last Event: </strong></span>
+      <span><strong>4th Quarter Clock: </strong></span><input id="clock" value="23"></input>
+      <span><strong>Home Score: </strong></span><input id="home-score" value="100"></input>
+      <span><strong>Away Score: </strong></span><input id="away-score" value="100"></input>
+      <span><strong>Last Event </strong></span>
       <span>
       <select class="team-dropdown" id="last-event">
-      <option selected disabled>Select Event</option>
-      <option value="push">Push</option>
       <option value="homeMake">Home Make</option>
       <option value="homeMiss">Home Miss</option>
       <option value="homeTurnover">Home Turnover</option>
       <option value="homeRebound">Home Rebound</option>
-      <option value="awayFt2">Home Foul (2 shots)</option>
-      <option value="awayFt3">Home Foul (3 shots)</option>
+      <option value="homeFoul2">Home Foul (2 shots)</option>
+      <option value="homeFoul3">Home Foul (3 shots)</option>
       <option value="awayMake">Away Make</option>
       <option value="awayMiss">Away Miss</option>
       <option value="awayTurnover">Away Turnover</option>
       <option value="awayRebound">Away Rebound</option>
-      <option value="homeFt2">Away Foul (2 shots)</option>
-      <option value="homeFt3">Away Foul (3 shots)</option>
+      <option value="awayFoul2">Away Foul (2 shots)</option>
+      <option value="awayFoul3">Away Foul (3 shots)</option>
       </select></span>
-      <span><button type="button" id="run-button">Run</button><span>
+      <span><button type="reset" id="run-button">Run</button><span>
       </form>
+      <br>
       <div class = "wrapper">
 	      <div class = "prob-div">
 	      <span><h4><i>Win Probability: </i></h4></span>
 	      </div>
 	      <div class = "prob-div">
-	      <span><h3 id="probability">-%</h3></span>
+	      <span><h2 id="probability">-%</h2></span>
 	      </div>
 	      
       </div>
+      <div id="canvas" class="below"></div>
     </div>
-
-	<div class="sec2">
-	<h3 class="blue">Game Play-by-Play Visualization</h3>
-	Select a game and click 'Run' for a graph of 
-  	win probability through the 4th quarter (Hover points for more info).
-  	<select class="team-dropdown" id="games_dd">
-  		<option selected disabled>Select Game CSV</option>
-  	</select>
-  	<button type="button" id="run-button-2">Run</button>
-  	</div>
-    <div id="canvas" class="below"></div>
-    
-    <div>
-    <h3 class="blue">Probability Range Visualization</h3>
-      <span>A visualization of game situations where the probability of winning is within a specified range 
-      (Hover points for more info).  This takes around 5-10 seconds.
-      <br>
-      <div id="inputs-3">
-      Specify the window (Range[0.00, 1.00]): &emsp;</span><input id="prob-floor" size="3"></input>
-      &le; P &le; <input id="prob-ceil" size="3"></input> &emsp;
-      <span><button type="button" id="run-button-3">Run</button></span></center> </div>
-    </div>
-    <div id="canvas2" class="below"></div>
 
 </div>
 
 
-<script type="text/javascript">
+<!-- The SVG element will go in here -->
 
-//Ajax calls to our python scripts
+
+<script>
+
 function runPyScript(clock, home, away, event){
 	var jqXHR = $.ajax({
 		type: "POST",
@@ -139,42 +71,9 @@ function runPyScript(clock, home, away, event){
 	});
 	return jqXHR.responseText;
 }
-function runPyGetCSVs(){
-	var jqXHR = $.ajax({
-		type: "POST",
-		url: "/getGameIds",
-		async: false,
-		data: {}
-	});
-	return jqXHR.responseText;
-}
-function runPyGetProbs(filename){
-	var jqXHR = $.ajax({
-		type: "POST",
-		url: "/getProbsGame",
-		async: false,
-		data: {myfile: filename}
-	});
-	return jqXHR.responseText;
-}
-function runPyGetProbWindow(lower, upper){
-	var jqXHR = $.ajax({
-		type: "POST",
-		url: "/getProbWindow",
-		async: false,
-		data: {mylower: lower, myupper: upper}
-	});
-	return jqXHR.responseText;
-}
 
-// Handler for clicking the top run button
 $('#run-button').click(function() {
-    var clock_min = document.getElementById("clock-min").value;
-    var clock_sec = document.getElementById("clock-sec").value;
-    var clock = parseInt(clock_min)*60 + parseInt(clock_sec);
-    while(clock < -300){
-    	clock += 300;
-    }
+    var clock = document.getElementById("clock").value;
 	var home_score = document.getElementById("home-score").value;
 	var away_score = document.getElementById("away-score").value;
 	var event = document.getElementById("last-event").value;
@@ -184,539 +83,89 @@ $('#run-button').click(function() {
 	document.getElementById("probability").innerHTML = result
   });
 
-//Populate the file dropdown list
-var fileSelect = document.getElementById("games_dd");
-var jsonFiles = runPyGetCSVs();
-var files = JSON.parse(jsonFiles);
-for(var i = 0; i < files.length; i++){
-	var next = files[i];
-	var val = next.substring(next.indexOf("(")+1, next.indexOf(")"));
-	var temp = document.createElement("option");
-	temp.textContent = next;
-	temp.value = val;
-	fileSelect.appendChild(temp);
-}
 
+var population = [];
+var populationSize = 150;
 
-// Handler for our game graph run button
-var homeName = "Home";
-var awayName = "Away";
-$('#run-button-2').click(function() {
-	window.scrollTo(0,300);
-	var file = document.getElementById("games_dd").value;
-	result = runPyGetProbs(file);
-	events = JSON.parse(result);
-	document.getElementById("run-button-2").disabled = true;
-
-	var sel = document.getElementById("games_dd");
-	var gameName = sel.options[sel.selectedIndex].text;
-	var ind = gameName.indexOf("-")
-	var homeName = gameName.substring(ind - 3, ind);
-	var awayName = gameName.substring(ind+1, ind + 4);
-
-
-	addEvents(svg, events, homeName, awayName);
-  });
-
-
-// Handler for our probability window graph run button
-$('#run-button-3').click(function() {
-	var floor = document.getElementById("prob-floor").value;
-	var ceil = document.getElementById("prob-ceil").value;
-	if(parseFloat(ceil) < 0 || parseFloat(floor) < 0 || parseFloat(ceil) > 1 
-		|| parseFloat(floor) > 1 || parseFloat(floor) >= parseFloat(ceil)){
-		console.log(ceil);
-		console.log(floor);
-		alert("Invalid values.");
-	}
-	else{
-		result = runPyGetProbWindow(floor, ceil);
-		vals = JSON.parse(result);
-		addVals(svg2, vals);
-	}
-  });
-
-var events = [];
-
-//Creating the svg areas for our graphs
 var svg = d3.select("#canvas").append("svg")
-.attr("width", 1200).attr("height", 600);
-
-var svg2 = d3.select("#canvas2").append("svg")
-.attr("width", 1200).attr("height", 600);
-
-setupGraph(svg, homeName, awayName);
-setupGraph2(svg2);
+.attr("width", 400).attr("height", 400);
 
 var xScale = d3.scale.linear()
-.domain([0,720]).range([1200,0]);
+.domain([0,1]).range([0,400]);
 
 var yScale = d3.scale.linear()
-.domain([0,1]).range([600,0]);
+.domain([0,1]).range([400,0]);
 
-var xScale2 = d3.scale.linear()
-.domain([0,720]).range([1200,0]);
+// The base rate
+var probabilityInfected = 0.05;
 
-var yScale2 = d3.scale.linear()
-.domain([-20,20]).range([600,0]);
+// Conditional probabilities
+var positiveGivenInfected = 0.9;
+var positiveGivenNotInfected = 0.05
 
-// Creating the tooltips
-var tip = d3.select(".below").append("div")
-				  .attr("class", "tooltip")
-				  .attr("opacity", "0");
+// We'll use the x coordinate to decide if a patient is infected.
+// If the point is to the left of the imaginary line, it has the condition.
+// The probability that a uniform [0,1] random variable being less than 
+//  a certain number x is x.
+var isInfected = function (patient) {
+	return patient.disease < probabilityInfected;
+};
 
-var tip2 = d3.select(".below").append("div")
-				  .attr("class", "tooltip2")
-				  .attr("opacity", "0");
-
-// Add events to the game graph
-async function addEvents(svg, results, homeName, awayName) {
-	setupGraph(svg, homeName, awayName);
-	
-	var prevEvent = {
-					time: 720, 
-					prob: 0.5
-					};
-	for(var i = 0; i < results.length; i++){
-		var colon = results[i][0].indexOf(":");
-		var minutes = parseInt(results[i][0].substring(0,colon));
-		var seconds = parseInt(results[i][0].substring(colon+1, results[i][0].length));
-		var time = minutes*60 + seconds;
-		var period = results[i][6];
-		if(period > 4){
-			time = time - ((period-4)*300)
-		}
-		var event = {
-			time: time,
-			prob: results[i][5]
-		};
-
-		//OT Handlers
-		if(time < 0){
-			svg.attr("width", 1505).attr("font-family", "Open Sans");
-			xScale = d3.scale.linear().domain([-300,0]).range([1500,1200]);
-			d3.select("#timeline").attr("x2", 1505);
-			d3.select("#ot1-line").attr("opacity", 0.3);
-			d3.select("#ot1-text").attr("opacity", 0.7);
-
-			window.scrollTo(1500,300);
-		}
-		if(time < -300){
-			svg.attr("width", 1805);
-			xScale = d3.scale.linear().domain([-600,0]).range([1800,1200]);
-			d3.select("#timeline").attr("x2", 1805);
-			d3.select("#ot2-line").attr("opacity", 0.3);
-			d3.select("#ot2-text").attr("opacity", 0.7);
-			window.scrollTo(1800,300);
-		}
-		if(time < -600){
-			svg.attr("width", 2105);
-			xScale = d3.scale.linear().domain([-900,0]).range([2100,1200]);
-			d3.select("#timeline").attr("x2", 2105);
-			d3.select("#ot3-line").attr("opacity", 0.3);
-			d3.select("#ot3-text").attr("opacity", 0.7);
-			window.scrollTo(2100,300);
-		}
-		if(time < -900){
-			svg.attr("width", 2405);
-			xScale = d3.scale.linear().domain([-1200,0]).range([2400,1200]);
-			d3.select("#timeline").attr("x2", 2405);
-			d3.select("#ot4-line").attr("opacity", 0.3);
-			d3.select("#ot4-text").attr("opacity", 0.7);
-			window.scrollTo(2400,300);
-		}
-		//End OT Handlers
-
-		var circleCol = d3.rgb("#002D62");
-		var lineCol = d3.rgb("#FDBB30");
-
-		//Make the line
-		if(i != 0){
-			var line = svg.append("line")
-			.attr("x1", xScale(prevEvent.time)).attr("y1", yScale(prevEvent.prob))
-			.transition().duration(200).delay(50)
-			.attr("x2", xScale(event.time)).attr("y2", yScale(event.prob))
-			.attr("stroke-width", 2)
-            .style("opacity", "1")
-			.attr("stroke", circleCol);
-		}
-
-		//Get the data in correct form for our tooltips
-		home_d = "-";
-		away_d = "-";
-		if(results[i][3] != "nan")
-			home_d = results[i][3].substring(0,30) + "...";
-		if(results[i][4] != "nan")
-			away_d = results[i][4].substring(0,30) + "...";
-		var proba = String(results[i][5]*100).substring(0,5);
-
-		var res = [{
-			clock : results[i][0],
-			home : results[i][1],
-			away : results[i][2],
-			home_desc : home_d,
-			away_desc : away_d,
-			prob : proba
-		}];
-
-		// Make the circles
-		var circle = svg.selectAll("circle").data(res, function(d){return d.clock + " " + d.home_desc + " " + d.away_desc;});
-		circle.enter().append("circle")
-		.style("opacity", ".7")
-		.attr("cx", xScale(prevEvent.time))
-		.attr("cy", yScale(prevEvent.prob))
-		.on("mouseover", function(d) {
-			tip.transition()
-				.duration(200)
-				.style("opacity", 0.8);
-			tip.html(
-			        "<b>Time: </b>" + d.clock + "<b> Score: </b>" + d.home + " - " + d.away + 
-			        "<b> Prob: </b> " + d.prob + "%<br>" + 
-			        "<b>Home: </b> " + d.home_desc + " <br><b>Away: </b>" + d.away_desc )
-		       .style("left", (d3.event.pageX) + "px")
-		       .style("top", (d3.event.pageY - 28) + "px");
-		})
-		.on("mouseout", function(d){
-			tip.transition()
-				.duration(500)
-				.style("opacity", 0);
-		})
-		.transition().duration(150)
-		.attr("cx", xScale(event.time))
-		.attr("cy", yScale(event.prob))
-		.attr("fill", lineCol )
-		.style("opacity", ".8")
-		.attr("r", 5);
-
-		prevEvent = event;
-		
-		//Just for visual effects
-		await sleep(150);
+// We'll use the y coordinate to decide if the patient tests positive.
+// The "critical value" will be different because the conditional probability
+//  is different.
+var isPositive = function (patient) {
+	if (isInfected(patient)) {
+		return patient.test < positiveGivenInfected;
 	}
-	document.getElementById("run-button-2").disabled = false;
+	else {
+		return patient.test < positiveGivenNotInfected;
+	}
 }
 
-
-//Creating our probability graph on the bottom
-function addVals(svg2, vals) {
-	setupGraph2(svg2);
-	var data = []
-
-	// Iterate through values and get in correct form for the tooltips
-	for(var i = 0; i < vals.length; i++){
-		var time = vals[i][0];
-		var min = parseInt(time/60);
-		var sec = parseInt(time%60);
-		var x = Math.floor((Math.random() * 1200) + 1);
-		var y = Math.floor((Math.random() * 600) + 1);
-		var speed = Math.floor((Math.random() * 2500) + 750);
-		if(sec < 10){
-			sec = "0" + sec.toString();
-		}
-		var clk = min.toString() + ":" + sec.toString();
-		var proba = String(vals[i][2]*100).substring(0,5);
-		data.push({
-			time  : time,
-			clock : clk,
-			score : vals[i][1],
-			randX : x,
-			randY : y,
-			speed : speed,
-			prob  : proba
-		});
-	}
+function addPatient() {
+	var patient = {
+		disease: Math.random(),
+		test: Math.random()
+	};
+	population.push(patient);
 	
-	// Create all the circles at the same time using selectAll and our data array
-	var color = d3.rgb("#007AC2");
-	var circle = svg2.selectAll("circle").data(data, function(d){return d.clock + " " + d.score;});
-	circle.enter().append("circle")
-	.style("opacity", 0.1)
-	.attr("cx", function(d) { return d.randX;})
-	.attr("cy", function(d) { return d.randY;})
-	.on("mouseover", function(d) {
-		tip2.transition()
-			.duration(200)
-			.style("opacity", 0.8);	
-		tip2.html(
-		        "<b>Time: </b>" + d.clock + "<b> <br>Score-Diff: </b>" 
-		        + d.score + "<br><b>Prob: </b>" + d.prob + "%")
-	       .style("left", (d3.event.pageX) + "px")
-	       .style("top", (d3.event.pageY - 28) + "px");
-	})
-	.on("mouseout", function(d){
-		tip2.transition()
-			.duration(500)
-			.style("opacity", 0);
-	})
-	.transition().duration(function(d) {return d.speed;})
-	.attr("cx", function(d) { return xScale2(d.time); })
-	.attr("cy", function(d) { return yScale2(d.score); })
-	.attr("fill", color )
-	.style("opacity", 1)
+	var circle = svg.append("circle")
+	.attr("id", "p" + population.length)
+	.attr("cx", 0).attr("cy", 0)
 	.attr("r", 5);
-		
 	
+	circle
+	.attr("cx", xScale(patient.disease))
+	.attr("cy", yScale(patient.test))
+	.attr("opacity", 0.7)
+	.attr("stroke-width", 3)
+	.attr("fill", isInfected(patient) ? "red" : "black")
+	.attr("stroke", isPositive(patient) ? "orange" : "");
+
+	var infected = [];
+	var notInfected = [];
+
+	var infectedPositive = [];
+	d3.select("#truepos").text(infectedPositive.length);
+	d3.select("#falseneg").text(infected.length - infectedPositive.length);
+
+	var notInfectedPositive = [];
+	d3.select("#falsepos").text(notInfectedPositive.length);
+	d3.select("#trueneg").text(notInfected.length - notInfectedPositive.length);
+
+	return population.length == populationSize;
 }
 
 
-//Called to set up the graph. Creates axes, lines, labels
-function setupGraph(svg, homeName, awayName){
-	xScale = d3.scale.linear()
-	.domain([0,720]).range([1200,0]);
-	svg.attr("width", 1200);
-
-	svg.selectAll("*").remove();
-
-	svg.append("line").attr("id", "timeline")
-	.attr("x1", 0).attr("y1", 300)
-	.attr("x2", 1200).attr("y2", 300)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 300).attr("y1", 0)
-	.attr("x2", 300).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 600).attr("y1", 0)
-	.attr("x2", 600).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 900).attr("y1", 0)
-	.attr("x2", 900).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line").attr("id", "ot1-line")
-	.attr("x1", 1200).attr("y1", 0)
-	.attr("x2", 1200).attr("y2", 600)
-	.attr("opacity", 0.0)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line").attr("id", "ot2-line")
-	.attr("x1", 1500).attr("y1", 0)
-	.attr("x2", 1500).attr("y2", 600)
-	.attr("opacity", 0.0)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line").attr("id", "ot3-line")
-	.attr("x1", 1800).attr("y1", 0)
-	.attr("x2", 1800).attr("y2", 600)
-	.attr("opacity", 0.0)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line").attr("id", "ot4-line")
-	.attr("x1", 2100).attr("y1", 0)
-	.attr("x2", 2100).attr("y2", 600)
-	.attr("opacity", 0.0)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("text")
-          .attr("x", 1)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .text("Probability (50%)");
-
-    svg.append("text")
-          .attr("x", 302)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("9:00");
-
-    svg.append("text")
-          .attr("x", 602)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("6:00");
-
-    svg.append("text")
-          .attr("x", 902)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("3:00");
-
-    svg.append("text").attr("id", "ot1-text")
-          .attr("x", 1202)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.0)
-          .text("OT1");
-
-    svg.append("text").attr("id", "ot2-text")
-          .attr("x", 1502)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.0)
-          .text("OT2");
-
-    svg.append("text").attr("id", "ot3-text")
-          .attr("x", 1802)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.0)
-          .text("OT3");
-
-    svg.append("text").attr("id", "ot4-text")
-          .attr("x", 2102)
-          .attr("y", 295)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.0)
-          .text("OT4");
-
-    svg.append("text").attr("id", "hometext")
-          .attr("x", 1)
-          .attr("y", 15)
-          .attr("font-size", "18px")
-          .attr("opacity", 1)
-          .text(homeName);
-
-    svg.append("text").attr("id", "awaytext")
-          .attr("x", 1)
-          .attr("y", 595)
-          .attr("font-size", "18px")
-          .attr("opacity", 1)
-          .text(awayName);
-}
-
-//Called to set up the graph. Creates axes, lines, labels
-function setupGraph2(svg){
-	svg.selectAll("*").remove();
-
-	svg.append("line").attr("id", "timeline")
-	.attr("x1", 0).attr("y1", 300)
-	.attr("x2", 1200).attr("y2", 300)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 300).attr("y1", 0)
-	.attr("x2", 300).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 600).attr("y1", 0)
-	.attr("x2", 600).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 900).attr("y1", 0)
-	.attr("x2", 900).attr("y2", 600)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 375)
-	.attr("x2", 1200).attr("y2", 375)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 450)
-	.attr("x2", 1200).attr("y2", 450)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 525)
-	.attr("x2", 1200).attr("y2", 525)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 75)
-	.attr("x2", 1200).attr("y2", 75)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 150)
-	.attr("x2", 1200).attr("y2", 150)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("line")
-	.attr("x1", 0).attr("y1", 225)
-	.attr("x2", 1200).attr("y2", 225)
-	.attr("opacity", 0.3)
-	.attr("stroke-width", 1)
-	.attr("stroke", "black");
-
-	svg.append("text")
-          .attr("x", -283)
-          .attr("y", 12)
-          .attr("text-anchor", "middle")
-          .attr("font-size", "15px")
-          .attr("transform", "rotate(-90)")
-          .text("Score Difference");
-
-    svg.append("text")
-          .attr("x", 302)
-          .attr("y", 595)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("9:00");
-
-    svg.append("text")
-          .attr("x", 602)
-          .attr("y", 595)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("6:00");
-
-    svg.append("text")
-          .attr("x", 902)
-          .attr("y", 595)
-          .attr("font-size", "15px")
-          .attr("opacity", 0.7)
-          .text("3:00");
-
-    svg.append("text").attr("id", "hometext")
-          .attr("x", 1)
-          .attr("y", 15)
-          .attr("font-size", "15px")
-          .attr("opacity", 1)
-          .text("20");
-
-    svg.append("text").attr("id", "awaytext")
-          .attr("x", 1)
-          .attr("y", 595)
-          .attr("font-size", "15px")
-          .attr("opacity", 1)
-          .text("-20");
-}
-
-
-
-//Only used for making the visualization of the game graph look nice
-function sleep(ms){
-	return new Promise(resolve => setTimeout(resolve, ms));
-}
 
 </script>
+
+<h3>Discussion: On the Ball (Times of Oman)</h3>
+
+<p>Sample <a href="http://www.charlesapple.com/uploads/2014/05/1405bCupSamplePageBrazil.jpg">graphic for Brazil</a></p>
+
+<p>Video of <a href="https://vimeo.com/97001010">How it works</a></p>
 
 </body>
 </html>
