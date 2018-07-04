@@ -1,4 +1,3 @@
-# thunder-project
-Computing in game probabilities
+# In Game Winning Probabilities
 
-https://thunder-project.herokuapp.com/
+https://winning-probability.herokuapp.com/

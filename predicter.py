@@ -1,3 +1,10 @@
+# Chris Vrabel
+# 5/26/17
+# Prediting Game Probabilities
+
+# This python script grabs our X and Y vectors and performs a KNN classification.
+# REPL can be uncommented to test out classifier.
+
 import pandas as pd
 import numpy as np
 import os
@@ -10,19 +17,6 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 import classifier3
-
-# class Action(Enum):
-# 	push = 0
-# 	homeMake = homeTurnover = homeFoulNonS = homeFreeMakeLast = awayRebound = awayJumpBall = awayTimeout = -1.088
-# 	awayMake = awayTurnover = awayFoulNonS = awayFreeMakeLast = homeRebound = homeJumpBall = homeTimeout = 1.088
-# 	homeMiss = homeFreeMiss = -0.8323
-# 	awayMiss = awayFreeMiss = 0.8323
-# 	homeFt1 = 0.7645
-# 	homeFt2 = 1.529
-# 	homeFt3 = 2.294
-# 	awayFt1 = -0.7645
-# 	awayFt2 = -1.529
-# 	awayFt3 = -2.294
 
 class Action(Enum):
 	push = 0
@@ -153,51 +147,8 @@ def main():
 
 
 
-def addPredictions(filename):
-	df = pd.read_csv("pbp.csv")
-
-	with open('classifier_score_clutch_adj_2_KNN_500.pkl', 'rb') as f:
-		classifier = pickle.load(f)
-
-	predictions = []
-	prev = 0
-	print(prev)
-	for i in range(0, len(df)):
-		load = int(i/len(df) * 100)
-		if load != prev:
-			print(load)
-			prev = load
-		row = df.irow(i)
-		next_row = df.irow(i+1) if (i < len(df)-1) else df.irow(i)
-
-		if str(row.score) != 'nan':
-			home, away = classifier3.getScores(row.score) 
-		else:
-			pass
-
-		if "Violation" in row.event_type or "Substitution" in row.event_type or "Ejection" in row.event_type:
-			pass # Keep event the same as previous
-		else:
-			event = classifier3.getEvent(row, next_row)
-
-		time = classifier3.getTime(row.play_clock)
-		period = int(row.period)
-		if(period > 4):
-			time = time - float((period-4)*300)
-		event = event*classifier3.clutchAdj(time)
-		score = home - away + event
-		prob = classifier.predict_proba([[time  /720, score /53]])
-		# print(str(home) + "-" + str(away) + " -- " + str(event) + ", " + str(time) + " --- " + str(prob[0][1]))
-		predictions.append(prob[0][1])
-
-	df['win_probability'] = predictions
-
-	# df.to_csv(filename, index=False)
-
-
 
 
 if __name__ == '__main__':
 	main()
 
-# addPredictions("pbp_predictions.csv")		
