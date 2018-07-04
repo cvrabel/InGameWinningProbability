@@ -1,3 +1,3 @@
 # In Game Winning Probabilities
 
-https://winning-probability.herokuapp.com/
+https://ingame-win-probability.herokuapp.com/
