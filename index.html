@@ -1,0 +1,181 @@
+<html>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<!-- Load the d3 library. -->
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<style>
+/* put a border around the svg element so we can see the coordinate system better. */
+body { font-family: "Open Sans"; } div { margin: 30px; }
+svg { border: solid black 1px; }
+div {vertical-align: top;}
+.prob-div {display: inline-block;}
+.below {margin-top: 20px;}
+</style>
+</head>
+<body>
+<div class="row overall-stats">
+    <div class="col-xs-12 scatterplot-dropdowns">
+      <h1 class="blue">In Game Probabilities</h3>
+      <p>Enter values into the fields below and click 'Run' to find the probability that the home team will win.
+      <br></p><br>
+      <form>
+      <span><strong>4th Quarter Clock: </strong></span><input id="clock" value="23"></input>
+      <span><strong>Home Score: </strong></span><input id="home-score" value="100"></input>
+      <span><strong>Away Score: </strong></span><input id="away-score" value="100"></input>
+      <span><strong>Last Event </strong></span>
+      <span>
+      <select class="team-dropdown" id="last-event">
+      <option value="homeMake">Home Make</option>
+      <option value="homeMiss">Home Miss</option>
+      <option value="homeTurnover">Home Turnover</option>
+      <option value="homeRebound">Home Rebound</option>
+      <option value="homeFoul2">Home Foul (2 shots)</option>
+      <option value="homeFoul3">Home Foul (3 shots)</option>
+      <option value="awayMake">Away Make</option>
+      <option value="awayMiss">Away Miss</option>
+      <option value="awayTurnover">Away Turnover</option>
+      <option value="awayRebound">Away Rebound</option>
+      <option value="awayFoul2">Away Foul (2 shots)</option>
+      <option value="awayFoul3">Away Foul (3 shots)</option>
+      </select></span>
+      <span><button type="reset" id="run-button">Run</button><span>
+      </form>
+      <br>
+      <div class = "wrapper">
+	      <div class = "prob-div">
+	      <span><h4><i>Win Probability: </i></h4></span>
+	      </div>
+	      <div class = "prob-div">
+	      <span><h2 id="probability">-%</h2></span>
+	      </div>
+	      
+      </div>
+      <div id="canvas" class="below"></div>
+    </div>
+
+</div>
+
+
+<!-- The SVG element will go in here -->
+
+
+<script>
+
+function runPyScript(clock, home, away, event){
+	var jqXHR = $.ajax({
+		type: "POST",
+		url: "/predict",
+		async: false,
+		data: {myclock : clock, myhome: home, myaway: away, myevent: event}
+	});
+	return jqXHR.responseText;
+}
+
+$('#run-button').click(function() {
+    var clock = document.getElementById("clock").value;
+	var home_score = document.getElementById("home-score").value;
+	var away_score = document.getElementById("away-score").value;
+	var event = document.getElementById("last-event").value;
+
+	result = runPyScript(clock, home_score, away_score, event);
+
+	document.getElementById("probability").innerHTML = result
+  });
+
+
+var population = [];
+var populationSize = 150;
+
+var svg = d3.select("#canvas").append("svg")
+.attr("width", 400).attr("height", 400);
+
+var xScale = d3.scale.linear()
+.domain([0,1]).range([0,400]);
+
+var yScale = d3.scale.linear()
+.domain([0,1]).range([400,0]);
+
+// The base rate
+var probabilityInfected = 0.05;
+
+// Conditional probabilities
+var positiveGivenInfected = 0.9;
+var positiveGivenNotInfected = 0.05
+
+// We'll use the x coordinate to decide if a patient is infected.
+// If the point is to the left of the imaginary line, it has the condition.
+// The probability that a uniform [0,1] random variable being less than 
+//  a certain number x is x.
+var isInfected = function (patient) {
+	return patient.disease < probabilityInfected;
+};
+
+// We'll use the y coordinate to decide if the patient tests positive.
+// The "critical value" will be different because the conditional probability
+//  is different.
+var isPositive = function (patient) {
+	if (isInfected(patient)) {
+		return patient.test < positiveGivenInfected;
+	}
+	else {
+		return patient.test < positiveGivenNotInfected;
+	}
+}
+
+function addPatient() {
+	var patient = {
+		disease: Math.random(),
+		test: Math.random()
+	};
+	population.push(patient);
+	
+	var circle = svg.append("circle")
+	.attr("id", "p" + population.length)
+	.attr("cx", 0).attr("cy", 0)
+	.attr("r", 5);
+	
+	circle
+	.attr("cx", xScale(patient.disease))
+	.attr("cy", yScale(patient.test))
+	.attr("opacity", 0.7)
+	.attr("stroke-width", 3)
+	.attr("fill", isInfected(patient) ? "red" : "black")
+	.attr("stroke", isPositive(patient) ? "orange" : "");
+
+	var infected = [];
+	var notInfected = [];
+
+	var infectedPositive = [];
+	d3.select("#truepos").text(infectedPositive.length);
+	d3.select("#falseneg").text(infected.length - infectedPositive.length);
+
+	var notInfectedPositive = [];
+	d3.select("#falsepos").text(notInfectedPositive.length);
+	d3.select("#trueneg").text(notInfected.length - notInfectedPositive.length);
+
+	return population.length == populationSize;
+}
+
+
+
+</script>
+
+<h3>Discussion: On the Ball (Times of Oman)</h3>
+
+<p>Sample <a href="http://www.charlesapple.com/uploads/2014/05/1405bCupSamplePageBrazil.jpg">graphic for Brazil</a></p>
+
+<p>Video of <a href="https://vimeo.com/97001010">How it works</a></p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
